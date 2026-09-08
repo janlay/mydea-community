@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "Mydea",
+  "title": "柏林电影节 2026 年获奖名单",
+  "description": "柏林国际电影节 2026 年主竞赛国际评审团主要奖项获奖影片。",
+  "layout": "grid",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "berlinale-2026.list.json"
+    }
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ]
+}

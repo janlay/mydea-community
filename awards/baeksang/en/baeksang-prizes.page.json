@@ -1,0 +1,244 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "title": "Baeksang Arts Awards Prizes",
+  "description": "Baeksang Arts Awards winners by major film and broadcast category from 2017 to 2026.",
+  "tags": [
+    "award",
+    "prize"
+  ],
+  "icon": "ticket",
+  "sections": [
+    {
+      "title": "Baeksang Arts Awards — Film Grand Prize",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "carousel",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "baeksang-film-grand.list.json"
+        }
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "Baeksang Arts Awards — Broadcast Grand Prize",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "baeksang-tv-grand.list.json"
+        }
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "Baeksang Arts Awards — Best Film",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "baeksang-film-best.list.json"
+        }
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "Baeksang Arts Awards — Best Drama",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "baeksang-tv-best.list.json"
+        }
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "Baeksang Arts Awards — Best Director Film",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "baeksang-film-director.list.json"
+        }
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "Baeksang Arts Awards — Best Director Broadcast",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "baeksang-tv-director.list.json"
+        }
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "Baeksang Arts Awards — Best Actor Film",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "baeksang-film-actor.list.json"
+        }
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "Baeksang Arts Awards — Best Actress Film",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "baeksang-film-actress.list.json"
+        }
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "Baeksang Arts Awards — Best Actor Broadcast",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "baeksang-tv-actor.list.json"
+        }
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "Baeksang Arts Awards — Best Actress Broadcast",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "baeksang-tv-actress.list.json"
+        }
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "Mydea",
+  "title": "カンヌ — 短編審査員賞・特別賞",
+  "description": "カンヌ国際映画祭の短編映画部門における歴代受賞作。 短編審査員賞・特別賞.",
+  "layout": "grid",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "cannes-short-film-jury-distinction.list.json"
+    }
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "Mydea",
+  "title": "青龍映画賞 — 新人監督賞",
+  "description": "青龍映画賞新人監督賞の歴代受賞者。",
+  "layout": "grid",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "blue-dragon-best-new-director.list.json"
+    }
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ]
+}

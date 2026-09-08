@@ -1,0 +1,543 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:47:39Z",
+  "title": "Toronto — People's Choice Award",
+  "description": "Historical winners of the TIFF People's Choice Award.",
+  "items": [
+    {
+      "id": "tiff-peoples-choice-1978-girlfriends",
+      "mediaType": "movie",
+      "title": "Girlfriends",
+      "releaseDate": "1978",
+      "externalIds": {
+        "letterboxd": "girlfriends"
+      },
+      "awardYear": 1978,
+      "winner": "Claudia Weill"
+    },
+    {
+      "id": "tiff-peoples-choice-1979-best-boy",
+      "mediaType": "movie",
+      "title": "Best Boy",
+      "releaseDate": "1979",
+      "externalIds": {
+        "letterboxd": "best-boy"
+      },
+      "awardYear": 1979,
+      "winner": "Ira Wohl"
+    },
+    {
+      "id": "tiff-peoples-choice-1980-bad-timing",
+      "mediaType": "movie",
+      "title": "Bad Timing",
+      "releaseDate": "1980",
+      "externalIds": {
+        "letterboxd": "bad-timing"
+      },
+      "awardYear": 1980,
+      "winner": "Nicolas Roeg"
+    },
+    {
+      "id": "tiff-peoples-choice-1981-chariots-of-fire",
+      "mediaType": "movie",
+      "title": "Chariots of Fire",
+      "releaseDate": "1981",
+      "externalIds": {
+        "letterboxd": "chariots-of-fire"
+      },
+      "awardYear": 1981,
+      "winner": "Hugh Hudson"
+    },
+    {
+      "id": "tiff-peoples-choice-1982-tempest",
+      "mediaType": "movie",
+      "title": "Tempest",
+      "releaseDate": "1982",
+      "externalIds": {
+        "letterboxd": "tempest"
+      },
+      "awardYear": 1982,
+      "winner": "Paul Mazursky"
+    },
+    {
+      "id": "tiff-peoples-choice-1983-the-big-chill",
+      "mediaType": "movie",
+      "title": "The Big Chill",
+      "releaseDate": "1983",
+      "externalIds": {
+        "letterboxd": "the-big-chill"
+      },
+      "awardYear": 1983,
+      "winner": "Lawrence Kasdan"
+    },
+    {
+      "id": "tiff-peoples-choice-1984-places-in-the-heart",
+      "mediaType": "movie",
+      "title": "Places in the Heart",
+      "releaseDate": "1984",
+      "externalIds": {
+        "letterboxd": "places-in-the-heart"
+      },
+      "awardYear": 1984,
+      "winner": "Robert Benton"
+    },
+    {
+      "id": "tiff-peoples-choice-1985-the-official-story",
+      "mediaType": "movie",
+      "title": "The Official Story",
+      "releaseDate": "1985",
+      "externalIds": {
+        "letterboxd": "the-official-story"
+      },
+      "awardYear": 1985,
+      "winner": "Luis Puenzo"
+    },
+    {
+      "id": "tiff-peoples-choice-1986-the-decline-of-the-american-empire",
+      "mediaType": "movie",
+      "title": "The Decline of the American Empire",
+      "releaseDate": "1986",
+      "externalIds": {
+        "letterboxd": "the-decline-of-the-american-empire"
+      },
+      "awardYear": 1986,
+      "winner": "Denys Arcand"
+    },
+    {
+      "id": "tiff-peoples-choice-1987-the-princess-bride",
+      "mediaType": "movie",
+      "title": "The Princess Bride",
+      "releaseDate": "1987",
+      "externalIds": {
+        "letterboxd": "the-princess-bride"
+      },
+      "awardYear": 1987,
+      "winner": "Rob Reiner"
+    },
+    {
+      "id": "tiff-peoples-choice-1988-women-on-the-verge-of-a-nervous-breakdown",
+      "mediaType": "movie",
+      "title": "Women on the Verge of a Nervous Breakdown",
+      "releaseDate": "1988",
+      "externalIds": {
+        "letterboxd": "women-on-the-verge-of-a-nervous-breakdown"
+      },
+      "awardYear": 1988,
+      "winner": "Pedro Almodóvar"
+    },
+    {
+      "id": "tiff-peoples-choice-1989-roger-and-me",
+      "mediaType": "movie",
+      "title": "Roger & Me",
+      "releaseDate": "1989",
+      "externalIds": {
+        "letterboxd": "roger-and-me"
+      },
+      "awardYear": 1989,
+      "winner": "Michael Moore"
+    },
+    {
+      "id": "tiff-peoples-choice-1990-cyrano-de-bergerac",
+      "mediaType": "movie",
+      "title": "Cyrano de Bergerac",
+      "releaseDate": "1990",
+      "externalIds": {
+        "letterboxd": "cyrano-de-bergerac"
+      },
+      "awardYear": 1990,
+      "winner": "Jean-Paul Rappeneau"
+    },
+    {
+      "id": "tiff-peoples-choice-1991-the-fisher-king",
+      "mediaType": "movie",
+      "title": "The Fisher King",
+      "releaseDate": "1991",
+      "externalIds": {
+        "letterboxd": "the-fisher-king"
+      },
+      "awardYear": 1991,
+      "winner": "Terry Gilliam"
+    },
+    {
+      "id": "tiff-peoples-choice-1992-strictly-ballroom",
+      "mediaType": "movie",
+      "title": "Strictly Ballroom",
+      "releaseDate": "1992",
+      "externalIds": {
+        "letterboxd": "strictly-ballroom"
+      },
+      "awardYear": 1992,
+      "winner": "Baz Luhrmann"
+    },
+    {
+      "id": "tiff-peoples-choice-1993-the-snapper",
+      "mediaType": "movie",
+      "title": "The Snapper",
+      "releaseDate": "1993",
+      "externalIds": {
+        "letterboxd": "the-snapper"
+      },
+      "awardYear": 1993,
+      "winner": "Stephen Frears"
+    },
+    {
+      "id": "tiff-peoples-choice-1994-priest",
+      "mediaType": "movie",
+      "title": "Priest",
+      "releaseDate": "1994",
+      "externalIds": {
+        "letterboxd": "priest"
+      },
+      "awardYear": 1994,
+      "winner": "Antonia Bird"
+    },
+    {
+      "id": "tiff-peoples-choice-1995-antonia",
+      "mediaType": "movie",
+      "title": "Antonia",
+      "releaseDate": "1995",
+      "externalIds": {
+        "letterboxd": "antonia"
+      },
+      "awardYear": 1995,
+      "winner": "Marleen Gorris"
+    },
+    {
+      "id": "tiff-peoples-choice-1996-shine",
+      "mediaType": "movie",
+      "title": "Shine",
+      "releaseDate": "1996",
+      "externalIds": {
+        "letterboxd": "shine"
+      },
+      "awardYear": 1996,
+      "winner": "Scott Hicks"
+    },
+    {
+      "id": "tiff-peoples-choice-1997-the-hanging-garden",
+      "mediaType": "movie",
+      "title": "The Hanging Garden",
+      "releaseDate": "1997",
+      "externalIds": {
+        "letterboxd": "the-hanging-garden"
+      },
+      "awardYear": 1997,
+      "winner": "Thom Fitzgerald"
+    },
+    {
+      "id": "tiff-peoples-choice-1998-life-is-beautiful",
+      "mediaType": "movie",
+      "title": "Life Is Beautiful",
+      "releaseDate": "1998",
+      "externalIds": {
+        "letterboxd": "life-is-beautiful"
+      },
+      "awardYear": 1998,
+      "winner": "Roberto Benigni"
+    },
+    {
+      "id": "tiff-peoples-choice-1999-american-beauty",
+      "mediaType": "movie",
+      "title": "American Beauty",
+      "releaseDate": "1999",
+      "externalIds": {
+        "letterboxd": "american-beauty"
+      },
+      "awardYear": 1999,
+      "winner": "Sam Mendes"
+    },
+    {
+      "id": "tiff-peoples-choice-2000-crouching-tiger-hidden-dragon",
+      "mediaType": "movie",
+      "title": "Crouching Tiger, Hidden Dragon",
+      "releaseDate": "2000",
+      "externalIds": {
+        "letterboxd": "crouching-tiger-hidden-dragon"
+      },
+      "awardYear": 2000,
+      "winner": "Ang Lee"
+    },
+    {
+      "id": "tiff-peoples-choice-2001-amelie",
+      "mediaType": "movie",
+      "title": "Amélie",
+      "releaseDate": "2001",
+      "externalIds": {
+        "letterboxd": "amelie"
+      },
+      "awardYear": 2001,
+      "winner": "Jean-Pierre Jeunet"
+    },
+    {
+      "id": "tiff-peoples-choice-2002-whale-rider",
+      "mediaType": "movie",
+      "title": "Whale Rider",
+      "releaseDate": "2002",
+      "externalIds": {
+        "letterboxd": "whale-rider"
+      },
+      "awardYear": 2002,
+      "winner": "Niki Caro"
+    },
+    {
+      "id": "tiff-peoples-choice-2003-zatoichi",
+      "mediaType": "movie",
+      "title": "Zatōichi",
+      "releaseDate": "2003",
+      "externalIds": {
+        "letterboxd": "zatoichi"
+      },
+      "awardYear": 2003,
+      "winner": "Takeshi Kitano"
+    },
+    {
+      "id": "tiff-peoples-choice-2004-hotel-rwanda",
+      "mediaType": "movie",
+      "title": "Hotel Rwanda",
+      "releaseDate": "2004",
+      "externalIds": {
+        "letterboxd": "hotel-rwanda"
+      },
+      "awardYear": 2004,
+      "winner": "Terry George"
+    },
+    {
+      "id": "tiff-peoples-choice-2005-tsotsi",
+      "mediaType": "movie",
+      "title": "Tsotsi",
+      "releaseDate": "2005",
+      "externalIds": {
+        "letterboxd": "tsotsi"
+      },
+      "awardYear": 2005,
+      "winner": "Gavin Hood"
+    },
+    {
+      "id": "tiff-peoples-choice-2006-bella",
+      "mediaType": "movie",
+      "title": "Bella",
+      "releaseDate": "2006",
+      "externalIds": {
+        "letterboxd": "bella"
+      },
+      "awardYear": 2006,
+      "winner": "Alejandro Gómez Monteverde"
+    },
+    {
+      "id": "tiff-peoples-choice-2007-eastern-promises",
+      "mediaType": "movie",
+      "title": "Eastern Promises",
+      "releaseDate": "2007",
+      "externalIds": {
+        "letterboxd": "eastern-promises"
+      },
+      "awardYear": 2007,
+      "winner": "David Cronenberg"
+    },
+    {
+      "id": "tiff-peoples-choice-2008-slumdog-millionaire",
+      "mediaType": "movie",
+      "title": "Slumdog Millionaire",
+      "releaseDate": "2008",
+      "externalIds": {
+        "letterboxd": "slumdog-millionaire"
+      },
+      "awardYear": 2008,
+      "winner": "Danny Boyle"
+    },
+    {
+      "id": "tiff-peoples-choice-2009-precious",
+      "mediaType": "movie",
+      "title": "Precious",
+      "releaseDate": "2009",
+      "externalIds": {
+        "letterboxd": "precious"
+      },
+      "awardYear": 2009,
+      "winner": "Lee Daniels"
+    },
+    {
+      "id": "tiff-peoples-choice-2010-the-king-s-speech",
+      "mediaType": "movie",
+      "title": "The King's Speech",
+      "releaseDate": "2010",
+      "externalIds": {
+        "letterboxd": "the-king-s-speech"
+      },
+      "awardYear": 2010,
+      "winner": "Tom Hooper"
+    },
+    {
+      "id": "tiff-peoples-choice-2011-where-do-we-go-now",
+      "mediaType": "movie",
+      "title": "Where Do We Go Now?",
+      "releaseDate": "2011",
+      "externalIds": {
+        "letterboxd": "where-do-we-go-now"
+      },
+      "awardYear": 2011,
+      "winner": "Nadine Labaki"
+    },
+    {
+      "id": "tiff-peoples-choice-2012-silver-linings-playbook",
+      "mediaType": "movie",
+      "title": "Silver Linings Playbook",
+      "releaseDate": "2012",
+      "externalIds": {
+        "letterboxd": "silver-linings-playbook"
+      },
+      "awardYear": 2012,
+      "winner": "David O. Russell"
+    },
+    {
+      "id": "tiff-peoples-choice-2013-12-years-a-slave",
+      "mediaType": "movie",
+      "title": "12 Years a Slave",
+      "releaseDate": "2013",
+      "externalIds": {
+        "letterboxd": "12-years-a-slave"
+      },
+      "awardYear": 2013,
+      "winner": "Steve McQueen"
+    },
+    {
+      "id": "tiff-peoples-choice-2014-the-imitation-game",
+      "mediaType": "movie",
+      "title": "The Imitation Game",
+      "releaseDate": "2014",
+      "externalIds": {
+        "letterboxd": "the-imitation-game"
+      },
+      "awardYear": 2014,
+      "winner": "Morten Tyldum"
+    },
+    {
+      "id": "tiff-peoples-choice-2015-room",
+      "mediaType": "movie",
+      "title": "Room",
+      "releaseDate": "2015",
+      "externalIds": {
+        "letterboxd": "room"
+      },
+      "awardYear": 2015,
+      "winner": "Lenny Abrahamson"
+    },
+    {
+      "id": "tiff-peoples-choice-2016-la-la-land",
+      "mediaType": "movie",
+      "title": "La La Land",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt3783958",
+        "letterboxd": "la-la-land"
+      },
+      "awardYear": 2016,
+      "winner": "Damien Chazelle"
+    },
+    {
+      "id": "tiff-peoples-choice-2017-three-billboards-outside-ebbing-missouri",
+      "mediaType": "movie",
+      "title": "Three Billboards Outside Ebbing, Missouri",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5027774",
+        "letterboxd": "three-billboards-outside-ebbing-missouri"
+      },
+      "awardYear": 2017,
+      "winner": "Martin McDonagh"
+    },
+    {
+      "id": "tiff-peoples-choice-2018-green-book",
+      "mediaType": "movie",
+      "title": "Green Book",
+      "releaseDate": "2018",
+      "externalIds": {
+        "letterboxd": "green-book"
+      },
+      "awardYear": 2018,
+      "winner": "Peter Farrelly"
+    },
+    {
+      "id": "tiff-peoples-choice-2019-jojo-rabbit",
+      "mediaType": "movie",
+      "title": "Jojo Rabbit",
+      "releaseDate": "2019",
+      "externalIds": {
+        "letterboxd": "jojo-rabbit"
+      },
+      "awardYear": 2019,
+      "winner": "Taika Waititi"
+    },
+    {
+      "id": "tiff-peoples-choice-2020-nomadland",
+      "mediaType": "movie",
+      "title": "Nomadland",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt9770150",
+        "letterboxd": "nomadland"
+      },
+      "awardYear": 2020,
+      "winner": "Chloé Zhao"
+    },
+    {
+      "id": "tiff-peoples-choice-2021-belfast",
+      "mediaType": "movie",
+      "title": "Belfast",
+      "releaseDate": "2021",
+      "externalIds": {
+        "letterboxd": "belfast"
+      },
+      "awardYear": 2021,
+      "winner": "Kenneth Branagh"
+    },
+    {
+      "id": "tiff-peoples-choice-2022-the-fabelmans",
+      "mediaType": "movie",
+      "title": "The Fabelmans",
+      "releaseDate": "2022",
+      "externalIds": {
+        "letterboxd": "the-fabelmans"
+      },
+      "awardYear": 2022,
+      "winner": "Steven Spielberg"
+    },
+    {
+      "id": "tiff-peoples-choice-2023-american-fiction",
+      "mediaType": "movie",
+      "title": "American Fiction",
+      "releaseDate": "2023",
+      "externalIds": {
+        "letterboxd": "american-fiction"
+      },
+      "awardYear": 2023,
+      "winner": "Cord Jefferson"
+    },
+    {
+      "id": "tiff-peoples-choice-2024-the-life-of-chuck",
+      "mediaType": "movie",
+      "title": "The Life of Chuck",
+      "releaseDate": "2024",
+      "externalIds": {
+        "letterboxd": "the-life-of-chuck",
+        "tmdb": "842924"
+      },
+      "awardYear": 2024,
+      "winner": "Mike Flanagan"
+    },
+    {
+      "id": "tiff-peoples-choice-2025-hamnet",
+      "mediaType": "movie",
+      "title": "Hamnet",
+      "releaseDate": "2025",
+      "externalIds": {
+        "letterboxd": "hamnet",
+        "tmdb": "858024"
+      },
+      "awardYear": 2025,
+      "winner": "Chloé Zhao"
+    }
+  ]
+}

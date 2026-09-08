@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "Mydea",
+  "title": "Hong Kong Film Awards — Best Supporting Actor",
+  "description": "Complete historical winners of the Hong Kong Film Award for Supporting Actor.",
+  "layout": "grid",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "hkfa-best-supporting-actor.list.json"
+    }
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ]
+}

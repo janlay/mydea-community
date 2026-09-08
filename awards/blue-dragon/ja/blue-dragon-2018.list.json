@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T00:00:00Z",
+  "title": "青龍映画賞 — 2018",
+  "description": "2018年青龍映画賞、主要10部門の受賞記録。",
+  "items": [
+    {
+      "id": "blue-dragon-2018-best-film-1987",
+      "mediaType": "movie",
+      "title": "1987、ある闘いの真実",
+      "originalTitle": "1987",
+      "award": "最優秀作品賞",
+      "awardYear": 2018,
+      "awardOrder": 1,
+      "winner": "チャン・ジュンファン",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6493286"
+      }
+    },
+    {
+      "id": "blue-dragon-2018-best-director-spy-gone-north",
+      "mediaType": "movie",
+      "title": "工作 黒金星（ブラック・ヴィーナス）と呼ばれた男",
+      "originalTitle": "공작",
+      "award": "監督賞",
+      "awardYear": 2018,
+      "awardOrder": 2,
+      "winner": "ユン・ジョンビン",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8290698"
+      }
+    },
+    {
+      "id": "blue-dragon-2018-best-actor-1987",
+      "mediaType": "movie",
+      "title": "1987、ある闘いの真実",
+      "originalTitle": "1987",
+      "award": "主演男優賞",
+      "awardYear": 2018,
+      "awardOrder": 3,
+      "winner": "キム・ユンソク",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6493286"
+      }
+    },
+    {
+      "id": "blue-dragon-2018-best-actress-miss-baek",
+      "mediaType": "movie",
+      "title": "虐待の証明",
+      "originalTitle": "미쓰백",
+      "award": "主演女優賞",
+      "awardYear": 2018,
+      "awardOrder": 4,
+      "winner": "ハン・ジミン",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt6479534"
+      }
+    },
+    {
+      "id": "blue-dragon-2018-best-supporting-actor-believer",
+      "mediaType": "movie",
+      "title": "毒戦 BELIEVER",
+      "originalTitle": "독전",
+      "award": "助演男優賞",
+      "awardYear": 2018,
+      "awardOrder": 5,
+      "winner": "キム・ジュヒョク",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7095654"
+      }
+    },
+    {
+      "id": "blue-dragon-2018-best-supporting-actress-along-gods",
+      "mediaType": "movie",
+      "title": "神と共に 第一章：罪と罰",
+      "originalTitle": "신과함께-죄와 벌",
+      "award": "助演女優賞",
+      "awardYear": 2018,
+      "awardOrder": 6,
+      "winner": "キム・ヒャンギ",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7160070"
+      }
+    },
+    {
+      "id": "blue-dragon-2018-best-new-director-microhabitat",
+      "mediaType": "movie",
+      "title": "Microhabitat",
+      "originalTitle": "소공녀",
+      "award": "新人監督賞",
+      "awardYear": 2018,
+      "awardOrder": 7,
+      "winner": "チョン・ガウン",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt8191502"
+      }
+    },
+    {
+      "id": "blue-dragon-2018-best-new-actor-great-battle",
+      "mediaType": "movie",
+      "title": "The Great Battle",
+      "originalTitle": "안시성",
+      "award": "新人男優賞",
+      "awardYear": 2018,
+      "awardOrder": 8,
+      "winner": "ナム・ジュヒョク",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt6931414"
+      }
+    },
+    {
+      "id": "blue-dragon-2018-best-new-actress-witch",
+      "mediaType": "movie",
+      "title": "The Witch／魔女",
+      "originalTitle": "마녀",
+      "award": "新人女優賞",
+      "awardYear": 2018,
+      "awardOrder": 9,
+      "winner": "キム・ダミ",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8574252"
+      }
+    },
+    {
+      "id": "blue-dragon-2018-best-screenplay-dark-figure-crime",
+      "mediaType": "movie",
+      "title": "Dark Figure of Crime",
+      "originalTitle": "암수살인",
+      "award": "脚本賞",
+      "awardYear": 2018,
+      "awardOrder": 10,
+      "winner": "クァク・キョンテク & キム・テギュン",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8119680"
+      }
+    }
+  ]
+}

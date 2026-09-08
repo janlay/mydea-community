@@ -1,0 +1,12 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://mydea.app/community/registry.schema.json",
+  "type": "object", "required": ["schemaVersion", "repository", "catalogs"],
+  "properties": {"schemaVersion": {"const": 1}, "repository": {"type": "string"}, "catalogs": {"type": "object", "required": ["pages", "sections", "lists", "themes"], "properties": {
+    "pages": {"type": "array", "items": {"type": "string", "pattern": "^[a-z]{2,3}(-[A-Z][a-z]{3})?$"}, "uniqueItems": true},
+    "sections": {"type": "array", "items": {"type": "string", "pattern": "^[a-z]{2,3}(-[A-Z][a-z]{3})?$"}, "uniqueItems": true},
+    "lists": {"type": "array", "items": {"type": "string", "pattern": "^[a-z]{2,3}(-[A-Z][a-z]{3})?$"}, "uniqueItems": true},
+    "themes": {"type": "array", "items": {"const": "."}, "uniqueItems": true}
+  }, "additionalProperties": false}},
+  "additionalProperties": false
+}

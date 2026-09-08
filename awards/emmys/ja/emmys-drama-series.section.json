@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "Mydea",
+  "title": "プライムタイム・エミー賞 — 作品賞 ドラマ・シリーズ部門",
+  "description": "プライムタイム・エミー賞「作品賞 ドラマ・シリーズ部門」の受賞記録。",
+  "layout": "grid",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "emmys-drama-series.list.json"
+    }
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ]
+}

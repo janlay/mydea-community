@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:30:00Z",
+  "title": "柏林影展 2019 年獲獎名單",
+  "description": "柏林影展 2019 年主競賽國際評審團主要獎項獲獎影片。",
+  "items": [
+    {
+      "id": "berlinale-2019-golden-bear-synonyms",
+      "mediaType": "movie",
+      "title": "同義詞",
+      "englishTitle": "Synonyms",
+      "award": "金熊獎",
+      "awardYear": 2019,
+      "awardOrder": 1,
+      "winner": "Nadav Lapid",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt7019942"
+      }
+    },
+    {
+      "id": "berlinale-2019-grand-jury-by-the-grace-of-god",
+      "mediaType": "movie",
+      "title": "感謝上帝",
+      "englishTitle": "By the Grace of God",
+      "award": "評審團大獎",
+      "awardYear": 2019,
+      "awardOrder": 2,
+      "winner": "François Ozon",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt8095860"
+      }
+    },
+    {
+      "id": "berlinale-2019-alfred-bauer-system-crasher",
+      "mediaType": "movie",
+      "title": "系統破壞者",
+      "englishTitle": "System Crasher",
+      "award": "阿爾弗雷德·鮑爾獎",
+      "awardYear": 2019,
+      "awardOrder": 3,
+      "winner": "Nora Fingscheidt",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt8535968"
+      },
+      "backdropPath": "https://image.tmdb.org/t/p/w342/bTRgchpjedlfCKL2TbQPIdvWDtp.jpg"
+    },
+    {
+      "id": "berlinale-2019-best-director-i-was-at-home-but",
+      "mediaType": "movie",
+      "title": "我當時在家，但……",
+      "englishTitle": "I Was at Home, But",
+      "award": "最佳導演銀熊獎",
+      "awardYear": 2019,
+      "awardOrder": 4,
+      "winner": "Angela Schanelec",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt7760890"
+      }
+    },
+    {
+      "id": "berlinale-2019-best-actress-so-long-my-son",
+      "mediaType": "movie",
+      "title": "地久天長",
+      "englishTitle": "So Long, My Son",
+      "award": "最佳女演員銀熊獎",
+      "awardYear": 2019,
+      "awardOrder": 5,
+      "winner": "Yong Mei",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt9581076"
+      },
+      "backdropPath": "https://image.tmdb.org/t/p/w342/zxaZENMHp9tw7YSy6NAPfMmhjKh.jpg"
+    },
+    {
+      "id": "berlinale-2019-best-actor-so-long-my-son",
+      "mediaType": "movie",
+      "title": "地久天長",
+      "englishTitle": "So Long, My Son",
+      "award": "最佳男演員銀熊獎",
+      "awardYear": 2019,
+      "awardOrder": 6,
+      "winner": "Wang Jingchun",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt9581076"
+      },
+      "backdropPath": "https://image.tmdb.org/t/p/w342/zxaZENMHp9tw7YSy6NAPfMmhjKh.jpg"
+    },
+    {
+      "id": "berlinale-2019-best-screenplay-piranhas",
+      "mediaType": "movie",
+      "title": "食人少年幫",
+      "englishTitle": "Piranhas",
+      "award": "最佳編劇銀熊獎",
+      "awardYear": 2019,
+      "awardOrder": 7,
+      "winner": "Maurizio Braucci, Claudio Giovannesi & Roberto Saviano",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt8740778"
+      }
+    },
+    {
+      "id": "berlinale-2019-artistic-contribution-out-stealing-horses",
+      "mediaType": "movie",
+      "title": "外出偷馬",
+      "englishTitle": "Out Stealing Horses",
+      "award": "傑出藝術貢獻銀熊獎",
+      "awardYear": 2019,
+      "awardOrder": 8,
+      "winner": "Rasmus Videbæk",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt7319496"
+      }
+    }
+  ]
+}

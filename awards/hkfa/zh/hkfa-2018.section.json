@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "Mydea",
+  "title": "香港電影金像獎 2018 年得獎名單",
+  "description": "第37屆香港電影金像獎主要獎項得獎作品。",
+  "layout": "grid",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "hkfa-2018.list.json"
+    }
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "Mydea",
+  "title": "サンダンス映画祭 — 2021",
+  "description": "2021年サンダンス映画祭の主要4長編コンペティション審査員大賞の受賞作品。",
+  "layout": "grid",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "sundance-2021.list.json"
+    }
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ]
+}

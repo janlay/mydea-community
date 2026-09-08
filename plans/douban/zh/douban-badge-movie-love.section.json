@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "Mydea",
+  "title": "❤️ 爱情电影徽章",
+  "description": "豆瓣徽章计划「爱情电影徽章」的收藏片单，按豆瓣评分从高到低排列。",
+  "tags": [
+    "douban",
+    "badge",
+    "plan",
+    "genre"
+  ],
+  "layout": "grid",
+  "sortBy": [
+    [
+      "rating.value",
+      "desc"
+    ]
+  ],
+  "service": "douban",
+  "query": "collection",
+  "params": [
+    {
+      "name": "badge_plan_shortcut",
+      "value": "movie_love"
+    },
+    {
+      "name": "collection",
+      "value": "movie_love"
+    }
+  ]
+}

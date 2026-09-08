@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "Mydea",
+  "title": "金馬獎 2020 年核心獎項得獎名單",
+  "description": "第57屆金馬獎核心常設獎項得獎作品，收錄最佳劇情片、導演、男女主角、男女配角、新導演與新演員。",
+  "layout": "grid",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "golden-horse-2020.list.json"
+    }
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ]
+}

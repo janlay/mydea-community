@@ -1,0 +1,735 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "title": "칸 — 감독상",
+  "author": "Mydea",
+  "updatedAt": "2026-09-16T04:43:24Z",
+  "description": "칸 영화제 장편영화 부문의 역대 수상작입니다. 감독상.",
+  "tags": [
+    "award",
+    "cannes",
+    "prize"
+  ],
+  "items": [
+    {
+      "id": "cannes-best-director-1946-the-battle-of-the-rails",
+      "mediaType": "movie",
+      "title": "The Battle of the Rails",
+      "awardYear": 1946,
+      "winner": "René Clément",
+      "externalIds": {
+        "tmdb": "39142"
+      }
+    },
+    {
+      "id": "cannes-best-director-1949-the-walls-of-malapaga",
+      "mediaType": "movie",
+      "title": "The Walls of Malapaga",
+      "awardYear": 1949,
+      "winner": "René Clément",
+      "externalIds": {
+        "tmdb": "65718"
+      }
+    },
+    {
+      "id": "cannes-best-director-1951-los-olvidados",
+      "mediaType": "movie",
+      "title": "Los Olvidados",
+      "awardYear": 1951,
+      "winner": "Luis Buñuel",
+      "externalIds": {
+        "tmdb": "800"
+      }
+    },
+    {
+      "id": "cannes-best-director-1952-fanfan-la-tulipe",
+      "mediaType": "movie",
+      "title": "Fanfan la Tulipe",
+      "awardYear": 1952,
+      "winner": "Christian-Jaque",
+      "externalIds": {
+        "tmdb": "62547"
+      }
+    },
+    {
+      "id": "cannes-best-director-1955-heroes-of-shipka",
+      "mediaType": "movie",
+      "title": "Heroes of Shipka",
+      "awardYear": 1955,
+      "winner": "Sergei Vasilyev",
+      "externalIds": {
+        "tmdb": "199253"
+      }
+    },
+    {
+      "id": "cannes-best-director-1955-rififi",
+      "mediaType": "movie",
+      "title": "Rififi",
+      "awardYear": 1955,
+      "winner": "Jules Dassin",
+      "externalIds": {
+        "tmdb": "934"
+      }
+    },
+    {
+      "id": "cannes-best-director-1956-othello",
+      "mediaType": "movie",
+      "title": "Othello",
+      "awardYear": 1956,
+      "winner": "Sergei Yutkevich",
+      "externalIds": {
+        "tmdb": "47697"
+      }
+    },
+    {
+      "id": "cannes-best-director-1957-a-man-escaped",
+      "mediaType": "movie",
+      "title": "A Man Escaped",
+      "awardYear": 1957,
+      "winner": "Robert Bresson",
+      "externalIds": {
+        "tmdb": "15244"
+      }
+    },
+    {
+      "id": "cannes-best-director-1958-brink-of-life",
+      "mediaType": "movie",
+      "title": "Brink of Life",
+      "awardYear": 1958,
+      "winner": "Ingmar Bergman",
+      "externalIds": {
+        "tmdb": "60899"
+      }
+    },
+    {
+      "id": "cannes-best-director-1959-the-400-blows",
+      "mediaType": "movie",
+      "title": "The 400 Blows",
+      "awardYear": 1959,
+      "winner": "François Truffaut",
+      "externalIds": {
+        "tmdb": "147"
+      }
+    },
+    {
+      "id": "cannes-best-director-1961-chronicle-of-flaming-years",
+      "mediaType": "movie",
+      "title": "Chronicle of Flaming Years",
+      "awardYear": 1961,
+      "winner": "Yuliya Solntseva",
+      "externalIds": {
+        "tmdb": "198902"
+      }
+    },
+    {
+      "id": "cannes-best-director-1965-forest-of-the-hanged",
+      "mediaType": "movie",
+      "title": "Forest of the Hanged",
+      "awardYear": 1965,
+      "winner": "Liviu Ciulei",
+      "externalIds": {
+        "tmdb": "118487"
+      }
+    },
+    {
+      "id": "cannes-best-director-1966-lenin-in-poland",
+      "mediaType": "movie",
+      "title": "Lenin in Poland",
+      "awardYear": 1966,
+      "winner": "Sergei Yutkevich",
+      "externalIds": {
+        "tmdb": "198802"
+      }
+    },
+    {
+      "id": "cannes-best-director-1967-ten-thousand-days",
+      "mediaType": "movie",
+      "title": "Ten Thousand Days",
+      "awardYear": 1967,
+      "winner": "Ferenc Kósa",
+      "externalIds": {
+        "tmdb": "198796"
+      }
+    },
+    {
+      "id": "cannes-best-director-1969-all-my-compatriots",
+      "mediaType": "movie",
+      "title": "All My Compatriots",
+      "awardYear": 1969,
+      "winner": "Vojtěch Jasný",
+      "externalIds": {
+        "imdb": "tt0063791"
+      }
+    },
+    {
+      "id": "cannes-best-director-1969-antonio-das-mortes",
+      "mediaType": "movie",
+      "title": "Antonio das Mortes",
+      "awardYear": 1969,
+      "winner": "Glauber Rocha",
+      "externalIds": {
+        "tmdb": "74349"
+      }
+    },
+    {
+      "id": "cannes-best-director-1970-leo-the-last",
+      "mediaType": "movie",
+      "title": "Leo the Last",
+      "awardYear": 1970,
+      "winner": "John Boorman",
+      "externalIds": {
+        "tmdb": "77333"
+      }
+    },
+    {
+      "id": "cannes-best-director-1972-red-psalm",
+      "mediaType": "movie",
+      "title": "Red Psalm",
+      "awardYear": 1972,
+      "winner": "Miklós Jancsó",
+      "externalIds": {
+        "tmdb": "86732"
+      }
+    },
+    {
+      "id": "cannes-best-director-1975-orders",
+      "mediaType": "movie",
+      "title": "Orders",
+      "awardYear": 1975,
+      "winner": "Michel Brault",
+      "externalIds": {
+        "tmdb": "69765"
+      }
+    },
+    {
+      "id": "cannes-best-director-1975-special-section",
+      "mediaType": "movie",
+      "title": "Special Section",
+      "awardYear": 1975,
+      "winner": "Costa-Gavras",
+      "externalIds": {
+        "tmdb": "79921"
+      }
+    },
+    {
+      "id": "cannes-best-director-1976-down-and-dirty",
+      "mediaType": "movie",
+      "title": "Down and Dirty",
+      "awardYear": 1976,
+      "winner": "Ettore Scola",
+      "externalIds": {
+        "tmdb": "19413"
+      }
+    },
+    {
+      "id": "cannes-best-director-1978-empire-of-passion",
+      "mediaType": "movie",
+      "title": "Empire of Passion",
+      "awardYear": 1978,
+      "winner": "Nagisa Ōshima",
+      "externalIds": {
+        "tmdb": "49096"
+      }
+    },
+    {
+      "id": "cannes-best-director-1979-days-of-heaven",
+      "mediaType": "movie",
+      "title": "Days of Heaven",
+      "awardYear": 1979,
+      "winner": "Terrence Malick",
+      "externalIds": {
+        "tmdb": "16642"
+      }
+    },
+    {
+      "id": "cannes-best-director-1982-fitzcarraldo",
+      "mediaType": "movie",
+      "title": "Fitzcarraldo",
+      "awardYear": 1982,
+      "winner": "Werner Herzog",
+      "externalIds": {
+        "tmdb": "9343"
+      }
+    },
+    {
+      "id": "cannes-best-director-1983-l-argent",
+      "mediaType": "movie",
+      "title": "L'Argent",
+      "awardYear": 1983,
+      "winner": "Robert Bresson",
+      "externalIds": {
+        "tmdb": "42112"
+      }
+    },
+    {
+      "id": "cannes-best-director-1983-nostalghia",
+      "mediaType": "movie",
+      "title": "Nostalghia",
+      "awardYear": 1983,
+      "winner": "Andrei Tarkovsky",
+      "externalIds": {
+        "tmdb": "1394"
+      }
+    },
+    {
+      "id": "cannes-best-director-1984-a-sunday-in-the-country",
+      "mediaType": "movie",
+      "title": "A Sunday in the Country",
+      "awardYear": 1984,
+      "winner": "Bertrand Tavernier",
+      "externalIds": {
+        "tmdb": "42102"
+      }
+    },
+    {
+      "id": "cannes-best-director-1985-rendez-vous",
+      "mediaType": "movie",
+      "title": "Rendez-vous",
+      "awardYear": 1985,
+      "winner": "André Téchiné",
+      "externalIds": {
+        "tmdb": "34093"
+      }
+    },
+    {
+      "id": "cannes-best-director-1986-after-hours",
+      "mediaType": "movie",
+      "title": "After Hours",
+      "awardYear": 1986,
+      "winner": "Martin Scorsese",
+      "externalIds": {
+        "tmdb": "10843"
+      }
+    },
+    {
+      "id": "cannes-best-director-1987-wings-of-desire",
+      "mediaType": "movie",
+      "title": "Wings of Desire",
+      "awardYear": 1987,
+      "winner": "Wim Wenders",
+      "externalIds": {
+        "tmdb": "144"
+      }
+    },
+    {
+      "id": "cannes-best-director-1988-sur",
+      "mediaType": "movie",
+      "title": "Sur",
+      "awardYear": 1988,
+      "winner": "Fernando Solanas",
+      "externalIds": {
+        "tmdb": "46770"
+      }
+    },
+    {
+      "id": "cannes-best-director-1989-time-of-the-gypsies",
+      "mediaType": "movie",
+      "title": "Time of the Gypsies",
+      "awardYear": 1989,
+      "winner": "Emir Kusturica",
+      "externalIds": {
+        "tmdb": "20123"
+      }
+    },
+    {
+      "id": "cannes-best-director-1990-taxi-blues",
+      "mediaType": "movie",
+      "title": "Taxi Blues",
+      "awardYear": 1990,
+      "winner": "Pavel Lungin",
+      "externalIds": {
+        "tmdb": "41842"
+      }
+    },
+    {
+      "id": "cannes-best-director-1991-barton-fink",
+      "mediaType": "movie",
+      "title": "Barton Fink",
+      "awardYear": 1991,
+      "winner": "Joel Coen",
+      "externalIds": {
+        "tmdb": "290"
+      }
+    },
+    {
+      "id": "cannes-best-director-1992-the-player",
+      "mediaType": "movie",
+      "title": "The Player",
+      "awardYear": 1992,
+      "winner": "Robert Altman",
+      "externalIds": {
+        "tmdb": "10403"
+      }
+    },
+    {
+      "id": "cannes-best-director-1993-naked",
+      "mediaType": "movie",
+      "title": "Naked",
+      "awardYear": 1993,
+      "winner": "Mike Leigh",
+      "externalIds": {
+        "tmdb": "21450"
+      }
+    },
+    {
+      "id": "cannes-best-director-1994-caro-diario",
+      "mediaType": "movie",
+      "title": "Caro diario",
+      "awardYear": 1994,
+      "winner": "Nanni Moretti",
+      "externalIds": {
+        "tmdb": "25403"
+      }
+    },
+    {
+      "id": "cannes-best-director-1995-la-haine",
+      "mediaType": "movie",
+      "title": "La Haine",
+      "awardYear": 1995,
+      "winner": "Mathieu Kassovitz",
+      "externalIds": {
+        "tmdb": "406"
+      }
+    },
+    {
+      "id": "cannes-best-director-1996-fargo",
+      "mediaType": "movie",
+      "title": "Fargo",
+      "awardYear": 1996,
+      "winner": "Joel Coen",
+      "externalIds": {
+        "tmdb": "275"
+      }
+    },
+    {
+      "id": "cannes-best-director-1997-happy-together",
+      "mediaType": "movie",
+      "title": "해피 투게더",
+      "awardYear": 1997,
+      "winner": "Wong Kar-wai",
+      "externalIds": {
+        "tmdb": "18329"
+      }
+    },
+    {
+      "id": "cannes-best-director-1998-the-general",
+      "mediaType": "movie",
+      "title": "The General",
+      "awardYear": 1998,
+      "winner": "John Boorman",
+      "externalIds": {
+        "tmdb": "16885"
+      }
+    },
+    {
+      "id": "cannes-best-director-1999-all-about-my-mother",
+      "mediaType": "movie",
+      "title": "All About My Mother",
+      "awardYear": 1999,
+      "winner": "Pedro Almodóvar",
+      "externalIds": {
+        "tmdb": "99"
+      }
+    },
+    {
+      "id": "cannes-best-director-2000-yi-yi",
+      "mediaType": "movie",
+      "title": "Yi Yi",
+      "awardYear": 2000,
+      "winner": "Edward Yang",
+      "externalIds": {
+        "tmdb": "25538"
+      }
+    },
+    {
+      "id": "cannes-best-director-2001-mulholland-drive",
+      "mediaType": "movie",
+      "title": "Mulholland Drive",
+      "awardYear": 2001,
+      "winner": "David Lynch",
+      "externalIds": {
+        "tmdb": "1018"
+      }
+    },
+    {
+      "id": "cannes-best-director-2001-the-man-who-wasn-t-there",
+      "mediaType": "movie",
+      "title": "The Man Who Wasn't There",
+      "awardYear": 2001,
+      "winner": "Joel Coen",
+      "externalIds": {
+        "tmdb": "10778"
+      }
+    },
+    {
+      "id": "cannes-best-director-2002-chi-hwa-seon",
+      "mediaType": "movie",
+      "title": "Chi-hwa-seon",
+      "awardYear": 2002,
+      "winner": "Im Kwon-taek",
+      "externalIds": {
+        "tmdb": "18302"
+      }
+    },
+    {
+      "id": "cannes-best-director-2002-punch-drunk-love",
+      "mediaType": "movie",
+      "title": "Punch-Drunk Love",
+      "awardYear": 2002,
+      "winner": "Paul Thomas Anderson",
+      "externalIds": {
+        "tmdb": "8051"
+      }
+    },
+    {
+      "id": "cannes-best-director-2003-elephant",
+      "mediaType": "movie",
+      "title": "Elephant",
+      "awardYear": 2003,
+      "winner": "Gus Van Sant",
+      "externalIds": {
+        "tmdb": "1807"
+      }
+    },
+    {
+      "id": "cannes-best-director-2004-exils",
+      "mediaType": "movie",
+      "title": "Exils",
+      "awardYear": 2004,
+      "winner": "Tony Gatlif",
+      "externalIds": {
+        "tmdb": "18497"
+      }
+    },
+    {
+      "id": "cannes-best-director-2005-caché",
+      "mediaType": "movie",
+      "title": "Caché",
+      "awardYear": 2005,
+      "winner": "Michael Haneke",
+      "externalIds": {
+        "tmdb": "445"
+      }
+    },
+    {
+      "id": "cannes-best-director-2006-babel",
+      "mediaType": "movie",
+      "title": "Babel",
+      "awardYear": 2006,
+      "winner": "Alejandro González Iñárritu",
+      "externalIds": {
+        "tmdb": "1164"
+      }
+    },
+    {
+      "id": "cannes-best-director-2007-the-diving-bell-and-the-butterfly",
+      "mediaType": "movie",
+      "title": "The Diving Bell and the Butterfly",
+      "awardYear": 2007,
+      "winner": "Julian Schnabel",
+      "externalIds": {
+        "tmdb": "2013"
+      }
+    },
+    {
+      "id": "cannes-best-director-2008-three-monkeys",
+      "mediaType": "movie",
+      "title": "Three Monkeys",
+      "awardYear": 2008,
+      "winner": "Nuri Bilge Ceylan",
+      "externalIds": {
+        "tmdb": "8905"
+      }
+    },
+    {
+      "id": "cannes-best-director-2009-kinatay",
+      "mediaType": "movie",
+      "title": "Kinatay",
+      "awardYear": 2009,
+      "winner": "Brillante Mendoza",
+      "externalIds": {
+        "tmdb": "64450"
+      }
+    },
+    {
+      "id": "cannes-best-director-2010-on-tour",
+      "mediaType": "movie",
+      "title": "On Tour",
+      "awardYear": 2010,
+      "winner": "Mathieu Amalric",
+      "externalIds": {
+        "tmdb": "41273"
+      }
+    },
+    {
+      "id": "cannes-best-director-2011-drive",
+      "mediaType": "movie",
+      "title": "Drive",
+      "awardYear": 2011,
+      "winner": "Nicolas Winding Refn",
+      "externalIds": {
+        "tmdb": "64690"
+      }
+    },
+    {
+      "id": "cannes-best-director-2012-post-tenebras-lux",
+      "mediaType": "movie",
+      "title": "Post Tenebras Lux",
+      "awardYear": 2012,
+      "winner": "Carlos Reygadas",
+      "externalIds": {
+        "tmdb": "103689"
+      }
+    },
+    {
+      "id": "cannes-best-director-2013-heli",
+      "mediaType": "movie",
+      "title": "Heli",
+      "awardYear": 2013,
+      "winner": "Amat Escalante",
+      "externalIds": {
+        "tmdb": "186935"
+      }
+    },
+    {
+      "id": "cannes-best-director-2014-foxcatcher",
+      "mediaType": "movie",
+      "title": "Foxcatcher",
+      "awardYear": 2014,
+      "winner": "Bennett Miller",
+      "externalIds": {
+        "tmdb": "87492"
+      }
+    },
+    {
+      "id": "cannes-best-director-2015-the-assassin",
+      "mediaType": "movie",
+      "title": "The Assassin",
+      "awardYear": 2015,
+      "winner": "Hou Hsiao-hsien",
+      "externalIds": {
+        "tmdb": "319091"
+      }
+    },
+    {
+      "id": "cannes-best-director-2016-graduation",
+      "mediaType": "movie",
+      "title": "Graduation",
+      "awardYear": 2016,
+      "winner": "Cristian Mungiu",
+      "externalIds": {
+        "tmdb": "374458"
+      }
+    },
+    {
+      "id": "cannes-best-director-2016-personal-shopper",
+      "mediaType": "movie",
+      "title": "Personal Shopper",
+      "awardYear": 2016,
+      "winner": "Olivier Assayas",
+      "externalIds": {
+        "tmdb": "340676"
+      }
+    },
+    {
+      "id": "cannes-best-director-2017-the-beguiled",
+      "mediaType": "movie",
+      "title": "The Beguiled",
+      "awardYear": 2017,
+      "winner": "Sofia Coppola",
+      "externalIds": {
+        "tmdb": "399019"
+      }
+    },
+    {
+      "id": "cannes-best-director-2018-cold-war",
+      "mediaType": "movie",
+      "title": "Cold War",
+      "awardYear": 2018,
+      "winner": "Paweł Pawlikowski",
+      "externalIds": {
+        "tmdb": "440298"
+      }
+    },
+    {
+      "id": "cannes-best-director-2019-young-ahmed",
+      "mediaType": "movie",
+      "title": "Young Ahmed",
+      "awardYear": 2019,
+      "winner": "Jean-Pierre Dardenne; Luc Dardenne",
+      "externalIds": {
+        "tmdb": "522373"
+      }
+    },
+    {
+      "id": "cannes-best-director-2021-annette",
+      "mediaType": "movie",
+      "title": "Annette",
+      "awardYear": 2021,
+      "winner": "Leos Carax",
+      "externalIds": {
+        "tmdb": "424277"
+      }
+    },
+    {
+      "id": "cannes-best-director-2022-decision-to-leave",
+      "mediaType": "movie",
+      "title": "헤어질 결심",
+      "awardYear": 2022,
+      "winner": "Park Chan-wook",
+      "externalIds": {
+        "tmdb": "705996"
+      }
+    },
+    {
+      "id": "cannes-best-director-2023-the-taste-of-things",
+      "mediaType": "movie",
+      "title": "The Taste of Things",
+      "awardYear": 2023,
+      "winner": "Tran Anh Hung",
+      "externalIds": {
+        "tmdb": "964960"
+      }
+    },
+    {
+      "id": "cannes-best-director-2024-grand-tour",
+      "mediaType": "movie",
+      "title": "Grand Tour",
+      "awardYear": 2024,
+      "winner": "Miguel Gomes",
+      "externalIds": {
+        "tmdb": "1098709"
+      }
+    },
+    {
+      "id": "cannes-best-director-2025-the-secret-agent",
+      "mediaType": "movie",
+      "title": "시크릿 에이전트",
+      "awardYear": 2025,
+      "winner": "Kleber Mendonça Filho",
+      "externalIds": {
+        "tmdb": "1220564"
+      }
+    },
+    {
+      "id": "cannes-best-director-2026-fatherland",
+      "mediaType": "movie",
+      "title": "Fatherland",
+      "awardYear": 2026,
+      "winner": "Paweł Pawlikowski",
+      "externalIds": {
+        "tmdb": "1437696"
+      }
+    },
+    {
+      "id": "cannes-best-director-2026-la-bola-negra",
+      "mediaType": "movie",
+      "title": "La bola negra",
+      "awardYear": 2026,
+      "winner": "Javier Calvo; Javier Ambrossi",
+      "externalIds": {
+        "tmdb": "1422041"
+      }
+    }
+  ]
+}

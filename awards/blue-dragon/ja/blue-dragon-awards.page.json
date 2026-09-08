@@ -1,0 +1,244 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "title": "青龍映画賞 — 部門別",
+  "description": "青龍映画賞の各部門の全受賞記録。",
+  "tags": [
+    "award",
+    "prize"
+  ],
+  "icon": "ticket",
+  "sections": [
+    {
+      "title": "青龍映画賞 — 最優秀作品賞",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "carousel",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "blue-dragon-best-film.list.json"
+        }
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "青龍映画賞 — 監督賞",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "blue-dragon-best-director.list.json"
+        }
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "青龍映画賞 — 主演男優賞",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "blue-dragon-best-actor.list.json"
+        }
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "青龍映画賞 — 主演女優賞",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "blue-dragon-best-actress.list.json"
+        }
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "青龍映画賞 — 助演男優賞",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "blue-dragon-best-supporting-actor.list.json"
+        }
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "青龍映画賞 — 助演女優賞",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "blue-dragon-best-supporting-actress.list.json"
+        }
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "青龍映画賞 — 新人監督賞",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "blue-dragon-best-new-director.list.json"
+        }
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "青龍映画賞 — 新人男優賞",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "blue-dragon-best-new-actor.list.json"
+        }
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "青龍映画賞 — 新人女優賞",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "blue-dragon-best-new-actress.list.json"
+        }
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "青龍映画賞 — 脚本賞",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "blue-dragon-best-screenplay.list.json"
+        }
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    }
+  ]
+}

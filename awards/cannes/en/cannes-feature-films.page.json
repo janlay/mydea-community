@@ -1,0 +1,177 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "title": "Cannes — Feature Films",
+  "author": "Mydea",
+  "updatedAt": "2026-09-16T04:43:24Z",
+  "description": "Historical Cannes Feature Film awards.",
+  "tags": [
+    "award",
+    "cannes",
+    "prize"
+  ],
+  "icon": "ticket",
+  "sections": [
+    {
+      "title": "Cannes — Palme d’Or",
+      "layout": "carousel",
+      "limit": 10,
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "cannes-palme-dor.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "title with Year"
+      ]
+    },
+    {
+      "title": "Cannes — Grand Prix",
+      "layout": "grid",
+      "limit": 10,
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "cannes-grand-prix.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "title with Year"
+      ]
+    },
+    {
+      "title": "Cannes — Jury Prize",
+      "layout": "grid",
+      "limit": 10,
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "cannes-jury-prize.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "title with Year"
+      ]
+    },
+    {
+      "title": "Cannes — Best Director",
+      "layout": "grid",
+      "limit": 10,
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "cannes-best-director.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "title with Year"
+      ]
+    },
+    {
+      "title": "Cannes — Best Screenplay",
+      "layout": "grid",
+      "limit": 10,
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "cannes-best-screenplay.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "title with Year"
+      ]
+    },
+    {
+      "title": "Cannes — Best Actress",
+      "layout": "grid",
+      "limit": 10,
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "cannes-best-actress.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "title with Year"
+      ]
+    },
+    {
+      "title": "Cannes — Best Actor",
+      "layout": "grid",
+      "limit": 10,
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "cannes-best-actor.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "title with Year"
+      ]
+    }
+  ]
+}

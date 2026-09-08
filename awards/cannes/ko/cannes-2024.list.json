@@ -1,0 +1,350 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T03:05:36Z",
+  "title": "2024 칸 영화제 수상작",
+  "description": "2024년 칸 영화제의 공식 영화 관련 수상작 목록입니다.",
+  "items": [
+    {
+      "id": "cannes-2024-palme-d-or-anora",
+      "mediaType": "movie",
+      "title": "Anora",
+      "award": "황금종려상",
+      "awardYear": 2024,
+      "awardOrder": 1,
+      "winner": "Sean Baker",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt28607951"
+      }
+    },
+    {
+      "id": "cannes-2024-grand-prix-all-we-imagine-as-light",
+      "mediaType": "movie",
+      "title": "All We Imagine as Light",
+      "award": "그랑프리",
+      "awardYear": 2024,
+      "awardOrder": 2,
+      "winner": "Payal Kapadia",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt32086077"
+      }
+    },
+    {
+      "id": "cannes-2024-jury-prize-emilia-p-rez",
+      "mediaType": "movie",
+      "title": "에밀리아 페레즈",
+      "award": "심사위원상",
+      "awardYear": 2024,
+      "awardOrder": 3,
+      "winner": "Jacques Audiard",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt20221436"
+      }
+    },
+    {
+      "id": "cannes-2024-best-director-prize-grand-tour",
+      "mediaType": "movie",
+      "title": "Grand Tour",
+      "award": "감독상",
+      "awardYear": 2024,
+      "awardOrder": 4,
+      "winner": "Miguel Gomes",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt27180099"
+      }
+    },
+    {
+      "id": "cannes-2024-best-performance-for-an-actress-ensemble-emilia-p-rez",
+      "mediaType": "movie",
+      "title": "에밀리아 페레즈",
+      "award": "여우주연상 (앙상블)",
+      "awardYear": 2024,
+      "awardOrder": 5,
+      "winner": "Adriana Paz, Karla Sofía Gascón, Selena Gomez & Zoe Saldaña",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt20221436"
+      }
+    },
+    {
+      "id": "cannes-2024-best-performance-for-an-actor-kinds-of-kindness",
+      "mediaType": "movie",
+      "title": "Kinds of Kindness",
+      "award": "남우주연상",
+      "awardYear": 2024,
+      "awardOrder": 6,
+      "winner": "Jesse Plemons",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt22408160"
+      }
+    },
+    {
+      "id": "cannes-2024-best-screenplay-the-substance",
+      "mediaType": "movie",
+      "title": "서브스턴스",
+      "award": "각본상",
+      "awardYear": 2024,
+      "awardOrder": 7,
+      "winner": "Coralie Fargeat",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt17526714"
+      }
+    },
+    {
+      "id": "cannes-2024-special-prize-the-seed-of-the-sacred-fig",
+      "mediaType": "movie",
+      "title": "The Seed of the Sacred Fig",
+      "award": "특별상",
+      "awardYear": 2024,
+      "awardOrder": 8,
+      "winner": "Mohammad Rasoulof",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt32178949"
+      }
+    },
+    {
+      "id": "cannes-2024-cst-award-for-best-artist-technician-parthenope",
+      "mediaType": "movie",
+      "title": "Parthenope",
+      "award": "CST 최우수 아티스트-테크니션상",
+      "awardYear": 2024,
+      "awardOrder": 9,
+      "winner": "Daria D'Antonio",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt23853982"
+      }
+    },
+    {
+      "id": "cannes-2024-cst-award-for-best-young-female-film-technician-the-balconettes",
+      "mediaType": "movie",
+      "title": "The Balconettes",
+      "award": "CST 젊은 여성 영화기술인상",
+      "awardYear": 2024,
+      "awardOrder": 10,
+      "winner": "Evgenia Alexandrova",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt27721737"
+      }
+    },
+    {
+      "id": "cannes-2024-short-film-palme-d-or-the-man-who-could-not-remain-silent",
+      "mediaType": "movie",
+      "title": "The Man Who Could Not Remain Silent",
+      "award": "단편 황금종려상",
+      "awardYear": 2024,
+      "awardOrder": 11,
+      "winner": "Nebojša Slijepčević",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt20519854"
+      }
+    },
+    {
+      "id": "cannes-2024-short-film-special-distinction-bad-for-a-moment",
+      "mediaType": "movie",
+      "title": "Bad for a Moment",
+      "award": "단편 특별상",
+      "awardYear": 2024,
+      "awardOrder": 12,
+      "winner": "Daniel Soares",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt32205780"
+      }
+    },
+    {
+      "id": "cannes-2024-un-certain-regard-prize-black-dog",
+      "mediaType": "movie",
+      "title": "Black Dog",
+      "award": "주목할 만한 시선상",
+      "awardYear": 2024,
+      "awardOrder": 13,
+      "winner": "Guan Hu",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt28131427"
+      }
+    },
+    {
+      "id": "cannes-2024-un-certain-regard-jury-prize-souleymane-s-story",
+      "mediaType": "movie",
+      "title": "Souleymane's Story",
+      "award": "주목할 만한 시선 심사위원상",
+      "awardYear": 2024,
+      "awardOrder": 14,
+      "winner": "Boris Lojkine",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt32086046"
+      }
+    },
+    {
+      "id": "cannes-2024-un-certain-regard-best-director-ex-aequo-the-damned",
+      "mediaType": "movie",
+      "title": "The Damned",
+      "award": "주목할 만한 시선 감독상 (공동 수상)",
+      "awardYear": 2024,
+      "awardOrder": 15,
+      "winner": "Roberto Minervini",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt29296048"
+      }
+    },
+    {
+      "id": "cannes-2024-un-certain-regard-best-director-ex-aequo-on-becoming-a-guinea-fowl",
+      "mediaType": "movie",
+      "title": "On Becoming a Guinea Fowl",
+      "award": "주목할 만한 시선 감독상 (공동 수상)",
+      "awardYear": 2024,
+      "awardOrder": 16,
+      "winner": "Rungano Nyoni",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt32083311"
+      }
+    },
+    {
+      "id": "cannes-2024-un-certain-regard-best-actress-the-shameless",
+      "mediaType": "movie",
+      "title": "The Shameless",
+      "award": "주목할 만한 시선 여우주연상",
+      "awardYear": 2024,
+      "awardOrder": 17,
+      "winner": "Anasuya Sengupta",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt15437986"
+      }
+    },
+    {
+      "id": "cannes-2024-un-certain-regard-best-actor-souleymane-s-story",
+      "mediaType": "movie",
+      "title": "Souleymane's Story",
+      "award": "주목할 만한 시선 남우주연상",
+      "awardYear": 2024,
+      "awardOrder": 18,
+      "winner": "Abou Sangaré",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt32086046"
+      }
+    },
+    {
+      "id": "cannes-2024-un-certain-regard-youth-award-holy-cow",
+      "mediaType": "movie",
+      "title": "Holy Cow",
+      "award": "주목할 만한 시선 유스상",
+      "awardYear": 2024,
+      "awardOrder": 19,
+      "winner": "Louise Courvoisier",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt32086034"
+      }
+    },
+    {
+      "id": "cannes-2024-un-certain-regard-special-mention-norah",
+      "mediaType": "movie",
+      "title": "Norah",
+      "award": "주목할 만한 시선 특별언급",
+      "awardYear": 2024,
+      "awardOrder": 20,
+      "winner": "Tawfik Alzaidi",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt9376490",
+        "letterboxd": "norah"
+      }
+    },
+    {
+      "id": "cannes-2024-cam-ra-d-or-armand",
+      "mediaType": "movie",
+      "title": "Armand",
+      "award": "황금카메라상",
+      "awardYear": 2024,
+      "awardOrder": 21,
+      "winner": "Halfdan Ullmann Tøndel",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt26745321"
+      }
+    },
+    {
+      "id": "cannes-2024-cam-ra-d-or-special-mention-mongrel",
+      "mediaType": "movie",
+      "title": "Mongrel",
+      "award": "황금카메라 특별언급",
+      "awardYear": 2024,
+      "awardOrder": 22,
+      "winner": "Wei Liang Chiang & You Qiao Yin",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt11101808"
+      }
+    },
+    {
+      "id": "cannes-2024-la-cinef-first-prize-sunflowers-were-the-first-ones-to-know",
+      "mediaType": "movie",
+      "title": "Sunflowers Were the First Ones to Know...",
+      "award": "라 시네프 1등상",
+      "awardYear": 2024,
+      "awardOrder": 23,
+      "winner": "Chidananda S Naik",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt28493138"
+      }
+    },
+    {
+      "id": "cannes-2024-la-cinef-second-prize-ex-aequo-out-the-window-through-the-wall",
+      "mediaType": "movie",
+      "title": "Out the Window Through the Wall",
+      "award": "라 시네프 2등상 (공동 수상)",
+      "awardYear": 2024,
+      "awardOrder": 24,
+      "winner": "Asya Segalovich",
+      "releaseDate": "2024",
+      "externalIds": {
+        "letterboxd": "out-the-window-through-the-wall"
+      }
+    },
+    {
+      "id": "cannes-2024-la-cinef-second-prize-ex-aequo-the-chaos-she-left-behind",
+      "mediaType": "movie",
+      "title": "The Chaos She Left Behind",
+      "award": "라 시네프 2등상 (공동 수상)",
+      "awardYear": 2024,
+      "awardOrder": 25,
+      "winner": "Nikos Kolioukos",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt28520484",
+        "letterboxd": "the-chaos-she-left-behind"
+      }
+    },
+    {
+      "id": "cannes-2024-la-cinef-third-prize-bunnyhood",
+      "mediaType": "movie",
+      "title": "Bunnyhood",
+      "award": "라 시네프 3등상",
+      "awardYear": 2024,
+      "awardOrder": 26,
+      "winner": "Mansi Maheshwari",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt31548153"
+      }
+    }
+  ]
+}

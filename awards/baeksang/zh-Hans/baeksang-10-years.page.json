@@ -1,0 +1,234 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "title": "百想艺术大赏十年",
+  "description": "2017–2026 年百想艺术大赏电影与电视主要奖项获奖作品及获奖者。",
+  "tags": [
+    "award",
+    "decade"
+  ],
+  "icon": "ticket",
+  "sections": [
+    {
+      "title": "百想艺术大赏 — 2026",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "carousel",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "baeksang-2026.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "百想艺术大赏 — 2025",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "baeksang-2025.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "百想艺术大赏 — 2024",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "baeksang-2024.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "百想艺术大赏 — 2023",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "baeksang-2023.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "百想艺术大赏 — 2022",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "baeksang-2022.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "百想艺术大赏 — 2021",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "baeksang-2021.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "百想艺术大赏 — 2020",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "baeksang-2020.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "百想艺术大赏 — 2019",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "baeksang-2019.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "百想艺术大赏 — 2018",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "baeksang-2018.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "百想艺术大赏 — 2017",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "baeksang-2017.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    }
+  ]
+}

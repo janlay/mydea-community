@@ -1,0 +1,212 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "title": "坎城十年",
+  "description": "坎城影展近十年獲獎名單。2020 年因疫情取消，故無該年。",
+  "tags": [
+    "award",
+    "decade"
+  ],
+  "icon": "ticket",
+  "sections": [
+    {
+      "title": "坎城 — 2026",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "carousel",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "cannes-2026.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "坎城 — 2025",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "cannes-2025.list.json"
+        }
+      ],
+      "layout": "grid",
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "坎城 — 2024",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "cannes-2024.list.json"
+        }
+      ],
+      "layout": "grid",
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "坎城 — 2023",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "cannes-2023.list.json"
+        }
+      ],
+      "layout": "grid",
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "坎城 — 2022",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "cannes-2022.list.json"
+        }
+      ],
+      "layout": "grid",
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "坎城 — 2021",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "cannes-2021.list.json"
+        }
+      ],
+      "layout": "grid",
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "坎城 — 2019",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "cannes-2019.list.json"
+        }
+      ],
+      "layout": "grid",
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "坎城 — 2018",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "cannes-2018.list.json"
+        }
+      ],
+      "layout": "grid",
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "坎城 — 2017",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "cannes-2017.list.json"
+        }
+      ],
+      "layout": "grid",
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    }
+  ]
+}

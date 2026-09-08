@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "金球獎 2026",
+  "description": "2026 金球獎主要电影与电视作品类获奖名单。",
+  "items": [
+    {
+      "id": "golden-globes-2026-drama-hamnet",
+      "mediaType": "movie",
+      "title": "哈姆奈特",
+      "englishTitle": "Hamnet",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt14905854"
+      },
+      "award": "最佳劇情片",
+      "awardYear": 2026,
+      "awardOrder": 1,
+      "winner": "哈姆奈特"
+    },
+    {
+      "id": "golden-globes-2026-comedy-one-battle-after-another",
+      "mediaType": "movie",
+      "title": "一戰再戰",
+      "englishTitle": "One Battle After Another",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt30144839"
+      },
+      "award": "最佳音樂或喜劇片",
+      "awardYear": 2026,
+      "awardOrder": 2,
+      "winner": "一戰再戰"
+    },
+    {
+      "id": "golden-globes-2026-animated-kpop-demon-hunters",
+      "mediaType": "movie",
+      "title": "Kpop 獵魔女團",
+      "englishTitle": "KPop Demon Hunters",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt14205554"
+      },
+      "award": "最佳動畫片",
+      "awardYear": 2026,
+      "awardOrder": 3,
+      "winner": "KPop 獵魔女團"
+    },
+    {
+      "id": "golden-globes-2026-foreign-the-secret-agent",
+      "mediaType": "movie",
+      "title": "這不只是個間諜故事",
+      "englishTitle": "The Secret Agent",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt27847051"
+      },
+      "award": "最佳非英語片",
+      "awardYear": 2026,
+      "awardOrder": 4,
+      "winner": "秘密特工"
+    },
+    {
+      "id": "golden-globes-2026-tv_drama-the-pitt",
+      "mediaType": "tv",
+      "title": "匹茲堡醫護前線",
+      "englishTitle": "The Pitt",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31938062"
+      },
+      "award": "最佳劇情類影集",
+      "awardYear": 2026,
+      "awardOrder": 5,
+      "winner": "匹茲堡醫護前線"
+    },
+    {
+      "id": "golden-globes-2026-tv_comedy-the-studio",
+      "mediaType": "tv",
+      "title": "片廠風雲",
+      "englishTitle": "The Studio",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt23649128"
+      },
+      "award": "最佳音樂或喜劇類影集",
+      "awardYear": 2026,
+      "awardOrder": 6,
+      "winner": "片廠風雲"
+    },
+    {
+      "id": "golden-globes-2026-limited-adolescence",
+      "mediaType": "tv",
+      "title": "混沌少年時",
+      "englishTitle": "Adolescence",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31806037"
+      },
+      "award": "最佳有限影集、選集影集或電視電影",
+      "awardYear": 2026,
+      "awardOrder": 7,
+      "winner": "混沌少年時"
+    },
+    {
+      "id": "golden-globes-2026-boxoffice-sinners",
+      "mediaType": "movie",
+      "title": "罪人",
+      "englishTitle": "Sinners",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31193180"
+      },
+      "award": "電影與票房成就獎",
+      "awardYear": 2026,
+      "awardOrder": 8,
+      "winner": "罪人"
+    }
+  ]
+}

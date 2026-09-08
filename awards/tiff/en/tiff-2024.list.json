@@ -1,0 +1,142 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:47:39Z",
+  "title": "Toronto — 2024",
+  "description": "Film award winners at the 2024 Toronto International Film Festival.",
+  "items": [
+    {
+      "id": "tiff-2024-peoples-choice-2024-the-life-of-chuck",
+      "mediaType": "movie",
+      "title": "The Life of Chuck",
+      "releaseDate": "2024",
+      "externalIds": {
+        "letterboxd": "the-life-of-chuck",
+        "tmdb": "842924"
+      },
+      "awardYear": 2024,
+      "winner": "Mike Flanagan",
+      "award": "People's Choice Award",
+      "awardOrder": 1
+    },
+    {
+      "id": "tiff-2024-documentary-peoples-choice-2024-the-tragically-hip-no-dress-rehearsal",
+      "mediaType": "movie",
+      "title": "The Tragically Hip: No Dress Rehearsal",
+      "releaseDate": "2024",
+      "externalIds": {
+        "letterboxd": "the-tragically-hip-no-dress-rehearsal"
+      },
+      "awardYear": 2024,
+      "winner": "Mike Downie",
+      "award": "People's Choice Documentary Award",
+      "awardOrder": 2
+    },
+    {
+      "id": "tiff-2024-midnight-madness-peoples-choice-2024-the-substance",
+      "mediaType": "movie",
+      "title": "The Substance",
+      "releaseDate": "2024",
+      "externalIds": {
+        "letterboxd": "the-substance",
+        "tmdb": "933260"
+      },
+      "awardYear": 2024,
+      "winner": "Coralie Fargeat",
+      "award": "People's Choice Midnight Madness Award",
+      "awardOrder": 3
+    },
+    {
+      "id": "tiff-2024-platform-prize-2024-they-will-be-dust",
+      "mediaType": "movie",
+      "title": "They Will Be Dust",
+      "releaseDate": "2024",
+      "externalIds": {
+        "letterboxd": "they-will-be-dust"
+      },
+      "awardYear": 2024,
+      "winner": "Carlos Marqués-Marcet",
+      "award": "Platform Prize",
+      "awardOrder": 4
+    },
+    {
+      "id": "tiff-2024-best-canadian-feature-2024-shepherds",
+      "mediaType": "movie",
+      "title": "Shepherds",
+      "releaseDate": "2024",
+      "externalIds": {
+        "letterboxd": "shepherds"
+      },
+      "awardYear": 2024,
+      "winner": "Sophie Deraspe",
+      "award": "Best Canadian Feature Film",
+      "awardOrder": 5
+    },
+    {
+      "id": "tiff-2024-best-canadian-discovery-2024-universal-language",
+      "mediaType": "movie",
+      "title": "Universal Language",
+      "releaseDate": "2024",
+      "externalIds": {
+        "letterboxd": "universal-language"
+      },
+      "awardYear": 2024,
+      "winner": "Matthew Rankin",
+      "award": "Best Canadian Discovery",
+      "awardOrder": 6
+    },
+    {
+      "id": "tiff-2024-best-canadian-short-film-2024-are-you-scared-to-be-yourself-because-you-think-that-you-might-fail",
+      "mediaType": "movie",
+      "title": "Are You Scared to Be Yourself Because You Think That You Might Fail?",
+      "releaseDate": "2024",
+      "externalIds": {
+        "letterboxd": "are-you-scared-to-be-yourself-because-you-think-that-you-might-fail"
+      },
+      "awardYear": 2024,
+      "winner": "Bec Pecaut",
+      "award": "Best Canadian Short Film",
+      "awardOrder": 7
+    },
+    {
+      "id": "tiff-2024-best-international-short-film-2024-deck-5b",
+      "mediaType": "movie",
+      "title": "Deck 5B",
+      "releaseDate": "2024",
+      "externalIds": {
+        "letterboxd": "deck-5b"
+      },
+      "awardYear": 2024,
+      "winner": "Malin Ingrid Johansson",
+      "award": "Best International Short Film",
+      "awardOrder": 8
+    },
+    {
+      "id": "tiff-2024-fipresci-prize-2024-mother-mother",
+      "mediaType": "movie",
+      "title": "Mother Mother",
+      "releaseDate": "2024",
+      "externalIds": {
+        "letterboxd": "mother-mother"
+      },
+      "awardYear": 2024,
+      "winner": "K'naan Warsame",
+      "award": "FIPRESCI Prize",
+      "awardOrder": 9
+    },
+    {
+      "id": "tiff-2024-netpac-award-2024-the-last-of-the-sea-women",
+      "mediaType": "movie",
+      "title": "The Last of the Sea Women",
+      "releaseDate": "2024",
+      "externalIds": {
+        "letterboxd": "the-last-of-the-sea-women"
+      },
+      "awardYear": 2024,
+      "winner": "Sue Kim",
+      "award": "NETPAC Award",
+      "awardOrder": 10
+    }
+  ]
+}

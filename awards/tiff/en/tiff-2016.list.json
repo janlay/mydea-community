@@ -1,0 +1,181 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:47:39Z",
+  "title": "Toronto — 2016",
+  "description": "Film award winners at the 2016 Toronto International Film Festival.",
+  "items": [
+    {
+      "id": "tiff-2016-peoples-choice-2016-la-la-land",
+      "mediaType": "movie",
+      "title": "La La Land",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt3783958",
+        "letterboxd": "la-la-land"
+      },
+      "awardYear": 2016,
+      "winner": "Damien Chazelle",
+      "award": "People's Choice Award",
+      "awardOrder": 1
+    },
+    {
+      "id": "tiff-2016-documentary-peoples-choice-2016-i-am-not-your-negro",
+      "mediaType": "movie",
+      "title": "I Am Not Your Negro",
+      "releaseDate": "2016",
+      "externalIds": {
+        "letterboxd": "i-am-not-your-negro"
+      },
+      "awardYear": 2016,
+      "winner": "Raoul Peck",
+      "award": "People's Choice Documentary Award",
+      "awardOrder": 2
+    },
+    {
+      "id": "tiff-2016-midnight-madness-peoples-choice-2016-free-fire",
+      "mediaType": "movie",
+      "title": "Free Fire",
+      "releaseDate": "2016",
+      "externalIds": {
+        "letterboxd": "free-fire"
+      },
+      "awardYear": 2016,
+      "winner": "Ben Wheatley",
+      "award": "People's Choice Midnight Madness Award",
+      "awardOrder": 3
+    },
+    {
+      "id": "tiff-2016-platform-prize-2016-jackie",
+      "mediaType": "movie",
+      "title": "Jackie",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt1619029",
+        "letterboxd": "jackie"
+      },
+      "awardYear": 2016,
+      "winner": "Pablo Larraín",
+      "award": "Platform Prize",
+      "awardOrder": 4
+    },
+    {
+      "id": "tiff-2016-best-canadian-feature-2016-those-who-make-revolution-halfway-only-dig-their-own-graves",
+      "mediaType": "movie",
+      "title": "Those Who Make Revolution Halfway Only Dig Their Own Graves",
+      "releaseDate": "2016",
+      "externalIds": {
+        "letterboxd": "those-who-make-revolution-halfway-only-dig-their-own-graves"
+      },
+      "awardYear": 2016,
+      "winner": "Mathieu Denis & Simon Lavoie",
+      "award": "Best Canadian Feature Film",
+      "awardOrder": 5
+    },
+    {
+      "id": "tiff-2016-best-canadian-discovery-2016-old-stone",
+      "mediaType": "movie",
+      "title": "Old Stone",
+      "releaseDate": "2016",
+      "externalIds": {
+        "letterboxd": "old-stone"
+      },
+      "awardYear": 2016,
+      "winner": "Johnny Ma",
+      "award": "Best Canadian Discovery",
+      "awardOrder": 6
+    },
+    {
+      "id": "tiff-2016-best-canadian-short-film-2016-mutants",
+      "mediaType": "movie",
+      "title": "Mutants",
+      "releaseDate": "2016",
+      "externalIds": {
+        "letterboxd": "mutants"
+      },
+      "awardYear": 2016,
+      "winner": "Alexandre Dostie",
+      "award": "Best Canadian Short Film",
+      "awardOrder": 7
+    },
+    {
+      "id": "tiff-2016-best-canadian-first-feature-2016-old-stone",
+      "mediaType": "movie",
+      "title": "Old Stone",
+      "releaseDate": "2016",
+      "externalIds": {
+        "letterboxd": "old-stone"
+      },
+      "awardYear": 2016,
+      "winner": "Johnny Ma",
+      "award": "Best Canadian First Feature",
+      "awardOrder": 8
+    },
+    {
+      "id": "tiff-2016-dropbox-discovery-programme-filmmakers-award-2016-jeffrey",
+      "mediaType": "movie",
+      "title": "Jeffrey",
+      "releaseDate": "2016",
+      "externalIds": {
+        "letterboxd": "jeffrey"
+      },
+      "awardYear": 2016,
+      "winner": "Yanillys Pérez",
+      "award": "Dropbox Discovery Programme Filmmakers Award",
+      "awardOrder": 9
+    },
+    {
+      "id": "tiff-2016-fipresci-prize-discovery-2016-kati-kati",
+      "mediaType": "movie",
+      "title": "Kati Kati",
+      "releaseDate": "2016",
+      "externalIds": {
+        "letterboxd": "kati-kati"
+      },
+      "awardYear": 2016,
+      "winner": "Mbithi Masya",
+      "award": "FIPRESCI Prize — Discovery",
+      "awardOrder": 10
+    },
+    {
+      "id": "tiff-2016-fipresci-prize-special-presentations-2016-i-am-not-madame-bovary",
+      "mediaType": "movie",
+      "title": "I Am Not Madame Bovary",
+      "releaseDate": "2016",
+      "externalIds": {
+        "letterboxd": "i-am-not-madame-bovary"
+      },
+      "awardYear": 2016,
+      "winner": "Feng Xiaogang",
+      "award": "FIPRESCI Prize — Special Presentations",
+      "awardOrder": 11
+    },
+    {
+      "id": "tiff-2016-best-international-short-film-2016-imago",
+      "mediaType": "movie",
+      "title": "Imago",
+      "releaseDate": "2016",
+      "externalIds": {
+        "letterboxd": "imago"
+      },
+      "awardYear": 2016,
+      "winner": "Raymund Ribay Gutierrez",
+      "award": "Best International Short Film",
+      "awardOrder": 12
+    },
+    {
+      "id": "tiff-2016-netpac-award-2016-in-between",
+      "mediaType": "movie",
+      "title": "In Between",
+      "releaseDate": "2016",
+      "externalIds": {
+        "letterboxd": "in-between"
+      },
+      "awardYear": 2016,
+      "winner": "Maysaloun Hamoud",
+      "award": "NETPAC Award",
+      "awardOrder": 13
+    }
+  ]
+}

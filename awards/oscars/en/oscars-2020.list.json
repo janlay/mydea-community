@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T05:03:58Z",
+  "title": "Oscars 2020 Winners",
+  "description": "Winners in core film categories at the 92nd Academy Awards.",
+  "items": [
+    {
+      "id": "oscars-2020-best-picture-parasite",
+      "mediaType": "movie",
+      "title": "Parasite",
+      "award": "Best Picture",
+      "awardYear": 2020,
+      "awardOrder": 1,
+      "winner": "Kwak Sin-ae & Bong Joon Ho",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6751668"
+      }
+    },
+    {
+      "id": "oscars-2020-best-director-parasite",
+      "mediaType": "movie",
+      "title": "Parasite",
+      "award": "Best Director",
+      "awardYear": 2020,
+      "awardOrder": 2,
+      "winner": "Bong Joon Ho",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6751668"
+      }
+    },
+    {
+      "id": "oscars-2020-best-actor-joker",
+      "mediaType": "movie",
+      "title": "Joker",
+      "award": "Best Actor",
+      "awardYear": 2020,
+      "awardOrder": 3,
+      "winner": "Joaquin Phoenix",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt7286456"
+      }
+    },
+    {
+      "id": "oscars-2020-best-actress-judy",
+      "mediaType": "movie",
+      "title": "Judy",
+      "award": "Best Actress",
+      "awardYear": 2020,
+      "awardOrder": 4,
+      "winner": "Renée Zellweger",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt7549996"
+      }
+    },
+    {
+      "id": "oscars-2020-best-supporting-actor-once-upon-a-time-in-hollywood",
+      "mediaType": "movie",
+      "title": "Once Upon a Time... in Hollywood",
+      "award": "Best Supporting Actor",
+      "awardYear": 2020,
+      "awardOrder": 5,
+      "winner": "Brad Pitt",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt7131622"
+      }
+    },
+    {
+      "id": "oscars-2020-best-supporting-actress-marriage-story",
+      "mediaType": "movie",
+      "title": "Marriage Story",
+      "award": "Best Supporting Actress",
+      "awardYear": 2020,
+      "awardOrder": 6,
+      "winner": "Laura Dern",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt7653254"
+      }
+    },
+    {
+      "id": "oscars-2020-best-original-screenplay-parasite",
+      "mediaType": "movie",
+      "title": "Parasite",
+      "award": "Best Original Screenplay",
+      "awardYear": 2020,
+      "awardOrder": 7,
+      "winner": "Bong Joon Ho & Han Jin Won",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6751668"
+      }
+    },
+    {
+      "id": "oscars-2020-best-adapted-screenplay-jojo-rabbit",
+      "mediaType": "movie",
+      "title": "Jojo Rabbit",
+      "award": "Best Adapted Screenplay",
+      "awardYear": 2020,
+      "awardOrder": 8,
+      "winner": "Taika Waititi",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt2584384"
+      }
+    },
+    {
+      "id": "oscars-2020-best-animated-feature-toy-story-4",
+      "mediaType": "movie",
+      "title": "Toy Story 4",
+      "award": "Best Animated Feature",
+      "awardYear": 2020,
+      "awardOrder": 9,
+      "winner": "Josh Cooley, Mark Nielsen & Jonas Rivera",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt1979376"
+      }
+    },
+    {
+      "id": "oscars-2020-best-international-feature-parasite",
+      "mediaType": "movie",
+      "title": "Parasite",
+      "award": "Best International Feature Film",
+      "awardYear": 2020,
+      "awardOrder": 10,
+      "winner": "South Korea",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6751668"
+      }
+    }
+  ]
+}

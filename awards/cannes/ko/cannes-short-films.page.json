@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "title": "칸 — 단편영화상",
+  "author": "Mydea",
+  "updatedAt": "2026-09-16T04:43:24Z",
+  "description": "칸 영화제 단편영화 부문의 역대 수상작입니다.",
+  "tags": [
+    "award",
+    "cannes",
+    "prize"
+  ],
+  "icon": "ticket",
+  "sections": [
+    {
+      "title": "칸 — 단편 황금종려상",
+      "layout": "carousel",
+      "limit": 10,
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "cannes-short-film-palme-dor.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "칸 — 단편 심사위원상·특별상",
+      "layout": "grid",
+      "limit": 10,
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "cannes-short-film-jury-distinction.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    }
+  ]
+}

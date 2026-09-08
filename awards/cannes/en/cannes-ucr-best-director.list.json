@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "title": "Cannes — Un Certain Regard Best Director",
+  "author": "Mydea",
+  "updatedAt": "2026-09-16T04:43:24Z",
+  "description": "Historical Un Certain Regard awards. Un Certain Regard Best Director.",
+  "tags": [
+    "award",
+    "cannes",
+    "prize"
+  ],
+  "items": [
+    {
+      "id": "cannes-ucr-director-2011-goodbye",
+      "mediaType": "movie",
+      "title": "Goodbye",
+      "awardYear": 2011,
+      "winner": "Mohammad Rasoulof"
+    },
+    {
+      "id": "cannes-ucr-director-2013-stranger-by-the-lake",
+      "mediaType": "movie",
+      "title": "Stranger by the Lake",
+      "awardYear": 2013,
+      "winner": "Alain Guiraudie"
+    },
+    {
+      "id": "cannes-ucr-director-2015-journey-to-the-shore",
+      "mediaType": "movie",
+      "title": "Journey to the Shore",
+      "awardYear": 2015,
+      "winner": "Kiyoshi Kurosawa"
+    },
+    {
+      "id": "cannes-ucr-director-2016-captain-fantastic",
+      "mediaType": "movie",
+      "title": "Captain Fantastic",
+      "awardYear": 2016,
+      "winner": "Matt Ross"
+    },
+    {
+      "id": "cannes-ucr-director-2017-wind-river",
+      "mediaType": "movie",
+      "title": "Wind River",
+      "awardYear": 2017,
+      "winner": "Taylor Sheridan",
+      "externalIds": {
+        "imdb": "tt5362988"
+      },
+      "releaseDate": "2017"
+    },
+    {
+      "id": "cannes-ucr-director-2018-donbass",
+      "mediaType": "movie",
+      "title": "Donbass",
+      "awardYear": 2018,
+      "winner": "Sergei Loznitsa",
+      "externalIds": {
+        "imdb": "tt8282042"
+      },
+      "releaseDate": "2018"
+    },
+    {
+      "id": "cannes-ucr-director-2019-beanpole",
+      "mediaType": "movie",
+      "title": "Beanpole",
+      "awardYear": 2019,
+      "winner": "Kantemir Balagov",
+      "externalIds": {
+        "imdb": "tt10199640"
+      },
+      "releaseDate": "2019"
+    },
+    {
+      "id": "cannes-ucr-director-2022-metronom",
+      "mediaType": "movie",
+      "title": "Metronom",
+      "awardYear": 2022,
+      "winner": "Alexandru Belc",
+      "externalIds": {
+        "imdb": "tt12253164"
+      },
+      "releaseDate": "2022"
+    },
+    {
+      "id": "cannes-ucr-director-2023-the-mother-of-all-lies",
+      "mediaType": "movie",
+      "title": "The Mother of All Lies",
+      "awardYear": 2023,
+      "winner": "Asmae El Moudir",
+      "externalIds": {
+        "imdb": "tt15307068"
+      },
+      "releaseDate": "2023"
+    },
+    {
+      "id": "cannes-ucr-director-2024-on-becoming-a-guinea-fowl",
+      "mediaType": "movie",
+      "title": "On Becoming a Guinea Fowl",
+      "awardYear": 2024,
+      "winner": "Rungano Nyoni",
+      "externalIds": {
+        "imdb": "tt32083311"
+      },
+      "releaseDate": "2024"
+    },
+    {
+      "id": "cannes-ucr-director-2024-the-damned",
+      "mediaType": "movie",
+      "title": "The Damned",
+      "awardYear": 2024,
+      "winner": "Roberto Minervini",
+      "externalIds": {
+        "imdb": "tt29296048"
+      },
+      "releaseDate": "2024"
+    },
+    {
+      "id": "cannes-ucr-director-2025-once-upon-a-time-in-gaza",
+      "mediaType": "movie",
+      "title": "Once Upon a Time in Gaza",
+      "awardYear": 2025,
+      "winner": "Arab Nasser & Tarzan Nasser",
+      "externalIds": {
+        "imdb": "tt34734841"
+      },
+      "releaseDate": "2025"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-16T04:39:02Z",
+  "title": "Sundance Film Festival 2023 Award Winners",
+  "description": "Winners of the four core feature Grand Jury Prizes at the 2023 Sundance Film Festival.",
+  "tags": [
+    "award",
+    "park-city",
+    "decade"
+  ],
+  "items": [
+    {
+      "id": "sundance-us-dramatic-2023-a-thousand-and-one",
+      "mediaType": "movie",
+      "title": "A Thousand and One",
+      "award": "U.S. Grand Jury Prize: Dramatic",
+      "awardYear": 2023,
+      "awardOrder": 1,
+      "winner": "A.V. Rockwell",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt12427158"
+      }
+    },
+    {
+      "id": "sundance-us-documentary-2023-going-to-mars-the-nikki-giovanni-project",
+      "mediaType": "movie",
+      "title": "Going to Mars: The Nikki Giovanni Project",
+      "award": "U.S. Grand Jury Prize: Documentary",
+      "awardYear": 2023,
+      "awardOrder": 2,
+      "winner": "Joe Brewster & Michèle Stephenson",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt7196012"
+      }
+    },
+    {
+      "id": "sundance-world-dramatic-2023-scrapper",
+      "mediaType": "movie",
+      "title": "Scrapper",
+      "award": "World Cinema Grand Jury Prize: Dramatic",
+      "awardYear": 2023,
+      "awardOrder": 3,
+      "winner": "Charlotte Regan",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt8649252"
+      }
+    },
+    {
+      "id": "sundance-world-documentary-2023-the-eternal-memory",
+      "mediaType": "movie",
+      "title": "The Eternal Memory",
+      "originalTitle": "La memoria infinita",
+      "award": "World Cinema Grand Jury Prize: Documentary",
+      "awardYear": 2023,
+      "awardOrder": 4,
+      "winner": "Maite Alberdi",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt24082488"
+      }
+    }
+  ]
+}

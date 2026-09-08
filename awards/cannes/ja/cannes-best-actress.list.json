@@ -1,0 +1,905 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "title": "カンヌ — 女優賞",
+  "author": "Mydea",
+  "updatedAt": "2026-09-16T04:43:24Z",
+  "description": "カンヌ国際映画祭の長編映画部門における歴代受賞作。 女優賞.",
+  "tags": [
+    "award",
+    "cannes",
+    "prize"
+  ],
+  "items": [
+    {
+      "id": "cannes-best-actress-1946-pastoral-symphony",
+      "mediaType": "movie",
+      "title": "Pastoral Symphony",
+      "awardYear": 1946,
+      "winner": "Michèle Morgan",
+      "externalIds": {
+        "tmdb": "117500"
+      }
+    },
+    {
+      "id": "cannes-best-actress-1949-the-walls-of-malapaga",
+      "mediaType": "movie",
+      "title": "The Walls of Malapaga",
+      "awardYear": 1949,
+      "winner": "Isa Miranda",
+      "externalIds": {
+        "tmdb": "65718"
+      }
+    },
+    {
+      "id": "cannes-best-actress-1951-all-about-eve",
+      "mediaType": "movie",
+      "title": "All About Eve",
+      "awardYear": 1951,
+      "winner": "Bette Davis",
+      "externalIds": {
+        "tmdb": "705"
+      }
+    },
+    {
+      "id": "cannes-best-actress-1952-detective-story",
+      "mediaType": "movie",
+      "title": "Detective Story",
+      "awardYear": 1952,
+      "winner": "Lee Grant",
+      "externalIds": {
+        "tmdb": "20853"
+      }
+    },
+    {
+      "id": "cannes-best-actress-1955-a-big-family",
+      "mediaType": "movie",
+      "title": "A Big Family",
+      "awardYear": 1955,
+      "winner": "Elena Dobronravova; Vera Kuznetsova; Klara Luchko; Ekaterina Savinova; Iya Arepina; Larisa Kronberg",
+      "externalIds": {
+        "tmdb": "199248"
+      }
+    },
+    {
+      "id": "cannes-best-actress-1956-i-ll-cry-tomorrow",
+      "mediaType": "movie",
+      "title": "I'll Cry Tomorrow",
+      "awardYear": 1956,
+      "winner": "Susan Hayward",
+      "externalIds": {
+        "tmdb": "28575"
+      }
+    },
+    {
+      "id": "cannes-best-actress-1957-nights-of-cabiria",
+      "mediaType": "movie",
+      "title": "Nights of Cabiria",
+      "awardYear": 1957,
+      "winner": "Giulietta Masina",
+      "externalIds": {
+        "tmdb": "19426"
+      }
+    },
+    {
+      "id": "cannes-best-actress-1958-brink-of-life",
+      "mediaType": "movie",
+      "title": "Brink of Life",
+      "awardYear": 1958,
+      "winner": "Bibi Andersson; Eva Dahlbeck; Barbro Hiort af Ornäs; Ingrid Thulin",
+      "externalIds": {
+        "tmdb": "60899"
+      }
+    },
+    {
+      "id": "cannes-best-actress-1959-room-at-the-top",
+      "mediaType": "movie",
+      "title": "Room at the Top",
+      "awardYear": 1959,
+      "winner": "Simone Signoret",
+      "externalIds": {
+        "tmdb": "43103"
+      }
+    },
+    {
+      "id": "cannes-best-actress-1960-never-on-sunday",
+      "mediaType": "movie",
+      "title": "Never on Sunday",
+      "awardYear": 1960,
+      "winner": "Melina Mercouri",
+      "externalIds": {
+        "tmdb": "43039"
+      }
+    },
+    {
+      "id": "cannes-best-actress-1960-seven-days-seven-nights",
+      "mediaType": "movie",
+      "title": "Seven Days... Seven Nights",
+      "awardYear": 1960,
+      "winner": "Jeanne Moreau",
+      "externalIds": {
+        "tmdb": "83662"
+      }
+    },
+    {
+      "id": "cannes-best-actress-1961-two-women",
+      "mediaType": "movie",
+      "title": "Two Women",
+      "awardYear": 1961,
+      "winner": "Sophia Loren",
+      "externalIds": {
+        "tmdb": "24167"
+      }
+    },
+    {
+      "id": "cannes-best-actress-1962-a-taste-of-honey",
+      "mediaType": "movie",
+      "title": "A Taste of Honey",
+      "awardYear": 1962,
+      "winner": "Rita Tushingham",
+      "externalIds": {
+        "tmdb": "25062"
+      }
+    },
+    {
+      "id": "cannes-best-actress-1962-long-day-s-journey-into-night",
+      "mediaType": "movie",
+      "title": "Long Day's Journey into Night",
+      "awardYear": 1962,
+      "winner": "Katharine Hepburn",
+      "externalIds": {
+        "tmdb": "43004"
+      }
+    },
+    {
+      "id": "cannes-best-actress-1963-the-conjugal-bed",
+      "mediaType": "movie",
+      "title": "The Conjugal Bed",
+      "awardYear": 1963,
+      "winner": "Marina Vlady",
+      "externalIds": {
+        "tmdb": "67378"
+      }
+    },
+    {
+      "id": "cannes-best-actress-1964-one-potato-two-potato",
+      "mediaType": "movie",
+      "title": "One Potato, Two Potato",
+      "awardYear": 1964,
+      "winner": "Barbara Barrie",
+      "externalIds": {
+        "tmdb": "143841"
+      }
+    },
+    {
+      "id": "cannes-best-actress-1964-the-pumpkin-eater",
+      "mediaType": "movie",
+      "title": "The Pumpkin Eater",
+      "awardYear": 1964,
+      "winner": "Anne Bancroft",
+      "externalIds": {
+        "tmdb": "69557"
+      }
+    },
+    {
+      "id": "cannes-best-actress-1965-the-collector",
+      "mediaType": "movie",
+      "title": "The Collector",
+      "awardYear": 1965,
+      "winner": "Samantha Eggar",
+      "externalIds": {
+        "tmdb": "42740"
+      }
+    },
+    {
+      "id": "cannes-best-actress-1966-morgan-a-suitable-case-for-treatment",
+      "mediaType": "movie",
+      "title": "Morgan – A Suitable Case for Treatment",
+      "awardYear": 1966,
+      "winner": "Vanessa Redgrave",
+      "externalIds": {
+        "tmdb": "42724"
+      }
+    },
+    {
+      "id": "cannes-best-actress-1967-elvira-madigan",
+      "mediaType": "movie",
+      "title": "Elvira Madigan",
+      "awardYear": 1967,
+      "winner": "Pia Degermark",
+      "externalIds": {
+        "tmdb": "42692"
+      }
+    },
+    {
+      "id": "cannes-best-actress-1969-isadora",
+      "mediaType": "movie",
+      "title": "Isadora",
+      "awardYear": 1969,
+      "winner": "Vanessa Redgrave",
+      "externalIds": {
+        "tmdb": "42626"
+      }
+    },
+    {
+      "id": "cannes-best-actress-1970-metello",
+      "mediaType": "movie",
+      "title": "Metello",
+      "awardYear": 1970,
+      "winner": "Ottavia Piccolo",
+      "externalIds": {
+        "tmdb": "198661"
+      }
+    },
+    {
+      "id": "cannes-best-actress-1971-the-panic-in-needle-park",
+      "mediaType": "movie",
+      "title": "The Panic in Needle Park",
+      "awardYear": 1971,
+      "winner": "Kitty Winn",
+      "externalIds": {
+        "tmdb": "27554"
+      }
+    },
+    {
+      "id": "cannes-best-actress-1972-images",
+      "mediaType": "movie",
+      "title": "Images",
+      "awardYear": 1972,
+      "winner": "Susannah York",
+      "externalIds": {
+        "tmdb": "29449"
+      }
+    },
+    {
+      "id": "cannes-best-actress-1973-the-effect-of-gamma-rays-on-man-in-the-moon-marigolds",
+      "mediaType": "movie",
+      "title": "The Effect of Gamma Rays on Man-in-the-Moon Marigolds",
+      "awardYear": 1973,
+      "winner": "Joanne Woodward",
+      "externalIds": {
+        "tmdb": "88875"
+      }
+    },
+    {
+      "id": "cannes-best-actress-1974-violins-at-the-ball",
+      "mediaType": "movie",
+      "title": "Violins at the Ball",
+      "awardYear": 1974,
+      "winner": "Marie-José Nat",
+      "externalIds": {
+        "tmdb": "198537"
+      }
+    },
+    {
+      "id": "cannes-best-actress-1975-lenny",
+      "mediaType": "movie",
+      "title": "Lenny",
+      "awardYear": 1975,
+      "winner": "Valérie Perrine",
+      "externalIds": {
+        "tmdb": "27094"
+      }
+    },
+    {
+      "id": "cannes-best-actress-1976-mrs-dery-where-are-you",
+      "mediaType": "movie",
+      "title": "Mrs. Dery Where Are You?",
+      "awardYear": 1976,
+      "winner": "Mari Törőcsik",
+      "externalIds": {
+        "tmdb": "198522"
+      }
+    },
+    {
+      "id": "cannes-best-actress-1976-the-inheritance",
+      "mediaType": "movie",
+      "title": "The Inheritance",
+      "awardYear": 1976,
+      "winner": "Dominique Sanda",
+      "externalIds": {
+        "tmdb": "106224"
+      }
+    },
+    {
+      "id": "cannes-best-actress-1977-3-women",
+      "mediaType": "movie",
+      "title": "3 Women",
+      "awardYear": 1977,
+      "winner": "Shelley Duvall",
+      "externalIds": {
+        "tmdb": "41662"
+      }
+    },
+    {
+      "id": "cannes-best-actress-1977-j-a-martin-photographer",
+      "mediaType": "movie",
+      "title": "J.A. Martin Photographer",
+      "awardYear": 1977,
+      "winner": "Monique Mercure",
+      "externalIds": {
+        "tmdb": "92799"
+      }
+    },
+    {
+      "id": "cannes-best-actress-1978-an-unmarried-woman",
+      "mediaType": "movie",
+      "title": "An Unmarried Woman",
+      "awardYear": 1978,
+      "winner": "Jill Clayburgh",
+      "externalIds": {
+        "tmdb": "38731"
+      }
+    },
+    {
+      "id": "cannes-best-actress-1978-violette-nozière",
+      "mediaType": "movie",
+      "title": "Violette Nozière",
+      "awardYear": 1978,
+      "winner": "Isabelle Huppert",
+      "externalIds": {
+        "tmdb": "2813"
+      }
+    },
+    {
+      "id": "cannes-best-actress-1979-norma-rae",
+      "mediaType": "movie",
+      "title": "Norma Rae",
+      "awardYear": 1979,
+      "winner": "Sally Field",
+      "externalIds": {
+        "tmdb": "40842"
+      }
+    },
+    {
+      "id": "cannes-best-actress-1979-woyzeck",
+      "mediaType": "movie",
+      "title": "Woyzeck",
+      "awardYear": 1979,
+      "winner": "Eva Mattes",
+      "externalIds": {
+        "tmdb": "10319"
+      }
+    },
+    {
+      "id": "cannes-best-actress-1980-a-leap-in-the-dark",
+      "mediaType": "movie",
+      "title": "A Leap in the Dark",
+      "awardYear": 1980,
+      "winner": "Anouk Aimée",
+      "externalIds": {
+        "tmdb": "51882"
+      }
+    },
+    {
+      "id": "cannes-best-actress-1980-la-terrazza",
+      "mediaType": "movie",
+      "title": "La terrazza",
+      "awardYear": 1980,
+      "winner": "Carla Gravina",
+      "externalIds": {
+        "tmdb": "77334"
+      }
+    },
+    {
+      "id": "cannes-best-actress-1980-special-treatment",
+      "mediaType": "movie",
+      "title": "Special Treatment",
+      "awardYear": 1980,
+      "winner": "Milena Dravić",
+      "externalIds": {
+        "tmdb": "76711"
+      }
+    },
+    {
+      "id": "cannes-best-actress-1981-faktas",
+      "mediaType": "movie",
+      "title": "Faktas",
+      "awardYear": 1981,
+      "winner": "Elena Solovey",
+      "externalIds": {
+        "tmdb": "198494"
+      }
+    },
+    {
+      "id": "cannes-best-actress-1981-possession",
+      "mediaType": "movie",
+      "title": "Possession",
+      "awardYear": 1981,
+      "winner": "Isabelle Adjani",
+      "externalIds": {
+        "tmdb": "21484"
+      }
+    },
+    {
+      "id": "cannes-best-actress-1981-quartet",
+      "mediaType": "movie",
+      "title": "Quartet",
+      "awardYear": 1981,
+      "winner": "Isabelle Adjani",
+      "externalIds": {
+        "tmdb": "67022"
+      }
+    },
+    {
+      "id": "cannes-best-actress-1982-another-way",
+      "mediaType": "movie",
+      "title": "Another Way",
+      "awardYear": 1982,
+      "winner": "Jadwiga Jankowska-Cieślak",
+      "externalIds": {
+        "tmdb": "100215"
+      }
+    },
+    {
+      "id": "cannes-best-actress-1983-the-story-of-piera",
+      "mediaType": "movie",
+      "title": "The Story of Piera",
+      "awardYear": 1983,
+      "winner": "Hanna Schygulla",
+      "externalIds": {
+        "tmdb": "53914"
+      }
+    },
+    {
+      "id": "cannes-best-actress-1984-cal",
+      "mediaType": "movie",
+      "title": "Cal",
+      "awardYear": 1984,
+      "winner": "Helen Mirren",
+      "externalIds": {
+        "tmdb": "42084"
+      }
+    },
+    {
+      "id": "cannes-best-actress-1985-mask",
+      "mediaType": "movie",
+      "title": "Mask",
+      "awardYear": 1985,
+      "winner": "Cher",
+      "externalIds": {
+        "tmdb": "11177"
+      }
+    },
+    {
+      "id": "cannes-best-actress-1985-the-official-story",
+      "mediaType": "movie",
+      "title": "The Official Story",
+      "awardYear": 1985,
+      "winner": "Norma Aleandro",
+      "externalIds": {
+        "tmdb": "29263"
+      }
+    },
+    {
+      "id": "cannes-best-actress-1986-love-me-forever-or-never",
+      "mediaType": "movie",
+      "title": "Love Me Forever or Never",
+      "awardYear": 1986,
+      "winner": "Fernanda Torres",
+      "externalIds": {
+        "tmdb": "74649"
+      }
+    },
+    {
+      "id": "cannes-best-actress-1986-rosa-luxemburg",
+      "mediaType": "movie",
+      "title": "Rosa Luxemburg",
+      "awardYear": 1986,
+      "winner": "Barbara Sukowa",
+      "externalIds": {
+        "tmdb": "55562"
+      }
+    },
+    {
+      "id": "cannes-best-actress-1987-shy-people",
+      "mediaType": "movie",
+      "title": "Shy People",
+      "awardYear": 1987,
+      "winner": "Barbara Hershey",
+      "externalIds": {
+        "tmdb": "69040"
+      }
+    },
+    {
+      "id": "cannes-best-actress-1988-a-world-apart",
+      "mediaType": "movie",
+      "title": "A World Apart",
+      "awardYear": 1988,
+      "winner": "Barbara Hershey; Jodhi May; Linda Mvusi",
+      "externalIds": {
+        "tmdb": "41949"
+      }
+    },
+    {
+      "id": "cannes-best-actress-1989-a-cry-in-the-dark",
+      "mediaType": "movie",
+      "title": "A Cry in the Dark",
+      "awardYear": 1989,
+      "winner": "Meryl Streep",
+      "externalIds": {
+        "tmdb": "35119"
+      }
+    },
+    {
+      "id": "cannes-best-actress-1990-the-long-walk-home",
+      "mediaType": "movie",
+      "title": "The Long Walk Home",
+      "awardYear": 1990,
+      "winner": "Barbara Hershey",
+      "externalIds": {
+        "tmdb": "51763"
+      }
+    },
+    {
+      "id": "cannes-best-actress-1991-the-double-life-of-véronique",
+      "mediaType": "movie",
+      "title": "The Double Life of Véronique",
+      "awardYear": 1991,
+      "winner": "Irène Jacob",
+      "externalIds": {
+        "tmdb": "1600"
+      }
+    },
+    {
+      "id": "cannes-best-actress-1992-a-cry-in-the-night",
+      "mediaType": "movie",
+      "title": "A Cry in the Night",
+      "awardYear": 1992,
+      "winner": "Pernilla August",
+      "externalIds": {
+        "tmdb": "189288"
+      }
+    },
+    {
+      "id": "cannes-best-actress-1993-the-piano",
+      "mediaType": "movie",
+      "title": "The Piano",
+      "awardYear": 1993,
+      "winner": "Holly Hunter",
+      "externalIds": {
+        "tmdb": "713"
+      }
+    },
+    {
+      "id": "cannes-best-actress-1994-la-reine-margot",
+      "mediaType": "movie",
+      "title": "La Reine Margot",
+      "awardYear": 1994,
+      "winner": "Virna Lisi",
+      "externalIds": {
+        "tmdb": "10452"
+      }
+    },
+    {
+      "id": "cannes-best-actress-1995-the-madness-of-king-george",
+      "mediaType": "movie",
+      "title": "The Madness of King George",
+      "awardYear": 1995,
+      "winner": "Helen Mirren",
+      "externalIds": {
+        "tmdb": "11318"
+      }
+    },
+    {
+      "id": "cannes-best-actress-1996-secrets-lies",
+      "mediaType": "movie",
+      "title": "Secrets & Lies",
+      "awardYear": 1996,
+      "winner": "Brenda Blethyn",
+      "externalIds": {
+        "tmdb": "11159"
+      }
+    },
+    {
+      "id": "cannes-best-actress-1997-nil-by-mouth",
+      "mediaType": "movie",
+      "title": "Nil by Mouth",
+      "awardYear": 1997,
+      "winner": "Kathy Burke",
+      "externalIds": {
+        "tmdb": "21252"
+      }
+    },
+    {
+      "id": "cannes-best-actress-1998-the-dreamlife-of-angels",
+      "mediaType": "movie",
+      "title": "The Dreamlife of Angels",
+      "awardYear": 1998,
+      "winner": "Élodie Bouchez; Natacha Régnier",
+      "externalIds": {
+        "tmdb": "9840"
+      }
+    },
+    {
+      "id": "cannes-best-actress-1999-humanité",
+      "mediaType": "movie",
+      "title": "Humanité",
+      "awardYear": 1999,
+      "winner": "Séverine Caneele",
+      "externalIds": {
+        "tmdb": "65296"
+      }
+    },
+    {
+      "id": "cannes-best-actress-1999-rosetta",
+      "mediaType": "movie",
+      "title": "Rosetta",
+      "awardYear": 1999,
+      "winner": "Émilie Dequenne",
+      "externalIds": {
+        "tmdb": "11489"
+      }
+    },
+    {
+      "id": "cannes-best-actress-2000-dancer-in-the-dark",
+      "mediaType": "movie",
+      "title": "Dancer in the Dark",
+      "awardYear": 2000,
+      "winner": "Björk",
+      "externalIds": {
+        "tmdb": "16"
+      }
+    },
+    {
+      "id": "cannes-best-actress-2001-the-piano-teacher",
+      "mediaType": "movie",
+      "title": "The Piano Teacher",
+      "awardYear": 2001,
+      "winner": "Isabelle Huppert",
+      "externalIds": {
+        "tmdb": "1791"
+      }
+    },
+    {
+      "id": "cannes-best-actress-2002-the-man-without-a-past",
+      "mediaType": "movie",
+      "title": "The Man Without a Past",
+      "awardYear": 2002,
+      "winner": "Kati Outinen",
+      "externalIds": {
+        "tmdb": "7294"
+      }
+    },
+    {
+      "id": "cannes-best-actress-2003-the-barbarian-invasions",
+      "mediaType": "movie",
+      "title": "The Barbarian Invasions",
+      "awardYear": 2003,
+      "winner": "Marie-Josée Croze",
+      "externalIds": {
+        "tmdb": "11042"
+      }
+    },
+    {
+      "id": "cannes-best-actress-2004-clean",
+      "mediaType": "movie",
+      "title": "Clean",
+      "awardYear": 2004,
+      "winner": "Maggie Cheung",
+      "externalIds": {
+        "tmdb": "39851"
+      }
+    },
+    {
+      "id": "cannes-best-actress-2005-free-zone",
+      "mediaType": "movie",
+      "title": "Free Zone",
+      "awardYear": 2005,
+      "winner": "Hanna Laslo",
+      "externalIds": {
+        "tmdb": "7483"
+      }
+    },
+    {
+      "id": "cannes-best-actress-2006-volver",
+      "mediaType": "movie",
+      "title": "Volver",
+      "awardYear": 2006,
+      "winner": "Penélope Cruz; Carmen Maura; Lola Dueñas; Blanca Portillo; Yohana Cobo; Chus Lampreave",
+      "externalIds": {
+        "tmdb": "219"
+      }
+    },
+    {
+      "id": "cannes-best-actress-2007-secret-sunshine",
+      "mediaType": "movie",
+      "title": "Secret Sunshine",
+      "awardYear": 2007,
+      "winner": "Jeon Do-yeon",
+      "externalIds": {
+        "tmdb": "2015"
+      }
+    },
+    {
+      "id": "cannes-best-actress-2008-linha-de-passe",
+      "mediaType": "movie",
+      "title": "Linha de Passe",
+      "awardYear": 2008,
+      "winner": "Sandra Corveloni",
+      "externalIds": {
+        "tmdb": "8902"
+      }
+    },
+    {
+      "id": "cannes-best-actress-2009-antichrist",
+      "mediaType": "movie",
+      "title": "Antichrist",
+      "awardYear": 2009,
+      "winner": "Charlotte Gainsbourg",
+      "externalIds": {
+        "tmdb": "17609"
+      }
+    },
+    {
+      "id": "cannes-best-actress-2010-certified-copy",
+      "mediaType": "movie",
+      "title": "Certified Copy",
+      "awardYear": 2010,
+      "winner": "Juliette Binoche",
+      "externalIds": {
+        "tmdb": "48303"
+      }
+    },
+    {
+      "id": "cannes-best-actress-2011-melancholia",
+      "mediaType": "movie",
+      "title": "Melancholia",
+      "awardYear": 2011,
+      "winner": "Kirsten Dunst",
+      "externalIds": {
+        "tmdb": "62215"
+      }
+    },
+    {
+      "id": "cannes-best-actress-2012-beyond-the-hills",
+      "mediaType": "movie",
+      "title": "Beyond the Hills",
+      "awardYear": 2012,
+      "winner": "Cristina Flutur; Cosmina Stratan",
+      "externalIds": {
+        "tmdb": "103740"
+      }
+    },
+    {
+      "id": "cannes-best-actress-2013-the-past",
+      "mediaType": "movie",
+      "title": "The Past",
+      "awardYear": 2013,
+      "winner": "Bérénice Bejo",
+      "externalIds": {
+        "tmdb": "152780"
+      }
+    },
+    {
+      "id": "cannes-best-actress-2014-maps-to-the-stars",
+      "mediaType": "movie",
+      "title": "Maps to the Stars",
+      "awardYear": 2014,
+      "winner": "Julianne Moore",
+      "externalIds": {
+        "tmdb": "157851"
+      }
+    },
+    {
+      "id": "cannes-best-actress-2015-carol",
+      "mediaType": "movie",
+      "title": "Carol",
+      "awardYear": 2015,
+      "winner": "Rooney Mara",
+      "externalIds": {
+        "tmdb": "258480"
+      }
+    },
+    {
+      "id": "cannes-best-actress-2015-mon-roi",
+      "mediaType": "movie",
+      "title": "Mon Roi",
+      "awardYear": 2015,
+      "winner": "Emmanuelle Bercot",
+      "externalIds": {
+        "tmdb": "329805"
+      }
+    },
+    {
+      "id": "cannes-best-actress-2016-ma-rosa",
+      "mediaType": "movie",
+      "title": "Ma' Rosa",
+      "awardYear": 2016,
+      "winner": "Jaclyn Jose",
+      "externalIds": {
+        "tmdb": "392790"
+      }
+    },
+    {
+      "id": "cannes-best-actress-2017-in-the-fade",
+      "mediaType": "movie",
+      "title": "女は二度決断する",
+      "awardYear": 2017,
+      "winner": "Diane Kruger",
+      "externalIds": {
+        "tmdb": "423646"
+      }
+    },
+    {
+      "id": "cannes-best-actress-2018-ayka",
+      "mediaType": "movie",
+      "title": "Ayka",
+      "awardYear": 2018,
+      "winner": "Samal Yeslyamova",
+      "externalIds": {
+        "tmdb": "519185"
+      }
+    },
+    {
+      "id": "cannes-best-actress-2019-little-joe",
+      "mediaType": "movie",
+      "title": "Little Joe",
+      "awardYear": 2019,
+      "winner": "Emily Beecham",
+      "externalIds": {
+        "tmdb": "504585"
+      }
+    },
+    {
+      "id": "cannes-best-actress-2021-the-worst-person-in-the-world",
+      "mediaType": "movie",
+      "title": "The Worst Person in the World",
+      "awardYear": 2021,
+      "winner": "Renate Reinsve",
+      "externalIds": {
+        "tmdb": "660120"
+      }
+    },
+    {
+      "id": "cannes-best-actress-2022-holy-spider",
+      "mediaType": "movie",
+      "title": "Holy Spider",
+      "awardYear": 2022,
+      "winner": "Zar Amir Ebrahimi",
+      "externalIds": {
+        "tmdb": "889699"
+      }
+    },
+    {
+      "id": "cannes-best-actress-2023-about-dry-grasses",
+      "mediaType": "movie",
+      "title": "About Dry Grasses",
+      "awardYear": 2023,
+      "winner": "Merve Dizdar",
+      "externalIds": {
+        "tmdb": "665733"
+      }
+    },
+    {
+      "id": "cannes-best-actress-2024-emilia-pérez",
+      "mediaType": "movie",
+      "title": "エミリア・ペレス",
+      "awardYear": 2024,
+      "winner": "Karla Sofía Gascón; Selena Gomez; Adriana Paz; Zoe Saldaña",
+      "externalIds": {
+        "tmdb": "974950"
+      }
+    },
+    {
+      "id": "cannes-best-actress-2025-the-little-sister",
+      "mediaType": "movie",
+      "title": "The Little Sister",
+      "awardYear": 2025,
+      "winner": "Nadia Melliti",
+      "externalIds": {
+        "tmdb": "961077"
+      }
+    },
+    {
+      "id": "cannes-best-actress-2026-all-of-a-sudden",
+      "mediaType": "movie",
+      "title": "All of a Sudden",
+      "awardYear": 2026,
+      "winner": "Tao Okamoto; Virginie Efira",
+      "externalIds": {
+        "tmdb": "1476614"
+      }
+    }
+  ]
+}

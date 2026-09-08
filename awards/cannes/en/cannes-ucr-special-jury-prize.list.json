@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "title": "Cannes — Un Certain Regard Special Jury Prize",
+  "author": "Mydea",
+  "updatedAt": "2026-09-16T04:43:24Z",
+  "description": "Historical Un Certain Regard awards. Un Certain Regard Special Jury Prize.",
+  "tags": [
+    "award",
+    "cannes",
+    "prize"
+  ],
+  "items": [
+    {
+      "id": "cannes-ucr-special-jury-2006-ten-canoes",
+      "mediaType": "movie",
+      "title": "Ten Canoes",
+      "awardYear": 2006,
+      "winner": "Rolf de Heer"
+    },
+    {
+      "id": "cannes-ucr-special-jury-2007-actresses",
+      "mediaType": "movie",
+      "title": "Actresses",
+      "awardYear": 2007,
+      "winner": "Valeria Bruni-Tedeschi"
+    },
+    {
+      "id": "cannes-ucr-special-jury-2009-father-of-my-children",
+      "mediaType": "movie",
+      "title": "Father of My Children",
+      "awardYear": 2009,
+      "winner": "Mia Hansen-Løve"
+    },
+    {
+      "id": "cannes-ucr-special-jury-2009-no-one-knows-about-persian-cats",
+      "mediaType": "movie",
+      "title": "No One Knows About Persian Cats",
+      "awardYear": 2009,
+      "winner": "Bahman Ghobadi"
+    },
+    {
+      "id": "cannes-ucr-special-jury-2011-elena",
+      "mediaType": "movie",
+      "title": "Elena",
+      "awardYear": 2011,
+      "winner": "Andrey Zvyagintsev"
+    },
+    {
+      "id": "cannes-ucr-special-jury-2012-le-grand-soir",
+      "mediaType": "movie",
+      "title": "Le grand soir",
+      "awardYear": 2012,
+      "winner": "Gustave Kervern & Benoît Delépine"
+    },
+    {
+      "id": "cannes-ucr-special-jury-2013-omar",
+      "mediaType": "movie",
+      "title": "Omar",
+      "awardYear": 2013,
+      "winner": "Hany Abu-Assad"
+    },
+    {
+      "id": "cannes-ucr-special-jury-2014-the-salt-of-the-earth",
+      "mediaType": "movie",
+      "title": "The Salt of the Earth",
+      "awardYear": 2014,
+      "winner": "Wim Wenders & Juliano Ribeiro Salgado"
+    },
+    {
+      "id": "cannes-ucr-special-jury-2016-the-red-turtle",
+      "mediaType": "movie",
+      "title": "The Red Turtle",
+      "awardYear": 2016,
+      "winner": "Michael Dudok de Wit"
+    },
+    {
+      "id": "cannes-ucr-special-jury-2019-liberte",
+      "mediaType": "movie",
+      "title": "Liberté",
+      "awardYear": 2019,
+      "winner": "Albert Serra",
+      "externalIds": {
+        "imdb": "tt10199670"
+      },
+      "releaseDate": "2019"
+    },
+    {
+      "id": "cannes-ucr-special-jury-2026-iron-boy",
+      "mediaType": "movie",
+      "title": "Iron Boy",
+      "awardYear": 2026,
+      "winner": "Louis Clichy",
+      "externalIds": {
+        "imdb": "tt36639956"
+      }
+    }
+  ]
+}

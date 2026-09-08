@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T05:03:58Z",
+  "title": "아카데미상 2026 수상 목록",
+  "description": "제98회 아카데미상 주요 영화 부문의 수상작과 수상자.",
+  "items": [
+    {
+      "id": "oscars-2026-best-picture-one-battle-after-another",
+      "mediaType": "movie",
+      "title": "원 배틀 애프터 어나더",
+      "award": "작품상",
+      "awardYear": 2026,
+      "awardOrder": 1,
+      "winner": "Adam Somner, Sara Murphy & Paul Thomas Anderson",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt30144839"
+      }
+    },
+    {
+      "id": "oscars-2026-best-director-one-battle-after-another",
+      "mediaType": "movie",
+      "title": "원 배틀 애프터 어나더",
+      "award": "감독상",
+      "awardYear": 2026,
+      "awardOrder": 2,
+      "winner": "Paul Thomas Anderson",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt30144839"
+      }
+    },
+    {
+      "id": "oscars-2026-best-actor-sinners",
+      "mediaType": "movie",
+      "title": "씨너스: 죄인들",
+      "award": "남우주연상",
+      "awardYear": 2026,
+      "awardOrder": 3,
+      "winner": "Michael B. Jordan",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31193180"
+      }
+    },
+    {
+      "id": "oscars-2026-best-actress-hamnet",
+      "mediaType": "movie",
+      "title": "햄넷",
+      "award": "여우주연상",
+      "awardYear": 2026,
+      "awardOrder": 4,
+      "winner": "Jessie Buckley",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt14905854"
+      }
+    },
+    {
+      "id": "oscars-2026-best-supporting-actor-one-battle-after-another",
+      "mediaType": "movie",
+      "title": "원 배틀 애프터 어나더",
+      "award": "남우조연상",
+      "awardYear": 2026,
+      "awardOrder": 5,
+      "winner": "Sean Penn",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt30144839"
+      }
+    },
+    {
+      "id": "oscars-2026-best-supporting-actress-weapons",
+      "mediaType": "movie",
+      "title": "Weapons",
+      "award": "여우조연상",
+      "awardYear": 2026,
+      "awardOrder": 6,
+      "winner": "Amy Madigan",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt26581740"
+      }
+    },
+    {
+      "id": "oscars-2026-best-original-screenplay-sinners",
+      "mediaType": "movie",
+      "title": "씨너스: 죄인들",
+      "award": "각본상",
+      "awardYear": 2026,
+      "awardOrder": 7,
+      "winner": "Ryan Coogler",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31193180"
+      }
+    },
+    {
+      "id": "oscars-2026-best-adapted-screenplay-one-battle-after-another",
+      "mediaType": "movie",
+      "title": "원 배틀 애프터 어나더",
+      "award": "각색상",
+      "awardYear": 2026,
+      "awardOrder": 8,
+      "winner": "Paul Thomas Anderson",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt30144839"
+      }
+    },
+    {
+      "id": "oscars-2026-best-animated-feature-kpop-demon-hunters",
+      "mediaType": "movie",
+      "title": "케이팝 데몬 헌터스",
+      "award": "장편 애니메이션상",
+      "awardYear": 2026,
+      "awardOrder": 9,
+      "winner": "Maggie Kang, Chris Appelhans & Michelle L.M. Wong",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt14205554"
+      }
+    },
+    {
+      "id": "oscars-2026-best-international-feature-sentimental-value",
+      "mediaType": "movie",
+      "title": "Sentimental Value",
+      "award": "국제장편영화상",
+      "awardYear": 2026,
+      "awardOrder": 10,
+      "winner": "Norway",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt27714581"
+      }
+    }
+  ]
+}

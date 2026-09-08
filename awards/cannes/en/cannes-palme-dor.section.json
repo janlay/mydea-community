@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "Mydea",
+  "title": "Cannes — Palme d'Or",
+  "description": "Cannes Film Festival Palme d'Or and historical top-prize winning films.",
+  "layout": "grid",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "cannes-palme-dor.list.json"
+    }
+  ],
+  "bindings": [
+    "winner",
+    "title with Year"
+  ]
+}

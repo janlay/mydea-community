@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T05:03:35Z",
+  "title": "プライムタイム・エミー賞 2026 受賞一覧",
+  "description": "第78回プライムタイム・エミー賞の主要部門受賞記録。",
+  "items": [
+    {
+      "id": "emmys-2026-drama-series-the-pitt",
+      "mediaType": "tv",
+      "title": "ザ・ピット / ピッツバーグ救急医療室",
+      "award": "作品賞 ドラマ・シリーズ部門",
+      "awardYear": 2026,
+      "awardOrder": 1,
+      "winner": "The Pitt",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31938062"
+      }
+    },
+    {
+      "id": "emmys-2026-comedy-series-widow-s-bay",
+      "mediaType": "tv",
+      "title": "Widow's Bay",
+      "award": "作品賞 コメディ・シリーズ部門",
+      "awardYear": 2026,
+      "awardOrder": 2,
+      "winner": "Widow's Bay",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt33332385"
+      }
+    },
+    {
+      "id": "emmys-2026-limited-series-dtf-st-louis",
+      "mediaType": "tv",
+      "title": "DTF St. Louis",
+      "award": "作品賞 リミテッド／アンソロジー・シリーズ部門",
+      "awardYear": 2026,
+      "awardOrder": 3,
+      "winner": "DTF St. Louis",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt34385331"
+      }
+    },
+    {
+      "id": "emmys-2026-lead-actor-drama-the-pitt",
+      "mediaType": "tv",
+      "title": "ザ・ピット / ピッツバーグ救急医療室",
+      "award": "主演男優賞 ドラマ・シリーズ部門",
+      "awardYear": 2026,
+      "awardOrder": 4,
+      "winner": "Noah Wyle",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31938062"
+      }
+    },
+    {
+      "id": "emmys-2026-lead-actress-drama-pluribus",
+      "mediaType": "tv",
+      "title": "プルリブス",
+      "originalTitle": "Pluribus",
+      "award": "主演女優賞 ドラマ・シリーズ部門",
+      "awardYear": 2026,
+      "awardOrder": 5,
+      "winner": "Rhea Seehorn",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt22202452"
+      }
+    },
+    {
+      "id": "emmys-2026-lead-actor-comedy-widow-s-bay",
+      "mediaType": "tv",
+      "title": "Widow's Bay",
+      "award": "主演男優賞 コメディ・シリーズ部門",
+      "awardYear": 2026,
+      "awardOrder": 6,
+      "winner": "Matthew Rhys",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt33332385"
+      }
+    },
+    {
+      "id": "emmys-2026-lead-actress-comedy-hacks",
+      "mediaType": "tv",
+      "title": "Hacks",
+      "award": "主演女優賞 コメディ・シリーズ部門",
+      "awardYear": 2026,
+      "awardOrder": 7,
+      "winner": "Jean Smart",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt11815682"
+      }
+    }
+  ]
+}

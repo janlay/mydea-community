@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-16T04:39:02Z",
+  "title": "Sundance Film Festival 2024 Award Winners",
+  "description": "Winners of the four core feature Grand Jury Prizes at the 2024 Sundance Film Festival.",
+  "tags": [
+    "award",
+    "park-city",
+    "decade"
+  ],
+  "items": [
+    {
+      "id": "sundance-us-dramatic-2024-in-the-summers",
+      "mediaType": "movie",
+      "title": "In the Summers",
+      "award": "U.S. Grand Jury Prize: Dramatic",
+      "awardYear": 2024,
+      "awardOrder": 1,
+      "winner": "Alessandra Lacorazza",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt24805832"
+      }
+    },
+    {
+      "id": "sundance-us-documentary-2024-porcelain-war",
+      "mediaType": "movie",
+      "title": "Porcelain War",
+      "award": "U.S. Grand Jury Prize: Documentary",
+      "awardYear": 2024,
+      "awardOrder": 2,
+      "winner": "Brendan Bellomo & Slava Leontyev",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt30294282"
+      }
+    },
+    {
+      "id": "sundance-world-dramatic-2024-sujo",
+      "mediaType": "movie",
+      "title": "Sujo",
+      "award": "World Cinema Grand Jury Prize: Dramatic",
+      "awardYear": 2024,
+      "awardOrder": 3,
+      "winner": "Astrid Rondero & Fernanda Valadez",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt30320410"
+      }
+    },
+    {
+      "id": "sundance-world-documentary-2024-a-new-kind-of-wilderness",
+      "mediaType": "movie",
+      "title": "A New Kind of Wilderness",
+      "award": "World Cinema Grand Jury Prize: Documentary",
+      "awardYear": 2024,
+      "awardOrder": 4,
+      "winner": "Silje Evensmo Jacobsen",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt30320576"
+      }
+    }
+  ]
+}

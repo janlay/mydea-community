@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://mydea.app/community/catalog.schema.json",
+  "title": "Mydea Community Catalog",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["title", "description", "digest", "path"],
+    "properties": {
+      "collection": {"type": "string", "pattern": "^[a-z0-9][a-z0-9-]*/[a-z0-9][a-z0-9-]*$", "description": "<category>/<collection>; resources resolve as <collection>/<path> from the repository root."},
+      "title": {"type": "string"}, "description": {"type": "string"},
+      "tags": {"type": "array", "items": {"type": "string"}, "uniqueItems": true},
+      "digest": {"type": "string", "pattern": "^sha256:[0-9a-f]{64}$", "description": "Change token: the SHA-256 of the file's UTF-8 bytes. Consumers compare it to decide what to re-download; it pins nothing."},
+      "featured": {"type": "boolean"},
+      "path": {"type": "string", "pattern": "^(?:[a-z]{2,3}(?:-[A-Z][a-z]{3})?|themes)/[a-z0-9][a-z0-9-]*\\.(page|section|list|theme)\\.json$"},
+      "pullRequest": {"type": "integer", "minimum": 1},
+      "service": {"type": "string", "description": "Section only: the section's declared service, omitted when it is 'library' or 'mydea' (no icon shown). Pages carry no equivalent field; consumers read each section's own service from the Page document's sections[] to show its icons."}
+    },
+    "additionalProperties": false
+  }
+}

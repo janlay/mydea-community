@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T02:54:20Z",
+  "title": "青龍電影獎 — 2016",
+  "description": "2016年韓國青龍電影獎10個主要電影獎項獲獎作品。",
+  "items": [
+    {
+      "id": "blue-dragon-2016-best-film-inside-men",
+      "mediaType": "movie",
+      "title": "局內人",
+      "originalTitle": "내부자들",
+      "englishTitle": "Inside Men",
+      "award": "最佳影片",
+      "awardYear": 2016,
+      "awardOrder": 1,
+      "winner": "Woo Min-ho",
+      "releaseDate": "2015",
+      "externalIds": {
+        "imdb": "tt3779028"
+      }
+    },
+    {
+      "id": "blue-dragon-2016-best-director-wailing",
+      "mediaType": "movie",
+      "title": "哭聲",
+      "originalTitle": "곡성",
+      "englishTitle": "The Wailing",
+      "award": "最佳導演",
+      "awardYear": 2016,
+      "awardOrder": 2,
+      "winner": "Na Hong-jin",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5215952"
+      }
+    },
+    {
+      "id": "blue-dragon-2016-best-actor-inside-men",
+      "mediaType": "movie",
+      "title": "局內人",
+      "originalTitle": "내부자들",
+      "englishTitle": "Inside Men",
+      "award": "最佳男主角",
+      "awardYear": 2016,
+      "awardOrder": 3,
+      "winner": "Lee Byung-hun",
+      "releaseDate": "2015",
+      "externalIds": {
+        "imdb": "tt3779028"
+      }
+    },
+    {
+      "id": "blue-dragon-2016-best-actress-handmaiden",
+      "mediaType": "movie",
+      "title": "小姐",
+      "originalTitle": "아가씨",
+      "englishTitle": "The Handmaiden",
+      "award": "最佳女主角",
+      "awardYear": 2016,
+      "awardOrder": 4,
+      "winner": "Kim Min-hee",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4016934"
+      }
+    },
+    {
+      "id": "blue-dragon-2016-best-supporting-actor-wailing",
+      "mediaType": "movie",
+      "title": "哭聲",
+      "originalTitle": "곡성",
+      "englishTitle": "The Wailing",
+      "award": "最佳男配角",
+      "awardYear": 2016,
+      "awardOrder": 5,
+      "winner": "Jun Kunimura",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5215952"
+      }
+    },
+    {
+      "id": "blue-dragon-2016-best-supporting-actress-priests",
+      "mediaType": "movie",
+      "title": "黑司祭們",
+      "originalTitle": "검은 사제들",
+      "englishTitle": "The Priests",
+      "award": "最佳女配角",
+      "awardYear": 2016,
+      "awardOrder": 6,
+      "winner": "Park So-dam",
+      "releaseDate": "2015",
+      "externalIds": {
+        "imdb": "tt5049302"
+      }
+    },
+    {
+      "id": "blue-dragon-2016-best-new-director-world-of-us",
+      "mediaType": "movie",
+      "title": "我們的世界",
+      "originalTitle": "우리들",
+      "englishTitle": "The World of Us",
+      "award": "最佳新人導演",
+      "awardYear": 2016,
+      "awardOrder": 7,
+      "winner": "Yoon Ga-eun",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5502816"
+      }
+    },
+    {
+      "id": "blue-dragon-2016-best-new-actor-dongju",
+      "mediaType": "movie",
+      "title": "東柱",
+      "originalTitle": "동주",
+      "englishTitle": "Dongju: The Portrait of a Poet",
+      "award": "最佳新人男演員",
+      "awardYear": 2016,
+      "awardOrder": 8,
+      "winner": "Park Jeong-min",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5799928"
+      }
+    },
+    {
+      "id": "blue-dragon-2016-best-new-actress-handmaiden",
+      "mediaType": "movie",
+      "title": "小姐",
+      "originalTitle": "아가씨",
+      "englishTitle": "The Handmaiden",
+      "award": "最佳新人女演員",
+      "awardYear": 2016,
+      "awardOrder": 9,
+      "winner": "Kim Tae-ri",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4016934"
+      }
+    },
+    {
+      "id": "blue-dragon-2016-best-screenplay-dongju",
+      "mediaType": "movie",
+      "title": "東柱",
+      "originalTitle": "동주",
+      "englishTitle": "Dongju: The Portrait of a Poet",
+      "award": "最佳劇本",
+      "awardYear": 2016,
+      "awardOrder": 10,
+      "winner": "Shin Yeon-shick",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5799928"
+      }
+    }
+  ]
+}

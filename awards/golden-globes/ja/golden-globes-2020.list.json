@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "ゴールデングローブ賞 2020",
+  "description": "2020年のゴールデングローブ賞主要映画・テレビ作品部門の受賞一覧。",
+  "items": [
+    {
+      "id": "golden-globes-2020-drama-1917",
+      "mediaType": "movie",
+      "title": "1917 命をかけた伝令",
+      "englishTitle": "1917",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt8579674"
+      },
+      "award": "作品賞 ドラマ部門",
+      "awardYear": 2020,
+      "awardOrder": 1,
+      "winner": "1917 命をかけた伝令"
+    },
+    {
+      "id": "golden-globes-2020-comedy-once-upon-a-time-in-hollywood",
+      "mediaType": "movie",
+      "title": "ワンス・アポン・ア・タイム・イン・ハリウッド",
+      "englishTitle": "Once Upon a Time... in Hollywood",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt7131622"
+      },
+      "award": "作品賞 ミュージカル・コメディ部門",
+      "awardYear": 2020,
+      "awardOrder": 2,
+      "winner": "ワンス・アポン・ア・タイム・イン・ハリウッド"
+    },
+    {
+      "id": "golden-globes-2020-animated-missing-link",
+      "mediaType": "movie",
+      "title": "Missing Link",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6348138"
+      },
+      "award": "アニメーション映画賞",
+      "awardYear": 2020,
+      "awardOrder": 3,
+      "winner": "Missing Link"
+    },
+    {
+      "id": "golden-globes-2020-foreign-parasite",
+      "mediaType": "movie",
+      "title": "パラサイト 半地下の家族",
+      "englishTitle": "Parasite",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6751668"
+      },
+      "award": "非英語映画賞",
+      "awardYear": 2020,
+      "awardOrder": 4,
+      "winner": "パラサイト 半地下の家族"
+    },
+    {
+      "id": "golden-globes-2020-tv_drama-succession",
+      "mediaType": "tv",
+      "title": "メディア王 〜華麗なる一族〜",
+      "englishTitle": "Succession",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7660850"
+      },
+      "award": "テレビドラマ作品賞",
+      "awardYear": 2020,
+      "awardOrder": 5,
+      "winner": "メディア王 〜華麗なる一族〜"
+    },
+    {
+      "id": "golden-globes-2020-tv_comedy-fleabag",
+      "mediaType": "tv",
+      "title": "Fleabag フリーバッグ",
+      "englishTitle": "Fleabag",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5687612"
+      },
+      "award": "テレビ作品賞 ミュージカル・コメディ部門",
+      "awardYear": 2020,
+      "awardOrder": 6,
+      "winner": "Fleabag フリーバッグ"
+    },
+    {
+      "id": "golden-globes-2020-limited-chernobyl",
+      "mediaType": "tv",
+      "title": "チェルノブイリ",
+      "englishTitle": "Chernobyl",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt7366338"
+      },
+      "award": "リミテッドシリーズ・アンソロジー・テレビ映画賞",
+      "awardYear": 2020,
+      "awardOrder": 7,
+      "winner": "チェルノブイリ"
+    }
+  ]
+}

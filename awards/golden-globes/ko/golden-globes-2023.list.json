@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "골든 글로브 2023",
+  "description": "2023 골든 글로브 주요 영화·텔레비전 작품 부문 수상 목록.",
+  "items": [
+    {
+      "id": "golden-globes-2023-drama-the-fabelmans",
+      "mediaType": "movie",
+      "title": "파벨만스",
+      "englishTitle": "The Fabelmans",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt14208870"
+      },
+      "award": "작품상 드라마",
+      "awardYear": 2023,
+      "awardOrder": 1,
+      "winner": "파벨만스"
+    },
+    {
+      "id": "golden-globes-2023-comedy-the-banshees-of-inisherin",
+      "mediaType": "movie",
+      "title": "이니셰린의 밴시",
+      "englishTitle": "The Banshees of Inisherin",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt11813216"
+      },
+      "award": "작품상 뮤지컬·코미디",
+      "awardYear": 2023,
+      "awardOrder": 2,
+      "winner": "이니셰린의 밴시"
+    },
+    {
+      "id": "golden-globes-2023-animated-guillermo-del-toro-s-pinocchio",
+      "mediaType": "movie",
+      "title": "기예르모 델토로의 피노키오",
+      "englishTitle": "Guillermo del Toro's Pinocchio",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt1488589"
+      },
+      "award": "애니메이션 영화상",
+      "awardYear": 2023,
+      "awardOrder": 3,
+      "winner": "기예르모 델토로의 피노키오"
+    },
+    {
+      "id": "golden-globes-2023-foreign-argentina-1985",
+      "mediaType": "movie",
+      "title": "아르헨티나, 1985",
+      "englishTitle": "Argentina, 1985",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt15301048"
+      },
+      "award": "비영어권 영화상",
+      "awardYear": 2023,
+      "awardOrder": 4,
+      "winner": "아르헨티나, 1985"
+    },
+    {
+      "id": "golden-globes-2023-tv_drama-house-of-the-dragon",
+      "mediaType": "tv",
+      "title": "하우스 오브 드래곤",
+      "englishTitle": "House of the Dragon",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt11198330"
+      },
+      "award": "TV 드라마 작품상",
+      "awardYear": 2023,
+      "awardOrder": 5,
+      "winner": "하우스 오브 드래곤"
+    },
+    {
+      "id": "golden-globes-2023-tv_comedy-abbott-elementary",
+      "mediaType": "tv",
+      "title": "애봇 초등학교",
+      "englishTitle": "Abbott Elementary",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14218830"
+      },
+      "award": "TV 뮤지컬·코미디 작품상",
+      "awardYear": 2023,
+      "awardOrder": 6,
+      "winner": "애봇 초등학교"
+    },
+    {
+      "id": "golden-globes-2023-limited-the-white-lotus",
+      "mediaType": "tv",
+      "title": "화이트 로투스",
+      "englishTitle": "The White Lotus",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt13406094"
+      },
+      "award": "리미티드 시리즈·앤솔러지·TV 영화상",
+      "awardYear": 2023,
+      "awardOrder": 7,
+      "winner": "화이트 로투스"
+    }
+  ]
+}

@@ -1,0 +1,274 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "title": "부산국제영화제 10년",
+  "description": "부산국제영화제 최근 10회(2016–2025)의 주요 경쟁상 수상작.",
+  "tags": [
+    "award",
+    "decade"
+  ],
+  "icon": "ticket",
+  "sections": [
+    {
+      "title": "부산국제영화제 — 2025",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ],
+        [
+          "awardOrder",
+          "asc"
+        ]
+      ],
+      "layout": "carousel",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "biff-2025.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "부산국제영화제 — 2024",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ],
+        [
+          "awardOrder",
+          "asc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "biff-2024.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "부산국제영화제 — 2023",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ],
+        [
+          "awardOrder",
+          "asc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "biff-2023.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "부산국제영화제 — 2022",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ],
+        [
+          "awardOrder",
+          "asc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "biff-2022.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "부산국제영화제 — 2021",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ],
+        [
+          "awardOrder",
+          "asc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "biff-2021.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "부산국제영화제 — 2020",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ],
+        [
+          "awardOrder",
+          "asc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "biff-2020.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "부산국제영화제 — 2019",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ],
+        [
+          "awardOrder",
+          "asc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "biff-2019.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "부산국제영화제 — 2018",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ],
+        [
+          "awardOrder",
+          "asc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "biff-2018.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "부산국제영화제 — 2017",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ],
+        [
+          "awardOrder",
+          "asc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "biff-2017.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "부산국제영화제 — 2016",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ],
+        [
+          "awardOrder",
+          "asc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "biff-2016.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    }
+  ]
+}

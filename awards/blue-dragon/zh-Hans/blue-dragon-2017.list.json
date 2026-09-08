@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T02:54:20Z",
+  "title": "青龙电影奖 — 2017",
+  "description": "2017年韩国青龙电影奖10个主要电影奖项获奖作品。",
+  "items": [
+    {
+      "id": "blue-dragon-2017-best-film-a-taxi-driver",
+      "mediaType": "movie",
+      "title": "出租车司机",
+      "originalTitle": "택시운전사",
+      "englishTitle": "A Taxi Driver",
+      "award": "最佳影片",
+      "awardYear": 2017,
+      "awardOrder": 1,
+      "winner": "Jang Hun",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6878038"
+      }
+    },
+    {
+      "id": "blue-dragon-2017-best-director-i-can-speak",
+      "mediaType": "movie",
+      "title": "我能说",
+      "originalTitle": "아이 캔 스피크",
+      "englishTitle": "I Can Speak",
+      "award": "最佳导演",
+      "awardYear": 2017,
+      "awardOrder": 2,
+      "winner": "Kim Hyun-seok",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7342204"
+      }
+    },
+    {
+      "id": "blue-dragon-2017-best-actor-a-taxi-driver",
+      "mediaType": "movie",
+      "title": "出租车司机",
+      "originalTitle": "택시운전사",
+      "englishTitle": "A Taxi Driver",
+      "award": "最佳男主角",
+      "awardYear": 2017,
+      "awardOrder": 3,
+      "winner": "Song Kang-ho",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6878038"
+      }
+    },
+    {
+      "id": "blue-dragon-2017-best-actress-i-can-speak",
+      "mediaType": "movie",
+      "title": "我能说",
+      "originalTitle": "아이 캔 스피크",
+      "englishTitle": "I Can Speak",
+      "award": "最佳女主角",
+      "awardYear": 2017,
+      "awardOrder": 4,
+      "winner": "Na Moon-hee",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7342204"
+      }
+    },
+    {
+      "id": "blue-dragon-2017-best-supporting-actor-outlaws",
+      "mediaType": "movie",
+      "title": "犯罪都市",
+      "originalTitle": "범죄도시",
+      "englishTitle": "The Outlaws",
+      "award": "最佳男配角",
+      "awardYear": 2017,
+      "awardOrder": 5,
+      "winner": "Jin Seon-kyu",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7468056"
+      }
+    },
+    {
+      "id": "blue-dragon-2017-best-supporting-actress-king",
+      "mediaType": "movie",
+      "title": "王者",
+      "originalTitle": "더 킹",
+      "englishTitle": "The King",
+      "award": "最佳女配角",
+      "awardYear": 2017,
+      "awardOrder": 6,
+      "winner": "Kim So-jin",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5644740"
+      }
+    },
+    {
+      "id": "blue-dragon-2017-best-new-director-our-love-story",
+      "mediaType": "movie",
+      "title": "恋爱谈",
+      "originalTitle": "연애담",
+      "englishTitle": "Our Love Story",
+      "award": "最佳新人导演",
+      "awardYear": 2017,
+      "awardOrder": 7,
+      "winner": "Lee Hyun-ju",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt6129730"
+      }
+    },
+    {
+      "id": "blue-dragon-2017-best-new-actor-my-annoying-brother",
+      "mediaType": "movie",
+      "title": "哥哥",
+      "originalTitle": "형",
+      "englishTitle": "My Annoying Brother",
+      "award": "最佳新人男演员",
+      "awardYear": 2017,
+      "awardOrder": 8,
+      "winner": "Do Kyung-soo",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt6388082"
+      }
+    },
+    {
+      "id": "blue-dragon-2017-best-new-actress-anarchist-colony",
+      "mediaType": "movie",
+      "title": "朴烈",
+      "originalTitle": "박열",
+      "englishTitle": "Anarchist from Colony",
+      "award": "最佳新人女演员",
+      "awardYear": 2017,
+      "awardOrder": 9,
+      "winner": "Choi Hee-seo",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6903980"
+      }
+    },
+    {
+      "id": "blue-dragon-2017-best-screenplay-fortress",
+      "mediaType": "movie",
+      "title": "南汉山城",
+      "originalTitle": "남한산성",
+      "englishTitle": "The Fortress",
+      "award": "最佳剧本",
+      "awardYear": 2017,
+      "awardOrder": 10,
+      "winner": "Hwang Dong-hyuk",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7160176"
+      }
+    }
+  ]
+}

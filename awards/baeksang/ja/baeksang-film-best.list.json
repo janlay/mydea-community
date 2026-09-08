@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T02:58:14Z",
+  "title": "百想芸術大賞 — 映画部門 作品賞",
+  "description": "百想芸術大賞の映画部門作品賞受賞作。 2017年から2026年までを収録。",
+  "items": [
+    {
+      "id": "baeksang-2017-film-best-wailing",
+      "mediaType": "movie",
+      "title": "哭声／コクソン",
+      "originalTitle": "곡성",
+      "awardYear": 2017,
+      "winner": "哭声／コクソン",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5215952"
+      }
+    },
+    {
+      "id": "baeksang-2018-film-best-fortress",
+      "mediaType": "movie",
+      "title": "天命の城",
+      "originalTitle": "남한산성",
+      "awardYear": 2018,
+      "winner": "天命の城",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7160176"
+      }
+    },
+    {
+      "id": "baeksang-2019-film-best-spy-north",
+      "mediaType": "movie",
+      "title": "工作 黒金星（ブラック・ヴィーナス）と呼ばれた男",
+      "originalTitle": "공작",
+      "awardYear": 2019,
+      "winner": "工作 黒金星と呼ばれた男",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8290698"
+      }
+    },
+    {
+      "id": "baeksang-2020-film-best-parasite",
+      "mediaType": "movie",
+      "title": "パラサイト 半地下の家族",
+      "originalTitle": "기생충",
+      "awardYear": 2020,
+      "winner": "パラサイト 半地下の家族",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6751668"
+      }
+    },
+    {
+      "id": "baeksang-2021-film-best-samjin",
+      "mediaType": "movie",
+      "title": "サムジンカンパニー1995",
+      "originalTitle": "삼진그룹 영어토익반",
+      "awardYear": 2021,
+      "winner": "サムジンカンパニー1995",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt13210996"
+      }
+    },
+    {
+      "id": "baeksang-2022-film-best-mogadishu",
+      "mediaType": "movie",
+      "title": "モガディシュ 脱出までの14日間",
+      "originalTitle": "모가디슈",
+      "awardYear": 2022,
+      "winner": "モガディシュ 脱出までの14日間",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14810692"
+      }
+    },
+    {
+      "id": "baeksang-2023-film-best-night-owl",
+      "mediaType": "movie",
+      "title": "梟―フクロウ―",
+      "originalTitle": "올빼미",
+      "awardYear": 2023,
+      "winner": "梟－フクロウ－",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt23871504"
+      }
+    },
+    {
+      "id": "baeksang-2024-film-best-seoul-spring",
+      "mediaType": "movie",
+      "title": "ソウルの春",
+      "originalTitle": "서울의 봄",
+      "awardYear": 2024,
+      "winner": "ソウルの春",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt22507524"
+      }
+    },
+    {
+      "id": "baeksang-2025-film-best-harbin",
+      "mediaType": "movie",
+      "title": "ハルビン",
+      "originalTitle": "하얼빈",
+      "awardYear": 2025,
+      "winner": "ハルビン",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt23630030"
+      }
+    },
+    {
+      "id": "baeksang-2026-film-best-no-other-choice",
+      "mediaType": "movie",
+      "title": "しあわせな選択",
+      "originalTitle": "어쩔수가없다",
+      "awardYear": 2026,
+      "winner": "しあわせな選択",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt1527793"
+      }
+    }
+  ]
+}

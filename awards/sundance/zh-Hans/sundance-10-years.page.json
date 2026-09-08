@@ -1,0 +1,276 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "updatedAt": "2026-09-16T04:39:02Z",
+  "title": "圣丹斯十年",
+  "description": "圣丹斯电影节最近十届的四项核心长片评审团大奖获奖作品。",
+  "tags": [
+    "award",
+    "park-city",
+    "decade"
+  ],
+  "icon": "ticket",
+  "sections": [
+    {
+      "title": "圣丹斯 — 2026",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ],
+        [
+          "awardOrder",
+          "asc"
+        ]
+      ],
+      "layout": "carousel",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "sundance-2026.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "圣丹斯 — 2025",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ],
+        [
+          "awardOrder",
+          "asc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "sundance-2025.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "圣丹斯 — 2024",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ],
+        [
+          "awardOrder",
+          "asc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "sundance-2024.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "圣丹斯 — 2023",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ],
+        [
+          "awardOrder",
+          "asc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "sundance-2023.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "圣丹斯 — 2022",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ],
+        [
+          "awardOrder",
+          "asc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "sundance-2022.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "圣丹斯 — 2021",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ],
+        [
+          "awardOrder",
+          "asc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "sundance-2021.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "圣丹斯 — 2020",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ],
+        [
+          "awardOrder",
+          "asc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "sundance-2020.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "圣丹斯 — 2019",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ],
+        [
+          "awardOrder",
+          "asc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "sundance-2019.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "圣丹斯 — 2018",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ],
+        [
+          "awardOrder",
+          "asc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "sundance-2018.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "圣丹斯 — 2017",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ],
+        [
+          "awardOrder",
+          "asc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "sundance-2017.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    }
+  ]
+}

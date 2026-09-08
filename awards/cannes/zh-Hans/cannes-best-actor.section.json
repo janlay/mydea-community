@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "Mydea",
+  "title": "戛纳 — 最佳男演员",
+  "description": "戛纳电影节最佳男演员奖获奖影片。",
+  "layout": "grid",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "cannes-best-actor.list.json"
+    }
+  ],
+  "bindings": [
+    "winner",
+    "title with Year"
+  ]
+}

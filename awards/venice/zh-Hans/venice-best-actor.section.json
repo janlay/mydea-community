@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "Mydea",
+  "title": "威尼斯 — 沃尔皮杯·最佳男演员",
+  "description": "威尼斯国际电影节历届沃尔皮杯·最佳男演员获奖影片/表演记录；按该奖项现行或历史等价类别整理。",
+  "layout": "grid",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "venice-best-actor.list.json"
+    }
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ]
+}

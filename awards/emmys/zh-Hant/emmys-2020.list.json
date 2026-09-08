@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T05:03:35Z",
+  "title": "黃金時段艾美獎 2020 年獲獎名單",
+  "description": "第 72 屆黃金時段艾美獎主要獎項獲獎記錄。",
+  "items": [
+    {
+      "id": "emmys-2020-drama-series-succession",
+      "mediaType": "tv",
+      "title": "繼承之戰",
+      "originalTitle": "Succession",
+      "award": "最佳劇情類影集",
+      "awardYear": 2020,
+      "awardOrder": 1,
+      "winner": "Succession",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7660850"
+      }
+    },
+    {
+      "id": "emmys-2020-comedy-series-schitt-s-creek",
+      "mediaType": "tv",
+      "title": "富家窮路",
+      "originalTitle": "Schitt's Creek",
+      "award": "最佳喜劇類影集",
+      "awardYear": 2020,
+      "awardOrder": 2,
+      "winner": "Schitt's Creek",
+      "releaseDate": "2015",
+      "externalIds": {
+        "imdb": "tt3526078"
+      }
+    },
+    {
+      "id": "emmys-2020-limited-series-watchmen",
+      "mediaType": "tv",
+      "title": "守護者",
+      "originalTitle": "Watchmen",
+      "award": "最佳有限影集或詩選影集",
+      "awardYear": 2020,
+      "awardOrder": 3,
+      "winner": "Watchmen",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt7049682"
+      }
+    },
+    {
+      "id": "emmys-2020-lead-actor-drama-succession",
+      "mediaType": "tv",
+      "title": "繼承之戰",
+      "originalTitle": "Succession",
+      "award": "劇情類最佳男主角",
+      "awardYear": 2020,
+      "awardOrder": 4,
+      "winner": "Jeremy Strong",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7660850"
+      }
+    },
+    {
+      "id": "emmys-2020-lead-actress-drama-euphoria",
+      "mediaType": "tv",
+      "title": "高校十八禁",
+      "originalTitle": "Euphoria",
+      "award": "劇情類最佳女主角",
+      "awardYear": 2020,
+      "awardOrder": 5,
+      "winner": "Zendaya",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt8772296"
+      }
+    },
+    {
+      "id": "emmys-2020-lead-actor-comedy-schitt-s-creek",
+      "mediaType": "tv",
+      "title": "富家窮路",
+      "originalTitle": "Schitt's Creek",
+      "award": "喜劇類最佳男主角",
+      "awardYear": 2020,
+      "awardOrder": 6,
+      "winner": "Eugene Levy",
+      "releaseDate": "2015",
+      "externalIds": {
+        "imdb": "tt3526078"
+      }
+    },
+    {
+      "id": "emmys-2020-lead-actress-comedy-schitt-s-creek",
+      "mediaType": "tv",
+      "title": "富家窮路",
+      "originalTitle": "Schitt's Creek",
+      "award": "喜劇類最佳女主角",
+      "awardYear": 2020,
+      "awardOrder": 7,
+      "winner": "Catherine O'Hara",
+      "releaseDate": "2015",
+      "externalIds": {
+        "imdb": "tt3526078"
+      }
+    }
+  ]
+}

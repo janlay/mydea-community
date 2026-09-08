@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T00:00:00Z",
+  "title": "青龍映画賞 — 最優秀作品賞",
+  "description": "青龍映画賞最優秀作品賞の歴代受賞作。",
+  "items": [
+    {
+      "id": "blue-dragon-2016-best-film-inside-men",
+      "mediaType": "movie",
+      "title": "インサイダーズ／内部者たち",
+      "originalTitle": "내부자들",
+      "awardYear": 2016,
+      "winner": "ウ・ミンホ",
+      "releaseDate": "2015",
+      "externalIds": {
+        "imdb": "tt3779028"
+      }
+    },
+    {
+      "id": "blue-dragon-2017-best-film-a-taxi-driver",
+      "mediaType": "movie",
+      "title": "タクシー運転手 約束は海を越えて",
+      "originalTitle": "택시운전사",
+      "awardYear": 2017,
+      "winner": "チャン・フン",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6878038"
+      }
+    },
+    {
+      "id": "blue-dragon-2018-best-film-1987",
+      "mediaType": "movie",
+      "title": "1987、ある闘いの真実",
+      "originalTitle": "1987",
+      "awardYear": 2018,
+      "winner": "チャン・ジュンファン",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6493286"
+      }
+    },
+    {
+      "id": "blue-dragon-2019-best-film-parasite",
+      "mediaType": "movie",
+      "title": "パラサイト 半地下の家族",
+      "originalTitle": "기생충",
+      "awardYear": 2019,
+      "winner": "ポン・ジュノ",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6751668"
+      }
+    },
+    {
+      "id": "blue-dragon-2020-best-film-man-standing-next",
+      "mediaType": "movie",
+      "title": "KCIA 南山の部長たち",
+      "originalTitle": "남산의 부장들",
+      "awardYear": 2020,
+      "winner": "ウ・ミンホ",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt11358398"
+      }
+    },
+    {
+      "id": "blue-dragon-2021-best-film-mogadishu",
+      "mediaType": "movie",
+      "title": "モガディシュ 脱出までの14日間",
+      "originalTitle": "모가디슈",
+      "awardYear": 2021,
+      "winner": "リュ・スンワン",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14810692"
+      }
+    },
+    {
+      "id": "blue-dragon-2022-best-film-decision-leave",
+      "mediaType": "movie",
+      "title": "別れる決心",
+      "originalTitle": "헤어질 결심",
+      "awardYear": 2022,
+      "winner": "パク・チャヌク",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt12477480"
+      }
+    },
+    {
+      "id": "blue-dragon-2023-best-film-smugglers",
+      "mediaType": "movie",
+      "title": "密輸 1970",
+      "originalTitle": "밀수",
+      "awardYear": 2023,
+      "winner": "リュ・スンワン",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt28106766"
+      }
+    },
+    {
+      "id": "blue-dragon-2024-best-film-1212",
+      "mediaType": "movie",
+      "title": "ソウルの春",
+      "originalTitle": "서울의 봄",
+      "awardYear": 2024,
+      "winner": "キム・ソンス",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt22507524"
+      }
+    },
+    {
+      "id": "blue-dragon-2025-best-film-no-other-choice",
+      "mediaType": "movie",
+      "title": "しあわせな選択",
+      "originalTitle": "어쩔수가없다",
+      "awardYear": 2025,
+      "winner": "パク・チャヌク",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt1527793"
+      }
+    }
+  ]
+}

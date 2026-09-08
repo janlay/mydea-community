@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "ゴールデングローブ賞 2022",
+  "description": "2022年のゴールデングローブ賞主要映画・テレビ作品部門の受賞一覧。",
+  "items": [
+    {
+      "id": "golden-globes-2022-drama-the-power-of-the-dog",
+      "mediaType": "movie",
+      "title": "パワー・オブ・ザ・ドッグ",
+      "englishTitle": "The Power of the Dog",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt10293406"
+      },
+      "award": "作品賞 ドラマ部門",
+      "awardYear": 2022,
+      "awardOrder": 1,
+      "winner": "パワー・オブ・ザ・ドッグ"
+    },
+    {
+      "id": "golden-globes-2022-comedy-west-side-story",
+      "mediaType": "movie",
+      "title": "ウエスト・サイド・ストーリー",
+      "englishTitle": "West Side Story",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt3581652"
+      },
+      "award": "作品賞 ミュージカル・コメディ部門",
+      "awardYear": 2022,
+      "awardOrder": 2,
+      "winner": "ウエスト・サイド・ストーリー"
+    },
+    {
+      "id": "golden-globes-2022-animated-encanto",
+      "mediaType": "movie",
+      "title": "ミラベルと魔法だらけの家",
+      "englishTitle": "Encanto",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt2953050"
+      },
+      "award": "アニメーション映画賞",
+      "awardYear": 2022,
+      "awardOrder": 3,
+      "winner": "ミラベルと魔法だらけの家"
+    },
+    {
+      "id": "golden-globes-2022-foreign-drive-my-car",
+      "mediaType": "movie",
+      "title": "ドライブ・マイ・カー",
+      "englishTitle": "Drive My Car",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14039582"
+      },
+      "award": "非英語映画賞",
+      "awardYear": 2022,
+      "awardOrder": 4,
+      "winner": "ドライブ・マイ・カー"
+    },
+    {
+      "id": "golden-globes-2022-tv_drama-succession",
+      "mediaType": "tv",
+      "title": "メディア王 〜華麗なる一族〜",
+      "englishTitle": "Succession",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7660850"
+      },
+      "award": "テレビドラマ作品賞",
+      "awardYear": 2022,
+      "awardOrder": 5,
+      "winner": "メディア王 〜華麗なる一族〜"
+    },
+    {
+      "id": "golden-globes-2022-tv_comedy-hacks",
+      "mediaType": "tv",
+      "title": "Hacks",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt11815682"
+      },
+      "award": "テレビ作品賞 ミュージカル・コメディ部門",
+      "awardYear": 2022,
+      "awardOrder": 6,
+      "winner": "Hacks"
+    },
+    {
+      "id": "golden-globes-2022-limited-the-underground-railroad",
+      "mediaType": "tv",
+      "title": "The Underground Railroad",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt6704972"
+      },
+      "award": "リミテッドシリーズ・アンソロジー・テレビ映画賞",
+      "awardYear": 2022,
+      "awardOrder": 7,
+      "winner": "The Underground Railroad"
+    }
+  ]
+}

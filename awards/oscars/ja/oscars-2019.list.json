@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T05:03:58Z",
+  "title": "アカデミー賞 2019 受賞一覧",
+  "description": "第91回アカデミー賞の主要映画部門の受賞作品と受賞者。",
+  "items": [
+    {
+      "id": "oscars-2019-best-picture-green-book",
+      "mediaType": "movie",
+      "title": "グリーンブック",
+      "award": "作品賞",
+      "awardYear": 2019,
+      "awardOrder": 1,
+      "winner": "Jim Burke, Charles B. Wessler, Brian Currie, Peter Farrelly & Nick Vallelonga",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt6966692"
+      }
+    },
+    {
+      "id": "oscars-2019-best-director-roma",
+      "mediaType": "movie",
+      "title": "ROMA/ローマ",
+      "award": "監督賞",
+      "awardYear": 2019,
+      "awardOrder": 2,
+      "winner": "Alfonso Cuarón",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt6155172"
+      }
+    },
+    {
+      "id": "oscars-2019-best-actor-bohemian-rhapsody",
+      "mediaType": "movie",
+      "title": "ボヘミアン・ラプソディ",
+      "award": "主演男優賞",
+      "awardYear": 2019,
+      "awardOrder": 3,
+      "winner": "Rami Malek",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt1727824"
+      }
+    },
+    {
+      "id": "oscars-2019-best-actress-the-favourite",
+      "mediaType": "movie",
+      "title": "The Favourite",
+      "award": "主演女優賞",
+      "awardYear": 2019,
+      "awardOrder": 4,
+      "winner": "Olivia Colman",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt5083738"
+      }
+    },
+    {
+      "id": "oscars-2019-best-supporting-actor-green-book",
+      "mediaType": "movie",
+      "title": "グリーンブック",
+      "award": "助演男優賞",
+      "awardYear": 2019,
+      "awardOrder": 5,
+      "winner": "Mahershala Ali",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt6966692"
+      }
+    },
+    {
+      "id": "oscars-2019-best-supporting-actress-if-beale-street-could-talk",
+      "mediaType": "movie",
+      "title": "If Beale Street Could Talk",
+      "award": "助演女優賞",
+      "awardYear": 2019,
+      "awardOrder": 6,
+      "winner": "Regina King",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7125860"
+      }
+    },
+    {
+      "id": "oscars-2019-best-original-screenplay-green-book",
+      "mediaType": "movie",
+      "title": "グリーンブック",
+      "award": "脚本賞",
+      "awardYear": 2019,
+      "awardOrder": 7,
+      "winner": "Nick Vallelonga, Brian Currie & Peter Farrelly",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt6966692"
+      }
+    },
+    {
+      "id": "oscars-2019-best-adapted-screenplay-blackkklansman",
+      "mediaType": "movie",
+      "title": "BlacKkKlansman",
+      "award": "脚色賞",
+      "awardYear": 2019,
+      "awardOrder": 8,
+      "winner": "Charlie Wachtel, David Rabinowitz, Kevin Willmott & Spike Lee",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7349662"
+      }
+    },
+    {
+      "id": "oscars-2019-best-animated-feature-spider-man-into-the-spider-verse",
+      "mediaType": "movie",
+      "title": "スパイダーマン：スパイダーバース",
+      "award": "長編アニメ映画賞",
+      "awardYear": 2019,
+      "awardOrder": 9,
+      "winner": "Bob Persichetti, Peter Ramsey, Rodney Rothman, Phil Lord & Christopher Miller",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt4633694"
+      }
+    },
+    {
+      "id": "oscars-2019-best-international-feature-roma",
+      "mediaType": "movie",
+      "title": "ROMA/ローマ",
+      "award": "国際長編映画賞",
+      "awardYear": 2019,
+      "awardOrder": 10,
+      "winner": "Alfonso Cuarón",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt6155172"
+      }
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T02:58:14Z",
+  "title": "百想芸術大賞 — テレビ部門 男性最優秀演技賞",
+  "description": "百想芸術大賞のテレビ部門男性最優秀演技賞受賞作。 2017年から2026年までを収録。",
+  "items": [
+    {
+      "id": "baeksang-2017-tv-actor-goblin",
+      "mediaType": "tv",
+      "title": "トッケビ ～君がくれた愛しい日々～",
+      "originalTitle": "도깨비",
+      "awardYear": 2017,
+      "winner": "コン・ユ",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5994364"
+      }
+    },
+    {
+      "id": "baeksang-2018-tv-actor-stranger",
+      "mediaType": "tv",
+      "title": "秘密の森",
+      "originalTitle": "비밀의 숲",
+      "awardYear": 2018,
+      "winner": "チョ・スンウ",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6461346"
+      }
+    },
+    {
+      "id": "baeksang-2019-tv-actor-mr-sunshine",
+      "mediaType": "tv",
+      "title": "ミスター・サンシャイン",
+      "originalTitle": "미스터 션샤인",
+      "awardYear": 2019,
+      "winner": "イ・ビョンホン",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7094780"
+      }
+    },
+    {
+      "id": "baeksang-2020-tv-actor-camellia",
+      "mediaType": "tv",
+      "title": "椿の花咲く頃",
+      "originalTitle": "동백꽃 필 무렵",
+      "awardYear": 2020,
+      "winner": "カン・ハヌル",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10826064"
+      }
+    },
+    {
+      "id": "baeksang-2021-tv-actor-beyond-evil",
+      "mediaType": "tv",
+      "title": "怪物",
+      "originalTitle": "괴물",
+      "awardYear": 2021,
+      "winner": "シン・ハギュン",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt13634872"
+      }
+    },
+    {
+      "id": "baeksang-2022-tv-actor-red-sleeve",
+      "mediaType": "tv",
+      "title": "赤い袖先",
+      "originalTitle": "옷소매 붉은 끝동",
+      "awardYear": 2022,
+      "winner": "イ・ジュノ",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14687200"
+      }
+    },
+    {
+      "id": "baeksang-2023-tv-actor-reborn-rich",
+      "mediaType": "tv",
+      "title": "財閥家の末息子～Reborn Rich～",
+      "originalTitle": "재벌집 막내아들",
+      "awardYear": 2023,
+      "winner": "イ・ソンミン",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt18352538"
+      }
+    },
+    {
+      "id": "baeksang-2024-tv-actor-my-dearest",
+      "mediaType": "tv",
+      "title": "恋人～あの日聞いた花の咲く音～",
+      "originalTitle": "연인",
+      "awardYear": 2024,
+      "winner": "ナムグン・ミン",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt26228190"
+      }
+    },
+    {
+      "id": "baeksang-2025-tv-actor-trauma",
+      "mediaType": "tv",
+      "title": "トラウマコード",
+      "originalTitle": "중증외상센터",
+      "awardYear": 2025,
+      "winner": "チュ・ジフン",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt28106730"
+      }
+    },
+    {
+      "id": "baeksang-2026-tv-actor-made-korea",
+      "mediaType": "tv",
+      "title": "メイド・イン・コリア",
+      "originalTitle": "메이드 인 코리아",
+      "awardYear": 2026,
+      "winner": "ヒョンビン",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt33298903"
+      }
+    }
+  ]
+}

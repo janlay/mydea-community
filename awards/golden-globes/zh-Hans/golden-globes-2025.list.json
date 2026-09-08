@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "金球奖 2025",
+  "description": "2025 金球奖主要电影与电视作品类获奖名单。",
+  "items": [
+    {
+      "id": "golden-globes-2025-drama-the-brutalist",
+      "mediaType": "movie",
+      "title": "粗野派",
+      "englishTitle": "The Brutalist",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt8999762"
+      },
+      "award": "最佳剧情片",
+      "awardYear": 2025,
+      "awardOrder": 1,
+      "winner": "粗野派"
+    },
+    {
+      "id": "golden-globes-2025-comedy-emilia-perez",
+      "mediaType": "movie",
+      "title": "艾米莉亚·佩雷斯",
+      "englishTitle": "Emilia Pérez",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt20221436"
+      },
+      "award": "最佳音乐或喜剧片",
+      "awardYear": 2025,
+      "awardOrder": 2,
+      "winner": "艾米莉亚·佩雷斯"
+    },
+    {
+      "id": "golden-globes-2025-animated-flow",
+      "mediaType": "movie",
+      "title": "猫猫的奇幻漂流",
+      "englishTitle": "Flow",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt4772188"
+      },
+      "award": "最佳动画片",
+      "awardYear": 2025,
+      "awardOrder": 3,
+      "winner": "猫猫的奇幻漂流"
+    },
+    {
+      "id": "golden-globes-2025-foreign-emilia-perez",
+      "mediaType": "movie",
+      "title": "艾米莉亚·佩雷斯",
+      "englishTitle": "Emilia Pérez",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt20221436"
+      },
+      "award": "最佳非英语片",
+      "awardYear": 2025,
+      "awardOrder": 4,
+      "winner": "艾米莉亚·佩雷斯"
+    },
+    {
+      "id": "golden-globes-2025-tv_drama-shogun",
+      "mediaType": "tv",
+      "title": "幕府将军",
+      "englishTitle": "Shōgun",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt2788316"
+      },
+      "award": "最佳剧情类剧集",
+      "awardYear": 2025,
+      "awardOrder": 5,
+      "winner": "幕府将军"
+    },
+    {
+      "id": "golden-globes-2025-tv_comedy-hacks",
+      "mediaType": "tv",
+      "title": "绝望写手",
+      "englishTitle": "Hacks",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt11815682"
+      },
+      "award": "最佳音乐或喜剧类剧集",
+      "awardYear": 2025,
+      "awardOrder": 6,
+      "winner": "绝望写手"
+    },
+    {
+      "id": "golden-globes-2025-limited-baby-reindeer",
+      "mediaType": "tv",
+      "title": "驯鹿宝贝",
+      "englishTitle": "Baby Reindeer",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt13649112"
+      },
+      "award": "最佳限定剧、选集剧或电视电影",
+      "awardYear": 2025,
+      "awardOrder": 7,
+      "winner": "驯鹿宝贝"
+    },
+    {
+      "id": "golden-globes-2025-boxoffice-wicked",
+      "mediaType": "movie",
+      "title": "魔法坏女巫",
+      "englishTitle": "Wicked",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt1262426"
+      },
+      "award": "电影和票房成就奖",
+      "awardYear": 2025,
+      "awardOrder": 8,
+      "winner": "魔法坏女巫"
+    }
+  ]
+}

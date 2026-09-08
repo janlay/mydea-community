@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "ゴールデングローブ賞 2018",
+  "description": "2018年のゴールデングローブ賞主要映画・テレビ作品部門の受賞一覧。",
+  "items": [
+    {
+      "id": "golden-globes-2018-drama-three-billboards-outside-ebbing-missouri",
+      "mediaType": "movie",
+      "title": "スリー・ビルボード",
+      "englishTitle": "Three Billboards Outside Ebbing, Missouri",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5027774"
+      },
+      "award": "作品賞 ドラマ部門",
+      "awardYear": 2018,
+      "awardOrder": 1,
+      "winner": "スリー・ビルボード"
+    },
+    {
+      "id": "golden-globes-2018-comedy-lady-bird",
+      "mediaType": "movie",
+      "title": "レディ・バード",
+      "englishTitle": "Lady Bird",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt4925292"
+      },
+      "award": "作品賞 ミュージカル・コメディ部門",
+      "awardYear": 2018,
+      "awardOrder": 2,
+      "winner": "レディ・バード"
+    },
+    {
+      "id": "golden-globes-2018-animated-coco",
+      "mediaType": "movie",
+      "title": "リメンバー・ミー",
+      "englishTitle": "Coco",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt2380307"
+      },
+      "award": "アニメーション映画賞",
+      "awardYear": 2018,
+      "awardOrder": 3,
+      "winner": "リメンバー・ミー"
+    },
+    {
+      "id": "golden-globes-2018-foreign-in-the-fade",
+      "mediaType": "movie",
+      "title": "女は二度決断する",
+      "englishTitle": "In the Fade",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5723272"
+      },
+      "award": "非英語映画賞",
+      "awardYear": 2018,
+      "awardOrder": 4,
+      "winner": "女は二度決断する"
+    },
+    {
+      "id": "golden-globes-2018-tv_drama-the-handmaid-s-tale",
+      "mediaType": "tv",
+      "title": "ハンドメイズ・テイル／侍女の物語",
+      "englishTitle": "The Handmaid's Tale",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5834204"
+      },
+      "award": "テレビドラマ作品賞",
+      "awardYear": 2018,
+      "awardOrder": 5,
+      "winner": "ハンドメイズ・テイル／侍女の物語"
+    },
+    {
+      "id": "golden-globes-2018-tv_comedy-the-marvelous-mrs-maisel",
+      "mediaType": "tv",
+      "title": "マーベラス・ミセス・メイゼル",
+      "englishTitle": "The Marvelous Mrs. Maisel",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5788792"
+      },
+      "award": "テレビ作品賞 ミュージカル・コメディ部門",
+      "awardYear": 2018,
+      "awardOrder": 6,
+      "winner": "マーベラス・ミセス・メイゼル"
+    },
+    {
+      "id": "golden-globes-2018-limited-big-little-lies",
+      "mediaType": "tv",
+      "title": "ビッグ・リトル・ライズ",
+      "englishTitle": "Big Little Lies",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt3920596"
+      },
+      "award": "リミテッドシリーズ・アンソロジー・テレビ映画賞",
+      "awardYear": 2018,
+      "awardOrder": 7,
+      "winner": "ビッグ・リトル・ライズ"
+    }
+  ]
+}

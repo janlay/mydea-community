@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "title": "칸 — 주목할 만한 시선 연기상",
+  "author": "Mydea",
+  "updatedAt": "2026-09-16T04:43:24Z",
+  "description": "칸 영화제 주목할 만한 시선 부문의 역대 수상작입니다. 주목할 만한 시선 연기상.",
+  "tags": [
+    "award",
+    "cannes",
+    "prize"
+  ],
+  "items": [
+    {
+      "id": "cannes-ucr-performance-2022-corsage",
+      "mediaType": "movie",
+      "title": "Corsage",
+      "awardYear": 2022,
+      "winner": "Vicky Krieps",
+      "externalIds": {
+        "imdb": "tt11992694"
+      },
+      "releaseDate": "2022"
+    },
+    {
+      "id": "cannes-ucr-performance-2022-harka",
+      "mediaType": "movie",
+      "title": "Harka",
+      "awardYear": 2022,
+      "winner": "Adam Bessa",
+      "externalIds": {
+        "imdb": "tt9317274"
+      },
+      "releaseDate": "2022"
+    },
+    {
+      "id": "cannes-ucr-performance-2024-souleymane-s-story",
+      "mediaType": "movie",
+      "title": "Souleymane's Story",
+      "awardYear": 2024,
+      "winner": "Abou Sangaré",
+      "externalIds": {
+        "imdb": "tt32086046"
+      },
+      "releaseDate": "2024"
+    },
+    {
+      "id": "cannes-ucr-performance-2024-the-shameless",
+      "mediaType": "movie",
+      "title": "The Shameless",
+      "awardYear": 2024,
+      "winner": "Anasuya Sengupta",
+      "externalIds": {
+        "imdb": "tt15437986"
+      },
+      "releaseDate": "2024"
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T05:03:58Z",
+  "title": "Oscars — Best Supporting Actress",
+  "description": "Ten-year winner history for the Academy Award for Best Supporting Actress.",
+  "items": [
+    {
+      "id": "oscars-best-supporting-actress-2017-fences",
+      "mediaType": "movie",
+      "title": "Fences",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt2671706"
+      },
+      "awardYear": 2017,
+      "winner": "Viola Davis"
+    },
+    {
+      "id": "oscars-best-supporting-actress-2018-i-tonya",
+      "mediaType": "movie",
+      "title": "I, Tonya",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5580036"
+      },
+      "awardYear": 2018,
+      "winner": "Allison Janney"
+    },
+    {
+      "id": "oscars-best-supporting-actress-2019-if-beale-street-could-talk",
+      "mediaType": "movie",
+      "title": "If Beale Street Could Talk",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7125860"
+      },
+      "awardYear": 2019,
+      "winner": "Regina King"
+    },
+    {
+      "id": "oscars-best-supporting-actress-2020-marriage-story",
+      "mediaType": "movie",
+      "title": "Marriage Story",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt7653254"
+      },
+      "awardYear": 2020,
+      "winner": "Laura Dern"
+    },
+    {
+      "id": "oscars-best-supporting-actress-2021-minari",
+      "mediaType": "movie",
+      "title": "Minari",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10633456"
+      },
+      "awardYear": 2021,
+      "winner": "Youn Yuh-jung"
+    },
+    {
+      "id": "oscars-best-supporting-actress-2022-west-side-story",
+      "mediaType": "movie",
+      "title": "West Side Story",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt3581652"
+      },
+      "awardYear": 2022,
+      "winner": "Ariana DeBose"
+    },
+    {
+      "id": "oscars-best-supporting-actress-2023-everything-everywhere-all-at-once",
+      "mediaType": "movie",
+      "title": "Everything Everywhere All at Once",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt6710474"
+      },
+      "awardYear": 2023,
+      "winner": "Jamie Lee Curtis"
+    },
+    {
+      "id": "oscars-best-supporting-actress-2024-the-holdovers",
+      "mediaType": "movie",
+      "title": "The Holdovers",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt14849194"
+      },
+      "awardYear": 2024,
+      "winner": "Da'Vine Joy Randolph"
+    },
+    {
+      "id": "oscars-best-supporting-actress-2025-emilia-p-rez",
+      "mediaType": "movie",
+      "title": "Emilia Pérez",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt20221436"
+      },
+      "awardYear": 2025,
+      "winner": "Zoe Saldaña"
+    },
+    {
+      "id": "oscars-best-supporting-actress-2026-weapons",
+      "mediaType": "movie",
+      "title": "Weapons",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt26581740"
+      },
+      "awardYear": 2026,
+      "winner": "Amy Madigan"
+    }
+  ]
+}

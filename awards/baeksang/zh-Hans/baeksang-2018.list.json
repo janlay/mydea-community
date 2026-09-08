@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T02:53:58Z",
+  "title": "百想艺术大赏 — 2018",
+  "description": "2018 年百想艺术大赏电影与电视主要奖项获奖记录。",
+  "items": [
+    {
+      "id": "baeksang-2018-film-grand-1987",
+      "mediaType": "movie",
+      "title": "1987：黎明到来的那一天",
+      "originalTitle": "1987",
+      "award": "电影大奖",
+      "awardYear": 2018,
+      "awardOrder": 1,
+      "winner": "1987：黎明到来的那一天",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6493286"
+      }
+    },
+    {
+      "id": "baeksang-2018-tv-grand-stranger",
+      "mediaType": "tv",
+      "title": "秘密森林",
+      "originalTitle": "비밀의 숲",
+      "award": "电视大奖",
+      "awardYear": 2018,
+      "awardOrder": 2,
+      "winner": "秘密森林",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6461346"
+      }
+    },
+    {
+      "id": "baeksang-2018-film-best-fortress",
+      "mediaType": "movie",
+      "title": "南汉山城",
+      "originalTitle": "남한산성",
+      "award": "最佳电影",
+      "awardYear": 2018,
+      "awardOrder": 3,
+      "winner": "南汉山城",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7160176"
+      }
+    },
+    {
+      "id": "baeksang-2018-film-director-along-gods",
+      "mediaType": "movie",
+      "title": "与神同行：罪与罚",
+      "originalTitle": "신과함께-죄와 벌",
+      "award": "电影最佳导演",
+      "awardYear": 2018,
+      "awardOrder": 4,
+      "winner": "Kim Yong-hwa",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7160070"
+      }
+    },
+    {
+      "id": "baeksang-2018-film-actor-1987",
+      "mediaType": "movie",
+      "title": "1987：黎明到来的那一天",
+      "originalTitle": "1987",
+      "award": "电影最佳男主角",
+      "awardYear": 2018,
+      "awardOrder": 5,
+      "winner": "Kim Yoon-seok",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6493286"
+      }
+    },
+    {
+      "id": "baeksang-2018-film-actress-i-can-speak",
+      "mediaType": "movie",
+      "title": "我能说",
+      "originalTitle": "아이 캔 스피크",
+      "award": "电影最佳女主角",
+      "awardYear": 2018,
+      "awardOrder": 6,
+      "winner": "Na Moon-hee",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7342204"
+      }
+    },
+    {
+      "id": "baeksang-2018-tv-best-mother",
+      "mediaType": "tv",
+      "title": "母亲",
+      "originalTitle": "마더",
+      "award": "最佳电视剧",
+      "awardYear": 2018,
+      "awardOrder": 7,
+      "winner": "母亲",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7795226"
+      }
+    },
+    {
+      "id": "baeksang-2018-tv-director-lady-dignity",
+      "mediaType": "tv",
+      "title": "有品位的她",
+      "originalTitle": "품위있는 그녀",
+      "award": "电视最佳导演",
+      "awardYear": 2018,
+      "awardOrder": 8,
+      "winner": "Kim Yun-cheol",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6898288"
+      }
+    },
+    {
+      "id": "baeksang-2018-tv-actor-stranger",
+      "mediaType": "tv",
+      "title": "秘密森林",
+      "originalTitle": "비밀의 숲",
+      "award": "电视最佳男主角",
+      "awardYear": 2018,
+      "awardOrder": 9,
+      "winner": "Cho Seung-woo",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6461346"
+      }
+    },
+    {
+      "id": "baeksang-2018-tv-actress-misty",
+      "mediaType": "tv",
+      "title": "迷雾",
+      "originalTitle": "미스티",
+      "award": "电视最佳女主角",
+      "awardYear": 2018,
+      "awardOrder": 10,
+      "winner": "Kim Nam-joo",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7890244"
+      }
+    }
+  ]
+}

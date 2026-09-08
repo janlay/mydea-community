@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "Mydea",
+  "title": "威尼斯 — 銀獅獎·評審團大獎",
+  "description": "威尼斯影展歷屆銀獅獎·評審團大獎獲獎影片/表演記錄；按該獎項現行或歷史等價類別整理。",
+  "layout": "grid",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "venice-grand-jury-prize.list.json"
+    }
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ]
+}

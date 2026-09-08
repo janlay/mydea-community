@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "金球獎 — 最佳劇情類影集",
+  "description": "2017–2026 年金球獎最佳劇情類影集获奖作品。",
+  "items": [
+    {
+      "id": "golden-globes-tv_drama-2017-the-crown",
+      "mediaType": "tv",
+      "title": "王冠",
+      "englishTitle": "The Crown",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4786824"
+      },
+      "awardYear": 2017,
+      "winner": "王冠"
+    },
+    {
+      "id": "golden-globes-tv_drama-2018-the-handmaid-s-tale",
+      "mediaType": "tv",
+      "title": "使女的故事",
+      "englishTitle": "The Handmaid's Tale",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5834204"
+      },
+      "awardYear": 2018,
+      "winner": "使女的故事"
+    },
+    {
+      "id": "golden-globes-tv_drama-2019-bodyguard",
+      "mediaType": "tv",
+      "title": "Bodyguard",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7493974"
+      },
+      "awardYear": 2019,
+      "winner": "Bodyguard"
+    },
+    {
+      "id": "golden-globes-tv_drama-2020-succession",
+      "mediaType": "tv",
+      "title": "繼承之戰",
+      "englishTitle": "Succession",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7660850"
+      },
+      "awardYear": 2020,
+      "winner": "繼承之戰"
+    },
+    {
+      "id": "golden-globes-tv_drama-2021-the-crown",
+      "mediaType": "tv",
+      "title": "王冠",
+      "englishTitle": "The Crown",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4786824"
+      },
+      "awardYear": 2021,
+      "winner": "王冠"
+    },
+    {
+      "id": "golden-globes-tv_drama-2022-succession",
+      "mediaType": "tv",
+      "title": "繼承之戰",
+      "englishTitle": "Succession",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7660850"
+      },
+      "awardYear": 2022,
+      "winner": "繼承之戰"
+    },
+    {
+      "id": "golden-globes-tv_drama-2023-house-of-the-dragon",
+      "mediaType": "tv",
+      "title": "龍族前傳",
+      "englishTitle": "House of the Dragon",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt11198330"
+      },
+      "awardYear": 2023,
+      "winner": "龍族前傳"
+    },
+    {
+      "id": "golden-globes-tv_drama-2024-succession",
+      "mediaType": "tv",
+      "title": "繼承之戰",
+      "englishTitle": "Succession",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7660850"
+      },
+      "awardYear": 2024,
+      "winner": "繼承之戰"
+    },
+    {
+      "id": "golden-globes-tv_drama-2025-shogun",
+      "mediaType": "tv",
+      "title": "幕府將軍",
+      "englishTitle": "Shōgun",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt2788316"
+      },
+      "awardYear": 2025,
+      "winner": "幕府將軍"
+    },
+    {
+      "id": "golden-globes-tv_drama-2026-the-pitt",
+      "mediaType": "tv",
+      "title": "匹茲堡醫護前線",
+      "englishTitle": "The Pitt",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31938062"
+      },
+      "awardYear": 2026,
+      "winner": "匹茲堡醫護前線"
+    }
+  ]
+}

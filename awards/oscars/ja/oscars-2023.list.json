@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T05:03:58Z",
+  "title": "アカデミー賞 2023 受賞一覧",
+  "description": "第95回アカデミー賞の主要映画部門の受賞作品と受賞者。",
+  "items": [
+    {
+      "id": "oscars-2023-best-picture-everything-everywhere-all-at-once",
+      "mediaType": "movie",
+      "title": "Everything Everywhere All at Once",
+      "award": "作品賞",
+      "awardYear": 2023,
+      "awardOrder": 1,
+      "winner": "Daniel Kwan, Daniel Scheinert & Jonathan Wang",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt6710474"
+      }
+    },
+    {
+      "id": "oscars-2023-best-director-everything-everywhere-all-at-once",
+      "mediaType": "movie",
+      "title": "Everything Everywhere All at Once",
+      "award": "監督賞",
+      "awardYear": 2023,
+      "awardOrder": 2,
+      "winner": "Daniel Kwan & Daniel Scheinert",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt6710474"
+      }
+    },
+    {
+      "id": "oscars-2023-best-actor-the-whale",
+      "mediaType": "movie",
+      "title": "The Whale",
+      "award": "主演男優賞",
+      "awardYear": 2023,
+      "awardOrder": 3,
+      "winner": "Brendan Fraser",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt13833688"
+      }
+    },
+    {
+      "id": "oscars-2023-best-actress-everything-everywhere-all-at-once",
+      "mediaType": "movie",
+      "title": "Everything Everywhere All at Once",
+      "award": "主演女優賞",
+      "awardYear": 2023,
+      "awardOrder": 4,
+      "winner": "Michelle Yeoh",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt6710474"
+      }
+    },
+    {
+      "id": "oscars-2023-best-supporting-actor-everything-everywhere-all-at-once",
+      "mediaType": "movie",
+      "title": "Everything Everywhere All at Once",
+      "award": "助演男優賞",
+      "awardYear": 2023,
+      "awardOrder": 5,
+      "winner": "Ke Huy Quan",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt6710474"
+      }
+    },
+    {
+      "id": "oscars-2023-best-supporting-actress-everything-everywhere-all-at-once",
+      "mediaType": "movie",
+      "title": "Everything Everywhere All at Once",
+      "award": "助演女優賞",
+      "awardYear": 2023,
+      "awardOrder": 6,
+      "winner": "Jamie Lee Curtis",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt6710474"
+      }
+    },
+    {
+      "id": "oscars-2023-best-original-screenplay-everything-everywhere-all-at-once",
+      "mediaType": "movie",
+      "title": "Everything Everywhere All at Once",
+      "award": "脚本賞",
+      "awardYear": 2023,
+      "awardOrder": 7,
+      "winner": "Daniel Kwan & Daniel Scheinert",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt6710474"
+      }
+    },
+    {
+      "id": "oscars-2023-best-adapted-screenplay-women-talking",
+      "mediaType": "movie",
+      "title": "Women Talking",
+      "award": "脚色賞",
+      "awardYear": 2023,
+      "awardOrder": 8,
+      "winner": "Sarah Polley",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt13669038"
+      }
+    },
+    {
+      "id": "oscars-2023-best-animated-feature-guillermo-del-toro-s-pinocchio",
+      "mediaType": "movie",
+      "title": "ギレルモ・デル・トロのピノッキオ",
+      "award": "長編アニメ映画賞",
+      "awardYear": 2023,
+      "awardOrder": 9,
+      "winner": "Guillermo del Toro, Mark Gustafson, Gary Ungar & Alex Bulkley",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt1488589"
+      }
+    },
+    {
+      "id": "oscars-2023-best-international-feature-all-quiet-on-the-western-front",
+      "mediaType": "movie",
+      "title": "All Quiet on the Western Front",
+      "award": "国際長編映画賞",
+      "awardYear": 2023,
+      "awardOrder": 10,
+      "winner": "Germany",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt1016150"
+      }
+    }
+  ]
+}

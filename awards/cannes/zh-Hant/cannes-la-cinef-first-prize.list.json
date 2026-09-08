@@ -1,0 +1,254 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "title": "坎城 — La Cinef一等獎",
+  "author": "Mydea",
+  "updatedAt": "2026-09-16T04:43:24Z",
+  "description": "坎城影展Cinéfondation及La Cinef歷屆獎項。 La Cinef一等獎.",
+  "tags": [
+    "award",
+    "cannes",
+    "prize"
+  ],
+  "items": [
+    {
+      "id": "cannes-cinef-first-1998-jakub",
+      "mediaType": "movie",
+      "title": "Jakub",
+      "awardYear": 1998,
+      "winner": "Adam Guzinski"
+    },
+    {
+      "id": "cannes-cinef-first-1999-second-hand",
+      "mediaType": "movie",
+      "title": "Second Hand",
+      "awardYear": 1999,
+      "winner": "Emily Young"
+    },
+    {
+      "id": "cannes-cinef-first-2000-five-feet-high-and-rising",
+      "mediaType": "movie",
+      "title": "Five Feet High and Rising",
+      "awardYear": 2000,
+      "winner": "Peter Sollett"
+    },
+    {
+      "id": "cannes-cinef-first-2001-portrait",
+      "mediaType": "movie",
+      "title": "Portrait",
+      "awardYear": 2001,
+      "winner": "Sergei Luchishin"
+    },
+    {
+      "id": "cannes-cinef-first-2002-um-sol-alaranjado",
+      "mediaType": "movie",
+      "title": "Um Sol Alaranjado",
+      "awardYear": 2002,
+      "winner": "Eduardo Valente"
+    },
+    {
+      "id": "cannes-cinef-first-2003-bezi-zeko-bezi",
+      "mediaType": "movie",
+      "title": "Bezi Zeko Bezi",
+      "awardYear": 2003,
+      "winner": "Pavle Vuckovic"
+    },
+    {
+      "id": "cannes-cinef-first-2004-happy-now",
+      "mediaType": "movie",
+      "title": "Happy Now",
+      "awardYear": 2004,
+      "winner": "Frederikke Aspöck"
+    },
+    {
+      "id": "cannes-cinef-first-2005-buy-it-now",
+      "mediaType": "movie",
+      "title": "Buy It Now",
+      "awardYear": 2005,
+      "winner": "Antonio Campos"
+    },
+    {
+      "id": "cannes-cinef-first-2006-ge-zeta",
+      "mediaType": "movie",
+      "title": "Ge & Zeta",
+      "awardYear": 2006,
+      "winner": "Gustavo Riet"
+    },
+    {
+      "id": "cannes-cinef-first-2007-ahora-todos-parecen-contentos",
+      "mediaType": "movie",
+      "title": "Ahora Todos Parecen Contentos",
+      "awardYear": 2007,
+      "winner": "Gonzalo Tobal"
+    },
+    {
+      "id": "cannes-cinef-first-2008-hymnon",
+      "mediaType": "movie",
+      "title": "Hymnon",
+      "awardYear": 2008,
+      "winner": "Elad Keidan"
+    },
+    {
+      "id": "cannes-cinef-first-2009-baba",
+      "mediaType": "movie",
+      "title": "Bába",
+      "awardYear": 2009,
+      "winner": "Zuzana Kirchnerová"
+    },
+    {
+      "id": "cannes-cinef-first-2010-taulukauppiaat",
+      "mediaType": "movie",
+      "title": "Taulukauppiaat",
+      "awardYear": 2010,
+      "winner": "Juho Kuosmanen"
+    },
+    {
+      "id": "cannes-cinef-first-2011-der-brief",
+      "mediaType": "movie",
+      "title": "Der Brief",
+      "awardYear": 2011,
+      "winner": "Doroteya Droumeva"
+    },
+    {
+      "id": "cannes-cinef-first-2012-doroga-na",
+      "mediaType": "movie",
+      "title": "Doroga na",
+      "awardYear": 2012,
+      "winner": "Taisia Igumentseva"
+    },
+    {
+      "id": "cannes-cinef-first-2013-needle",
+      "mediaType": "movie",
+      "title": "Needle",
+      "awardYear": 2013,
+      "winner": "Anahita Ghazvinizadeh"
+    },
+    {
+      "id": "cannes-cinef-first-2014-skunk",
+      "mediaType": "movie",
+      "title": "Skunk",
+      "awardYear": 2014,
+      "winner": "Annie Silverstein"
+    },
+    {
+      "id": "cannes-cinef-first-2015-share",
+      "mediaType": "movie",
+      "title": "Share",
+      "awardYear": 2015,
+      "winner": "Pippa Bianco"
+    },
+    {
+      "id": "cannes-cinef-first-2016-anna",
+      "mediaType": "movie",
+      "title": "Anna",
+      "awardYear": 2016,
+      "winner": "Or Sinai"
+    },
+    {
+      "id": "cannes-cinef-first-2017-paul-is-here",
+      "mediaType": "movie",
+      "title": "Paul est là",
+      "awardYear": 2017,
+      "winner": "Valentina Maurel",
+      "externalIds": {
+        "imdb": "tt7197034"
+      },
+      "releaseDate": "2017"
+    },
+    {
+      "id": "cannes-cinef-first-2018-the-summer-of-the-electric-lion",
+      "mediaType": "movie",
+      "title": "El verano del león eléctrico",
+      "awardYear": 2018,
+      "winner": "Diego Céspedes",
+      "externalIds": {
+        "imdb": "tt8517672"
+      },
+      "releaseDate": "2018"
+    },
+    {
+      "id": "cannes-cinef-first-2019-mano-a-mano",
+      "mediaType": "movie",
+      "title": "Mano a Mano",
+      "awardYear": 2019,
+      "winner": "Louise Courvoisier",
+      "externalIds": {
+        "imdb": "tt8336716"
+      },
+      "releaseDate": "2018"
+    },
+    {
+      "id": "cannes-cinef-first-2020-catdog",
+      "mediaType": "movie",
+      "title": "Catdog",
+      "awardYear": 2020,
+      "winner": "Ashmita Guha Neogi"
+    },
+    {
+      "id": "cannes-cinef-first-2021-the-salamander-child",
+      "mediaType": "movie",
+      "title": "L'enfant Salamandre",
+      "awardYear": 2021,
+      "winner": "Théo Degen",
+      "externalIds": {
+        "imdb": "tt15018628"
+      },
+      "releaseDate": "2021"
+    },
+    {
+      "id": "cannes-cinef-first-2022-a-conspiracy-man",
+      "mediaType": "movie",
+      "title": "廢中陰謀論",
+      "awardYear": 2022,
+      "winner": "Valerio Ferrara",
+      "externalIds": {
+        "imdb": "tt19815650"
+      },
+      "releaseDate": "2022"
+    },
+    {
+      "id": "cannes-cinef-first-2023-norwegian-offspring",
+      "mediaType": "movie",
+      "title": "挪威後代",
+      "awardYear": 2023,
+      "winner": "Marlene Emilie Lyngstad",
+      "externalIds": {
+        "imdb": "tt27604407"
+      },
+      "releaseDate": "2023"
+    },
+    {
+      "id": "cannes-cinef-first-2024-sunflowers-were-the-first-ones-to-know",
+      "mediaType": "movie",
+      "title": "Sunflowers Were the First Ones to Know...",
+      "awardYear": 2024,
+      "winner": "Chidananda S Naik",
+      "externalIds": {
+        "imdb": "tt28493138"
+      },
+      "releaseDate": "2023"
+    },
+    {
+      "id": "cannes-cinef-first-2025-first-summer",
+      "mediaType": "movie",
+      "title": "初夏悼念曲",
+      "awardYear": 2025,
+      "winner": "Heo Gayoung",
+      "externalIds": {
+        "imdb": "tt36724208"
+      },
+      "releaseDate": "2025"
+    },
+    {
+      "id": "cannes-cinef-first-2026-laser-cat",
+      "mediaType": "movie",
+      "title": "Laser-Gato",
+      "awardYear": 2026,
+      "winner": "Lucas Acher",
+      "externalIds": {
+        "tmdb": "1678782",
+        "imdb": "tt42006686"
+      }
+    }
+  ]
+}

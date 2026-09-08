@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "부산국제영화제 — 부산 어워드 작품상",
+  "description": "부산국제영화제 부산 어워드 작품상 역대 수상작.",
+  "items": [
+    {
+      "id": "biff-busan-best-film-2025-gloaming-in-luomu",
+      "mediaType": "movie",
+      "title": "Gloaming in Luomu",
+      "releaseDate": "2025",
+      "externalIds": {
+        "letterboxd": "gloaming-in-luomu"
+      },
+      "awardYear": 2025,
+      "winner": "ZHANG Lu"
+    }
+  ]
+}

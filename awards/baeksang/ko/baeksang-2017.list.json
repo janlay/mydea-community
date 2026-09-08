@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T02:53:58Z",
+  "title": "백상예술대상 — 2017",
+  "description": "2017년 백상예술대상 영화·방송 주요 수상 기록.",
+  "items": [
+    {
+      "id": "baeksang-2017-film-grand-handmaiden",
+      "mediaType": "movie",
+      "title": "아가씨",
+      "englishTitle": "The Handmaiden",
+      "award": "영화부문 대상",
+      "awardYear": 2017,
+      "awardOrder": 1,
+      "winner": "Park Chan-wook",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4016934"
+      }
+    },
+    {
+      "id": "baeksang-2017-tv-grand-goblin",
+      "mediaType": "tv",
+      "title": "도깨비",
+      "englishTitle": "Guardian: The Lonely and Great God",
+      "award": "방송부문 대상",
+      "awardYear": 2017,
+      "awardOrder": 2,
+      "winner": "Kim Eun-sook",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5994364"
+      }
+    },
+    {
+      "id": "baeksang-2017-film-best-wailing",
+      "mediaType": "movie",
+      "title": "곡성",
+      "englishTitle": "The Wailing",
+      "award": "영화부문 작품상",
+      "awardYear": 2017,
+      "awardOrder": 3,
+      "winner": "곡성",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5215952"
+      }
+    },
+    {
+      "id": "baeksang-2017-film-director-age-shadows",
+      "mediaType": "movie",
+      "title": "밀정",
+      "englishTitle": "The Age of Shadows",
+      "award": "영화부문 감독상",
+      "awardYear": 2017,
+      "awardOrder": 4,
+      "winner": "Kim Jee-woon",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4914580"
+      }
+    },
+    {
+      "id": "baeksang-2017-film-actor-age-shadows",
+      "mediaType": "movie",
+      "title": "밀정",
+      "englishTitle": "The Age of Shadows",
+      "award": "영화부문 남자 최우수 연기상",
+      "awardYear": 2017,
+      "awardOrder": 5,
+      "winner": "Song Kang-ho",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4914580"
+      }
+    },
+    {
+      "id": "baeksang-2017-film-actress-last-princess",
+      "mediaType": "movie",
+      "title": "덕혜옹주",
+      "englishTitle": "The Last Princess",
+      "award": "영화부문 여자 최우수 연기상",
+      "awardYear": 2017,
+      "awardOrder": 6,
+      "winner": "Son Ye-jin",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5947416"
+      }
+    },
+    {
+      "id": "baeksang-2017-tv-best-dear-friends",
+      "mediaType": "tv",
+      "title": "디어 마이 프렌즈",
+      "englishTitle": "Dear My Friends",
+      "award": "방송부문 작품상 드라마",
+      "awardYear": 2017,
+      "awardOrder": 7,
+      "winner": "디어 마이 프렌즈",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5689030"
+      }
+    },
+    {
+      "id": "baeksang-2017-tv-director-dr-romantic",
+      "mediaType": "tv",
+      "title": "낭만닥터 김사부",
+      "englishTitle": "Dr. Romantic",
+      "award": "방송부문 연출상",
+      "awardYear": 2017,
+      "awardOrder": 8,
+      "winner": "Yu In-sik",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt6157190"
+      }
+    },
+    {
+      "id": "baeksang-2017-tv-actor-goblin",
+      "mediaType": "tv",
+      "title": "도깨비",
+      "englishTitle": "Guardian: The Lonely and Great God",
+      "award": "방송부문 남자 최우수 연기상",
+      "awardYear": 2017,
+      "awardOrder": 9,
+      "winner": "Gong Yoo",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5994364"
+      }
+    },
+    {
+      "id": "baeksang-2017-tv-actress-another-miss-oh",
+      "mediaType": "tv",
+      "title": "또 오해영",
+      "englishTitle": "Another Miss Oh",
+      "award": "방송부문 여자 최우수 연기상",
+      "awardYear": 2017,
+      "awardOrder": 10,
+      "winner": "Seo Hyun-jin",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5679572"
+      }
+    }
+  ]
+}

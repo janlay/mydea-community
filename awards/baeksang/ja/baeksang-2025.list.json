@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T02:58:14Z",
+  "title": "百想芸術大賞 — 2025",
+  "description": "2025年の百想芸術大賞における主要な映画・テレビ部門の受賞作品。",
+  "items": [
+    {
+      "id": "baeksang-2025-film-grand-harbin",
+      "mediaType": "movie",
+      "title": "ハルビン",
+      "originalTitle": "하얼빈",
+      "award": "映画部門 大賞",
+      "awardYear": 2025,
+      "awardOrder": 1,
+      "winner": "ホン・ギョンピョ",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt23630030"
+      }
+    },
+    {
+      "id": "baeksang-2025-tv-grand-culinary",
+      "mediaType": "tv",
+      "title": "白と黒のスプーン ～料理階級戦争～",
+      "originalTitle": "흑백요리사: 요리 계급 전쟁",
+      "award": "テレビ部門 大賞",
+      "awardYear": 2025,
+      "awardOrder": 2,
+      "winner": "白と黒のスプーン ～料理階級戦争～",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt33040785"
+      }
+    },
+    {
+      "id": "baeksang-2025-film-best-harbin",
+      "mediaType": "movie",
+      "title": "ハルビン",
+      "originalTitle": "하얼빈",
+      "award": "映画部門 作品賞",
+      "awardYear": 2025,
+      "awardOrder": 3,
+      "winner": "ハルビン",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt23630030"
+      }
+    },
+    {
+      "id": "baeksang-2025-film-director-revolver",
+      "mediaType": "movie",
+      "title": "リボルバー",
+      "originalTitle": "리볼버",
+      "award": "映画部門 監督賞",
+      "awardYear": 2025,
+      "awardOrder": 4,
+      "winner": "オ・スンウク",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt28284984"
+      }
+    },
+    {
+      "id": "baeksang-2025-film-actor-pilot",
+      "mediaType": "movie",
+      "title": "パイロット",
+      "originalTitle": "파일럿",
+      "award": "映画部門 男性最優秀演技賞",
+      "awardYear": 2025,
+      "awardOrder": 5,
+      "winner": "チョ・ジョンソク",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt32175399"
+      }
+    },
+    {
+      "id": "baeksang-2025-film-actress-revolver",
+      "mediaType": "movie",
+      "title": "リボルバー",
+      "originalTitle": "리볼버",
+      "award": "映画部門 女性最優秀演技賞",
+      "awardYear": 2025,
+      "awardOrder": 6,
+      "winner": "チョン・ドヨン",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt28284984"
+      }
+    },
+    {
+      "id": "baeksang-2025-tv-best-tangerines",
+      "mediaType": "tv",
+      "title": "おつかれさま",
+      "originalTitle": "폭싹 속았수다",
+      "award": "テレビ部門 作品賞",
+      "awardYear": 2025,
+      "awardOrder": 7,
+      "winner": "おつかれさま",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt26471411"
+      }
+    },
+    {
+      "id": "baeksang-2025-tv-director-doubt",
+      "mediaType": "tv",
+      "title": "こんなに親密な裏切り者",
+      "originalTitle": "이토록 친밀한 배신자",
+      "award": "テレビ部門 演出賞",
+      "awardYear": 2025,
+      "awardOrder": 8,
+      "winner": "ソン・ヨナ",
+      "releaseDate": "2024",
+      "externalIds": {
+        "tmdb": "240942"
+      }
+    },
+    {
+      "id": "baeksang-2025-tv-actor-trauma",
+      "mediaType": "tv",
+      "title": "トラウマコード",
+      "originalTitle": "중증외상센터",
+      "award": "テレビ部門 男性最優秀演技賞",
+      "awardYear": 2025,
+      "awardOrder": 9,
+      "winner": "チュ・ジフン",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt28106730"
+      }
+    },
+    {
+      "id": "baeksang-2025-tv-actress-jeongnyeon",
+      "mediaType": "tv",
+      "title": "ジョンニョン：スター誕生",
+      "originalTitle": "정년이",
+      "award": "テレビ部門 女性最優秀演技賞",
+      "awardYear": 2025,
+      "awardOrder": 10,
+      "winner": "キム・テリ",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt28197611"
+      }
+    }
+  ]
+}

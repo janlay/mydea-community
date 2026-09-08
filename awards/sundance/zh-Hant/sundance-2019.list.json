@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-16T04:39:02Z",
+  "title": "日舞影展 2019 年得獎名單",
+  "description": "2019 年日舞影展四項核心長片評審團大獎得獎作品。",
+  "tags": [
+    "award",
+    "park-city",
+    "decade"
+  ],
+  "items": [
+    {
+      "id": "sundance-us-dramatic-2019-clemency",
+      "mediaType": "movie",
+      "title": "Clemency",
+      "award": "美國劇情片評審團大獎",
+      "awardYear": 2019,
+      "awardOrder": 1,
+      "winner": "Chinonye Chukwu",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt5577494"
+      }
+    },
+    {
+      "id": "sundance-us-documentary-2019-one-child-nation",
+      "mediaType": "movie",
+      "title": "獨生之國",
+      "englishTitle": "One Child Nation",
+      "award": "美國紀錄片評審團大獎",
+      "awardYear": 2019,
+      "awardOrder": 2,
+      "winner": "Nanfu Wang & Jialing Zhang",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt8923482"
+      }
+    },
+    {
+      "id": "sundance-world-dramatic-2019-the-souvenir",
+      "mediaType": "movie",
+      "title": "The Souvenir",
+      "award": "世界電影劇情片評審團大獎",
+      "awardYear": 2019,
+      "awardOrder": 3,
+      "winner": "Joanna Hogg",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6920356"
+      }
+    },
+    {
+      "id": "sundance-world-documentary-2019-honeyland",
+      "mediaType": "movie",
+      "title": "大地蜜語",
+      "englishTitle": "Honeyland",
+      "originalTitle": "Medena zemja",
+      "award": "世界電影紀錄片評審團大獎",
+      "awardYear": 2019,
+      "awardOrder": 4,
+      "winner": "Tamara Kotevska & Ljubomir Stefanov",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt8991268"
+      }
+    }
+  ]
+}

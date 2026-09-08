@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "title": "Cannes — Short Films",
+  "author": "Mydea",
+  "updatedAt": "2026-09-16T04:43:24Z",
+  "description": "Historical Cannes Short Film awards.",
+  "tags": [
+    "award",
+    "cannes",
+    "prize"
+  ],
+  "icon": "ticket",
+  "sections": [
+    {
+      "title": "Cannes — Short Film Palme d’Or",
+      "layout": "carousel",
+      "limit": 10,
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "cannes-short-film-palme-dor.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "Cannes — Short Film Jury and Special Distinctions",
+      "layout": "grid",
+      "limit": 10,
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "cannes-short-film-jury-distinction.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    }
+  ]
+}

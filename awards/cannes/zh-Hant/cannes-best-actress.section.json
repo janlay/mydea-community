@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "Mydea",
+  "title": "坎城 — 最佳女演員",
+  "description": "坎城影展最佳女演員獎獲獎影片。",
+  "layout": "grid",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "cannes-best-actress.list.json"
+    }
+  ],
+  "bindings": [
+    "winner",
+    "title with Year"
+  ]
+}

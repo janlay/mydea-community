@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "title": "坎城 — 一種注目最佳女演員",
+  "author": "Mydea",
+  "updatedAt": "2026-09-16T04:43:24Z",
+  "description": "坎城影展一種注目單元歷屆獎項。 一種注目最佳女演員.",
+  "tags": [
+    "award",
+    "cannes",
+    "prize"
+  ],
+  "items": [
+    {
+      "id": "cannes-ucr-actress-2006-the-way-i-spent-the-end-of-the-world",
+      "mediaType": "movie",
+      "title": "The Way I Spent the End of the World",
+      "awardYear": 2006,
+      "winner": "Dorotheea Petre"
+    },
+    {
+      "id": "cannes-ucr-actress-2010-the-lips",
+      "mediaType": "movie",
+      "title": "The Lips",
+      "awardYear": 2010,
+      "winner": "Adela Sánchez, Eva Bianco & Victoria Raposo"
+    },
+    {
+      "id": "cannes-ucr-actress-2012-laurence-anyways",
+      "mediaType": "movie",
+      "title": "Laurence Anyways",
+      "awardYear": 2012,
+      "winner": "Suzanne Clément"
+    },
+    {
+      "id": "cannes-ucr-actress-2012-our-children",
+      "mediaType": "movie",
+      "title": "Our Children",
+      "awardYear": 2012,
+      "winner": "Émilie Dequenne"
+    },
+    {
+      "id": "cannes-ucr-actress-2017-fortunata",
+      "mediaType": "movie",
+      "title": "幸運",
+      "awardYear": 2017,
+      "winner": "Jasmine Trinca",
+      "externalIds": {
+        "imdb": "tt6306400"
+      },
+      "releaseDate": "2017"
+    },
+    {
+      "id": "cannes-ucr-actress-2019-on-a-magical-night",
+      "mediaType": "movie",
+      "title": "戀愛倒帶中",
+      "awardYear": 2019,
+      "winner": "Chiara Mastroianni",
+      "externalIds": {
+        "imdb": "tt10115562"
+      },
+      "releaseDate": "2019"
+    },
+    {
+      "id": "cannes-ucr-actress-2025-i-only-rest-in-the-storm",
+      "mediaType": "movie",
+      "title": "O Riso e a Faca",
+      "awardYear": 2025,
+      "winner": "Cleo Diára",
+      "externalIds": {
+        "imdb": "tt36642485"
+      },
+      "releaseDate": "2025"
+    },
+    {
+      "id": "cannes-ucr-actress-2026-forever-your-maternal-animal",
+      "mediaType": "movie",
+      "title": "Siempre soy tu animal materno",
+      "awardYear": 2026,
+      "winner": "Marina de Tavira, Daniela Marín Navarro & Mariangel Villegas",
+      "externalIds": {
+        "imdb": "tt41592077"
+      }
+    }
+  ]
+}

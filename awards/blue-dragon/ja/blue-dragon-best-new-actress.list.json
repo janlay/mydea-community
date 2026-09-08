@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T00:00:00Z",
+  "title": "青龍映画賞 — 新人女優賞",
+  "description": "青龍映画賞新人女優賞の歴代受賞者。",
+  "items": [
+    {
+      "id": "blue-dragon-2016-best-new-actress-handmaiden",
+      "mediaType": "movie",
+      "title": "お嬢さん",
+      "originalTitle": "아가씨",
+      "awardYear": 2016,
+      "winner": "キム・テリ",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4016934"
+      }
+    },
+    {
+      "id": "blue-dragon-2017-best-new-actress-anarchist-colony",
+      "mediaType": "movie",
+      "title": "金子文子と朴烈",
+      "originalTitle": "박열",
+      "awardYear": 2017,
+      "winner": "チェ・ヒソ",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6903980"
+      }
+    },
+    {
+      "id": "blue-dragon-2018-best-new-actress-witch",
+      "mediaType": "movie",
+      "title": "The Witch／魔女",
+      "originalTitle": "마녀",
+      "awardYear": 2018,
+      "winner": "キム・ダミ",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8574252"
+      }
+    },
+    {
+      "id": "blue-dragon-2019-best-new-actress-another-child",
+      "mediaType": "movie",
+      "title": "Another Child",
+      "originalTitle": "미성년",
+      "awardYear": 2019,
+      "winner": "キム・ヘジュン",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt8991322"
+      }
+    },
+    {
+      "id": "blue-dragon-2020-best-new-actress-lucky-chansil",
+      "mediaType": "movie",
+      "title": "Lucky Chan-sil",
+      "originalTitle": "찬실이는 복도 많지",
+      "awardYear": 2020,
+      "winner": "カン・マルグム",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt11639190"
+      }
+    },
+    {
+      "id": "blue-dragon-2021-best-new-actress-aloners",
+      "mediaType": "movie",
+      "title": "Aloners",
+      "originalTitle": "혼자 사는 사람들",
+      "awardYear": 2021,
+      "winner": "コン・スンヨン",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14598598"
+      }
+    },
+    {
+      "id": "blue-dragon-2022-best-new-actress-bulldozer-girl",
+      "mediaType": "movie",
+      "title": "The Girl on a Bulldozer",
+      "originalTitle": "불도저에 탄 소녀",
+      "awardYear": 2022,
+      "winner": "キム・ヘユン",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt19632924"
+      }
+    },
+    {
+      "id": "blue-dragon-2023-best-new-actress-smugglers",
+      "mediaType": "movie",
+      "title": "密輸 1970",
+      "originalTitle": "밀수",
+      "awardYear": 2023,
+      "winner": "コ・ミンシ",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt28106766"
+      }
+    },
+    {
+      "id": "blue-dragon-2024-best-new-actress-drive",
+      "mediaType": "movie",
+      "title": "Drive",
+      "originalTitle": "드라이브",
+      "awardYear": 2024,
+      "winner": "パク・ジュヒョン",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt32322546"
+      }
+    },
+    {
+      "id": "blue-dragon-2025-best-new-actress-idiot-girls",
+      "mediaType": "movie",
+      "title": "Idiot Girls and School Ghost: School Anniversary",
+      "originalTitle": "아메바 소녀들과 학교괴담: 개교기념일",
+      "awardYear": 2025,
+      "winner": "キム・ドヨン",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt34136712"
+      }
+    }
+  ]
+}

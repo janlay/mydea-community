@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-16T04:39:02Z",
+  "title": "2024 선댄스 영화제 수상작",
+  "description": "2024 선댄스 영화제 4개 핵심 장편 경쟁 부문 심사위원대상 수상작.",
+  "tags": [
+    "award",
+    "park-city",
+    "decade"
+  ],
+  "items": [
+    {
+      "id": "sundance-us-dramatic-2024-in-the-summers",
+      "mediaType": "movie",
+      "title": "In the Summers",
+      "award": "미국 극영화 심사위원대상",
+      "awardYear": 2024,
+      "awardOrder": 1,
+      "winner": "Alessandra Lacorazza",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt24805832"
+      }
+    },
+    {
+      "id": "sundance-us-documentary-2024-porcelain-war",
+      "mediaType": "movie",
+      "title": "Porcelain War",
+      "award": "미국 다큐멘터리 심사위원대상",
+      "awardYear": 2024,
+      "awardOrder": 2,
+      "winner": "Brendan Bellomo & Slava Leontyev",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt30294282"
+      }
+    },
+    {
+      "id": "sundance-world-dramatic-2024-sujo",
+      "mediaType": "movie",
+      "title": "Sujo",
+      "award": "월드 시네마 극영화 심사위원대상",
+      "awardYear": 2024,
+      "awardOrder": 3,
+      "winner": "Astrid Rondero & Fernanda Valadez",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt30320410"
+      }
+    },
+    {
+      "id": "sundance-world-documentary-2024-a-new-kind-of-wilderness",
+      "mediaType": "movie",
+      "title": "A New Kind of Wilderness",
+      "award": "월드 시네마 다큐멘터리 심사위원대상",
+      "awardYear": 2024,
+      "awardOrder": 4,
+      "winner": "Silje Evensmo Jacobsen",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt30320576"
+      }
+    }
+  ]
+}

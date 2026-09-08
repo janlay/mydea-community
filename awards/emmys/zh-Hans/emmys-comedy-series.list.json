@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T05:03:35Z",
+  "title": "黄金时段艾美奖 — 最佳喜剧类剧集",
+  "description": "黄金时段艾美奖“最佳喜剧类剧集”获奖记录。",
+  "items": [
+    {
+      "id": "emmys-2017-comedy-series-veep",
+      "mediaType": "tv",
+      "title": "副总统",
+      "originalTitle": "Veep",
+      "awardYear": 2017,
+      "winner": "Veep",
+      "releaseDate": "2012",
+      "externalIds": {
+        "imdb": "tt1759761"
+      }
+    },
+    {
+      "id": "emmys-2018-comedy-series-the-marvelous-mrs-maisel",
+      "mediaType": "tv",
+      "title": "了不起的麦瑟尔夫人",
+      "originalTitle": "The Marvelous Mrs. Maisel",
+      "awardYear": 2018,
+      "winner": "The Marvelous Mrs. Maisel",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5788792"
+      }
+    },
+    {
+      "id": "emmys-2019-comedy-series-fleabag",
+      "mediaType": "tv",
+      "title": "伦敦生活",
+      "originalTitle": "Fleabag",
+      "awardYear": 2019,
+      "winner": "Fleabag",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5687612"
+      }
+    },
+    {
+      "id": "emmys-2020-comedy-series-schitt-s-creek",
+      "mediaType": "tv",
+      "title": "富家穷路",
+      "originalTitle": "Schitt's Creek",
+      "awardYear": 2020,
+      "winner": "Schitt's Creek",
+      "releaseDate": "2015",
+      "externalIds": {
+        "imdb": "tt3526078"
+      }
+    },
+    {
+      "id": "emmys-2021-comedy-series-ted-lasso",
+      "mediaType": "tv",
+      "title": "足球教练",
+      "originalTitle": "Ted Lasso",
+      "awardYear": 2021,
+      "winner": "Ted Lasso",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10986410"
+      }
+    },
+    {
+      "id": "emmys-2022-comedy-series-ted-lasso",
+      "mediaType": "tv",
+      "title": "足球教练",
+      "originalTitle": "Ted Lasso",
+      "awardYear": 2022,
+      "winner": "Ted Lasso",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10986410"
+      }
+    },
+    {
+      "id": "emmys-2023-comedy-series-the-bear",
+      "mediaType": "tv",
+      "title": "熊家餐馆",
+      "originalTitle": "The Bear",
+      "awardYear": 2023,
+      "winner": "The Bear",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt14452776"
+      }
+    },
+    {
+      "id": "emmys-2024-comedy-series-hacks",
+      "mediaType": "tv",
+      "title": "绝望写手",
+      "originalTitle": "Hacks",
+      "awardYear": 2024,
+      "winner": "Hacks",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt11815682"
+      }
+    },
+    {
+      "id": "emmys-2025-comedy-series-the-studio",
+      "mediaType": "tv",
+      "title": "片厂风云",
+      "originalTitle": "The Studio",
+      "awardYear": 2025,
+      "winner": "The Studio",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt23649128"
+      }
+    },
+    {
+      "id": "emmys-2026-comedy-series-widow-s-bay",
+      "mediaType": "tv",
+      "title": "Widow's Bay",
+      "awardYear": 2026,
+      "winner": "Widow's Bay",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt33332385"
+      }
+    }
+  ]
+}

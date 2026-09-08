@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T02:54:20Z",
+  "title": "青龍電影獎 — 2019",
+  "description": "2019年韓國青龍電影獎10個主要電影獎項獲獎作品。",
+  "items": [
+    {
+      "id": "blue-dragon-2019-best-film-parasite",
+      "mediaType": "movie",
+      "title": "寄生上流",
+      "originalTitle": "기생충",
+      "englishTitle": "Parasite",
+      "award": "最佳影片",
+      "awardYear": 2019,
+      "awardOrder": 1,
+      "winner": "Bong Joon-ho",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6751668"
+      }
+    },
+    {
+      "id": "blue-dragon-2019-best-director-parasite",
+      "mediaType": "movie",
+      "title": "寄生上流",
+      "originalTitle": "기생충",
+      "englishTitle": "Parasite",
+      "award": "最佳導演",
+      "awardYear": 2019,
+      "awardOrder": 2,
+      "winner": "Bong Joon-ho",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6751668"
+      }
+    },
+    {
+      "id": "blue-dragon-2019-best-actor-innocent-witness",
+      "mediaType": "movie",
+      "title": "證人",
+      "originalTitle": "증인",
+      "englishTitle": "Innocent Witness",
+      "award": "最佳男主角",
+      "awardYear": 2019,
+      "awardOrder": 3,
+      "winner": "Jung Woo-sung",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt8562562"
+      }
+    },
+    {
+      "id": "blue-dragon-2019-best-actress-parasite",
+      "mediaType": "movie",
+      "title": "寄生上流",
+      "originalTitle": "기생충",
+      "englishTitle": "Parasite",
+      "award": "最佳女主角",
+      "awardYear": 2019,
+      "awardOrder": 4,
+      "winner": "Cho Yeo-jeong",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6751668"
+      }
+    },
+    {
+      "id": "blue-dragon-2019-best-supporting-actor-default",
+      "mediaType": "movie",
+      "title": "國家破產之日",
+      "originalTitle": "국가부도의 날",
+      "englishTitle": "Default",
+      "award": "最佳男配角",
+      "awardYear": 2019,
+      "awardOrder": 5,
+      "winner": "Jo Woo-jin",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7233726"
+      }
+    },
+    {
+      "id": "blue-dragon-2019-best-supporting-actress-parasite",
+      "mediaType": "movie",
+      "title": "寄生上流",
+      "originalTitle": "기생충",
+      "englishTitle": "Parasite",
+      "award": "最佳女配角",
+      "awardYear": 2019,
+      "awardOrder": 6,
+      "winner": "Lee Jung-eun",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6751668"
+      }
+    },
+    {
+      "id": "blue-dragon-2019-best-new-director-exit",
+      "mediaType": "movie",
+      "title": "極限逃生",
+      "originalTitle": "엑시트",
+      "englishTitle": "Exit",
+      "award": "最佳新人導演",
+      "awardYear": 2019,
+      "awardOrder": 7,
+      "winner": "Lee Sang-geun",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10648440"
+      }
+    },
+    {
+      "id": "blue-dragon-2019-best-new-actor-quantum-physics",
+      "mediaType": "movie",
+      "title": "量子物理學",
+      "originalTitle": "양자물리학",
+      "englishTitle": "By Quantum Physics: A Nightlife Venture",
+      "award": "最佳新人男演員",
+      "awardYear": 2019,
+      "awardOrder": 8,
+      "winner": "Park Hae-soo",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt11022284"
+      }
+    },
+    {
+      "id": "blue-dragon-2019-best-new-actress-another-child",
+      "mediaType": "movie",
+      "title": "未成年",
+      "originalTitle": "미성년",
+      "englishTitle": "Another Child",
+      "award": "最佳新人女演員",
+      "awardYear": 2019,
+      "awardOrder": 9,
+      "winner": "Kim Hye-jun",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt8991322"
+      }
+    },
+    {
+      "id": "blue-dragon-2019-best-screenplay-house-hummingbird",
+      "mediaType": "movie",
+      "title": "蜂鳥",
+      "originalTitle": "벌새",
+      "englishTitle": "House of Hummingbird",
+      "award": "最佳劇本",
+      "awardYear": 2019,
+      "awardOrder": 10,
+      "winner": "Kim Bora",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8951086"
+      }
+    }
+  ]
+}

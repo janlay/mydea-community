@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "title": "坎城 — CST青年女性電影技術獎",
+  "author": "Mydea",
+  "updatedAt": "2026-09-16T04:43:24Z",
+  "description": "坎城影展高等技術委員會（CST）歷屆技術獎項。 CST青年女性電影技術獎.",
+  "tags": [
+    "award",
+    "cannes",
+    "prize"
+  ],
+  "items": [
+    {
+      "id": "cannes-cst-young-2021-mi-iubita-mon-amour",
+      "mediaType": "movie",
+      "title": "Mi iubita mon amour",
+      "awardYear": 2021,
+      "winner": "Armance Durix",
+      "externalIds": {
+        "imdb": "tt14821328"
+      },
+      "releaseDate": "2021"
+    },
+    {
+      "id": "cannes-cst-young-2022-mother-and-son",
+      "mediaType": "movie",
+      "title": "玫瑰母親",
+      "awardYear": 2022,
+      "winner": "Marion Burger",
+      "externalIds": {
+        "imdb": "tt17014214"
+      },
+      "releaseDate": "2022"
+    },
+    {
+      "id": "cannes-cst-young-2023-marguerite-s-theorem",
+      "mediaType": "movie",
+      "title": "瑪格麗特戀習題",
+      "awardYear": 2023,
+      "winner": "Anne-Sophie Delseries",
+      "externalIds": {
+        "imdb": "tt26699529"
+      },
+      "releaseDate": "2023"
+    },
+    {
+      "id": "cannes-cst-young-2024-the-balconettes",
+      "mediaType": "movie",
+      "title": "陽台上的壞女孩",
+      "awardYear": 2024,
+      "winner": "Evgenia Alexandrova",
+      "externalIds": {
+        "imdb": "tt27721737"
+      },
+      "releaseDate": "2024"
+    },
+    {
+      "id": "cannes-cst-young-2025-connemara",
+      "mediaType": "movie",
+      "title": "Connemara",
+      "awardYear": 2025,
+      "winner": "Éponine Momenceau",
+      "externalIds": {
+        "imdb": "tt35512832"
+      },
+      "releaseDate": "2025"
+    },
+    {
+      "id": "cannes-cst-young-2026-histoires-de-la-nuit",
+      "mediaType": "movie",
+      "title": "Histoires de la nuit",
+      "awardYear": 2026,
+      "winner": "Esther Mysius"
+    }
+  ]
+}

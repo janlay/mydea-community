@@ -1,0 +1,307 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "title": "戛纳 — 一种关注大奖",
+  "author": "Mydea",
+  "updatedAt": "2026-09-16T04:43:24Z",
+  "description": "戛纳电影节一种关注单元历届奖项。 一种关注大奖.",
+  "tags": [
+    "award",
+    "cannes",
+    "prize"
+  ],
+  "items": [
+    {
+      "id": "cannes-un-certain-regard-prizel-1998-killer",
+      "mediaType": "movie",
+      "title": "Killer",
+      "awardYear": 1998,
+      "winner": "Darezhan Omirbayev",
+      "externalIds": {
+        "imdb": "tt0157124"
+      }
+    },
+    {
+      "id": "cannes-un-certain-regard-prizel-1999-beautiful-people",
+      "mediaType": "movie",
+      "title": "Beautiful People",
+      "awardYear": 1999,
+      "winner": "Jasmin Dizdar",
+      "externalIds": {
+        "imdb": "tt0159272"
+      }
+    },
+    {
+      "id": "cannes-un-certain-regard-prizel-2000-things-you-can-tell-just-by-looking-at-her",
+      "mediaType": "movie",
+      "title": "Things You Can Tell Just by Looking at Her",
+      "awardYear": 2000,
+      "winner": "Rodrigo García",
+      "externalIds": {
+        "imdb": "tt0210358"
+      }
+    },
+    {
+      "id": "cannes-un-certain-regard-prizel-2001-boyhood-loves",
+      "mediaType": "movie",
+      "title": "Boyhood Loves",
+      "awardYear": 2001,
+      "winner": "Yves Caumon",
+      "externalIds": {
+        "imdb": "tt0284848"
+      }
+    },
+    {
+      "id": "cannes-un-certain-regard-prizel-2002-blissfully-yours",
+      "mediaType": "movie",
+      "title": "Blissfully Yours",
+      "awardYear": 2002,
+      "winner": "Apichatpong Weerasethakul",
+      "externalIds": {
+        "imdb": "tt0317171"
+      }
+    },
+    {
+      "id": "cannes-un-certain-regard-prizel-2003-the-best-of-youth",
+      "mediaType": "movie",
+      "title": "The Best of Youth",
+      "awardYear": 2003,
+      "winner": "Marco Tullio Giordana",
+      "externalIds": {
+        "imdb": "tt0346336"
+      }
+    },
+    {
+      "id": "cannes-un-certain-regard-prizel-2004-moolaadé",
+      "mediaType": "movie",
+      "title": "Moolaadé",
+      "awardYear": 2004,
+      "winner": "Ousmane Sembène",
+      "externalIds": {
+        "imdb": "tt0416991"
+      }
+    },
+    {
+      "id": "cannes-un-certain-regard-prizel-2005-the-death-of-mr-lazarescu",
+      "mediaType": "movie",
+      "title": "The Death of Mr. Lazarescu",
+      "awardYear": 2005,
+      "winner": "Cristi Puiu",
+      "externalIds": {
+        "imdb": "tt0456149"
+      }
+    },
+    {
+      "id": "cannes-un-certain-regard-prizel-2006-luxury-car",
+      "mediaType": "movie",
+      "title": "Luxury Car",
+      "awardYear": 2006,
+      "winner": "Wang Chao",
+      "externalIds": {
+        "imdb": "tt0810954"
+      }
+    },
+    {
+      "id": "cannes-un-certain-regard-prizel-2007-california-dreamin",
+      "mediaType": "movie",
+      "title": "California Dreamin'",
+      "awardYear": 2007,
+      "winner": "Cristian Nemescu",
+      "externalIds": {
+        "imdb": "tt0449573"
+      }
+    },
+    {
+      "id": "cannes-un-certain-regard-prizel-2008-tulpan",
+      "mediaType": "movie",
+      "title": "Tulpan",
+      "awardYear": 2008,
+      "winner": "Sergey Dvortsevoy",
+      "externalIds": {
+        "imdb": "tt0436854"
+      }
+    },
+    {
+      "id": "cannes-un-certain-regard-prizel-2009-dogtooth",
+      "mediaType": "movie",
+      "title": "Dogtooth",
+      "awardYear": 2009,
+      "winner": "Yorgos Lanthimos",
+      "externalIds": {
+        "imdb": "tt1379182"
+      }
+    },
+    {
+      "id": "cannes-un-certain-regard-prizel-2010-hahaha",
+      "mediaType": "movie",
+      "title": "Hahaha",
+      "awardYear": 2010,
+      "winner": "Hong Sang-soo",
+      "externalIds": {
+        "imdb": "tt1452626"
+      }
+    },
+    {
+      "id": "cannes-un-certain-regard-prizel-2011-arirang",
+      "mediaType": "movie",
+      "title": "Arirang",
+      "awardYear": 2011,
+      "winner": "Kim Ki-duk",
+      "externalIds": {
+        "imdb": "tt1922551"
+      }
+    },
+    {
+      "id": "cannes-un-certain-regard-prizel-2011-stopped-on-track",
+      "mediaType": "movie",
+      "title": "Stopped on Track",
+      "awardYear": 2011,
+      "winner": "Andreas Dresen",
+      "externalIds": {
+        "imdb": "tt1780856"
+      }
+    },
+    {
+      "id": "cannes-un-certain-regard-prizel-2012-after-lucia",
+      "mediaType": "movie",
+      "title": "After Lucia",
+      "awardYear": 2012,
+      "winner": "Michel Franco",
+      "externalIds": {
+        "imdb": "tt2368749"
+      }
+    },
+    {
+      "id": "cannes-un-certain-regard-prizel-2013-the-missing-picture",
+      "mediaType": "movie",
+      "title": "The Missing Picture",
+      "awardYear": 2013,
+      "winner": "Rithy Panh",
+      "externalIds": {
+        "imdb": "tt2852470"
+      }
+    },
+    {
+      "id": "cannes-un-certain-regard-prizel-2014-white-god",
+      "mediaType": "movie",
+      "title": "White God",
+      "awardYear": 2014,
+      "winner": "Kornél Mundruczó",
+      "externalIds": {
+        "imdb": "tt2844798"
+      }
+    },
+    {
+      "id": "cannes-un-certain-regard-prizel-2015-rams",
+      "mediaType": "movie",
+      "title": "Rams",
+      "awardYear": 2015,
+      "winner": "Grímur Hákonarson",
+      "externalIds": {
+        "imdb": "tt3296658"
+      }
+    },
+    {
+      "id": "cannes-un-certain-regard-prizel-2016-the-happiest-day-in-the-life-of-olli-mäki",
+      "mediaType": "movie",
+      "title": "The Happiest Day in the Life of Olli Mäki",
+      "awardYear": 2016,
+      "winner": "Juho Kuosmanen",
+      "externalIds": {
+        "imdb": "tt4771932"
+      }
+    },
+    {
+      "id": "cannes-un-certain-regard-prizel-2017-a-man-of-integrity",
+      "mediaType": "movie",
+      "title": "谎言",
+      "awardYear": 2017,
+      "winner": "Mohammad Rasoulof",
+      "externalIds": {
+        "imdb": "tt6776462"
+      }
+    },
+    {
+      "id": "cannes-un-certain-regard-prizel-2018-border",
+      "mediaType": "movie",
+      "title": "边境",
+      "awardYear": 2018,
+      "winner": "Ali Abbasi",
+      "externalIds": {
+        "imdb": "tt5501104"
+      }
+    },
+    {
+      "id": "cannes-un-certain-regard-prizel-2019-invisible-life",
+      "mediaType": "movie",
+      "title": "看不见的女人",
+      "awardYear": 2019,
+      "winner": "Karim Aïnouz",
+      "externalIds": {
+        "imdb": "tt6390668"
+      }
+    },
+    {
+      "id": "cannes-un-certain-regard-prizel-2021-unclenching-the-fists",
+      "mediaType": "movie",
+      "title": "松开拳头",
+      "awardYear": 2021,
+      "winner": "Kira Kovalenko",
+      "externalIds": {
+        "imdb": "tt14775666"
+      }
+    },
+    {
+      "id": "cannes-un-certain-regard-prizel-2022-the-worst-ones",
+      "mediaType": "movie",
+      "title": "坏孩子们",
+      "awardYear": 2022,
+      "winner": "Lise Akoka; Romane Gueret",
+      "externalIds": {
+        "imdb": "tt19719862"
+      }
+    },
+    {
+      "id": "cannes-un-certain-regard-prizel-2023-how-to-have-sex",
+      "mediaType": "movie",
+      "title": "如何做爱",
+      "awardYear": 2023,
+      "winner": "Molly Manning Walker",
+      "externalIds": {
+        "imdb": "tt22890246"
+      }
+    },
+    {
+      "id": "cannes-un-certain-regard-prizel-2024-black-dog",
+      "mediaType": "movie",
+      "title": "狗阵",
+      "awardYear": 2024,
+      "winner": "Guan Hu",
+      "externalIds": {
+        "imdb": "tt28131427"
+      }
+    },
+    {
+      "id": "cannes-un-certain-regard-prizel-2025-the-mysterious-gaze-of-the-flamingo",
+      "mediaType": "movie",
+      "title": "弗拉明戈的神秘眼神",
+      "awardYear": 2025,
+      "winner": "Diego Céspedes",
+      "externalIds": {
+        "tmdb": "896096",
+        "imdb": "tt22237964"
+      }
+    },
+    {
+      "id": "cannes-un-certain-regard-prizel-2026-everytime",
+      "mediaType": "movie",
+      "title": "每时每刻",
+      "awardYear": 2026,
+      "winner": "Sandra Wollner",
+      "externalIds": {
+        "tmdb": "1655419",
+        "imdb": "tt41592057"
+      }
+    }
+  ]
+}

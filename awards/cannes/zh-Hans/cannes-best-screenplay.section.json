@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "Mydea",
+  "title": "戛纳 — 最佳编剧",
+  "description": "戛纳电影节最佳编剧奖获奖影片。",
+  "layout": "grid",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "cannes-best-screenplay.list.json"
+    }
+  ],
+  "bindings": [
+    "winner",
+    "title with Year"
+  ]
+}

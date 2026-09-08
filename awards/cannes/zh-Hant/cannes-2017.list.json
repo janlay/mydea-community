@@ -1,0 +1,270 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-08T11:52:00Z",
+  "title": "坎城影展 2017 年獲獎名單",
+  "description": "第70屆坎城影展官方影片相關獎項，涵蓋主競賽單元, 短片, 一種關注單元, 金攝影機獎, 電影基石單元 以及 CST 技術獎。",
+  "items": [
+    {
+      "id": "cannes-2017-palme-d-or-the-square",
+      "mediaType": "movie",
+      "title": "抓狂美術館",
+      "award": "金棕櫚獎",
+      "awardYear": 2017,
+      "awardOrder": 1,
+      "winner": "Ruben Östlund",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt4995790"
+      }
+    },
+    {
+      "id": "cannes-2017-grand-prix-bpm-beats-per-minute",
+      "mediaType": "movie",
+      "title": "每分鐘120擊",
+      "award": "評審團大獎",
+      "awardYear": 2017,
+      "awardOrder": 2,
+      "winner": "Robin Campillo",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6135348"
+      }
+    },
+    {
+      "id": "cannes-2017-best-director-prize-the-beguiled",
+      "mediaType": "movie",
+      "title": "牡丹花下",
+      "award": "最佳導演獎",
+      "awardYear": 2017,
+      "awardOrder": 3,
+      "winner": "Sofia Coppola",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5592248"
+      }
+    },
+    {
+      "id": "cannes-2017-best-screenplay-ex-aequo-the-killing-of-a-sacred-deer",
+      "mediaType": "movie",
+      "title": "聖鹿之死",
+      "award": "最佳編劇 （並列）",
+      "awardYear": 2017,
+      "awardOrder": 4,
+      "winner": "Yorgos Lanthimos & Efthimis Filippou",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5715874"
+      }
+    },
+    {
+      "id": "cannes-2017-best-screenplay-ex-aequo-you-were-never-really-here",
+      "mediaType": "movie",
+      "title": "你從未在此",
+      "award": "最佳編劇 （並列）",
+      "awardYear": 2017,
+      "awardOrder": 5,
+      "winner": "Lynne Ramsay",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5742374"
+      }
+    },
+    {
+      "id": "cannes-2017-jury-prize-loveless",
+      "mediaType": "movie",
+      "title": "無愛可訴",
+      "award": "評審團獎",
+      "awardYear": 2017,
+      "awardOrder": 6,
+      "winner": "Andrey Zvyagintsev",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6304162"
+      }
+    },
+    {
+      "id": "cannes-2017-best-performance-for-an-actress-in-the-fade",
+      "mediaType": "movie",
+      "title": "烈愛天堂",
+      "award": "最佳女演員獎",
+      "awardYear": 2017,
+      "awardOrder": 7,
+      "winner": "Diane Kruger",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5723272"
+      }
+    },
+    {
+      "id": "cannes-2017-best-performance-for-an-actor-you-were-never-really-here",
+      "mediaType": "movie",
+      "title": "你從未在此",
+      "award": "最佳男演員獎",
+      "awardYear": 2017,
+      "awardOrder": 8,
+      "winner": "Joaquin Phoenix",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5742374"
+      }
+    },
+    {
+      "id": "cannes-2017-vulcain-prize-for-an-artist-technician-the-square",
+      "mediaType": "movie",
+      "title": "抓狂美術館",
+      "award": "藝術家技術獎",
+      "awardYear": 2017,
+      "awardOrder": 9,
+      "winner": "Josefin Åsberg",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt4995790"
+      }
+    },
+    {
+      "id": "cannes-2017-short-film-palme-d-or-a-gentle-night",
+      "mediaType": "movie",
+      "title": "小城二月",
+      "award": "短片 金棕櫚獎",
+      "awardYear": 2017,
+      "awardOrder": 10,
+      "winner": "Qiu Yang",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7003952"
+      }
+    },
+    {
+      "id": "cannes-2017-short-film-special-jury-distinction-the-ceiling",
+      "mediaType": "movie",
+      "title": "Katto",
+      "award": "短片 評審團特別提及",
+      "awardYear": 2017,
+      "awardOrder": 11,
+      "winner": "Teppo Airaksinen",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6770178"
+      }
+    },
+    {
+      "id": "cannes-2017-un-certain-regard-prize-a-man-of-integrity",
+      "mediaType": "movie",
+      "title": "就算世界與我為敵",
+      "award": "一種關注獎",
+      "awardYear": 2017,
+      "awardOrder": 12,
+      "winner": "Mohammad Rasoulof",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6776462"
+      }
+    },
+    {
+      "id": "cannes-2017-un-certain-regard-best-actress-fortunata",
+      "mediaType": "movie",
+      "title": "幸運",
+      "award": "一種關注 最佳女演員",
+      "awardYear": 2017,
+      "awardOrder": 13,
+      "winner": "Jasmine Trinca",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6306400"
+      }
+    },
+    {
+      "id": "cannes-2017-un-certain-regard-prize-for-the-best-poetic-narrative-barbara",
+      "mediaType": "movie",
+      "title": "芭芭拉",
+      "award": "一種關注 最佳詩意敘事獎",
+      "awardYear": 2017,
+      "awardOrder": 14,
+      "winner": "Mathieu Amalric",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6411984"
+      }
+    },
+    {
+      "id": "cannes-2017-un-certain-regard-jury-prize-april-s-daughter",
+      "mediaType": "movie",
+      "title": "雛為人母",
+      "award": "一種關注 評審團獎",
+      "awardYear": 2017,
+      "awardOrder": 15,
+      "winner": "Michel Franco",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6397762"
+      }
+    },
+    {
+      "id": "cannes-2017-un-certain-regard-best-directing-wind-river",
+      "mediaType": "movie",
+      "title": "極地追擊",
+      "award": "一種關注 最佳導演",
+      "awardYear": 2017,
+      "awardOrder": 16,
+      "winner": "Taylor Sheridan",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5362988"
+      }
+    },
+    {
+      "id": "cannes-2017-cam-ra-d-or-jeune-femme",
+      "mediaType": "movie",
+      "title": "年輕女子",
+      "award": "金攝影機獎",
+      "awardYear": 2017,
+      "awardOrder": 17,
+      "winner": "Léonor Serraille",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5598160"
+      }
+    },
+    {
+      "id": "cannes-2017-cin-fondation-first-prize-paul-is-here",
+      "mediaType": "movie",
+      "title": "Paul est là",
+      "award": "電影基石 一等獎",
+      "awardYear": 2017,
+      "awardOrder": 18,
+      "winner": "Valentina Maurel",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7197034"
+      }
+    },
+    {
+      "id": "cannes-2017-cin-fondation-second-prize-animal",
+      "mediaType": "movie",
+      "title": "حیوان",
+      "award": "電影基石 二等獎",
+      "awardYear": 2017,
+      "awardOrder": 19,
+      "winner": "Bahman Ark & Bahram Ark",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6841582"
+      }
+    },
+    {
+      "id": "cannes-2017-cin-fondation-third-prize-two-youths-died",
+      "mediaType": "movie",
+      "title": "兩個青年死了",
+      "award": "電影基石 三等獎",
+      "awardYear": 2017,
+      "awardOrder": 20,
+      "winner": "Tommaso Usberti",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6907472"
+      }
+    }
+  ]
+}

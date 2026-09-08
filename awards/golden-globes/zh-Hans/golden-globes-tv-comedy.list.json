@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "金球奖 — 最佳音乐或喜剧类剧集",
+  "description": "2017–2026 年金球奖最佳音乐或喜剧类剧集获奖作品。",
+  "items": [
+    {
+      "id": "golden-globes-tv_comedy-2017-atlanta",
+      "mediaType": "tv",
+      "title": "亚特兰大",
+      "englishTitle": "Atlanta",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4288182"
+      },
+      "awardYear": 2017,
+      "winner": "亚特兰大"
+    },
+    {
+      "id": "golden-globes-tv_comedy-2018-the-marvelous-mrs-maisel",
+      "mediaType": "tv",
+      "title": "了不起的麦瑟尔夫人",
+      "englishTitle": "The Marvelous Mrs. Maisel",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5788792"
+      },
+      "awardYear": 2018,
+      "winner": "了不起的麦瑟尔夫人"
+    },
+    {
+      "id": "golden-globes-tv_comedy-2019-the-kominsky-method",
+      "mediaType": "tv",
+      "title": "柯明斯基理论",
+      "englishTitle": "The Kominsky Method",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7255502"
+      },
+      "awardYear": 2019,
+      "winner": "柯明斯基理论"
+    },
+    {
+      "id": "golden-globes-tv_comedy-2020-fleabag",
+      "mediaType": "tv",
+      "title": "伦敦生活",
+      "englishTitle": "Fleabag",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5687612"
+      },
+      "awardYear": 2020,
+      "winner": "伦敦生活"
+    },
+    {
+      "id": "golden-globes-tv_comedy-2021-schitt-s-creek",
+      "mediaType": "tv",
+      "title": "富家穷路",
+      "englishTitle": "Schitt's Creek",
+      "releaseDate": "2015",
+      "externalIds": {
+        "imdb": "tt3526078"
+      },
+      "awardYear": 2021,
+      "winner": "富家穷路"
+    },
+    {
+      "id": "golden-globes-tv_comedy-2022-hacks",
+      "mediaType": "tv",
+      "title": "绝望写手",
+      "englishTitle": "Hacks",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt11815682"
+      },
+      "awardYear": 2022,
+      "winner": "绝望写手"
+    },
+    {
+      "id": "golden-globes-tv_comedy-2023-abbott-elementary",
+      "mediaType": "tv",
+      "title": "小学风云",
+      "englishTitle": "Abbott Elementary",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14218830"
+      },
+      "awardYear": 2023,
+      "winner": "小学风云"
+    },
+    {
+      "id": "golden-globes-tv_comedy-2024-the-bear",
+      "mediaType": "tv",
+      "title": "熊家餐馆",
+      "englishTitle": "The Bear",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt14452776"
+      },
+      "awardYear": 2024,
+      "winner": "熊家餐馆"
+    },
+    {
+      "id": "golden-globes-tv_comedy-2025-hacks",
+      "mediaType": "tv",
+      "title": "绝望写手",
+      "englishTitle": "Hacks",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt11815682"
+      },
+      "awardYear": 2025,
+      "winner": "绝望写手"
+    },
+    {
+      "id": "golden-globes-tv_comedy-2026-the-studio",
+      "mediaType": "tv",
+      "title": "片厂风云",
+      "englishTitle": "The Studio",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt23649128"
+      },
+      "awardYear": 2026,
+      "winner": "片厂风云"
+    }
+  ]
+}

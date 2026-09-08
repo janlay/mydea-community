@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "Mydea",
+  "title": "Cannes — Best Screenplay",
+  "description": "Films associated with Cannes Film Festival Best Screenplay winners.",
+  "layout": "grid",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "cannes-best-screenplay.list.json"
+    }
+  ],
+  "bindings": [
+    "winner",
+    "title with Year"
+  ]
+}

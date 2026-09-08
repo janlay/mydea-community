@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T02:53:58Z",
+  "title": "Baeksang Arts Awards — 2026",
+  "description": "Major film and broadcast winners at the 2026 Baeksang Arts Awards.",
+  "items": [
+    {
+      "id": "baeksang-2026-film-grand-kings-warden",
+      "mediaType": "movie",
+      "title": "The King’s Warden",
+      "originalTitle": "왕과 사는 남자",
+      "award": "Film Grand Prize",
+      "awardYear": 2026,
+      "awardOrder": 1,
+      "winner": "Yoo Hae-jin",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt38626703"
+      }
+    },
+    {
+      "id": "baeksang-2026-tv-grand-dream-kim",
+      "mediaType": "tv",
+      "title": "The Dream Life of Mr. Kim",
+      "originalTitle": "서울 자가에 대기업 다니는 김 부장 이야기",
+      "award": "Broadcast Grand Prize",
+      "awardYear": 2026,
+      "awardOrder": 2,
+      "winner": "Ryu Seung-ryong",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt38570528"
+      }
+    },
+    {
+      "id": "baeksang-2026-film-best-no-other-choice",
+      "mediaType": "movie",
+      "title": "No Other Choice",
+      "originalTitle": "어쩔수가없다",
+      "award": "Best Film",
+      "awardYear": 2026,
+      "awardOrder": 3,
+      "winner": "No Other Choice",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt1527793"
+      }
+    },
+    {
+      "id": "baeksang-2026-film-director-world-love",
+      "mediaType": "movie",
+      "title": "The World of Love",
+      "originalTitle": "세계의 주인",
+      "award": "Best Director Film",
+      "awardYear": 2026,
+      "awardOrder": 4,
+      "winner": "Yoon Ga-eun",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt37661885"
+      }
+    },
+    {
+      "id": "baeksang-2026-film-actor-ugly",
+      "mediaType": "movie",
+      "title": "The Ugly",
+      "originalTitle": "얼굴",
+      "award": "Best Actor Film",
+      "awardYear": 2026,
+      "awardOrder": 5,
+      "winner": "Park Jeong-min",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt33514451"
+      }
+    },
+    {
+      "id": "baeksang-2026-film-actress-once-us",
+      "mediaType": "movie",
+      "title": "Once We Were Us",
+      "originalTitle": "만약에 우리",
+      "award": "Best Actress Film",
+      "awardYear": 2026,
+      "awardOrder": 6,
+      "winner": "Moon Ga-young",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt37764737"
+      }
+    },
+    {
+      "id": "baeksang-2026-tv-best-you-everything",
+      "mediaType": "tv",
+      "title": "You and Everything Else",
+      "originalTitle": "은중과 상연",
+      "award": "Best Drama",
+      "awardYear": 2026,
+      "awardOrder": 7,
+      "winner": "You and Everything Else",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31014107"
+      }
+    },
+    {
+      "id": "baeksang-2026-tv-director-unwritten-seoul",
+      "mediaType": "tv",
+      "title": "Our Unwritten Seoul",
+      "originalTitle": "미지의 서울",
+      "award": "Best Director Broadcast",
+      "awardYear": 2026,
+      "awardOrder": 8,
+      "winner": "Park Shin-woo",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt36724865"
+      }
+    },
+    {
+      "id": "baeksang-2026-tv-actor-made-korea",
+      "mediaType": "tv",
+      "title": "Made in Korea",
+      "originalTitle": "메이드 인 코리아",
+      "award": "Best Actor Broadcast",
+      "awardYear": 2026,
+      "awardOrder": 9,
+      "winner": "Hyun Bin",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt33298903"
+      }
+    },
+    {
+      "id": "baeksang-2026-tv-actress-unwritten-seoul",
+      "mediaType": "tv",
+      "title": "Our Unwritten Seoul",
+      "originalTitle": "미지의 서울",
+      "award": "Best Actress Broadcast",
+      "awardYear": 2026,
+      "awardOrder": 10,
+      "winner": "Park Bo-young",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt36724865"
+      }
+    }
+  ]
+}

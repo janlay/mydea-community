@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T02:53:58Z",
+  "title": "Baeksang Arts Awards — 2021",
+  "description": "Major film and broadcast winners at the 2021 Baeksang Arts Awards.",
+  "items": [
+    {
+      "id": "baeksang-2021-film-grand-book-fish",
+      "mediaType": "movie",
+      "title": "The Book of Fish",
+      "originalTitle": "자산어보",
+      "award": "Film Grand Prize",
+      "awardYear": 2021,
+      "awardOrder": 1,
+      "winner": "Lee Joon-ik",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14371900"
+      }
+    },
+    {
+      "id": "baeksang-2021-film-best-samjin",
+      "mediaType": "movie",
+      "title": "Samjin Company English Class",
+      "originalTitle": "삼진그룹 영어토익반",
+      "award": "Best Film",
+      "awardYear": 2021,
+      "awardOrder": 2,
+      "winner": "Samjin Company English Class",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt13210996"
+      }
+    },
+    {
+      "id": "baeksang-2021-film-director-voice-silence",
+      "mediaType": "movie",
+      "title": "Voice of Silence",
+      "originalTitle": "소리도 없이",
+      "award": "Best Director Film",
+      "awardYear": 2021,
+      "awardOrder": 3,
+      "winner": "Hong Eui-jeong",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10431572"
+      }
+    },
+    {
+      "id": "baeksang-2021-film-actor-voice-silence",
+      "mediaType": "movie",
+      "title": "Voice of Silence",
+      "originalTitle": "소리도 없이",
+      "award": "Best Actor Film",
+      "awardYear": 2021,
+      "awardOrder": 4,
+      "winner": "Yoo Ah-in",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10431572"
+      }
+    },
+    {
+      "id": "baeksang-2021-film-actress-call",
+      "mediaType": "movie",
+      "title": "The Call",
+      "originalTitle": "콜",
+      "award": "Best Actress Film",
+      "awardYear": 2021,
+      "awardOrder": 5,
+      "winner": "Jeon Jong-seo",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10530176"
+      }
+    },
+    {
+      "id": "baeksang-2021-tv-best-beyond-evil",
+      "mediaType": "tv",
+      "title": "Beyond Evil",
+      "originalTitle": "괴물",
+      "award": "Best Drama",
+      "awardYear": 2021,
+      "awardOrder": 6,
+      "winner": "Beyond Evil",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt13634872"
+      }
+    },
+    {
+      "id": "baeksang-2021-tv-director-flower-evil",
+      "mediaType": "tv",
+      "title": "Flower of Evil",
+      "originalTitle": "악의 꽃",
+      "award": "Best Director Broadcast",
+      "awardYear": 2021,
+      "awardOrder": 7,
+      "winner": "Kim Cheol-kyu",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt11691684"
+      }
+    },
+    {
+      "id": "baeksang-2021-tv-actor-beyond-evil",
+      "mediaType": "tv",
+      "title": "Beyond Evil",
+      "originalTitle": "괴물",
+      "award": "Best Actor Broadcast",
+      "awardYear": 2021,
+      "awardOrder": 8,
+      "winner": "Shin Ha-kyun",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt13634872"
+      }
+    },
+    {
+      "id": "baeksang-2021-tv-actress-penthouse",
+      "mediaType": "tv",
+      "title": "The Penthouse: War in Life",
+      "originalTitle": "펜트하우스",
+      "award": "Best Actress Broadcast",
+      "awardYear": 2021,
+      "awardOrder": 9,
+      "winner": "Kim So-yeon",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt13067118"
+      }
+    }
+  ]
+}

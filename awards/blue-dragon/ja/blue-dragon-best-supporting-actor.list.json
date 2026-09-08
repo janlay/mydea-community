@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T00:00:00Z",
+  "title": "青龍映画賞 — 助演男優賞",
+  "description": "青龍映画賞助演男優賞の歴代受賞者。",
+  "items": [
+    {
+      "id": "blue-dragon-2016-best-supporting-actor-wailing",
+      "mediaType": "movie",
+      "title": "哭声/コクソン",
+      "originalTitle": "곡성",
+      "awardYear": 2016,
+      "winner": "國村隼",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5215952"
+      }
+    },
+    {
+      "id": "blue-dragon-2017-best-supporting-actor-outlaws",
+      "mediaType": "movie",
+      "title": "犯罪都市",
+      "originalTitle": "범죄도시",
+      "awardYear": 2017,
+      "winner": "チン・ソンギュ",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7468056"
+      }
+    },
+    {
+      "id": "blue-dragon-2018-best-supporting-actor-believer",
+      "mediaType": "movie",
+      "title": "毒戦 BELIEVER",
+      "originalTitle": "독전",
+      "awardYear": 2018,
+      "winner": "キム・ジュヒョク",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7095654"
+      }
+    },
+    {
+      "id": "blue-dragon-2019-best-supporting-actor-default",
+      "mediaType": "movie",
+      "title": "国家が破産する日",
+      "originalTitle": "국가부도의 날",
+      "awardYear": 2019,
+      "winner": "チョ・ウジン",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7233726"
+      }
+    },
+    {
+      "id": "blue-dragon-2020-best-supporting-actor-deliver-evil",
+      "mediaType": "movie",
+      "title": "Deliver Us from Evil",
+      "originalTitle": "다만 악에서 구하소서",
+      "awardYear": 2020,
+      "winner": "パク・ジョンミン",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt12763920"
+      }
+    },
+    {
+      "id": "blue-dragon-2021-best-supporting-actor-mogadishu",
+      "mediaType": "movie",
+      "title": "モガディシュ 脱出までの14日間",
+      "originalTitle": "모가디슈",
+      "awardYear": 2021,
+      "winner": "ホ・ジュノ",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14810692"
+      }
+    },
+    {
+      "id": "blue-dragon-2022-best-supporting-actor-hansan",
+      "mediaType": "movie",
+      "title": "ハンサン ―龍の出現―",
+      "originalTitle": "한산: 용의 출현",
+      "awardYear": 2022,
+      "winner": "ピョン・ヨハン",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt21109538"
+      }
+    },
+    {
+      "id": "blue-dragon-2023-best-supporting-actor-smugglers",
+      "mediaType": "movie",
+      "title": "密輸 1970",
+      "originalTitle": "밀수",
+      "awardYear": 2023,
+      "winner": "チョ・インソン",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt28106766"
+      }
+    },
+    {
+      "id": "blue-dragon-2024-best-supporting-actor-i-executioner",
+      "mediaType": "movie",
+      "title": "ベテラン 凶悪犯罪捜査班",
+      "originalTitle": "베테랑2",
+      "awardYear": 2024,
+      "winner": "チョン・ヘイン",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt30287778"
+      }
+    },
+    {
+      "id": "blue-dragon-2025-best-supporting-actor-no-other-choice",
+      "mediaType": "movie",
+      "title": "しあわせな選択",
+      "originalTitle": "어쩔수가없다",
+      "awardYear": 2025,
+      "winner": "イ・ソンミン",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt1527793"
+      }
+    }
+  ]
+}

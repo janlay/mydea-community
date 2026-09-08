@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T02:53:58Z",
+  "title": "백상예술대상 — 2018",
+  "description": "2018년 백상예술대상 영화·방송 주요 수상 기록.",
+  "items": [
+    {
+      "id": "baeksang-2018-film-grand-1987",
+      "mediaType": "movie",
+      "title": "1987",
+      "englishTitle": "1987: When the Day Comes",
+      "award": "영화부문 대상",
+      "awardYear": 2018,
+      "awardOrder": 1,
+      "winner": "1987",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6493286"
+      }
+    },
+    {
+      "id": "baeksang-2018-tv-grand-stranger",
+      "mediaType": "tv",
+      "title": "비밀의 숲",
+      "englishTitle": "Stranger",
+      "award": "방송부문 대상",
+      "awardYear": 2018,
+      "awardOrder": 2,
+      "winner": "비밀의 숲",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6461346"
+      }
+    },
+    {
+      "id": "baeksang-2018-film-best-fortress",
+      "mediaType": "movie",
+      "title": "남한산성",
+      "englishTitle": "The Fortress",
+      "award": "영화부문 작품상",
+      "awardYear": 2018,
+      "awardOrder": 3,
+      "winner": "남한산성",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7160176"
+      }
+    },
+    {
+      "id": "baeksang-2018-film-director-along-gods",
+      "mediaType": "movie",
+      "title": "신과함께-죄와 벌",
+      "englishTitle": "Along with the Gods: The Two Worlds",
+      "award": "영화부문 감독상",
+      "awardYear": 2018,
+      "awardOrder": 4,
+      "winner": "Kim Yong-hwa",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7160070"
+      }
+    },
+    {
+      "id": "baeksang-2018-film-actor-1987",
+      "mediaType": "movie",
+      "title": "1987",
+      "englishTitle": "1987: When the Day Comes",
+      "award": "영화부문 남자 최우수 연기상",
+      "awardYear": 2018,
+      "awardOrder": 5,
+      "winner": "Kim Yoon-seok",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6493286"
+      }
+    },
+    {
+      "id": "baeksang-2018-film-actress-i-can-speak",
+      "mediaType": "movie",
+      "title": "아이 캔 스피크",
+      "englishTitle": "I Can Speak",
+      "award": "영화부문 여자 최우수 연기상",
+      "awardYear": 2018,
+      "awardOrder": 6,
+      "winner": "Na Moon-hee",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7342204"
+      }
+    },
+    {
+      "id": "baeksang-2018-tv-best-mother",
+      "mediaType": "tv",
+      "title": "마더",
+      "englishTitle": "Mother",
+      "award": "방송부문 작품상 드라마",
+      "awardYear": 2018,
+      "awardOrder": 7,
+      "winner": "마더",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7795226"
+      }
+    },
+    {
+      "id": "baeksang-2018-tv-director-lady-dignity",
+      "mediaType": "tv",
+      "title": "품위있는 그녀",
+      "englishTitle": "The Lady in Dignity",
+      "award": "방송부문 연출상",
+      "awardYear": 2018,
+      "awardOrder": 8,
+      "winner": "Kim Yun-cheol",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6898288"
+      }
+    },
+    {
+      "id": "baeksang-2018-tv-actor-stranger",
+      "mediaType": "tv",
+      "title": "비밀의 숲",
+      "englishTitle": "Stranger",
+      "award": "방송부문 남자 최우수 연기상",
+      "awardYear": 2018,
+      "awardOrder": 9,
+      "winner": "Cho Seung-woo",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6461346"
+      }
+    },
+    {
+      "id": "baeksang-2018-tv-actress-misty",
+      "mediaType": "tv",
+      "title": "미스티",
+      "englishTitle": "Misty",
+      "award": "방송부문 여자 최우수 연기상",
+      "awardYear": 2018,
+      "awardOrder": 10,
+      "winner": "Kim Nam-joo",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7890244"
+      }
+    }
+  ]
+}

@@ -1,0 +1,685 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "title": "カンヌ — グランプリ",
+  "author": "Mydea",
+  "updatedAt": "2026-09-16T04:43:24Z",
+  "description": "カンヌ国際映画祭の長編映画部門における歴代受賞作。 グランプリ.",
+  "tags": [
+    "award",
+    "cannes",
+    "prize"
+  ],
+  "items": [
+    {
+      "id": "cannes-grand-prix-1967-accident",
+      "mediaType": "movie",
+      "title": "Accident",
+      "awardYear": 1967,
+      "winner": "Joseph Losey",
+      "externalIds": {
+        "tmdb": "74544"
+      }
+    },
+    {
+      "id": "cannes-grand-prix-1967-i-even-met-happy-gypsies",
+      "mediaType": "movie",
+      "title": "I Even Met Happy Gypsies",
+      "awardYear": 1967,
+      "winner": "Aleksandar Petrović",
+      "externalIds": {
+        "tmdb": "59088"
+      }
+    },
+    {
+      "id": "cannes-grand-prix-1969-ådalen-31",
+      "mediaType": "movie",
+      "title": "Ådalen 31",
+      "awardYear": 1969,
+      "winner": "Bo Widerberg",
+      "externalIds": {
+        "tmdb": "87208"
+      }
+    },
+    {
+      "id": "cannes-grand-prix-1970-investigation-of-a-citizen-above-suspicion",
+      "mediaType": "movie",
+      "title": "Investigation of a Citizen Above Suspicion",
+      "awardYear": 1970,
+      "winner": "Elio Petri",
+      "externalIds": {
+        "tmdb": "26451"
+      }
+    },
+    {
+      "id": "cannes-grand-prix-1971-johnny-got-his-gun",
+      "mediaType": "movie",
+      "title": "Johnny Got His Gun",
+      "awardYear": 1971,
+      "winner": "Dalton Trumbo",
+      "externalIds": {
+        "tmdb": "16328"
+      }
+    },
+    {
+      "id": "cannes-grand-prix-1971-taking-off",
+      "mediaType": "movie",
+      "title": "Taking Off",
+      "awardYear": 1971,
+      "winner": "Miloš Forman",
+      "externalIds": {
+        "tmdb": "59881"
+      }
+    },
+    {
+      "id": "cannes-grand-prix-1972-solaris",
+      "mediaType": "movie",
+      "title": "Solaris",
+      "awardYear": 1972,
+      "winner": "Andrei Tarkovsky",
+      "externalIds": {
+        "tmdb": "593"
+      }
+    },
+    {
+      "id": "cannes-grand-prix-1973-the-mother-and-the-whore",
+      "mediaType": "movie",
+      "title": "The Mother and the Whore",
+      "awardYear": 1973,
+      "winner": "Jean Eustache",
+      "externalIds": {
+        "tmdb": "48693"
+      }
+    },
+    {
+      "id": "cannes-grand-prix-1974-arabian-nights",
+      "mediaType": "movie",
+      "title": "Arabian Nights",
+      "awardYear": 1974,
+      "winner": "Pier Paolo Pasolini",
+      "externalIds": {
+        "tmdb": "47406"
+      }
+    },
+    {
+      "id": "cannes-grand-prix-1975-the-enigma-of-kaspar-hauser",
+      "mediaType": "movie",
+      "title": "The Enigma of Kaspar Hauser",
+      "awardYear": 1975,
+      "winner": "Werner Herzog",
+      "externalIds": {
+        "tmdb": "11710"
+      }
+    },
+    {
+      "id": "cannes-grand-prix-1976-cría-cuervos",
+      "mediaType": "movie",
+      "title": "Cría Cuervos",
+      "awardYear": 1976,
+      "winner": "Carlos Saura",
+      "externalIds": {
+        "tmdb": "51857"
+      }
+    },
+    {
+      "id": "cannes-grand-prix-1976-the-marquise-of-o",
+      "mediaType": "movie",
+      "title": "The Marquise of O",
+      "awardYear": 1976,
+      "winner": "Éric Rohmer",
+      "externalIds": {
+        "tmdb": "48205"
+      }
+    },
+    {
+      "id": "cannes-grand-prix-1978-bye-bye-monkey",
+      "mediaType": "movie",
+      "title": "Bye Bye Monkey",
+      "awardYear": 1978,
+      "winner": "Marco Ferreri",
+      "externalIds": {
+        "tmdb": "42200"
+      }
+    },
+    {
+      "id": "cannes-grand-prix-1978-the-shout",
+      "mediaType": "movie",
+      "title": "The Shout",
+      "awardYear": 1978,
+      "winner": "Jerzy Skolimowski",
+      "externalIds": {
+        "tmdb": "48131"
+      }
+    },
+    {
+      "id": "cannes-grand-prix-1979-siberiade",
+      "mediaType": "movie",
+      "title": "Siberiade",
+      "awardYear": 1979,
+      "winner": "Andrei Konchalovsky",
+      "externalIds": {
+        "tmdb": "68553"
+      }
+    },
+    {
+      "id": "cannes-grand-prix-1980-my-american-uncle",
+      "mediaType": "movie",
+      "title": "My American Uncle",
+      "awardYear": 1980,
+      "winner": "Alain Resnais",
+      "externalIds": {
+        "tmdb": "39543"
+      }
+    },
+    {
+      "id": "cannes-grand-prix-1981-light-years-away",
+      "mediaType": "movie",
+      "title": "Light Years Away",
+      "awardYear": 1981,
+      "winner": "Alain Tanner",
+      "externalIds": {
+        "tmdb": "101330"
+      }
+    },
+    {
+      "id": "cannes-grand-prix-1982-the-night-of-the-shooting-stars",
+      "mediaType": "movie",
+      "title": "The Night of the Shooting Stars",
+      "awardYear": 1982,
+      "winner": "Paolo Taviani; Vittorio Taviani",
+      "externalIds": {
+        "tmdb": "42130"
+      }
+    },
+    {
+      "id": "cannes-grand-prix-1983-monty-python-s-the-meaning-of-life",
+      "mediaType": "movie",
+      "title": "Monty Python's The Meaning of Life",
+      "awardYear": 1983,
+      "winner": "Terry Jones",
+      "externalIds": {
+        "tmdb": "4543"
+      }
+    },
+    {
+      "id": "cannes-grand-prix-1984-diary-for-my-children",
+      "mediaType": "movie",
+      "title": "Diary for My Children",
+      "awardYear": 1984,
+      "winner": "Márta Mészáros",
+      "externalIds": {
+        "tmdb": "84946"
+      }
+    },
+    {
+      "id": "cannes-grand-prix-1985-birdy",
+      "mediaType": "movie",
+      "title": "Birdy",
+      "awardYear": 1985,
+      "winner": "Alan Parker",
+      "externalIds": {
+        "tmdb": "11296"
+      }
+    },
+    {
+      "id": "cannes-grand-prix-1986-the-sacrifice",
+      "mediaType": "movie",
+      "title": "The Sacrifice",
+      "awardYear": 1986,
+      "winner": "Andrei Tarkovsky",
+      "externalIds": {
+        "tmdb": "24657"
+      }
+    },
+    {
+      "id": "cannes-grand-prix-1987-repentance",
+      "mediaType": "movie",
+      "title": "Repentance",
+      "awardYear": 1987,
+      "winner": "Tengiz Abuladze",
+      "externalIds": {
+        "tmdb": "96920"
+      }
+    },
+    {
+      "id": "cannes-grand-prix-1988-a-world-apart",
+      "mediaType": "movie",
+      "title": "A World Apart",
+      "awardYear": 1988,
+      "winner": "Chris Menges",
+      "externalIds": {
+        "tmdb": "41949"
+      }
+    },
+    {
+      "id": "cannes-grand-prix-1989-cinema-paradiso",
+      "mediaType": "movie",
+      "title": "Cinema Paradiso",
+      "awardYear": 1989,
+      "winner": "Giuseppe Tornatore",
+      "externalIds": {
+        "tmdb": "11216"
+      }
+    },
+    {
+      "id": "cannes-grand-prix-1989-too-beautiful-for-you",
+      "mediaType": "movie",
+      "title": "Too Beautiful for You",
+      "awardYear": 1989,
+      "winner": "Bertrand Blier",
+      "externalIds": {
+        "tmdb": "48524"
+      }
+    },
+    {
+      "id": "cannes-grand-prix-1990-the-sting-of-death",
+      "mediaType": "movie",
+      "title": "The Sting of Death",
+      "awardYear": 1990,
+      "winner": "Kōhei Oguri",
+      "externalIds": {
+        "tmdb": "128775"
+      }
+    },
+    {
+      "id": "cannes-grand-prix-1990-tilaï",
+      "mediaType": "movie",
+      "title": "Tilaï",
+      "awardYear": 1990,
+      "winner": "Idrissa Ouedraogo",
+      "externalIds": {
+        "tmdb": "65482"
+      }
+    },
+    {
+      "id": "cannes-grand-prix-1991-la-belle-noiseuse",
+      "mediaType": "movie",
+      "title": "La Belle Noiseuse",
+      "awardYear": 1991,
+      "winner": "Jacques Rivette",
+      "externalIds": {
+        "tmdb": "12627"
+      }
+    },
+    {
+      "id": "cannes-grand-prix-1992-the-stolen-children",
+      "mediaType": "movie",
+      "title": "The Stolen Children",
+      "awardYear": 1992,
+      "winner": "Gianni Amelio",
+      "externalIds": {
+        "tmdb": "47714"
+      }
+    },
+    {
+      "id": "cannes-grand-prix-1993-faraway-so-close",
+      "mediaType": "movie",
+      "title": "Faraway, So Close!",
+      "awardYear": 1993,
+      "winner": "Wim Wenders",
+      "externalIds": {
+        "tmdb": "10434"
+      }
+    },
+    {
+      "id": "cannes-grand-prix-1994-burnt-by-the-sun",
+      "mediaType": "movie",
+      "title": "Burnt by the Sun",
+      "awardYear": 1994,
+      "winner": "Nikita Mikhalkov",
+      "externalIds": {
+        "tmdb": "50797"
+      }
+    },
+    {
+      "id": "cannes-grand-prix-1994-to-live",
+      "mediaType": "movie",
+      "title": "To Live",
+      "awardYear": 1994,
+      "winner": "Zhang Yimou",
+      "externalIds": {
+        "tmdb": "31439"
+      }
+    },
+    {
+      "id": "cannes-grand-prix-1995-ulysses-gaze",
+      "mediaType": "movie",
+      "title": "Ulysses' Gaze",
+      "awardYear": 1995,
+      "winner": "Theo Angelopoulos",
+      "externalIds": {
+        "tmdb": "22549"
+      }
+    },
+    {
+      "id": "cannes-grand-prix-1996-breaking-the-waves",
+      "mediaType": "movie",
+      "title": "Breaking the Waves",
+      "awardYear": 1996,
+      "winner": "Lars von Trier",
+      "externalIds": {
+        "tmdb": "145"
+      }
+    },
+    {
+      "id": "cannes-grand-prix-1997-the-sweet-hereafter",
+      "mediaType": "movie",
+      "title": "The Sweet Hereafter",
+      "awardYear": 1997,
+      "winner": "Atom Egoyan",
+      "externalIds": {
+        "tmdb": "10217"
+      }
+    },
+    {
+      "id": "cannes-grand-prix-1998-life-is-beautiful",
+      "mediaType": "movie",
+      "title": "Life Is Beautiful",
+      "awardYear": 1998,
+      "winner": "Roberto Benigni",
+      "externalIds": {
+        "tmdb": "637"
+      }
+    },
+    {
+      "id": "cannes-grand-prix-1999-humanité",
+      "mediaType": "movie",
+      "title": "Humanité",
+      "awardYear": 1999,
+      "winner": "Bruno Dumont",
+      "externalIds": {
+        "tmdb": "65296"
+      }
+    },
+    {
+      "id": "cannes-grand-prix-2000-devils-on-the-doorstep",
+      "mediaType": "movie",
+      "title": "Devils on the Doorstep",
+      "awardYear": 2000,
+      "winner": "Jiang Wen",
+      "externalIds": {
+        "tmdb": "25838"
+      }
+    },
+    {
+      "id": "cannes-grand-prix-2001-the-piano-teacher",
+      "mediaType": "movie",
+      "title": "The Piano Teacher",
+      "awardYear": 2001,
+      "winner": "Michael Haneke",
+      "externalIds": {
+        "tmdb": "1791"
+      }
+    },
+    {
+      "id": "cannes-grand-prix-2002-the-man-without-a-past",
+      "mediaType": "movie",
+      "title": "The Man Without a Past",
+      "awardYear": 2002,
+      "winner": "Aki Kaurismäki",
+      "externalIds": {
+        "tmdb": "7294"
+      }
+    },
+    {
+      "id": "cannes-grand-prix-2003-uzak",
+      "mediaType": "movie",
+      "title": "Uzak",
+      "awardYear": 2003,
+      "winner": "Nuri Bilge Ceylan",
+      "externalIds": {
+        "tmdb": "31026"
+      }
+    },
+    {
+      "id": "cannes-grand-prix-2004-oldboy",
+      "mediaType": "movie",
+      "title": "Oldboy",
+      "awardYear": 2004,
+      "winner": "Park Chan-wook",
+      "externalIds": {
+        "tmdb": "670"
+      }
+    },
+    {
+      "id": "cannes-grand-prix-2005-broken-flowers",
+      "mediaType": "movie",
+      "title": "Broken Flowers",
+      "awardYear": 2005,
+      "winner": "Jim Jarmusch",
+      "externalIds": {
+        "tmdb": "308"
+      }
+    },
+    {
+      "id": "cannes-grand-prix-2006-flanders",
+      "mediaType": "movie",
+      "title": "Flanders",
+      "awardYear": 2006,
+      "winner": "Bruno Dumont",
+      "externalIds": {
+        "tmdb": "36143"
+      }
+    },
+    {
+      "id": "cannes-grand-prix-2007-the-mourning-forest",
+      "mediaType": "movie",
+      "title": "The Mourning Forest",
+      "awardYear": 2007,
+      "winner": "Naomi Kawase",
+      "externalIds": {
+        "tmdb": "2010"
+      }
+    },
+    {
+      "id": "cannes-grand-prix-2008-gomorrah",
+      "mediaType": "movie",
+      "title": "Gomorrah",
+      "awardYear": 2008,
+      "winner": "Matteo Garrone",
+      "externalIds": {
+        "tmdb": "8882"
+      }
+    },
+    {
+      "id": "cannes-grand-prix-2009-a-prophet",
+      "mediaType": "movie",
+      "title": "A Prophet",
+      "awardYear": 2009,
+      "winner": "Jacques Audiard",
+      "externalIds": {
+        "tmdb": "21575"
+      }
+    },
+    {
+      "id": "cannes-grand-prix-2010-of-gods-and-men",
+      "mediaType": "movie",
+      "title": "Of Gods and Men",
+      "awardYear": 2010,
+      "winner": "Xavier Beauvois",
+      "externalIds": {
+        "tmdb": "46332"
+      }
+    },
+    {
+      "id": "cannes-grand-prix-2011-once-upon-a-time-in-anatolia",
+      "mediaType": "movie",
+      "title": "Once Upon a Time in Anatolia",
+      "awardYear": 2011,
+      "winner": "Nuri Bilge Ceylan",
+      "externalIds": {
+        "tmdb": "74879"
+      }
+    },
+    {
+      "id": "cannes-grand-prix-2011-the-kid-with-a-bike",
+      "mediaType": "movie",
+      "title": "The Kid with a Bike",
+      "awardYear": 2011,
+      "winner": "Jean-Pierre Dardenne; Luc Dardenne",
+      "externalIds": {
+        "tmdb": "63831"
+      }
+    },
+    {
+      "id": "cannes-grand-prix-2012-reality",
+      "mediaType": "movie",
+      "title": "Reality",
+      "awardYear": 2012,
+      "winner": "Matteo Garrone",
+      "externalIds": {
+        "tmdb": "103758"
+      }
+    },
+    {
+      "id": "cannes-grand-prix-2013-inside-llewyn-davis",
+      "mediaType": "movie",
+      "title": "Inside Llewyn Davis",
+      "awardYear": 2013,
+      "winner": "Joel Coen; Ethan Coen",
+      "externalIds": {
+        "tmdb": "86829"
+      }
+    },
+    {
+      "id": "cannes-grand-prix-2014-the-wonders",
+      "mediaType": "movie",
+      "title": "The Wonders",
+      "awardYear": 2014,
+      "winner": "Alice Rohrwacher",
+      "externalIds": {
+        "tmdb": "265226"
+      }
+    },
+    {
+      "id": "cannes-grand-prix-2015-son-of-saul",
+      "mediaType": "movie",
+      "title": "Son of Saul",
+      "awardYear": 2015,
+      "winner": "László Nemes",
+      "externalIds": {
+        "tmdb": "336050"
+      }
+    },
+    {
+      "id": "cannes-grand-prix-2016-it-s-only-the-end-of-the-world",
+      "mediaType": "movie",
+      "title": "It's Only the End of the World",
+      "awardYear": 2016,
+      "winner": "Xavier Dolan",
+      "externalIds": {
+        "tmdb": "338189"
+      }
+    },
+    {
+      "id": "cannes-grand-prix-2017-bpm-beats-per-minute",
+      "mediaType": "movie",
+      "title": "BPM (Beats per Minute)",
+      "awardYear": 2017,
+      "winner": "Robin Campillo",
+      "externalIds": {
+        "tmdb": "451945"
+      }
+    },
+    {
+      "id": "cannes-grand-prix-2018-blackkklansman",
+      "mediaType": "movie",
+      "title": "BlacKkKlansman",
+      "awardYear": 2018,
+      "winner": "Spike Lee",
+      "externalIds": {
+        "tmdb": "487558"
+      }
+    },
+    {
+      "id": "cannes-grand-prix-2019-atlantics",
+      "mediaType": "movie",
+      "title": "Atlantics",
+      "awardYear": 2019,
+      "winner": "Mati Diop",
+      "externalIds": {
+        "tmdb": "496967"
+      }
+    },
+    {
+      "id": "cannes-grand-prix-2021-a-hero",
+      "mediaType": "movie",
+      "title": "A Hero",
+      "awardYear": 2021,
+      "winner": "Asghar Farhadi",
+      "externalIds": {
+        "tmdb": "672208"
+      }
+    },
+    {
+      "id": "cannes-grand-prix-2021-compartment-no-6",
+      "mediaType": "movie",
+      "title": "Compartment No. 6",
+      "awardYear": 2021,
+      "winner": "Juho Kuosmanen",
+      "externalIds": {
+        "tmdb": "588182"
+      }
+    },
+    {
+      "id": "cannes-grand-prix-2022-close",
+      "mediaType": "movie",
+      "title": "Close",
+      "awardYear": 2022,
+      "winner": "Lukas Dhont",
+      "externalIds": {
+        "tmdb": "901563"
+      }
+    },
+    {
+      "id": "cannes-grand-prix-2022-stars-at-noon",
+      "mediaType": "movie",
+      "title": "Stars at Noon",
+      "awardYear": 2022,
+      "winner": "Claire Denis",
+      "externalIds": {
+        "tmdb": "603204"
+      }
+    },
+    {
+      "id": "cannes-grand-prix-2023-the-zone-of-interest",
+      "mediaType": "movie",
+      "title": "The Zone of Interest",
+      "awardYear": 2023,
+      "winner": "Jonathan Glazer",
+      "externalIds": {
+        "tmdb": "467244"
+      }
+    },
+    {
+      "id": "cannes-grand-prix-2024-all-we-imagine-as-light",
+      "mediaType": "movie",
+      "title": "All We Imagine as Light",
+      "awardYear": 2024,
+      "winner": "Payal Kapadia",
+      "externalIds": {
+        "tmdb": "927547"
+      }
+    },
+    {
+      "id": "cannes-grand-prix-2025-sentimental-value",
+      "mediaType": "movie",
+      "title": "Sentimental Value",
+      "awardYear": 2025,
+      "winner": "Joachim Trier",
+      "externalIds": {
+        "tmdb": "1124566"
+      }
+    },
+    {
+      "id": "cannes-grand-prix-2026-minotaur",
+      "mediaType": "movie",
+      "title": "Minotaur",
+      "awardYear": 2026,
+      "winner": "Andrey Zvyagintsev",
+      "externalIds": {
+        "tmdb": "848700"
+      }
+    }
+  ]
+}

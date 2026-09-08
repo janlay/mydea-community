@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T05:03:35Z",
+  "title": "プライムタイム・エミー賞 2025 受賞一覧",
+  "description": "第77回プライムタイム・エミー賞の主要部門受賞記録。",
+  "items": [
+    {
+      "id": "emmys-2025-drama-series-the-pitt",
+      "mediaType": "tv",
+      "title": "ザ・ピット / ピッツバーグ救急医療室",
+      "award": "作品賞 ドラマ・シリーズ部門",
+      "awardYear": 2025,
+      "awardOrder": 1,
+      "winner": "The Pitt",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31938062"
+      }
+    },
+    {
+      "id": "emmys-2025-comedy-series-the-studio",
+      "mediaType": "tv",
+      "title": "ザ・スタジオ",
+      "originalTitle": "The Studio",
+      "award": "作品賞 コメディ・シリーズ部門",
+      "awardYear": 2025,
+      "awardOrder": 2,
+      "winner": "The Studio",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt23649128"
+      }
+    },
+    {
+      "id": "emmys-2025-limited-series-adolescence",
+      "mediaType": "tv",
+      "title": "アドレセンス",
+      "originalTitle": "Adolescence",
+      "award": "作品賞 リミテッド／アンソロジー・シリーズ部門",
+      "awardYear": 2025,
+      "awardOrder": 3,
+      "winner": "Adolescence",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31806037"
+      }
+    },
+    {
+      "id": "emmys-2025-lead-actor-drama-the-pitt",
+      "mediaType": "tv",
+      "title": "ザ・ピット / ピッツバーグ救急医療室",
+      "award": "主演男優賞 ドラマ・シリーズ部門",
+      "awardYear": 2025,
+      "awardOrder": 4,
+      "winner": "Noah Wyle",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31938062"
+      }
+    },
+    {
+      "id": "emmys-2025-lead-actress-drama-severance",
+      "mediaType": "tv",
+      "title": "セヴェランス",
+      "originalTitle": "Severance",
+      "award": "主演女優賞 ドラマ・シリーズ部門",
+      "awardYear": 2025,
+      "awardOrder": 5,
+      "winner": "Britt Lower",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt11280740"
+      }
+    },
+    {
+      "id": "emmys-2025-lead-actor-comedy-the-studio",
+      "mediaType": "tv",
+      "title": "ザ・スタジオ",
+      "originalTitle": "The Studio",
+      "award": "主演男優賞 コメディ・シリーズ部門",
+      "awardYear": 2025,
+      "awardOrder": 6,
+      "winner": "Seth Rogen",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt23649128"
+      }
+    },
+    {
+      "id": "emmys-2025-lead-actress-comedy-hacks",
+      "mediaType": "tv",
+      "title": "Hacks",
+      "award": "主演女優賞 コメディ・シリーズ部門",
+      "awardYear": 2025,
+      "awardOrder": 7,
+      "winner": "Jean Smart",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt11815682"
+      }
+    }
+  ]
+}

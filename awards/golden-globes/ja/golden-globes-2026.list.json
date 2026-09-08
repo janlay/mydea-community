@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "ゴールデングローブ賞 2026",
+  "description": "2026年のゴールデングローブ賞主要映画・テレビ作品部門の受賞一覧。",
+  "items": [
+    {
+      "id": "golden-globes-2026-drama-hamnet",
+      "mediaType": "movie",
+      "title": "ハムネット",
+      "englishTitle": "Hamnet",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt14905854"
+      },
+      "award": "作品賞 ドラマ部門",
+      "awardYear": 2026,
+      "awardOrder": 1,
+      "winner": "ハムネット"
+    },
+    {
+      "id": "golden-globes-2026-comedy-one-battle-after-another",
+      "mediaType": "movie",
+      "title": "ワン・バトル・アフター・アナザー",
+      "englishTitle": "One Battle After Another",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt30144839"
+      },
+      "award": "作品賞 ミュージカル・コメディ部門",
+      "awardYear": 2026,
+      "awardOrder": 2,
+      "winner": "ワン・バトル・アフター・アナザー"
+    },
+    {
+      "id": "golden-globes-2026-animated-kpop-demon-hunters",
+      "mediaType": "movie",
+      "title": "KPOPガールズ! デーモン・ハンターズ",
+      "englishTitle": "KPop Demon Hunters",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt14205554"
+      },
+      "award": "アニメーション映画賞",
+      "awardYear": 2026,
+      "awardOrder": 3,
+      "winner": "KPOPガールズ! デーモン・ハンターズ"
+    },
+    {
+      "id": "golden-globes-2026-foreign-the-secret-agent",
+      "mediaType": "movie",
+      "title": "シークレット・エージェント",
+      "englishTitle": "The Secret Agent",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt27847051"
+      },
+      "award": "非英語映画賞",
+      "awardYear": 2026,
+      "awardOrder": 4,
+      "winner": "ザ・シークレット・エージェント"
+    },
+    {
+      "id": "golden-globes-2026-tv_drama-the-pitt",
+      "mediaType": "tv",
+      "title": "ザ・ピット / ピッツバーグ救急医療室",
+      "englishTitle": "The Pitt",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31938062"
+      },
+      "award": "テレビドラマ作品賞",
+      "awardYear": 2026,
+      "awardOrder": 5,
+      "winner": "ザ・ピット"
+    },
+    {
+      "id": "golden-globes-2026-tv_comedy-the-studio",
+      "mediaType": "tv",
+      "title": "ザ・スタジオ",
+      "englishTitle": "The Studio",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt23649128"
+      },
+      "award": "テレビ作品賞 ミュージカル・コメディ部門",
+      "awardYear": 2026,
+      "awardOrder": 6,
+      "winner": "ザ・スタジオ"
+    },
+    {
+      "id": "golden-globes-2026-limited-adolescence",
+      "mediaType": "tv",
+      "title": "アドレセンス",
+      "englishTitle": "Adolescence",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31806037"
+      },
+      "award": "リミテッドシリーズ・アンソロジー・テレビ映画賞",
+      "awardYear": 2026,
+      "awardOrder": 7,
+      "winner": "アドレセンス"
+    },
+    {
+      "id": "golden-globes-2026-boxoffice-sinners",
+      "mediaType": "movie",
+      "title": "罪人たち",
+      "englishTitle": "Sinners",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31193180"
+      },
+      "award": "シネマティック＆ボックスオフィス・アチーブメント賞",
+      "awardYear": 2026,
+      "awardOrder": 8,
+      "winner": "罪人たち"
+    }
+  ]
+}

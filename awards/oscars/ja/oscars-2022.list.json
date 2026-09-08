@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T05:03:58Z",
+  "title": "アカデミー賞 2022 受賞一覧",
+  "description": "第94回アカデミー賞の主要映画部門の受賞作品と受賞者。",
+  "items": [
+    {
+      "id": "oscars-2022-best-picture-coda",
+      "mediaType": "movie",
+      "title": "コーダ あいのうた",
+      "award": "作品賞",
+      "awardYear": 2022,
+      "awardOrder": 1,
+      "winner": "Philippe Rousselet, Fabrice Gianfermi & Patrick Wachsberger",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt10366460"
+      }
+    },
+    {
+      "id": "oscars-2022-best-director-the-power-of-the-dog",
+      "mediaType": "movie",
+      "title": "パワー・オブ・ザ・ドッグ",
+      "award": "監督賞",
+      "awardYear": 2022,
+      "awardOrder": 2,
+      "winner": "Jane Campion",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt10293406"
+      }
+    },
+    {
+      "id": "oscars-2022-best-actor-king-richard",
+      "mediaType": "movie",
+      "title": "King Richard",
+      "award": "主演男優賞",
+      "awardYear": 2022,
+      "awardOrder": 3,
+      "winner": "Will Smith",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt9620288"
+      }
+    },
+    {
+      "id": "oscars-2022-best-actress-the-eyes-of-tammy-faye",
+      "mediaType": "movie",
+      "title": "The Eyes of Tammy Faye",
+      "award": "主演女優賞",
+      "awardYear": 2022,
+      "awardOrder": 4,
+      "winner": "Jessica Chastain",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt9115530"
+      }
+    },
+    {
+      "id": "oscars-2022-best-supporting-actor-coda",
+      "mediaType": "movie",
+      "title": "コーダ あいのうた",
+      "award": "助演男優賞",
+      "awardYear": 2022,
+      "awardOrder": 5,
+      "winner": "Troy Kotsur",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt10366460"
+      }
+    },
+    {
+      "id": "oscars-2022-best-supporting-actress-west-side-story",
+      "mediaType": "movie",
+      "title": "ウエスト・サイド・ストーリー",
+      "award": "助演女優賞",
+      "awardYear": 2022,
+      "awardOrder": 6,
+      "winner": "Ariana DeBose",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt3581652"
+      }
+    },
+    {
+      "id": "oscars-2022-best-original-screenplay-belfast",
+      "mediaType": "movie",
+      "title": "Belfast",
+      "award": "脚本賞",
+      "awardYear": 2022,
+      "awardOrder": 7,
+      "winner": "Kenneth Branagh",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt12789558"
+      }
+    },
+    {
+      "id": "oscars-2022-best-adapted-screenplay-coda",
+      "mediaType": "movie",
+      "title": "コーダ あいのうた",
+      "award": "脚色賞",
+      "awardYear": 2022,
+      "awardOrder": 8,
+      "winner": "Siân Heder",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt10366460"
+      }
+    },
+    {
+      "id": "oscars-2022-best-animated-feature-encanto",
+      "mediaType": "movie",
+      "title": "ミラベルと魔法だらけの家",
+      "award": "長編アニメ映画賞",
+      "awardYear": 2022,
+      "awardOrder": 9,
+      "winner": "Jared Bush, Byron Howard, Yvett Merino & Clark Spencer",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt2953050"
+      }
+    },
+    {
+      "id": "oscars-2022-best-international-feature-drive-my-car",
+      "mediaType": "movie",
+      "title": "ドライブ・マイ・カー",
+      "award": "国際長編映画賞",
+      "awardYear": 2022,
+      "awardOrder": 10,
+      "winner": "Japan",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14039582"
+      }
+    }
+  ]
+}

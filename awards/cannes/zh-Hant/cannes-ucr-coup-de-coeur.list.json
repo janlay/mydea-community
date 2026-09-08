@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "title": "坎城 — 一種注目心動獎",
+  "author": "Mydea",
+  "updatedAt": "2026-09-16T04:43:24Z",
+  "description": "坎城影展一種注目單元歷屆獎項。 一種注目心動獎.",
+  "tags": [
+    "award",
+    "cannes",
+    "prize"
+  ],
+  "items": [
+    {
+      "id": "cannes-ucr-coup-2007-the-band-s-visit",
+      "mediaType": "movie",
+      "title": "The Band's Visit",
+      "awardYear": 2007,
+      "winner": "Eran Kolirin"
+    },
+    {
+      "id": "cannes-ucr-coup-2008-cloud-9",
+      "mediaType": "movie",
+      "title": "Cloud 9",
+      "awardYear": 2008,
+      "winner": "Andreas Dresen"
+    },
+    {
+      "id": "cannes-ucr-coup-2019-a-brothers-love",
+      "mediaType": "movie",
+      "title": "哥哥戀愛了，我怎麼辦！？",
+      "awardYear": 2019,
+      "winner": "Monia Chokri",
+      "externalIds": {
+        "imdb": "tt10155342"
+      },
+      "releaseDate": "2019"
+    },
+    {
+      "id": "cannes-ucr-coup-2019-the-climb",
+      "mediaType": "movie",
+      "title": "婊兄弟上路",
+      "awardYear": 2019,
+      "winner": "Michael Angelo Covino",
+      "externalIds": {
+        "imdb": "tt8637440"
+      },
+      "releaseDate": "2019"
+    },
+    {
+      "id": "cannes-ucr-coup-2022-rodeo",
+      "mediaType": "movie",
+      "title": "摩託競技會",
+      "awardYear": 2022,
+      "winner": "Lola Quivoron",
+      "externalIds": {
+        "imdb": "tt19719940"
+      },
+      "releaseDate": "2022"
+    }
+  ]
+}

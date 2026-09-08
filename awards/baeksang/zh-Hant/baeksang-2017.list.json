@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T02:53:58Z",
+  "title": "百想藝術大賞 — 2017",
+  "description": "2017 年百想藝術大賞電影與電視主要獎項獲獎記錄。",
+  "items": [
+    {
+      "id": "baeksang-2017-film-grand-handmaiden",
+      "mediaType": "movie",
+      "title": "小姐",
+      "originalTitle": "아가씨",
+      "award": "電影大獎",
+      "awardYear": 2017,
+      "awardOrder": 1,
+      "winner": "Park Chan-wook",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4016934"
+      }
+    },
+    {
+      "id": "baeksang-2017-tv-grand-goblin",
+      "mediaType": "tv",
+      "title": "孤單又燦爛的神：鬼怪",
+      "originalTitle": "도깨비",
+      "award": "電視大獎",
+      "awardYear": 2017,
+      "awardOrder": 2,
+      "winner": "Kim Eun-sook",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5994364"
+      }
+    },
+    {
+      "id": "baeksang-2017-film-best-wailing",
+      "mediaType": "movie",
+      "title": "哭聲",
+      "originalTitle": "곡성",
+      "award": "最佳電影",
+      "awardYear": 2017,
+      "awardOrder": 3,
+      "winner": "哭聲",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5215952"
+      }
+    },
+    {
+      "id": "baeksang-2017-film-director-age-shadows",
+      "mediaType": "movie",
+      "title": "密探",
+      "originalTitle": "밀정",
+      "award": "電影最佳導演",
+      "awardYear": 2017,
+      "awardOrder": 4,
+      "winner": "Kim Jee-woon",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4914580"
+      }
+    },
+    {
+      "id": "baeksang-2017-film-actor-age-shadows",
+      "mediaType": "movie",
+      "title": "密探",
+      "originalTitle": "밀정",
+      "award": "電影最佳男主角",
+      "awardYear": 2017,
+      "awardOrder": 5,
+      "winner": "Song Kang-ho",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4914580"
+      }
+    },
+    {
+      "id": "baeksang-2017-film-actress-last-princess",
+      "mediaType": "movie",
+      "title": "德惠翁主",
+      "originalTitle": "덕혜옹주",
+      "award": "電影最佳女主角",
+      "awardYear": 2017,
+      "awardOrder": 6,
+      "winner": "Son Ye-jin",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5947416"
+      }
+    },
+    {
+      "id": "baeksang-2017-tv-best-dear-friends",
+      "mediaType": "tv",
+      "title": "我親愛的朋友們",
+      "originalTitle": "디어 마이 프렌즈",
+      "award": "最佳電視劇",
+      "awardYear": 2017,
+      "awardOrder": 7,
+      "winner": "我親愛的朋友們",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5689030"
+      }
+    },
+    {
+      "id": "baeksang-2017-tv-director-dr-romantic",
+      "mediaType": "tv",
+      "title": "浪漫醫生金師傅",
+      "originalTitle": "낭만닥터 김사부",
+      "award": "電視最佳導演",
+      "awardYear": 2017,
+      "awardOrder": 8,
+      "winner": "Yu In-sik",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt6157190"
+      }
+    },
+    {
+      "id": "baeksang-2017-tv-actor-goblin",
+      "mediaType": "tv",
+      "title": "孤單又燦爛的神：鬼怪",
+      "originalTitle": "도깨비",
+      "award": "電視最佳男主角",
+      "awardYear": 2017,
+      "awardOrder": 9,
+      "winner": "Gong Yoo",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5994364"
+      }
+    },
+    {
+      "id": "baeksang-2017-tv-actress-another-miss-oh",
+      "mediaType": "tv",
+      "title": "又是吳海英",
+      "originalTitle": "또 오해영",
+      "award": "電視最佳女主角",
+      "awardYear": 2017,
+      "awardOrder": 10,
+      "winner": "Seo Hyun-jin",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5679572"
+      }
+    }
+  ]
+}

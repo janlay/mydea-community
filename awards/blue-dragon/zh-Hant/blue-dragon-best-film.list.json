@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T02:54:20Z",
+  "title": "青龍電影獎 — 最佳影片",
+  "description": "韓國青龍電影獎最佳影片2016–2025年獲獎記錄。",
+  "items": [
+    {
+      "id": "blue-dragon-2016-best-film-inside-men",
+      "mediaType": "movie",
+      "title": "局內人",
+      "originalTitle": "내부자들",
+      "englishTitle": "Inside Men",
+      "awardYear": 2016,
+      "winner": "Woo Min-ho",
+      "releaseDate": "2015",
+      "externalIds": {
+        "imdb": "tt3779028"
+      }
+    },
+    {
+      "id": "blue-dragon-2017-best-film-a-taxi-driver",
+      "mediaType": "movie",
+      "title": "出租車司機",
+      "originalTitle": "택시운전사",
+      "englishTitle": "A Taxi Driver",
+      "awardYear": 2017,
+      "winner": "Jang Hun",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6878038"
+      }
+    },
+    {
+      "id": "blue-dragon-2018-best-film-1987",
+      "mediaType": "movie",
+      "title": "1987：黎明到來的那一天",
+      "originalTitle": "1987",
+      "englishTitle": "1987: When the Day Comes",
+      "awardYear": 2018,
+      "winner": "Jang Joon-hwan",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6493286"
+      }
+    },
+    {
+      "id": "blue-dragon-2019-best-film-parasite",
+      "mediaType": "movie",
+      "title": "寄生上流",
+      "originalTitle": "기생충",
+      "englishTitle": "Parasite",
+      "awardYear": 2019,
+      "winner": "Bong Joon-ho",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6751668"
+      }
+    },
+    {
+      "id": "blue-dragon-2020-best-film-man-standing-next",
+      "mediaType": "movie",
+      "title": "南山的部長們",
+      "originalTitle": "남산의 부장들",
+      "englishTitle": "The Man Standing Next",
+      "awardYear": 2020,
+      "winner": "Woo Min-ho",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt11358398"
+      }
+    },
+    {
+      "id": "blue-dragon-2021-best-film-mogadishu",
+      "mediaType": "movie",
+      "title": "摩加迪沙",
+      "originalTitle": "모가디슈",
+      "englishTitle": "Escape from Mogadishu",
+      "awardYear": 2021,
+      "winner": "Ryoo Seung-wan",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14810692"
+      }
+    },
+    {
+      "id": "blue-dragon-2022-best-film-decision-leave",
+      "mediaType": "movie",
+      "title": "分手的決心",
+      "originalTitle": "헤어질 결심",
+      "englishTitle": "Decision to Leave",
+      "awardYear": 2022,
+      "winner": "Park Chan-wook",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt12477480"
+      }
+    },
+    {
+      "id": "blue-dragon-2023-best-film-smugglers",
+      "mediaType": "movie",
+      "title": "走私",
+      "originalTitle": "밀수",
+      "englishTitle": "Smugglers",
+      "awardYear": 2023,
+      "winner": "Ryoo Seung-wan",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt28106766"
+      }
+    },
+    {
+      "id": "blue-dragon-2024-best-film-1212",
+      "mediaType": "movie",
+      "title": "首爾之春",
+      "originalTitle": "서울의 봄",
+      "englishTitle": "12.12: The Day",
+      "awardYear": 2024,
+      "winner": "Kim Sung-su",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt22507524"
+      }
+    },
+    {
+      "id": "blue-dragon-2025-best-film-no-other-choice",
+      "mediaType": "movie",
+      "title": "無可奈何",
+      "originalTitle": "어쩔수가없다",
+      "englishTitle": "No Other Choice",
+      "awardYear": 2025,
+      "winner": "Park Chan-wook",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt1527793"
+      }
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "골든 글로브 2025",
+  "description": "2025 골든 글로브 주요 영화·텔레비전 작품 부문 수상 목록.",
+  "items": [
+    {
+      "id": "golden-globes-2025-drama-the-brutalist",
+      "mediaType": "movie",
+      "title": "브루탈리스트",
+      "englishTitle": "The Brutalist",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt8999762"
+      },
+      "award": "작품상 드라마",
+      "awardYear": 2025,
+      "awardOrder": 1,
+      "winner": "브루탈리스트"
+    },
+    {
+      "id": "golden-globes-2025-comedy-emilia-perez",
+      "mediaType": "movie",
+      "title": "에밀리아 페레즈",
+      "englishTitle": "Emilia Pérez",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt20221436"
+      },
+      "award": "작품상 뮤지컬·코미디",
+      "awardYear": 2025,
+      "awardOrder": 2,
+      "winner": "에밀리아 페레즈"
+    },
+    {
+      "id": "golden-globes-2025-animated-flow",
+      "mediaType": "movie",
+      "title": "플로우",
+      "englishTitle": "Flow",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt4772188"
+      },
+      "award": "애니메이션 영화상",
+      "awardYear": 2025,
+      "awardOrder": 3,
+      "winner": "플로우"
+    },
+    {
+      "id": "golden-globes-2025-foreign-emilia-perez",
+      "mediaType": "movie",
+      "title": "에밀리아 페레즈",
+      "englishTitle": "Emilia Pérez",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt20221436"
+      },
+      "award": "비영어권 영화상",
+      "awardYear": 2025,
+      "awardOrder": 4,
+      "winner": "에밀리아 페레즈"
+    },
+    {
+      "id": "golden-globes-2025-tv_drama-shogun",
+      "mediaType": "tv",
+      "title": "쇼군",
+      "englishTitle": "Shōgun",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt2788316"
+      },
+      "award": "TV 드라마 작품상",
+      "awardYear": 2025,
+      "awardOrder": 5,
+      "winner": "쇼군"
+    },
+    {
+      "id": "golden-globes-2025-tv_comedy-hacks",
+      "mediaType": "tv",
+      "title": "나의 직장상사는 코미디언",
+      "englishTitle": "Hacks",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt11815682"
+      },
+      "award": "TV 뮤지컬·코미디 작품상",
+      "awardYear": 2025,
+      "awardOrder": 6,
+      "winner": "핵스"
+    },
+    {
+      "id": "golden-globes-2025-limited-baby-reindeer",
+      "mediaType": "tv",
+      "title": "베이비 레인디어",
+      "englishTitle": "Baby Reindeer",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt13649112"
+      },
+      "award": "리미티드 시리즈·앤솔러지·TV 영화상",
+      "awardYear": 2025,
+      "awardOrder": 7,
+      "winner": "베이비 레인디어"
+    },
+    {
+      "id": "golden-globes-2025-boxoffice-wicked",
+      "mediaType": "movie",
+      "title": "위키드",
+      "englishTitle": "Wicked",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt1262426"
+      },
+      "award": "시네마틱 및 박스오피스 성취상",
+      "awardYear": 2025,
+      "awardOrder": 8,
+      "winner": "위키드"
+    }
+  ]
+}

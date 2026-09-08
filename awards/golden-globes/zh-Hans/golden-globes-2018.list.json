@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "金球奖 2018",
+  "description": "2018 金球奖主要电影与电视作品类获奖名单。",
+  "items": [
+    {
+      "id": "golden-globes-2018-drama-three-billboards-outside-ebbing-missouri",
+      "mediaType": "movie",
+      "title": "三块广告牌",
+      "englishTitle": "Three Billboards Outside Ebbing, Missouri",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5027774"
+      },
+      "award": "最佳剧情片",
+      "awardYear": 2018,
+      "awardOrder": 1,
+      "winner": "三块广告牌"
+    },
+    {
+      "id": "golden-globes-2018-comedy-lady-bird",
+      "mediaType": "movie",
+      "title": "伯德小姐",
+      "englishTitle": "Lady Bird",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt4925292"
+      },
+      "award": "最佳音乐或喜剧片",
+      "awardYear": 2018,
+      "awardOrder": 2,
+      "winner": "伯德小姐"
+    },
+    {
+      "id": "golden-globes-2018-animated-coco",
+      "mediaType": "movie",
+      "title": "寻梦环游记",
+      "englishTitle": "Coco",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt2380307"
+      },
+      "award": "最佳动画片",
+      "awardYear": 2018,
+      "awardOrder": 3,
+      "winner": "寻梦环游记"
+    },
+    {
+      "id": "golden-globes-2018-foreign-in-the-fade",
+      "mediaType": "movie",
+      "title": "凭空而来",
+      "englishTitle": "In the Fade",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5723272"
+      },
+      "award": "最佳非英语片",
+      "awardYear": 2018,
+      "awardOrder": 4,
+      "winner": "凭空而来"
+    },
+    {
+      "id": "golden-globes-2018-tv_drama-the-handmaid-s-tale",
+      "mediaType": "tv",
+      "title": "使女的故事",
+      "englishTitle": "The Handmaid's Tale",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5834204"
+      },
+      "award": "最佳剧情类剧集",
+      "awardYear": 2018,
+      "awardOrder": 5,
+      "winner": "使女的故事"
+    },
+    {
+      "id": "golden-globes-2018-tv_comedy-the-marvelous-mrs-maisel",
+      "mediaType": "tv",
+      "title": "了不起的麦瑟尔夫人",
+      "englishTitle": "The Marvelous Mrs. Maisel",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5788792"
+      },
+      "award": "最佳音乐或喜剧类剧集",
+      "awardYear": 2018,
+      "awardOrder": 6,
+      "winner": "了不起的麦瑟尔夫人"
+    },
+    {
+      "id": "golden-globes-2018-limited-big-little-lies",
+      "mediaType": "tv",
+      "title": "大小谎言",
+      "englishTitle": "Big Little Lies",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt3920596"
+      },
+      "award": "最佳限定剧、选集剧或电视电影",
+      "awardYear": 2018,
+      "awardOrder": 7,
+      "winner": "大小谎言"
+    }
+  ]
+}

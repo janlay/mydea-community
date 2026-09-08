@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T05:03:35Z",
+  "title": "프라임타임 에미상 2024 수상 목록",
+  "description": "제76회 프라임타임 에미상 주요 부문 수상 기록.",
+  "items": [
+    {
+      "id": "emmys-2024-drama-series-shogun",
+      "mediaType": "tv",
+      "title": "쇼군",
+      "originalTitle": "Shōgun",
+      "award": "최우수 드라마 시리즈",
+      "awardYear": 2024,
+      "awardOrder": 1,
+      "winner": "Shōgun",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt2788316"
+      }
+    },
+    {
+      "id": "emmys-2024-comedy-series-hacks",
+      "mediaType": "tv",
+      "title": "나의 직장상사는 코미디언",
+      "award": "최우수 코미디 시리즈",
+      "awardYear": 2024,
+      "awardOrder": 2,
+      "winner": "Hacks",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt11815682"
+      }
+    },
+    {
+      "id": "emmys-2024-limited-series-baby-reindeer",
+      "mediaType": "tv",
+      "title": "베이비 레인디어",
+      "originalTitle": "Baby Reindeer",
+      "award": "최우수 리미티드 또는 앤솔러지 시리즈",
+      "awardYear": 2024,
+      "awardOrder": 3,
+      "winner": "Baby Reindeer",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt13649112"
+      }
+    },
+    {
+      "id": "emmys-2024-lead-actor-drama-shogun",
+      "mediaType": "tv",
+      "title": "쇼군",
+      "originalTitle": "Shōgun",
+      "award": "드라마 시리즈 남우주연상",
+      "awardYear": 2024,
+      "awardOrder": 4,
+      "winner": "Hiroyuki Sanada",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt2788316"
+      }
+    },
+    {
+      "id": "emmys-2024-lead-actress-drama-shogun",
+      "mediaType": "tv",
+      "title": "쇼군",
+      "originalTitle": "Shōgun",
+      "award": "드라마 시리즈 여우주연상",
+      "awardYear": 2024,
+      "awardOrder": 5,
+      "winner": "Anna Sawai",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt2788316"
+      }
+    },
+    {
+      "id": "emmys-2024-lead-actor-comedy-the-bear",
+      "mediaType": "tv",
+      "title": "더 베어",
+      "originalTitle": "The Bear",
+      "award": "코미디 시리즈 남우주연상",
+      "awardYear": 2024,
+      "awardOrder": 6,
+      "winner": "Jeremy Allen White",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt14452776"
+      }
+    },
+    {
+      "id": "emmys-2024-lead-actress-comedy-hacks",
+      "mediaType": "tv",
+      "title": "나의 직장상사는 코미디언",
+      "award": "코미디 시리즈 여우주연상",
+      "awardYear": 2024,
+      "awardOrder": 7,
+      "winner": "Jean Smart",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt11815682"
+      }
+    }
+  ]
+}

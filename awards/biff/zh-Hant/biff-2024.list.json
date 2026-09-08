@@ -1,0 +1,114 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "釜山國際影展 2024 年得獎名單",
+  "description": "釜山國際影展 2024 年核心競賽獎得獎影片。",
+  "items": [
+    {
+      "id": "biff-2024-new-currents-the-land-of-morning-calm",
+      "mediaType": "movie",
+      "title": "The Land of Morning Calm",
+      "award": "新浪潮獎",
+      "awardYear": 2024,
+      "awardOrder": 1,
+      "winner": "PARK Ri-woong",
+      "releaseDate": "2024",
+      "externalIds": {
+        "letterboxd": "the-land-of-morning-calm"
+      }
+    },
+    {
+      "id": "biff-2024-new-currents-ma-cry-of-silence",
+      "mediaType": "movie",
+      "title": "MA – Cry of Silence",
+      "award": "新浪潮獎",
+      "awardYear": 2024,
+      "awardOrder": 2,
+      "winner": "The MAW NAING",
+      "releaseDate": "2024",
+      "externalIds": {
+        "letterboxd": "ma-cry-of-silence"
+      }
+    },
+    {
+      "id": "biff-2024-kim-jiseok-village-rockstars-2",
+      "mediaType": "movie",
+      "title": "Village Rockstars 2",
+      "award": "金智奭獎",
+      "awardYear": 2024,
+      "awardOrder": 3,
+      "winner": "Rima DAS",
+      "releaseDate": "2024",
+      "externalIds": {
+        "letterboxd": "village-rockstars-2"
+      }
+    },
+    {
+      "id": "biff-2024-kim-jiseok-yen-and-ai-lee",
+      "mediaType": "movie",
+      "title": "Yen and Ai-LEE",
+      "award": "金智奭獎",
+      "awardYear": 2024,
+      "awardOrder": 4,
+      "winner": "Tom LIN Shu-Yu",
+      "releaseDate": "2024",
+      "externalIds": {
+        "letterboxd": "yen-and-ai-lee"
+      }
+    },
+    {
+      "id": "biff-2024-mecenat-works-and-days",
+      "mediaType": "movie",
+      "title": "Works and Days",
+      "award": "BIFF Mecenat獎",
+      "awardYear": 2024,
+      "awardOrder": 5,
+      "winner": "PARK Minsoo, AHN Kearnhyung",
+      "releaseDate": "2024",
+      "externalIds": {
+        "letterboxd": "works-and-days"
+      }
+    },
+    {
+      "id": "biff-2024-mecenat-another-home",
+      "mediaType": "movie",
+      "title": "Another Home",
+      "award": "BIFF Mecenat獎",
+      "awardYear": 2024,
+      "awardOrder": 6,
+      "winner": "Frankie SIN",
+      "releaseDate": "2024",
+      "externalIds": {
+        "letterboxd": "another-home"
+      }
+    },
+    {
+      "id": "biff-2024-sonje-yurim",
+      "mediaType": "movie",
+      "title": "Yurim",
+      "award": "Sonje獎",
+      "awardYear": 2024,
+      "awardOrder": 7,
+      "winner": "SONG Jiseo",
+      "releaseDate": "2024",
+      "externalIds": {
+        "letterboxd": "yurim"
+      }
+    },
+    {
+      "id": "biff-2024-sonje-a-garden-in-winter",
+      "mediaType": "movie",
+      "title": "A Garden in Winter",
+      "award": "Sonje獎",
+      "awardYear": 2024,
+      "awardOrder": 8,
+      "winner": "Eléonore MAHMOUDIAN, MATSUI Hiroshi",
+      "releaseDate": "2024",
+      "externalIds": {
+        "letterboxd": "a-garden-in-winter"
+      }
+    }
+  ]
+}

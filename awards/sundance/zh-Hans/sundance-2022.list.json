@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-16T04:39:02Z",
+  "title": "圣丹斯电影节 2022 年获奖名单",
+  "description": "2022 年圣丹斯电影节四项核心长片评审团大奖获奖作品。",
+  "tags": [
+    "award",
+    "park-city",
+    "decade"
+  ],
+  "items": [
+    {
+      "id": "sundance-us-dramatic-2022-nanny",
+      "mediaType": "movie",
+      "title": "移民保姆",
+      "englishTitle": "Nanny",
+      "award": "美国剧情片评审团大奖",
+      "awardYear": 2022,
+      "awardOrder": 1,
+      "winner": "Nikyatu Jusu",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt10931784"
+      }
+    },
+    {
+      "id": "sundance-us-documentary-2022-the-exiles",
+      "mediaType": "movie",
+      "title": "The Exiles",
+      "award": "美国纪录片评审团大奖",
+      "awardYear": 2022,
+      "awardOrder": 2,
+      "winner": "Ben Klein & Violet Columbus",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt16227006"
+      }
+    },
+    {
+      "id": "sundance-world-dramatic-2022-utama",
+      "mediaType": "movie",
+      "title": "乌塔玛",
+      "englishTitle": "Utama",
+      "award": "世界电影剧情片评审团大奖",
+      "awardYear": 2022,
+      "awardOrder": 3,
+      "winner": "Alejandro Loayza Grisi",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt10984580"
+      }
+    },
+    {
+      "id": "sundance-world-documentary-2022-all-that-breathes",
+      "mediaType": "movie",
+      "title": "一切的呼吸",
+      "englishTitle": "All That Breathes",
+      "award": "世界电影纪录片评审团大奖",
+      "awardYear": 2022,
+      "awardOrder": 4,
+      "winner": "Shaunak Sen",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt16377862"
+      }
+    }
+  ]
+}

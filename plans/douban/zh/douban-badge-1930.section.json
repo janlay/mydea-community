@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "Mydea",
+  "title": "🎩 希区柯克 · 麦格芬徽章",
+  "description": "豆瓣徽章计划「希区柯克 · 麦格芬徽章」的收藏片单，按豆瓣评分从高到低排列。",
+  "tags": [
+    "douban",
+    "badge",
+    "plan"
+  ],
+  "layout": "grid",
+  "sortBy": [
+    [
+      "rating.value",
+      "desc"
+    ]
+  ],
+  "service": "douban",
+  "query": "collection",
+  "params": [
+    {
+      "name": "badge_plan_shortcut",
+      "value": "1930"
+    },
+    {
+      "name": "collection",
+      "value": "1930"
+    }
+  ]
+}

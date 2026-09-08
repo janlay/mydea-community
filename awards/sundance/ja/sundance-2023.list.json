@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-16T04:39:02Z",
+  "title": "サンダンス映画祭 2023 受賞作品",
+  "description": "2023年サンダンス映画祭の主要4長編コンペティション審査員大賞の受賞作品。",
+  "tags": [
+    "award",
+    "park-city",
+    "decade"
+  ],
+  "items": [
+    {
+      "id": "sundance-us-dramatic-2023-a-thousand-and-one",
+      "mediaType": "movie",
+      "title": "A Thousand and One",
+      "award": "米国ドラマ部門 審査員大賞",
+      "awardYear": 2023,
+      "awardOrder": 1,
+      "winner": "A.V. Rockwell",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt12427158"
+      }
+    },
+    {
+      "id": "sundance-us-documentary-2023-going-to-mars-the-nikki-giovanni-project",
+      "mediaType": "movie",
+      "title": "Going to Mars: The Nikki Giovanni Project",
+      "award": "米国ドキュメンタリー部門 審査員大賞",
+      "awardYear": 2023,
+      "awardOrder": 2,
+      "winner": "Joe Brewster & Michèle Stephenson",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt7196012"
+      }
+    },
+    {
+      "id": "sundance-world-dramatic-2023-scrapper",
+      "mediaType": "movie",
+      "title": "Scrapper",
+      "award": "ワールドシネマ・ドラマ部門 審査員大賞",
+      "awardYear": 2023,
+      "awardOrder": 3,
+      "winner": "Charlotte Regan",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt8649252"
+      }
+    },
+    {
+      "id": "sundance-world-documentary-2023-the-eternal-memory",
+      "mediaType": "movie",
+      "title": "The Eternal Memory",
+      "originalTitle": "La memoria infinita",
+      "award": "ワールドシネマ・ドキュメンタリー部門 審査員大賞",
+      "awardYear": 2023,
+      "awardOrder": 4,
+      "winner": "Maite Alberdi",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt24082488"
+      }
+    }
+  ]
+}

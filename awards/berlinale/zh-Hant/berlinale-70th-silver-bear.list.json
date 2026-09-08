@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:30:00Z",
+  "title": "柏林 — 第70屆柏林影展銀熊獎",
+  "description": "柏林影展 第70屆柏林影展銀熊獎 全部獲獎記錄。",
+  "items": [
+    {
+      "id": "berlinale-70th-silver-bear-2020-delete-history",
+      "mediaType": "movie",
+      "title": "刪除歷史",
+      "englishTitle": "Delete History",
+      "awardYear": 2020,
+      "winner": "Benoît Delépine & Gustave Kervern",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10627352"
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "金球獎 2023",
+  "description": "2023 金球獎主要电影与电视作品类获奖名单。",
+  "items": [
+    {
+      "id": "golden-globes-2023-drama-the-fabelmans",
+      "mediaType": "movie",
+      "title": "法貝爾曼",
+      "englishTitle": "The Fabelmans",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt14208870"
+      },
+      "award": "最佳劇情片",
+      "awardYear": 2023,
+      "awardOrder": 1,
+      "winner": "法貝爾曼"
+    },
+    {
+      "id": "golden-globes-2023-comedy-the-banshees-of-inisherin",
+      "mediaType": "movie",
+      "title": "伊尼舍林的女妖",
+      "englishTitle": "The Banshees of Inisherin",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt11813216"
+      },
+      "award": "最佳音樂或喜劇片",
+      "awardYear": 2023,
+      "awardOrder": 2,
+      "winner": "伊尼舍林的女妖"
+    },
+    {
+      "id": "golden-globes-2023-animated-guillermo-del-toro-s-pinocchio",
+      "mediaType": "movie",
+      "title": "Guillermo del Toro's Pinocchio",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt1488589"
+      },
+      "award": "最佳動畫片",
+      "awardYear": 2023,
+      "awardOrder": 3,
+      "winner": "Guillermo del Toro's Pinocchio"
+    },
+    {
+      "id": "golden-globes-2023-foreign-argentina-1985",
+      "mediaType": "movie",
+      "title": "Argentina, 1985",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt15301048"
+      },
+      "award": "最佳非英語片",
+      "awardYear": 2023,
+      "awardOrder": 4,
+      "winner": "Argentina, 1985"
+    },
+    {
+      "id": "golden-globes-2023-tv_drama-house-of-the-dragon",
+      "mediaType": "tv",
+      "title": "龍族前傳",
+      "englishTitle": "House of the Dragon",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt11198330"
+      },
+      "award": "最佳劇情類影集",
+      "awardYear": 2023,
+      "awardOrder": 5,
+      "winner": "龍族前傳"
+    },
+    {
+      "id": "golden-globes-2023-tv_comedy-abbott-elementary",
+      "mediaType": "tv",
+      "title": "小學風雲",
+      "englishTitle": "Abbott Elementary",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14218830"
+      },
+      "award": "最佳音樂或喜劇類影集",
+      "awardYear": 2023,
+      "awardOrder": 6,
+      "winner": "小學風雲"
+    },
+    {
+      "id": "golden-globes-2023-limited-the-white-lotus",
+      "mediaType": "tv",
+      "title": "白蓮花大飯店",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt13406094"
+      },
+      "award": "最佳有限影集、選集影集或電視電影",
+      "awardYear": 2023,
+      "awardOrder": 7,
+      "winner": "The White Lotus"
+    }
+  ]
+}

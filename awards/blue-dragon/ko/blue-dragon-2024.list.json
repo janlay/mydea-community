@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T02:54:20Z",
+  "title": "청룡영화상 — 2024",
+  "description": "2024년 청룡영화상 주요 10개 영화 부문 수상작.",
+  "items": [
+    {
+      "id": "blue-dragon-2024-best-film-1212",
+      "mediaType": "movie",
+      "title": "서울의 봄",
+      "englishTitle": "12.12: The Day",
+      "award": "최우수작품상",
+      "awardYear": 2024,
+      "awardOrder": 1,
+      "winner": "Kim Sung-su",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt22507524"
+      }
+    },
+    {
+      "id": "blue-dragon-2024-best-director-exhuma",
+      "mediaType": "movie",
+      "title": "파묘",
+      "englishTitle": "Exhuma",
+      "award": "감독상",
+      "awardYear": 2024,
+      "awardOrder": 2,
+      "winner": "Jang Jae-hyun",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt27802490"
+      }
+    },
+    {
+      "id": "blue-dragon-2024-best-actor-1212",
+      "mediaType": "movie",
+      "title": "서울의 봄",
+      "englishTitle": "12.12: The Day",
+      "award": "남우주연상",
+      "awardYear": 2024,
+      "awardOrder": 3,
+      "winner": "Hwang Jung-min",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt22507524"
+      }
+    },
+    {
+      "id": "blue-dragon-2024-best-actress-exhuma",
+      "mediaType": "movie",
+      "title": "파묘",
+      "englishTitle": "Exhuma",
+      "award": "여우주연상",
+      "awardYear": 2024,
+      "awardOrder": 4,
+      "winner": "Kim Go-eun",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt27802490"
+      }
+    },
+    {
+      "id": "blue-dragon-2024-best-supporting-actor-i-executioner",
+      "mediaType": "movie",
+      "title": "베테랑2",
+      "englishTitle": "I, the Executioner",
+      "award": "남우조연상",
+      "awardYear": 2024,
+      "awardOrder": 5,
+      "winner": "Jung Hae-in",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt30287778"
+      }
+    },
+    {
+      "id": "blue-dragon-2024-best-supporting-actress-loh-kiwan",
+      "mediaType": "movie",
+      "title": "로기완",
+      "englishTitle": "My Name Is Loh Kiwan",
+      "award": "여우조연상",
+      "awardYear": 2024,
+      "awardOrder": 6,
+      "winner": "Lee Sang-hee",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt26672512"
+      }
+    },
+    {
+      "id": "blue-dragon-2024-best-new-director-dream-songs",
+      "mediaType": "movie",
+      "title": "너와 나",
+      "englishTitle": "The Dream Songs",
+      "award": "신인감독상",
+      "awardYear": 2024,
+      "awardOrder": 7,
+      "winner": "Cho Hyun-chul",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt26757183"
+      }
+    },
+    {
+      "id": "blue-dragon-2024-best-new-actor-love-big-city",
+      "mediaType": "movie",
+      "title": "대도시의 사랑법",
+      "englishTitle": "Love in the Big City",
+      "award": "신인남우상",
+      "awardYear": 2024,
+      "awardOrder": 8,
+      "winner": "Noh Sang-hyun",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt33022813"
+      }
+    },
+    {
+      "id": "blue-dragon-2024-best-new-actress-drive",
+      "mediaType": "movie",
+      "title": "드라이브",
+      "englishTitle": "Drive",
+      "award": "신인여우상",
+      "awardYear": 2024,
+      "awardOrder": 9,
+      "winner": "Park Ju-hyun",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt32322546"
+      }
+    },
+    {
+      "id": "blue-dragon-2024-best-screenplay-dream-songs",
+      "mediaType": "movie",
+      "title": "너와 나",
+      "englishTitle": "The Dream Songs",
+      "award": "각본상",
+      "awardYear": 2024,
+      "awardOrder": 10,
+      "winner": "Cho Hyun-chul",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt26757183"
+      }
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "Golden Globes — Best Television Limited Series, Anthology Series or Motion Picture Made for Television",
+  "description": "Winners of the Golden Globe Best Television Limited Series, Anthology Series or Motion Picture Made for Television category from 2017 through 2026.",
+  "items": [
+    {
+      "id": "golden-globes-limited-2017-the-people-v-o-j-simpson-american-crime-story",
+      "mediaType": "tv",
+      "title": "American Crime Story",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt2788432"
+      },
+      "awardYear": 2017,
+      "winner": "The People v. O. J. Simpson: American Crime Story"
+    },
+    {
+      "id": "golden-globes-limited-2018-big-little-lies",
+      "mediaType": "tv",
+      "title": "Big Little Lies",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt3920596"
+      },
+      "awardYear": 2018,
+      "winner": "Big Little Lies"
+    },
+    {
+      "id": "golden-globes-limited-2019-the-assassination-of-gianni-versace-american-crime-story",
+      "mediaType": "tv",
+      "title": "American Crime Story",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt2788432"
+      },
+      "awardYear": 2019,
+      "winner": "The Assassination of Gianni Versace: American Crime Story"
+    },
+    {
+      "id": "golden-globes-limited-2020-chernobyl",
+      "mediaType": "tv",
+      "title": "Chernobyl",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt7366338"
+      },
+      "awardYear": 2020,
+      "winner": "Chernobyl"
+    },
+    {
+      "id": "golden-globes-limited-2021-the-queen-s-gambit",
+      "mediaType": "tv",
+      "title": "The Queen's Gambit",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10048342"
+      },
+      "awardYear": 2021,
+      "winner": "The Queen's Gambit"
+    },
+    {
+      "id": "golden-globes-limited-2022-the-underground-railroad",
+      "mediaType": "tv",
+      "title": "The Underground Railroad",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt6704972"
+      },
+      "awardYear": 2022,
+      "winner": "The Underground Railroad"
+    },
+    {
+      "id": "golden-globes-limited-2023-the-white-lotus",
+      "mediaType": "tv",
+      "title": "The White Lotus",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt13406094"
+      },
+      "awardYear": 2023,
+      "winner": "The White Lotus"
+    },
+    {
+      "id": "golden-globes-limited-2024-beef",
+      "mediaType": "tv",
+      "title": "Beef",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt14403178"
+      },
+      "awardYear": 2024,
+      "winner": "Beef"
+    },
+    {
+      "id": "golden-globes-limited-2025-baby-reindeer",
+      "mediaType": "tv",
+      "title": "Baby Reindeer",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt13649112"
+      },
+      "awardYear": 2025,
+      "winner": "Baby Reindeer"
+    },
+    {
+      "id": "golden-globes-limited-2026-adolescence",
+      "mediaType": "tv",
+      "title": "Adolescence",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31806037"
+      },
+      "awardYear": 2026,
+      "winner": "Adolescence"
+    }
+  ]
+}

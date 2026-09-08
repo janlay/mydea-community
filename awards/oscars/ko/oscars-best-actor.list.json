@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T05:03:58Z",
+  "title": "아카데미상 — 남우주연상",
+  "description": "아카데미상 남우주연상 최근 10회 수상 기록.",
+  "items": [
+    {
+      "id": "oscars-best-actor-2017-manchester-by-the-sea",
+      "mediaType": "movie",
+      "title": "Manchester by the Sea",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4034228"
+      },
+      "awardYear": 2017,
+      "winner": "Casey Affleck"
+    },
+    {
+      "id": "oscars-best-actor-2018-darkest-hour",
+      "mediaType": "movie",
+      "title": "Darkest Hour",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt4555426"
+      },
+      "awardYear": 2018,
+      "winner": "Gary Oldman"
+    },
+    {
+      "id": "oscars-best-actor-2019-bohemian-rhapsody",
+      "mediaType": "movie",
+      "title": "보헤미안 랩소디",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt1727824"
+      },
+      "awardYear": 2019,
+      "winner": "Rami Malek"
+    },
+    {
+      "id": "oscars-best-actor-2020-joker",
+      "mediaType": "movie",
+      "title": "Joker",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt7286456"
+      },
+      "awardYear": 2020,
+      "winner": "Joaquin Phoenix"
+    },
+    {
+      "id": "oscars-best-actor-2021-the-father",
+      "mediaType": "movie",
+      "title": "The Father",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10272386"
+      },
+      "awardYear": 2021,
+      "winner": "Anthony Hopkins"
+    },
+    {
+      "id": "oscars-best-actor-2022-king-richard",
+      "mediaType": "movie",
+      "title": "King Richard",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt9620288"
+      },
+      "awardYear": 2022,
+      "winner": "Will Smith"
+    },
+    {
+      "id": "oscars-best-actor-2023-the-whale",
+      "mediaType": "movie",
+      "title": "The Whale",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt13833688"
+      },
+      "awardYear": 2023,
+      "winner": "Brendan Fraser"
+    },
+    {
+      "id": "oscars-best-actor-2024-oppenheimer",
+      "mediaType": "movie",
+      "title": "오펜하이머",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt15398776"
+      },
+      "awardYear": 2024,
+      "winner": "Cillian Murphy"
+    },
+    {
+      "id": "oscars-best-actor-2025-the-brutalist",
+      "mediaType": "movie",
+      "title": "브루탈리스트",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt8999762"
+      },
+      "awardYear": 2025,
+      "winner": "Adrien Brody"
+    },
+    {
+      "id": "oscars-best-actor-2026-sinners",
+      "mediaType": "movie",
+      "title": "씨너스: 죄인들",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31193180"
+      },
+      "awardYear": 2026,
+      "winner": "Michael B. Jordan"
+    }
+  ]
+}

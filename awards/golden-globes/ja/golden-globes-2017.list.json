@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "ゴールデングローブ賞 2017",
+  "description": "2017年のゴールデングローブ賞主要映画・テレビ作品部門の受賞一覧。",
+  "items": [
+    {
+      "id": "golden-globes-2017-drama-moonlight",
+      "mediaType": "movie",
+      "title": "ムーンライト",
+      "englishTitle": "Moonlight",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4975722"
+      },
+      "award": "作品賞 ドラマ部門",
+      "awardYear": 2017,
+      "awardOrder": 1,
+      "winner": "ムーンライト"
+    },
+    {
+      "id": "golden-globes-2017-comedy-la-la-land",
+      "mediaType": "movie",
+      "title": "ラ・ラ・ランド",
+      "englishTitle": "La La Land",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt3783958"
+      },
+      "award": "作品賞 ミュージカル・コメディ部門",
+      "awardYear": 2017,
+      "awardOrder": 2,
+      "winner": "ラ・ラ・ランド"
+    },
+    {
+      "id": "golden-globes-2017-animated-zootopia",
+      "mediaType": "movie",
+      "title": "ズートピア",
+      "englishTitle": "Zootopia",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt2948356"
+      },
+      "award": "アニメーション映画賞",
+      "awardYear": 2017,
+      "awardOrder": 3,
+      "winner": "ズートピア"
+    },
+    {
+      "id": "golden-globes-2017-foreign-elle",
+      "mediaType": "movie",
+      "title": "エル ELLE",
+      "englishTitle": "Elle",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt3716530"
+      },
+      "award": "非英語映画賞",
+      "awardYear": 2017,
+      "awardOrder": 4,
+      "winner": "エル ELLE"
+    },
+    {
+      "id": "golden-globes-2017-tv_drama-the-crown",
+      "mediaType": "tv",
+      "title": "ザ・クラウン",
+      "englishTitle": "The Crown",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4786824"
+      },
+      "award": "テレビドラマ作品賞",
+      "awardYear": 2017,
+      "awardOrder": 5,
+      "winner": "ザ・クラウン"
+    },
+    {
+      "id": "golden-globes-2017-tv_comedy-atlanta",
+      "mediaType": "tv",
+      "title": "アトランタ",
+      "englishTitle": "Atlanta",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4288182"
+      },
+      "award": "テレビ作品賞 ミュージカル・コメディ部門",
+      "awardYear": 2017,
+      "awardOrder": 6,
+      "winner": "アトランタ"
+    },
+    {
+      "id": "golden-globes-2017-limited-the-people-v-o-j-simpson-american-crime-story",
+      "mediaType": "tv",
+      "title": "アメリカン・クライム・ストーリー",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt2788432"
+      },
+      "award": "リミテッドシリーズ・アンソロジー・テレビ映画賞",
+      "awardYear": 2017,
+      "awardOrder": 7,
+      "winner": "The People v. O. J. Simpson: American Crime Story"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T05:03:35Z",
+  "title": "黄金时段艾美奖 2017 年获奖名单",
+  "description": "第 69 届黄金时段艾美奖主要奖项获奖记录。",
+  "items": [
+    {
+      "id": "emmys-2017-drama-series-the-handmaid-s-tale",
+      "mediaType": "tv",
+      "title": "使女的故事",
+      "originalTitle": "The Handmaid's Tale",
+      "award": "最佳剧情类剧集",
+      "awardYear": 2017,
+      "awardOrder": 1,
+      "winner": "The Handmaid's Tale",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5834204"
+      }
+    },
+    {
+      "id": "emmys-2017-comedy-series-veep",
+      "mediaType": "tv",
+      "title": "副总统",
+      "originalTitle": "Veep",
+      "award": "最佳喜剧类剧集",
+      "awardYear": 2017,
+      "awardOrder": 2,
+      "winner": "Veep",
+      "releaseDate": "2012",
+      "externalIds": {
+        "imdb": "tt1759761"
+      }
+    },
+    {
+      "id": "emmys-2017-limited-series-big-little-lies",
+      "mediaType": "tv",
+      "title": "大小谎言",
+      "originalTitle": "Big Little Lies",
+      "award": "最佳限定剧或诗选剧",
+      "awardYear": 2017,
+      "awardOrder": 3,
+      "winner": "Big Little Lies",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt3920596"
+      }
+    },
+    {
+      "id": "emmys-2017-lead-actor-drama-this-is-us",
+      "mediaType": "tv",
+      "title": "我们这一天",
+      "originalTitle": "This Is Us",
+      "award": "剧情类最佳男主角",
+      "awardYear": 2017,
+      "awardOrder": 4,
+      "winner": "Sterling K. Brown",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5555260"
+      }
+    },
+    {
+      "id": "emmys-2017-lead-actress-drama-the-handmaid-s-tale",
+      "mediaType": "tv",
+      "title": "使女的故事",
+      "originalTitle": "The Handmaid's Tale",
+      "award": "剧情类最佳女主角",
+      "awardYear": 2017,
+      "awardOrder": 5,
+      "winner": "Elisabeth Moss",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5834204"
+      }
+    },
+    {
+      "id": "emmys-2017-lead-actor-comedy-atlanta",
+      "mediaType": "tv",
+      "title": "亚特兰大",
+      "originalTitle": "Atlanta",
+      "award": "喜剧类最佳男主角",
+      "awardYear": 2017,
+      "awardOrder": 6,
+      "winner": "Donald Glover",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4288182"
+      }
+    },
+    {
+      "id": "emmys-2017-lead-actress-comedy-veep",
+      "mediaType": "tv",
+      "title": "副总统",
+      "originalTitle": "Veep",
+      "award": "喜剧类最佳女主角",
+      "awardYear": 2017,
+      "awardOrder": 7,
+      "winner": "Julia Louis-Dreyfus",
+      "releaseDate": "2012",
+      "externalIds": {
+        "imdb": "tt1759761"
+      }
+    }
+  ]
+}

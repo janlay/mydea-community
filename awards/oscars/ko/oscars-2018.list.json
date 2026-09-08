@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T05:03:58Z",
+  "title": "아카데미상 2018 수상 목록",
+  "description": "제90회 아카데미상 주요 영화 부문의 수상작과 수상자.",
+  "items": [
+    {
+      "id": "oscars-2018-best-picture-the-shape-of-water",
+      "mediaType": "movie",
+      "title": "The Shape of Water",
+      "award": "작품상",
+      "awardYear": 2018,
+      "awardOrder": 1,
+      "winner": "Guillermo del Toro & J. Miles Dale",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5580390"
+      }
+    },
+    {
+      "id": "oscars-2018-best-director-the-shape-of-water",
+      "mediaType": "movie",
+      "title": "The Shape of Water",
+      "award": "감독상",
+      "awardYear": 2018,
+      "awardOrder": 2,
+      "winner": "Guillermo del Toro",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5580390"
+      }
+    },
+    {
+      "id": "oscars-2018-best-actor-darkest-hour",
+      "mediaType": "movie",
+      "title": "Darkest Hour",
+      "award": "남우주연상",
+      "awardYear": 2018,
+      "awardOrder": 3,
+      "winner": "Gary Oldman",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt4555426"
+      }
+    },
+    {
+      "id": "oscars-2018-best-actress-three-billboards-outside-ebbing-missouri",
+      "mediaType": "movie",
+      "title": "쓰리 빌보드",
+      "award": "여우주연상",
+      "awardYear": 2018,
+      "awardOrder": 4,
+      "winner": "Frances McDormand",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5027774"
+      }
+    },
+    {
+      "id": "oscars-2018-best-supporting-actor-three-billboards-outside-ebbing-missouri",
+      "mediaType": "movie",
+      "title": "쓰리 빌보드",
+      "award": "남우조연상",
+      "awardYear": 2018,
+      "awardOrder": 5,
+      "winner": "Sam Rockwell",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5027774"
+      }
+    },
+    {
+      "id": "oscars-2018-best-supporting-actress-i-tonya",
+      "mediaType": "movie",
+      "title": "I, Tonya",
+      "award": "여우조연상",
+      "awardYear": 2018,
+      "awardOrder": 6,
+      "winner": "Allison Janney",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5580036"
+      }
+    },
+    {
+      "id": "oscars-2018-best-original-screenplay-get-out",
+      "mediaType": "movie",
+      "title": "Get Out",
+      "award": "각본상",
+      "awardYear": 2018,
+      "awardOrder": 7,
+      "winner": "Jordan Peele",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5052448"
+      }
+    },
+    {
+      "id": "oscars-2018-best-adapted-screenplay-call-me-by-your-name",
+      "mediaType": "movie",
+      "title": "Call Me by Your Name",
+      "award": "각색상",
+      "awardYear": 2018,
+      "awardOrder": 8,
+      "winner": "James Ivory",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5726616"
+      }
+    },
+    {
+      "id": "oscars-2018-best-animated-feature-coco",
+      "mediaType": "movie",
+      "title": "코코",
+      "award": "장편 애니메이션상",
+      "awardYear": 2018,
+      "awardOrder": 9,
+      "winner": "Lee Unkrich & Darla K. Anderson",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt2380307"
+      }
+    },
+    {
+      "id": "oscars-2018-best-international-feature-a-fantastic-woman",
+      "mediaType": "movie",
+      "title": "A Fantastic Woman",
+      "award": "국제장편영화상",
+      "awardYear": 2018,
+      "awardOrder": 10,
+      "winner": "Sebastián Lelio",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5639354"
+      }
+    }
+  ]
+}

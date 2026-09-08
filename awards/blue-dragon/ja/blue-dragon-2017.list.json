@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T00:00:00Z",
+  "title": "青龍映画賞 — 2017",
+  "description": "2017年青龍映画賞、主要10部門の受賞記録。",
+  "items": [
+    {
+      "id": "blue-dragon-2017-best-film-a-taxi-driver",
+      "mediaType": "movie",
+      "title": "タクシー運転手 約束は海を越えて",
+      "originalTitle": "택시운전사",
+      "award": "最優秀作品賞",
+      "awardYear": 2017,
+      "awardOrder": 1,
+      "winner": "チャン・フン",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6878038"
+      }
+    },
+    {
+      "id": "blue-dragon-2017-best-director-i-can-speak",
+      "mediaType": "movie",
+      "title": "アイ・キャン・スピーク",
+      "originalTitle": "아이 캔 스피크",
+      "award": "監督賞",
+      "awardYear": 2017,
+      "awardOrder": 2,
+      "winner": "キム・ヒョンソク",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7342204"
+      }
+    },
+    {
+      "id": "blue-dragon-2017-best-actor-a-taxi-driver",
+      "mediaType": "movie",
+      "title": "タクシー運転手 約束は海を越えて",
+      "originalTitle": "택시운전사",
+      "award": "主演男優賞",
+      "awardYear": 2017,
+      "awardOrder": 3,
+      "winner": "ソン・ガンホ",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6878038"
+      }
+    },
+    {
+      "id": "blue-dragon-2017-best-actress-i-can-speak",
+      "mediaType": "movie",
+      "title": "アイ・キャン・スピーク",
+      "originalTitle": "아이 캔 스피크",
+      "award": "主演女優賞",
+      "awardYear": 2017,
+      "awardOrder": 4,
+      "winner": "ナ・ムニ",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7342204"
+      }
+    },
+    {
+      "id": "blue-dragon-2017-best-supporting-actor-outlaws",
+      "mediaType": "movie",
+      "title": "犯罪都市",
+      "originalTitle": "범죄도시",
+      "award": "助演男優賞",
+      "awardYear": 2017,
+      "awardOrder": 5,
+      "winner": "チン・ソンギュ",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7468056"
+      }
+    },
+    {
+      "id": "blue-dragon-2017-best-supporting-actress-king",
+      "mediaType": "movie",
+      "title": "The King",
+      "originalTitle": "더 킹",
+      "award": "助演女優賞",
+      "awardYear": 2017,
+      "awardOrder": 6,
+      "winner": "キム・ソジン",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5644740"
+      }
+    },
+    {
+      "id": "blue-dragon-2017-best-new-director-our-love-story",
+      "mediaType": "movie",
+      "title": "Our Love Story",
+      "originalTitle": "연애담",
+      "award": "新人監督賞",
+      "awardYear": 2017,
+      "awardOrder": 7,
+      "winner": "イ・ヒョンジュ",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt6129730"
+      }
+    },
+    {
+      "id": "blue-dragon-2017-best-new-actor-my-annoying-brother",
+      "mediaType": "movie",
+      "title": "My Annoying Brother",
+      "originalTitle": "형",
+      "award": "新人男優賞",
+      "awardYear": 2017,
+      "awardOrder": 8,
+      "winner": "ド・ギョンス",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt6388082"
+      }
+    },
+    {
+      "id": "blue-dragon-2017-best-new-actress-anarchist-colony",
+      "mediaType": "movie",
+      "title": "金子文子と朴烈",
+      "originalTitle": "박열",
+      "award": "新人女優賞",
+      "awardYear": 2017,
+      "awardOrder": 9,
+      "winner": "チェ・ヒソ",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6903980"
+      }
+    },
+    {
+      "id": "blue-dragon-2017-best-screenplay-fortress",
+      "mediaType": "movie",
+      "title": "天命の城",
+      "originalTitle": "남한산성",
+      "award": "脚本賞",
+      "awardYear": 2017,
+      "awardOrder": 10,
+      "winner": "ファン・ドンヒョク",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7160176"
+      }
+    }
+  ]
+}

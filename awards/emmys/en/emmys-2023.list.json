@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T05:03:35Z",
+  "title": "Primetime Emmy Awards 2023 Winners",
+  "description": "Major-category winners from the 75th Primetime Emmy Awards.",
+  "items": [
+    {
+      "id": "emmys-2023-drama-series-succession",
+      "mediaType": "tv",
+      "title": "Succession",
+      "award": "Outstanding Drama Series",
+      "awardYear": 2023,
+      "awardOrder": 1,
+      "winner": "Succession",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7660850"
+      }
+    },
+    {
+      "id": "emmys-2023-comedy-series-the-bear",
+      "mediaType": "tv",
+      "title": "The Bear",
+      "award": "Outstanding Comedy Series",
+      "awardYear": 2023,
+      "awardOrder": 2,
+      "winner": "The Bear",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt14452776"
+      }
+    },
+    {
+      "id": "emmys-2023-limited-series-beef",
+      "mediaType": "tv",
+      "title": "Beef",
+      "award": "Outstanding Limited or Anthology Series",
+      "awardYear": 2023,
+      "awardOrder": 3,
+      "winner": "Beef",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt14403178"
+      }
+    },
+    {
+      "id": "emmys-2023-lead-actor-drama-succession",
+      "mediaType": "tv",
+      "title": "Succession",
+      "award": "Outstanding Lead Actor in a Drama Series",
+      "awardYear": 2023,
+      "awardOrder": 4,
+      "winner": "Kieran Culkin",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7660850"
+      }
+    },
+    {
+      "id": "emmys-2023-lead-actress-drama-succession",
+      "mediaType": "tv",
+      "title": "Succession",
+      "award": "Outstanding Lead Actress in a Drama Series",
+      "awardYear": 2023,
+      "awardOrder": 5,
+      "winner": "Sarah Snook",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7660850"
+      }
+    },
+    {
+      "id": "emmys-2023-lead-actor-comedy-the-bear",
+      "mediaType": "tv",
+      "title": "The Bear",
+      "award": "Outstanding Lead Actor in a Comedy Series",
+      "awardYear": 2023,
+      "awardOrder": 6,
+      "winner": "Jeremy Allen White",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt14452776"
+      }
+    },
+    {
+      "id": "emmys-2023-lead-actress-comedy-abbott-elementary",
+      "mediaType": "tv",
+      "title": "Abbott Elementary",
+      "award": "Outstanding Lead Actress in a Comedy Series",
+      "awardYear": 2023,
+      "awardOrder": 7,
+      "winner": "Quinta Brunson",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14218830"
+      }
+    }
+  ]
+}

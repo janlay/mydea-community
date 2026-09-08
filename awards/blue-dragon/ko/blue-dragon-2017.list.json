@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T02:54:20Z",
+  "title": "청룡영화상 — 2017",
+  "description": "2017년 청룡영화상 주요 10개 영화 부문 수상작.",
+  "items": [
+    {
+      "id": "blue-dragon-2017-best-film-a-taxi-driver",
+      "mediaType": "movie",
+      "title": "택시운전사",
+      "englishTitle": "A Taxi Driver",
+      "award": "최우수작품상",
+      "awardYear": 2017,
+      "awardOrder": 1,
+      "winner": "Jang Hun",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6878038"
+      }
+    },
+    {
+      "id": "blue-dragon-2017-best-director-i-can-speak",
+      "mediaType": "movie",
+      "title": "아이 캔 스피크",
+      "englishTitle": "I Can Speak",
+      "award": "감독상",
+      "awardYear": 2017,
+      "awardOrder": 2,
+      "winner": "Kim Hyun-seok",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7342204"
+      }
+    },
+    {
+      "id": "blue-dragon-2017-best-actor-a-taxi-driver",
+      "mediaType": "movie",
+      "title": "택시운전사",
+      "englishTitle": "A Taxi Driver",
+      "award": "남우주연상",
+      "awardYear": 2017,
+      "awardOrder": 3,
+      "winner": "Song Kang-ho",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6878038"
+      }
+    },
+    {
+      "id": "blue-dragon-2017-best-actress-i-can-speak",
+      "mediaType": "movie",
+      "title": "아이 캔 스피크",
+      "englishTitle": "I Can Speak",
+      "award": "여우주연상",
+      "awardYear": 2017,
+      "awardOrder": 4,
+      "winner": "Na Moon-hee",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7342204"
+      }
+    },
+    {
+      "id": "blue-dragon-2017-best-supporting-actor-outlaws",
+      "mediaType": "movie",
+      "title": "범죄도시",
+      "englishTitle": "The Outlaws",
+      "award": "남우조연상",
+      "awardYear": 2017,
+      "awardOrder": 5,
+      "winner": "Jin Seon-kyu",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7468056"
+      }
+    },
+    {
+      "id": "blue-dragon-2017-best-supporting-actress-king",
+      "mediaType": "movie",
+      "title": "더 킹",
+      "englishTitle": "The King",
+      "award": "여우조연상",
+      "awardYear": 2017,
+      "awardOrder": 6,
+      "winner": "Kim So-jin",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5644740"
+      }
+    },
+    {
+      "id": "blue-dragon-2017-best-new-director-our-love-story",
+      "mediaType": "movie",
+      "title": "연애담",
+      "englishTitle": "Our Love Story",
+      "award": "신인감독상",
+      "awardYear": 2017,
+      "awardOrder": 7,
+      "winner": "Lee Hyun-ju",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt6129730"
+      }
+    },
+    {
+      "id": "blue-dragon-2017-best-new-actor-my-annoying-brother",
+      "mediaType": "movie",
+      "title": "형",
+      "englishTitle": "My Annoying Brother",
+      "award": "신인남우상",
+      "awardYear": 2017,
+      "awardOrder": 8,
+      "winner": "Do Kyung-soo",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt6388082"
+      }
+    },
+    {
+      "id": "blue-dragon-2017-best-new-actress-anarchist-colony",
+      "mediaType": "movie",
+      "title": "박열",
+      "englishTitle": "Anarchist from Colony",
+      "award": "신인여우상",
+      "awardYear": 2017,
+      "awardOrder": 9,
+      "winner": "Choi Hee-seo",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6903980"
+      }
+    },
+    {
+      "id": "blue-dragon-2017-best-screenplay-fortress",
+      "mediaType": "movie",
+      "title": "남한산성",
+      "englishTitle": "The Fortress",
+      "award": "각본상",
+      "awardYear": 2017,
+      "awardOrder": 10,
+      "winner": "Hwang Dong-hyuk",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7160176"
+      }
+    }
+  ]
+}

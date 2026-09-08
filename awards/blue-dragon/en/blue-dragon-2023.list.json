@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T02:54:20Z",
+  "title": "Blue Dragon Film Awards — 2023",
+  "description": "Winners in 10 major film categories at the 2023 Blue Dragon Film Awards.",
+  "items": [
+    {
+      "id": "blue-dragon-2023-best-film-smugglers",
+      "mediaType": "movie",
+      "title": "Smugglers",
+      "originalTitle": "밀수",
+      "award": "Best Film",
+      "awardYear": 2023,
+      "awardOrder": 1,
+      "winner": "Ryoo Seung-wan",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt28106766"
+      }
+    },
+    {
+      "id": "blue-dragon-2023-best-director-concrete-utopia",
+      "mediaType": "movie",
+      "title": "Concrete Utopia",
+      "originalTitle": "콘크리트 유토피아",
+      "award": "Best Director",
+      "awardYear": 2023,
+      "awardOrder": 2,
+      "winner": "Uhm Tae-hwa",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt13086266"
+      }
+    },
+    {
+      "id": "blue-dragon-2023-best-actor-concrete-utopia",
+      "mediaType": "movie",
+      "title": "Concrete Utopia",
+      "originalTitle": "콘크리트 유토피아",
+      "award": "Best Actor",
+      "awardYear": 2023,
+      "awardOrder": 3,
+      "winner": "Lee Byung-hun",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt13086266"
+      }
+    },
+    {
+      "id": "blue-dragon-2023-best-actress-sleep",
+      "mediaType": "movie",
+      "title": "Sleep",
+      "originalTitle": "잠",
+      "award": "Best Actress",
+      "awardYear": 2023,
+      "awardOrder": 4,
+      "winner": "Jung Yu-mi",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt8209702"
+      }
+    },
+    {
+      "id": "blue-dragon-2023-best-supporting-actor-smugglers",
+      "mediaType": "movie",
+      "title": "Smugglers",
+      "originalTitle": "밀수",
+      "award": "Best Supporting Actor",
+      "awardYear": 2023,
+      "awardOrder": 5,
+      "winner": "Zo In-sung",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt28106766"
+      }
+    },
+    {
+      "id": "blue-dragon-2023-best-supporting-actress-cobweb",
+      "mediaType": "movie",
+      "title": "Cobweb",
+      "originalTitle": "거미집",
+      "award": "Best Supporting Actress",
+      "awardYear": 2023,
+      "awardOrder": 6,
+      "winner": "Jeon Yeo-bin",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt21254598"
+      }
+    },
+    {
+      "id": "blue-dragon-2023-best-new-director-night-owl",
+      "mediaType": "movie",
+      "title": "The Night Owl",
+      "originalTitle": "올빼미",
+      "award": "Best New Director",
+      "awardYear": 2023,
+      "awardOrder": 7,
+      "winner": "Ahn Tae-jin",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt23871504"
+      }
+    },
+    {
+      "id": "blue-dragon-2023-best-new-actor-hopeless",
+      "mediaType": "movie",
+      "title": "Hopeless",
+      "originalTitle": "화란",
+      "award": "Best New Actor",
+      "awardYear": 2023,
+      "awardOrder": 8,
+      "winner": "Hong Sa-bin",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt27502351"
+      }
+    },
+    {
+      "id": "blue-dragon-2023-best-new-actress-smugglers",
+      "mediaType": "movie",
+      "title": "Smugglers",
+      "originalTitle": "밀수",
+      "award": "Best New Actress",
+      "awardYear": 2023,
+      "awardOrder": 9,
+      "winner": "Go Min-si",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt28106766"
+      }
+    },
+    {
+      "id": "blue-dragon-2023-best-screenplay-next-sohee",
+      "mediaType": "movie",
+      "title": "Next Sohee",
+      "originalTitle": "다음 소희",
+      "award": "Best Screenplay",
+      "awardYear": 2023,
+      "awardOrder": 10,
+      "winner": "July Jung",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt19820538"
+      }
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "골든 글로브 2018",
+  "description": "2018 골든 글로브 주요 영화·텔레비전 작품 부문 수상 목록.",
+  "items": [
+    {
+      "id": "golden-globes-2018-drama-three-billboards-outside-ebbing-missouri",
+      "mediaType": "movie",
+      "title": "쓰리 빌보드",
+      "englishTitle": "Three Billboards Outside Ebbing, Missouri",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5027774"
+      },
+      "award": "작품상 드라마",
+      "awardYear": 2018,
+      "awardOrder": 1,
+      "winner": "쓰리 빌보드"
+    },
+    {
+      "id": "golden-globes-2018-comedy-lady-bird",
+      "mediaType": "movie",
+      "title": "레이디 버드",
+      "englishTitle": "Lady Bird",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt4925292"
+      },
+      "award": "작품상 뮤지컬·코미디",
+      "awardYear": 2018,
+      "awardOrder": 2,
+      "winner": "레이디 버드"
+    },
+    {
+      "id": "golden-globes-2018-animated-coco",
+      "mediaType": "movie",
+      "title": "코코",
+      "englishTitle": "Coco",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt2380307"
+      },
+      "award": "애니메이션 영화상",
+      "awardYear": 2018,
+      "awardOrder": 3,
+      "winner": "코코"
+    },
+    {
+      "id": "golden-globes-2018-foreign-in-the-fade",
+      "mediaType": "movie",
+      "title": "심판",
+      "englishTitle": "In the Fade",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5723272"
+      },
+      "award": "비영어권 영화상",
+      "awardYear": 2018,
+      "awardOrder": 4,
+      "winner": "인 더 페이드"
+    },
+    {
+      "id": "golden-globes-2018-tv_drama-the-handmaid-s-tale",
+      "mediaType": "tv",
+      "title": "핸드메이즈 테일",
+      "englishTitle": "The Handmaid's Tale",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5834204"
+      },
+      "award": "TV 드라마 작품상",
+      "awardYear": 2018,
+      "awardOrder": 5,
+      "winner": "핸드메이즈 테일"
+    },
+    {
+      "id": "golden-globes-2018-tv_comedy-the-marvelous-mrs-maisel",
+      "mediaType": "tv",
+      "title": "마블러스 미세스 메이즐",
+      "englishTitle": "The Marvelous Mrs. Maisel",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5788792"
+      },
+      "award": "TV 뮤지컬·코미디 작품상",
+      "awardYear": 2018,
+      "awardOrder": 6,
+      "winner": "마블러스 미세스 메이즐"
+    },
+    {
+      "id": "golden-globes-2018-limited-big-little-lies",
+      "mediaType": "tv",
+      "title": "빅 리틀 라이즈",
+      "englishTitle": "Big Little Lies",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt3920596"
+      },
+      "award": "리미티드 시리즈·앤솔러지·TV 영화상",
+      "awardYear": 2018,
+      "awardOrder": 7,
+      "winner": "빅 리틀 라이즈"
+    }
+  ]
+}

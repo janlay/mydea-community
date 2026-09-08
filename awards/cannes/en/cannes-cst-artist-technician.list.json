@@ -1,0 +1,768 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "title": "Cannes — CST Artist-Technician Award",
+  "author": "Mydea",
+  "updatedAt": "2026-09-16T04:43:24Z",
+  "description": "Historical awards of the Superior Technical Commission (CST). CST Artist-Technician Award.",
+  "tags": [
+    "award",
+    "cannes",
+    "prize"
+  ],
+  "items": [
+    {
+      "id": "cannes-cst-artist-1951-carnet-de-plongee",
+      "mediaType": "movie",
+      "title": "Carnet de plongée",
+      "awardYear": 1951
+    },
+    {
+      "id": "cannes-cst-artist-1951-the-tales-of-hoffmann",
+      "mediaType": "movie",
+      "title": "The Tales of Hoffmann",
+      "awardYear": 1951
+    },
+    {
+      "id": "cannes-cst-artist-1952-the-immortal-song",
+      "mediaType": "movie",
+      "title": "The Immortal Song",
+      "awardYear": 1952
+    },
+    {
+      "id": "cannes-cst-artist-1953-la-montagna-di-cenere",
+      "mediaType": "movie",
+      "title": "La Montagna di Cenere",
+      "awardYear": 1953
+    },
+    {
+      "id": "cannes-cst-artist-1953-magia-verde",
+      "mediaType": "movie",
+      "title": "Magia verde",
+      "awardYear": 1953
+    },
+    {
+      "id": "cannes-cst-artist-1953-pescatori-di-laguna",
+      "mediaType": "movie",
+      "title": "Pescatori di Laguna",
+      "awardYear": 1953
+    },
+    {
+      "id": "cannes-cst-artist-1953-water-birds",
+      "mediaType": "movie",
+      "title": "Water Birds",
+      "awardYear": 1953
+    },
+    {
+      "id": "cannes-cst-artist-1954-nouveaux-horizons",
+      "mediaType": "movie",
+      "title": "Nouveaux Horizons",
+      "awardYear": 1954
+    },
+    {
+      "id": "cannes-cst-artist-1954-the-great-adventure",
+      "mediaType": "movie",
+      "title": "The Great Adventure",
+      "awardYear": 1954
+    },
+    {
+      "id": "cannes-cst-artist-1954-the-great-warrior-skanderbeg",
+      "mediaType": "movie",
+      "title": "The Great Warrior Skanderbeg",
+      "awardYear": 1954
+    },
+    {
+      "id": "cannes-cst-artist-1954-toot-whistle-plunk-and-boom",
+      "mediaType": "movie",
+      "title": "Toot, Whistle, Plunk and Boom",
+      "awardYear": 1954
+    },
+    {
+      "id": "cannes-cst-artist-1956-crne-vode",
+      "mediaType": "movie",
+      "title": "Crne Vode",
+      "awardYear": 1956
+    },
+    {
+      "id": "cannes-cst-artist-1956-sob-o-ceu-da-bahia",
+      "mediaType": "movie",
+      "title": "Sob o Céu da Bahia",
+      "awardYear": 1956
+    },
+    {
+      "id": "cannes-cst-artist-1956-tovarichtch-oukhodit-v-more",
+      "mediaType": "movie",
+      "title": "Tovarichtch Oukhodit v More",
+      "awardYear": 1956
+    },
+    {
+      "id": "cannes-cst-artist-1957-bolcsok",
+      "mediaType": "movie",
+      "title": "Bolcsok",
+      "awardYear": 1957
+    },
+    {
+      "id": "cannes-cst-artist-1957-il-sogno-dei-gonzaga",
+      "mediaType": "movie",
+      "title": "Il Sogno dei Gonzaga",
+      "awardYear": 1957
+    },
+    {
+      "id": "cannes-cst-artist-1957-the-bachelor-party",
+      "mediaType": "movie",
+      "title": "The Bachelor Party",
+      "awardYear": 1957
+    },
+    {
+      "id": "cannes-cst-artist-1957-toute-la-memoire-du-monde",
+      "mediaType": "movie",
+      "title": "Toute la mémoire du monde",
+      "awardYear": 1957
+    },
+    {
+      "id": "cannes-cst-artist-1957-wiesensommer",
+      "mediaType": "movie",
+      "title": "Wiesensommer",
+      "awardYear": 1957
+    },
+    {
+      "id": "cannes-cst-artist-1958-mon-oncle",
+      "mediaType": "movie",
+      "title": "Mon Oncle",
+      "awardYear": 1958,
+      "externalIds": {
+        "tmdb": "427"
+      }
+    },
+    {
+      "id": "cannes-cst-artist-1958-the-cranes-are-flying",
+      "mediaType": "movie",
+      "title": "The Cranes Are Flying",
+      "awardYear": 1958,
+      "externalIds": {
+        "tmdb": "38360"
+      }
+    },
+    {
+      "id": "cannes-cst-artist-1958-the-flute-and-the-arrow",
+      "mediaType": "movie",
+      "title": "The Flute and the Arrow",
+      "awardYear": 1958
+    },
+    {
+      "id": "cannes-cst-artist-1959-a-midsummer-night-s-dream",
+      "mediaType": "movie",
+      "title": "A Midsummer Night's Dream",
+      "awardYear": 1959
+    },
+    {
+      "id": "cannes-cst-artist-1959-araya",
+      "mediaType": "movie",
+      "title": "Araya",
+      "awardYear": 1959
+    },
+    {
+      "id": "cannes-cst-artist-1959-honeymoon",
+      "mediaType": "movie",
+      "title": "Honeymoon",
+      "awardYear": 1959
+    },
+    {
+      "id": "cannes-cst-artist-1960-paw",
+      "mediaType": "movie",
+      "title": "Paw",
+      "awardYear": 1960
+    },
+    {
+      "id": "cannes-cst-artist-1962-electra",
+      "mediaType": "movie",
+      "title": "Electra",
+      "awardYear": 1962
+    },
+    {
+      "id": "cannes-cst-artist-1962-les-dieux-du-feu",
+      "mediaType": "movie",
+      "title": "Les Dieux du Feu",
+      "awardYear": 1962
+    },
+    {
+      "id": "cannes-cst-artist-1962-oczekiwanie",
+      "mediaType": "movie",
+      "title": "Oczekiwanie",
+      "awardYear": 1962
+    },
+    {
+      "id": "cannes-cst-artist-1962-the-lovers-of-teruel",
+      "mediaType": "movie",
+      "title": "The Lovers of Teruel",
+      "awardYear": 1962
+    },
+    {
+      "id": "cannes-cst-artist-1962-the-magnificent-concubine",
+      "mediaType": "movie",
+      "title": "The Magnificent Concubine",
+      "awardYear": 1962
+    },
+    {
+      "id": "cannes-cst-artist-1963-codine",
+      "mediaType": "movie",
+      "title": "Codine",
+      "awardYear": 1963,
+      "externalIds": {
+        "tmdb": "198835"
+      }
+    },
+    {
+      "id": "cannes-cst-artist-1963-the-cassandra-cat",
+      "mediaType": "movie",
+      "title": "The Cassandra Cat",
+      "awardYear": 1963,
+      "externalIds": {
+        "tmdb": "47852"
+      }
+    },
+    {
+      "id": "cannes-cst-artist-1963-yachting",
+      "mediaType": "movie",
+      "title": "Yachting",
+      "awardYear": 1963
+    },
+    {
+      "id": "cannes-cst-artist-1965-ban-ye-ji-jiao",
+      "mediaType": "movie",
+      "title": "Ban ye ji jiao",
+      "awardYear": 1965
+    },
+    {
+      "id": "cannes-cst-artist-1965-fifi-la-plume",
+      "mediaType": "movie",
+      "title": "Fifi la plume",
+      "awardYear": 1965
+    },
+    {
+      "id": "cannes-cst-artist-1965-overture",
+      "mediaType": "movie",
+      "title": "Overture",
+      "awardYear": 1965
+    },
+    {
+      "id": "cannes-cst-artist-1965-une-danse-eternelle",
+      "mediaType": "movie",
+      "title": "Une Danse Éternelle",
+      "awardYear": 1965
+    },
+    {
+      "id": "cannes-cst-artist-1966-a-man-and-a-woman",
+      "mediaType": "movie",
+      "title": "A Man and a Woman",
+      "awardYear": 1966,
+      "winner": "Pierre Uytterhoeven",
+      "externalIds": {
+        "tmdb": "42726"
+      }
+    },
+    {
+      "id": "cannes-cst-artist-1966-chimes-at-midnight",
+      "mediaType": "movie",
+      "title": "Chimes at Midnight",
+      "awardYear": 1966
+    },
+    {
+      "id": "cannes-cst-artist-1966-skaterdater",
+      "mediaType": "movie",
+      "title": "Skaterdater",
+      "awardYear": 1966
+    },
+    {
+      "id": "cannes-cst-artist-1967-sky-over-holland",
+      "mediaType": "movie",
+      "title": "Sky Over Holland",
+      "awardYear": 1967
+    },
+    {
+      "id": "cannes-cst-artist-1970-le-territoire-des-autres",
+      "mediaType": "movie",
+      "title": "Le Territoire des autres",
+      "awardYear": 1970
+    },
+    {
+      "id": "cannes-cst-artist-1971-the-hellstrom-chronicle",
+      "mediaType": "movie",
+      "title": "The Hellstrom Chronicle",
+      "awardYear": 1971
+    },
+    {
+      "id": "cannes-cst-artist-1972-zikkaron",
+      "mediaType": "movie",
+      "title": "Zikkaron",
+      "awardYear": 1972,
+      "winner": "Laurent Coderre"
+    },
+    {
+      "id": "cannes-cst-artist-1973-cries-whispers",
+      "mediaType": "movie",
+      "title": "Cries & Whispers",
+      "awardYear": 1973
+    },
+    {
+      "id": "cannes-cst-artist-1974-mahler",
+      "mediaType": "movie",
+      "title": "Mahler",
+      "awardYear": 1974
+    },
+    {
+      "id": "cannes-cst-artist-1975-a-touch-of-zen",
+      "mediaType": "movie",
+      "title": "A Touch of Zen",
+      "awardYear": 1975
+    },
+    {
+      "id": "cannes-cst-artist-1975-don-t",
+      "mediaType": "movie",
+      "title": "Don't",
+      "awardYear": 1975
+    },
+    {
+      "id": "cannes-cst-artist-1976-la-griffe-et-la-dent",
+      "mediaType": "movie",
+      "title": "La Griffe et la dent",
+      "awardYear": 1976
+    },
+    {
+      "id": "cannes-cst-artist-1977-car-wash",
+      "mediaType": "movie",
+      "title": "Car Wash",
+      "awardYear": 1977
+    },
+    {
+      "id": "cannes-cst-artist-1978-pretty-baby",
+      "mediaType": "movie",
+      "title": "Pretty Baby",
+      "awardYear": 1978
+    },
+    {
+      "id": "cannes-cst-artist-1979-norma-rae",
+      "mediaType": "movie",
+      "title": "Norma Rae",
+      "awardYear": 1979,
+      "externalIds": {
+        "tmdb": "40842"
+      }
+    },
+    {
+      "id": "cannes-cst-artist-1980-le-risque-de-vivre",
+      "mediaType": "movie",
+      "title": "Le Risque de vivre",
+      "awardYear": 1980
+    },
+    {
+      "id": "cannes-cst-artist-1981-les-uns-et-les-autres",
+      "mediaType": "movie",
+      "title": "Les Uns et les Autres",
+      "awardYear": 1981
+    },
+    {
+      "id": "cannes-cst-artist-1982-passion",
+      "mediaType": "movie",
+      "title": "Passion",
+      "awardYear": 1982,
+      "winner": "Raoul Coutard"
+    },
+    {
+      "id": "cannes-cst-artist-1983-carmen",
+      "mediaType": "movie",
+      "title": "Carmen",
+      "awardYear": 1983
+    },
+    {
+      "id": "cannes-cst-artist-1984-the-element-of-crime",
+      "mediaType": "movie",
+      "title": "The Element of Crime",
+      "awardYear": 1984
+    },
+    {
+      "id": "cannes-cst-artist-1985-insignificance",
+      "mediaType": "movie",
+      "title": "Insignificance",
+      "awardYear": 1985
+    },
+    {
+      "id": "cannes-cst-artist-1986-the-mission",
+      "mediaType": "movie",
+      "title": "The Mission",
+      "awardYear": 1986,
+      "externalIds": {
+        "tmdb": "11416"
+      }
+    },
+    {
+      "id": "cannes-cst-artist-1987-le-cinema-dans-les-yeux",
+      "mediaType": "movie",
+      "title": "Le Cinéma dans les Yeux",
+      "awardYear": 1987
+    },
+    {
+      "id": "cannes-cst-artist-1988-bird",
+      "mediaType": "movie",
+      "title": "Bird",
+      "awardYear": 1988,
+      "externalIds": {
+        "tmdb": "24679"
+      }
+    },
+    {
+      "id": "cannes-cst-artist-1989-black-rain",
+      "mediaType": "movie",
+      "title": "Black Rain",
+      "awardYear": 1989
+    },
+    {
+      "id": "cannes-cst-artist-1990-cyrano-de-bergerac",
+      "mediaType": "movie",
+      "title": "Cyrano de Bergerac",
+      "awardYear": 1990,
+      "winner": "Pierre Lhomme",
+      "externalIds": {
+        "tmdb": "11673"
+      }
+    },
+    {
+      "id": "cannes-cst-artist-1991-europa",
+      "mediaType": "movie",
+      "title": "Europa",
+      "awardYear": 1991,
+      "winner": "Lars von Trier",
+      "externalIds": {
+        "tmdb": "9065"
+      }
+    },
+    {
+      "id": "cannes-cst-artist-1992-the-journey",
+      "mediaType": "movie",
+      "title": "The Journey",
+      "awardYear": 1992,
+      "winner": "Fernando Solanas"
+    },
+    {
+      "id": "cannes-cst-artist-1993-mazeppa",
+      "mediaType": "movie",
+      "title": "Mazeppa",
+      "awardYear": 1993,
+      "winner": "Jean Gargonne & Vincent Arnadi"
+    },
+    {
+      "id": "cannes-cst-artist-1994-dead-tired",
+      "mediaType": "movie",
+      "title": "Dead Tired",
+      "awardYear": 1994,
+      "winner": "Pitof"
+    },
+    {
+      "id": "cannes-cst-artist-1995-shanghai-triad",
+      "mediaType": "movie",
+      "title": "Shanghai Triad",
+      "awardYear": 1995,
+      "winner": "Lü Yue, Olivier Chiavassa & Bruno Patin"
+    },
+    {
+      "id": "cannes-cst-artist-1996-microcosmos",
+      "mediaType": "movie",
+      "title": "Microcosmos",
+      "awardYear": 1996,
+      "winner": "Technical team"
+    },
+    {
+      "id": "cannes-cst-artist-1997-she-s-so-lovely",
+      "mediaType": "movie",
+      "title": "She's So Lovely",
+      "awardYear": 1997,
+      "winner": "Thierry Arbogast",
+      "externalIds": {
+        "tmdb": "38295"
+      }
+    },
+    {
+      "id": "cannes-cst-artist-1997-the-fifth-element",
+      "mediaType": "movie",
+      "title": "The Fifth Element",
+      "awardYear": 1997,
+      "winner": "Thierry Arbogast"
+    },
+    {
+      "id": "cannes-cst-artist-1998-tango",
+      "mediaType": "movie",
+      "title": "Tango",
+      "awardYear": 1998,
+      "winner": "Vittorio Storaro"
+    },
+    {
+      "id": "cannes-cst-artist-1999-the-emperor-and-the-assassin",
+      "mediaType": "movie",
+      "title": "The Emperor and the Assassin",
+      "awardYear": 1999,
+      "winner": "Juhua Tu"
+    },
+    {
+      "id": "cannes-cst-artist-2000-in-the-mood-for-love",
+      "mediaType": "movie",
+      "title": "In the Mood for Love",
+      "awardYear": 2000,
+      "winner": "Christopher Doyle, Ping Bin Lee & William Chang",
+      "externalIds": {
+        "tmdb": "843"
+      }
+    },
+    {
+      "id": "cannes-cst-artist-2001-millennium-mambo",
+      "mediaType": "movie",
+      "title": "Millennium Mambo",
+      "awardYear": 2001,
+      "winner": "Tu Duu-Chih"
+    },
+    {
+      "id": "cannes-cst-artist-2001-what-time-is-it-there",
+      "mediaType": "movie",
+      "title": "What Time Is It There?",
+      "awardYear": 2001,
+      "winner": "Tu Duu-Chih"
+    },
+    {
+      "id": "cannes-cst-artist-2003-mystic-river",
+      "mediaType": "movie",
+      "title": "Mystic River",
+      "awardYear": 2003,
+      "winner": "Tom Stern"
+    },
+    {
+      "id": "cannes-cst-artist-2004-clean",
+      "mediaType": "movie",
+      "title": "Clean",
+      "awardYear": 2004,
+      "winner": "Eric Gautier",
+      "externalIds": {
+        "tmdb": "39851"
+      }
+    },
+    {
+      "id": "cannes-cst-artist-2004-the-motorcycle-diaries",
+      "mediaType": "movie",
+      "title": "The Motorcycle Diaries",
+      "awardYear": 2004,
+      "winner": "Eric Gautier"
+    },
+    {
+      "id": "cannes-cst-artist-2005-last-days",
+      "mediaType": "movie",
+      "title": "Last Days",
+      "awardYear": 2005,
+      "winner": "Leslie Shatz"
+    },
+    {
+      "id": "cannes-cst-artist-2005-sin-city",
+      "mediaType": "movie",
+      "title": "Sin City",
+      "awardYear": 2005,
+      "winner": "Robert Rodriguez"
+    },
+    {
+      "id": "cannes-cst-artist-2006-babel",
+      "mediaType": "movie",
+      "title": "Babel",
+      "awardYear": 2006,
+      "winner": "Stephen Mirrione",
+      "externalIds": {
+        "tmdb": "1164"
+      }
+    },
+    {
+      "id": "cannes-cst-artist-2007-the-diving-bell-and-the-butterfly",
+      "mediaType": "movie",
+      "title": "The Diving Bell and the Butterfly",
+      "awardYear": 2007,
+      "winner": "Janusz Kamiński",
+      "externalIds": {
+        "tmdb": "2013"
+      }
+    },
+    {
+      "id": "cannes-cst-artist-2008-il-divo",
+      "mediaType": "movie",
+      "title": "Il Divo",
+      "awardYear": 2008,
+      "winner": "Luca Bigazzi & Angelo Raguseo",
+      "externalIds": {
+        "tmdb": "8832"
+      }
+    },
+    {
+      "id": "cannes-cst-artist-2009-map-of-the-sounds-of-tokyo",
+      "mediaType": "movie",
+      "title": "Map of the Sounds of Tokyo",
+      "awardYear": 2009,
+      "winner": "Aitor Berenguer"
+    },
+    {
+      "id": "cannes-cst-artist-2010-biutiful",
+      "mediaType": "movie",
+      "title": "Biutiful",
+      "awardYear": 2010,
+      "winner": "Jon Taylor & Bob Beemer",
+      "externalIds": {
+        "tmdb": "45958"
+      }
+    },
+    {
+      "id": "cannes-cst-artist-2011-the-skin-i-live-in",
+      "mediaType": "movie",
+      "title": "The Skin I Live In",
+      "awardYear": 2011,
+      "winner": "José Luis Alcaine"
+    },
+    {
+      "id": "cannes-cst-artist-2012-the-hunt",
+      "mediaType": "movie",
+      "title": "The Hunt",
+      "awardYear": 2012,
+      "winner": "Charlotte Bruus Christensen",
+      "externalIds": {
+        "tmdb": "103663"
+      }
+    },
+    {
+      "id": "cannes-cst-artist-2013-grigris",
+      "mediaType": "movie",
+      "title": "Grigris",
+      "awardYear": 2013,
+      "winner": "Antoine Héberlé"
+    },
+    {
+      "id": "cannes-cst-artist-2014-mr-turner",
+      "mediaType": "movie",
+      "title": "Mr. Turner",
+      "awardYear": 2014,
+      "winner": "Dick Pope",
+      "externalIds": {
+        "tmdb": "245700"
+      }
+    },
+    {
+      "id": "cannes-cst-artist-2015-son-of-saul",
+      "mediaType": "movie",
+      "title": "Son of Saul",
+      "awardYear": 2015,
+      "winner": "Tamás Zányi",
+      "externalIds": {
+        "tmdb": "336050"
+      }
+    },
+    {
+      "id": "cannes-cst-artist-2016-the-handmaiden",
+      "mediaType": "movie",
+      "title": "The Handmaiden",
+      "awardYear": 2016,
+      "winner": "Ryu Seong-hee"
+    },
+    {
+      "id": "cannes-cst-artist-2017-the-square",
+      "mediaType": "movie",
+      "title": "The Square",
+      "awardYear": 2017,
+      "winner": "Josefin Åsberg",
+      "externalIds": {
+        "tmdb": "401246",
+        "imdb": "tt4995790"
+      },
+      "releaseDate": "2017"
+    },
+    {
+      "id": "cannes-cst-artist-2018-burning",
+      "mediaType": "movie",
+      "title": "Burning",
+      "awardYear": 2018,
+      "winner": "Shin Jeom-hee",
+      "externalIds": {
+        "imdb": "tt7282468"
+      },
+      "releaseDate": "2018"
+    },
+    {
+      "id": "cannes-cst-artist-2019-les-miserables",
+      "mediaType": "movie",
+      "title": "Les Misérables",
+      "awardYear": 2019,
+      "winner": "Flora Volpelière & Julien Poupard",
+      "externalIds": {
+        "tmdb": "586863",
+        "imdb": "tt10199590"
+      },
+      "releaseDate": "2019"
+    },
+    {
+      "id": "cannes-cst-artist-2021-petrov-s-flu",
+      "mediaType": "movie",
+      "title": "Petrov's Flu",
+      "awardYear": 2021,
+      "winner": "Vladislav Opeliants",
+      "externalIds": {
+        "imdb": "tt10380900"
+      },
+      "releaseDate": "2021"
+    },
+    {
+      "id": "cannes-cst-artist-2022-triangle-of-sadness",
+      "mediaType": "movie",
+      "title": "Triangle of Sadness",
+      "awardYear": 2022,
+      "winner": "Bent Holm, Andreas Franck, Jacob Ilgner & Jonas Rudels",
+      "externalIds": {
+        "tmdb": "497828",
+        "imdb": "tt7322224"
+      },
+      "releaseDate": "2022"
+    },
+    {
+      "id": "cannes-cst-artist-2023-the-zone-of-interest",
+      "mediaType": "movie",
+      "title": "The Zone of Interest",
+      "awardYear": 2023,
+      "winner": "Johnnie Burn",
+      "externalIds": {
+        "tmdb": "467244",
+        "imdb": "tt7160372"
+      },
+      "releaseDate": "2023"
+    },
+    {
+      "id": "cannes-cst-artist-2024-parthenope",
+      "mediaType": "movie",
+      "title": "Parthenope",
+      "awardYear": 2024,
+      "winner": "Daria D'Antonio",
+      "externalIds": {
+        "imdb": "tt23853982"
+      },
+      "releaseDate": "2024"
+    },
+    {
+      "id": "cannes-cst-artist-2025-alpha",
+      "mediaType": "movie",
+      "title": "Alpha",
+      "awardYear": 2025,
+      "winner": "Ruben Impens & Stéphane Thiébaut",
+      "externalIds": {
+        "imdb": "tt32275943"
+      },
+      "releaseDate": "2025"
+    },
+    {
+      "id": "cannes-cst-artist-2026-notre-salut",
+      "mediaType": "movie",
+      "title": "Notre Salut",
+      "awardYear": 2026,
+      "winner": "Nicolas Rumpl",
+      "externalIds": {
+        "imdb": "tt41593304"
+      }
+    }
+  ]
+}

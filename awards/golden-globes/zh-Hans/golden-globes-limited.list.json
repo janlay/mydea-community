@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "金球奖 — 最佳限定剧、选集剧或电视电影",
+  "description": "2017–2026 年金球奖最佳限定剧、选集剧或电视电影获奖作品。",
+  "items": [
+    {
+      "id": "golden-globes-limited-2017-the-people-v-o-j-simpson-american-crime-story",
+      "mediaType": "tv",
+      "title": "美国犯罪故事",
+      "englishTitle": "The People v. O. J. Simpson: American Crime Story",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt2788432"
+      },
+      "awardYear": 2017,
+      "winner": "美国犯罪故事：公众与O·J·辛普森的对决"
+    },
+    {
+      "id": "golden-globes-limited-2018-big-little-lies",
+      "mediaType": "tv",
+      "title": "大小谎言",
+      "englishTitle": "Big Little Lies",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt3920596"
+      },
+      "awardYear": 2018,
+      "winner": "大小谎言"
+    },
+    {
+      "id": "golden-globes-limited-2019-the-assassination-of-gianni-versace-american-crime-story",
+      "mediaType": "tv",
+      "title": "美国犯罪故事",
+      "englishTitle": "The Assassination of Gianni Versace: American Crime Story",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt2788432"
+      },
+      "awardYear": 2019,
+      "winner": "美国犯罪故事：刺杀范思哲"
+    },
+    {
+      "id": "golden-globes-limited-2020-chernobyl",
+      "mediaType": "tv",
+      "title": "切尔诺贝利",
+      "englishTitle": "Chernobyl",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt7366338"
+      },
+      "awardYear": 2020,
+      "winner": "切尔诺贝利"
+    },
+    {
+      "id": "golden-globes-limited-2021-the-queen-s-gambit",
+      "mediaType": "tv",
+      "title": "后翼弃兵",
+      "englishTitle": "The Queen's Gambit",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10048342"
+      },
+      "awardYear": 2021,
+      "winner": "后翼弃兵"
+    },
+    {
+      "id": "golden-globes-limited-2022-the-underground-railroad",
+      "mediaType": "tv",
+      "title": "地下铁道",
+      "englishTitle": "The Underground Railroad",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt6704972"
+      },
+      "awardYear": 2022,
+      "winner": "地下铁道"
+    },
+    {
+      "id": "golden-globes-limited-2023-the-white-lotus",
+      "mediaType": "tv",
+      "title": "白莲花度假村",
+      "englishTitle": "The White Lotus",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt13406094"
+      },
+      "awardYear": 2023,
+      "winner": "白莲花度假村"
+    },
+    {
+      "id": "golden-globes-limited-2024-beef",
+      "mediaType": "tv",
+      "title": "怒呛人生",
+      "englishTitle": "Beef",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt14403178"
+      },
+      "awardYear": 2024,
+      "winner": "怒呛人生"
+    },
+    {
+      "id": "golden-globes-limited-2025-baby-reindeer",
+      "mediaType": "tv",
+      "title": "驯鹿宝贝",
+      "englishTitle": "Baby Reindeer",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt13649112"
+      },
+      "awardYear": 2025,
+      "winner": "驯鹿宝贝"
+    },
+    {
+      "id": "golden-globes-limited-2026-adolescence",
+      "mediaType": "tv",
+      "title": "混沌少年时",
+      "englishTitle": "Adolescence",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31806037"
+      },
+      "awardYear": 2026,
+      "winner": "混沌少年时"
+    }
+  ]
+}

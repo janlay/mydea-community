@@ -1,0 +1,212 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "title": "坎城 — 一種注目其他特別獎",
+  "author": "Mydea",
+  "updatedAt": "2026-09-16T04:43:24Z",
+  "description": "坎城影展一種注目單元歷屆獎項。 一種注目其他特別獎.",
+  "tags": [
+    "award",
+    "cannes",
+    "prize"
+  ],
+  "items": [
+    {
+      "id": "cannes-ucr-special-2003-a-thousand-months",
+      "mediaType": "movie",
+      "title": "A Thousand Months",
+      "awardYear": 2003,
+      "winner": "Faouzi Bensaïdi",
+      "distinction": "First Glance Prize"
+    },
+    {
+      "id": "cannes-ucr-special-2004-earth-and-ashes",
+      "mediaType": "movie",
+      "title": "Earth and Ashes",
+      "awardYear": 2004,
+      "winner": "Atiq Rahimi",
+      "distinction": "Future Glance Prize"
+    },
+    {
+      "id": "cannes-ucr-special-2004-whisky",
+      "mediaType": "movie",
+      "title": "Whisky",
+      "awardYear": 2004,
+      "winner": "Juan Pablo Rebella & Pablo Stoll",
+      "distinction": "Original Glance Prize"
+    },
+    {
+      "id": "cannes-ucr-special-2005-delwende",
+      "mediaType": "movie",
+      "title": "Delwende",
+      "awardYear": 2005,
+      "winner": "S. Pierre Yameogo",
+      "distinction": "Hope Prize"
+    },
+    {
+      "id": "cannes-ucr-special-2005-le-filmeur",
+      "mediaType": "movie",
+      "title": "Le Filmeur",
+      "awardYear": 2005,
+      "winner": "Alain Cavalier",
+      "distinction": "Intimacy Prize"
+    },
+    {
+      "id": "cannes-ucr-special-2006-murderers",
+      "mediaType": "movie",
+      "title": "Murderers",
+      "awardYear": 2006,
+      "winner": "Patrick Grandperret",
+      "distinction": "Jury President Prize"
+    },
+    {
+      "id": "cannes-ucr-special-2008-johnny-mad-dog",
+      "mediaType": "movie",
+      "title": "Johnny Mad Dog",
+      "awardYear": 2008,
+      "winner": "Jean-Stéphane Sauvaire",
+      "distinction": "Hope Prize"
+    },
+    {
+      "id": "cannes-ucr-special-2008-tyson",
+      "mediaType": "movie",
+      "title": "Tyson",
+      "awardYear": 2008,
+      "winner": "James Toback",
+      "distinction": "K.O. Prize"
+    },
+    {
+      "id": "cannes-ucr-special-2013-fruitvale-station",
+      "mediaType": "movie",
+      "title": "Fruitvale Station",
+      "awardYear": 2013,
+      "winner": "Ryan Coogler",
+      "distinction": "Future Prize"
+    },
+    {
+      "id": "cannes-ucr-special-2013-the-golden-dream",
+      "mediaType": "movie",
+      "title": "The Golden Dream",
+      "awardYear": 2013,
+      "winner": "Diego Quemada-Díez",
+      "distinction": "Certain Talent Prize"
+    },
+    {
+      "id": "cannes-ucr-special-2014-party-girl",
+      "mediaType": "movie",
+      "title": "舞吧！夜遊天使",
+      "awardYear": 2014,
+      "winner": "Marie Amachoukeli, Claire Burger & Samuel Theis",
+      "distinction": "Ensemble Prize",
+      "externalIds": {
+        "tmdb": "266030"
+      }
+    },
+    {
+      "id": "cannes-ucr-special-2015-the-treasure",
+      "mediaType": "movie",
+      "title": "The Treasure",
+      "awardYear": 2015,
+      "winner": "Corneliu Porumboiu",
+      "distinction": "Certain Talent Prize"
+    },
+    {
+      "id": "cannes-ucr-special-2017-barbara",
+      "mediaType": "movie",
+      "title": "芭芭拉",
+      "awardYear": 2017,
+      "winner": "Mathieu Amalric",
+      "distinction": "Poetry of Cinema Prize",
+      "externalIds": {
+        "imdb": "tt6411984"
+      },
+      "releaseDate": "2017"
+    },
+    {
+      "id": "cannes-ucr-special-2021-good-mother",
+      "mediaType": "movie",
+      "title": "Bonne mère",
+      "awardYear": 2021,
+      "winner": "Hafsia Herzi",
+      "distinction": "Ensemble Prize",
+      "externalIds": {
+        "imdb": "tt13006574"
+      },
+      "releaseDate": "2021"
+    },
+    {
+      "id": "cannes-ucr-special-2021-la-civil",
+      "mediaType": "movie",
+      "title": "非常市民",
+      "awardYear": 2021,
+      "winner": "Teodora Ana Mihai",
+      "distinction": "Courage Prize",
+      "externalIds": {
+        "imdb": "tt13827606"
+      },
+      "releaseDate": "2021"
+    },
+    {
+      "id": "cannes-ucr-special-2021-lamb",
+      "mediaType": "movie",
+      "title": "羊懼",
+      "awardYear": 2021,
+      "winner": "Valdimar Jóhannsson",
+      "distinction": "Originality Prize",
+      "externalIds": {
+        "imdb": "tt9812474"
+      },
+      "releaseDate": "2021"
+    },
+    {
+      "id": "cannes-ucr-special-2023-goodbye-julia",
+      "mediaType": "movie",
+      "title": "再見了！茱莉亞",
+      "awardYear": 2023,
+      "winner": "Mohamed Kordofani",
+      "distinction": "Freedom Prize",
+      "externalIds": {
+        "imdb": "tt14330672"
+      },
+      "releaseDate": "2023"
+    },
+    {
+      "id": "cannes-ucr-special-2023-omen",
+      "mediaType": "movie",
+      "title": "預兆",
+      "awardYear": 2023,
+      "winner": "Baloji",
+      "distinction": "New Voice Prize",
+      "externalIds": {
+        "imdb": "tt21086802",
+        "letterboxd": "omen-2023"
+      },
+      "releaseDate": "2023"
+    },
+    {
+      "id": "cannes-ucr-special-2023-the-buriti-flower",
+      "mediaType": "movie",
+      "title": "Crowrã",
+      "awardYear": 2023,
+      "winner": "João Salaviza & Renée Nader Messora",
+      "distinction": "Ensemble Prize",
+      "externalIds": {
+        "imdb": "tt27502245",
+        "letterboxd": "the-buriti-flower"
+      },
+      "releaseDate": "2023"
+    },
+    {
+      "id": "cannes-ucr-special-2024-holy-cow",
+      "mediaType": "movie",
+      "title": "完美起司配方",
+      "awardYear": 2024,
+      "winner": "Louise Courvoisier",
+      "distinction": "Youth Award",
+      "externalIds": {
+        "imdb": "tt32086034"
+      },
+      "releaseDate": "2024"
+    }
+  ]
+}

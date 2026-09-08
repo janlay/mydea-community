@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "ゴールデングローブ賞 2019",
+  "description": "2019年のゴールデングローブ賞主要映画・テレビ作品部門の受賞一覧。",
+  "items": [
+    {
+      "id": "golden-globes-2019-drama-bohemian-rhapsody",
+      "mediaType": "movie",
+      "title": "ボヘミアン・ラプソディ",
+      "englishTitle": "Bohemian Rhapsody",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt1727824"
+      },
+      "award": "作品賞 ドラマ部門",
+      "awardYear": 2019,
+      "awardOrder": 1,
+      "winner": "ボヘミアン・ラプソディ"
+    },
+    {
+      "id": "golden-globes-2019-comedy-green-book",
+      "mediaType": "movie",
+      "title": "グリーンブック",
+      "englishTitle": "Green Book",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt6966692"
+      },
+      "award": "作品賞 ミュージカル・コメディ部門",
+      "awardYear": 2019,
+      "awardOrder": 2,
+      "winner": "グリーンブック"
+    },
+    {
+      "id": "golden-globes-2019-animated-spider-man-into-the-spider-verse",
+      "mediaType": "movie",
+      "title": "スパイダーマン：スパイダーバース",
+      "englishTitle": "Spider-Man: Into the Spider-Verse",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt4633694"
+      },
+      "award": "アニメーション映画賞",
+      "awardYear": 2019,
+      "awardOrder": 3,
+      "winner": "スパイダーマン：スパイダーバース"
+    },
+    {
+      "id": "golden-globes-2019-foreign-roma",
+      "mediaType": "movie",
+      "title": "ROMA/ローマ",
+      "englishTitle": "Roma",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt6155172"
+      },
+      "award": "非英語映画賞",
+      "awardYear": 2019,
+      "awardOrder": 4,
+      "winner": "ROMA／ローマ"
+    },
+    {
+      "id": "golden-globes-2019-tv_drama-bodyguard",
+      "mediaType": "tv",
+      "title": "Bodyguard",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7493974"
+      },
+      "award": "テレビドラマ作品賞",
+      "awardYear": 2019,
+      "awardOrder": 5,
+      "winner": "Bodyguard"
+    },
+    {
+      "id": "golden-globes-2019-tv_comedy-the-kominsky-method",
+      "mediaType": "tv",
+      "title": "The Kominsky Method",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7255502"
+      },
+      "award": "テレビ作品賞 ミュージカル・コメディ部門",
+      "awardYear": 2019,
+      "awardOrder": 6,
+      "winner": "The Kominsky Method"
+    },
+    {
+      "id": "golden-globes-2019-limited-the-assassination-of-gianni-versace-american-crime-story",
+      "mediaType": "tv",
+      "title": "アメリカン・クライム・ストーリー",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt2788432"
+      },
+      "award": "リミテッドシリーズ・アンソロジー・テレビ映画賞",
+      "awardYear": 2019,
+      "awardOrder": 7,
+      "winner": "The Assassination of Gianni Versace: American Crime Story"
+    }
+  ]
+}

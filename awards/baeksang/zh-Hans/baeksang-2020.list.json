@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T02:53:58Z",
+  "title": "百想艺术大赏 — 2020",
+  "description": "2020 年百想艺术大赏电影与电视主要奖项获奖记录。",
+  "items": [
+    {
+      "id": "baeksang-2020-film-grand-parasite",
+      "mediaType": "movie",
+      "title": "寄生虫",
+      "originalTitle": "기생충",
+      "award": "电影大奖",
+      "awardYear": 2020,
+      "awardOrder": 1,
+      "winner": "Bong Joon-ho",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6751668"
+      }
+    },
+    {
+      "id": "baeksang-2020-tv-grand-camellia",
+      "mediaType": "tv",
+      "title": "山茶花开时",
+      "originalTitle": "동백꽃 필 무렵",
+      "award": "电视大奖",
+      "awardYear": 2020,
+      "awardOrder": 2,
+      "winner": "山茶花开时",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10826064"
+      }
+    },
+    {
+      "id": "baeksang-2020-film-best-parasite",
+      "mediaType": "movie",
+      "title": "寄生虫",
+      "originalTitle": "기생충",
+      "award": "最佳电影",
+      "awardYear": 2020,
+      "awardOrder": 3,
+      "winner": "寄生虫",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6751668"
+      }
+    },
+    {
+      "id": "baeksang-2020-film-director-hummingbird",
+      "mediaType": "movie",
+      "title": "蜂鸟",
+      "originalTitle": "벌새",
+      "award": "电影最佳导演",
+      "awardYear": 2020,
+      "awardOrder": 4,
+      "winner": "Kim Bora",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8951086"
+      }
+    },
+    {
+      "id": "baeksang-2020-film-actor-man-standing",
+      "mediaType": "movie",
+      "title": "南山的部长们",
+      "originalTitle": "남산의 부장들",
+      "award": "电影最佳男主角",
+      "awardYear": 2020,
+      "awardOrder": 5,
+      "winner": "Lee Byung-hun",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt11358398"
+      }
+    },
+    {
+      "id": "baeksang-2020-film-actress-birthday",
+      "mediaType": "movie",
+      "title": "生日",
+      "originalTitle": "생일",
+      "award": "电影最佳女主角",
+      "awardYear": 2020,
+      "awardOrder": 6,
+      "winner": "Jeon Do-yeon",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10248334"
+      }
+    },
+    {
+      "id": "baeksang-2020-tv-best-stove",
+      "mediaType": "tv",
+      "title": "棒球大联盟",
+      "originalTitle": "스토브리그",
+      "award": "最佳电视剧",
+      "awardYear": 2020,
+      "awardOrder": 7,
+      "winner": "棒球大联盟",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt11378124"
+      }
+    },
+    {
+      "id": "baeksang-2020-tv-director-world-married",
+      "mediaType": "tv",
+      "title": "夫妻的世界",
+      "originalTitle": "부부의 세계",
+      "award": "电视最佳导演",
+      "awardYear": 2020,
+      "awardOrder": 8,
+      "winner": "Mo Wan-il",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt12042964"
+      }
+    },
+    {
+      "id": "baeksang-2020-tv-actor-camellia",
+      "mediaType": "tv",
+      "title": "山茶花开时",
+      "originalTitle": "동백꽃 필 무렵",
+      "award": "电视最佳男主角",
+      "awardYear": 2020,
+      "awardOrder": 9,
+      "winner": "Kang Ha-neul",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10826064"
+      }
+    },
+    {
+      "id": "baeksang-2020-tv-actress-world-married",
+      "mediaType": "tv",
+      "title": "夫妻的世界",
+      "originalTitle": "부부의 세계",
+      "award": "电视最佳女主角",
+      "awardYear": 2020,
+      "awardOrder": 10,
+      "winner": "Kim Hee-ae",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt12042964"
+      }
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T02:53:58Z",
+  "title": "Baeksang Arts Awards — 2024",
+  "description": "Major film and broadcast winners at the 2024 Baeksang Arts Awards.",
+  "items": [
+    {
+      "id": "baeksang-2024-film-grand-seoul-spring",
+      "mediaType": "movie",
+      "title": "12.12: The Day",
+      "originalTitle": "서울의 봄",
+      "award": "Film Grand Prize",
+      "awardYear": 2024,
+      "awardOrder": 1,
+      "winner": "Kim Sung-su",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt22507524"
+      }
+    },
+    {
+      "id": "baeksang-2024-tv-grand-moving",
+      "mediaType": "tv",
+      "title": "Moving",
+      "originalTitle": "무빙",
+      "award": "Broadcast Grand Prize",
+      "awardYear": 2024,
+      "awardOrder": 2,
+      "winner": "Moving",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt24640580"
+      }
+    },
+    {
+      "id": "baeksang-2024-film-best-seoul-spring",
+      "mediaType": "movie",
+      "title": "12.12: The Day",
+      "originalTitle": "서울의 봄",
+      "award": "Best Film",
+      "awardYear": 2024,
+      "awardOrder": 3,
+      "winner": "12.12: The Day",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt22507524"
+      }
+    },
+    {
+      "id": "baeksang-2024-film-director-exhuma",
+      "mediaType": "movie",
+      "title": "Exhuma",
+      "originalTitle": "파묘",
+      "award": "Best Director Film",
+      "awardYear": 2024,
+      "awardOrder": 4,
+      "winner": "Jang Jae-hyun",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt27802490"
+      }
+    },
+    {
+      "id": "baeksang-2024-film-actor-seoul-spring",
+      "mediaType": "movie",
+      "title": "12.12: The Day",
+      "originalTitle": "서울의 봄",
+      "award": "Best Actor Film",
+      "awardYear": 2024,
+      "awardOrder": 5,
+      "winner": "Hwang Jung-min",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt22507524"
+      }
+    },
+    {
+      "id": "baeksang-2024-film-actress-exhuma",
+      "mediaType": "movie",
+      "title": "Exhuma",
+      "originalTitle": "파묘",
+      "award": "Best Actress Film",
+      "awardYear": 2024,
+      "awardOrder": 6,
+      "winner": "Kim Go-eun",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt27802490"
+      }
+    },
+    {
+      "id": "baeksang-2024-tv-best-my-dearest",
+      "mediaType": "tv",
+      "title": "My Dearest",
+      "originalTitle": "연인",
+      "award": "Best Drama",
+      "awardYear": 2024,
+      "awardOrder": 7,
+      "winner": "My Dearest",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt26228190"
+      }
+    },
+    {
+      "id": "baeksang-2024-tv-director-worst-evil",
+      "mediaType": "tv",
+      "title": "The Worst of Evil",
+      "originalTitle": "최악의 악",
+      "award": "Best Director Broadcast",
+      "awardYear": 2024,
+      "awardOrder": 8,
+      "winner": "Han Dong-wook",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt20600022"
+      }
+    },
+    {
+      "id": "baeksang-2024-tv-actor-my-dearest",
+      "mediaType": "tv",
+      "title": "My Dearest",
+      "originalTitle": "연인",
+      "award": "Best Actor Broadcast",
+      "awardYear": 2024,
+      "awardOrder": 9,
+      "winner": "Namkoong Min",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt26228190"
+      }
+    },
+    {
+      "id": "baeksang-2024-tv-actress-knight-flower",
+      "mediaType": "tv",
+      "title": "Knight Flower",
+      "originalTitle": "밤에 피는 꽃",
+      "award": "Best Actress Broadcast",
+      "awardYear": 2024,
+      "awardOrder": 10,
+      "winner": "Lee Hanee",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt30012439"
+      }
+    }
+  ]
+}

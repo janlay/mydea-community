@@ -1,0 +1,590 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "釜山国际电影节 — 新浪潮奖",
+  "description": "釜山国际电影节新浪潮奖历届获奖影片。",
+  "items": [
+    {
+      "id": "biff-new-currents-1996-in-expectation",
+      "mediaType": "movie",
+      "title": "In Expectation",
+      "releaseDate": "1996",
+      "externalIds": {
+        "letterboxd": "in-expectation"
+      },
+      "awardYear": 1996,
+      "winner": "ZHANG Ming"
+    },
+    {
+      "id": "biff-new-currents-1997-motel-cactus",
+      "mediaType": "movie",
+      "title": "Motel Cactus",
+      "releaseDate": "1997",
+      "externalIds": {
+        "letterboxd": "motel-cactus"
+      },
+      "awardYear": 1997,
+      "winner": "PARK Ki-Yong"
+    },
+    {
+      "id": "biff-new-currents-1998-xiao-wu",
+      "mediaType": "movie",
+      "title": "Xiao Wu",
+      "releaseDate": "1998",
+      "externalIds": {
+        "imdb": "tt0144020",
+        "letterboxd": "xiao-wu"
+      },
+      "awardYear": 1998,
+      "winner": "JIA Zhangke"
+    },
+    {
+      "id": "biff-new-currents-1999-timeless-melody",
+      "mediaType": "movie",
+      "title": "Timeless Melody",
+      "releaseDate": "1999",
+      "externalIds": {
+        "letterboxd": "timeless-melody"
+      },
+      "awardYear": 1999,
+      "winner": "OKUHARA Hiroshi"
+    },
+    {
+      "id": "biff-new-currents-2000-the-day-i-became-a-woman",
+      "mediaType": "movie",
+      "title": "The Day I Became a Woman",
+      "releaseDate": "2000",
+      "externalIds": {
+        "imdb": "tt0258025",
+        "letterboxd": "the-day-i-became-a-woman"
+      },
+      "awardYear": 2000,
+      "winner": "Marziyeh MESHKINI"
+    },
+    {
+      "id": "biff-new-currents-2001-flower-island",
+      "mediaType": "movie",
+      "title": "Flower Island",
+      "releaseDate": "2001",
+      "externalIds": {
+        "imdb": "tt0293146",
+        "letterboxd": "flower-island"
+      },
+      "awardYear": 2001,
+      "winner": "SONG Il-gon"
+    },
+    {
+      "id": "biff-new-currents-2002-jealousy-is-my-middle-name",
+      "mediaType": "movie",
+      "title": "Jealousy Is My Middle Name",
+      "releaseDate": "2002",
+      "externalIds": {
+        "letterboxd": "jealousy-is-my-middle-name"
+      },
+      "awardYear": 2002,
+      "winner": "PARK Chan Ok"
+    },
+    {
+      "id": "biff-new-currents-2002-the-rite-a-passion",
+      "mediaType": "movie",
+      "title": "The Rite... A Passion",
+      "releaseDate": "2002",
+      "externalIds": {
+        "letterboxd": "the-rite-a-passion"
+      },
+      "awardYear": 2002,
+      "winner": "Kanala N.T. SASTRY"
+    },
+    {
+      "id": "biff-new-currents-2003-the-missing",
+      "mediaType": "movie",
+      "title": "The Missing",
+      "releaseDate": "2003",
+      "externalIds": {
+        "letterboxd": "the-missing"
+      },
+      "awardYear": 2003,
+      "winner": "LEE Kang Sheng"
+    },
+    {
+      "id": "biff-new-currents-2003-tiny-snowflakes",
+      "mediaType": "movie",
+      "title": "Tiny Snowflakes",
+      "releaseDate": "2003",
+      "externalIds": {
+        "letterboxd": "tiny-snowflakes"
+      },
+      "awardYear": 2003,
+      "winner": "Alireza AMINI"
+    },
+    {
+      "id": "biff-new-currents-2004-this-charming-girl",
+      "mediaType": "movie",
+      "title": "This Charming Girl",
+      "releaseDate": "2004",
+      "externalIds": {
+        "imdb": "tt0424237",
+        "letterboxd": "this-charming-girl"
+      },
+      "awardYear": 2004,
+      "winner": "LEE Yoon-ki"
+    },
+    {
+      "id": "biff-new-currents-2005-grain-in-ear",
+      "mediaType": "movie",
+      "title": "Grain in Ear",
+      "releaseDate": "2005",
+      "externalIds": {
+        "imdb": "tt0479716",
+        "letterboxd": "grain-in-ear"
+      },
+      "awardYear": 2005,
+      "winner": "ZHANG Lu"
+    },
+    {
+      "id": "biff-new-currents-2006-betelnut",
+      "mediaType": "movie",
+      "title": "Betelnut",
+      "releaseDate": "2006",
+      "externalIds": {
+        "letterboxd": "betelnut"
+      },
+      "awardYear": 2006,
+      "winner": "YANG Heng"
+    },
+    {
+      "id": "biff-new-currents-2006-love-conquers-all",
+      "mediaType": "movie",
+      "title": "Love Conquers All",
+      "releaseDate": "2006",
+      "externalIds": {
+        "imdb": "tt0860467",
+        "letterboxd": "love-conquers-all"
+      },
+      "awardYear": 2006,
+      "winner": "TAN Chui Mui"
+    },
+    {
+      "id": "biff-new-currents-2007-flower-in-the-pocket",
+      "mediaType": "movie",
+      "title": "Flower in the Pocket",
+      "releaseDate": "2007",
+      "externalIds": {
+        "letterboxd": "flower-in-the-pocket"
+      },
+      "awardYear": 2007,
+      "winner": "Seng Tat LIEW"
+    },
+    {
+      "id": "biff-new-currents-2007-life-track",
+      "mediaType": "movie",
+      "title": "Life Track",
+      "releaseDate": "2007",
+      "externalIds": {
+        "letterboxd": "life-track"
+      },
+      "awardYear": 2007,
+      "winner": "GUANG Hao Jin"
+    },
+    {
+      "id": "biff-new-currents-2007-wonderful-town",
+      "mediaType": "movie",
+      "title": "Wonderful Town",
+      "releaseDate": "2007",
+      "externalIds": {
+        "imdb": "tt1135992",
+        "letterboxd": "wonderful-town"
+      },
+      "awardYear": 2007,
+      "winner": "Aditya ASSARAT"
+    },
+    {
+      "id": "biff-new-currents-2008-land-of-scarecrows",
+      "mediaType": "movie",
+      "title": "Land of Scarecrows",
+      "releaseDate": "2008",
+      "externalIds": {
+        "letterboxd": "land-of-scarecrows"
+      },
+      "awardYear": 2008,
+      "winner": "ROH Gyeong-tae"
+    },
+    {
+      "id": "biff-new-currents-2008-naked-of-defenses",
+      "mediaType": "movie",
+      "title": "Naked of Defenses",
+      "releaseDate": "2008",
+      "externalIds": {
+        "letterboxd": "naked-of-defenses"
+      },
+      "awardYear": 2008,
+      "winner": "ICHII Masahide"
+    },
+    {
+      "id": "biff-new-currents-2009-im-in-trouble",
+      "mediaType": "movie",
+      "title": "I'm in Trouble!",
+      "releaseDate": "2009",
+      "externalIds": {
+        "letterboxd": "im-in-trouble"
+      },
+      "awardYear": 2009,
+      "winner": "SO Sang-min"
+    },
+    {
+      "id": "biff-new-currents-2009-kick-off",
+      "mediaType": "movie",
+      "title": "Kick Off",
+      "releaseDate": "2009",
+      "externalIds": {
+        "letterboxd": "kick-off"
+      },
+      "awardYear": 2009,
+      "winner": "Shawkat Amin KORKI"
+    },
+    {
+      "id": "biff-new-currents-2010-bleak-night",
+      "mediaType": "movie",
+      "title": "Bleak Night",
+      "releaseDate": "2010",
+      "externalIds": {
+        "imdb": "tt1814643",
+        "letterboxd": "bleak-night"
+      },
+      "awardYear": 2010,
+      "winner": "YUN Sung-hyun"
+    },
+    {
+      "id": "biff-new-currents-2010-the-journals-of-musan",
+      "mediaType": "movie",
+      "title": "The Journals of Musan",
+      "releaseDate": "2010",
+      "externalIds": {
+        "letterboxd": "the-journals-of-musan"
+      },
+      "awardYear": 2010,
+      "winner": "PARK Jung-bum"
+    },
+    {
+      "id": "biff-new-currents-2011-mourning",
+      "mediaType": "movie",
+      "title": "Mourning",
+      "releaseDate": "2011",
+      "externalIds": {
+        "letterboxd": "mourning"
+      },
+      "awardYear": 2011,
+      "winner": "Morteza FARSHBAF"
+    },
+    {
+      "id": "biff-new-currents-2011-nino",
+      "mediaType": "movie",
+      "title": "Nino",
+      "releaseDate": "2011",
+      "externalIds": {
+        "letterboxd": "nino"
+      },
+      "awardYear": 2011,
+      "winner": "Loy ARCENAS"
+    },
+    {
+      "id": "biff-new-currents-2012-36",
+      "mediaType": "movie",
+      "title": "36",
+      "releaseDate": "2012",
+      "externalIds": {
+        "letterboxd": "36"
+      },
+      "awardYear": 2012,
+      "winner": "Nawapol THAMRONGRATTANARIT"
+    },
+    {
+      "id": "biff-new-currents-2012-kayan",
+      "mediaType": "movie",
+      "title": "Kayan",
+      "releaseDate": "2012",
+      "externalIds": {
+        "letterboxd": "kayan"
+      },
+      "awardYear": 2012,
+      "winner": "Maryam NAJAFI"
+    },
+    {
+      "id": "biff-new-currents-2013-pascha",
+      "mediaType": "movie",
+      "title": "Pascha",
+      "releaseDate": "2013",
+      "externalIds": {
+        "letterboxd": "pascha"
+      },
+      "awardYear": 2013,
+      "winner": "AHN Seonkyoung"
+    },
+    {
+      "id": "biff-new-currents-2013-remote-control",
+      "mediaType": "movie",
+      "title": "Remote Control",
+      "releaseDate": "2013",
+      "externalIds": {
+        "letterboxd": "remote-control"
+      },
+      "awardYear": 2013,
+      "winner": "Byamba SAKHYA"
+    },
+    {
+      "id": "biff-new-currents-2014-13",
+      "mediaType": "movie",
+      "title": "13",
+      "releaseDate": "2014",
+      "externalIds": {
+        "letterboxd": "13"
+      },
+      "awardYear": 2014,
+      "winner": "Hooman SEYED"
+    },
+    {
+      "id": "biff-new-currents-2014-end-of-winter",
+      "mediaType": "movie",
+      "title": "End of Winter",
+      "releaseDate": "2014",
+      "externalIds": {
+        "letterboxd": "end-of-winter"
+      },
+      "awardYear": 2014,
+      "winner": "KIM Daehwan"
+    },
+    {
+      "id": "biff-new-currents-2015-immortal",
+      "mediaType": "movie",
+      "title": "Immortal",
+      "releaseDate": "2015",
+      "externalIds": {
+        "letterboxd": "immortal"
+      },
+      "awardYear": 2015,
+      "winner": "Hadi MOHAGHEGH"
+    },
+    {
+      "id": "biff-new-currents-2015-walnut-tree",
+      "mediaType": "movie",
+      "title": "Walnut Tree",
+      "releaseDate": "2015",
+      "externalIds": {
+        "letterboxd": "walnut-tree"
+      },
+      "awardYear": 2015,
+      "winner": "Yerlan NURMUKHAMBETOV"
+    },
+    {
+      "id": "biff-new-currents-2016-knife-in-the-clear-water",
+      "mediaType": "movie",
+      "title": "Knife in the Clear Water",
+      "releaseDate": "2016",
+      "externalIds": {
+        "letterboxd": "knife-in-the-clear-water"
+      },
+      "awardYear": 2016,
+      "winner": "WANG Xuebo"
+    },
+    {
+      "id": "biff-new-currents-2016-the-donor",
+      "mediaType": "movie",
+      "title": "The Donor",
+      "releaseDate": "2016",
+      "externalIds": {
+        "letterboxd": "the-donor"
+      },
+      "awardYear": 2016,
+      "winner": "ZANG Qiwu"
+    },
+    {
+      "id": "biff-new-currents-2017-after-my-death",
+      "mediaType": "movie",
+      "title": "After My Death",
+      "releaseDate": "2017",
+      "externalIds": {
+        "letterboxd": "after-my-death"
+      },
+      "awardYear": 2017,
+      "winner": "KIM Uiseok"
+    },
+    {
+      "id": "biff-new-currents-2017-blockage",
+      "mediaType": "movie",
+      "title": "Blockage",
+      "releaseDate": "2017",
+      "externalIds": {
+        "letterboxd": "blockage"
+      },
+      "awardYear": 2017,
+      "winner": "Mohsen GHARAEI"
+    },
+    {
+      "id": "biff-new-currents-2018-clean-up",
+      "mediaType": "movie",
+      "title": "Clean Up",
+      "releaseDate": "2018",
+      "externalIds": {
+        "letterboxd": "clean-up"
+      },
+      "awardYear": 2018,
+      "winner": "KWON Man-ki"
+    },
+    {
+      "id": "biff-new-currents-2018-savage",
+      "mediaType": "movie",
+      "title": "SAVAGE",
+      "releaseDate": "2018",
+      "externalIds": {
+        "letterboxd": "savage"
+      },
+      "awardYear": 2018,
+      "winner": "CUI Si Wei"
+    },
+    {
+      "id": "biff-new-currents-2019-haifa-street",
+      "mediaType": "movie",
+      "title": "Haifa Street",
+      "releaseDate": "2019",
+      "externalIds": {
+        "letterboxd": "haifa-street"
+      },
+      "awardYear": 2019,
+      "winner": "Mohanad HAYAL"
+    },
+    {
+      "id": "biff-new-currents-2019-rom",
+      "mediaType": "movie",
+      "title": "Rom",
+      "releaseDate": "2019",
+      "externalIds": {
+        "letterboxd": "rom"
+      },
+      "awardYear": 2019,
+      "winner": "Tran Thanh Huy"
+    },
+    {
+      "id": "biff-new-currents-2020-a-balance",
+      "mediaType": "movie",
+      "title": "A Balance",
+      "releaseDate": "2020",
+      "externalIds": {
+        "letterboxd": "a-balance"
+      },
+      "awardYear": 2020,
+      "winner": "HARUMOTO Yujiro"
+    },
+    {
+      "id": "biff-new-currents-2020-three",
+      "mediaType": "movie",
+      "title": "Three",
+      "releaseDate": "2020",
+      "externalIds": {
+        "letterboxd": "three"
+      },
+      "awardYear": 2020,
+      "winner": "PAK Ruslan"
+    },
+    {
+      "id": "biff-new-currents-2021-farewell-my-hometown",
+      "mediaType": "movie",
+      "title": "Farewell, My Hometown",
+      "releaseDate": "2021",
+      "externalIds": {
+        "letterboxd": "farewell-my-hometown"
+      },
+      "awardYear": 2021,
+      "winner": "WANG Er Zhuo"
+    },
+    {
+      "id": "biff-new-currents-2021-the-apartment-with-two-women",
+      "mediaType": "movie",
+      "title": "The Apartment with Two Women",
+      "releaseDate": "2021",
+      "externalIds": {
+        "letterboxd": "the-apartment-with-two-women"
+      },
+      "awardYear": 2021,
+      "winner": "KIM Se-in"
+    },
+    {
+      "id": "biff-new-currents-2022-a-wild-roomer",
+      "mediaType": "movie",
+      "title": "A Wild Roomer",
+      "releaseDate": "2022",
+      "externalIds": {
+        "letterboxd": "a-wild-roomer"
+      },
+      "awardYear": 2022,
+      "winner": "LEE Jeong-hong"
+    },
+    {
+      "id": "biff-new-currents-2022-shivamma",
+      "mediaType": "movie",
+      "title": "Shivamma",
+      "releaseDate": "2022",
+      "externalIds": {
+        "letterboxd": "shivamma"
+      },
+      "awardYear": 2022,
+      "winner": "Jaishankar ARYAR"
+    },
+    {
+      "id": "biff-new-currents-2023-september-1923",
+      "mediaType": "movie",
+      "title": "SEPTEMBER 1923",
+      "releaseDate": "2023",
+      "externalIds": {
+        "letterboxd": "september-1923"
+      },
+      "awardYear": 2023,
+      "winner": "MORI Tatsuya"
+    },
+    {
+      "id": "biff-new-currents-2023-the-wrestler",
+      "mediaType": "movie",
+      "title": "The Wrestler",
+      "releaseDate": "2023",
+      "externalIds": {
+        "letterboxd": "the-wrestler"
+      },
+      "awardYear": 2023,
+      "winner": "Iqbal H. CHOWDHURY"
+    },
+    {
+      "id": "biff-new-currents-2024-ma-cry-of-silence",
+      "mediaType": "movie",
+      "title": "MA – Cry of Silence",
+      "releaseDate": "2024",
+      "externalIds": {
+        "letterboxd": "ma-cry-of-silence"
+      },
+      "awardYear": 2024,
+      "winner": "The MAW NAING"
+    },
+    {
+      "id": "biff-new-currents-2024-the-land-of-morning-calm",
+      "mediaType": "movie",
+      "title": "The Land of Morning Calm",
+      "releaseDate": "2024",
+      "externalIds": {
+        "letterboxd": "the-land-of-morning-calm"
+      },
+      "awardYear": 2024,
+      "winner": "PARK Ri-woong"
+    },
+    {
+      "id": "biff-new-currents-2025-en-route-to",
+      "mediaType": "movie",
+      "title": "En Route To",
+      "releaseDate": "2025",
+      "externalIds": {
+        "letterboxd": "en-route-to"
+      },
+      "awardYear": 2025,
+      "winner": "YOO Jaein"
+    }
+  ]
+}

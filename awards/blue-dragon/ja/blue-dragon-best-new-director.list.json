@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T00:00:00Z",
+  "title": "青龍映画賞 — 新人監督賞",
+  "description": "青龍映画賞新人監督賞の歴代受賞者。",
+  "items": [
+    {
+      "id": "blue-dragon-2016-best-new-director-world-of-us",
+      "mediaType": "movie",
+      "title": "わたしたち",
+      "originalTitle": "우리들",
+      "awardYear": 2016,
+      "winner": "ユン・ガウン",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5502816"
+      }
+    },
+    {
+      "id": "blue-dragon-2017-best-new-director-our-love-story",
+      "mediaType": "movie",
+      "title": "Our Love Story",
+      "originalTitle": "연애담",
+      "awardYear": 2017,
+      "winner": "イ・ヒョンジュ",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt6129730"
+      }
+    },
+    {
+      "id": "blue-dragon-2018-best-new-director-microhabitat",
+      "mediaType": "movie",
+      "title": "Microhabitat",
+      "originalTitle": "소공녀",
+      "awardYear": 2018,
+      "winner": "チョン・ガウン",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt8191502"
+      }
+    },
+    {
+      "id": "blue-dragon-2019-best-new-director-exit",
+      "mediaType": "movie",
+      "title": "Exit",
+      "originalTitle": "엑시트",
+      "awardYear": 2019,
+      "winner": "イ・サングン",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10648440"
+      }
+    },
+    {
+      "id": "blue-dragon-2020-best-new-director-voice-silence",
+      "mediaType": "movie",
+      "title": "声もなく",
+      "originalTitle": "소리도 없이",
+      "awardYear": 2020,
+      "winner": "ホン・ウィジョン",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10431572"
+      }
+    },
+    {
+      "id": "blue-dragon-2021-best-new-director-day-i-died",
+      "mediaType": "movie",
+      "title": "The Day I Died: Unclosed Case",
+      "originalTitle": "내가 죽던 날",
+      "awardYear": 2021,
+      "winner": "パク・ジワン",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt13423318"
+      }
+    },
+    {
+      "id": "blue-dragon-2022-best-new-director-hunt",
+      "mediaType": "movie",
+      "title": "ハント",
+      "originalTitle": "헌트",
+      "awardYear": 2022,
+      "winner": "イ・ジョンジェ",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt6931658"
+      }
+    },
+    {
+      "id": "blue-dragon-2023-best-new-director-night-owl",
+      "mediaType": "movie",
+      "title": "梟―フクロウ―",
+      "originalTitle": "올빼미",
+      "awardYear": 2023,
+      "winner": "アン・テジン",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt23871504"
+      }
+    },
+    {
+      "id": "blue-dragon-2024-best-new-director-dream-songs",
+      "mediaType": "movie",
+      "title": "The Dream Songs",
+      "originalTitle": "너와 나",
+      "awardYear": 2024,
+      "winner": "チョ・ヒョンチョル",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt26757183"
+      }
+    },
+    {
+      "id": "blue-dragon-2025-best-new-director-its-okay",
+      "mediaType": "movie",
+      "title": "It's Okay!",
+      "originalTitle": "괜찮아 괜찮아 괜찮아!",
+      "awardYear": 2025,
+      "winner": "キム・ヘヨン",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt29579010"
+      }
+    }
+  ]
+}

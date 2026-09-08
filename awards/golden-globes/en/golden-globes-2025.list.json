@@ -1,0 +1,114 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "Golden Globes 2025",
+  "description": "Major film and television program winners at the 2025 Golden Globes.",
+  "items": [
+    {
+      "id": "golden-globes-2025-drama-the-brutalist",
+      "mediaType": "movie",
+      "title": "The Brutalist",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt8999762"
+      },
+      "award": "Best Motion Picture – Drama",
+      "awardYear": 2025,
+      "awardOrder": 1,
+      "winner": "The Brutalist"
+    },
+    {
+      "id": "golden-globes-2025-comedy-emilia-perez",
+      "mediaType": "movie",
+      "title": "Emilia Pérez",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt20221436"
+      },
+      "award": "Best Motion Picture – Musical or Comedy",
+      "awardYear": 2025,
+      "awardOrder": 2,
+      "winner": "Emilia Pérez"
+    },
+    {
+      "id": "golden-globes-2025-animated-flow",
+      "mediaType": "movie",
+      "title": "Flow",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt4772188"
+      },
+      "award": "Best Motion Picture – Animated",
+      "awardYear": 2025,
+      "awardOrder": 3,
+      "winner": "Flow"
+    },
+    {
+      "id": "golden-globes-2025-foreign-emilia-perez",
+      "mediaType": "movie",
+      "title": "Emilia Pérez",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt20221436"
+      },
+      "award": "Best Motion Picture – Non-English Language",
+      "awardYear": 2025,
+      "awardOrder": 4,
+      "winner": "Emilia Pérez"
+    },
+    {
+      "id": "golden-globes-2025-tv_drama-shogun",
+      "mediaType": "tv",
+      "title": "Shōgun",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt2788316"
+      },
+      "award": "Best Television Series – Drama",
+      "awardYear": 2025,
+      "awardOrder": 5,
+      "winner": "Shōgun"
+    },
+    {
+      "id": "golden-globes-2025-tv_comedy-hacks",
+      "mediaType": "tv",
+      "title": "Hacks",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt11815682"
+      },
+      "award": "Best Television Series – Musical or Comedy",
+      "awardYear": 2025,
+      "awardOrder": 6,
+      "winner": "Hacks"
+    },
+    {
+      "id": "golden-globes-2025-limited-baby-reindeer",
+      "mediaType": "tv",
+      "title": "Baby Reindeer",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt13649112"
+      },
+      "award": "Best Television Limited Series, Anthology Series or Motion Picture Made for Television",
+      "awardYear": 2025,
+      "awardOrder": 7,
+      "winner": "Baby Reindeer"
+    },
+    {
+      "id": "golden-globes-2025-boxoffice-wicked",
+      "mediaType": "movie",
+      "title": "Wicked",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt1262426"
+      },
+      "award": "Cinematic and Box Office Achievement",
+      "awardYear": 2025,
+      "awardOrder": 8,
+      "winner": "Wicked"
+    }
+  ]
+}

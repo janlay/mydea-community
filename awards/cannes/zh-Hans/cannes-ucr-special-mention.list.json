@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "title": "戛纳 — 一种关注特别提及",
+  "author": "Mydea",
+  "updatedAt": "2026-09-16T04:43:24Z",
+  "description": "戛纳电影节一种关注单元历届奖项。 一种关注特别提及.",
+  "tags": [
+    "award",
+    "cannes",
+    "prize"
+  ],
+  "items": [
+    {
+      "id": "cannes-ucr-mention-2000-me-you-them",
+      "mediaType": "movie",
+      "title": "Me You Them",
+      "awardYear": 2000,
+      "winner": "Andrucha Waddington"
+    },
+    {
+      "id": "cannes-ucr-mention-2012-children-of-sarajevo",
+      "mediaType": "movie",
+      "title": "Children of Sarajevo",
+      "awardYear": 2012,
+      "winner": "Aida Begić"
+    },
+    {
+      "id": "cannes-ucr-mention-2019-joan-of-arc",
+      "mediaType": "movie",
+      "title": "贞德",
+      "awardYear": 2019,
+      "winner": "Bruno Dumont",
+      "externalIds": {
+        "imdb": "tt8669356"
+      },
+      "releaseDate": "2019"
+    },
+    {
+      "id": "cannes-ucr-mention-2021-prayers-for-the-stolen",
+      "mediaType": "movie",
+      "title": "火之夜",
+      "awardYear": 2021,
+      "winner": "Tatiana Huezo",
+      "externalIds": {
+        "imdb": "tt10366574"
+      },
+      "releaseDate": "2021"
+    },
+    {
+      "id": "cannes-ucr-mention-2024-norah",
+      "mediaType": "movie",
+      "title": "诺拉",
+      "awardYear": 2024,
+      "winner": "Tawfik Alzaidi",
+      "externalIds": {
+        "imdb": "tt9376490",
+        "letterboxd": "norah"
+      },
+      "releaseDate": "2024"
+    }
+  ]
+}

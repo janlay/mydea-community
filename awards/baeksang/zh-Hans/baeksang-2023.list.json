@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T02:53:58Z",
+  "title": "百想艺术大赏 — 2023",
+  "description": "2023 年百想艺术大赏电影与电视主要奖项获奖记录。",
+  "items": [
+    {
+      "id": "baeksang-2023-film-grand-decision",
+      "mediaType": "movie",
+      "title": "分手的决心",
+      "originalTitle": "헤어질 결심",
+      "award": "电影大奖",
+      "awardYear": 2023,
+      "awardOrder": 1,
+      "winner": "分手的决心",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt12477480"
+      }
+    },
+    {
+      "id": "baeksang-2023-tv-grand-attorney-woo",
+      "mediaType": "tv",
+      "title": "非常律师禹英禑",
+      "originalTitle": "이상한 변호사 우영우",
+      "award": "电视大奖",
+      "awardYear": 2023,
+      "awardOrder": 2,
+      "winner": "Park Eun-bin",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt20869502"
+      }
+    },
+    {
+      "id": "baeksang-2023-film-best-night-owl",
+      "mediaType": "movie",
+      "title": "夜枭",
+      "originalTitle": "올빼미",
+      "award": "最佳电影",
+      "awardYear": 2023,
+      "awardOrder": 3,
+      "winner": "夜枭",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt23871504"
+      }
+    },
+    {
+      "id": "baeksang-2023-film-director-decision",
+      "mediaType": "movie",
+      "title": "分手的决心",
+      "originalTitle": "헤어질 결심",
+      "award": "电影最佳导演",
+      "awardYear": 2023,
+      "awardOrder": 4,
+      "winner": "Park Chan-wook",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt12477480"
+      }
+    },
+    {
+      "id": "baeksang-2023-film-actor-night-owl",
+      "mediaType": "movie",
+      "title": "夜枭",
+      "originalTitle": "올빼미",
+      "award": "电影最佳男主角",
+      "awardYear": 2023,
+      "awardOrder": 5,
+      "winner": "Ryu Jun-yeol",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt23871504"
+      }
+    },
+    {
+      "id": "baeksang-2023-film-actress-decision",
+      "mediaType": "movie",
+      "title": "分手的决心",
+      "originalTitle": "헤어질 결심",
+      "award": "电影最佳女主角",
+      "awardYear": 2023,
+      "awardOrder": 6,
+      "winner": "Tang Wei",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt12477480"
+      }
+    },
+    {
+      "id": "baeksang-2023-tv-best-glory",
+      "mediaType": "tv",
+      "title": "黑暗荣耀",
+      "originalTitle": "더 글로리",
+      "award": "最佳电视剧",
+      "awardYear": 2023,
+      "awardOrder": 7,
+      "winner": "黑暗荣耀",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt21344706"
+      }
+    },
+    {
+      "id": "baeksang-2023-tv-director-attorney-woo",
+      "mediaType": "tv",
+      "title": "非常律师禹英禑",
+      "originalTitle": "이상한 변호사 우영우",
+      "award": "电视最佳导演",
+      "awardYear": 2023,
+      "awardOrder": 8,
+      "winner": "Yoo In-shik",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt20869502"
+      }
+    },
+    {
+      "id": "baeksang-2023-tv-actor-reborn-rich",
+      "mediaType": "tv",
+      "title": "财阀家的小儿子",
+      "originalTitle": "재벌집 막내아들",
+      "award": "电视最佳男主角",
+      "awardYear": 2023,
+      "awardOrder": 9,
+      "winner": "Lee Sung-min",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt18352538"
+      }
+    },
+    {
+      "id": "baeksang-2023-tv-actress-glory",
+      "mediaType": "tv",
+      "title": "黑暗荣耀",
+      "originalTitle": "더 글로리",
+      "award": "电视最佳女主角",
+      "awardYear": 2023,
+      "awardOrder": 10,
+      "winner": "Song Hye-kyo",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt21344706"
+      }
+    }
+  ]
+}

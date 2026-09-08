@@ -1,0 +1,280 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "title": "豆瓣类型片徽章",
+  "description": "豆瓣徽章计划中 12 个类型片徽章的收藏片单。",
+  "tags": [
+    "douban",
+    "badge",
+    "plan",
+    "genre"
+  ],
+  "icon": "rosette",
+  "sections": [
+    {
+      "title": "🚀 科幻电影徽章",
+      "layout": "carousel",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "badge_plan_shortcut",
+          "value": "movie_scifi"
+        },
+        {
+          "name": "collection",
+          "value": "movie_scifi"
+        }
+      ]
+    },
+    {
+      "title": "🧸 动画电影徽章",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "badge_plan_shortcut",
+          "value": "film_genre_31"
+        },
+        {
+          "name": "collection",
+          "value": "film_genre_31"
+        }
+      ]
+    },
+    {
+      "title": "❤️ 爱情电影徽章",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "badge_plan_shortcut",
+          "value": "movie_love"
+        },
+        {
+          "name": "collection",
+          "value": "movie_love"
+        }
+      ]
+    },
+    {
+      "title": "🕵️ 悬疑电影徽章",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "badge_plan_shortcut",
+          "value": "film_genre_32"
+        },
+        {
+          "name": "collection",
+          "value": "film_genre_32"
+        }
+      ]
+    },
+    {
+      "title": "😄 喜剧电影徽章",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "badge_plan_shortcut",
+          "value": "movie_comedy"
+        },
+        {
+          "name": "collection",
+          "value": "movie_comedy"
+        }
+      ]
+    },
+    {
+      "title": "💥 动作电影徽章",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "badge_plan_shortcut",
+          "value": "movie_action"
+        },
+        {
+          "name": "collection",
+          "value": "movie_action"
+        }
+      ]
+    },
+    {
+      "title": "🏛️ 历史电影徽章",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "badge_plan_shortcut",
+          "value": "film_genre_44"
+        },
+        {
+          "name": "collection",
+          "value": "film_genre_44"
+        }
+      ]
+    },
+    {
+      "title": "👻 恐怖电影徽章",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "badge_plan_shortcut",
+          "value": "film_genre_34"
+        },
+        {
+          "name": "collection",
+          "value": "film_genre_34"
+        }
+      ]
+    },
+    {
+      "title": "🔪 犯罪电影徽章",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "badge_plan_shortcut",
+          "value": "film_genre_46"
+        },
+        {
+          "name": "collection",
+          "value": "film_genre_46"
+        }
+      ]
+    },
+    {
+      "title": "👤 传记电影徽章",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "badge_plan_shortcut",
+          "value": "film_genre_43"
+        },
+        {
+          "name": "collection",
+          "value": "film_genre_43"
+        }
+      ]
+    },
+    {
+      "title": "🗡️ 武侠电影徽章",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "badge_plan_shortcut",
+          "value": "film_genre_50"
+        },
+        {
+          "name": "collection",
+          "value": "film_genre_50"
+        }
+      ]
+    },
+    {
+      "title": "🏠 家庭电影徽章",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "badge_plan_shortcut",
+          "value": "film_genre_41"
+        },
+        {
+          "name": "collection",
+          "value": "film_genre_41"
+        }
+      ]
+    }
+  ]
+}

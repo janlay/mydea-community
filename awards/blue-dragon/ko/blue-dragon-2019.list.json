@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T02:54:20Z",
+  "title": "청룡영화상 — 2019",
+  "description": "2019년 청룡영화상 주요 10개 영화 부문 수상작.",
+  "items": [
+    {
+      "id": "blue-dragon-2019-best-film-parasite",
+      "mediaType": "movie",
+      "title": "기생충",
+      "englishTitle": "Parasite",
+      "award": "최우수작품상",
+      "awardYear": 2019,
+      "awardOrder": 1,
+      "winner": "Bong Joon-ho",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6751668"
+      }
+    },
+    {
+      "id": "blue-dragon-2019-best-director-parasite",
+      "mediaType": "movie",
+      "title": "기생충",
+      "englishTitle": "Parasite",
+      "award": "감독상",
+      "awardYear": 2019,
+      "awardOrder": 2,
+      "winner": "Bong Joon-ho",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6751668"
+      }
+    },
+    {
+      "id": "blue-dragon-2019-best-actor-innocent-witness",
+      "mediaType": "movie",
+      "title": "증인",
+      "englishTitle": "Innocent Witness",
+      "award": "남우주연상",
+      "awardYear": 2019,
+      "awardOrder": 3,
+      "winner": "Jung Woo-sung",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt8562562"
+      }
+    },
+    {
+      "id": "blue-dragon-2019-best-actress-parasite",
+      "mediaType": "movie",
+      "title": "기생충",
+      "englishTitle": "Parasite",
+      "award": "여우주연상",
+      "awardYear": 2019,
+      "awardOrder": 4,
+      "winner": "Cho Yeo-jeong",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6751668"
+      }
+    },
+    {
+      "id": "blue-dragon-2019-best-supporting-actor-default",
+      "mediaType": "movie",
+      "title": "국가부도의 날",
+      "englishTitle": "Default",
+      "award": "남우조연상",
+      "awardYear": 2019,
+      "awardOrder": 5,
+      "winner": "Jo Woo-jin",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7233726"
+      }
+    },
+    {
+      "id": "blue-dragon-2019-best-supporting-actress-parasite",
+      "mediaType": "movie",
+      "title": "기생충",
+      "englishTitle": "Parasite",
+      "award": "여우조연상",
+      "awardYear": 2019,
+      "awardOrder": 6,
+      "winner": "Lee Jung-eun",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6751668"
+      }
+    },
+    {
+      "id": "blue-dragon-2019-best-new-director-exit",
+      "mediaType": "movie",
+      "title": "엑시트",
+      "englishTitle": "Exit",
+      "award": "신인감독상",
+      "awardYear": 2019,
+      "awardOrder": 7,
+      "winner": "Lee Sang-geun",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10648440"
+      }
+    },
+    {
+      "id": "blue-dragon-2019-best-new-actor-quantum-physics",
+      "mediaType": "movie",
+      "title": "양자물리학",
+      "englishTitle": "By Quantum Physics: A Nightlife Venture",
+      "award": "신인남우상",
+      "awardYear": 2019,
+      "awardOrder": 8,
+      "winner": "Park Hae-soo",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt11022284"
+      }
+    },
+    {
+      "id": "blue-dragon-2019-best-new-actress-another-child",
+      "mediaType": "movie",
+      "title": "미성년",
+      "englishTitle": "Another Child",
+      "award": "신인여우상",
+      "awardYear": 2019,
+      "awardOrder": 9,
+      "winner": "Kim Hye-jun",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt8991322"
+      }
+    },
+    {
+      "id": "blue-dragon-2019-best-screenplay-house-hummingbird",
+      "mediaType": "movie",
+      "title": "벌새",
+      "englishTitle": "House of Hummingbird",
+      "award": "각본상",
+      "awardYear": 2019,
+      "awardOrder": 10,
+      "winner": "Kim Bora",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8951086"
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "title": "戛纳 — 一种关注最佳男演员",
+  "author": "Mydea",
+  "updatedAt": "2026-09-16T04:43:24Z",
+  "description": "戛纳电影节一种关注单元历届奖项。 一种关注最佳男演员.",
+  "tags": [
+    "award",
+    "cannes",
+    "prize"
+  ],
+  "items": [
+    {
+      "id": "cannes-ucr-actor-2006-the-violin",
+      "mediaType": "movie",
+      "title": "The Violin",
+      "awardYear": 2006,
+      "winner": "Ángel Tavira"
+    },
+    {
+      "id": "cannes-ucr-actor-2014-charlie-s-country",
+      "mediaType": "movie",
+      "title": "Charlie's Country",
+      "awardYear": 2014,
+      "winner": "David Gulpilil"
+    },
+    {
+      "id": "cannes-ucr-actor-2018-girl",
+      "mediaType": "movie",
+      "title": "女孩",
+      "awardYear": 2018,
+      "winner": "Victor Polster",
+      "externalIds": {
+        "tmdb": "515916",
+        "imdb": "tt8254556"
+      },
+      "releaseDate": "2018"
+    },
+    {
+      "id": "cannes-ucr-actor-2025-urchin",
+      "mediaType": "movie",
+      "title": "街头顽童",
+      "awardYear": 2025,
+      "winner": "Frank Dillane",
+      "externalIds": {
+        "imdb": "tt35715953"
+      },
+      "releaseDate": "2025"
+    },
+    {
+      "id": "cannes-ucr-actor-2026-congo-boy",
+      "mediaType": "movie",
+      "title": "刚果男孩",
+      "awardYear": 2026,
+      "winner": "Bradley Fiomona Dembeasset",
+      "externalIds": {
+        "imdb": "tt41592086"
+      }
+    }
+  ]
+}

@@ -1,0 +1,507 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T02:57:20Z",
+  "title": "홍콩 영화 금상장 — 남우주연상",
+  "description": "홍콩 영화 금상장 역대 남우주연상 수상 기록.",
+  "items": [
+    {
+      "id": "hkfa-best-actor-1982-hkfa-film",
+      "mediaType": "movie",
+      "title": "미스터 부: 마등보표",
+      "releaseDate": "1981",
+      "externalIds": {
+        "imdb": "tt0082761"
+      },
+      "awardYear": 1982,
+      "winner": "許冠文"
+    },
+    {
+      "id": "hkfa-best-actor-1983-hkfa-film",
+      "mediaType": "movie",
+      "title": "최가박당",
+      "releaseDate": "1982",
+      "externalIds": {
+        "imdb": "tt0084955"
+      },
+      "awardYear": 1983,
+      "winner": "麥嘉"
+    },
+    {
+      "id": "hkfa-best-actor-1984-hkfa-film",
+      "mediaType": "movie",
+      "title": "垂簾聽政",
+      "releaseDate": "1983",
+      "externalIds": {
+        "imdb": "tt0085336"
+      },
+      "awardYear": 1984,
+      "winner": "양가휘"
+    },
+    {
+      "id": "hkfa-best-actor-1985-hkfa-film",
+      "mediaType": "movie",
+      "title": "공복",
+      "releaseDate": "1984",
+      "externalIds": {
+        "imdb": "tt0087352"
+      },
+      "awardYear": 1985,
+      "winner": "李修賢"
+    },
+    {
+      "id": "hkfa-best-actor-1986-hkfa-film",
+      "mediaType": "movie",
+      "title": "何必有我?",
+      "releaseDate": "1985",
+      "externalIds": {
+        "imdb": "tt0089259"
+      },
+      "awardYear": 1986,
+      "winner": "鄭則仕"
+    },
+    {
+      "id": "hkfa-best-actor-1987-hkfa-film",
+      "mediaType": "movie",
+      "title": "영웅본색",
+      "releaseDate": "1986",
+      "externalIds": {
+        "imdb": "tt0092263"
+      },
+      "awardYear": 1987,
+      "winner": "주윤발",
+      "originalTitle": "英雄本色"
+    },
+    {
+      "id": "hkfa-best-actor-1988-hkfa-film",
+      "mediaType": "movie",
+      "title": "용호풍운",
+      "releaseDate": "1987",
+      "externalIds": {
+        "imdb": "tt0093435"
+      },
+      "awardYear": 1988,
+      "winner": "주윤발"
+    },
+    {
+      "id": "hkfa-best-actor-1989-hkfa-film",
+      "mediaType": "movie",
+      "title": "칠소복",
+      "releaseDate": "1988",
+      "externalIds": {
+        "imdb": "tt0095937"
+      },
+      "awardYear": 1989,
+      "winner": "홍금보"
+    },
+    {
+      "id": "hkfa-best-actor-1990-hkfa-film",
+      "mediaType": "movie",
+      "title": "우견아랑",
+      "releaseDate": "1989",
+      "externalIds": {
+        "imdb": "tt0098694"
+      },
+      "awardYear": 1990,
+      "winner": "주윤발"
+    },
+    {
+      "id": "hkfa-best-actor-1991-hkfa-film",
+      "mediaType": "movie",
+      "title": "아비정전",
+      "releaseDate": "1990",
+      "externalIds": {
+        "imdb": "tt0101258"
+      },
+      "awardYear": 1991,
+      "winner": "장국영",
+      "originalTitle": "阿飛正傳"
+    },
+    {
+      "id": "hkfa-best-actor-1992-hkfa-film",
+      "mediaType": "movie",
+      "title": "雙城故事",
+      "releaseDate": "1991",
+      "externalIds": {
+        "imdb": "tt0102886"
+      },
+      "awardYear": 1992,
+      "winner": "증지위"
+    },
+    {
+      "id": "hkfa-best-actor-1993-92",
+      "mediaType": "movie",
+      "title": "92黑玫瑰對黑玫瑰",
+      "releaseDate": "1992",
+      "externalIds": {
+        "letterboxd": "92"
+      },
+      "awardYear": 1993,
+      "winner": "양가휘"
+    },
+    {
+      "id": "hkfa-best-actor-1994-hkfa-film",
+      "mediaType": "movie",
+      "title": "언톨드 스토리: 인육만두",
+      "releaseDate": "1993",
+      "externalIds": {
+        "imdb": "tt0103743"
+      },
+      "awardYear": 1994,
+      "winner": "황추생"
+    },
+    {
+      "id": "hkfa-best-actor-1995-hkfa-film",
+      "mediaType": "movie",
+      "title": "중경삼림",
+      "releaseDate": "1994",
+      "externalIds": {
+        "imdb": "tt0109424"
+      },
+      "awardYear": 1995,
+      "winner": "양조위",
+      "originalTitle": "重慶森林"
+    },
+    {
+      "id": "hkfa-best-actor-1996-hkfa-film",
+      "mediaType": "movie",
+      "title": "여인사십",
+      "releaseDate": "1995",
+      "externalIds": {
+        "imdb": "tt0111767"
+      },
+      "awardYear": 1996,
+      "winner": "喬宏",
+      "originalTitle": "女人四十"
+    },
+    {
+      "id": "hkfa-best-actor-1997-hkfa-film",
+      "mediaType": "movie",
+      "title": "삼개수상적경찰",
+      "releaseDate": "1996",
+      "externalIds": {
+        "imdb": "tt0116902"
+      },
+      "awardYear": 1997,
+      "winner": "鄭則仕"
+    },
+    {
+      "id": "hkfa-best-actor-1998-hkfa-film",
+      "mediaType": "movie",
+      "title": "해피 투게더",
+      "releaseDate": "1997",
+      "externalIds": {
+        "imdb": "tt0118845"
+      },
+      "awardYear": 1998,
+      "winner": "양조위"
+    },
+    {
+      "id": "hkfa-best-actor-1999-hkfa-film",
+      "mediaType": "movie",
+      "title": "야수형경",
+      "releaseDate": "1998",
+      "externalIds": {
+        "imdb": "tt0157366"
+      },
+      "awardYear": 1999,
+      "winner": "황추생"
+    },
+    {
+      "id": "hkfa-best-actor-2000-hkfa-film",
+      "mediaType": "movie",
+      "title": "암전",
+      "releaseDate": "1999",
+      "externalIds": {
+        "imdb": "tt0216165"
+      },
+      "awardYear": 2000,
+      "winner": "유덕화"
+    },
+    {
+      "id": "hkfa-best-actor-2001-hkfa-film",
+      "mediaType": "movie",
+      "title": "화양연화",
+      "releaseDate": "2000",
+      "externalIds": {
+        "imdb": "tt0118694"
+      },
+      "awardYear": 2001,
+      "winner": "양조위",
+      "originalTitle": "花樣年華"
+    },
+    {
+      "id": "hkfa-best-actor-2002-hkfa-film",
+      "mediaType": "movie",
+      "title": "소림축구",
+      "releaseDate": "2001",
+      "externalIds": {
+        "imdb": "tt0286112"
+      },
+      "awardYear": 2002,
+      "winner": "주성치",
+      "originalTitle": "少林足球"
+    },
+    {
+      "id": "hkfa-best-actor-2003-hkfa-film",
+      "mediaType": "movie",
+      "title": "무간도",
+      "releaseDate": "2002",
+      "externalIds": {
+        "imdb": "tt0338564"
+      },
+      "awardYear": 2003,
+      "winner": "양조위",
+      "originalTitle": "無間道"
+    },
+    {
+      "id": "hkfa-best-actor-2004-hkfa-film",
+      "mediaType": "movie",
+      "title": "무적의 소림쿵푸 마스터",
+      "releaseDate": "2003",
+      "externalIds": {
+        "imdb": "tt0374184"
+      },
+      "awardYear": 2004,
+      "winner": "유덕화"
+    },
+    {
+      "id": "hkfa-best-actor-2005-2046",
+      "mediaType": "movie",
+      "title": "2046",
+      "releaseDate": "2004",
+      "externalIds": {
+        "letterboxd": "2046"
+      },
+      "awardYear": 2005,
+      "winner": "양조위"
+    },
+    {
+      "id": "hkfa-best-actor-2006-hkfa-film",
+      "mediaType": "movie",
+      "title": "흑사회",
+      "releaseDate": "2005",
+      "externalIds": {
+        "imdb": "tt0434008"
+      },
+      "awardYear": 2006,
+      "winner": "양가휘",
+      "originalTitle": "黑社會"
+    },
+    {
+      "id": "hkfa-best-actor-2007-hkfa-film",
+      "mediaType": "movie",
+      "title": "我要成名",
+      "releaseDate": "2006",
+      "externalIds": {
+        "imdb": "tt0843287"
+      },
+      "awardYear": 2007,
+      "winner": "유청운"
+    },
+    {
+      "id": "hkfa-best-actor-2008-hkfa-film",
+      "mediaType": "movie",
+      "title": "명장",
+      "releaseDate": "2007",
+      "externalIds": {
+        "imdb": "tt0913968"
+      },
+      "awardYear": 2008,
+      "winner": "李連杰",
+      "originalTitle": "投名狀"
+    },
+    {
+      "id": "hkfa-best-actor-2009-hkfa-film",
+      "mediaType": "movie",
+      "title": "비스트 스토커",
+      "releaseDate": "2008",
+      "externalIds": {
+        "imdb": "tt1330525"
+      },
+      "awardYear": 2009,
+      "winner": "장가휘"
+    },
+    {
+      "id": "hkfa-best-actor-2010-hkfa-film",
+      "mediaType": "movie",
+      "title": "세월신투",
+      "releaseDate": "2009",
+      "externalIds": {
+        "imdb": "tt1602572"
+      },
+      "awardYear": 2010,
+      "winner": "임달화"
+    },
+    {
+      "id": "hkfa-best-actor-2011-hkfa-film",
+      "mediaType": "movie",
+      "title": "비스트 스토커 2: 증인 두번째 이야기",
+      "releaseDate": "2010",
+      "externalIds": {
+        "imdb": "tt1535492"
+      },
+      "awardYear": 2011,
+      "winner": "사정봉"
+    },
+    {
+      "id": "hkfa-best-actor-2012-hkfa-film",
+      "mediaType": "movie",
+      "title": "심플 라이프",
+      "releaseDate": "2011",
+      "externalIds": {
+        "imdb": "tt2008006"
+      },
+      "awardYear": 2012,
+      "winner": "유덕화",
+      "originalTitle": "桃姐"
+    },
+    {
+      "id": "hkfa-best-actor-2013-hkfa-film",
+      "mediaType": "movie",
+      "title": "콜드 워",
+      "releaseDate": "2012",
+      "externalIds": {
+        "imdb": "tt2186715"
+      },
+      "awardYear": 2013,
+      "winner": "양가휘",
+      "originalTitle": "寒戰"
+    },
+    {
+      "id": "hkfa-best-actor-2014-hkfa-film",
+      "mediaType": "movie",
+      "title": "격전",
+      "releaseDate": "2013",
+      "externalIds": {
+        "imdb": "tt3003668"
+      },
+      "awardYear": 2014,
+      "winner": "장가휘"
+    },
+    {
+      "id": "hkfa-best-actor-2015-3",
+      "mediaType": "movie",
+      "title": "竊聽風雲3",
+      "releaseDate": "2014",
+      "externalIds": {
+        "letterboxd": "3"
+      },
+      "awardYear": 2015,
+      "winner": "유청운"
+    },
+    {
+      "id": "hkfa-best-actor-2016-hkfa-film",
+      "mediaType": "movie",
+      "title": "답혈심매",
+      "releaseDate": "2015",
+      "externalIds": {
+        "imdb": "tt4417522"
+      },
+      "awardYear": 2016,
+      "winner": "곽부성",
+      "originalTitle": "踏血尋梅"
+    },
+    {
+      "id": "hkfa-2017-best-actor-4379800",
+      "mediaType": "movie",
+      "title": "트리비사",
+      "awardYear": 2017,
+      "winner": "임가동",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4379800"
+      },
+      "originalTitle": "樹大招風"
+    },
+    {
+      "id": "hkfa-2018-best-actor-7245176",
+      "mediaType": "movie",
+      "title": "파라독스",
+      "awardYear": 2018,
+      "winner": "고천락",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7245176"
+      }
+    },
+    {
+      "id": "hkfa-2019-best-actor-8497794",
+      "mediaType": "movie",
+      "title": "스틸휴먼",
+      "awardYear": 2019,
+      "winner": "황추생",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8497794"
+      }
+    },
+    {
+      "id": "hkfa-2020-best-actor-10975520",
+      "mediaType": "movie",
+      "title": "아저씨 x 아저씨",
+      "awardYear": 2020,
+      "winner": "太保",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10975520"
+      }
+    },
+    {
+      "id": "hkfa-2022-best-actor-14713814",
+      "mediaType": "movie",
+      "title": "살출개황혼",
+      "awardYear": 2022,
+      "winner": "謝賢",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14713814"
+      }
+    },
+    {
+      "id": "hkfa-2023-best-actor-10283270",
+      "mediaType": "movie",
+      "title": "神探大戰",
+      "awardYear": 2023,
+      "winner": "유청운",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt10283270"
+      }
+    },
+    {
+      "id": "hkfa-2024-best-actor-14099796",
+      "mediaType": "movie",
+      "title": "골드핑거",
+      "awardYear": 2024,
+      "winner": "양조위",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt14099796"
+      }
+    },
+    {
+      "id": "hkfa-2025-best-actor-33499985",
+      "mediaType": "movie",
+      "title": "파파",
+      "awardYear": 2025,
+      "winner": "유청운",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt33499985"
+      }
+    },
+    {
+      "id": "hkfa-2026-best-actor-34610311",
+      "mediaType": "movie",
+      "title": "포풍추영",
+      "awardYear": 2026,
+      "winner": "양가휘",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt34610311"
+      }
+    }
+  ]
+}

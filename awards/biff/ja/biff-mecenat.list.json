@@ -1,0 +1,408 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "釜山国際映画祭 — BIFFメセナ賞",
+  "description": "釜山国際映画祭「BIFFメセナ賞」の歴代受賞ドキュメンタリー。",
+  "items": [
+    {
+      "id": "biff-mecenat-2008-mental",
+      "mediaType": "movie",
+      "title": "Mental",
+      "releaseDate": "2008",
+      "externalIds": {
+        "imdb": "tt1283971",
+        "letterboxd": "mental-2008"
+      },
+      "awardYear": 2008,
+      "winner": "SODA Kazuhiro"
+    },
+    {
+      "id": "biff-mecenat-2008-old-partner",
+      "mediaType": "movie",
+      "title": "Old Partner",
+      "releaseDate": "2008",
+      "externalIds": {
+        "imdb": "tt1334549",
+        "letterboxd": "old-partner"
+      },
+      "awardYear": 2008,
+      "winner": "LEE Chung-ryoul"
+    },
+    {
+      "id": "biff-mecenat-2009-earths-women",
+      "mediaType": "movie",
+      "title": "Earth's Women",
+      "releaseDate": "2009",
+      "externalIds": {
+        "letterboxd": "earths-women"
+      },
+      "awardYear": 2009,
+      "winner": "KWON Woojung"
+    },
+    {
+      "id": "biff-mecenat-2009-the-other-song",
+      "mediaType": "movie",
+      "title": "The Other Song",
+      "releaseDate": "2009",
+      "externalIds": {
+        "letterboxd": "the-other-song"
+      },
+      "awardYear": 2009,
+      "winner": "Saba DEWAN"
+    },
+    {
+      "id": "biff-mecenat-2010-miracle-on-jongno-street",
+      "mediaType": "movie",
+      "title": "Miracle on Jongno Street",
+      "releaseDate": "2010",
+      "externalIds": {
+        "letterboxd": "miracle-on-jongno-street"
+      },
+      "awardYear": 2010,
+      "winner": "LEE Hyuk-sang"
+    },
+    {
+      "id": "biff-mecenat-2010-new-castle",
+      "mediaType": "movie",
+      "title": "New Castle",
+      "releaseDate": "2010",
+      "externalIds": {
+        "letterboxd": "new-castle"
+      },
+      "awardYear": 2010,
+      "winner": "GUO Hengqi"
+    },
+    {
+      "id": "biff-mecenat-2011-sea-of-butterfly",
+      "mediaType": "movie",
+      "title": "Sea of Butterfly",
+      "releaseDate": "2011",
+      "externalIds": {
+        "letterboxd": "sea-of-butterfly"
+      },
+      "awardYear": 2011,
+      "winner": "PARK Bae-il"
+    },
+    {
+      "id": "biff-mecenat-2011-shoji-and-takao",
+      "mediaType": "movie",
+      "title": "Shoji & Takao",
+      "releaseDate": "2011",
+      "externalIds": {
+        "letterboxd": "shoji-and-takao"
+      },
+      "awardYear": 2011,
+      "winner": "IDE Yoko"
+    },
+    {
+      "id": "biff-mecenat-2012-anxiety",
+      "mediaType": "movie",
+      "title": "Anxiety",
+      "releaseDate": "2012",
+      "externalIds": {
+        "letterboxd": "anxiety"
+      },
+      "awardYear": 2012,
+      "winner": "MIN Hwan-ki"
+    },
+    {
+      "id": "biff-mecenat-2012-embers",
+      "mediaType": "movie",
+      "title": "Embers",
+      "releaseDate": "2012",
+      "externalIds": {
+        "letterboxd": "embers"
+      },
+      "awardYear": 2012,
+      "winner": "Tamara STEPANYAN"
+    },
+    {
+      "id": "biff-mecenat-2013-jalanan",
+      "mediaType": "movie",
+      "title": "Jalanan",
+      "releaseDate": "2013",
+      "externalIds": {
+        "letterboxd": "jalanan"
+      },
+      "awardYear": 2013,
+      "winner": "Daniel ZIV"
+    },
+    {
+      "id": "biff-mecenat-2013-non-fiction-diary",
+      "mediaType": "movie",
+      "title": "Non-fiction Diary",
+      "releaseDate": "2013",
+      "externalIds": {
+        "letterboxd": "non-fiction-diary"
+      },
+      "awardYear": 2013,
+      "winner": "JUNG Yoonsuk"
+    },
+    {
+      "id": "biff-mecenat-2014-collapse",
+      "mediaType": "movie",
+      "title": "Collapse",
+      "releaseDate": "2014",
+      "externalIds": {
+        "letterboxd": "collapse"
+      },
+      "awardYear": 2014,
+      "winner": "MUN Jeonghyun, LEE Wonwoo"
+    },
+    {
+      "id": "biff-mecenat-2014-the-storm-makers",
+      "mediaType": "movie",
+      "title": "The Storm Makers",
+      "releaseDate": "2014",
+      "externalIds": {
+        "letterboxd": "the-storm-makers"
+      },
+      "awardYear": 2014,
+      "winner": "Guillaume SUON"
+    },
+    {
+      "id": "biff-mecenat-2015-boys-run",
+      "mediaType": "movie",
+      "title": "Boys Run",
+      "releaseDate": "2015",
+      "externalIds": {
+        "letterboxd": "boys-run"
+      },
+      "awardYear": 2015,
+      "winner": "KANG Seokpil"
+    },
+    {
+      "id": "biff-mecenat-2015-look-love",
+      "mediaType": "movie",
+      "title": "Look Love",
+      "releaseDate": "2015",
+      "externalIds": {
+        "letterboxd": "look-love"
+      },
+      "awardYear": 2015,
+      "winner": "YE Yun"
+    },
+    {
+      "id": "biff-mecenat-2016-neighborhood",
+      "mediaType": "movie",
+      "title": "Neighborhood",
+      "releaseDate": "2016",
+      "externalIds": {
+        "letterboxd": "neighborhood"
+      },
+      "awardYear": 2016,
+      "winner": "SUNG Seungtaek"
+    },
+    {
+      "id": "biff-mecenat-2016-the-crescent-rising",
+      "mediaType": "movie",
+      "title": "The Crescent Rising",
+      "releaseDate": "2016",
+      "externalIds": {
+        "letterboxd": "the-crescent-rising"
+      },
+      "awardYear": 2016,
+      "winner": "Sheron DAYOC"
+    },
+    {
+      "id": "biff-mecenat-2017-sennan-asbestos-disaster",
+      "mediaType": "movie",
+      "title": "Sennan Asbestos Disaster",
+      "releaseDate": "2017",
+      "externalIds": {
+        "letterboxd": "sennan-asbestos-disaster"
+      },
+      "awardYear": 2017,
+      "winner": "HARA Kazuo"
+    },
+    {
+      "id": "biff-mecenat-2017-soseongri",
+      "mediaType": "movie",
+      "title": "Soseongri",
+      "releaseDate": "2017",
+      "externalIds": {
+        "letterboxd": "soseongri"
+      },
+      "awardYear": 2017,
+      "winner": "PARK Baeil"
+    },
+    {
+      "id": "biff-mecenat-2018-army",
+      "mediaType": "movie",
+      "title": "ARMY",
+      "releaseDate": "2018",
+      "externalIds": {
+        "letterboxd": "army"
+      },
+      "awardYear": 2018,
+      "winner": "Kelvin Kyungkun PARK"
+    },
+    {
+      "id": "biff-mecenat-2018-opening-closing-forgetting",
+      "mediaType": "movie",
+      "title": "Opening Closing Forgetting",
+      "releaseDate": "2018",
+      "externalIds": {
+        "letterboxd": "opening-closing-forgetting"
+      },
+      "awardYear": 2018,
+      "winner": "James T. HONG"
+    },
+    {
+      "id": "biff-mecenat-2019-noodle-kid",
+      "mediaType": "movie",
+      "title": "Noodle Kid",
+      "releaseDate": "2019",
+      "externalIds": {
+        "letterboxd": "noodle-kid"
+      },
+      "awardYear": 2019,
+      "winner": "HUO Ning"
+    },
+    {
+      "id": "biff-mecenat-2019-underground",
+      "mediaType": "movie",
+      "title": "Underground",
+      "releaseDate": "2019",
+      "externalIds": {
+        "letterboxd": "underground"
+      },
+      "awardYear": 2019,
+      "winner": "KIM Jeong-keun"
+    },
+    {
+      "id": "biff-mecenat-2020-sister-j",
+      "mediaType": "movie",
+      "title": "Sister J",
+      "releaseDate": "2020",
+      "externalIds": {
+        "letterboxd": "sister-j"
+      },
+      "awardYear": 2020,
+      "winner": "LEE Soojung"
+    },
+    {
+      "id": "biff-mecenat-2020-the-art-of-living-in-danger",
+      "mediaType": "movie",
+      "title": "The Art of Living in Danger",
+      "releaseDate": "2020",
+      "externalIds": {
+        "letterboxd": "the-art-of-living-in-danger"
+      },
+      "awardYear": 2020,
+      "winner": "Mina KESHAVARZ"
+    },
+    {
+      "id": "biff-mecenat-2021-206-unearthed",
+      "mediaType": "movie",
+      "title": "206: Unearthed",
+      "releaseDate": "2021",
+      "externalIds": {
+        "letterboxd": "206-unearthed"
+      },
+      "awardYear": 2021,
+      "winner": "HEO Chul-nyung"
+    },
+    {
+      "id": "biff-mecenat-2021-self-portrait-fairy-tale-in-47km",
+      "mediaType": "movie",
+      "title": "Self-Portrait: Fairy Tale in 47KM",
+      "releaseDate": "2021",
+      "externalIds": {
+        "letterboxd": "self-portrait-fairy-tale-in-47km"
+      },
+      "awardYear": 2021,
+      "winner": "ZHANG Mengqi"
+    },
+    {
+      "id": "biff-mecenat-2022-a-table-for-two",
+      "mediaType": "movie",
+      "title": "A Table for Two",
+      "releaseDate": "2022",
+      "externalIds": {
+        "letterboxd": "a-table-for-two"
+      },
+      "awardYear": 2022,
+      "winner": "KIM Boram"
+    },
+    {
+      "id": "biff-mecenat-2022-the-football-aficionado",
+      "mediaType": "movie",
+      "title": "The Football Aficionado",
+      "releaseDate": "2022",
+      "externalIds": {
+        "letterboxd": "the-football-aficionado"
+      },
+      "awardYear": 2022,
+      "winner": "Sharmin MOJTAHEDZADEH, Paliz KHOSHDEL"
+    },
+    {
+      "id": "biff-mecenat-2023-republic",
+      "mediaType": "movie",
+      "title": "Republic",
+      "releaseDate": "2023",
+      "externalIds": {
+        "letterboxd": "republic"
+      },
+      "awardYear": 2023,
+      "winner": "JIN Jiang"
+    },
+    {
+      "id": "biff-mecenat-2023-the-voices-of-the-silenced",
+      "mediaType": "movie",
+      "title": "The Voices of the Silenced",
+      "releaseDate": "2023",
+      "externalIds": {
+        "letterboxd": "the-voices-of-the-silenced"
+      },
+      "awardYear": 2023,
+      "winner": "PARK Soo-nam, PARK Maeui"
+    },
+    {
+      "id": "biff-mecenat-2024-another-home",
+      "mediaType": "movie",
+      "title": "Another Home",
+      "releaseDate": "2024",
+      "externalIds": {
+        "letterboxd": "another-home"
+      },
+      "awardYear": 2024,
+      "winner": "Frankie SIN"
+    },
+    {
+      "id": "biff-mecenat-2024-works-and-days",
+      "mediaType": "movie",
+      "title": "Works and Days",
+      "releaseDate": "2024",
+      "externalIds": {
+        "letterboxd": "works-and-days"
+      },
+      "awardYear": 2024,
+      "winner": "PARK Minsoo, AHN Kearnhyung"
+    },
+    {
+      "id": "biff-mecenat-2025-raining-dust",
+      "mediaType": "movie",
+      "title": "Raining Dust",
+      "releaseDate": "2025",
+      "externalIds": {
+        "letterboxd": "raining-dust"
+      },
+      "awardYear": 2025,
+      "winner": "JU Romi, KIM Taeil"
+    },
+    {
+      "id": "biff-mecenat-2025-singing-wings",
+      "mediaType": "movie",
+      "title": "Singing Wings",
+      "releaseDate": "2025",
+      "externalIds": {
+        "letterboxd": "singing-wings"
+      },
+      "awardYear": 2025,
+      "winner": "Hemen KHALEDI"
+    }
+  ]
+}

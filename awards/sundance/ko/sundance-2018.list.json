@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-16T04:39:02Z",
+  "title": "2018 선댄스 영화제 수상작",
+  "description": "2018 선댄스 영화제 4개 핵심 장편 경쟁 부문 심사위원대상 수상작.",
+  "tags": [
+    "award",
+    "park-city",
+    "decade"
+  ],
+  "items": [
+    {
+      "id": "sundance-us-dramatic-2018-the-miseducation-of-cameron-post",
+      "mediaType": "movie",
+      "title": "The Miseducation of Cameron Post",
+      "award": "미국 극영화 심사위원대상",
+      "awardYear": 2018,
+      "awardOrder": 1,
+      "winner": "Desiree Akhavan",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt6257174"
+      }
+    },
+    {
+      "id": "sundance-us-documentary-2018-kailash",
+      "mediaType": "movie",
+      "title": "Kailash",
+      "award": "미국 다큐멘터리 심사위원대상",
+      "awardYear": 2018,
+      "awardOrder": 2,
+      "winner": "Derek Doneen",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7689912"
+      }
+    },
+    {
+      "id": "sundance-world-dramatic-2018-butterflies",
+      "mediaType": "movie",
+      "title": "Butterflies",
+      "award": "월드 시네마 극영화 심사위원대상",
+      "awardYear": 2018,
+      "awardOrder": 3,
+      "winner": "Tolga Karaçelik",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7318202"
+      }
+    },
+    {
+      "id": "sundance-world-documentary-2018-of-fathers-and-sons",
+      "mediaType": "movie",
+      "title": "Of Fathers and Sons",
+      "award": "월드 시네마 다큐멘터리 심사위원대상",
+      "awardYear": 2018,
+      "awardOrder": 4,
+      "winner": "Talal Derki",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7519174"
+      }
+    }
+  ]
+}

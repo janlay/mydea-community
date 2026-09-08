@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T05:03:58Z",
+  "title": "アカデミー賞 2021 受賞一覧",
+  "description": "第93回アカデミー賞の主要映画部門の受賞作品と受賞者。",
+  "items": [
+    {
+      "id": "oscars-2021-best-picture-nomadland",
+      "mediaType": "movie",
+      "title": "ノマドランド",
+      "award": "作品賞",
+      "awardYear": 2021,
+      "awardOrder": 1,
+      "winner": "Frances McDormand, Peter Spears, Mollye Asher, Dan Janvey & Chloé Zhao",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt9770150"
+      }
+    },
+    {
+      "id": "oscars-2021-best-director-nomadland",
+      "mediaType": "movie",
+      "title": "ノマドランド",
+      "award": "監督賞",
+      "awardYear": 2021,
+      "awardOrder": 2,
+      "winner": "Chloé Zhao",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt9770150"
+      }
+    },
+    {
+      "id": "oscars-2021-best-actor-the-father",
+      "mediaType": "movie",
+      "title": "The Father",
+      "award": "主演男優賞",
+      "awardYear": 2021,
+      "awardOrder": 3,
+      "winner": "Anthony Hopkins",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10272386"
+      }
+    },
+    {
+      "id": "oscars-2021-best-actress-nomadland",
+      "mediaType": "movie",
+      "title": "ノマドランド",
+      "award": "主演女優賞",
+      "awardYear": 2021,
+      "awardOrder": 4,
+      "winner": "Frances McDormand",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt9770150"
+      }
+    },
+    {
+      "id": "oscars-2021-best-supporting-actor-judas-and-the-black-messiah",
+      "mediaType": "movie",
+      "title": "Judas and the Black Messiah",
+      "award": "助演男優賞",
+      "awardYear": 2021,
+      "awardOrder": 5,
+      "winner": "Daniel Kaluuya",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt9784798"
+      }
+    },
+    {
+      "id": "oscars-2021-best-supporting-actress-minari",
+      "mediaType": "movie",
+      "title": "ミナリ",
+      "award": "助演女優賞",
+      "awardYear": 2021,
+      "awardOrder": 6,
+      "winner": "Youn Yuh-jung",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10633456"
+      }
+    },
+    {
+      "id": "oscars-2021-best-original-screenplay-promising-young-woman",
+      "mediaType": "movie",
+      "title": "Promising Young Woman",
+      "award": "脚本賞",
+      "awardYear": 2021,
+      "awardOrder": 7,
+      "winner": "Emerald Fennell",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt9620292"
+      }
+    },
+    {
+      "id": "oscars-2021-best-adapted-screenplay-the-father",
+      "mediaType": "movie",
+      "title": "The Father",
+      "award": "脚色賞",
+      "awardYear": 2021,
+      "awardOrder": 8,
+      "winner": "Christopher Hampton & Florian Zeller",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10272386"
+      }
+    },
+    {
+      "id": "oscars-2021-best-animated-feature-soul",
+      "mediaType": "movie",
+      "title": "ソウルフル・ワールド",
+      "award": "長編アニメ映画賞",
+      "awardYear": 2021,
+      "awardOrder": 9,
+      "winner": "Pete Docter & Dana Murray",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt2948372"
+      }
+    },
+    {
+      "id": "oscars-2021-best-international-feature-another-round",
+      "mediaType": "movie",
+      "title": "Another Round",
+      "award": "国際長編映画賞",
+      "awardYear": 2021,
+      "awardOrder": 10,
+      "winner": "Denmark",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10288566"
+      }
+    }
+  ]
+}

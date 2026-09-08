@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "ゴールデングローブ賞 — テレビ作品賞 ミュージカル・コメディ部門",
+  "description": "2017年から2026年までのゴールデングローブ賞「テレビ作品賞 ミュージカル・コメディ部門」受賞作品。",
+  "items": [
+    {
+      "id": "golden-globes-tv_comedy-2017-atlanta",
+      "mediaType": "tv",
+      "title": "アトランタ",
+      "englishTitle": "Atlanta",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4288182"
+      },
+      "awardYear": 2017,
+      "winner": "アトランタ"
+    },
+    {
+      "id": "golden-globes-tv_comedy-2018-the-marvelous-mrs-maisel",
+      "mediaType": "tv",
+      "title": "マーベラス・ミセス・メイゼル",
+      "englishTitle": "The Marvelous Mrs. Maisel",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5788792"
+      },
+      "awardYear": 2018,
+      "winner": "マーベラス・ミセス・メイゼル"
+    },
+    {
+      "id": "golden-globes-tv_comedy-2019-the-kominsky-method",
+      "mediaType": "tv",
+      "title": "The Kominsky Method",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7255502"
+      },
+      "awardYear": 2019,
+      "winner": "The Kominsky Method"
+    },
+    {
+      "id": "golden-globes-tv_comedy-2020-fleabag",
+      "mediaType": "tv",
+      "title": "Fleabag フリーバッグ",
+      "englishTitle": "Fleabag",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5687612"
+      },
+      "awardYear": 2020,
+      "winner": "Fleabag フリーバッグ"
+    },
+    {
+      "id": "golden-globes-tv_comedy-2021-schitt-s-creek",
+      "mediaType": "tv",
+      "title": "シッツ・クリーク",
+      "releaseDate": "2015",
+      "externalIds": {
+        "imdb": "tt3526078"
+      },
+      "awardYear": 2021,
+      "winner": "Schitt's Creek"
+    },
+    {
+      "id": "golden-globes-tv_comedy-2022-hacks",
+      "mediaType": "tv",
+      "title": "Hacks",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt11815682"
+      },
+      "awardYear": 2022,
+      "winner": "Hacks"
+    },
+    {
+      "id": "golden-globes-tv_comedy-2023-abbott-elementary",
+      "mediaType": "tv",
+      "title": "アボット エレメンタリー",
+      "englishTitle": "Abbott Elementary",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14218830"
+      },
+      "awardYear": 2023,
+      "winner": "アボット エレメンタリー"
+    },
+    {
+      "id": "golden-globes-tv_comedy-2024-the-bear",
+      "mediaType": "tv",
+      "title": "一流シェフのファミリーレストラン",
+      "englishTitle": "The Bear",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt14452776"
+      },
+      "awardYear": 2024,
+      "winner": "一流シェフのファミリーレストラン"
+    },
+    {
+      "id": "golden-globes-tv_comedy-2025-hacks",
+      "mediaType": "tv",
+      "title": "Hacks",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt11815682"
+      },
+      "awardYear": 2025,
+      "winner": "Hacks"
+    },
+    {
+      "id": "golden-globes-tv_comedy-2026-the-studio",
+      "mediaType": "tv",
+      "title": "ザ・スタジオ",
+      "englishTitle": "The Studio",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt23649128"
+      },
+      "awardYear": 2026,
+      "winner": "ザ・スタジオ"
+    }
+  ]
+}

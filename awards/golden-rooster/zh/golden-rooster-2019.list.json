@@ -1,0 +1,220 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T00:56:00Z",
+  "title": "中国电影金鸡奖 2019 年获奖名单",
+  "description": "第32届中国电影金鸡奖主要获奖影片与影人。",
+  "items": [
+    {
+      "id": "golden-rooster-2019-best-feature-film-66826765",
+      "mediaType": "movie",
+      "title": "流浪地球",
+      "releaseDate": "2019",
+      "externalIds": {
+        "tmdb": "535167",
+        "imdb": "tt7605074"
+      },
+      "awardYear": 2019,
+      "awardOrder": 1,
+      "award": "最佳故事片",
+      "winner": "郭帆"
+    },
+    {
+      "id": "golden-rooster-2019-best-director-93700403",
+      "mediaType": "movie",
+      "title": "红海行动",
+      "releaseDate": "2018",
+      "externalIds": {
+        "tmdb": "460555",
+        "imdb": "tt6878882"
+      },
+      "awardYear": 2019,
+      "awardOrder": 2,
+      "award": "最佳导演",
+      "winner": "林超贤"
+    },
+    {
+      "id": "golden-rooster-2019-best-actor-94976096",
+      "mediaType": "movie",
+      "title": "地久天长",
+      "releaseDate": "2019",
+      "externalIds": {
+        "tmdb": "575452",
+        "imdb": "tt9581076"
+      },
+      "awardYear": 2019,
+      "awardOrder": 3,
+      "award": "最佳男主角",
+      "winner": "王景春"
+    },
+    {
+      "id": "golden-rooster-2019-best-actress-17848968",
+      "mediaType": "movie",
+      "title": "地久天长",
+      "releaseDate": "2019",
+      "externalIds": {
+        "tmdb": "575452",
+        "imdb": "tt9581076"
+      },
+      "awardYear": 2019,
+      "awardOrder": 4,
+      "award": "最佳女主角",
+      "winner": "咏梅"
+    },
+    {
+      "id": "golden-rooster-2019-best-supporting-actor-91404749",
+      "mediaType": "movie",
+      "title": "古田军号",
+      "awardYear": 2019,
+      "awardOrder": 5,
+      "award": "最佳男配角",
+      "winner": "王志飞"
+    },
+    {
+      "id": "golden-rooster-2019-best-supporting-actress-20571671",
+      "mediaType": "movie",
+      "title": "送我上青云",
+      "awardYear": 2019,
+      "awardOrder": 6,
+      "award": "最佳女配角",
+      "winner": "吴玉芳"
+    },
+    {
+      "id": "golden-rooster-2019-best-screenplay-82062722",
+      "mediaType": "movie",
+      "title": "地久天长",
+      "releaseDate": "2019",
+      "externalIds": {
+        "tmdb": "575452",
+        "imdb": "tt9581076"
+      },
+      "awardYear": 2019,
+      "awardOrder": 7,
+      "award": "最佳编剧",
+      "winner": "阿美、王小帅"
+    },
+    {
+      "id": "golden-rooster-2019-best-directorial-debut-54361314",
+      "mediaType": "movie",
+      "title": "我不是药神",
+      "releaseDate": "2018",
+      "externalIds": {
+        "tmdb": "532753",
+        "imdb": "tt7362036"
+      },
+      "awardYear": 2019,
+      "awardOrder": 8,
+      "award": "最佳导演处女作",
+      "winner": "文牧野"
+    },
+    {
+      "id": "golden-rooster-2019-best-documentary-09083645",
+      "mediaType": "movie",
+      "title": "奋斗时代",
+      "awardYear": 2019,
+      "awardOrder": 9,
+      "award": "最佳纪录片"
+    },
+    {
+      "id": "golden-rooster-2019-best-science-film-45176159",
+      "mediaType": "movie",
+      "title": "绿色长城",
+      "awardYear": 2019,
+      "awardOrder": 10,
+      "award": "最佳科教片"
+    },
+    {
+      "id": "golden-rooster-2019-best-low-budget-feature-13126018",
+      "mediaType": "movie",
+      "title": "红花绿叶",
+      "awardYear": 2019,
+      "awardOrder": 11,
+      "award": "最佳中小成本故事片"
+    },
+    {
+      "id": "golden-rooster-2019-best-children-film-84468869",
+      "mediaType": "movie",
+      "title": "小狗奶瓶",
+      "awardYear": 2019,
+      "awardOrder": 12,
+      "award": "最佳儿童片"
+    },
+    {
+      "id": "golden-rooster-2019-best-opera-film-15629697",
+      "mediaType": "movie",
+      "title": "挑山女人",
+      "awardYear": 2019,
+      "awardOrder": 13,
+      "award": "最佳戏曲片"
+    },
+    {
+      "id": "golden-rooster-2019-best-animation-01296073",
+      "mediaType": "movie",
+      "title": "风语咒",
+      "awardYear": 2019,
+      "awardOrder": 14,
+      "award": "最佳美术片"
+    },
+    {
+      "id": "golden-rooster-2019-best-sound-86865838",
+      "mediaType": "movie",
+      "title": "流浪地球",
+      "releaseDate": "2019",
+      "externalIds": {
+        "tmdb": "535167",
+        "imdb": "tt7605074"
+      },
+      "awardYear": 2019,
+      "awardOrder": 15,
+      "award": "最佳录音",
+      "winner": "王丹戎、祝岩峰、刘旭"
+    },
+    {
+      "id": "golden-rooster-2019-best-cinematography-04136765",
+      "mediaType": "movie",
+      "title": "妖猫传",
+      "releaseDate": "2017",
+      "externalIds": {
+        "tmdb": "428786",
+        "imdb": "tt6157626"
+      },
+      "awardYear": 2019,
+      "awardOrder": 16,
+      "award": "最佳摄影",
+      "winner": "曹郁"
+    },
+    {
+      "id": "golden-rooster-2019-best-art-direction-94661252",
+      "mediaType": "movie",
+      "title": "妖猫传",
+      "releaseDate": "2017",
+      "externalIds": {
+        "tmdb": "428786",
+        "imdb": "tt6157626"
+      },
+      "awardYear": 2019,
+      "awardOrder": 17,
+      "award": "最佳美术",
+      "winner": "屠楠、陆苇"
+    },
+    {
+      "id": "golden-rooster-2019-best-music-20437313",
+      "mediaType": "movie",
+      "title": "古田军号",
+      "awardYear": 2019,
+      "awardOrder": 18,
+      "award": "最佳音乐",
+      "winner": "居文沛"
+    },
+    {
+      "id": "golden-rooster-2019-best-editing-75834206",
+      "mediaType": "movie",
+      "title": "进京城",
+      "awardYear": 2019,
+      "awardOrder": 19,
+      "award": "最佳剪辑",
+      "winner": "朱利赟"
+    }
+  ]
+}

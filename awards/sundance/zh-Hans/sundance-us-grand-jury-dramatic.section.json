@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "Mydea",
+  "title": "圣丹斯 — 美国剧情片评审团大奖",
+  "description": "圣丹斯电影节“美国剧情片评审团大奖”历届获奖作品，收录自 1985 年起的完整获奖记录；并列获奖按独立条目保留。",
+  "layout": "grid",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "sundance-us-grand-jury-dramatic.list.json"
+    }
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ]
+}

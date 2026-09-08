@@ -1,0 +1,301 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "title": "豆瓣大师徽章",
+  "description": "豆瓣徽章计划中 13 位电影大师与影人徽章的收藏片单。",
+  "tags": [
+    "douban",
+    "badge",
+    "plan"
+  ],
+  "icon": "rosette",
+  "sections": [
+    {
+      "title": "🎩 希区柯克 · 麦格芬徽章",
+      "layout": "carousel",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "badge_plan_shortcut",
+          "value": "1930"
+        },
+        {
+          "name": "collection",
+          "value": "1930"
+        }
+      ]
+    },
+    {
+      "title": "🗿 库布里克 · 黑石碑徽章",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "badge_plan_shortcut",
+          "value": "1924"
+        },
+        {
+          "name": "collection",
+          "value": "1924"
+        }
+      ]
+    },
+    {
+      "title": "🗡️ 黑泽明 · 武士徽章",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "badge_plan_shortcut",
+          "value": "1936"
+        },
+        {
+          "name": "collection",
+          "value": "1936"
+        }
+      ]
+    },
+    {
+      "title": "🎪 费里尼 · 马戏团徽章",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "badge_plan_shortcut",
+          "value": "1959"
+        },
+        {
+          "name": "collection",
+          "value": "1959"
+        }
+      ]
+    },
+    {
+      "title": "🌅 侯麦 · 绿光徽章",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "badge_plan_shortcut",
+          "value": "1972"
+        },
+        {
+          "name": "collection",
+          "value": "1972"
+        }
+      ]
+    },
+    {
+      "title": "🎭 伯格曼 · 假面徽章",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "badge_plan_shortcut",
+          "value": "1942"
+        },
+        {
+          "name": "collection",
+          "value": "1942"
+        }
+      ]
+    },
+    {
+      "title": "🕯️ 塔可夫斯基 · 潜行者徽章",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "badge_plan_shortcut",
+          "value": "1956"
+        },
+        {
+          "name": "collection",
+          "value": "1956"
+        }
+      ]
+    },
+    {
+      "title": "🔍 安东尼奥尼 · 放大徽章",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "badge_plan_shortcut",
+          "value": "1963"
+        },
+        {
+          "name": "collection",
+          "value": "1963"
+        }
+      ]
+    },
+    {
+      "title": "⏳ 安哲罗普洛斯 · 时间徽章",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "badge_plan_shortcut",
+          "value": "1970"
+        },
+        {
+          "name": "collection",
+          "value": "1970"
+        }
+      ]
+    },
+    {
+      "title": "💭 今敏 · 造梦徽章",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "badge_plan_shortcut",
+          "value": "1933"
+        },
+        {
+          "name": "collection",
+          "value": "1933"
+        }
+      ]
+    },
+    {
+      "title": "🌬️ 杨德昌 · 追风徽章",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "badge_plan_shortcut",
+          "value": "1943"
+        },
+        {
+          "name": "collection",
+          "value": "1943"
+        }
+      ]
+    },
+    {
+      "title": "🕊️ 张国荣 · 无脚鸟徽章",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "badge_plan_shortcut",
+          "value": "2254"
+        },
+        {
+          "name": "collection",
+          "value": "2254"
+        }
+      ]
+    },
+    {
+      "title": "👒 奥黛丽·赫本 · 丽人徽章",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "badge_plan_shortcut",
+          "value": "2313"
+        },
+        {
+          "name": "collection",
+          "value": "2313"
+        }
+      ]
+    }
+  ]
+}

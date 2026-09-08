@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "金球獎 — 最佳音樂或喜劇片",
+  "description": "2017–2026 年金球獎最佳音樂或喜劇片获奖作品。",
+  "items": [
+    {
+      "id": "golden-globes-comedy-2017-la-la-land",
+      "mediaType": "movie",
+      "title": "樂來越愛你",
+      "englishTitle": "La La Land",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt3783958"
+      },
+      "awardYear": 2017,
+      "winner": "樂來越愛你"
+    },
+    {
+      "id": "golden-globes-comedy-2018-lady-bird",
+      "mediaType": "movie",
+      "title": "淑女鳥",
+      "englishTitle": "Lady Bird",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt4925292"
+      },
+      "awardYear": 2018,
+      "winner": "淑女鳥"
+    },
+    {
+      "id": "golden-globes-comedy-2019-green-book",
+      "mediaType": "movie",
+      "title": "幸福綠皮書",
+      "englishTitle": "Green Book",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt6966692"
+      },
+      "awardYear": 2019,
+      "winner": "幸福綠皮書"
+    },
+    {
+      "id": "golden-globes-comedy-2020-once-upon-a-time-in-hollywood",
+      "mediaType": "movie",
+      "title": "從前，有個好萊塢",
+      "englishTitle": "Once Upon a Time... in Hollywood",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt7131622"
+      },
+      "awardYear": 2020,
+      "winner": "從前，有個好萊塢"
+    },
+    {
+      "id": "golden-globes-comedy-2021-borat-subsequent-moviefilm",
+      "mediaType": "movie",
+      "title": "Borat Subsequent Moviefilm",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt13143964"
+      },
+      "awardYear": 2021,
+      "winner": "Borat Subsequent Moviefilm"
+    },
+    {
+      "id": "golden-globes-comedy-2022-west-side-story",
+      "mediaType": "movie",
+      "title": "西城故事",
+      "englishTitle": "West Side Story",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt3581652"
+      },
+      "awardYear": 2022,
+      "winner": "西城故事"
+    },
+    {
+      "id": "golden-globes-comedy-2023-the-banshees-of-inisherin",
+      "mediaType": "movie",
+      "title": "伊尼舍林的女妖",
+      "englishTitle": "The Banshees of Inisherin",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt11813216"
+      },
+      "awardYear": 2023,
+      "winner": "伊尼舍林的女妖"
+    },
+    {
+      "id": "golden-globes-comedy-2024-poor-things",
+      "mediaType": "movie",
+      "title": "可憐的東西",
+      "englishTitle": "Poor Things",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt14230458"
+      },
+      "awardYear": 2024,
+      "winner": "可憐的東西"
+    },
+    {
+      "id": "golden-globes-comedy-2025-emilia-perez",
+      "mediaType": "movie",
+      "title": "璀璨女人夢",
+      "englishTitle": "Emilia Pérez",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt20221436"
+      },
+      "awardYear": 2025,
+      "winner": "璀璨女人夢"
+    },
+    {
+      "id": "golden-globes-comedy-2026-one-battle-after-another",
+      "mediaType": "movie",
+      "title": "一戰再戰",
+      "englishTitle": "One Battle After Another",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt30144839"
+      },
+      "awardYear": 2026,
+      "winner": "一戰再戰"
+    }
+  ]
+}

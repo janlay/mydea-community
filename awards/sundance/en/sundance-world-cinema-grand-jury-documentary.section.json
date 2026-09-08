@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "Mydea",
+  "title": "Sundance — World Cinema Grand Jury Prize: Documentary",
+  "description": "Historical Sundance Film Festival winners of World Cinema Grand Jury Prize: Documentary, with complete records from 2005 onward and co-winners retained as separate entries.",
+  "layout": "grid",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "sundance-world-cinema-grand-jury-documentary.list.json"
+    }
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ]
+}

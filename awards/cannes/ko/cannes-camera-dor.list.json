@@ -1,0 +1,515 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "title": "칸 — 황금카메라상",
+  "author": "Mydea",
+  "updatedAt": "2026-09-16T04:43:24Z",
+  "description": "칸 영화제 황금카메라상의 역대 수상작입니다. 황금카메라상.",
+  "tags": [
+    "award",
+    "cannes",
+    "prize"
+  ],
+  "items": [
+    {
+      "id": "cannes-camera-dor-1978-alambrista",
+      "mediaType": "movie",
+      "title": "Alambrista!",
+      "awardYear": 1978,
+      "winner": "Robert M. Young",
+      "externalIds": {
+        "tmdb": "86975"
+      }
+    },
+    {
+      "id": "cannes-camera-dor-1979-northern-lights",
+      "mediaType": "movie",
+      "title": "Northern Lights",
+      "awardYear": 1979,
+      "winner": "John Hanson; Rob Nilsson",
+      "externalIds": {
+        "tmdb": "226749"
+      }
+    },
+    {
+      "id": "cannes-camera-dor-1980-adrien-s-story",
+      "mediaType": "movie",
+      "title": "Adrien's Story",
+      "awardYear": 1980,
+      "winner": "Jean-Pierre Denis",
+      "externalIds": {
+        "tmdb": "66810"
+      }
+    },
+    {
+      "id": "cannes-camera-dor-1981-desperado-city",
+      "mediaType": "movie",
+      "title": "Desperado City",
+      "awardYear": 1981,
+      "winner": "Vadim Glowna",
+      "externalIds": {
+        "tmdb": "264162"
+      }
+    },
+    {
+      "id": "cannes-camera-dor-1982-half-a-life",
+      "mediaType": "movie",
+      "title": "Half a Life",
+      "awardYear": 1982,
+      "winner": "Romain Goupil",
+      "externalIds": {
+        "tmdb": "118136"
+      }
+    },
+    {
+      "id": "cannes-camera-dor-1983-the-princess",
+      "mediaType": "movie",
+      "title": "The Princess",
+      "awardYear": 1983,
+      "winner": "Pál Erdőss",
+      "externalIds": {
+        "tmdb": "767908"
+      }
+    },
+    {
+      "id": "cannes-camera-dor-1984-stranger-than-paradise",
+      "mediaType": "movie",
+      "title": "Stranger Than Paradise",
+      "awardYear": 1984,
+      "winner": "Jim Jarmusch",
+      "externalIds": {
+        "tmdb": "469"
+      }
+    },
+    {
+      "id": "cannes-camera-dor-1985-oriana",
+      "mediaType": "movie",
+      "title": "Oriana",
+      "awardYear": 1985,
+      "winner": "Fina Torres",
+      "externalIds": {
+        "tmdb": "96419"
+      }
+    },
+    {
+      "id": "cannes-camera-dor-1986-noir-et-blanc",
+      "mediaType": "movie",
+      "title": "Noir et Blanc",
+      "awardYear": 1986,
+      "winner": "Claire Devers",
+      "externalIds": {
+        "tmdb": "49791"
+      }
+    },
+    {
+      "id": "cannes-camera-dor-1987-robinson-crusoe-in-georgia",
+      "mediaType": "movie",
+      "title": "Robinson Crusoe in Georgia",
+      "awardYear": 1987,
+      "winner": "Nana Dzhordzhadze",
+      "externalIds": {
+        "imdb": "tt0091580"
+      }
+    },
+    {
+      "id": "cannes-camera-dor-1988-salaam-bombay",
+      "mediaType": "movie",
+      "title": "Salaam Bombay!",
+      "awardYear": 1988,
+      "winner": "Mira Nair",
+      "externalIds": {
+        "tmdb": "45129"
+      }
+    },
+    {
+      "id": "cannes-camera-dor-1989-my-20th-century",
+      "mediaType": "movie",
+      "title": "My 20th Century",
+      "awardYear": 1989,
+      "winner": "Ildikó Enyedi",
+      "externalIds": {
+        "imdb": "tt0096863"
+      }
+    },
+    {
+      "id": "cannes-camera-dor-1990-freeze-die-come-to-life",
+      "mediaType": "movie",
+      "title": "Freeze Die Come to Life",
+      "awardYear": 1990,
+      "winner": "Vitali Kanevsky",
+      "externalIds": {
+        "tmdb": "41948"
+      }
+    },
+    {
+      "id": "cannes-camera-dor-1991-toto-the-hero",
+      "mediaType": "movie",
+      "title": "Toto the Hero",
+      "awardYear": 1991,
+      "winner": "Jaco Van Dormael",
+      "externalIds": {
+        "tmdb": "56321"
+      }
+    },
+    {
+      "id": "cannes-camera-dor-1992-mac",
+      "mediaType": "movie",
+      "title": "Mac",
+      "awardYear": 1992,
+      "winner": "John Turturro",
+      "externalIds": {
+        "tmdb": "111883"
+      }
+    },
+    {
+      "id": "cannes-camera-dor-1993-the-scent-of-green-papaya",
+      "mediaType": "movie",
+      "title": "The Scent of Green Papaya",
+      "awardYear": 1993,
+      "winner": "Trần Anh Hùng",
+      "externalIds": {
+        "tmdb": "19552"
+      }
+    },
+    {
+      "id": "cannes-camera-dor-1994-coming-to-terms-with-the-dead",
+      "mediaType": "movie",
+      "title": "Coming to Terms with the Dead",
+      "awardYear": 1994,
+      "winner": "Pascale Ferran",
+      "externalIds": {
+        "tmdb": "64573"
+      }
+    },
+    {
+      "id": "cannes-camera-dor-1995-the-white-balloon",
+      "mediaType": "movie",
+      "title": "The White Balloon",
+      "awardYear": 1995,
+      "winner": "Jafar Panahi",
+      "externalIds": {
+        "tmdb": "46785"
+      }
+    },
+    {
+      "id": "cannes-camera-dor-1996-love-serenade",
+      "mediaType": "movie",
+      "title": "Love Serenade",
+      "awardYear": 1996,
+      "winner": "Shirley Barrett",
+      "externalIds": {
+        "tmdb": "65046"
+      }
+    },
+    {
+      "id": "cannes-camera-dor-1997-suzaku",
+      "mediaType": "movie",
+      "title": "Suzaku",
+      "awardYear": 1997,
+      "winner": "Naomi Kawase",
+      "externalIds": {
+        "tmdb": "36895"
+      }
+    },
+    {
+      "id": "cannes-camera-dor-1998-slam",
+      "mediaType": "movie",
+      "title": "Slam",
+      "awardYear": 1998,
+      "winner": "Marc Levin",
+      "externalIds": {
+        "tmdb": "37532"
+      }
+    },
+    {
+      "id": "cannes-camera-dor-1999-marana-simhasanam",
+      "mediaType": "movie",
+      "title": "Marana Simhasanam",
+      "awardYear": 1999,
+      "winner": "Murali Nair",
+      "externalIds": {
+        "imdb": "tt0200838"
+      }
+    },
+    {
+      "id": "cannes-camera-dor-2000-a-time-for-drunken-horses",
+      "mediaType": "movie",
+      "title": "A Time for Drunken Horses",
+      "awardYear": 2000,
+      "winner": "Bahman Ghobadi",
+      "externalIds": {
+        "tmdb": "29270"
+      }
+    },
+    {
+      "id": "cannes-camera-dor-2000-djomeh",
+      "mediaType": "movie",
+      "title": "Djomeh",
+      "awardYear": 2000,
+      "winner": "Hassan Yektapanah",
+      "externalIds": {
+        "tmdb": "47161"
+      }
+    },
+    {
+      "id": "cannes-camera-dor-2001-atanarjuat-the-fast-runner",
+      "mediaType": "movie",
+      "title": "Atanarjuat: The Fast Runner",
+      "awardYear": 2001,
+      "winner": "Zacharias Kunuk",
+      "externalIds": {
+        "tmdb": "13245"
+      }
+    },
+    {
+      "id": "cannes-camera-dor-2002-seaside",
+      "mediaType": "movie",
+      "title": "Seaside",
+      "awardYear": 2002,
+      "winner": "Julie Lopes-Curval",
+      "externalIds": {
+        "tmdb": "125952"
+      }
+    },
+    {
+      "id": "cannes-camera-dor-2003-reconstruction",
+      "mediaType": "movie",
+      "title": "Reconstruction",
+      "awardYear": 2003,
+      "winner": "Christoffer Boe",
+      "externalIds": {
+        "tmdb": "29456"
+      }
+    },
+    {
+      "id": "cannes-camera-dor-2004-or-my-treasure",
+      "mediaType": "movie",
+      "title": "Or (My Treasure)",
+      "awardYear": 2004,
+      "winner": "Keren Yedaya",
+      "externalIds": {
+        "tmdb": "1918"
+      }
+    },
+    {
+      "id": "cannes-camera-dor-2005-me-and-you-and-everyone-we-know",
+      "mediaType": "movie",
+      "title": "Me and You and Everyone We Know",
+      "awardYear": 2005,
+      "winner": "Miranda July",
+      "externalIds": {
+        "tmdb": "1382"
+      }
+    },
+    {
+      "id": "cannes-camera-dor-2005-the-forsaken-land",
+      "mediaType": "movie",
+      "title": "The Forsaken Land",
+      "awardYear": 2005,
+      "winner": "Vimukthi Jayasundara",
+      "externalIds": {
+        "tmdb": "83221"
+      }
+    },
+    {
+      "id": "cannes-camera-dor-2006-12-08-east-of-bucharest",
+      "mediaType": "movie",
+      "title": "12:08 East of Bucharest",
+      "awardYear": 2006,
+      "winner": "Corneliu Porumboiu",
+      "externalIds": {
+        "tmdb": "24159"
+      }
+    },
+    {
+      "id": "cannes-camera-dor-2007-jellyfish",
+      "mediaType": "movie",
+      "title": "Jellyfish",
+      "awardYear": 2007,
+      "winner": "Etgar Keret; Shira Geffen",
+      "externalIds": {
+        "tmdb": "6391"
+      }
+    },
+    {
+      "id": "cannes-camera-dor-2008-hunger",
+      "mediaType": "movie",
+      "title": "Hunger",
+      "awardYear": 2008,
+      "winner": "Steve McQueen",
+      "externalIds": {
+        "tmdb": "10360"
+      }
+    },
+    {
+      "id": "cannes-camera-dor-2009-samson-and-delilah",
+      "mediaType": "movie",
+      "title": "Samson and Delilah",
+      "awardYear": 2009,
+      "winner": "Warwick Thornton",
+      "externalIds": {
+        "tmdb": "47075"
+      }
+    },
+    {
+      "id": "cannes-camera-dor-2010-año-bisiesto",
+      "mediaType": "movie",
+      "title": "Año Bisiesto",
+      "awardYear": 2010,
+      "winner": "Michael Rowe",
+      "externalIds": {
+        "tmdb": "63555"
+      }
+    },
+    {
+      "id": "cannes-camera-dor-2011-las-acacias",
+      "mediaType": "movie",
+      "title": "Las Acacias",
+      "awardYear": 2011,
+      "winner": "Pablo Giorgelli",
+      "externalIds": {
+        "tmdb": "85549"
+      }
+    },
+    {
+      "id": "cannes-camera-dor-2012-beasts-of-the-southern-wild",
+      "mediaType": "movie",
+      "title": "Beasts of the Southern Wild",
+      "awardYear": 2012,
+      "winner": "Benh Zeitlin",
+      "externalIds": {
+        "tmdb": "84175"
+      }
+    },
+    {
+      "id": "cannes-camera-dor-2013-ilo-ilo",
+      "mediaType": "movie",
+      "title": "Ilo Ilo",
+      "awardYear": 2013,
+      "winner": "Anthony Chen",
+      "externalIds": {
+        "tmdb": "188598"
+      }
+    },
+    {
+      "id": "cannes-camera-dor-2014-party-girl",
+      "mediaType": "movie",
+      "title": "Party Girl",
+      "awardYear": 2014,
+      "winner": "Marie Amachoukeli; Claire Burger; Samuel Theis",
+      "externalIds": {
+        "tmdb": "266030"
+      }
+    },
+    {
+      "id": "cannes-camera-dor-2015-land-and-shade",
+      "mediaType": "movie",
+      "title": "Land and Shade",
+      "awardYear": 2015,
+      "winner": "César Augusto Acevedo",
+      "externalIds": {
+        "tmdb": "336669"
+      }
+    },
+    {
+      "id": "cannes-camera-dor-2016-divines",
+      "mediaType": "movie",
+      "title": "Divines",
+      "awardYear": 2016,
+      "winner": "Houda Benyamina",
+      "externalIds": {
+        "tmdb": "393729"
+      }
+    },
+    {
+      "id": "cannes-camera-dor-2017-montparnasse-bienvenue",
+      "mediaType": "movie",
+      "title": "처음 만난 파리지엔",
+      "awardYear": 2017,
+      "winner": "Léonor Serraille",
+      "externalIds": {
+        "imdb": "tt5598160"
+      }
+    },
+    {
+      "id": "cannes-camera-dor-2018-girl",
+      "mediaType": "movie",
+      "title": "Girl",
+      "awardYear": 2018,
+      "winner": "Lukas Dhont",
+      "externalIds": {
+        "tmdb": "515916"
+      }
+    },
+    {
+      "id": "cannes-camera-dor-2019-our-mothers",
+      "mediaType": "movie",
+      "title": "Our Mothers",
+      "awardYear": 2019,
+      "winner": "César Díaz",
+      "externalIds": {
+        "tmdb": "596873"
+      }
+    },
+    {
+      "id": "cannes-camera-dor-2021-murina",
+      "mediaType": "movie",
+      "title": "Murina",
+      "awardYear": 2021,
+      "winner": "Antoneta Alamat Kusijanović",
+      "externalIds": {
+        "tmdb": "838148"
+      }
+    },
+    {
+      "id": "cannes-camera-dor-2022-war-pony",
+      "mediaType": "movie",
+      "title": "War Pony",
+      "awardYear": 2022,
+      "winner": "Riley Keough; Gina Gammell",
+      "externalIds": {
+        "tmdb": "962566"
+      }
+    },
+    {
+      "id": "cannes-camera-dor-2023-inside-the-yellow-cocoon-shell",
+      "mediaType": "movie",
+      "title": "Inside the Yellow Cocoon Shell",
+      "awardYear": 2023,
+      "winner": "Phạm Thiên Ân",
+      "externalIds": {
+        "tmdb": "1114816"
+      }
+    },
+    {
+      "id": "cannes-camera-dor-2024-armand",
+      "mediaType": "movie",
+      "title": "Armand",
+      "awardYear": 2024,
+      "winner": "Halfdan Ullmann Tøndel",
+      "externalIds": {
+        "tmdb": "1144681"
+      }
+    },
+    {
+      "id": "cannes-camera-dor-2025-the-president-s-cake",
+      "mediaType": "movie",
+      "title": "The President's Cake",
+      "awardYear": 2025,
+      "winner": "Hasan Hadi",
+      "externalIds": {
+        "tmdb": "1464883"
+      }
+    },
+    {
+      "id": "cannes-camera-dor-2026-ben-imana",
+      "mediaType": "movie",
+      "title": "Ben'Imana",
+      "awardYear": 2026,
+      "winner": "Marie-Clémentine Dusabejambo",
+      "externalIds": {
+        "tmdb": "1405200"
+      }
+    }
+  ]
+}

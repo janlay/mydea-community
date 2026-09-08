@@ -1,0 +1,114 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "釜山國際影展 2022 年得獎名單",
+  "description": "釜山國際影展 2022 年核心競賽獎得獎影片。",
+  "items": [
+    {
+      "id": "biff-2022-new-currents-a-wild-roomer",
+      "mediaType": "movie",
+      "title": "A Wild Roomer",
+      "award": "新浪潮獎",
+      "awardYear": 2022,
+      "awardOrder": 1,
+      "winner": "LEE Jeong-hong",
+      "releaseDate": "2022",
+      "externalIds": {
+        "letterboxd": "a-wild-roomer"
+      }
+    },
+    {
+      "id": "biff-2022-new-currents-shivamma",
+      "mediaType": "movie",
+      "title": "Shivamma",
+      "award": "新浪潮獎",
+      "awardYear": 2022,
+      "awardOrder": 2,
+      "winner": "Jaishankar ARYAR",
+      "releaseDate": "2022",
+      "externalIds": {
+        "letterboxd": "shivamma"
+      }
+    },
+    {
+      "id": "biff-2022-kim-jiseok-scent-of-wind",
+      "mediaType": "movie",
+      "title": "Scent of Wind",
+      "award": "金智奭獎",
+      "awardYear": 2022,
+      "awardOrder": 3,
+      "winner": "Hadi MOHAGHEGH",
+      "releaseDate": "2022",
+      "externalIds": {
+        "letterboxd": "scent-of-wind"
+      }
+    },
+    {
+      "id": "biff-2022-kim-jiseok-alteration",
+      "mediaType": "movie",
+      "title": "Alteration",
+      "award": "金智奭獎",
+      "awardYear": 2022,
+      "awardOrder": 4,
+      "winner": "Yalkin TUYCHIEV",
+      "releaseDate": "2022",
+      "externalIds": {
+        "letterboxd": "alteration"
+      }
+    },
+    {
+      "id": "biff-2022-mecenat-a-table-for-two",
+      "mediaType": "movie",
+      "title": "A Table for Two",
+      "award": "BIFF Mecenat獎",
+      "awardYear": 2022,
+      "awardOrder": 5,
+      "winner": "KIM Boram",
+      "releaseDate": "2022",
+      "externalIds": {
+        "letterboxd": "a-table-for-two"
+      }
+    },
+    {
+      "id": "biff-2022-mecenat-the-football-aficionado",
+      "mediaType": "movie",
+      "title": "The Football Aficionado",
+      "award": "BIFF Mecenat獎",
+      "awardYear": 2022,
+      "awardOrder": 6,
+      "winner": "Sharmin MOJTAHEDZADEH, Paliz KHOSHDEL",
+      "releaseDate": "2022",
+      "externalIds": {
+        "letterboxd": "the-football-aficionado"
+      }
+    },
+    {
+      "id": "biff-2022-sonje-southern-afternoon",
+      "mediaType": "movie",
+      "title": "Southern Afternoon",
+      "award": "Sonje獎",
+      "awardYear": 2022,
+      "awardOrder": 7,
+      "winner": "LAN Tian",
+      "releaseDate": "2022",
+      "externalIds": {
+        "letterboxd": "southern-afternoon"
+      }
+    },
+    {
+      "id": "biff-2022-sonje-im-here",
+      "mediaType": "movie",
+      "title": "I'm Here",
+      "award": "Sonje獎",
+      "awardYear": 2022,
+      "awardOrder": 8,
+      "winner": "JEONG Eunuk",
+      "releaseDate": "2022",
+      "externalIds": {
+        "letterboxd": "im-here"
+      }
+    }
+  ]
+}
