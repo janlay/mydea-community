@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "ChatGPT",
+  "title": "釜山國際影展 2023 年得獎名單",
+  "description": "釜山國際影展 2023 年核心競賽獎得獎影片。",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "biff-2023.list.json"
+    }
+  ]
+}

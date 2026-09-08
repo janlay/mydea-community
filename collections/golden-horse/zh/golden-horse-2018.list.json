@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:00:00Z",
+  "title": "金馬獎 2018 年核心獎項得獎名單",
+  "description": "第55屆金馬獎核心常設獎項得獎作品，收錄最佳劇情片、導演、男女主角、男女配角、新導演與新演員。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "golden-horse-2018-best-feature-tt8020896",
+      "mediaType": "movie",
+      "title": "大象席地而坐",
+      "award": "最佳劇情片",
+      "awardYear": 2018,
+      "winner": "胡波",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8020896"
+      },
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-horse-2018-best-director-tt6864046",
+      "mediaType": "movie",
+      "title": "影",
+      "award": "最佳導演",
+      "awardYear": 2018,
+      "winner": "張藝謀",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt6864046"
+      },
+      "awardOrder": 2
+    },
+    {
+      "id": "golden-horse-2018-best-actor-tt7362036",
+      "mediaType": "movie",
+      "title": "我不是藥神",
+      "award": "最佳男主角",
+      "awardYear": 2018,
+      "winner": "徐崢",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7362036"
+      },
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-horse-2018-best-actress-tt8443704",
+      "mediaType": "movie",
+      "title": "誰先愛上他的",
+      "award": "最佳女主角",
+      "awardYear": 2018,
+      "winner": "謝盈萱",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8443704"
+      },
+      "awardOrder": 4
+    },
+    {
+      "id": "golden-horse-2018-best-supporting-actor-tt7762748",
+      "mediaType": "movie",
+      "title": "翠絲",
+      "award": "最佳男配角",
+      "awardYear": 2018,
+      "winner": "袁富華",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7762748"
+      },
+      "awardOrder": 5
+    },
+    {
+      "id": "golden-horse-2018-best-supporting-actress-tt4397342",
+      "mediaType": "movie",
+      "title": "幸福城市",
+      "award": "最佳女配角",
+      "awardYear": 2018,
+      "winner": "丁寧",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt4397342"
+      },
+      "awardOrder": 6
+    },
+    {
+      "id": "golden-horse-2018-best-new-director-tt7362036",
+      "mediaType": "movie",
+      "title": "我不是藥神",
+      "award": "最佳新導演",
+      "awardYear": 2018,
+      "winner": "文牧野",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7362036"
+      },
+      "awardOrder": 7
+    },
+    {
+      "id": "golden-horse-2018-best-new-performer-tt7475882",
+      "mediaType": "movie",
+      "title": "只有大海知道",
+      "award": "最佳新演員",
+      "awardYear": 2018,
+      "winner": "鍾家駿",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7475882"
+      },
+      "awardOrder": 8
+    }
+  ]
+}

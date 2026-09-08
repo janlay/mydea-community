@@ -1,0 +1,358 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:30:00Z",
+  "title": "柏林 — 阿尔弗雷德·鲍尔奖（历史）",
+  "description": "柏林国际电影节 阿尔弗雷德·鲍尔奖（历史） 全部获奖记录。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "berlinale-alfred-bauer-prize-1987-mauvais-sang",
+      "mediaType": "movie",
+      "title": "Mauvais Sang",
+      "awardYear": 1987,
+      "winner": "Léos Carax",
+      "releaseDate": "1987",
+      "externalIds": {
+        "letterboxd": "mauvais-sang"
+      }
+    },
+    {
+      "id": "berlinale-alfred-bauer-prize-1989-the-servant",
+      "mediaType": "movie",
+      "title": "The Servant",
+      "awardYear": 1989,
+      "winner": "Vadim Abdrashitov",
+      "releaseDate": "1989",
+      "externalIds": {
+        "letterboxd": "the-servant"
+      }
+    },
+    {
+      "id": "berlinale-alfred-bauer-prize-1990-the-guard",
+      "mediaType": "movie",
+      "title": "The Guard",
+      "awardYear": 1990,
+      "winner": "Aleksandr Rogozhkin",
+      "releaseDate": "1990",
+      "externalIds": {
+        "letterboxd": "the-guard"
+      }
+    },
+    {
+      "id": "berlinale-alfred-bauer-prize-1992-infinitas",
+      "mediaType": "movie",
+      "title": "Infinitas",
+      "awardYear": 1992,
+      "winner": "Marlen Khutsiev",
+      "releaseDate": "1992",
+      "externalIds": {
+        "letterboxd": "infinitas"
+      }
+    },
+    {
+      "id": "berlinale-alfred-bauer-prize-1994-hwa-om-kyung",
+      "mediaType": "movie",
+      "title": "Hwa-Om-Kyung",
+      "awardYear": 1994,
+      "winner": "Jang Sun-woo",
+      "releaseDate": "1994",
+      "externalIds": {
+        "letterboxd": "hwa-om-kyung"
+      }
+    },
+    {
+      "id": "berlinale-alfred-bauer-prize-1996-strangled-lives",
+      "mediaType": "movie",
+      "title": "Strangled Lives",
+      "awardYear": 1996,
+      "winner": "Ricky Tognazzi",
+      "releaseDate": "1996",
+      "externalIds": {
+        "letterboxd": "strangled-lives"
+      }
+    },
+    {
+      "id": "berlinale-alfred-bauer-prize-1997-romeo-plus-juliet",
+      "mediaType": "movie",
+      "title": "罗密欧与朱丽叶",
+      "englishTitle": "Romeo + Juliet",
+      "awardYear": 1997,
+      "winner": "Baz Luhrmann",
+      "releaseDate": "1997",
+      "externalIds": {
+        "letterboxd": "romeo-plus-juliet"
+      }
+    },
+    {
+      "id": "berlinale-alfred-bauer-prize-1998-hold-you-tight",
+      "mediaType": "movie",
+      "title": "Hold You Tight",
+      "awardYear": 1998,
+      "winner": "Stanley Kwan",
+      "releaseDate": "1998",
+      "externalIds": {
+        "letterboxd": "hold-you-tight"
+      }
+    },
+    {
+      "id": "berlinale-alfred-bauer-prize-1999-karnaval",
+      "mediaType": "movie",
+      "title": "Karnaval",
+      "awardYear": 1999,
+      "winner": "Thomas Vincent",
+      "releaseDate": "1999",
+      "externalIds": {
+        "letterboxd": "karnaval"
+      }
+    },
+    {
+      "id": "berlinale-alfred-bauer-prize-2000-boy-s-choir",
+      "mediaType": "movie",
+      "title": "Boy's Choir",
+      "awardYear": 2000,
+      "winner": "Akira Ogata",
+      "releaseDate": "2000",
+      "externalIds": {
+        "letterboxd": "boy-s-choir"
+      }
+    },
+    {
+      "id": "berlinale-alfred-bauer-prize-2001-la-cienaga",
+      "mediaType": "movie",
+      "title": "La Ciénaga",
+      "awardYear": 2001,
+      "winner": "Lucrecia Martel",
+      "releaseDate": "2001",
+      "externalIds": {
+        "letterboxd": "la-cienaga"
+      }
+    },
+    {
+      "id": "berlinale-alfred-bauer-prize-2002-baader",
+      "mediaType": "movie",
+      "title": "Baader",
+      "awardYear": 2002,
+      "winner": "Christopher Roth",
+      "releaseDate": "2002",
+      "externalIds": {
+        "letterboxd": "baader"
+      }
+    },
+    {
+      "id": "berlinale-alfred-bauer-prize-2003-hero",
+      "mediaType": "movie",
+      "title": "英雄",
+      "englishTitle": "Hero",
+      "awardYear": 2003,
+      "winner": "Zhang Yimou",
+      "releaseDate": "2003",
+      "externalIds": {
+        "letterboxd": "hero"
+      }
+    },
+    {
+      "id": "berlinale-alfred-bauer-prize-2004-maria-full-of-grace",
+      "mediaType": "movie",
+      "title": "Maria Full of Grace",
+      "awardYear": 2004,
+      "winner": "Joshua Marston",
+      "releaseDate": "2004",
+      "externalIds": {
+        "letterboxd": "maria-full-of-grace"
+      }
+    },
+    {
+      "id": "berlinale-alfred-bauer-prize-2005-the-wayward-cloud",
+      "mediaType": "movie",
+      "title": "天边一朵云",
+      "englishTitle": "The Wayward Cloud",
+      "awardYear": 2005,
+      "winner": "Tsai Ming-liang",
+      "releaseDate": "2005",
+      "externalIds": {
+        "letterboxd": "the-wayward-cloud"
+      }
+    },
+    {
+      "id": "berlinale-alfred-bauer-prize-2006-the-minder",
+      "mediaType": "movie",
+      "title": "The Minder",
+      "awardYear": 2006,
+      "winner": "Rodrigo Moreno",
+      "releaseDate": "2006",
+      "externalIds": {
+        "letterboxd": "the-minder"
+      }
+    },
+    {
+      "id": "berlinale-alfred-bauer-prize-2007-i-m-a-cyborg-but-that-s-ok",
+      "mediaType": "movie",
+      "title": "机器人之恋",
+      "englishTitle": "I'm a Cyborg, But That's OK",
+      "awardYear": 2007,
+      "winner": "Park Chan-wook",
+      "releaseDate": "2007",
+      "externalIds": {
+        "letterboxd": "i-m-a-cyborg-but-that-s-ok"
+      }
+    },
+    {
+      "id": "berlinale-alfred-bauer-prize-2008-lake-tahoe",
+      "mediaType": "movie",
+      "title": "Lake Tahoe",
+      "awardYear": 2008,
+      "winner": "Fernando Eimbcke",
+      "releaseDate": "2008",
+      "externalIds": {
+        "letterboxd": "lake-tahoe"
+      }
+    },
+    {
+      "id": "berlinale-alfred-bauer-prize-2009-giant",
+      "mediaType": "movie",
+      "title": "Giant",
+      "awardYear": 2009,
+      "winner": "Adrián Biniez",
+      "releaseDate": "2009",
+      "externalIds": {
+        "letterboxd": "giant"
+      }
+    },
+    {
+      "id": "berlinale-alfred-bauer-prize-2009-tatarak",
+      "mediaType": "movie",
+      "title": "Tatarak",
+      "awardYear": 2009,
+      "winner": "Andrzej Wajda",
+      "releaseDate": "2009",
+      "externalIds": {
+        "letterboxd": "tatarak"
+      }
+    },
+    {
+      "id": "berlinale-alfred-bauer-prize-2010-if-i-want-to-whistle-i-whistle",
+      "mediaType": "movie",
+      "title": "If I Want to Whistle, I Whistle",
+      "awardYear": 2010,
+      "winner": "Florin Șerban",
+      "releaseDate": "2010",
+      "externalIds": {
+        "letterboxd": "if-i-want-to-whistle-i-whistle"
+      }
+    },
+    {
+      "id": "berlinale-alfred-bauer-prize-2011-if-not-us-who",
+      "mediaType": "movie",
+      "title": "If Not Us, Who?",
+      "awardYear": 2011,
+      "winner": "Andres Veiel",
+      "releaseDate": "2011",
+      "externalIds": {
+        "letterboxd": "if-not-us-who"
+      }
+    },
+    {
+      "id": "berlinale-alfred-bauer-prize-2012-tabu",
+      "mediaType": "movie",
+      "title": "Tabu",
+      "awardYear": 2012,
+      "winner": "Miguel Gomes",
+      "releaseDate": "2012",
+      "externalIds": {
+        "letterboxd": "tabu"
+      }
+    },
+    {
+      "id": "berlinale-alfred-bauer-prize-2013-vic-and-flo-saw-a-bear",
+      "mediaType": "movie",
+      "title": "Vic and Flo Saw a Bear",
+      "awardYear": 2013,
+      "winner": "Denis Côté",
+      "releaseDate": "2013",
+      "externalIds": {
+        "letterboxd": "vic-and-flo-saw-a-bear"
+      }
+    },
+    {
+      "id": "berlinale-alfred-bauer-prize-2014-life-of-riley",
+      "mediaType": "movie",
+      "title": "Life of Riley",
+      "awardYear": 2014,
+      "winner": "Alain Resnais",
+      "releaseDate": "2014",
+      "externalIds": {
+        "letterboxd": "life-of-riley"
+      }
+    },
+    {
+      "id": "berlinale-alfred-bauer-prize-2015-ixcanul",
+      "mediaType": "movie",
+      "title": "Ixcanul",
+      "awardYear": 2015,
+      "winner": "Jayro Bustamante",
+      "releaseDate": "2015",
+      "externalIds": {
+        "letterboxd": "ixcanul"
+      }
+    },
+    {
+      "id": "berlinale-alfred-bauer-prize-2016-a-lullaby-to-the-sorrowful-mystery",
+      "mediaType": "movie",
+      "title": "A Lullaby to the Sorrowful Mystery",
+      "awardYear": 2016,
+      "winner": "Lav Diaz",
+      "releaseDate": "2016",
+      "externalIds": {
+        "letterboxd": "a-lullaby-to-the-sorrowful-mystery"
+      }
+    },
+    {
+      "id": "berlinale-alfred-bauer-prize-2017-spoor",
+      "mediaType": "movie",
+      "title": "糜骨之壤",
+      "englishTitle": "Spoor",
+      "awardYear": 2017,
+      "winner": "Agnieszka Holland",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5328350"
+      }
+    },
+    {
+      "id": "berlinale-alfred-bauer-prize-2018-the-heiresses",
+      "mediaType": "movie",
+      "title": "女继承者",
+      "englishTitle": "The Heiresses",
+      "awardYear": 2018,
+      "winner": "Marcelo Martinessi",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7875464"
+      }
+    },
+    {
+      "id": "berlinale-alfred-bauer-prize-2019-system-crasher",
+      "mediaType": "movie",
+      "title": "系统破坏者",
+      "englishTitle": "System Crasher",
+      "awardYear": 2019,
+      "winner": "Nora Fingscheidt",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt8535968"
+      },
+      "backdropPath": "https://image.tmdb.org/t/p/w342/bTRgchpjedlfCKL2TbQPIdvWDtp.jpg"
+    }
+  ]
+}

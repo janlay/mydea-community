@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "ChatGPT",
+  "title": "Baeksang Arts Awards — 2019",
+  "description": "Major film and broadcast winners at the 2019 Baeksang Arts Awards.",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "baeksang-2019.list.json"
+    }
+  ]
+}

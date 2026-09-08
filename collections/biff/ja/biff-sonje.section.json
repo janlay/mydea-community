@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "ChatGPT",
+  "title": "釜山国際映画祭 — ソンジェ賞",
+  "description": "釜山国際映画祭「ソンジェ賞」の歴代受賞短編。",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "biff-sonje.list.json"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "金球獎 2018",
+  "description": "2018 金球獎主要电影与电视作品类获奖名单。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "golden-globes-2018-drama-three-billboards-outside-ebbing-missouri",
+      "mediaType": "movie",
+      "title": "意外",
+      "englishTitle": "Three Billboards Outside Ebbing, Missouri",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5027774"
+      },
+      "award": "最佳劇情片",
+      "awardYear": 2018,
+      "awardOrder": 1,
+      "winner": "意外"
+    },
+    {
+      "id": "golden-globes-2018-comedy-lady-bird",
+      "mediaType": "movie",
+      "title": "淑女鳥",
+      "englishTitle": "Lady Bird",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt4925292"
+      },
+      "award": "最佳音樂或喜劇片",
+      "awardYear": 2018,
+      "awardOrder": 2,
+      "winner": "淑女鳥"
+    },
+    {
+      "id": "golden-globes-2018-animated-coco",
+      "mediaType": "movie",
+      "title": "可可夜總會",
+      "englishTitle": "Coco",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt2380307"
+      },
+      "award": "最佳動畫片",
+      "awardYear": 2018,
+      "awardOrder": 3,
+      "winner": "可可夜總會"
+    },
+    {
+      "id": "golden-globes-2018-foreign-in-the-fade",
+      "mediaType": "movie",
+      "title": "In the Fade",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5723272"
+      },
+      "award": "最佳非英語片",
+      "awardYear": 2018,
+      "awardOrder": 4,
+      "winner": "In the Fade"
+    },
+    {
+      "id": "golden-globes-2018-tv_drama-the-handmaid-s-tale",
+      "mediaType": "tv",
+      "title": "使女的故事",
+      "englishTitle": "The Handmaid's Tale",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5834204"
+      },
+      "award": "最佳劇情類影集",
+      "awardYear": 2018,
+      "awardOrder": 5,
+      "winner": "使女的故事"
+    },
+    {
+      "id": "golden-globes-2018-tv_comedy-the-marvelous-mrs-maisel",
+      "mediaType": "tv",
+      "title": "漫才梅索太太",
+      "englishTitle": "The Marvelous Mrs. Maisel",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5788792"
+      },
+      "award": "最佳音樂或喜劇類影集",
+      "awardYear": 2018,
+      "awardOrder": 6,
+      "winner": "漫才梅索太太"
+    },
+    {
+      "id": "golden-globes-2018-limited-big-little-lies",
+      "mediaType": "tv",
+      "title": "美麗心計",
+      "englishTitle": "Big Little Lies",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt3920596"
+      },
+      "award": "最佳有限影集、選集影集或電視電影",
+      "awardYear": 2018,
+      "awardOrder": 7,
+      "winner": "美麗心計"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "ChatGPT",
+  "title": "Toronto — Platform Prize",
+  "description": "Historical winners of the TIFF Platform Prize.",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "tiff-platform-prize.list.json"
+    }
+  ]
+}

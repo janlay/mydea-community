@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "title": "香港電影金像奨 2025 受賞一覧",
+  "description": "2025年香港電影金像奨の主要部門受賞作品・受賞者。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "hkfa-2025-best-film-20316748",
+      "mediaType": "movie",
+      "title": "トワイライト・ウォリアーズ 決戦！九龍城砦",
+      "awardYear": 2025,
+      "winner": "『トワイライト・ウォリアーズ 決戦！九龍城砦』",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt20316748"
+      },
+      "award": "最優秀作品賞",
+      "awardOrder": 1,
+      "originalTitle": "九龍城寨之圍城"
+    },
+    {
+      "id": "hkfa-2025-best-director-20316748",
+      "mediaType": "movie",
+      "title": "トワイライト・ウォリアーズ 決戦！九龍城砦",
+      "awardYear": 2025,
+      "winner": "鄭保瑞",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt20316748"
+      },
+      "award": "最優秀監督賞",
+      "awardOrder": 2,
+      "originalTitle": "九龍城寨之圍城"
+    },
+    {
+      "id": "hkfa-2025-best-screenplay-31648020",
+      "mediaType": "movie",
+      "title": "ラスト・ダンス",
+      "awardYear": 2025,
+      "winner": "陳茂賢、鄭緯機",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt31648020"
+      },
+      "award": "最優秀脚本賞",
+      "awardOrder": 3,
+      "originalTitle": "破·地獄"
+    },
+    {
+      "id": "hkfa-2025-best-actor-33499985",
+      "mediaType": "movie",
+      "title": "爸爸",
+      "awardYear": 2025,
+      "winner": "劉青雲",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt33499985"
+      },
+      "award": "最優秀主演男優賞",
+      "awardOrder": 4
+    },
+    {
+      "id": "hkfa-2025-best-actress-31648020",
+      "mediaType": "movie",
+      "title": "ラスト・ダンス",
+      "awardYear": 2025,
+      "winner": "衛詩雅",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt31648020"
+      },
+      "award": "最優秀主演女優賞",
+      "awardOrder": 5,
+      "originalTitle": "破·地獄"
+    },
+    {
+      "id": "hkfa-2025-best-supporting-actor-31648020",
+      "mediaType": "movie",
+      "title": "ラスト・ダンス",
+      "awardYear": 2025,
+      "winner": "朱栢康",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt31648020"
+      },
+      "award": "最優秀助演男優賞",
+      "awardOrder": 6,
+      "originalTitle": "破·地獄"
+    },
+    {
+      "id": "hkfa-2025-best-supporting-actress-33499985",
+      "mediaType": "movie",
+      "title": "爸爸",
+      "awardYear": 2025,
+      "winner": "谷祖琳",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt33499985"
+      },
+      "award": "最優秀助演女優賞",
+      "awardOrder": 7
+    },
+    {
+      "id": "hkfa-2025-best-new-performer-33499985",
+      "mediaType": "movie",
+      "title": "爸爸",
+      "awardYear": 2025,
+      "winner": "蘇文濤",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt33499985"
+      },
+      "award": "最優秀新人賞",
+      "awardOrder": 8
+    }
+  ],
+  "updatedAt": "2026-09-12T02:57:20Z"
+}

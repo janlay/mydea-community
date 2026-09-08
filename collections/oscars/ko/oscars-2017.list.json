@@ -1,0 +1,154 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T05:03:58Z",
+  "title": "아카데미상 2017 수상 목록",
+  "description": "제89회 아카데미상 주요 영화 부문의 수상작과 수상자.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "oscars-2017-best-picture-moonlight",
+      "mediaType": "movie",
+      "title": "Moonlight",
+      "award": "작품상",
+      "awardYear": 2017,
+      "awardOrder": 1,
+      "winner": "Dede Gardner, Jeremy Kleiner & Adele Romanski",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4975722"
+      }
+    },
+    {
+      "id": "oscars-2017-best-director-la-la-land",
+      "mediaType": "movie",
+      "title": "La La Land",
+      "award": "감독상",
+      "awardYear": 2017,
+      "awardOrder": 2,
+      "winner": "Damien Chazelle",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt3783958"
+      }
+    },
+    {
+      "id": "oscars-2017-best-actor-manchester-by-the-sea",
+      "mediaType": "movie",
+      "title": "Manchester by the Sea",
+      "award": "남우주연상",
+      "awardYear": 2017,
+      "awardOrder": 3,
+      "winner": "Casey Affleck",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4034228"
+      }
+    },
+    {
+      "id": "oscars-2017-best-actress-la-la-land",
+      "mediaType": "movie",
+      "title": "La La Land",
+      "award": "여우주연상",
+      "awardYear": 2017,
+      "awardOrder": 4,
+      "winner": "Emma Stone",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt3783958"
+      }
+    },
+    {
+      "id": "oscars-2017-best-supporting-actor-moonlight",
+      "mediaType": "movie",
+      "title": "Moonlight",
+      "award": "남우조연상",
+      "awardYear": 2017,
+      "awardOrder": 5,
+      "winner": "Mahershala Ali",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4975722"
+      }
+    },
+    {
+      "id": "oscars-2017-best-supporting-actress-fences",
+      "mediaType": "movie",
+      "title": "Fences",
+      "award": "여우조연상",
+      "awardYear": 2017,
+      "awardOrder": 6,
+      "winner": "Viola Davis",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt2671706"
+      }
+    },
+    {
+      "id": "oscars-2017-best-original-screenplay-manchester-by-the-sea",
+      "mediaType": "movie",
+      "title": "Manchester by the Sea",
+      "award": "각본상",
+      "awardYear": 2017,
+      "awardOrder": 7,
+      "winner": "Kenneth Lonergan",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4034228"
+      }
+    },
+    {
+      "id": "oscars-2017-best-adapted-screenplay-moonlight",
+      "mediaType": "movie",
+      "title": "Moonlight",
+      "award": "각색상",
+      "awardYear": 2017,
+      "awardOrder": 8,
+      "winner": "Barry Jenkins & Tarell Alvin McCraney",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4975722"
+      }
+    },
+    {
+      "id": "oscars-2017-best-animated-feature-zootopia",
+      "mediaType": "movie",
+      "title": "Zootopia",
+      "award": "장편 애니메이션상",
+      "awardYear": 2017,
+      "awardOrder": 9,
+      "winner": "Byron Howard, Rich Moore & Clark Spencer",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt2948356"
+      }
+    },
+    {
+      "id": "oscars-2017-best-international-feature-the-salesman",
+      "mediaType": "movie",
+      "title": "The Salesman",
+      "award": "국제장편영화상",
+      "awardYear": 2017,
+      "awardOrder": 10,
+      "winner": "Asghar Farhadi",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5186714"
+      }
+    }
+  ]
+}

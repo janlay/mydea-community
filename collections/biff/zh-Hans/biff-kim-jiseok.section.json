@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "ChatGPT",
+  "title": "釜山国际电影节 — 金智奭奖",
+  "description": "釜山国际电影节金智奭奖历届获奖影片。",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "biff-kim-jiseok.list.json"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "ChatGPT",
+  "title": "トロント — プラットフォーム賞",
+  "description": "トロント国際映画祭「プラットフォーム賞」の歴代受賞作。",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "tiff-platform-prize.list.json"
+    }
+  ]
+}

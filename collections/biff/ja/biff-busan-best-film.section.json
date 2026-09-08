@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "ChatGPT",
+  "title": "釜山国際映画祭 — 釜山賞 最優秀作品賞",
+  "description": "釜山国際映画祭「釜山賞 最優秀作品賞」の歴代受賞作品。",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "biff-busan-best-film.list.json"
+    }
+  ]
+}

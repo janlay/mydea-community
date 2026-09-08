@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "ChatGPT",
+  "title": "黃金時段艾美獎 — 劇情類最佳女主角",
+  "description": "黃金時段艾美獎「劇情類最佳女主角」獲獎記錄。",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "emmys-lead-actress-drama.list.json"
+    }
+  ]
+}

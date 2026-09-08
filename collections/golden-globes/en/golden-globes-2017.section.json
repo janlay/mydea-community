@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "ChatGPT",
+  "title": "Golden Globes 2017",
+  "description": "Major film and television program winners at the 2017 Golden Globes.",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "golden-globes-2017.list.json"
+    }
+  ]
+}

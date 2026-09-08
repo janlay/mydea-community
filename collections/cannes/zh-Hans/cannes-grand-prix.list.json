@@ -1,0 +1,825 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "OpenAI",
+  "server": "TMDB",
+  "updatedAt": "2026-09-06T16:01:44Z",
+  "description": "戛纳电影节评审团大奖获奖影片。",
+  "title": "戛纳 — 评审团大奖",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "title with Year"
+  ],
+  "items": [
+    {
+      "id": "cannes-grand-prix-1967-accident",
+      "mediaType": "movie",
+      "title": "车祸",
+      "awardYear": 1967,
+      "winner": "Joseph Losey",
+      "releaseDate": "1967-02-09",
+      "externalIds": {
+        "tmdb": "74544"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/gttNRLWBDJXwOdoNCKQFgxSGUh8.jpg"
+    },
+    {
+      "id": "cannes-grand-prix-1967-i-even-met-happy-gypsies",
+      "mediaType": "movie",
+      "title": "快乐的吉普赛人",
+      "awardYear": 1967,
+      "winner": "Aleksandar Petrović",
+      "releaseDate": "1967-03-27",
+      "externalIds": {
+        "tmdb": "59088"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/zSegXDenrymOkEnCn5kb40HMtnH.jpg"
+    },
+    {
+      "id": "cannes-grand-prix-1969-adalen-31",
+      "mediaType": "movie",
+      "title": "阿达伦31",
+      "awardYear": 1969,
+      "winner": "Bo Widerberg",
+      "releaseDate": "1969-05-01",
+      "externalIds": {
+        "tmdb": "87208"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/36nb5JRvhdaEcpE71LKexPtYIa1.jpg"
+    },
+    {
+      "id": "cannes-grand-prix-1970-investigation-of-a-citizen-above-suspicion",
+      "mediaType": "movie",
+      "title": "对一个不容怀疑的公民的调查",
+      "awardYear": 1970,
+      "winner": "Elio Petri",
+      "releaseDate": "1970-10-16",
+      "externalIds": {
+        "tmdb": "26451"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/vPTZwlq1IC4o1DCsEZEl2uGljzm.jpg"
+    },
+    {
+      "id": "cannes-grand-prix-1971-johnny-got-his-gun",
+      "mediaType": "movie",
+      "title": "无语问苍天",
+      "awardYear": 1971,
+      "winner": "Dalton Trumbo",
+      "releaseDate": "1971-08-04",
+      "externalIds": {
+        "tmdb": "16328"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/ryIY3FPmTtXu9g6W4I69qCdkxKj.jpg"
+    },
+    {
+      "id": "cannes-grand-prix-1971-taking-off",
+      "mediaType": "movie",
+      "title": "逃家",
+      "awardYear": 1971,
+      "winner": "Miloš Forman",
+      "releaseDate": "1971-03-28",
+      "externalIds": {
+        "tmdb": "59881"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/2UXNQy39AqER8Y5LjuZcA1pliwq.jpg"
+    },
+    {
+      "id": "cannes-grand-prix-1972-solaris",
+      "mediaType": "movie",
+      "title": "飞向太空",
+      "awardYear": 1972,
+      "winner": "Andrei Tarkovsky",
+      "releaseDate": "1972-03-20",
+      "externalIds": {
+        "tmdb": "593"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/pgqj7QoBPWFLLKtLEpPmFYFRMgB.jpg"
+    },
+    {
+      "id": "cannes-grand-prix-1973-the-mother-and-the-whore",
+      "mediaType": "movie",
+      "title": "母亲与娼妓",
+      "awardYear": 1973,
+      "winner": "Jean Eustache",
+      "releaseDate": "1973-05-17",
+      "externalIds": {
+        "tmdb": "48693"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/qUBmGLgADWnWd7SCCl3KR7EggKj.jpg"
+    },
+    {
+      "id": "cannes-grand-prix-1974-arabian-nights",
+      "mediaType": "movie",
+      "title": "一千零一夜",
+      "awardYear": 1974,
+      "winner": "Pier Paolo Pasolini",
+      "releaseDate": "1974-06-20",
+      "externalIds": {
+        "tmdb": "47406"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/zDrAREfrNvq5O10lHDDh529i143.jpg"
+    },
+    {
+      "id": "cannes-grand-prix-1975-the-enigma-of-kaspar-hauser",
+      "mediaType": "movie",
+      "title": "卡斯帕尔·豪泽尔之谜",
+      "awardYear": 1975,
+      "winner": "Werner Herzog",
+      "releaseDate": "1974-11-01",
+      "externalIds": {
+        "tmdb": "11710"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/sQMgWXrhvzHylyXCPt7myVSG96I.jpg"
+    },
+    {
+      "id": "cannes-grand-prix-1976-cria-cuervos",
+      "mediaType": "movie",
+      "title": "饲养乌鸦",
+      "awardYear": 1976,
+      "winner": "Carlos Saura",
+      "releaseDate": "1976-06-03",
+      "externalIds": {
+        "tmdb": "51857"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/hueMt6pkaV8nwVGwKP2uuiqF5DJ.jpg"
+    },
+    {
+      "id": "cannes-grand-prix-1976-the-marquise-of-o",
+      "mediaType": "movie",
+      "title": "O侯爵夫人",
+      "awardYear": 1976,
+      "winner": "Éric Rohmer",
+      "releaseDate": "1976-05-19",
+      "externalIds": {
+        "tmdb": "48205"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/z7oWathRvbObBUeCWae8AKrI5ZZ.jpg"
+    },
+    {
+      "id": "cannes-grand-prix-1978-bye-bye-monkey",
+      "mediaType": "movie",
+      "title": "猴子再见",
+      "awardYear": 1978,
+      "winner": "Marco Ferreri",
+      "releaseDate": "1978-02-24",
+      "externalIds": {
+        "tmdb": "42200"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/gw1PrkRwMe9XZUksQpdB81ExP1j.jpg"
+    },
+    {
+      "id": "cannes-grand-prix-1978-the-shout",
+      "mediaType": "movie",
+      "title": "死神的呼唤",
+      "awardYear": 1978,
+      "winner": "Jerzy Skolimowski",
+      "releaseDate": "1978-06-16",
+      "externalIds": {
+        "tmdb": "48131"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/xwfcl8BZGWTnVGBmMn4axvKDiAr.jpg"
+    },
+    {
+      "id": "cannes-grand-prix-1979-siberiade",
+      "mediaType": "movie",
+      "title": "西伯利亚之歌",
+      "awardYear": 1979,
+      "winner": "Andrei Konchalovsky",
+      "releaseDate": "1979-11-28",
+      "externalIds": {
+        "tmdb": "68553"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/z3WYuEQkI5hAFGmCsip1hcModo0.jpg"
+    },
+    {
+      "id": "cannes-grand-prix-1980-my-american-uncle",
+      "mediaType": "movie",
+      "title": "我的美国舅舅",
+      "awardYear": 1980,
+      "winner": "Alain Resnais",
+      "releaseDate": "1980-05-21",
+      "externalIds": {
+        "tmdb": "39543"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/e9gbeslzPIav8ELEPRrKB1EzonF.jpg"
+    },
+    {
+      "id": "cannes-grand-prix-1981-light-years-away",
+      "mediaType": "movie",
+      "title": "光年以外",
+      "awardYear": 1981,
+      "winner": "Alain Tanner",
+      "releaseDate": "1981-05-20",
+      "externalIds": {
+        "tmdb": "101330"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/5ObVcqX3XLWxrYYCH4vnu5OU2YY.jpg"
+    },
+    {
+      "id": "cannes-grand-prix-1982-the-night-of-the-shooting-stars",
+      "mediaType": "movie",
+      "title": "圣洛伦佐之夜",
+      "awardYear": 1982,
+      "winner": "Paolo Taviani; Vittorio Taviani",
+      "releaseDate": "1982-09-16",
+      "externalIds": {
+        "tmdb": "42130"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/u9QgkfHj90rr33KhjLlk5tr7bVg.jpg"
+    },
+    {
+      "id": "cannes-grand-prix-1983-monty-python-s-the-meaning-of-life",
+      "mediaType": "movie",
+      "title": "人生七部曲",
+      "awardYear": 1983,
+      "winner": "Terry Jones",
+      "releaseDate": "1983-03-31",
+      "externalIds": {
+        "tmdb": "4543"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/9yavZ9WgEZIpWi2EbVW8At9RPdo.jpg"
+    },
+    {
+      "id": "cannes-grand-prix-1984-diary-for-my-children",
+      "mediaType": "movie",
+      "title": "留给女儿的日记",
+      "awardYear": 1984,
+      "winner": "Márta Mészáros",
+      "releaseDate": "1984-05-03",
+      "externalIds": {
+        "tmdb": "84946"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/7Hvy8UNr1AH7OZFuUgx33GddDTX.jpg"
+    },
+    {
+      "id": "cannes-grand-prix-1985-birdy",
+      "mediaType": "movie",
+      "title": "鸟人",
+      "awardYear": 1985,
+      "winner": "Alan Parker",
+      "releaseDate": "1984-12-14",
+      "externalIds": {
+        "tmdb": "11296"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/weIn0Huxx4SQU8PB5ZggzA4PLIE.jpg"
+    },
+    {
+      "id": "cannes-grand-prix-1986-the-sacrifice",
+      "mediaType": "movie",
+      "title": "牺牲",
+      "awardYear": 1986,
+      "winner": "Andrei Tarkovsky",
+      "releaseDate": "1986-05-09",
+      "externalIds": {
+        "tmdb": "24657"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/8JMh27z075ZHbFE85XYkdXF2QkK.jpg"
+    },
+    {
+      "id": "cannes-grand-prix-1987-repentance",
+      "mediaType": "movie",
+      "title": "忏悔",
+      "awardYear": 1987,
+      "winner": "Tengiz Abuladze",
+      "releaseDate": "1987-05-01",
+      "externalIds": {
+        "tmdb": "96920"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/9kZqQ2tlwfts6ch2s4ibKhjQgzW.jpg"
+    },
+    {
+      "id": "cannes-grand-prix-1988-a-world-apart",
+      "mediaType": "movie",
+      "title": "无声的岁月",
+      "awardYear": 1988,
+      "winner": "Chris Menges",
+      "releaseDate": "1988-06-17",
+      "externalIds": {
+        "tmdb": "41949"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/rLo4PwbuT3C7k2VxAGbMQU1aINp.jpg"
+    },
+    {
+      "id": "cannes-grand-prix-1989-cinema-paradiso",
+      "mediaType": "movie",
+      "title": "天堂电影院",
+      "awardYear": 1989,
+      "winner": "Giuseppe Tornatore",
+      "releaseDate": "1988-11-17",
+      "externalIds": {
+        "tmdb": "11216"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/9JhfVOveaY00o8njQu2Xrp4YWud.jpg"
+    },
+    {
+      "id": "cannes-grand-prix-1989-too-beautiful-for-you",
+      "mediaType": "movie",
+      "title": "你不配她",
+      "awardYear": 1989,
+      "winner": "Bertrand Blier",
+      "releaseDate": "1989-10-21",
+      "externalIds": {
+        "tmdb": "48524"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/eGgg6qufHcMHrKvG3eoPhCEVDnI.jpg"
+    },
+    {
+      "id": "cannes-grand-prix-1990-the-sting-of-death",
+      "mediaType": "movie",
+      "title": "死之棘",
+      "awardYear": 1990,
+      "winner": "Kōhei Oguri",
+      "releaseDate": "1990-04-28",
+      "externalIds": {
+        "tmdb": "128775"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/xb0jFRvL58WBNIgRX7zQ39AcWIF.jpg"
+    },
+    {
+      "id": "cannes-grand-prix-1990-tilai",
+      "mediaType": "movie",
+      "title": "蒂莱",
+      "awardYear": 1990,
+      "winner": "Idrissa Ouedraogo",
+      "releaseDate": "1990-09-24",
+      "externalIds": {
+        "tmdb": "65482"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/zj2UAI0eWxhtqX7K4HatWZmM3tH.jpg"
+    },
+    {
+      "id": "cannes-grand-prix-1991-la-belle-noiseuse",
+      "mediaType": "movie",
+      "title": "不羁的美女",
+      "awardYear": 1991,
+      "winner": "Jacques Rivette",
+      "releaseDate": "1991-09-04",
+      "externalIds": {
+        "tmdb": "12627"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/n6f7I9RUdoDa9AgM9X2oAc3pk4l.jpg"
+    },
+    {
+      "id": "cannes-grand-prix-1992-the-stolen-children",
+      "mediaType": "movie",
+      "title": "盗窃童心",
+      "awardYear": 1992,
+      "winner": "Gianni Amelio",
+      "releaseDate": "1992-04-10",
+      "externalIds": {
+        "tmdb": "47714"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/fkFYNR4iCz5n1j5Drf0jejKmNVb.jpg"
+    },
+    {
+      "id": "cannes-grand-prix-1993-faraway-so-close",
+      "mediaType": "movie",
+      "title": "咫尺天涯",
+      "awardYear": 1993,
+      "winner": "Wim Wenders",
+      "releaseDate": "1993-09-01",
+      "externalIds": {
+        "tmdb": "10434"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/5VaPw0NgM4DloukmQTggzgvD4rb.jpg"
+    },
+    {
+      "id": "cannes-grand-prix-1994-burnt-by-the-sun",
+      "mediaType": "movie",
+      "title": "烈日灼人",
+      "awardYear": 1994,
+      "winner": "Nikita Mikhalkov",
+      "releaseDate": "1994-05-01",
+      "externalIds": {
+        "tmdb": "50797"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/jcpvnPSuRrynrgY7menuyZe7X4r.jpg"
+    },
+    {
+      "id": "cannes-grand-prix-1994-to-live",
+      "mediaType": "movie",
+      "title": "活着",
+      "awardYear": 1994,
+      "winner": "Zhang Yimou",
+      "releaseDate": "1994-05-18",
+      "externalIds": {
+        "tmdb": "31439"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/bv0qREWTw8TPAtgt22ELp1UlKVl.jpg"
+    },
+    {
+      "id": "cannes-grand-prix-1995-ulysses-gaze",
+      "mediaType": "movie",
+      "title": "尤里西斯的凝视",
+      "awardYear": 1995,
+      "winner": "Theo Angelopoulos",
+      "releaseDate": "1995-10-12",
+      "externalIds": {
+        "tmdb": "22549"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/AmRdjyd5nVBd06FzJT8xoTS43ct.jpg"
+    },
+    {
+      "id": "cannes-grand-prix-1996-breaking-the-waves",
+      "mediaType": "movie",
+      "title": "破浪",
+      "awardYear": 1996,
+      "winner": "Lars von Trier",
+      "releaseDate": "1996-07-05",
+      "externalIds": {
+        "tmdb": "145"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/dQWMcdHXUOSHtr7ypOCa5T79JMS.jpg"
+    },
+    {
+      "id": "cannes-grand-prix-1997-the-sweet-hereafter",
+      "mediaType": "movie",
+      "title": "甜蜜的来世",
+      "awardYear": 1997,
+      "winner": "Atom Egoyan",
+      "releaseDate": "1997-09-25",
+      "externalIds": {
+        "tmdb": "10217"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/gJy7LMq4b5qO5fsSUSoBgm24BHf.jpg"
+    },
+    {
+      "id": "cannes-grand-prix-1998-life-is-beautiful",
+      "mediaType": "movie",
+      "title": "美丽人生",
+      "awardYear": 1998,
+      "winner": "Roberto Benigni",
+      "releaseDate": "1997-12-20",
+      "externalIds": {
+        "tmdb": "637"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/74hLDKjD5aGYOotO6esUVaeISa2.jpg"
+    },
+    {
+      "id": "cannes-grand-prix-1999-humanite",
+      "mediaType": "movie",
+      "title": "人啊人",
+      "awardYear": 1999,
+      "winner": "Bruno Dumont",
+      "releaseDate": "1999-09-10",
+      "externalIds": {
+        "tmdb": "65296"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/fEEVsOpI21ZDY64tKMh4T3FZzCp.jpg"
+    },
+    {
+      "id": "cannes-grand-prix-2000-devils-on-the-doorstep",
+      "mediaType": "movie",
+      "title": "鬼子来了",
+      "awardYear": 2000,
+      "winner": "Jiang Wen",
+      "releaseDate": "2001-10-26",
+      "externalIds": {
+        "tmdb": "25838"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/zpbyUenBJGhyA6RKa5RcQWGKOYb.jpg"
+    },
+    {
+      "id": "cannes-grand-prix-2001-the-piano-teacher",
+      "mediaType": "movie",
+      "title": "钢琴教师",
+      "awardYear": 2001,
+      "winner": "Michael Haneke",
+      "releaseDate": "2001-09-05",
+      "externalIds": {
+        "tmdb": "1791"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/gNHKYQnP1RnqEhkivHJzBPb4MOP.jpg"
+    },
+    {
+      "id": "cannes-grand-prix-2002-the-man-without-a-past",
+      "mediaType": "movie",
+      "title": "没有过去的男人",
+      "awardYear": 2002,
+      "winner": "Aki Kaurismäki",
+      "releaseDate": "2002-03-01",
+      "externalIds": {
+        "tmdb": "7294"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/9tBepCujkyNg1qM52MsaJfDkIRw.jpg"
+    },
+    {
+      "id": "cannes-grand-prix-2003-uzak",
+      "mediaType": "movie",
+      "title": "远方",
+      "awardYear": 2003,
+      "winner": "Nuri Bilge Ceylan",
+      "releaseDate": "2002-12-20",
+      "externalIds": {
+        "tmdb": "31026"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/7XKGrHh1BRnMiIRMRYRsWPQDJfh.jpg"
+    },
+    {
+      "id": "cannes-grand-prix-2004-oldboy",
+      "mediaType": "movie",
+      "title": "老男孩",
+      "awardYear": 2004,
+      "winner": "Park Chan-wook",
+      "releaseDate": "2003-11-21",
+      "externalIds": {
+        "tmdb": "670"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/pWDtjs568ZfOTMbURQBYuT4Qxka.jpg"
+    },
+    {
+      "id": "cannes-grand-prix-2005-broken-flowers",
+      "mediaType": "movie",
+      "title": "破碎之花",
+      "awardYear": 2005,
+      "winner": "Jim Jarmusch",
+      "releaseDate": "2005-07-31",
+      "externalIds": {
+        "tmdb": "308"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/gd8JNjwgiM6ZgGm6NFAkovQWoYn.jpg"
+    },
+    {
+      "id": "cannes-grand-prix-2006-flanders",
+      "mediaType": "movie",
+      "title": "弗朗德勒",
+      "awardYear": 2006,
+      "winner": "Bruno Dumont",
+      "releaseDate": "2006-08-30",
+      "externalIds": {
+        "tmdb": "36143"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/qY8n5t12OBfiQI1X2rI4YrYxVoA.jpg"
+    },
+    {
+      "id": "cannes-grand-prix-2007-the-mourning-forest",
+      "mediaType": "movie",
+      "title": "殡之森",
+      "awardYear": 2007,
+      "winner": "Naomi Kawase",
+      "releaseDate": "2007-05-29",
+      "externalIds": {
+        "tmdb": "2010"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/fzi6QI5HU1917J9AvWa7uL5AF0.jpg"
+    },
+    {
+      "id": "cannes-grand-prix-2008-gomorrah",
+      "mediaType": "movie",
+      "title": "格莫拉",
+      "awardYear": 2008,
+      "winner": "Matteo Garrone",
+      "releaseDate": "2008-05-16",
+      "externalIds": {
+        "tmdb": "8882"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/3XcCTqSovFZE5GRebJmh1kHwziw.jpg"
+    },
+    {
+      "id": "cannes-grand-prix-2009-a-prophet",
+      "mediaType": "movie",
+      "title": "预言者",
+      "awardYear": 2009,
+      "winner": "Jacques Audiard",
+      "releaseDate": "2009-08-26",
+      "externalIds": {
+        "tmdb": "21575"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/x9Jb8kewBHPzjTtgCQvoQoDsy4d.jpg"
+    },
+    {
+      "id": "cannes-grand-prix-2010-of-gods-and-men",
+      "mediaType": "movie",
+      "title": "人与神",
+      "awardYear": 2010,
+      "winner": "Xavier Beauvois",
+      "releaseDate": "2010-09-08",
+      "externalIds": {
+        "tmdb": "46332"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/fgrC0w62MCc7Fn77l5RVY0WKv0t.jpg"
+    },
+    {
+      "id": "cannes-grand-prix-2011-the-kid-with-a-bike",
+      "mediaType": "movie",
+      "title": "单车少年",
+      "awardYear": 2011,
+      "winner": "Jean-Pierre Dardenne; Luc Dardenne",
+      "releaseDate": "2011-05-18",
+      "externalIds": {
+        "tmdb": "63831"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/5uRiWyYSAYYScTRe9HP7BHpOQvr.jpg"
+    },
+    {
+      "id": "cannes-grand-prix-2011-once-upon-a-time-in-anatolia",
+      "mediaType": "movie",
+      "title": "小亚细亚往事",
+      "awardYear": 2011,
+      "winner": "Nuri Bilge Ceylan",
+      "releaseDate": "2011-09-23",
+      "externalIds": {
+        "tmdb": "74879"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/bN84guFndgvtWIvFC7sTD8AAJDE.jpg"
+    },
+    {
+      "id": "cannes-grand-prix-2012-reality",
+      "mediaType": "movie",
+      "title": "真人秀",
+      "awardYear": 2012,
+      "winner": "Matteo Garrone",
+      "releaseDate": "2012-05-04",
+      "externalIds": {
+        "tmdb": "103758"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/bl2Hy8yyHXmTSDLz3NMxIe9wgIo.jpg"
+    },
+    {
+      "id": "cannes-grand-prix-2013-inside-llewyn-davis",
+      "mediaType": "movie",
+      "title": "醉乡民谣",
+      "awardYear": 2013,
+      "winner": "Joel Coen; Ethan Coen",
+      "releaseDate": "2013-10-18",
+      "externalIds": {
+        "tmdb": "86829"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/nNxK3pC3DMpPpWKMvo2p3liREVT.jpg"
+    },
+    {
+      "id": "cannes-grand-prix-2014-the-wonders",
+      "mediaType": "movie",
+      "title": "奇迹",
+      "awardYear": 2014,
+      "winner": "Alice Rohrwacher",
+      "releaseDate": "2014-05-22",
+      "externalIds": {
+        "tmdb": "265226"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/u5Z23Rt9OKhQc61wPPwrDs4psdi.jpg"
+    },
+    {
+      "id": "cannes-grand-prix-2015-son-of-saul",
+      "mediaType": "movie",
+      "title": "索尔之子",
+      "awardYear": 2015,
+      "winner": "László Nemes",
+      "releaseDate": "2015-06-11",
+      "externalIds": {
+        "tmdb": "336050"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/9ZcX6NjCJam5uwkooXffhHI29Lj.jpg"
+    },
+    {
+      "id": "cannes-grand-prix-2016-it-s-only-the-end-of-the-world",
+      "mediaType": "movie",
+      "title": "只是世界尽头",
+      "awardYear": 2016,
+      "winner": "Xavier Dolan",
+      "releaseDate": "2016-09-21",
+      "externalIds": {
+        "tmdb": "338189"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/riWa3WZrO3n8lLWuaEVMgaqAZGn.jpg"
+    },
+    {
+      "id": "cannes-grand-prix-2017-bpm-beats-per-minute",
+      "mediaType": "movie",
+      "title": "每分钟120击",
+      "awardYear": 2017,
+      "winner": "Robin Campillo",
+      "releaseDate": "2017-08-23",
+      "externalIds": {
+        "tmdb": "451945"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/azLtGx5ZhdTSP2b4oNLWtiE51OW.jpg"
+    },
+    {
+      "id": "cannes-grand-prix-2018-blackkklansman",
+      "mediaType": "movie",
+      "title": "黑色党徒",
+      "awardYear": 2018,
+      "winner": "Spike Lee",
+      "releaseDate": "2018-08-09",
+      "externalIds": {
+        "tmdb": "487558"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/8jxqAvSDoneSKRczaK8v9X5gqBp.jpg"
+    },
+    {
+      "id": "cannes-grand-prix-2019-atlantics",
+      "mediaType": "movie",
+      "title": "大西洋",
+      "awardYear": 2019,
+      "winner": "Mati Diop",
+      "releaseDate": "2019-10-02",
+      "externalIds": {
+        "tmdb": "496967"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/zRnZM6HqglFK31MYyrTSQVlj1dQ.jpg"
+    },
+    {
+      "id": "cannes-grand-prix-2021-compartment-no-6",
+      "mediaType": "movie",
+      "title": "六号车厢",
+      "awardYear": 2021,
+      "winner": "Juho Kuosmanen",
+      "releaseDate": "2021-10-29",
+      "externalIds": {
+        "tmdb": "588182"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/3KUsYQmQXVCMrnGnQIoqkj5MJUP.jpg"
+    },
+    {
+      "id": "cannes-grand-prix-2021-a-hero",
+      "mediaType": "movie",
+      "title": "一个英雄",
+      "awardYear": 2021,
+      "winner": "Asghar Farhadi",
+      "releaseDate": "2021-12-15",
+      "externalIds": {
+        "tmdb": "672208"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/5VBPRWW13OJoiLA6suLofnjLKou.jpg"
+    },
+    {
+      "id": "cannes-grand-prix-2022-close",
+      "mediaType": "movie",
+      "title": "亲密",
+      "awardYear": 2022,
+      "winner": "Lukas Dhont",
+      "releaseDate": "2022-11-01",
+      "externalIds": {
+        "tmdb": "901563"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/dlMNnWs7Mz8Nk5AC447Ew1tD5pn.jpg"
+    },
+    {
+      "id": "cannes-grand-prix-2022-stars-at-noon",
+      "mediaType": "movie",
+      "title": "正午之星",
+      "awardYear": 2022,
+      "winner": "Claire Denis",
+      "releaseDate": "2022-10-14",
+      "externalIds": {
+        "tmdb": "603204"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/viR50oQCs8ObciADFGWHUyChexZ.jpg"
+    },
+    {
+      "id": "cannes-grand-prix-2023-the-zone-of-interest",
+      "mediaType": "movie",
+      "title": "利益区域",
+      "awardYear": 2023,
+      "winner": "Jonathan Glazer",
+      "releaseDate": "2023-12-15",
+      "externalIds": {
+        "tmdb": "467244"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/hUu9zyZmDd8VZegKi1iK1Vk0RYS.jpg"
+    },
+    {
+      "id": "cannes-grand-prix-2024-all-we-imagine-as-light",
+      "mediaType": "movie",
+      "title": "想象之光",
+      "awardYear": 2024,
+      "winner": "Payal Kapadia",
+      "releaseDate": "2024-09-21",
+      "externalIds": {
+        "tmdb": "927547"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/ruImrzB4POsrgwCMozmOBV67zs5.jpg"
+    },
+    {
+      "id": "cannes-grand-prix-2025-sentimental-value",
+      "mediaType": "movie",
+      "title": "情感价值",
+      "awardYear": 2025,
+      "winner": "Joachim Trier",
+      "releaseDate": "2025-08-20",
+      "externalIds": {
+        "tmdb": "1124566"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/AcbS8VMysrTpG9r4dgK1oyLsKYn.jpg"
+    },
+    {
+      "id": "cannes-grand-prix-2026-minotaur",
+      "mediaType": "movie",
+      "title": "米诺陶",
+      "awardYear": 2026,
+      "winner": "Andrey Zvyagintsev",
+      "releaseDate": "2026-10-14",
+      "externalIds": {
+        "tmdb": "848700"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/wcxM1Pc8StmtMVTlkk1d62x0VPl.jpg"
+    }
+  ]
+}

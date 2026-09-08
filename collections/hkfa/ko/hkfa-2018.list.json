@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "title": "2018 홍콩 영화 금상장 수상작",
+  "description": "2018년 홍콩 영화 금상장 주요 부문 수상작과 수상자.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "hkfa-2018-best-film-7075594",
+      "mediaType": "movie",
+      "title": "Our Time Will Come",
+      "awardYear": 2018,
+      "winner": "《明月幾時有》",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7075594"
+      },
+      "award": "최우수 작품상",
+      "awardOrder": 1,
+      "originalTitle": "明月幾時有"
+    },
+    {
+      "id": "hkfa-2018-best-director-7075594",
+      "mediaType": "movie",
+      "title": "明月幾時有",
+      "awardYear": 2018,
+      "winner": "허안화",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7075594"
+      },
+      "award": "감독상",
+      "awardOrder": 2
+    },
+    {
+      "id": "hkfa-2018-best-screenplay-7479718",
+      "mediaType": "movie",
+      "title": "相愛相親",
+      "awardYear": 2018,
+      "winner": "張艾嘉、游曉穎",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7479718"
+      },
+      "award": "각본상",
+      "awardOrder": 3
+    },
+    {
+      "id": "hkfa-2018-best-actor-7245176",
+      "mediaType": "movie",
+      "title": "殺破狼·貪狼",
+      "awardYear": 2018,
+      "winner": "고천락",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7245176"
+      },
+      "award": "남우주연상",
+      "awardOrder": 4
+    },
+    {
+      "id": "hkfa-2018-best-actress-7875604",
+      "mediaType": "movie",
+      "title": "黃金花",
+      "awardYear": 2018,
+      "winner": "모순균",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7875604"
+      },
+      "award": "여우주연상",
+      "awardOrder": 5
+    },
+    {
+      "id": "hkfa-2018-best-supporting-actor-5847286",
+      "mediaType": "movie",
+      "title": "拆彈專家",
+      "awardYear": 2018,
+      "winner": "姜皓文",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5847286"
+      },
+      "award": "남우조연상",
+      "awardOrder": 6
+    },
+    {
+      "id": "hkfa-2018-best-supporting-actress-7075594",
+      "mediaType": "movie",
+      "title": "明月幾時有",
+      "awardYear": 2018,
+      "winner": "엽덕한",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7075594"
+      },
+      "award": "여우조연상",
+      "awardOrder": 7
+    },
+    {
+      "id": "hkfa-2018-best-new-performer-7875604",
+      "mediaType": "movie",
+      "title": "黃金花",
+      "awardYear": 2018,
+      "winner": "凌文龍",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7875604"
+      },
+      "award": "신인상",
+      "awardOrder": 8
+    }
+  ],
+  "updatedAt": "2026-09-12T02:57:20Z"
+}

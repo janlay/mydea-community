@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "ChatGPT",
+  "title": "Golden Globes — Best Motion Picture – Musical or Comedy",
+  "description": "Winners of the Golden Globe Best Motion Picture – Musical or Comedy category from 2017 through 2026.",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "golden-globes-comedy.list.json"
+    }
+  ]
+}

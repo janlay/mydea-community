@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-12T02:53:58Z",
+  "title": "百想藝術大賞 — 電視最佳女主角",
+  "description": "2017–2026 年百想藝術大賞電視最佳女主角獲獎記錄。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "baeksang-2017-tv-actress-another-miss-oh",
+      "mediaType": "tv",
+      "title": "又是吳海英",
+      "originalTitle": "또 오해영",
+      "awardYear": 2017,
+      "winner": "Seo Hyun-jin",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5679572"
+      }
+    },
+    {
+      "id": "baeksang-2018-tv-actress-misty",
+      "mediaType": "tv",
+      "title": "迷霧",
+      "originalTitle": "미스티",
+      "awardYear": 2018,
+      "winner": "Kim Nam-joo",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7890244"
+      }
+    },
+    {
+      "id": "baeksang-2019-tv-actress-sky-castle",
+      "mediaType": "tv",
+      "title": "天空之城",
+      "originalTitle": "SKY 캐슬",
+      "awardYear": 2019,
+      "winner": "Yum Jung-ah",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt9151274"
+      }
+    },
+    {
+      "id": "baeksang-2020-tv-actress-world-married",
+      "mediaType": "tv",
+      "title": "夫妻的世界",
+      "originalTitle": "부부의 세계",
+      "awardYear": 2020,
+      "winner": "Kim Hee-ae",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt12042964"
+      }
+    },
+    {
+      "id": "baeksang-2021-tv-actress-penthouse",
+      "mediaType": "tv",
+      "title": "頂樓",
+      "originalTitle": "펜트하우스",
+      "awardYear": 2021,
+      "winner": "Kim So-yeon",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt13067118"
+      }
+    },
+    {
+      "id": "baeksang-2022-tv-actress-2521",
+      "mediaType": "tv",
+      "title": "二十五，二十一",
+      "originalTitle": "스물다섯 스물하나",
+      "awardYear": 2022,
+      "winner": "Kim Tae-ri",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt17513352"
+      }
+    },
+    {
+      "id": "baeksang-2023-tv-actress-glory",
+      "mediaType": "tv",
+      "title": "黑暗榮耀",
+      "originalTitle": "더 글로리",
+      "awardYear": 2023,
+      "winner": "Song Hye-kyo",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt21344706"
+      }
+    },
+    {
+      "id": "baeksang-2024-tv-actress-knight-flower",
+      "mediaType": "tv",
+      "title": "夜晚開的花",
+      "originalTitle": "밤에 피는 꽃",
+      "awardYear": 2024,
+      "winner": "Lee Hanee",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt30012439"
+      }
+    },
+    {
+      "id": "baeksang-2025-tv-actress-jeongnyeon",
+      "mediaType": "tv",
+      "title": "正年",
+      "originalTitle": "정년이",
+      "awardYear": 2025,
+      "winner": "Kim Tae-ri",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt28197611"
+      }
+    },
+    {
+      "id": "baeksang-2026-tv-actress-unwritten-seoul",
+      "mediaType": "tv",
+      "title": "未知的首爾",
+      "originalTitle": "미지의 서울",
+      "awardYear": 2026,
+      "winner": "Park Bo-young",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt36724865"
+      }
+    }
+  ]
+}

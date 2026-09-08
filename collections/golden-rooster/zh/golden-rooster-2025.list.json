@@ -1,0 +1,226 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T00:56:00Z",
+  "title": "中国电影金鸡奖 2025 年获奖名单",
+  "description": "第38届中国电影金鸡奖主要获奖影片与影人。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "golden-rooster-2025-best-feature-film-58770383",
+      "mediaType": "movie",
+      "title": "好东西",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt31807233",
+        "douban": "36154853"
+      },
+      "awardYear": 2025,
+      "awardOrder": 1,
+      "award": "最佳故事片",
+      "winner": "邵艺辉"
+    },
+    {
+      "id": "golden-rooster-2025-jury-special-prize-57384811",
+      "mediaType": "movie",
+      "title": "志愿军：存亡之战",
+      "awardYear": 2025,
+      "awardOrder": 2,
+      "award": "评委会特别奖"
+    },
+    {
+      "id": "golden-rooster-2025-best-screenplay-01927100",
+      "mediaType": "movie",
+      "title": "破·地狱",
+      "awardYear": 2025,
+      "awardOrder": 3,
+      "award": "最佳编剧",
+      "winner": "陈茂贤、郑纬机"
+    },
+    {
+      "id": "golden-rooster-2025-best-director-06259004",
+      "mediaType": "movie",
+      "title": "唐探1900",
+      "releaseDate": "2025",
+      "externalIds": {
+        "tmdb": "1357305"
+      },
+      "awardYear": 2025,
+      "awardOrder": 4,
+      "award": "最佳导演",
+      "winner": "陈思诚、戴墨"
+    },
+    {
+      "id": "golden-rooster-2025-best-directorial-debut-84941585",
+      "mediaType": "movie",
+      "title": "老枪",
+      "releaseDate": "2023",
+      "awardYear": 2025,
+      "awardOrder": 5,
+      "award": "最佳导演处女作",
+      "winner": "高朋"
+    },
+    {
+      "id": "golden-rooster-2025-best-actor-17999009",
+      "mediaType": "movie",
+      "title": "小小的我",
+      "releaseDate": "2024",
+      "externalIds": {
+        "tmdb": "1278101"
+      },
+      "awardYear": 2025,
+      "awardOrder": 6,
+      "award": "最佳男主角",
+      "winner": "易烊千玺"
+    },
+    {
+      "id": "golden-rooster-2025-best-actress-36697945",
+      "mediaType": "movie",
+      "title": "好东西",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt31807233",
+        "douban": "36154853"
+      },
+      "awardYear": 2025,
+      "awardOrder": 7,
+      "award": "最佳女主角",
+      "winner": "宋佳"
+    },
+    {
+      "id": "golden-rooster-2025-best-supporting-actor-23269425",
+      "mediaType": "movie",
+      "title": "水饺皇后",
+      "awardYear": 2025,
+      "awardOrder": 8,
+      "award": "最佳男配角",
+      "winner": "袁富华"
+    },
+    {
+      "id": "golden-rooster-2025-best-supporting-actress-62660287",
+      "mediaType": "movie",
+      "title": "好东西",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt31807233",
+        "douban": "36154853"
+      },
+      "awardYear": 2025,
+      "awardOrder": 9,
+      "award": "最佳女配角",
+      "winner": "钟楚曦"
+    },
+    {
+      "id": "golden-rooster-2025-best-low-budget-feature-35141482",
+      "mediaType": "movie",
+      "title": "但愿人长久",
+      "awardYear": 2025,
+      "awardOrder": 10,
+      "award": "最佳中小成本故事片"
+    },
+    {
+      "id": "golden-rooster-2025-best-children-film-80506636",
+      "mediaType": "movie",
+      "title": "闪耀少年之空中接力",
+      "awardYear": 2025,
+      "awardOrder": 11,
+      "award": "最佳儿童片"
+    },
+    {
+      "id": "golden-rooster-2025-best-documentary-science-48547933",
+      "mediaType": "movie",
+      "title": "您的声音",
+      "awardYear": 2025,
+      "awardOrder": 12,
+      "award": "最佳纪录科教片"
+    },
+    {
+      "id": "golden-rooster-2025-best-opera-film-84317226",
+      "mediaType": "movie",
+      "title": "双蝶扇",
+      "awardYear": 2025,
+      "awardOrder": 13,
+      "award": "最佳戏曲片"
+    },
+    {
+      "id": "golden-rooster-2025-best-animation-79362414",
+      "mediaType": "movie",
+      "title": "哪吒之魔童闹海",
+      "releaseDate": "2025",
+      "externalIds": {
+        "tmdb": "980477",
+        "imdb": "tt34956443"
+      },
+      "awardYear": 2025,
+      "awardOrder": 14,
+      "award": "最佳美术片"
+    },
+    {
+      "id": "golden-rooster-2025-best-foreign-language-film-39948163",
+      "mediaType": "movie",
+      "title": "还有明天",
+      "awardYear": 2025,
+      "awardOrder": 15,
+      "award": "最佳外语片"
+    },
+    {
+      "id": "golden-rooster-2025-best-cinematography-54152998",
+      "mediaType": "movie",
+      "title": "志愿军：存亡之战",
+      "awardYear": 2025,
+      "awardOrder": 16,
+      "award": "最佳摄影",
+      "winner": "赵非"
+    },
+    {
+      "id": "golden-rooster-2025-best-sound-39429645",
+      "mediaType": "movie",
+      "title": "志愿军：存亡之战",
+      "awardYear": 2025,
+      "awardOrder": 17,
+      "award": "最佳录音",
+      "winner": "王丹戎"
+    },
+    {
+      "id": "golden-rooster-2025-best-art-direction-70225841",
+      "mediaType": "movie",
+      "title": "解密",
+      "awardYear": 2025,
+      "awardOrder": 18,
+      "award": "最佳美术",
+      "winner": "韩忠、马晓飞"
+    },
+    {
+      "id": "golden-rooster-2025-best-music-15192743",
+      "mediaType": "movie",
+      "title": "长安的荔枝",
+      "awardYear": 2025,
+      "awardOrder": 19,
+      "award": "最佳音乐",
+      "winner": "翟锦彦"
+    },
+    {
+      "id": "golden-rooster-2025-best-editing-31201117",
+      "mediaType": "movie",
+      "title": "我和我母亲的疼痛",
+      "awardYear": 2025,
+      "awardOrder": 20,
+      "award": "最佳剪辑",
+      "winner": "周新霞"
+    }
+  ]
+}

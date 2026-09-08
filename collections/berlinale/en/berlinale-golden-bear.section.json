@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "Mydea",
+  "title": "Berlinale — Golden Bear for Best Film",
+  "description": "Complete historical winners of the Berlinale Golden Bear for Best Film.",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "berlinale-golden-bear.list.json"
+    }
+  ]
+}

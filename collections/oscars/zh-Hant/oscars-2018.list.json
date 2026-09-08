@@ -1,0 +1,154 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T05:03:58Z",
+  "title": "奧斯卡 2018 年得獎名單",
+  "description": "第 90 屆奧斯卡核心電影獎項得獎影片與得獎者。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "oscars-2018-best-picture-the-shape-of-water",
+      "mediaType": "movie",
+      "title": "The Shape of Water",
+      "award": "最佳影片",
+      "awardYear": 2018,
+      "awardOrder": 1,
+      "winner": "Guillermo del Toro & J. Miles Dale",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5580390"
+      }
+    },
+    {
+      "id": "oscars-2018-best-director-the-shape-of-water",
+      "mediaType": "movie",
+      "title": "The Shape of Water",
+      "award": "最佳導演",
+      "awardYear": 2018,
+      "awardOrder": 2,
+      "winner": "Guillermo del Toro",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5580390"
+      }
+    },
+    {
+      "id": "oscars-2018-best-actor-darkest-hour",
+      "mediaType": "movie",
+      "title": "Darkest Hour",
+      "award": "最佳男主角",
+      "awardYear": 2018,
+      "awardOrder": 3,
+      "winner": "Gary Oldman",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt4555426"
+      }
+    },
+    {
+      "id": "oscars-2018-best-actress-three-billboards-outside-ebbing-missouri",
+      "mediaType": "movie",
+      "title": "Three Billboards Outside Ebbing, Missouri",
+      "award": "最佳女主角",
+      "awardYear": 2018,
+      "awardOrder": 4,
+      "winner": "Frances McDormand",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5027774"
+      }
+    },
+    {
+      "id": "oscars-2018-best-supporting-actor-three-billboards-outside-ebbing-missouri",
+      "mediaType": "movie",
+      "title": "Three Billboards Outside Ebbing, Missouri",
+      "award": "最佳男配角",
+      "awardYear": 2018,
+      "awardOrder": 5,
+      "winner": "Sam Rockwell",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5027774"
+      }
+    },
+    {
+      "id": "oscars-2018-best-supporting-actress-i-tonya",
+      "mediaType": "movie",
+      "title": "I, Tonya",
+      "award": "最佳女配角",
+      "awardYear": 2018,
+      "awardOrder": 6,
+      "winner": "Allison Janney",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5580036"
+      }
+    },
+    {
+      "id": "oscars-2018-best-original-screenplay-get-out",
+      "mediaType": "movie",
+      "title": "Get Out",
+      "award": "最佳原創劇本",
+      "awardYear": 2018,
+      "awardOrder": 7,
+      "winner": "Jordan Peele",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5052448"
+      }
+    },
+    {
+      "id": "oscars-2018-best-adapted-screenplay-call-me-by-your-name",
+      "mediaType": "movie",
+      "title": "Call Me by Your Name",
+      "award": "最佳改編劇本",
+      "awardYear": 2018,
+      "awardOrder": 8,
+      "winner": "James Ivory",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5726616"
+      }
+    },
+    {
+      "id": "oscars-2018-best-animated-feature-coco",
+      "mediaType": "movie",
+      "title": "Coco",
+      "award": "最佳動畫長片",
+      "awardYear": 2018,
+      "awardOrder": 9,
+      "winner": "Lee Unkrich & Darla K. Anderson",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt2380307"
+      }
+    },
+    {
+      "id": "oscars-2018-best-international-feature-a-fantastic-woman",
+      "mediaType": "movie",
+      "title": "A Fantastic Woman",
+      "award": "最佳國際影片",
+      "awardYear": 2018,
+      "awardOrder": 10,
+      "winner": "Sebastián Lelio",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5639354"
+      }
+    }
+  ]
+}

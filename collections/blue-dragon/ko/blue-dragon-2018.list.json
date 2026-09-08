@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-12T02:54:20Z",
+  "title": "청룡영화상 — 2018",
+  "description": "2018년 청룡영화상 주요 10개 영화 부문 수상작.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "blue-dragon-2018-best-film-1987",
+      "mediaType": "movie",
+      "title": "1987",
+      "englishTitle": "1987: When the Day Comes",
+      "award": "최우수작품상",
+      "awardYear": 2018,
+      "awardOrder": 1,
+      "winner": "Jang Joon-hwan",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6493286"
+      }
+    },
+    {
+      "id": "blue-dragon-2018-best-director-spy-gone-north",
+      "mediaType": "movie",
+      "title": "공작",
+      "englishTitle": "The Spy Gone North",
+      "award": "감독상",
+      "awardYear": 2018,
+      "awardOrder": 2,
+      "winner": "Yoon Jong-bin",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8290698"
+      }
+    },
+    {
+      "id": "blue-dragon-2018-best-actor-1987",
+      "mediaType": "movie",
+      "title": "1987",
+      "englishTitle": "1987: When the Day Comes",
+      "award": "남우주연상",
+      "awardYear": 2018,
+      "awardOrder": 3,
+      "winner": "Kim Yoon-seok",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6493286"
+      }
+    },
+    {
+      "id": "blue-dragon-2018-best-actress-miss-baek",
+      "mediaType": "movie",
+      "title": "미쓰백",
+      "englishTitle": "Miss Baek",
+      "award": "여우주연상",
+      "awardYear": 2018,
+      "awardOrder": 4,
+      "winner": "Han Ji-min",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt6479534"
+      }
+    },
+    {
+      "id": "blue-dragon-2018-best-supporting-actor-believer",
+      "mediaType": "movie",
+      "title": "독전",
+      "englishTitle": "Believer",
+      "award": "남우조연상",
+      "awardYear": 2018,
+      "awardOrder": 5,
+      "winner": "Kim Joo-hyuk",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7095654"
+      }
+    },
+    {
+      "id": "blue-dragon-2018-best-supporting-actress-along-gods",
+      "mediaType": "movie",
+      "title": "신과함께-죄와 벌",
+      "englishTitle": "Along with the Gods: The Two Worlds",
+      "award": "여우조연상",
+      "awardYear": 2018,
+      "awardOrder": 6,
+      "winner": "Kim Hyang-gi",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7160070"
+      }
+    },
+    {
+      "id": "blue-dragon-2018-best-new-director-microhabitat",
+      "mediaType": "movie",
+      "title": "소공녀",
+      "englishTitle": "Microhabitat",
+      "award": "신인감독상",
+      "awardYear": 2018,
+      "awardOrder": 7,
+      "winner": "Jeon Go-woon",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt8191502"
+      }
+    },
+    {
+      "id": "blue-dragon-2018-best-new-actor-great-battle",
+      "mediaType": "movie",
+      "title": "안시성",
+      "englishTitle": "The Great Battle",
+      "award": "신인남우상",
+      "awardYear": 2018,
+      "awardOrder": 8,
+      "winner": "Nam Joo-hyuk",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt6931414"
+      }
+    },
+    {
+      "id": "blue-dragon-2018-best-new-actress-witch",
+      "mediaType": "movie",
+      "title": "마녀",
+      "englishTitle": "The Witch: Part 1. The Subversion",
+      "award": "신인여우상",
+      "awardYear": 2018,
+      "awardOrder": 9,
+      "winner": "Kim Da-mi",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8574252"
+      }
+    },
+    {
+      "id": "blue-dragon-2018-best-screenplay-dark-figure-crime",
+      "mediaType": "movie",
+      "title": "암수살인",
+      "englishTitle": "Dark Figure of Crime",
+      "award": "각본상",
+      "awardYear": 2018,
+      "awardOrder": 10,
+      "winner": "Kwak Kyung-taek & Kim Tae-gyun",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8119680"
+      }
+    }
+  ]
+}

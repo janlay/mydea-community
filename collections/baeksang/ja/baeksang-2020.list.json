@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-12T02:58:14Z",
+  "title": "百想芸術大賞 — 2020",
+  "description": "2020年の百想芸術大賞における主要な映画・テレビ部門の受賞作品。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "baeksang-2020-film-grand-parasite",
+      "mediaType": "movie",
+      "title": "パラサイト 半地下の家族",
+      "originalTitle": "기생충",
+      "award": "映画部門 大賞",
+      "awardYear": 2020,
+      "awardOrder": 1,
+      "winner": "ポン・ジュノ",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6751668"
+      }
+    },
+    {
+      "id": "baeksang-2020-tv-grand-camellia",
+      "mediaType": "tv",
+      "title": "椿の花咲く頃",
+      "originalTitle": "동백꽃 필 무렵",
+      "award": "テレビ部門 大賞",
+      "awardYear": 2020,
+      "awardOrder": 2,
+      "winner": "椿の花咲く頃",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10826064"
+      }
+    },
+    {
+      "id": "baeksang-2020-film-best-parasite",
+      "mediaType": "movie",
+      "title": "パラサイト 半地下の家族",
+      "originalTitle": "기생충",
+      "award": "映画部門 作品賞",
+      "awardYear": 2020,
+      "awardOrder": 3,
+      "winner": "パラサイト 半地下の家族",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6751668"
+      }
+    },
+    {
+      "id": "baeksang-2020-film-director-hummingbird",
+      "mediaType": "movie",
+      "title": "はちどり",
+      "originalTitle": "벌새",
+      "award": "映画部門 監督賞",
+      "awardYear": 2020,
+      "awardOrder": 4,
+      "winner": "キム・ボラ",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8951086"
+      }
+    },
+    {
+      "id": "baeksang-2020-film-actor-man-standing",
+      "mediaType": "movie",
+      "title": "KCIA 南山の部長たち",
+      "originalTitle": "남산의 부장들",
+      "award": "映画部門 男性最優秀演技賞",
+      "awardYear": 2020,
+      "awardOrder": 5,
+      "winner": "イ・ビョンホン",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt11358398"
+      }
+    },
+    {
+      "id": "baeksang-2020-film-actress-birthday",
+      "mediaType": "movie",
+      "title": "君の誕生日",
+      "originalTitle": "생일",
+      "award": "映画部門 女性最優秀演技賞",
+      "awardYear": 2020,
+      "awardOrder": 6,
+      "winner": "チョン・ドヨン",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10248334"
+      }
+    },
+    {
+      "id": "baeksang-2020-tv-best-stove",
+      "mediaType": "tv",
+      "title": "ストーブリーグ",
+      "originalTitle": "스토브리그",
+      "award": "テレビ部門 作品賞",
+      "awardYear": 2020,
+      "awardOrder": 7,
+      "winner": "ストーブリーグ",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt11378124"
+      }
+    },
+    {
+      "id": "baeksang-2020-tv-director-world-married",
+      "mediaType": "tv",
+      "title": "夫婦の世界",
+      "originalTitle": "부부의 세계",
+      "award": "テレビ部門 演出賞",
+      "awardYear": 2020,
+      "awardOrder": 8,
+      "winner": "モ・ワニル",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt12042964"
+      }
+    },
+    {
+      "id": "baeksang-2020-tv-actor-camellia",
+      "mediaType": "tv",
+      "title": "椿の花咲く頃",
+      "originalTitle": "동백꽃 필 무렵",
+      "award": "テレビ部門 男性最優秀演技賞",
+      "awardYear": 2020,
+      "awardOrder": 9,
+      "winner": "カン・ハヌル",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10826064"
+      }
+    },
+    {
+      "id": "baeksang-2020-tv-actress-world-married",
+      "mediaType": "tv",
+      "title": "夫婦の世界",
+      "originalTitle": "부부의 세계",
+      "award": "テレビ部門 女性最優秀演技賞",
+      "awardYear": 2020,
+      "awardOrder": 10,
+      "winner": "キム・ヒエ",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt12042964"
+      }
+    }
+  ]
+}

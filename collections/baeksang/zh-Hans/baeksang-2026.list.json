@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-12T02:53:58Z",
+  "title": "百想艺术大赏 — 2026",
+  "description": "2026 年百想艺术大赏电影与电视主要奖项获奖记录。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "baeksang-2026-film-grand-kings-warden",
+      "mediaType": "movie",
+      "title": "与王生活的男人",
+      "originalTitle": "왕과 사는 남자",
+      "award": "电影大奖",
+      "awardYear": 2026,
+      "awardOrder": 1,
+      "winner": "Yoo Hae-jin",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt38626703"
+      }
+    },
+    {
+      "id": "baeksang-2026-tv-grand-dream-kim",
+      "mediaType": "tv",
+      "title": "金部长的梦想人生",
+      "originalTitle": "서울 자가에 대기업 다니는 김 부장 이야기",
+      "award": "电视大奖",
+      "awardYear": 2026,
+      "awardOrder": 2,
+      "winner": "Ryu Seung-ryong",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt38570528"
+      }
+    },
+    {
+      "id": "baeksang-2026-film-best-no-other-choice",
+      "mediaType": "movie",
+      "title": "无可奈何",
+      "originalTitle": "어쩔수가없다",
+      "award": "最佳电影",
+      "awardYear": 2026,
+      "awardOrder": 3,
+      "winner": "无可奈何",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt1527793"
+      }
+    },
+    {
+      "id": "baeksang-2026-film-director-world-love",
+      "mediaType": "movie",
+      "title": "世界的主人",
+      "originalTitle": "세계의 주인",
+      "award": "电影最佳导演",
+      "awardYear": 2026,
+      "awardOrder": 4,
+      "winner": "Yoon Ga-eun",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt37661885"
+      }
+    },
+    {
+      "id": "baeksang-2026-film-actor-ugly",
+      "mediaType": "movie",
+      "title": "脸庞",
+      "originalTitle": "얼굴",
+      "award": "电影最佳男主角",
+      "awardYear": 2026,
+      "awardOrder": 5,
+      "winner": "Park Jeong-min",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt33514451"
+      }
+    },
+    {
+      "id": "baeksang-2026-film-actress-once-us",
+      "mediaType": "movie",
+      "title": "如果我们",
+      "originalTitle": "만약에 우리",
+      "award": "电影最佳女主角",
+      "awardYear": 2026,
+      "awardOrder": 6,
+      "winner": "Moon Ga-young",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt37764737"
+      }
+    },
+    {
+      "id": "baeksang-2026-tv-best-you-everything",
+      "mediaType": "tv",
+      "title": "恩中与尚渊",
+      "originalTitle": "은중과 상연",
+      "award": "最佳电视剧",
+      "awardYear": 2026,
+      "awardOrder": 7,
+      "winner": "恩中与尚渊",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31014107"
+      }
+    },
+    {
+      "id": "baeksang-2026-tv-director-unwritten-seoul",
+      "mediaType": "tv",
+      "title": "未知的首尔",
+      "originalTitle": "미지의 서울",
+      "award": "电视最佳导演",
+      "awardYear": 2026,
+      "awardOrder": 8,
+      "winner": "Park Shin-woo",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt36724865"
+      }
+    },
+    {
+      "id": "baeksang-2026-tv-actor-made-korea",
+      "mediaType": "tv",
+      "title": "韩国制造",
+      "originalTitle": "메이드 인 코리아",
+      "award": "电视最佳男主角",
+      "awardYear": 2026,
+      "awardOrder": 9,
+      "winner": "Hyun Bin",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt33298903"
+      }
+    },
+    {
+      "id": "baeksang-2026-tv-actress-unwritten-seoul",
+      "mediaType": "tv",
+      "title": "未知的首尔",
+      "originalTitle": "미지의 서울",
+      "award": "电视最佳女主角",
+      "awardYear": 2026,
+      "awardOrder": 10,
+      "winner": "Park Bo-young",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt36724865"
+      }
+    }
+  ]
+}

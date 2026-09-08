@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T05:03:35Z",
+  "title": "프라임타임 에미상 2023 수상 목록",
+  "description": "제75회 프라임타임 에미상 주요 부문 수상 기록.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "emmys-2023-drama-series-succession",
+      "mediaType": "tv",
+      "title": "석세션",
+      "originalTitle": "Succession",
+      "award": "최우수 드라마 시리즈",
+      "awardYear": 2023,
+      "awardOrder": 1,
+      "winner": "Succession",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7660850"
+      }
+    },
+    {
+      "id": "emmys-2023-comedy-series-the-bear",
+      "mediaType": "tv",
+      "title": "더 베어",
+      "originalTitle": "The Bear",
+      "award": "최우수 코미디 시리즈",
+      "awardYear": 2023,
+      "awardOrder": 2,
+      "winner": "The Bear",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt14452776"
+      }
+    },
+    {
+      "id": "emmys-2023-limited-series-beef",
+      "mediaType": "tv",
+      "title": "성난 사람들",
+      "originalTitle": "Beef",
+      "award": "최우수 리미티드 또는 앤솔러지 시리즈",
+      "awardYear": 2023,
+      "awardOrder": 3,
+      "winner": "Beef",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt14403178"
+      }
+    },
+    {
+      "id": "emmys-2023-lead-actor-drama-succession",
+      "mediaType": "tv",
+      "title": "석세션",
+      "originalTitle": "Succession",
+      "award": "드라마 시리즈 남우주연상",
+      "awardYear": 2023,
+      "awardOrder": 4,
+      "winner": "Kieran Culkin",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7660850"
+      }
+    },
+    {
+      "id": "emmys-2023-lead-actress-drama-succession",
+      "mediaType": "tv",
+      "title": "석세션",
+      "originalTitle": "Succession",
+      "award": "드라마 시리즈 여우주연상",
+      "awardYear": 2023,
+      "awardOrder": 5,
+      "winner": "Sarah Snook",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7660850"
+      }
+    },
+    {
+      "id": "emmys-2023-lead-actor-comedy-the-bear",
+      "mediaType": "tv",
+      "title": "더 베어",
+      "originalTitle": "The Bear",
+      "award": "코미디 시리즈 남우주연상",
+      "awardYear": 2023,
+      "awardOrder": 6,
+      "winner": "Jeremy Allen White",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt14452776"
+      }
+    },
+    {
+      "id": "emmys-2023-lead-actress-comedy-abbott-elementary",
+      "mediaType": "tv",
+      "title": "애봇 초등학교",
+      "originalTitle": "Abbott Elementary",
+      "award": "코미디 시리즈 여우주연상",
+      "awardYear": 2023,
+      "awardOrder": 7,
+      "winner": "Quinta Brunson",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14218830"
+      }
+    }
+  ]
+}

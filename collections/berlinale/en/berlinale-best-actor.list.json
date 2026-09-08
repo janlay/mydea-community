@@ -1,0 +1,714 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:30:00Z",
+  "title": "Berlinale — Silver Bear for Best Actor (Historical)",
+  "description": "Complete historical winners of the Berlinale Silver Bear for Best Actor (Historical).",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "berlinale-best-actor-1956-trapeze",
+      "mediaType": "movie",
+      "title": "Trapeze",
+      "awardYear": 1956,
+      "winner": "Burt Lancaster",
+      "releaseDate": "1956",
+      "externalIds": {
+        "imdb": "tt0049875"
+      }
+    },
+    {
+      "id": "berlinale-best-actor-1957-tizoc",
+      "mediaType": "movie",
+      "title": "Tizoc",
+      "awardYear": 1957,
+      "winner": "Pedro Infante",
+      "releaseDate": "1957",
+      "externalIds": {
+        "imdb": "tt0051090"
+      }
+    },
+    {
+      "id": "berlinale-best-actor-1958-the-defiant-ones",
+      "mediaType": "movie",
+      "title": "The Defiant Ones",
+      "awardYear": 1958,
+      "winner": "Sidney Poitier",
+      "releaseDate": "1958",
+      "externalIds": {
+        "imdb": "tt0051525"
+      }
+    },
+    {
+      "id": "berlinale-best-actor-1959-archimede-le-clochard",
+      "mediaType": "movie",
+      "title": "Archimède le clochard",
+      "awardYear": 1959,
+      "winner": "Jean Gabin",
+      "releaseDate": "1959",
+      "externalIds": {
+        "imdb": "tt0052573"
+      }
+    },
+    {
+      "id": "berlinale-best-actor-1960-inherit-the-wind",
+      "mediaType": "movie",
+      "title": "Inherit the Wind",
+      "awardYear": 1960,
+      "winner": "Fredric March",
+      "releaseDate": "1960",
+      "externalIds": {
+        "imdb": "tt0053946"
+      }
+    },
+    {
+      "id": "berlinale-best-actor-1961-no-love-for-johnnie",
+      "mediaType": "movie",
+      "title": "No Love for Johnnie",
+      "awardYear": 1961,
+      "winner": "Peter Finch",
+      "releaseDate": "1961",
+      "externalIds": {
+        "imdb": "tt0055234"
+      }
+    },
+    {
+      "id": "berlinale-best-actor-1962-mr-hobbs-takes-a-vacation",
+      "mediaType": "movie",
+      "title": "Mr. Hobbs Takes a Vacation",
+      "awardYear": 1962,
+      "winner": "James Stewart",
+      "releaseDate": "1962",
+      "externalIds": {
+        "letterboxd": "mr-hobbs-takes-a-vacation"
+      }
+    },
+    {
+      "id": "berlinale-best-actor-1963-lilies-of-the-field",
+      "mediaType": "movie",
+      "title": "Lilies of the Field",
+      "awardYear": 1963,
+      "winner": "Sidney Poitier",
+      "releaseDate": "1963",
+      "externalIds": {
+        "imdb": "tt0057251"
+      }
+    },
+    {
+      "id": "berlinale-best-actor-1964-the-pawnbroker",
+      "mediaType": "movie",
+      "title": "The Pawnbroker",
+      "awardYear": 1964,
+      "winner": "Rod Steiger",
+      "releaseDate": "1964",
+      "externalIds": {
+        "imdb": "tt0059575"
+      }
+    },
+    {
+      "id": "berlinale-best-actor-1965-cat-ballou",
+      "mediaType": "movie",
+      "title": "Cat Ballou",
+      "awardYear": 1965,
+      "winner": "Lee Marvin",
+      "releaseDate": "1965",
+      "externalIds": {
+        "imdb": "tt0059017"
+      }
+    },
+    {
+      "id": "berlinale-best-actor-1966-masculin-feminin",
+      "mediaType": "movie",
+      "title": "Masculin Féminin",
+      "awardYear": 1966,
+      "winner": "Jean-Pierre Léaud",
+      "releaseDate": "1966",
+      "externalIds": {
+        "imdb": "tt0060675"
+      }
+    },
+    {
+      "id": "berlinale-best-actor-1967-the-two-of-us",
+      "mediaType": "movie",
+      "title": "The Two of Us",
+      "awardYear": 1967,
+      "winner": "Michel Simon",
+      "releaseDate": "1967",
+      "externalIds": {
+        "imdb": "tt0063771"
+      }
+    },
+    {
+      "id": "berlinale-best-actor-1968-the-man-who-lies",
+      "mediaType": "movie",
+      "title": "The Man Who Lies",
+      "awardYear": 1968,
+      "winner": "Jean-Louis Trintignant",
+      "releaseDate": "1968",
+      "externalIds": {
+        "imdb": "tt0063080"
+      }
+    },
+    {
+      "id": "berlinale-best-actor-1971-le-chat",
+      "mediaType": "movie",
+      "title": "Le Chat",
+      "awardYear": 1971,
+      "winner": "Jean Gabin",
+      "releaseDate": "1971",
+      "externalIds": {
+        "imdb": "tt0066906"
+      }
+    },
+    {
+      "id": "berlinale-best-actor-1972-in-prison-awaiting-trial",
+      "mediaType": "movie",
+      "title": "In Prison Awaiting Trial",
+      "awardYear": 1972,
+      "winner": "Alberto Sordi",
+      "releaseDate": "1972",
+      "externalIds": {
+        "letterboxd": "in-prison-awaiting-trial"
+      }
+    },
+    {
+      "id": "berlinale-best-actor-1975-jacob-the-liar",
+      "mediaType": "movie",
+      "title": "Jacob the Liar",
+      "awardYear": 1975,
+      "winner": "Vlastimil Brodský",
+      "releaseDate": "1975",
+      "externalIds": {
+        "letterboxd": "jacob-the-liar"
+      }
+    },
+    {
+      "id": "berlinale-best-actor-1976-a-lost-life",
+      "mediaType": "movie",
+      "title": "A Lost Life",
+      "awardYear": 1976,
+      "winner": "Gerhard Olschewski",
+      "releaseDate": "1976",
+      "externalIds": {
+        "imdb": "tt0073859"
+      }
+    },
+    {
+      "id": "berlinale-best-actor-1977-the-anchorite",
+      "mediaType": "movie",
+      "title": "The Anchorite",
+      "awardYear": 1977,
+      "winner": "Fernando Fernán Gómez",
+      "releaseDate": "1977",
+      "externalIds": {
+        "letterboxd": "the-anchorite"
+      }
+    },
+    {
+      "id": "berlinale-best-actor-1978-outrageous",
+      "mediaType": "movie",
+      "title": "Outrageous!",
+      "awardYear": 1978,
+      "winner": "Craig Russell",
+      "releaseDate": "1978",
+      "externalIds": {
+        "imdb": "tt0076513"
+      }
+    },
+    {
+      "id": "berlinale-best-actor-1979-ernesto",
+      "mediaType": "movie",
+      "title": "Ernesto",
+      "awardYear": 1979,
+      "winner": "Michele Placido",
+      "releaseDate": "1979",
+      "externalIds": {
+        "letterboxd": "ernesto"
+      }
+    },
+    {
+      "id": "berlinale-best-actor-1980-the-orchestra-conductor",
+      "mediaType": "movie",
+      "title": "The Orchestra Conductor",
+      "awardYear": 1980,
+      "winner": "Andrzej Seweryn",
+      "releaseDate": "1980",
+      "externalIds": {
+        "letterboxd": "the-orchestra-conductor"
+      }
+    },
+    {
+      "id": "berlinale-best-actor-1981-tribute",
+      "mediaType": "movie",
+      "title": "Tribute",
+      "awardYear": 1981,
+      "winner": "Jack Lemmon",
+      "releaseDate": "1981",
+      "externalIds": {
+        "imdb": "tt0081656"
+      }
+    },
+    {
+      "id": "berlinale-best-actor-1981-twenty-six-days-from-the-life-of-dostoyevsky",
+      "mediaType": "movie",
+      "title": "Twenty Six Days from the Life of Dostoyevsky",
+      "awardYear": 1981,
+      "winner": "Anatoly Solonitsyn",
+      "releaseDate": "1981",
+      "externalIds": {
+        "imdb": "tt0132932"
+      }
+    },
+    {
+      "id": "berlinale-best-actor-1982-strange-affair",
+      "mediaType": "movie",
+      "title": "Strange Affair",
+      "awardYear": 1982,
+      "winner": "Michel Piccoli",
+      "releaseDate": "1982",
+      "externalIds": {
+        "imdb": "tt0083257"
+      }
+    },
+    {
+      "id": "berlinale-best-actor-1982-the-simple-minded-murderer",
+      "mediaType": "movie",
+      "title": "The Simple-Minded Murderer",
+      "awardYear": 1982,
+      "winner": "Stellan Skarsgård",
+      "releaseDate": "1982",
+      "externalIds": {
+        "letterboxd": "the-simple-minded-murderer"
+      }
+    },
+    {
+      "id": "berlinale-best-actor-1983-that-championship-season",
+      "mediaType": "movie",
+      "title": "That Championship Season",
+      "awardYear": 1983,
+      "winner": "Bruce Dern",
+      "releaseDate": "1983",
+      "externalIds": {
+        "imdb": "tt0084784"
+      }
+    },
+    {
+      "id": "berlinale-best-actor-1984-the-dresser",
+      "mediaType": "movie",
+      "title": "The Dresser",
+      "awardYear": 1984,
+      "winner": "Albert Finney",
+      "releaseDate": "1984",
+      "externalIds": {
+        "imdb": "tt0085461"
+      }
+    },
+    {
+      "id": "berlinale-best-actor-1985-stico",
+      "mediaType": "movie",
+      "title": "Stico",
+      "awardYear": 1985,
+      "winner": "Fernando Fernán Gómez",
+      "releaseDate": "1985",
+      "externalIds": {
+        "letterboxd": "stico"
+      }
+    },
+    {
+      "id": "berlinale-best-actor-1986-the-smile-of-the-lamb",
+      "mediaType": "movie",
+      "title": "The Smile of the Lamb",
+      "awardYear": 1986,
+      "winner": "Tuncel Kurtiz",
+      "releaseDate": "1986",
+      "externalIds": {
+        "letterboxd": "the-smile-of-the-lamb"
+      }
+    },
+    {
+      "id": "berlinale-best-actor-1987-the-moro-affair",
+      "mediaType": "movie",
+      "title": "The Moro Affair",
+      "awardYear": 1987,
+      "winner": "Gian Maria Volonté",
+      "releaseDate": "1987",
+      "externalIds": {
+        "letterboxd": "the-moro-affair"
+      }
+    },
+    {
+      "id": "berlinale-best-actor-1988-bear-ye-one-another-s-burden",
+      "mediaType": "movie",
+      "title": "Bear Ye One Another's Burden",
+      "awardYear": 1988,
+      "winner": "Manfred Möck & Jörg Pose",
+      "releaseDate": "1988",
+      "externalIds": {
+        "letterboxd": "bear-ye-one-another-s-burden"
+      }
+    },
+    {
+      "id": "berlinale-best-actor-1989-mississippi-burning",
+      "mediaType": "movie",
+      "title": "Mississippi Burning",
+      "awardYear": 1989,
+      "winner": "Gene Hackman",
+      "releaseDate": "1989",
+      "externalIds": {
+        "letterboxd": "mississippi-burning"
+      }
+    },
+    {
+      "id": "berlinale-best-actor-1990-silent-scream",
+      "mediaType": "movie",
+      "title": "Silent Scream",
+      "awardYear": 1990,
+      "winner": "Iain Glen",
+      "releaseDate": "1990",
+      "externalIds": {
+        "letterboxd": "silent-scream"
+      }
+    },
+    {
+      "id": "berlinale-best-actor-1991-mister-johnson",
+      "mediaType": "movie",
+      "title": "Mister Johnson",
+      "awardYear": 1991,
+      "winner": "Maynard Eziashi",
+      "releaseDate": "1991",
+      "externalIds": {
+        "letterboxd": "mister-johnson"
+      }
+    },
+    {
+      "id": "berlinale-best-actor-1992-utz",
+      "mediaType": "movie",
+      "title": "Utz",
+      "awardYear": 1992,
+      "winner": "Armin Mueller-Stahl",
+      "releaseDate": "1992",
+      "externalIds": {
+        "imdb": "tt0105712"
+      }
+    },
+    {
+      "id": "berlinale-best-actor-1993-malcolm-x",
+      "mediaType": "movie",
+      "title": "Malcolm X",
+      "awardYear": 1993,
+      "winner": "Denzel Washington",
+      "releaseDate": "1993",
+      "externalIds": {
+        "imdb": "tt0104797"
+      }
+    },
+    {
+      "id": "berlinale-best-actor-1994-philadelphia",
+      "mediaType": "movie",
+      "title": "Philadelphia",
+      "awardYear": 1994,
+      "winner": "Tom Hanks",
+      "releaseDate": "1994",
+      "externalIds": {
+        "letterboxd": "philadelphia"
+      }
+    },
+    {
+      "id": "berlinale-best-actor-1995-nobody-s-fool",
+      "mediaType": "movie",
+      "title": "Nobody's Fool",
+      "awardYear": 1995,
+      "winner": "Paul Newman",
+      "releaseDate": "1995",
+      "externalIds": {
+        "letterboxd": "nobody-s-fool"
+      }
+    },
+    {
+      "id": "berlinale-best-actor-1996-dead-man-walking",
+      "mediaType": "movie",
+      "title": "Dead Man Walking",
+      "awardYear": 1996,
+      "winner": "Sean Penn",
+      "releaseDate": "1996",
+      "externalIds": {
+        "letterboxd": "dead-man-walking"
+      }
+    },
+    {
+      "id": "berlinale-best-actor-1997-romeo-plus-juliet",
+      "mediaType": "movie",
+      "title": "Romeo + Juliet",
+      "awardYear": 1997,
+      "winner": "Leonardo DiCaprio",
+      "releaseDate": "1997",
+      "externalIds": {
+        "letterboxd": "romeo-plus-juliet"
+      }
+    },
+    {
+      "id": "berlinale-best-actor-1998-jackie-brown",
+      "mediaType": "movie",
+      "title": "Jackie Brown",
+      "awardYear": 1998,
+      "winner": "Samuel L. Jackson",
+      "releaseDate": "1998",
+      "externalIds": {
+        "letterboxd": "jackie-brown"
+      }
+    },
+    {
+      "id": "berlinale-best-actor-1999-nightshapes",
+      "mediaType": "movie",
+      "title": "Nightshapes",
+      "awardYear": 1999,
+      "winner": "Michael Gwisdek",
+      "releaseDate": "1999",
+      "externalIds": {
+        "letterboxd": "nightshapes"
+      }
+    },
+    {
+      "id": "berlinale-best-actor-2000-the-hurricane",
+      "mediaType": "movie",
+      "title": "The Hurricane",
+      "awardYear": 2000,
+      "winner": "Denzel Washington",
+      "releaseDate": "2000",
+      "externalIds": {
+        "letterboxd": "the-hurricane"
+      }
+    },
+    {
+      "id": "berlinale-best-actor-2001-traffic",
+      "mediaType": "movie",
+      "title": "Traffic",
+      "awardYear": 2001,
+      "winner": "Benicio del Toro",
+      "releaseDate": "2001",
+      "externalIds": {
+        "letterboxd": "traffic"
+      }
+    },
+    {
+      "id": "berlinale-best-actor-2002-safe-conduct",
+      "mediaType": "movie",
+      "title": "Safe Conduct",
+      "awardYear": 2002,
+      "winner": "Jacques Gamblin",
+      "releaseDate": "2002",
+      "externalIds": {
+        "letterboxd": "safe-conduct"
+      }
+    },
+    {
+      "id": "berlinale-best-actor-2003-confessions-of-a-dangerous-mind",
+      "mediaType": "movie",
+      "title": "Confessions of a Dangerous Mind",
+      "awardYear": 2003,
+      "winner": "Sam Rockwell",
+      "releaseDate": "2003",
+      "externalIds": {
+        "letterboxd": "confessions-of-a-dangerous-mind"
+      }
+    },
+    {
+      "id": "berlinale-best-actor-2004-lost-embrace",
+      "mediaType": "movie",
+      "title": "Lost Embrace",
+      "awardYear": 2004,
+      "winner": "Daniel Hendler",
+      "releaseDate": "2004",
+      "externalIds": {
+        "letterboxd": "lost-embrace"
+      }
+    },
+    {
+      "id": "berlinale-best-actor-2005-thumbsucker",
+      "mediaType": "movie",
+      "title": "Thumbsucker",
+      "awardYear": 2005,
+      "winner": "Lou Taylor Pucci",
+      "releaseDate": "2005",
+      "externalIds": {
+        "letterboxd": "thumbsucker"
+      }
+    },
+    {
+      "id": "berlinale-best-actor-2006-atomised",
+      "mediaType": "movie",
+      "title": "Atomised",
+      "awardYear": 2006,
+      "winner": "Moritz Bleibtreu",
+      "releaseDate": "2006",
+      "externalIds": {
+        "letterboxd": "atomised"
+      }
+    },
+    {
+      "id": "berlinale-best-actor-2007-the-other",
+      "mediaType": "movie",
+      "title": "The Other",
+      "awardYear": 2007,
+      "winner": "Julio Chávez",
+      "releaseDate": "2007",
+      "externalIds": {
+        "letterboxd": "the-other"
+      }
+    },
+    {
+      "id": "berlinale-best-actor-2008-the-song-of-sparrows",
+      "mediaType": "movie",
+      "title": "The Song of Sparrows",
+      "awardYear": 2008,
+      "winner": "Reza Naji",
+      "releaseDate": "2008",
+      "externalIds": {
+        "letterboxd": "the-song-of-sparrows"
+      }
+    },
+    {
+      "id": "berlinale-best-actor-2009-london-river",
+      "mediaType": "movie",
+      "title": "London River",
+      "awardYear": 2009,
+      "winner": "Sotigui Kouyaté",
+      "releaseDate": "2009",
+      "externalIds": {
+        "letterboxd": "london-river"
+      }
+    },
+    {
+      "id": "berlinale-best-actor-2010-how-i-ended-this-summer",
+      "mediaType": "movie",
+      "title": "How I Ended This Summer",
+      "awardYear": 2010,
+      "winner": "Grigoriy Dobrygin & Sergei Puskepalis",
+      "releaseDate": "2010",
+      "externalIds": {
+        "letterboxd": "how-i-ended-this-summer"
+      }
+    },
+    {
+      "id": "berlinale-best-actor-2011-a-separation",
+      "mediaType": "movie",
+      "title": "A Separation",
+      "awardYear": 2011,
+      "winner": "Payman Maadi, Shahab Hosseini, Ali-Asghar Shahbazi & Babak Karimi",
+      "releaseDate": "2011",
+      "externalIds": {
+        "letterboxd": "a-separation"
+      }
+    },
+    {
+      "id": "berlinale-best-actor-2012-a-royal-affair",
+      "mediaType": "movie",
+      "title": "A Royal Affair",
+      "awardYear": 2012,
+      "winner": "Mikkel Boe Følsgaard",
+      "releaseDate": "2012",
+      "externalIds": {
+        "letterboxd": "a-royal-affair"
+      }
+    },
+    {
+      "id": "berlinale-best-actor-2013-an-episode-in-the-life-of-an-iron-picker",
+      "mediaType": "movie",
+      "title": "An Episode in the Life of an Iron Picker",
+      "awardYear": 2013,
+      "winner": "Nazif Mujić",
+      "releaseDate": "2013",
+      "externalIds": {
+        "letterboxd": "an-episode-in-the-life-of-an-iron-picker"
+      }
+    },
+    {
+      "id": "berlinale-best-actor-2014-black-coal-thin-ice",
+      "mediaType": "movie",
+      "title": "Black Coal, Thin Ice",
+      "awardYear": 2014,
+      "winner": "Liao Fan",
+      "releaseDate": "2014",
+      "externalIds": {
+        "letterboxd": "black-coal-thin-ice"
+      }
+    },
+    {
+      "id": "berlinale-best-actor-2015-45-years",
+      "mediaType": "movie",
+      "title": "45 Years",
+      "awardYear": 2015,
+      "winner": "Tom Courtenay",
+      "releaseDate": "2015",
+      "externalIds": {
+        "letterboxd": "45-years"
+      }
+    },
+    {
+      "id": "berlinale-best-actor-2016-hedi",
+      "mediaType": "movie",
+      "title": "Hedi",
+      "awardYear": 2016,
+      "winner": "Majd Mastoura",
+      "releaseDate": "2016",
+      "externalIds": {
+        "letterboxd": "hedi"
+      }
+    },
+    {
+      "id": "berlinale-best-actor-2017-bright-nights",
+      "mediaType": "movie",
+      "title": "Bright Nights",
+      "awardYear": 2017,
+      "winner": "Georg Friedrich",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5226512"
+      }
+    },
+    {
+      "id": "berlinale-best-actor-2018-the-prayer",
+      "mediaType": "movie",
+      "title": "The Prayer",
+      "awardYear": 2018,
+      "winner": "Anthony Bajon",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt6055280"
+      }
+    },
+    {
+      "id": "berlinale-best-actor-2019-so-long-my-son",
+      "mediaType": "movie",
+      "title": "So Long, My Son",
+      "awardYear": 2019,
+      "winner": "Wang Jingchun",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt9581076"
+      },
+      "backdropPath": "https://image.tmdb.org/t/p/w342/zxaZENMHp9tw7YSy6NAPfMmhjKh.jpg"
+    },
+    {
+      "id": "berlinale-best-actor-2020-hidden-away",
+      "mediaType": "movie",
+      "title": "Hidden Away",
+      "awardYear": 2020,
+      "winner": "Elio Germano",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt8478554"
+      }
+    }
+  ]
+}

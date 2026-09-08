@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "OpenAI",
+  "title": "戛纳 — 金棕榈奖",
+  "description": "戛纳电影节金棕榈奖及历届最高奖获奖影片。",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "cannes-palme-dor.list.json"
+    }
+  ]
+}

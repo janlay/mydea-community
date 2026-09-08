@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "ゴールデングローブ賞 — 非英語映画賞",
+  "description": "2017年から2026年までのゴールデングローブ賞「非英語映画賞」受賞作品。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "golden-globes-foreign-2017-elle",
+      "mediaType": "movie",
+      "title": "エル ELLE",
+      "englishTitle": "Elle",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt3716530"
+      },
+      "awardYear": 2017,
+      "winner": "エル ELLE"
+    },
+    {
+      "id": "golden-globes-foreign-2018-in-the-fade",
+      "mediaType": "movie",
+      "title": "女は二度決断する",
+      "englishTitle": "In the Fade",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5723272"
+      },
+      "awardYear": 2018,
+      "winner": "女は二度決断する"
+    },
+    {
+      "id": "golden-globes-foreign-2019-roma",
+      "mediaType": "movie",
+      "title": "ROMA／ローマ",
+      "englishTitle": "Roma",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt6155172"
+      },
+      "awardYear": 2019,
+      "winner": "ROMA／ローマ"
+    },
+    {
+      "id": "golden-globes-foreign-2020-parasite",
+      "mediaType": "movie",
+      "title": "パラサイト 半地下の家族",
+      "englishTitle": "Parasite",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6751668"
+      },
+      "awardYear": 2020,
+      "winner": "パラサイト 半地下の家族"
+    },
+    {
+      "id": "golden-globes-foreign-2021-minari",
+      "mediaType": "movie",
+      "title": "ミナリ",
+      "englishTitle": "Minari",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10633456"
+      },
+      "awardYear": 2021,
+      "winner": "ミナリ"
+    },
+    {
+      "id": "golden-globes-foreign-2022-drive-my-car",
+      "mediaType": "movie",
+      "title": "ドライブ・マイ・カー",
+      "englishTitle": "Drive My Car",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14039582"
+      },
+      "awardYear": 2022,
+      "winner": "ドライブ・マイ・カー"
+    },
+    {
+      "id": "golden-globes-foreign-2023-argentina-1985",
+      "mediaType": "movie",
+      "title": "アルゼンチン1985",
+      "englishTitle": "Argentina, 1985",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt15301048"
+      },
+      "awardYear": 2023,
+      "winner": "アルゼンチン1985"
+    },
+    {
+      "id": "golden-globes-foreign-2024-anatomy-of-a-fall",
+      "mediaType": "movie",
+      "title": "落下の解剖学",
+      "englishTitle": "Anatomy of a Fall",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt17009710"
+      },
+      "awardYear": 2024,
+      "winner": "落下の解剖学"
+    },
+    {
+      "id": "golden-globes-foreign-2025-emilia-perez",
+      "mediaType": "movie",
+      "title": "エミリア・ペレス",
+      "englishTitle": "Emilia Pérez",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt20221436"
+      },
+      "awardYear": 2025,
+      "winner": "エミリア・ペレス"
+    },
+    {
+      "id": "golden-globes-foreign-2026-the-secret-agent",
+      "mediaType": "movie",
+      "title": "ザ・シークレット・エージェント",
+      "englishTitle": "The Secret Agent",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt27847051"
+      },
+      "awardYear": 2026,
+      "winner": "ザ・シークレット・エージェント"
+    }
+  ]
+}

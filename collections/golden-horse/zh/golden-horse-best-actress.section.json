@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "Mydea",
+  "title": "金馬獎 — 最佳女主角",
+  "description": "金馬獎最佳女主角歷屆全部實際得獎記錄；共同得獎保留完整得主。",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "golden-horse-best-actress.list.json"
+    }
+  ]
+}

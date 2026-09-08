@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "Golden Globes — Best Motion Picture – Animated",
+  "description": "Winners of the Golden Globe Best Motion Picture – Animated category from 2017 through 2026.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "golden-globes-animated-2017-zootopia",
+      "mediaType": "movie",
+      "title": "Zootopia",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt2948356"
+      },
+      "awardYear": 2017,
+      "winner": "Zootopia"
+    },
+    {
+      "id": "golden-globes-animated-2018-coco",
+      "mediaType": "movie",
+      "title": "Coco",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt2380307"
+      },
+      "awardYear": 2018,
+      "winner": "Coco"
+    },
+    {
+      "id": "golden-globes-animated-2019-spider-man-into-the-spider-verse",
+      "mediaType": "movie",
+      "title": "Spider-Man: Into the Spider-Verse",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt4633694"
+      },
+      "awardYear": 2019,
+      "winner": "Spider-Man: Into the Spider-Verse"
+    },
+    {
+      "id": "golden-globes-animated-2020-missing-link",
+      "mediaType": "movie",
+      "title": "Missing Link",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6348138"
+      },
+      "awardYear": 2020,
+      "winner": "Missing Link"
+    },
+    {
+      "id": "golden-globes-animated-2021-soul",
+      "mediaType": "movie",
+      "title": "Soul",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt2948372"
+      },
+      "awardYear": 2021,
+      "winner": "Soul"
+    },
+    {
+      "id": "golden-globes-animated-2022-encanto",
+      "mediaType": "movie",
+      "title": "Encanto",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt2953050"
+      },
+      "awardYear": 2022,
+      "winner": "Encanto"
+    },
+    {
+      "id": "golden-globes-animated-2023-guillermo-del-toro-s-pinocchio",
+      "mediaType": "movie",
+      "title": "Guillermo del Toro's Pinocchio",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt1488589"
+      },
+      "awardYear": 2023,
+      "winner": "Guillermo del Toro's Pinocchio"
+    },
+    {
+      "id": "golden-globes-animated-2024-the-boy-and-the-heron",
+      "mediaType": "movie",
+      "title": "The Boy and the Heron",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt6587046"
+      },
+      "awardYear": 2024,
+      "winner": "The Boy and the Heron"
+    },
+    {
+      "id": "golden-globes-animated-2025-flow",
+      "mediaType": "movie",
+      "title": "Flow",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt4772188"
+      },
+      "awardYear": 2025,
+      "winner": "Flow"
+    },
+    {
+      "id": "golden-globes-animated-2026-kpop-demon-hunters",
+      "mediaType": "movie",
+      "title": "KPop Demon Hunters",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt14205554"
+      },
+      "awardYear": 2026,
+      "winner": "KPop Demon Hunters"
+    }
+  ]
+}

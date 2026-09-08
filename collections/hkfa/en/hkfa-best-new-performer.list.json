@@ -1,0 +1,493 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:07:00Z",
+  "title": "Hong Kong Film Awards — Best New Performer",
+  "description": "Complete historical winners of the Hong Kong Film Award for New Performer.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "hkfa-best-new-performer-1983-hkfa-film",
+      "mediaType": "movie",
+      "title": "投奔怒海",
+      "releaseDate": "1982",
+      "externalIds": {
+        "imdb": "tt0084807"
+      },
+      "awardYear": 1983,
+      "winner": "馬斯晨"
+    },
+    {
+      "id": "hkfa-best-new-performer-1984-hkfa-film",
+      "mediaType": "movie",
+      "title": "花城",
+      "releaseDate": "1983",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 1984,
+      "winner": "鄭裕玲"
+    },
+    {
+      "id": "hkfa-best-new-performer-1985-hkfa-film",
+      "mediaType": "movie",
+      "title": "似水流年",
+      "releaseDate": "1984",
+      "externalIds": {
+        "imdb": "tt0088126"
+      },
+      "awardYear": 1985,
+      "winner": "顧美華"
+    },
+    {
+      "id": "hkfa-best-new-performer-1986-hkfa-film",
+      "mediaType": "movie",
+      "title": "女人風情話",
+      "releaseDate": "1985",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 1986,
+      "winner": "陳婉麗"
+    },
+    {
+      "id": "hkfa-best-new-performer-1987-hkfa-film",
+      "mediaType": "movie",
+      "title": "美國心",
+      "releaseDate": "1986",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 1987,
+      "winner": "利玉娟"
+    },
+    {
+      "id": "hkfa-best-new-performer-1988-hkfa-film",
+      "mediaType": "movie",
+      "title": "省港旗兵續集",
+      "releaseDate": "1987",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 1988,
+      "winner": "林國斌"
+    },
+    {
+      "id": "hkfa-best-new-performer-1989-hkfa-film",
+      "mediaType": "movie",
+      "title": "今夜星光燦爛",
+      "releaseDate": "1988",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 1989,
+      "winner": "吳大維"
+    },
+    {
+      "id": "hkfa-best-new-performer-1990-hkfa-film",
+      "mediaType": "movie",
+      "title": "但願人長久",
+      "releaseDate": "1989",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 1990,
+      "winner": "江華"
+    },
+    {
+      "id": "hkfa-best-new-performer-1991-hkfa-film",
+      "mediaType": "movie",
+      "title": "廟街皇后",
+      "releaseDate": "1990",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 1991,
+      "winner": "劉玉翠"
+    },
+    {
+      "id": "hkfa-best-new-performer-1992-hkfa-film",
+      "mediaType": "movie",
+      "title": "黑貓",
+      "releaseDate": "1991",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 1992,
+      "winner": "梁琤"
+    },
+    {
+      "id": "hkfa-best-new-performer-1993-hkfa-film",
+      "mediaType": "movie",
+      "title": "亞飛與亞基",
+      "releaseDate": "1992",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 1993,
+      "winner": "袁詠儀"
+    },
+    {
+      "id": "hkfa-best-new-performer-1994-hkfa-film",
+      "mediaType": "movie",
+      "title": "誘僧",
+      "releaseDate": "1993",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 1994,
+      "winner": "吳興國"
+    },
+    {
+      "id": "hkfa-best-new-performer-1995-hkfa-film",
+      "mediaType": "movie",
+      "title": "我和春天有個約會",
+      "releaseDate": "1994",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 1995,
+      "winner": "劉雅麗"
+    },
+    {
+      "id": "hkfa-best-new-performer-1996-hkfa-film",
+      "mediaType": "movie",
+      "title": "慈雲山十三太保",
+      "releaseDate": "1995",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 1996,
+      "winner": "巫啟賢"
+    },
+    {
+      "id": "hkfa-best-new-performer-1997-hkfa-film",
+      "mediaType": "movie",
+      "title": "色情男女",
+      "releaseDate": "1996",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 1997,
+      "winner": "舒淇"
+    },
+    {
+      "id": "hkfa-best-new-performer-1998-hkfa-film",
+      "mediaType": "movie",
+      "title": "香港製造",
+      "releaseDate": "1997",
+      "externalIds": {
+        "imdb": "tt0118845"
+      },
+      "awardYear": 1998,
+      "winner": "李燦森"
+    },
+    {
+      "id": "hkfa-best-new-performer-1999-hkfa-film",
+      "mediaType": "movie",
+      "title": "新古惑仔之少年激鬥篇",
+      "releaseDate": "1998",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 1999,
+      "winner": "謝霆鋒"
+    },
+    {
+      "id": "hkfa-best-new-performer-2000-hkfa-film",
+      "mediaType": "movie",
+      "title": "星願",
+      "releaseDate": "1999",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 2000,
+      "winner": "張柏芝"
+    },
+    {
+      "id": "hkfa-best-new-performer-2001-hkfa-film",
+      "mediaType": "movie",
+      "title": "榴槤飄飄",
+      "releaseDate": "2000",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 2001,
+      "winner": "秦海璐"
+    },
+    {
+      "id": "hkfa-best-new-performer-2002-hkfa-film",
+      "mediaType": "movie",
+      "title": "男人四十",
+      "releaseDate": "2001",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 2002,
+      "winner": "林嘉欣"
+    },
+    {
+      "id": "hkfa-best-new-performer-2003-hkfa-film",
+      "mediaType": "movie",
+      "title": "三更之回家",
+      "releaseDate": "2002",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 2003,
+      "winner": "原麗淇"
+    },
+    {
+      "id": "hkfa-best-new-performer-2004-hkfa-film",
+      "mediaType": "movie",
+      "title": "少年阿虎",
+      "releaseDate": "2003",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 2004,
+      "winner": "安志杰"
+    },
+    {
+      "id": "hkfa-best-new-performer-2005-hkfa-film",
+      "mediaType": "movie",
+      "title": "蝴蝶",
+      "releaseDate": "2004",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 2005,
+      "winner": "田原"
+    },
+    {
+      "id": "hkfa-best-new-performer-2006-d",
+      "mediaType": "movie",
+      "title": "頭文字D",
+      "releaseDate": "2005",
+      "externalIds": {
+        "letterboxd": "d"
+      },
+      "awardYear": 2006,
+      "winner": "周杰倫"
+    },
+    {
+      "id": "hkfa-best-new-performer-2007-hkfa-film",
+      "mediaType": "movie",
+      "title": "父子",
+      "releaseDate": "2006",
+      "externalIds": {
+        "imdb": "tt0768114"
+      },
+      "awardYear": 2007,
+      "winner": "吳澋滔"
+    },
+    {
+      "id": "hkfa-best-new-performer-2008-hkfa-film",
+      "mediaType": "movie",
+      "title": "跟蹤",
+      "releaseDate": "2007",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 2008,
+      "winner": "徐子珊"
+    },
+    {
+      "id": "hkfa-best-new-performer-2009-7",
+      "mediaType": "movie",
+      "title": "長江7號",
+      "releaseDate": "2008",
+      "externalIds": {
+        "letterboxd": "7"
+      },
+      "awardYear": 2009,
+      "winner": "徐嬌"
+    },
+    {
+      "id": "hkfa-best-new-performer-2010-hkfa-film",
+      "mediaType": "movie",
+      "title": "歲月神偷",
+      "releaseDate": "2009",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 2010,
+      "winner": "李治廷"
+    },
+    {
+      "id": "hkfa-best-new-performer-2011-hkfa-film",
+      "mediaType": "movie",
+      "title": "李小龍",
+      "releaseDate": "2010",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 2011,
+      "winner": "陳奐仁"
+    },
+    {
+      "id": "hkfa-best-new-performer-2012-hkfa-film",
+      "mediaType": "movie",
+      "title": "殺手歐陽盆栽",
+      "releaseDate": "2011",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 2012,
+      "winner": "蕭敬騰"
+    },
+    {
+      "id": "hkfa-best-new-performer-2013-hkfa-film",
+      "mediaType": "movie",
+      "title": "寒戰",
+      "releaseDate": "2012",
+      "externalIds": {
+        "imdb": "tt2186715"
+      },
+      "awardYear": 2013,
+      "winner": "徐家傑"
+    },
+    {
+      "id": "hkfa-best-new-performer-2014-hkfa-film",
+      "mediaType": "movie",
+      "title": "狂舞派",
+      "releaseDate": "2013",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 2014,
+      "winner": "蔡瀚億"
+    },
+    {
+      "id": "hkfa-best-new-performer-2015-sss",
+      "mediaType": "movie",
+      "title": "金雞SSS",
+      "releaseDate": "2014",
+      "externalIds": {
+        "letterboxd": "sss"
+      },
+      "awardYear": 2015,
+      "winner": "王菀之"
+    },
+    {
+      "id": "hkfa-best-new-performer-2016-hkfa-film",
+      "mediaType": "movie",
+      "title": "踏血尋梅",
+      "releaseDate": "2015",
+      "externalIds": {
+        "imdb": "tt5148932"
+      },
+      "awardYear": 2016,
+      "winner": "白只"
+    },
+    {
+      "id": "hkfa-2017-best-new-performer-5128712",
+      "mediaType": "movie",
+      "title": "點五步",
+      "awardYear": 2017,
+      "winner": "胡子彤",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5128712"
+      }
+    },
+    {
+      "id": "hkfa-2018-best-new-performer-7875604",
+      "mediaType": "movie",
+      "title": "黃金花",
+      "awardYear": 2018,
+      "winner": "凌文龍",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7875604"
+      }
+    },
+    {
+      "id": "hkfa-2019-best-new-performer-8497794",
+      "mediaType": "movie",
+      "title": "淪落人",
+      "awardYear": 2019,
+      "winner": "姬素·孔尚治",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8497794"
+      }
+    },
+    {
+      "id": "hkfa-2020-best-new-performer-9586294",
+      "mediaType": "movie",
+      "title": "少年的你",
+      "awardYear": 2020,
+      "winner": "易烊千璽",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt9586294"
+      }
+    },
+    {
+      "id": "hkfa-2022-best-new-performer-15010590",
+      "mediaType": "movie",
+      "title": "梅艷芳",
+      "awardYear": 2022,
+      "winner": "王丹妮",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt15010590"
+      }
+    },
+    {
+      "id": "hkfa-2023-best-new-performer-18280126",
+      "mediaType": "movie",
+      "title": "白日青春",
+      "awardYear": 2023,
+      "winner": "林諾",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt18280126"
+      }
+    },
+    {
+      "id": "hkfa-2024-best-new-performer-27139786",
+      "mediaType": "movie",
+      "title": "但願人長久",
+      "awardYear": 2024,
+      "winner": "謝咏欣",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt27139786"
+      }
+    },
+    {
+      "id": "hkfa-2025-best-new-performer-33499985",
+      "mediaType": "movie",
+      "title": "爸爸",
+      "awardYear": 2025,
+      "winner": "蘇文濤",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt33499985"
+      }
+    },
+    {
+      "id": "hkfa-2026-best-new-performer-35683790",
+      "mediaType": "movie",
+      "title": "女孩不平凡",
+      "awardYear": 2026,
+      "winner": "鄧濤",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt35683790"
+      }
+    }
+  ]
+}

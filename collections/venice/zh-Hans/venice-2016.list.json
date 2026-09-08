@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:30:00Z",
+  "title": "威尼斯电影节 2016 年获奖名单",
+  "description": "第84届威尼斯电影节主竞赛主要官方奖项获奖影片。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "venice-golden-lion-2016-the-woman-who-left-1",
+      "mediaType": "movie",
+      "title": "离开的女人",
+      "releaseDate": "2016",
+      "externalIds": {
+        "letterboxd": "the-woman-who-left"
+      },
+      "awardYear": 2016,
+      "winner": "Lav Diaz",
+      "englishTitle": "The Woman Who Left",
+      "award": "金狮奖"
+    },
+    {
+      "id": "venice-grand-jury-prize-2016-nocturnal-animals-2",
+      "mediaType": "movie",
+      "title": "夜行动物",
+      "releaseDate": "2016",
+      "externalIds": {
+        "letterboxd": "nocturnal-animals"
+      },
+      "awardYear": 2016,
+      "winner": "Tom Ford",
+      "englishTitle": "Nocturnal Animals",
+      "award": "银狮奖·评审团大奖"
+    },
+    {
+      "id": "venice-best-director-2016-the-untamed-3",
+      "mediaType": "movie",
+      "title": "野蛮地区",
+      "releaseDate": "2016",
+      "externalIds": {
+        "letterboxd": "the-untamed"
+      },
+      "awardYear": 2016,
+      "winner": "Amat Escalante",
+      "englishTitle": "The Untamed",
+      "award": "银狮奖·最佳导演"
+    },
+    {
+      "id": "venice-best-director-2016-paradise-4",
+      "mediaType": "movie",
+      "title": "天堂",
+      "releaseDate": "2016",
+      "externalIds": {
+        "letterboxd": "paradise"
+      },
+      "awardYear": 2016,
+      "winner": "Andrei Konchalovsky",
+      "englishTitle": "Paradise",
+      "award": "银狮奖·最佳导演"
+    },
+    {
+      "id": "venice-best-actress-2016-la-la-land-5",
+      "mediaType": "movie",
+      "title": "爱乐之城",
+      "releaseDate": "2016",
+      "externalIds": {
+        "letterboxd": "la-la-land"
+      },
+      "awardYear": 2016,
+      "winner": "Emma Stone",
+      "englishTitle": "La La Land",
+      "award": "沃尔皮杯·最佳女演员"
+    },
+    {
+      "id": "venice-best-actor-2016-the-distinguished-citizen-6",
+      "mediaType": "movie",
+      "title": "杰出公民",
+      "releaseDate": "2016",
+      "externalIds": {
+        "letterboxd": "the-distinguished-citizen"
+      },
+      "awardYear": 2016,
+      "winner": "Oscar Martínez",
+      "englishTitle": "The Distinguished Citizen",
+      "award": "沃尔皮杯·最佳男演员"
+    },
+    {
+      "id": "venice-best-screenplay-2016-jackie-7",
+      "mediaType": "movie",
+      "title": "第一夫人",
+      "releaseDate": "2016",
+      "externalIds": {
+        "letterboxd": "jackie"
+      },
+      "awardYear": 2016,
+      "winner": "Noah Oppenheim",
+      "englishTitle": "Jackie",
+      "award": "最佳编剧奖"
+    },
+    {
+      "id": "venice-special-jury-prize-2016-the-bad-batch-8",
+      "mediaType": "movie",
+      "title": "劣质爱情",
+      "releaseDate": "2016",
+      "externalIds": {
+        "letterboxd": "the-bad-batch"
+      },
+      "awardYear": 2016,
+      "winner": "Ana Lily Amirpour",
+      "englishTitle": "The Bad Batch",
+      "award": "评审团特别奖"
+    },
+    {
+      "id": "venice-mastroianni-2016-frantz-9",
+      "mediaType": "movie",
+      "title": "弗兰兹",
+      "releaseDate": "2016",
+      "externalIds": {
+        "letterboxd": "frantz"
+      },
+      "awardYear": 2016,
+      "winner": "Paula Beer",
+      "englishTitle": "Frantz",
+      "award": "马塞洛·马斯楚安尼奖"
+    }
+  ]
+}

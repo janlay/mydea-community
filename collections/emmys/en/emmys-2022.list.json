@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T05:03:35Z",
+  "title": "Primetime Emmy Awards 2022 Winners",
+  "description": "Major-category winners from the 74th Primetime Emmy Awards.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "emmys-2022-drama-series-succession",
+      "mediaType": "tv",
+      "title": "Succession",
+      "award": "Outstanding Drama Series",
+      "awardYear": 2022,
+      "awardOrder": 1,
+      "winner": "Succession",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7660850"
+      }
+    },
+    {
+      "id": "emmys-2022-comedy-series-ted-lasso",
+      "mediaType": "tv",
+      "title": "Ted Lasso",
+      "award": "Outstanding Comedy Series",
+      "awardYear": 2022,
+      "awardOrder": 2,
+      "winner": "Ted Lasso",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10986410"
+      }
+    },
+    {
+      "id": "emmys-2022-limited-series-the-white-lotus",
+      "mediaType": "tv",
+      "title": "The White Lotus",
+      "award": "Outstanding Limited or Anthology Series",
+      "awardYear": 2022,
+      "awardOrder": 3,
+      "winner": "The White Lotus",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt13406094"
+      }
+    },
+    {
+      "id": "emmys-2022-lead-actor-drama-squid-game",
+      "mediaType": "tv",
+      "title": "Squid Game",
+      "award": "Outstanding Lead Actor in a Drama Series",
+      "awardYear": 2022,
+      "awardOrder": 4,
+      "winner": "Lee Jung-jae",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt10919420"
+      }
+    },
+    {
+      "id": "emmys-2022-lead-actress-drama-euphoria",
+      "mediaType": "tv",
+      "title": "Euphoria",
+      "award": "Outstanding Lead Actress in a Drama Series",
+      "awardYear": 2022,
+      "awardOrder": 5,
+      "winner": "Zendaya",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt8772296"
+      }
+    },
+    {
+      "id": "emmys-2022-lead-actor-comedy-ted-lasso",
+      "mediaType": "tv",
+      "title": "Ted Lasso",
+      "award": "Outstanding Lead Actor in a Comedy Series",
+      "awardYear": 2022,
+      "awardOrder": 6,
+      "winner": "Jason Sudeikis",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10986410"
+      }
+    },
+    {
+      "id": "emmys-2022-lead-actress-comedy-hacks",
+      "mediaType": "tv",
+      "title": "Hacks",
+      "award": "Outstanding Lead Actress in a Comedy Series",
+      "awardYear": 2022,
+      "awardOrder": 7,
+      "winner": "Jean Smart",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt11815682"
+      }
+    }
+  ]
+}

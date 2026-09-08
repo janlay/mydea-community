@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "ChatGPT",
+  "title": "アカデミー賞 2018 受賞一覧",
+  "description": "第90回アカデミー賞の主要映画部門の受賞作品と受賞者。",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "oscars-2018.list.json"
+    }
+  ]
+}

@@ -1,0 +1,504 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:07:00Z",
+  "title": "Hong Kong Film Awards — Best Screenplay",
+  "description": "Complete historical winners of the Hong Kong Film Award for Screenplay.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "hkfa-best-screenplay-1982-hkfa-film",
+      "mediaType": "movie",
+      "title": "胡越的故事",
+      "releaseDate": "1981",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 1982,
+      "winner": "張堅庭"
+    },
+    {
+      "id": "hkfa-best-screenplay-1983-hkfa-film",
+      "mediaType": "movie",
+      "title": "投奔怒海",
+      "releaseDate": "1982",
+      "externalIds": {
+        "imdb": "tt0084807"
+      },
+      "awardYear": 1983,
+      "winner": "邱戴安平"
+    },
+    {
+      "id": "hkfa-best-screenplay-1984-hkfa-film",
+      "mediaType": "movie",
+      "title": "表錯七日情",
+      "releaseDate": "1983",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 1984,
+      "winner": "張堅庭"
+    },
+    {
+      "id": "hkfa-best-screenplay-1985-hkfa-film",
+      "mediaType": "movie",
+      "title": "似水流年",
+      "releaseDate": "1984",
+      "externalIds": {
+        "imdb": "tt0088126"
+      },
+      "awardYear": 1985,
+      "winner": "孔良"
+    },
+    {
+      "id": "hkfa-best-screenplay-1986-hkfa-film",
+      "mediaType": "movie",
+      "title": "錯點鴛鴦",
+      "releaseDate": "1985",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 1986,
+      "winner": "陸劍明、鄧榮銾"
+    },
+    {
+      "id": "hkfa-best-screenplay-1987-hkfa-film",
+      "mediaType": "movie",
+      "title": "地下情",
+      "releaseDate": "1986",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 1987,
+      "winner": "黎傑、邱戴安平"
+    },
+    {
+      "id": "hkfa-best-screenplay-1988-hkfa-film",
+      "mediaType": "movie",
+      "title": "秋天的童話",
+      "releaseDate": "1987",
+      "externalIds": {
+        "imdb": "tt0093426"
+      },
+      "awardYear": 1988,
+      "winner": "羅啟銳"
+    },
+    {
+      "id": "hkfa-best-screenplay-1989-hkfa-film",
+      "mediaType": "movie",
+      "title": "三人世界",
+      "releaseDate": "1988",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 1989,
+      "winner": "聶宏風、邵國華、陳嘉上、葉廣儉"
+    },
+    {
+      "id": "hkfa-best-screenplay-1990-hkfa-film",
+      "mediaType": "movie",
+      "title": "飛越黃昏",
+      "releaseDate": "1989",
+      "externalIds": {
+        "imdb": "tt0097344"
+      },
+      "awardYear": 1990,
+      "winner": "張之亮、陳錦昌"
+    },
+    {
+      "id": "hkfa-best-screenplay-1991-hkfa-film",
+      "mediaType": "movie",
+      "title": "廟街皇后",
+      "releaseDate": "1990",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 1991,
+      "winner": "陳文強"
+    },
+    {
+      "id": "hkfa-best-screenplay-1992-hkfa-film",
+      "mediaType": "movie",
+      "title": "跛豪",
+      "releaseDate": "1991",
+      "externalIds": {
+        "imdb": "tt0100973"
+      },
+      "awardYear": 1992,
+      "winner": "麥當雄、蕭若元"
+    },
+    {
+      "id": "hkfa-best-screenplay-1993-hkfa-film",
+      "mediaType": "movie",
+      "title": "籠民",
+      "releaseDate": "1992",
+      "externalIds": {
+        "imdb": "tt0108656"
+      },
+      "awardYear": 1993,
+      "winner": "黃仁逵、吳滄洲、張之亮"
+    },
+    {
+      "id": "hkfa-best-screenplay-1994-hkfa-film",
+      "mediaType": "movie",
+      "title": "新不了情",
+      "releaseDate": "1993",
+      "externalIds": {
+        "imdb": "tt0111770"
+      },
+      "awardYear": 1994,
+      "winner": "爾冬陞"
+    },
+    {
+      "id": "hkfa-best-screenplay-1995-hkfa-film",
+      "mediaType": "movie",
+      "title": "我和春天有個約會",
+      "releaseDate": "1994",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 1995,
+      "winner": "杜國威"
+    },
+    {
+      "id": "hkfa-best-screenplay-1996-hkfa-film",
+      "mediaType": "movie",
+      "title": "女人四十",
+      "releaseDate": "1995",
+      "externalIds": {
+        "imdb": "tt0111739"
+      },
+      "awardYear": 1996,
+      "winner": "陳文強"
+    },
+    {
+      "id": "hkfa-best-screenplay-1997-hkfa-film",
+      "mediaType": "movie",
+      "title": "甜蜜蜜",
+      "releaseDate": "1996",
+      "externalIds": {
+        "imdb": "tt0117905"
+      },
+      "awardYear": 1997,
+      "winner": "岸西"
+    },
+    {
+      "id": "hkfa-best-screenplay-1998-hkfa-film",
+      "mediaType": "movie",
+      "title": "南海十三郎",
+      "releaseDate": "1997",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 1998,
+      "winner": "杜國威"
+    },
+    {
+      "id": "hkfa-best-screenplay-1999-hkfa-film",
+      "mediaType": "movie",
+      "title": "野獸刑警",
+      "releaseDate": "1998",
+      "externalIds": {
+        "imdb": "tt0157366"
+      },
+      "awardYear": 1999,
+      "winner": "陳慶嘉、陳嘉上"
+    },
+    {
+      "id": "hkfa-best-screenplay-2000-hkfa-film",
+      "mediaType": "movie",
+      "title": "心動",
+      "releaseDate": "1999",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 2000,
+      "winner": "張艾嘉、關皓月"
+    },
+    {
+      "id": "hkfa-best-screenplay-2001-hkfa-film",
+      "mediaType": "movie",
+      "title": "榴槤飄飄",
+      "releaseDate": "2000",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 2001,
+      "winner": "陳果"
+    },
+    {
+      "id": "hkfa-best-screenplay-2002-hkfa-film",
+      "mediaType": "movie",
+      "title": "男人四十",
+      "releaseDate": "2001",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 2002,
+      "winner": "岸西"
+    },
+    {
+      "id": "hkfa-best-screenplay-2003-hkfa-film",
+      "mediaType": "movie",
+      "title": "無間道",
+      "releaseDate": "2002",
+      "externalIds": {
+        "imdb": "tt0338564"
+      },
+      "awardYear": 2003,
+      "winner": "麥兆輝、莊文強"
+    },
+    {
+      "id": "hkfa-best-screenplay-2004-hkfa-film",
+      "mediaType": "movie",
+      "title": "大隻佬",
+      "releaseDate": "2003",
+      "externalIds": {
+        "imdb": "tt0374184"
+      },
+      "awardYear": 2004,
+      "winner": "韋家輝、游乃海、歐健兒、葉天成"
+    },
+    {
+      "id": "hkfa-best-screenplay-2005-hkfa-film",
+      "mediaType": "movie",
+      "title": "功夫",
+      "releaseDate": "2004",
+      "externalIds": {
+        "imdb": "tt0373074"
+      },
+      "awardYear": 2005,
+      "winner": "曾瑾昌、陳文強、周星馳、霍昕"
+    },
+    {
+      "id": "hkfa-best-screenplay-2006-hkfa-film",
+      "mediaType": "movie",
+      "title": "黑社會",
+      "releaseDate": "2005",
+      "externalIds": {
+        "imdb": "tt0434008"
+      },
+      "awardYear": 2006,
+      "winner": "游乃海、葉天成"
+    },
+    {
+      "id": "hkfa-best-screenplay-2007-hkfa-film",
+      "mediaType": "movie",
+      "title": "父子",
+      "releaseDate": "2006",
+      "externalIds": {
+        "imdb": "tt0768114"
+      },
+      "awardYear": 2007,
+      "winner": "譚家明、田開良"
+    },
+    {
+      "id": "hkfa-best-screenplay-2008-hkfa-film",
+      "mediaType": "movie",
+      "title": "神探",
+      "releaseDate": "2007",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 2008,
+      "winner": "韋家輝、歐健兒"
+    },
+    {
+      "id": "hkfa-best-screenplay-2009-hkfa-film",
+      "mediaType": "movie",
+      "title": "天水圍的日與夜",
+      "releaseDate": "2008",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 2009,
+      "winner": "呂筱華"
+    },
+    {
+      "id": "hkfa-best-screenplay-2010-hkfa-film",
+      "mediaType": "movie",
+      "title": "歲月神偷",
+      "releaseDate": "2009",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 2010,
+      "winner": "羅啟銳"
+    },
+    {
+      "id": "hkfa-best-screenplay-2011-hkfa-film",
+      "mediaType": "movie",
+      "title": "志明與春嬌",
+      "releaseDate": "2010",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 2011,
+      "winner": "彭浩翔、麥曦茵"
+    },
+    {
+      "id": "hkfa-best-screenplay-2012-hkfa-film",
+      "mediaType": "movie",
+      "title": "桃姐",
+      "releaseDate": "2011",
+      "externalIds": {
+        "imdb": "tt2008006"
+      },
+      "awardYear": 2012,
+      "winner": "陳淑賢"
+    },
+    {
+      "id": "hkfa-best-screenplay-2013-hkfa-film",
+      "mediaType": "movie",
+      "title": "寒戰",
+      "releaseDate": "2012",
+      "externalIds": {
+        "imdb": "tt2186715"
+      },
+      "awardYear": 2013,
+      "winner": "梁樂民、陸劍青"
+    },
+    {
+      "id": "hkfa-best-screenplay-2014-hkfa-film",
+      "mediaType": "movie",
+      "title": "一代宗師",
+      "releaseDate": "2013",
+      "externalIds": {
+        "imdb": "tt1462900"
+      },
+      "awardYear": 2014,
+      "winner": "鄒靜之、徐皓峰、王家衛"
+    },
+    {
+      "id": "hkfa-best-screenplay-2015-3",
+      "mediaType": "movie",
+      "title": "竊聽風雲3",
+      "releaseDate": "2014",
+      "externalIds": {
+        "letterboxd": "3"
+      },
+      "awardYear": 2015,
+      "winner": "麥兆輝、莊文強"
+    },
+    {
+      "id": "hkfa-best-screenplay-2016-hkfa-film",
+      "mediaType": "movie",
+      "title": "踏血尋梅",
+      "releaseDate": "2015",
+      "externalIds": {
+        "imdb": "tt5148932"
+      },
+      "awardYear": 2016,
+      "winner": "翁子光"
+    },
+    {
+      "id": "hkfa-2017-best-screenplay-4379800",
+      "mediaType": "movie",
+      "title": "樹大招風",
+      "awardYear": 2017,
+      "winner": "龍文康、伍奇偉、麥天樞",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4379800"
+      }
+    },
+    {
+      "id": "hkfa-2018-best-screenplay-7479718",
+      "mediaType": "movie",
+      "title": "相愛相親",
+      "awardYear": 2018,
+      "winner": "張艾嘉、游曉穎",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7479718"
+      }
+    },
+    {
+      "id": "hkfa-2019-best-screenplay-7183578",
+      "mediaType": "movie",
+      "title": "無雙",
+      "awardYear": 2019,
+      "winner": "莊文強",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7183578"
+      }
+    },
+    {
+      "id": "hkfa-2020-best-screenplay-9586294",
+      "mediaType": "movie",
+      "title": "少年的你",
+      "awardYear": 2020,
+      "winner": "林詠琛、李媛、許伊萌",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt9586294"
+      }
+    },
+    {
+      "id": "hkfa-2022-best-screenplay-14032696",
+      "mediaType": "movie",
+      "title": "智齒",
+      "awardYear": 2022,
+      "winner": "歐健兒、岑君茜",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14032696"
+      }
+    },
+    {
+      "id": "hkfa-2023-best-screenplay-10283270",
+      "mediaType": "movie",
+      "title": "神探大戰",
+      "awardYear": 2023,
+      "winner": "韋家輝、陳偉斌、麥天樞",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt10283270"
+      }
+    },
+    {
+      "id": "hkfa-2024-best-screenplay-19856688",
+      "mediaType": "movie",
+      "title": "命案",
+      "awardYear": 2024,
+      "winner": "游乃海、李春暉",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt19856688"
+      }
+    },
+    {
+      "id": "hkfa-2025-best-screenplay-31648020",
+      "mediaType": "movie",
+      "title": "破·地獄",
+      "awardYear": 2025,
+      "winner": "陳茂賢、鄭緯機",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt31648020"
+      }
+    },
+    {
+      "id": "hkfa-2026-best-screenplay-14241008",
+      "mediaType": "movie",
+      "title": "再見UFO",
+      "awardYear": 2026,
+      "winner": "江皓昕、錢小蕙",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt14241008"
+      }
+    }
+  ]
+}

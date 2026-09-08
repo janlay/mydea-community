@@ -1,0 +1,193 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "title": "Blue Dragon Film Awards — 10 Years",
+  "description": "Ten years of the Blue Dragon Film Awards, 2016 to 2025.",
+  "tags": [
+    "award",
+    "decade"
+  ],
+  "icon": "ticket",
+  "sections": [
+    {
+      "title": "Blue Dragon Film Awards — 2025",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "carousel",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "blue-dragon-2025.list.json"
+        }
+      ]
+    },
+    {
+      "title": "Blue Dragon Film Awards — 2024",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "blue-dragon-2024.list.json"
+        }
+      ]
+    },
+    {
+      "title": "Blue Dragon Film Awards — 2023",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "blue-dragon-2023.list.json"
+        }
+      ]
+    },
+    {
+      "title": "Blue Dragon Film Awards — 2022",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "blue-dragon-2022.list.json"
+        }
+      ]
+    },
+    {
+      "title": "Blue Dragon Film Awards — 2021",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "blue-dragon-2021.list.json"
+        }
+      ]
+    },
+    {
+      "title": "Blue Dragon Film Awards — 2020",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "blue-dragon-2020.list.json"
+        }
+      ]
+    },
+    {
+      "title": "Blue Dragon Film Awards — 2019",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "blue-dragon-2019.list.json"
+        }
+      ]
+    },
+    {
+      "title": "Blue Dragon Film Awards — 2018",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "blue-dragon-2018.list.json"
+        }
+      ]
+    },
+    {
+      "title": "Blue Dragon Film Awards — 2017",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "blue-dragon-2017.list.json"
+        }
+      ]
+    },
+    {
+      "title": "Blue Dragon Film Awards — 2016",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "blue-dragon-2016.list.json"
+        }
+      ]
+    }
+  ]
+}

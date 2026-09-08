@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T00:00:00Z",
+  "title": "青龍映画賞 — 2019",
+  "description": "2019年青龍映画賞、主要10部門の受賞記録。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "blue-dragon-2019-best-film-parasite",
+      "mediaType": "movie",
+      "title": "パラサイト 半地下の家族",
+      "originalTitle": "기생충",
+      "award": "最優秀作品賞",
+      "awardYear": 2019,
+      "awardOrder": 1,
+      "winner": "ポン・ジュノ",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6751668"
+      }
+    },
+    {
+      "id": "blue-dragon-2019-best-director-parasite",
+      "mediaType": "movie",
+      "title": "パラサイト 半地下の家族",
+      "originalTitle": "기생충",
+      "award": "監督賞",
+      "awardYear": 2019,
+      "awardOrder": 2,
+      "winner": "ポン・ジュノ",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6751668"
+      }
+    },
+    {
+      "id": "blue-dragon-2019-best-actor-innocent-witness",
+      "mediaType": "movie",
+      "title": "Innocent Witness",
+      "originalTitle": "증인",
+      "award": "主演男優賞",
+      "awardYear": 2019,
+      "awardOrder": 3,
+      "winner": "チョン・ウソン",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt8562562"
+      }
+    },
+    {
+      "id": "blue-dragon-2019-best-actress-parasite",
+      "mediaType": "movie",
+      "title": "パラサイト 半地下の家族",
+      "originalTitle": "기생충",
+      "award": "主演女優賞",
+      "awardYear": 2019,
+      "awardOrder": 4,
+      "winner": "チョ・ヨジョン",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6751668"
+      }
+    },
+    {
+      "id": "blue-dragon-2019-best-supporting-actor-default",
+      "mediaType": "movie",
+      "title": "国家が破産する日",
+      "originalTitle": "국가부도의 날",
+      "award": "助演男優賞",
+      "awardYear": 2019,
+      "awardOrder": 5,
+      "winner": "チョ・ウジン",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7233726"
+      }
+    },
+    {
+      "id": "blue-dragon-2019-best-supporting-actress-parasite",
+      "mediaType": "movie",
+      "title": "パラサイト 半地下の家族",
+      "originalTitle": "기생충",
+      "award": "助演女優賞",
+      "awardYear": 2019,
+      "awardOrder": 6,
+      "winner": "イ・ジョンウン",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6751668"
+      }
+    },
+    {
+      "id": "blue-dragon-2019-best-new-director-exit",
+      "mediaType": "movie",
+      "title": "Exit",
+      "originalTitle": "엑시트",
+      "award": "新人監督賞",
+      "awardYear": 2019,
+      "awardOrder": 7,
+      "winner": "イ・サングン",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10648440"
+      }
+    },
+    {
+      "id": "blue-dragon-2019-best-new-actor-quantum-physics",
+      "mediaType": "movie",
+      "title": "By Quantum Physics: A Nightlife Venture",
+      "originalTitle": "양자물리학",
+      "award": "新人男優賞",
+      "awardYear": 2019,
+      "awardOrder": 8,
+      "winner": "パク・ヘス",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt11022284"
+      }
+    },
+    {
+      "id": "blue-dragon-2019-best-new-actress-another-child",
+      "mediaType": "movie",
+      "title": "Another Child",
+      "originalTitle": "미성년",
+      "award": "新人女優賞",
+      "awardYear": 2019,
+      "awardOrder": 9,
+      "winner": "キム・ヘジュン",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt8991322"
+      }
+    },
+    {
+      "id": "blue-dragon-2019-best-screenplay-house-hummingbird",
+      "mediaType": "movie",
+      "title": "はちどり",
+      "originalTitle": "벌새",
+      "award": "脚本賞",
+      "awardYear": 2019,
+      "awardOrder": 10,
+      "winner": "キム・ボラ",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8951086"
+      }
+    }
+  ]
+}

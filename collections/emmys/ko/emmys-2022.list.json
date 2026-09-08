@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T05:03:35Z",
+  "title": "프라임타임 에미상 2022 수상 목록",
+  "description": "제74회 프라임타임 에미상 주요 부문 수상 기록.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "emmys-2022-drama-series-succession",
+      "mediaType": "tv",
+      "title": "석세션",
+      "originalTitle": "Succession",
+      "award": "최우수 드라마 시리즈",
+      "awardYear": 2022,
+      "awardOrder": 1,
+      "winner": "Succession",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7660850"
+      }
+    },
+    {
+      "id": "emmys-2022-comedy-series-ted-lasso",
+      "mediaType": "tv",
+      "title": "테드 래소",
+      "originalTitle": "Ted Lasso",
+      "award": "최우수 코미디 시리즈",
+      "awardYear": 2022,
+      "awardOrder": 2,
+      "winner": "Ted Lasso",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10986410"
+      }
+    },
+    {
+      "id": "emmys-2022-limited-series-the-white-lotus",
+      "mediaType": "tv",
+      "title": "화이트 로투스",
+      "originalTitle": "The White Lotus",
+      "award": "최우수 리미티드 또는 앤솔러지 시리즈",
+      "awardYear": 2022,
+      "awardOrder": 3,
+      "winner": "The White Lotus",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt13406094"
+      }
+    },
+    {
+      "id": "emmys-2022-lead-actor-drama-squid-game",
+      "mediaType": "tv",
+      "title": "오징어 게임",
+      "originalTitle": "Squid Game",
+      "award": "드라마 시리즈 남우주연상",
+      "awardYear": 2022,
+      "awardOrder": 4,
+      "winner": "Lee Jung-jae",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt10919420"
+      }
+    },
+    {
+      "id": "emmys-2022-lead-actress-drama-euphoria",
+      "mediaType": "tv",
+      "title": "유포리아",
+      "originalTitle": "Euphoria",
+      "award": "드라마 시리즈 여우주연상",
+      "awardYear": 2022,
+      "awardOrder": 5,
+      "winner": "Zendaya",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt8772296"
+      }
+    },
+    {
+      "id": "emmys-2022-lead-actor-comedy-ted-lasso",
+      "mediaType": "tv",
+      "title": "테드 래소",
+      "originalTitle": "Ted Lasso",
+      "award": "코미디 시리즈 남우주연상",
+      "awardYear": 2022,
+      "awardOrder": 6,
+      "winner": "Jason Sudeikis",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10986410"
+      }
+    },
+    {
+      "id": "emmys-2022-lead-actress-comedy-hacks",
+      "mediaType": "tv",
+      "title": "Hacks",
+      "award": "코미디 시리즈 여우주연상",
+      "awardYear": 2022,
+      "awardOrder": 7,
+      "winner": "Jean Smart",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt11815682"
+      }
+    }
+  ]
+}

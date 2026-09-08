@@ -1,0 +1,203 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "title": "백상예술대상 수상 부문",
+  "description": "2017–2026년 백상예술대상 영화·방송 주요 부문별 수상 기록.",
+  "tags": [
+    "award",
+    "prize"
+  ],
+  "icon": "ticket",
+  "sections": [
+    {
+      "title": "백상예술대상 — 영화부문 대상",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "carousel",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "baeksang-film-grand.list.json"
+        }
+      ],
+      "limit": 10
+    },
+    {
+      "title": "백상예술대상 — 방송부문 대상",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "baeksang-tv-grand.list.json"
+        }
+      ],
+      "limit": 10
+    },
+    {
+      "title": "백상예술대상 — 영화부문 작품상",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "baeksang-film-best.list.json"
+        }
+      ],
+      "limit": 10
+    },
+    {
+      "title": "백상예술대상 — 방송부문 작품상 드라마",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "baeksang-tv-best.list.json"
+        }
+      ],
+      "limit": 10
+    },
+    {
+      "title": "백상예술대상 — 영화부문 감독상",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "baeksang-film-director.list.json"
+        }
+      ],
+      "limit": 10
+    },
+    {
+      "title": "백상예술대상 — 방송부문 연출상",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "baeksang-tv-director.list.json"
+        }
+      ],
+      "limit": 10
+    },
+    {
+      "title": "백상예술대상 — 영화부문 남자 최우수 연기상",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "baeksang-film-actor.list.json"
+        }
+      ],
+      "limit": 10
+    },
+    {
+      "title": "백상예술대상 — 영화부문 여자 최우수 연기상",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "baeksang-film-actress.list.json"
+        }
+      ],
+      "limit": 10
+    },
+    {
+      "title": "백상예술대상 — 방송부문 남자 최우수 연기상",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "baeksang-tv-actor.list.json"
+        }
+      ],
+      "limit": 10
+    },
+    {
+      "title": "백상예술대상 — 방송부문 여자 최우수 연기상",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "baeksang-tv-actress.list.json"
+        }
+      ],
+      "limit": 10
+    }
+  ]
+}

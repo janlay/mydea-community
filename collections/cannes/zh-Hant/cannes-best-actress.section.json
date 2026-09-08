@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "OpenAI",
+  "title": "坎城 — 最佳女演員",
+  "description": "坎城影展最佳女演員獎獲獎影片。",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "cannes-best-actress.list.json"
+    }
+  ]
+}

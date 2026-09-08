@@ -1,0 +1,277 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:45:00Z",
+  "title": "金馬獎 — 最佳新演員",
+  "description": "金馬獎最佳新演員自2000年設獎以來至2025年的全部實際得獎記錄；同屆多位得主分別保留。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "golden-horse-2000-best-new-performer-item-1",
+      "mediaType": "movie",
+      "title": "細路祥",
+      "awardYear": 2000,
+      "winner": "姚月明",
+      "releaseDate": "2000"
+    },
+    {
+      "id": "golden-horse-2001-best-new-performer-tt0255327",
+      "mediaType": "movie",
+      "title": "榴槤飄飄",
+      "awardYear": 2001,
+      "winner": "秦海璐",
+      "releaseDate": "2001",
+      "externalIds": {
+        "imdb": "tt0255327"
+      }
+    },
+    {
+      "id": "golden-horse-2002-best-new-performer-item-3",
+      "mediaType": "movie",
+      "title": "男人四十",
+      "awardYear": 2002,
+      "winner": "林嘉欣",
+      "releaseDate": "2002"
+    },
+    {
+      "id": "golden-horse-2003-best-new-performer-item-4",
+      "mediaType": "movie",
+      "title": "盲井",
+      "awardYear": 2003,
+      "winner": "王寶強",
+      "releaseDate": "2003"
+    },
+    {
+      "id": "golden-horse-2003-best-new-performer-item-5",
+      "mediaType": "movie",
+      "title": "跑吧孩子",
+      "awardYear": 2003,
+      "winner": "鄭智允",
+      "releaseDate": "2003"
+    },
+    {
+      "id": "golden-horse-2004-best-new-performer-item-6",
+      "mediaType": "movie",
+      "title": "擁抱大白熊",
+      "awardYear": 2004,
+      "winner": "洪顥瑄",
+      "releaseDate": "2004"
+    },
+    {
+      "id": "golden-horse-2004-best-new-performer-item-7",
+      "mediaType": "movie",
+      "title": "十七歲的天空",
+      "awardYear": 2004,
+      "winner": "楊祐寧",
+      "releaseDate": "2004"
+    },
+    {
+      "id": "golden-horse-2005-best-new-performer-item-8",
+      "mediaType": "movie",
+      "title": "頭文字D",
+      "awardYear": 2005,
+      "winner": "周杰倫",
+      "releaseDate": "2005"
+    },
+    {
+      "id": "golden-horse-2006-best-new-performer-item-9",
+      "mediaType": "movie",
+      "title": "盛夏光年",
+      "awardYear": 2006,
+      "winner": "張睿家",
+      "releaseDate": "2006"
+    },
+    {
+      "id": "golden-horse-2007-best-new-performer-item-10",
+      "mediaType": "movie",
+      "title": "色，戒",
+      "awardYear": 2007,
+      "winner": "湯唯",
+      "releaseDate": "2007"
+    },
+    {
+      "id": "golden-horse-2008-best-new-performer-item-11",
+      "mediaType": "movie",
+      "title": "跳格子",
+      "awardYear": 2008,
+      "winner": "姜聖民",
+      "releaseDate": "2008"
+    },
+    {
+      "id": "golden-horse-2009-best-new-performer-item-12",
+      "mediaType": "movie",
+      "title": "梅蘭芳",
+      "awardYear": 2009,
+      "winner": "余少群",
+      "releaseDate": "2009"
+    },
+    {
+      "id": "golden-horse-2010-best-new-performer-item-13",
+      "mediaType": "movie",
+      "title": "茱麗葉",
+      "awardYear": 2010,
+      "winner": "李千娜",
+      "releaseDate": "2010"
+    },
+    {
+      "id": "golden-horse-2011-best-new-performer-item-14",
+      "mediaType": "movie",
+      "title": "那些年，我們一起追的女孩",
+      "awardYear": 2011,
+      "winner": "柯震東",
+      "releaseDate": "2011"
+    },
+    {
+      "id": "golden-horse-2012-best-new-performer-item-15",
+      "mediaType": "movie",
+      "title": "浮城謎事",
+      "awardYear": 2012,
+      "winner": "齊溪",
+      "releaseDate": "2012"
+    },
+    {
+      "id": "golden-horse-2013-best-new-performer-item-16",
+      "mediaType": "movie",
+      "title": "志氣",
+      "awardYear": 2013,
+      "winner": "郭書瑤",
+      "releaseDate": "2013"
+    },
+    {
+      "id": "golden-horse-2014-best-new-performer-item-17",
+      "mediaType": "movie",
+      "title": "推拿",
+      "awardYear": 2014,
+      "winner": "張磊",
+      "releaseDate": "2014"
+    },
+    {
+      "id": "golden-horse-2015-best-new-performer-item-18",
+      "mediaType": "movie",
+      "title": "醉·生夢死",
+      "awardYear": 2015,
+      "winner": "李鴻其",
+      "releaseDate": "2015"
+    },
+    {
+      "id": "golden-horse-2016-best-new-performer-tt6118258",
+      "mediaType": "movie",
+      "title": "八月",
+      "awardYear": 2016,
+      "winner": "孔維一",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt6118258"
+      }
+    },
+    {
+      "id": "golden-horse-2017-best-new-performer-tt7010456",
+      "mediaType": "movie",
+      "title": "強尼．凱克",
+      "awardYear": 2017,
+      "winner": "瑞瑪席丹",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7010456"
+      }
+    },
+    {
+      "id": "golden-horse-2018-best-new-performer-tt7475882",
+      "mediaType": "movie",
+      "title": "只有大海知道",
+      "awardYear": 2018,
+      "winner": "鍾家駿",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7475882"
+      }
+    },
+    {
+      "id": "golden-horse-2019-best-new-performer-tt10869364",
+      "mediaType": "movie",
+      "title": "下半場",
+      "awardYear": 2019,
+      "winner": "范少勳",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10869364"
+      }
+    },
+    {
+      "id": "golden-horse-2020-best-new-performer-tt12396992",
+      "mediaType": "movie",
+      "title": "無聲",
+      "awardYear": 2020,
+      "winner": "陳姸霏",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt12396992"
+      }
+    },
+    {
+      "id": "golden-horse-2021-best-new-performer-tt15620158",
+      "mediaType": "movie",
+      "title": "美國女孩",
+      "awardYear": 2021,
+      "winner": "方郁婷",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt15620158"
+      }
+    },
+    {
+      "id": "golden-horse-2022-best-new-performer-tt22335454",
+      "mediaType": "movie",
+      "title": "一家子兒咕咕叫",
+      "awardYear": 2022,
+      "winner": "胡智強",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt22335454"
+      }
+    },
+    {
+      "id": "golden-horse-2023-best-new-performer-tt27139786",
+      "mediaType": "movie",
+      "title": "但願人長久",
+      "awardYear": 2023,
+      "winner": "謝咏欣",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt27139786"
+      }
+    },
+    {
+      "id": "golden-horse-2024-best-new-performer-tt29195650",
+      "mediaType": "movie",
+      "title": "BIG",
+      "awardYear": 2024,
+      "winner": "鄭又菲",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt29195650"
+      }
+    },
+    {
+      "id": "golden-horse-2025-best-new-performer-tt27722618",
+      "mediaType": "movie",
+      "title": "左撇子女孩",
+      "awardYear": 2025,
+      "winner": "馬士媛",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt27722618"
+      }
+    }
+  ]
+}

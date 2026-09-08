@@ -1,0 +1,124 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:30:00Z",
+  "title": "威尼斯影展 2019 年獲獎名單",
+  "description": "第87屆威尼斯影展主競賽主要官方獎項獲獎影片。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "venice-golden-lion-2019-joker-1",
+      "mediaType": "movie",
+      "title": "小丑",
+      "releaseDate": "2019",
+      "externalIds": {
+        "letterboxd": "joker"
+      },
+      "awardYear": 2019,
+      "winner": "Todd Phillips",
+      "englishTitle": "Joker",
+      "award": "金獅獎"
+    },
+    {
+      "id": "venice-grand-jury-prize-2019-an-officer-and-a-spy-2",
+      "mediaType": "movie",
+      "title": "我控訴",
+      "releaseDate": "2019",
+      "externalIds": {
+        "letterboxd": "an-officer-and-a-spy"
+      },
+      "awardYear": 2019,
+      "winner": "Roman Polanski",
+      "englishTitle": "An Officer and a Spy",
+      "award": "銀獅獎·評審團大獎"
+    },
+    {
+      "id": "venice-best-director-2019-about-endlessness-3",
+      "mediaType": "movie",
+      "title": "關於無盡",
+      "releaseDate": "2019",
+      "externalIds": {
+        "letterboxd": "about-endlessness"
+      },
+      "awardYear": 2019,
+      "winner": "Roy Andersson",
+      "englishTitle": "About Endlessness",
+      "award": "銀獅獎·最佳導演"
+    },
+    {
+      "id": "venice-best-actress-2019-gloria-mundi-4",
+      "mediaType": "movie",
+      "title": "世界的勝利",
+      "releaseDate": "2019",
+      "externalIds": {
+        "letterboxd": "gloria-mundi"
+      },
+      "awardYear": 2019,
+      "winner": "Ariane Ascaride",
+      "englishTitle": "Gloria Mundi",
+      "award": "沃爾皮杯·最佳女演員"
+    },
+    {
+      "id": "venice-best-actor-2019-martin-eden-5",
+      "mediaType": "movie",
+      "title": "馬丁·伊登",
+      "releaseDate": "2019",
+      "externalIds": {
+        "letterboxd": "martin-eden"
+      },
+      "awardYear": 2019,
+      "winner": "Luca Marinelli",
+      "englishTitle": "Martin Eden",
+      "award": "沃爾皮杯·最佳男演員"
+    },
+    {
+      "id": "venice-best-screenplay-2019-no-7-cherry-lane-6",
+      "mediaType": "movie",
+      "title": "繼園臺七號",
+      "releaseDate": "2019",
+      "externalIds": {
+        "letterboxd": "no-7-cherry-lane"
+      },
+      "awardYear": 2019,
+      "winner": "Yonfan",
+      "englishTitle": "No. 7 Cherry Lane",
+      "award": "最佳編劇獎"
+    },
+    {
+      "id": "venice-special-jury-prize-2019-the-mafia-is-no-longer-what-it-used-to-be-7",
+      "mediaType": "movie",
+      "title": "黑手黨不再是過去的樣子",
+      "releaseDate": "2019",
+      "externalIds": {
+        "letterboxd": "the-mafia-is-no-longer-what-it-used-to-be"
+      },
+      "awardYear": 2019,
+      "winner": "Franco Maresco",
+      "englishTitle": "The Mafia Is No Longer What It Used to Be",
+      "award": "評審團特別獎"
+    },
+    {
+      "id": "venice-mastroianni-2019-babyteeth-8",
+      "mediaType": "movie",
+      "title": "乳牙",
+      "releaseDate": "2019",
+      "externalIds": {
+        "letterboxd": "babyteeth"
+      },
+      "awardYear": 2019,
+      "winner": "Toby Wallace",
+      "englishTitle": "Babyteeth",
+      "award": "馬塞洛·馬斯楚安尼獎"
+    }
+  ]
+}

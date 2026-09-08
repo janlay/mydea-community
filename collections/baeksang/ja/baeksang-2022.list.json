@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-12T02:58:14Z",
+  "title": "百想芸術大賞 — 2022",
+  "description": "2022年の百想芸術大賞における主要な映画・テレビ部門の受賞作品。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "baeksang-2022-film-grand-mogadishu",
+      "mediaType": "movie",
+      "title": "モガディシュ 脱出までの14日間",
+      "originalTitle": "모가디슈",
+      "award": "映画部門 大賞",
+      "awardYear": 2022,
+      "awardOrder": 1,
+      "winner": "リュ・スンワン",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14810692"
+      }
+    },
+    {
+      "id": "baeksang-2022-tv-grand-squid-game",
+      "mediaType": "tv",
+      "title": "イカゲーム",
+      "originalTitle": "오징어 게임",
+      "award": "テレビ部門 大賞",
+      "awardYear": 2022,
+      "awardOrder": 2,
+      "winner": "イカゲーム",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt10919420"
+      }
+    },
+    {
+      "id": "baeksang-2022-film-best-mogadishu",
+      "mediaType": "movie",
+      "title": "モガディシュ 脱出までの14日間",
+      "originalTitle": "모가디슈",
+      "award": "映画部門 作品賞",
+      "awardYear": 2022,
+      "awardOrder": 3,
+      "winner": "モガディシュ 脱出までの14日間",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14810692"
+      }
+    },
+    {
+      "id": "baeksang-2022-film-director-kingmaker",
+      "mediaType": "movie",
+      "title": "キングメーカー 大統領を作った男",
+      "originalTitle": "킹메이커",
+      "award": "映画部門 監督賞",
+      "awardYear": 2022,
+      "awardOrder": 4,
+      "winner": "ピョン・ソンヒョン",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt17491616"
+      }
+    },
+    {
+      "id": "baeksang-2022-film-actor-kingmaker",
+      "mediaType": "movie",
+      "title": "キングメーカー 大統領を作った男",
+      "originalTitle": "킹메이커",
+      "award": "映画部門 男性最優秀演技賞",
+      "awardYear": 2022,
+      "awardOrder": 5,
+      "winner": "ソル・ギョング",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt17491616"
+      }
+    },
+    {
+      "id": "baeksang-2022-film-actress-in-front",
+      "mediaType": "movie",
+      "title": "あなたの顔の前に",
+      "originalTitle": "당신얼굴 앞에서",
+      "award": "映画部門 女性最優秀演技賞",
+      "awardYear": 2022,
+      "awardOrder": 6,
+      "winner": "イ・ヘヨン",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14776918"
+      }
+    },
+    {
+      "id": "baeksang-2022-tv-best-dp",
+      "mediaType": "tv",
+      "title": "D.P. －脱走兵追跡官－",
+      "originalTitle": "D.P.",
+      "award": "テレビ部門 作品賞",
+      "awardYear": 2022,
+      "awardOrder": 7,
+      "winner": "D.P. －脱走兵追跡官－",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt13024974"
+      }
+    },
+    {
+      "id": "baeksang-2022-tv-director-squid-game",
+      "mediaType": "tv",
+      "title": "イカゲーム",
+      "originalTitle": "오징어 게임",
+      "award": "テレビ部門 演出賞",
+      "awardYear": 2022,
+      "awardOrder": 8,
+      "winner": "ファン・ドンヒョク",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt10919420"
+      }
+    },
+    {
+      "id": "baeksang-2022-tv-actor-red-sleeve",
+      "mediaType": "tv",
+      "title": "赤い袖先",
+      "originalTitle": "옷소매 붉은 끝동",
+      "award": "テレビ部門 男性最優秀演技賞",
+      "awardYear": 2022,
+      "awardOrder": 9,
+      "winner": "イ・ジュノ",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14687200"
+      }
+    },
+    {
+      "id": "baeksang-2022-tv-actress-2521",
+      "mediaType": "tv",
+      "title": "二十五、二十一",
+      "originalTitle": "스물다섯 스물하나",
+      "award": "テレビ部門 女性最優秀演技賞",
+      "awardYear": 2022,
+      "awardOrder": 10,
+      "winner": "キム・テリ",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt17513352"
+      }
+    }
+  ]
+}

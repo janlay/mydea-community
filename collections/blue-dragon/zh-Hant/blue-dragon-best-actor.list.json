@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-12T02:54:20Z",
+  "title": "青龍電影獎 — 最佳男主角",
+  "description": "韓國青龍電影獎最佳男主角2016–2025年獲獎記錄。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "blue-dragon-2016-best-actor-inside-men",
+      "mediaType": "movie",
+      "title": "局內人",
+      "originalTitle": "내부자들",
+      "englishTitle": "Inside Men",
+      "awardYear": 2016,
+      "winner": "Lee Byung-hun",
+      "releaseDate": "2015",
+      "externalIds": {
+        "imdb": "tt3779028"
+      }
+    },
+    {
+      "id": "blue-dragon-2017-best-actor-a-taxi-driver",
+      "mediaType": "movie",
+      "title": "出租車司機",
+      "originalTitle": "택시운전사",
+      "englishTitle": "A Taxi Driver",
+      "awardYear": 2017,
+      "winner": "Song Kang-ho",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6878038"
+      }
+    },
+    {
+      "id": "blue-dragon-2018-best-actor-1987",
+      "mediaType": "movie",
+      "title": "1987：黎明到來的那一天",
+      "originalTitle": "1987",
+      "englishTitle": "1987: When the Day Comes",
+      "awardYear": 2018,
+      "winner": "Kim Yoon-seok",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6493286"
+      }
+    },
+    {
+      "id": "blue-dragon-2019-best-actor-innocent-witness",
+      "mediaType": "movie",
+      "title": "證人",
+      "originalTitle": "증인",
+      "englishTitle": "Innocent Witness",
+      "awardYear": 2019,
+      "winner": "Jung Woo-sung",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt8562562"
+      }
+    },
+    {
+      "id": "blue-dragon-2020-best-actor-voice-silence",
+      "mediaType": "movie",
+      "title": "無聲",
+      "originalTitle": "소리도 없이",
+      "englishTitle": "Voice of Silence",
+      "awardYear": 2020,
+      "winner": "Yoo Ah-in",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10431572"
+      }
+    },
+    {
+      "id": "blue-dragon-2021-best-actor-book-fish",
+      "mediaType": "movie",
+      "title": "茲山魚譜",
+      "originalTitle": "자산어보",
+      "englishTitle": "The Book of Fish",
+      "awardYear": 2021,
+      "winner": "Sul Kyung-gu",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14371900"
+      }
+    },
+    {
+      "id": "blue-dragon-2022-best-actor-decision-leave",
+      "mediaType": "movie",
+      "title": "分手的決心",
+      "originalTitle": "헤어질 결심",
+      "englishTitle": "Decision to Leave",
+      "awardYear": 2022,
+      "winner": "Park Hae-il",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt12477480"
+      }
+    },
+    {
+      "id": "blue-dragon-2023-best-actor-concrete-utopia",
+      "mediaType": "movie",
+      "title": "混凝土烏托邦",
+      "originalTitle": "콘크리트 유토피아",
+      "englishTitle": "Concrete Utopia",
+      "awardYear": 2023,
+      "winner": "Lee Byung-hun",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt13086266"
+      }
+    },
+    {
+      "id": "blue-dragon-2024-best-actor-1212",
+      "mediaType": "movie",
+      "title": "首爾之春",
+      "originalTitle": "서울의 봄",
+      "englishTitle": "12.12: The Day",
+      "awardYear": 2024,
+      "winner": "Hwang Jung-min",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt22507524"
+      }
+    },
+    {
+      "id": "blue-dragon-2025-best-actor-harbin",
+      "mediaType": "movie",
+      "title": "哈爾濱",
+      "originalTitle": "하얼빈",
+      "englishTitle": "Harbin",
+      "awardYear": 2025,
+      "winner": "Hyun Bin",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt23630030"
+      }
+    }
+  ]
+}

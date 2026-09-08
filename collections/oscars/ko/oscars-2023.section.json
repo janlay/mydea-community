@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "ChatGPT",
+  "title": "아카데미상 2023 수상 목록",
+  "description": "제95회 아카데미상 주요 영화 부문의 수상작과 수상자.",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "oscars-2023.list.json"
+    }
+  ]
+}

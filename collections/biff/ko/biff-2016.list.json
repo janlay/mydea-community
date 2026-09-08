@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "부산국제영화제 2016 수상작",
+  "description": "부산국제영화제 2016 주요 경쟁상 수상작.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "biff-2016-new-currents-the-donor",
+      "mediaType": "movie",
+      "title": "The Donor",
+      "award": "뉴 커런츠상",
+      "awardYear": 2016,
+      "awardOrder": 1,
+      "winner": "ZANG Qiwu",
+      "releaseDate": "2016",
+      "externalIds": {
+        "letterboxd": "the-donor"
+      }
+    },
+    {
+      "id": "biff-2016-new-currents-knife-in-the-clear-water",
+      "mediaType": "movie",
+      "title": "Knife in the Clear Water",
+      "award": "뉴 커런츠상",
+      "awardYear": 2016,
+      "awardOrder": 2,
+      "winner": "WANG Xuebo",
+      "releaseDate": "2016",
+      "externalIds": {
+        "letterboxd": "knife-in-the-clear-water"
+      }
+    },
+    {
+      "id": "biff-2016-mecenat-neighborhood",
+      "mediaType": "movie",
+      "title": "Neighborhood",
+      "award": "비프메세나상",
+      "awardYear": 2016,
+      "awardOrder": 3,
+      "winner": "SUNG Seungtaek",
+      "releaseDate": "2016",
+      "externalIds": {
+        "letterboxd": "neighborhood"
+      }
+    },
+    {
+      "id": "biff-2016-mecenat-the-crescent-rising",
+      "mediaType": "movie",
+      "title": "The Crescent Rising",
+      "award": "비프메세나상",
+      "awardYear": 2016,
+      "awardOrder": 4,
+      "winner": "Sheron DAYOC",
+      "releaseDate": "2016",
+      "externalIds": {
+        "letterboxd": "the-crescent-rising"
+      }
+    },
+    {
+      "id": "biff-2016-sonje-viewer",
+      "mediaType": "movie",
+      "title": "Viewer",
+      "award": "선재상",
+      "awardYear": 2016,
+      "awardOrder": 5,
+      "winner": "KIM Soyoun",
+      "releaseDate": "2016",
+      "externalIds": {
+        "letterboxd": "viewer"
+      }
+    },
+    {
+      "id": "biff-2016-sonje-off-season",
+      "mediaType": "movie",
+      "title": "Off-season",
+      "award": "선재상",
+      "awardYear": 2016,
+      "awardOrder": 6,
+      "winner": "Yelzat ESKENDIR",
+      "releaseDate": "2016",
+      "externalIds": {
+        "letterboxd": "off-season"
+      }
+    }
+  ]
+}

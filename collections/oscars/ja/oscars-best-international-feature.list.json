@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T05:03:58Z",
+  "title": "アカデミー賞 — 国際長編映画賞",
+  "description": "アカデミー賞「国際長編映画賞」の直近10回の受賞記録。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "oscars-best-international-feature-2017-the-salesman",
+      "mediaType": "movie",
+      "title": "The Salesman",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5186714"
+      },
+      "awardYear": 2017,
+      "winner": "Asghar Farhadi"
+    },
+    {
+      "id": "oscars-best-international-feature-2018-a-fantastic-woman",
+      "mediaType": "movie",
+      "title": "A Fantastic Woman",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5639354"
+      },
+      "awardYear": 2018,
+      "winner": "Sebastián Lelio"
+    },
+    {
+      "id": "oscars-best-international-feature-2019-roma",
+      "mediaType": "movie",
+      "title": "Roma",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt6155172"
+      },
+      "awardYear": 2019,
+      "winner": "Alfonso Cuarón"
+    },
+    {
+      "id": "oscars-best-international-feature-2020-parasite",
+      "mediaType": "movie",
+      "title": "Parasite",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6751668"
+      },
+      "awardYear": 2020,
+      "winner": "South Korea"
+    },
+    {
+      "id": "oscars-best-international-feature-2021-another-round",
+      "mediaType": "movie",
+      "title": "Another Round",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10288566"
+      },
+      "awardYear": 2021,
+      "winner": "Denmark"
+    },
+    {
+      "id": "oscars-best-international-feature-2022-drive-my-car",
+      "mediaType": "movie",
+      "title": "Drive My Car",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14039582"
+      },
+      "awardYear": 2022,
+      "winner": "Japan"
+    },
+    {
+      "id": "oscars-best-international-feature-2023-all-quiet-on-the-western-front",
+      "mediaType": "movie",
+      "title": "All Quiet on the Western Front",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt1016150"
+      },
+      "awardYear": 2023,
+      "winner": "Germany"
+    },
+    {
+      "id": "oscars-best-international-feature-2024-the-zone-of-interest",
+      "mediaType": "movie",
+      "title": "The Zone of Interest",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt7160372"
+      },
+      "awardYear": 2024,
+      "winner": "United Kingdom"
+    },
+    {
+      "id": "oscars-best-international-feature-2025-i-m-still-here",
+      "mediaType": "movie",
+      "title": "I'm Still Here",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt14961016"
+      },
+      "awardYear": 2025,
+      "winner": "Brazil"
+    },
+    {
+      "id": "oscars-best-international-feature-2026-sentimental-value",
+      "mediaType": "movie",
+      "title": "Sentimental Value",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt27714581"
+      },
+      "awardYear": 2026,
+      "winner": "Norway"
+    }
+  ]
+}

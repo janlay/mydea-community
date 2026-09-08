@@ -1,0 +1,203 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "title": "奥斯卡奖项",
+  "description": "奥斯卡核心电影奖项最近十届获奖记录。",
+  "tags": [
+    "award",
+    "prize"
+  ],
+  "icon": "ticket",
+  "sections": [
+    {
+      "title": "奥斯卡 — 最佳影片",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "carousel",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "oscars-best-picture.list.json"
+        }
+      ]
+    },
+    {
+      "title": "奥斯卡 — 最佳导演",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "oscars-best-director.list.json"
+        }
+      ]
+    },
+    {
+      "title": "奥斯卡 — 最佳男主角",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "oscars-best-actor.list.json"
+        }
+      ]
+    },
+    {
+      "title": "奥斯卡 — 最佳女主角",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "oscars-best-actress.list.json"
+        }
+      ]
+    },
+    {
+      "title": "奥斯卡 — 最佳男配角",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "oscars-best-supporting-actor.list.json"
+        }
+      ]
+    },
+    {
+      "title": "奥斯卡 — 最佳女配角",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "oscars-best-supporting-actress.list.json"
+        }
+      ]
+    },
+    {
+      "title": "奥斯卡 — 最佳原创剧本",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "oscars-best-original-screenplay.list.json"
+        }
+      ]
+    },
+    {
+      "title": "奥斯卡 — 最佳改编剧本",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "oscars-best-adapted-screenplay.list.json"
+        }
+      ]
+    },
+    {
+      "title": "奥斯卡 — 最佳动画长片",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "oscars-best-animated-feature.list.json"
+        }
+      ]
+    },
+    {
+      "title": "奥斯卡 — 最佳国际影片",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "oscars-best-international-feature.list.json"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T05:03:58Z",
+  "title": "奥斯卡 — 最佳动画长片",
+  "description": "奥斯卡最佳动画长片最近十届获奖记录。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "oscars-best-animated-feature-2017-zootopia",
+      "mediaType": "movie",
+      "title": "Zootopia",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt2948356"
+      },
+      "awardYear": 2017,
+      "winner": "Byron Howard, Rich Moore & Clark Spencer"
+    },
+    {
+      "id": "oscars-best-animated-feature-2018-coco",
+      "mediaType": "movie",
+      "title": "Coco",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt2380307"
+      },
+      "awardYear": 2018,
+      "winner": "Lee Unkrich & Darla K. Anderson"
+    },
+    {
+      "id": "oscars-best-animated-feature-2019-spider-man-into-the-spider-verse",
+      "mediaType": "movie",
+      "title": "Spider-Man: Into the Spider-Verse",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt4633694"
+      },
+      "awardYear": 2019,
+      "winner": "Bob Persichetti, Peter Ramsey, Rodney Rothman, Phil Lord & Christopher Miller"
+    },
+    {
+      "id": "oscars-best-animated-feature-2020-toy-story-4",
+      "mediaType": "movie",
+      "title": "Toy Story 4",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt1979376"
+      },
+      "awardYear": 2020,
+      "winner": "Josh Cooley, Mark Nielsen & Jonas Rivera"
+    },
+    {
+      "id": "oscars-best-animated-feature-2021-soul",
+      "mediaType": "movie",
+      "title": "Soul",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt2948372"
+      },
+      "awardYear": 2021,
+      "winner": "Pete Docter & Dana Murray"
+    },
+    {
+      "id": "oscars-best-animated-feature-2022-encanto",
+      "mediaType": "movie",
+      "title": "Encanto",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt2953050"
+      },
+      "awardYear": 2022,
+      "winner": "Jared Bush, Byron Howard, Yvett Merino & Clark Spencer"
+    },
+    {
+      "id": "oscars-best-animated-feature-2023-guillermo-del-toro-s-pinocchio",
+      "mediaType": "movie",
+      "title": "Guillermo del Toro's Pinocchio",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt1488589"
+      },
+      "awardYear": 2023,
+      "winner": "Guillermo del Toro, Mark Gustafson, Gary Ungar & Alex Bulkley"
+    },
+    {
+      "id": "oscars-best-animated-feature-2024-the-boy-and-the-heron",
+      "mediaType": "movie",
+      "title": "The Boy and the Heron",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt6587046"
+      },
+      "awardYear": 2024,
+      "winner": "Hayao Miyazaki & Toshio Suzuki"
+    },
+    {
+      "id": "oscars-best-animated-feature-2025-flow",
+      "mediaType": "movie",
+      "title": "Flow",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt4772188"
+      },
+      "awardYear": 2025,
+      "winner": "Gints Zilbalodis, Matīss Kaža, Ron Dyens & Gregory Zalcman"
+    },
+    {
+      "id": "oscars-best-animated-feature-2026-kpop-demon-hunters",
+      "mediaType": "movie",
+      "title": "KPop Demon Hunters",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt14205554"
+      },
+      "awardYear": 2026,
+      "winner": "Maggie Kang, Chris Appelhans & Michelle L.M. Wong"
+    }
+  ]
+}

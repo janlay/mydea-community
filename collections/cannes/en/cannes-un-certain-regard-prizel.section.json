@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "Mydea",
+  "title": "Cannes — Un Certain Regard Prize",
+  "description": "A list of films that have won the Un Certain Regard Prize at past Cannes Film Festivals. The award was established in 1998; no film was awarded in 2020 because the Cannes Film Festival was canceled; in 2011, two films shared the award.",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "cannes-un-certain-regard-prizel.list.json"
+    }
+  ]
+}

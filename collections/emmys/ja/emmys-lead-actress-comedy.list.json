@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T05:03:35Z",
+  "title": "プライムタイム・エミー賞 — 主演女優賞 コメディ・シリーズ部門",
+  "description": "プライムタイム・エミー賞「主演女優賞 コメディ・シリーズ部門」の受賞記録。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "emmys-2017-lead-actress-comedy-veep",
+      "mediaType": "tv",
+      "title": "Veep／ヴィープ",
+      "originalTitle": "Veep",
+      "awardYear": 2017,
+      "winner": "Julia Louis-Dreyfus",
+      "releaseDate": "2012",
+      "externalIds": {
+        "imdb": "tt1759761"
+      }
+    },
+    {
+      "id": "emmys-2018-lead-actress-comedy-the-marvelous-mrs-maisel",
+      "mediaType": "tv",
+      "title": "マーベラス・ミセス・メイゼル",
+      "originalTitle": "The Marvelous Mrs. Maisel",
+      "awardYear": 2018,
+      "winner": "Rachel Brosnahan",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5788792"
+      }
+    },
+    {
+      "id": "emmys-2019-lead-actress-comedy-fleabag",
+      "mediaType": "tv",
+      "title": "Fleabag フリーバッグ",
+      "originalTitle": "Fleabag",
+      "awardYear": 2019,
+      "winner": "Phoebe Waller-Bridge",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5687612"
+      }
+    },
+    {
+      "id": "emmys-2020-lead-actress-comedy-schitt-s-creek",
+      "mediaType": "tv",
+      "title": "シッツ・クリーク",
+      "originalTitle": "Schitt's Creek",
+      "awardYear": 2020,
+      "winner": "Catherine O'Hara",
+      "releaseDate": "2015",
+      "externalIds": {
+        "imdb": "tt3526078"
+      }
+    },
+    {
+      "id": "emmys-2021-lead-actress-comedy-hacks",
+      "mediaType": "tv",
+      "title": "Hacks",
+      "awardYear": 2021,
+      "winner": "Jean Smart",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt11815682"
+      }
+    },
+    {
+      "id": "emmys-2022-lead-actress-comedy-hacks",
+      "mediaType": "tv",
+      "title": "Hacks",
+      "awardYear": 2022,
+      "winner": "Jean Smart",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt11815682"
+      }
+    },
+    {
+      "id": "emmys-2023-lead-actress-comedy-abbott-elementary",
+      "mediaType": "tv",
+      "title": "アボット エレメンタリー",
+      "originalTitle": "Abbott Elementary",
+      "awardYear": 2023,
+      "winner": "Quinta Brunson",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14218830"
+      }
+    },
+    {
+      "id": "emmys-2024-lead-actress-comedy-hacks",
+      "mediaType": "tv",
+      "title": "Hacks",
+      "awardYear": 2024,
+      "winner": "Jean Smart",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt11815682"
+      }
+    },
+    {
+      "id": "emmys-2025-lead-actress-comedy-hacks",
+      "mediaType": "tv",
+      "title": "Hacks",
+      "awardYear": 2025,
+      "winner": "Jean Smart",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt11815682"
+      }
+    },
+    {
+      "id": "emmys-2026-lead-actress-comedy-hacks",
+      "mediaType": "tv",
+      "title": "Hacks",
+      "awardYear": 2026,
+      "winner": "Jean Smart",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt11815682"
+      }
+    }
+  ]
+}

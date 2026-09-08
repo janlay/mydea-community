@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "ChatGPT",
+  "title": "Toronto — People's Choice Documentary Award",
+  "description": "Historical winners of the TIFF People's Choice Documentary Award.",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "tiff-documentary-peoples-choice.list.json"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-12T02:53:58Z",
+  "title": "Baeksang Arts Awards — 2017",
+  "description": "Major film and broadcast winners at the 2017 Baeksang Arts Awards.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "baeksang-2017-film-grand-handmaiden",
+      "mediaType": "movie",
+      "title": "The Handmaiden",
+      "originalTitle": "아가씨",
+      "award": "Film Grand Prize",
+      "awardYear": 2017,
+      "awardOrder": 1,
+      "winner": "Park Chan-wook",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4016934"
+      }
+    },
+    {
+      "id": "baeksang-2017-tv-grand-goblin",
+      "mediaType": "tv",
+      "title": "Guardian: The Lonely and Great God",
+      "originalTitle": "도깨비",
+      "award": "Broadcast Grand Prize",
+      "awardYear": 2017,
+      "awardOrder": 2,
+      "winner": "Kim Eun-sook",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5994364"
+      }
+    },
+    {
+      "id": "baeksang-2017-film-best-wailing",
+      "mediaType": "movie",
+      "title": "The Wailing",
+      "originalTitle": "곡성",
+      "award": "Best Film",
+      "awardYear": 2017,
+      "awardOrder": 3,
+      "winner": "The Wailing",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5215952"
+      }
+    },
+    {
+      "id": "baeksang-2017-film-director-age-shadows",
+      "mediaType": "movie",
+      "title": "The Age of Shadows",
+      "originalTitle": "밀정",
+      "award": "Best Director Film",
+      "awardYear": 2017,
+      "awardOrder": 4,
+      "winner": "Kim Jee-woon",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4914580"
+      }
+    },
+    {
+      "id": "baeksang-2017-film-actor-age-shadows",
+      "mediaType": "movie",
+      "title": "The Age of Shadows",
+      "originalTitle": "밀정",
+      "award": "Best Actor Film",
+      "awardYear": 2017,
+      "awardOrder": 5,
+      "winner": "Song Kang-ho",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4914580"
+      }
+    },
+    {
+      "id": "baeksang-2017-film-actress-last-princess",
+      "mediaType": "movie",
+      "title": "The Last Princess",
+      "originalTitle": "덕혜옹주",
+      "award": "Best Actress Film",
+      "awardYear": 2017,
+      "awardOrder": 6,
+      "winner": "Son Ye-jin",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5947416"
+      }
+    },
+    {
+      "id": "baeksang-2017-tv-best-dear-friends",
+      "mediaType": "tv",
+      "title": "Dear My Friends",
+      "originalTitle": "디어 마이 프렌즈",
+      "award": "Best Drama",
+      "awardYear": 2017,
+      "awardOrder": 7,
+      "winner": "Dear My Friends",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5689030"
+      }
+    },
+    {
+      "id": "baeksang-2017-tv-director-dr-romantic",
+      "mediaType": "tv",
+      "title": "Dr. Romantic",
+      "originalTitle": "낭만닥터 김사부",
+      "award": "Best Director Broadcast",
+      "awardYear": 2017,
+      "awardOrder": 8,
+      "winner": "Yu In-sik",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt6157190"
+      }
+    },
+    {
+      "id": "baeksang-2017-tv-actor-goblin",
+      "mediaType": "tv",
+      "title": "Guardian: The Lonely and Great God",
+      "originalTitle": "도깨비",
+      "award": "Best Actor Broadcast",
+      "awardYear": 2017,
+      "awardOrder": 9,
+      "winner": "Gong Yoo",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5994364"
+      }
+    },
+    {
+      "id": "baeksang-2017-tv-actress-another-miss-oh",
+      "mediaType": "tv",
+      "title": "Another Miss Oh",
+      "originalTitle": "또 오해영",
+      "award": "Best Actress Broadcast",
+      "awardYear": 2017,
+      "awardOrder": 10,
+      "winner": "Seo Hyun-jin",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5679572"
+      }
+    }
+  ]
+}

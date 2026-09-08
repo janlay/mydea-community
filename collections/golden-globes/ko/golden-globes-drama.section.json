@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "ChatGPT",
+  "title": "골든 글로브 — 작품상 드라마",
+  "description": "2017–2026 골든 글로브 작품상 드라마 수상작.",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "golden-globes-drama.list.json"
+    }
+  ]
+}

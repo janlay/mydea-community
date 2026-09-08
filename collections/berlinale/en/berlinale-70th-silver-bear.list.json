@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:30:00Z",
+  "title": "Berlinale — Silver Bear – 70th Berlinale",
+  "description": "Complete historical winners of the Berlinale Silver Bear – 70th Berlinale.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "berlinale-70th-silver-bear-2020-delete-history",
+      "mediaType": "movie",
+      "title": "Delete History",
+      "awardYear": 2020,
+      "winner": "Benoît Delépine & Gustave Kervern",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10627352"
+      }
+    }
+  ]
+}

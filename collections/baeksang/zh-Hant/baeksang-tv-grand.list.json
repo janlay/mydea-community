@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-12T02:53:58Z",
+  "title": "百想藝術大賞 — 電視大獎",
+  "description": "2017–2026 年百想藝術大賞電視大獎獲獎記錄。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "baeksang-2017-tv-grand-goblin",
+      "mediaType": "tv",
+      "title": "孤單又燦爛的神：鬼怪",
+      "originalTitle": "도깨비",
+      "awardYear": 2017,
+      "winner": "Kim Eun-sook",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5994364"
+      }
+    },
+    {
+      "id": "baeksang-2018-tv-grand-stranger",
+      "mediaType": "tv",
+      "title": "祕密森林",
+      "originalTitle": "비밀의 숲",
+      "awardYear": 2018,
+      "winner": "祕密森林",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6461346"
+      }
+    },
+    {
+      "id": "baeksang-2019-tv-grand-light-eyes",
+      "mediaType": "tv",
+      "title": "耀眼",
+      "originalTitle": "눈이 부시게",
+      "awardYear": 2019,
+      "winner": "Kim Hye-ja",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt9466968"
+      }
+    },
+    {
+      "id": "baeksang-2020-tv-grand-camellia",
+      "mediaType": "tv",
+      "title": "山茶花開時",
+      "originalTitle": "동백꽃 필 무렵",
+      "awardYear": 2020,
+      "winner": "山茶花開時",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10826064"
+      }
+    },
+    {
+      "id": "baeksang-2022-tv-grand-squid-game",
+      "mediaType": "tv",
+      "title": "魷魚遊戲",
+      "originalTitle": "오징어 게임",
+      "awardYear": 2022,
+      "winner": "魷魚遊戲",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt10919420"
+      }
+    },
+    {
+      "id": "baeksang-2023-tv-grand-attorney-woo",
+      "mediaType": "tv",
+      "title": "非常律師禹英禑",
+      "originalTitle": "이상한 변호사 우영우",
+      "awardYear": 2023,
+      "winner": "Park Eun-bin",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt20869502"
+      }
+    },
+    {
+      "id": "baeksang-2024-tv-grand-moving",
+      "mediaType": "tv",
+      "title": "超異能族",
+      "originalTitle": "무빙",
+      "awardYear": 2024,
+      "winner": "超異能族",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt24640580"
+      }
+    },
+    {
+      "id": "baeksang-2025-tv-grand-culinary",
+      "mediaType": "tv",
+      "title": "黑白廚師：料理階級戰爭",
+      "originalTitle": "흑백요리사: 요리 계급 전쟁",
+      "awardYear": 2025,
+      "winner": "黑白廚師：料理階級戰爭",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt33040785"
+      }
+    },
+    {
+      "id": "baeksang-2026-tv-grand-dream-kim",
+      "mediaType": "tv",
+      "title": "金部長的夢想人生",
+      "originalTitle": "서울 자가에 대기업 다니는 김 부장 이야기",
+      "awardYear": 2026,
+      "winner": "Ryu Seung-ryong",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt38570528"
+      }
+    }
+  ]
+}

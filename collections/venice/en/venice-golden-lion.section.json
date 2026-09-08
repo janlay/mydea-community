@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "Mydea",
+  "title": "Venice — Golden Lion",
+  "description": "Historical Venice International Film Festival Golden Lion winners, including predecessor/equivalent forms where applicable.",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "venice-golden-lion.list.json"
+    }
+  ]
+}

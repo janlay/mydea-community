@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "ChatGPT",
+  "title": "多伦多 — 2019",
+  "description": "2019 年多伦多国际电影节影片类奖项获奖记录。",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "tiff-2019.list.json"
+    }
+  ]
+}

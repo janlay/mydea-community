@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "ChatGPT",
+  "title": "百想艺术大赏 — 2023",
+  "description": "2023 年百想艺术大赏电影与电视主要奖项获奖记录。",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "baeksang-2023.list.json"
+    }
+  ]
+}

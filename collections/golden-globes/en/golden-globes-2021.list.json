@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "Golden Globes 2021",
+  "description": "Major film and television program winners at the 2021 Golden Globes.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "golden-globes-2021-drama-nomadland",
+      "mediaType": "movie",
+      "title": "Nomadland",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt9770150"
+      },
+      "award": "Best Motion Picture – Drama",
+      "awardYear": 2021,
+      "awardOrder": 1,
+      "winner": "Nomadland"
+    },
+    {
+      "id": "golden-globes-2021-comedy-borat-subsequent-moviefilm",
+      "mediaType": "movie",
+      "title": "Borat Subsequent Moviefilm",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt13143964"
+      },
+      "award": "Best Motion Picture – Musical or Comedy",
+      "awardYear": 2021,
+      "awardOrder": 2,
+      "winner": "Borat Subsequent Moviefilm"
+    },
+    {
+      "id": "golden-globes-2021-animated-soul",
+      "mediaType": "movie",
+      "title": "Soul",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt2948372"
+      },
+      "award": "Best Motion Picture – Animated",
+      "awardYear": 2021,
+      "awardOrder": 3,
+      "winner": "Soul"
+    },
+    {
+      "id": "golden-globes-2021-foreign-minari",
+      "mediaType": "movie",
+      "title": "Minari",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10633456"
+      },
+      "award": "Best Motion Picture – Non-English Language",
+      "awardYear": 2021,
+      "awardOrder": 4,
+      "winner": "Minari"
+    },
+    {
+      "id": "golden-globes-2021-tv_drama-the-crown",
+      "mediaType": "tv",
+      "title": "The Crown",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4786824"
+      },
+      "award": "Best Television Series – Drama",
+      "awardYear": 2021,
+      "awardOrder": 5,
+      "winner": "The Crown"
+    },
+    {
+      "id": "golden-globes-2021-tv_comedy-schitt-s-creek",
+      "mediaType": "tv",
+      "title": "Schitt's Creek",
+      "releaseDate": "2015",
+      "externalIds": {
+        "imdb": "tt3526078"
+      },
+      "award": "Best Television Series – Musical or Comedy",
+      "awardYear": 2021,
+      "awardOrder": 6,
+      "winner": "Schitt's Creek"
+    },
+    {
+      "id": "golden-globes-2021-limited-the-queen-s-gambit",
+      "mediaType": "tv",
+      "title": "The Queen's Gambit",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10048342"
+      },
+      "award": "Best Television Limited Series, Anthology Series or Motion Picture Made for Television",
+      "awardYear": 2021,
+      "awardOrder": 7,
+      "winner": "The Queen's Gambit"
+    }
+  ]
+}

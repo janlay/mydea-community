@@ -1,0 +1,178 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:45:00Z",
+  "title": "金馬獎 — 最佳新導演",
+  "description": "金馬獎最佳新導演自2010年設獎以來至2025年的全部實際得獎記錄。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "golden-horse-2010-best-new-director-item-1",
+      "mediaType": "movie",
+      "title": "台北星期天",
+      "awardYear": 2010,
+      "winner": "何蔚庭",
+      "releaseDate": "2010"
+    },
+    {
+      "id": "golden-horse-2011-best-new-director-item-2",
+      "mediaType": "movie",
+      "title": "刀見笑",
+      "awardYear": 2011,
+      "winner": "烏爾善",
+      "releaseDate": "2011"
+    },
+    {
+      "id": "golden-horse-2012-best-new-director-item-3",
+      "mediaType": "movie",
+      "title": "逆光飛翔",
+      "awardYear": 2012,
+      "winner": "張榮吉",
+      "releaseDate": "2012"
+    },
+    {
+      "id": "golden-horse-2013-best-new-director-item-4",
+      "mediaType": "movie",
+      "title": "爸媽不在家",
+      "awardYear": 2013,
+      "winner": "陳哲藝",
+      "releaseDate": "2013"
+    },
+    {
+      "id": "golden-horse-2014-best-new-director-item-5",
+      "mediaType": "movie",
+      "title": "一個勺子",
+      "awardYear": 2014,
+      "winner": "陳建斌",
+      "releaseDate": "2014"
+    },
+    {
+      "id": "golden-horse-2015-best-new-director-item-6",
+      "mediaType": "movie",
+      "title": "路邊野餐",
+      "awardYear": 2015,
+      "winner": "畢贛",
+      "releaseDate": "2015"
+    },
+    {
+      "id": "golden-horse-2016-best-new-director-tt6041030",
+      "mediaType": "movie",
+      "title": "一念無明",
+      "awardYear": 2016,
+      "winner": "黃進",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt6041030"
+      }
+    },
+    {
+      "id": "golden-horse-2017-best-new-director-tt7010412",
+      "mediaType": "movie",
+      "title": "大佛普拉斯",
+      "awardYear": 2017,
+      "winner": "黃信堯",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7010412"
+      }
+    },
+    {
+      "id": "golden-horse-2018-best-new-director-tt7362036",
+      "mediaType": "movie",
+      "title": "我不是藥神",
+      "awardYear": 2018,
+      "winner": "文牧野",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7362036"
+      }
+    },
+    {
+      "id": "golden-horse-2019-best-new-director-tt10805432",
+      "mediaType": "movie",
+      "title": "返校",
+      "awardYear": 2019,
+      "winner": "徐漢強",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10805432"
+      }
+    },
+    {
+      "id": "golden-horse-2020-best-new-director-tt13212046",
+      "mediaType": "movie",
+      "title": "南巫",
+      "awardYear": 2020,
+      "winner": "張吉安",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt13212046"
+      }
+    },
+    {
+      "id": "golden-horse-2021-best-new-director-tt15620158",
+      "mediaType": "movie",
+      "title": "美國女孩",
+      "awardYear": 2021,
+      "winner": "阮鳳儀",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt15620158"
+      }
+    },
+    {
+      "id": "golden-horse-2022-best-new-director-tt18280126",
+      "mediaType": "movie",
+      "title": "白日青春",
+      "awardYear": 2022,
+      "winner": "劉國瑞",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt18280126"
+      }
+    },
+    {
+      "id": "golden-horse-2023-best-new-director-tt27881474",
+      "mediaType": "movie",
+      "title": "年少日記",
+      "awardYear": 2023,
+      "winner": "卓亦謙",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt27881474"
+      }
+    },
+    {
+      "id": "golden-horse-2024-best-new-director-tt11101808",
+      "mediaType": "movie",
+      "title": "白衣蒼狗",
+      "awardYear": 2024,
+      "winner": "曾威量、尹又巧",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt11101808"
+      }
+    },
+    {
+      "id": "golden-horse-2025-best-new-director-tt34000545",
+      "mediaType": "movie",
+      "title": "幸福之路",
+      "awardYear": 2025,
+      "winner": "Lloyd Lee CHOI",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt34000545"
+      }
+    }
+  ]
+}

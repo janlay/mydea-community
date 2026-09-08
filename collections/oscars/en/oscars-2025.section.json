@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "ChatGPT",
+  "title": "Oscars 2025 Winners",
+  "description": "Winners in core film categories at the 97th Academy Awards.",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "oscars-2025.list.json"
+    }
+  ]
+}

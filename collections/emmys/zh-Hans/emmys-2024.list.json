@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T05:03:35Z",
+  "title": "黄金时段艾美奖 2024 年获奖名单",
+  "description": "第 76 届黄金时段艾美奖主要奖项获奖记录。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "emmys-2024-drama-series-shogun",
+      "mediaType": "tv",
+      "title": "幕府将军",
+      "originalTitle": "Shōgun",
+      "award": "最佳剧情类剧集",
+      "awardYear": 2024,
+      "awardOrder": 1,
+      "winner": "Shōgun",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt2788316"
+      }
+    },
+    {
+      "id": "emmys-2024-comedy-series-hacks",
+      "mediaType": "tv",
+      "title": "绝望写手",
+      "originalTitle": "Hacks",
+      "award": "最佳喜剧类剧集",
+      "awardYear": 2024,
+      "awardOrder": 2,
+      "winner": "Hacks",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt11815682"
+      }
+    },
+    {
+      "id": "emmys-2024-limited-series-baby-reindeer",
+      "mediaType": "tv",
+      "title": "驯鹿宝贝",
+      "originalTitle": "Baby Reindeer",
+      "award": "最佳限定剧或诗选剧",
+      "awardYear": 2024,
+      "awardOrder": 3,
+      "winner": "Baby Reindeer",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt13649112"
+      }
+    },
+    {
+      "id": "emmys-2024-lead-actor-drama-shogun",
+      "mediaType": "tv",
+      "title": "幕府将军",
+      "originalTitle": "Shōgun",
+      "award": "剧情类最佳男主角",
+      "awardYear": 2024,
+      "awardOrder": 4,
+      "winner": "Hiroyuki Sanada",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt2788316"
+      }
+    },
+    {
+      "id": "emmys-2024-lead-actress-drama-shogun",
+      "mediaType": "tv",
+      "title": "幕府将军",
+      "originalTitle": "Shōgun",
+      "award": "剧情类最佳女主角",
+      "awardYear": 2024,
+      "awardOrder": 5,
+      "winner": "Anna Sawai",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt2788316"
+      }
+    },
+    {
+      "id": "emmys-2024-lead-actor-comedy-the-bear",
+      "mediaType": "tv",
+      "title": "熊家餐馆",
+      "originalTitle": "The Bear",
+      "award": "喜剧类最佳男主角",
+      "awardYear": 2024,
+      "awardOrder": 6,
+      "winner": "Jeremy Allen White",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt14452776"
+      }
+    },
+    {
+      "id": "emmys-2024-lead-actress-comedy-hacks",
+      "mediaType": "tv",
+      "title": "绝望写手",
+      "originalTitle": "Hacks",
+      "award": "喜剧类最佳女主角",
+      "awardYear": 2024,
+      "awardOrder": 7,
+      "winner": "Jean Smart",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt11815682"
+      }
+    }
+  ]
+}

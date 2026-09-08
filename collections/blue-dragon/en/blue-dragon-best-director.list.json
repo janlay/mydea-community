@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-12T02:54:20Z",
+  "title": "Blue Dragon Film Awards — Best Director",
+  "description": "Blue Dragon Film Awards Best Director winners from 2016 through 2025.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "blue-dragon-2016-best-director-wailing",
+      "mediaType": "movie",
+      "title": "The Wailing",
+      "originalTitle": "곡성",
+      "awardYear": 2016,
+      "winner": "Na Hong-jin",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5215952"
+      }
+    },
+    {
+      "id": "blue-dragon-2017-best-director-i-can-speak",
+      "mediaType": "movie",
+      "title": "I Can Speak",
+      "originalTitle": "아이 캔 스피크",
+      "awardYear": 2017,
+      "winner": "Kim Hyun-seok",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7342204"
+      }
+    },
+    {
+      "id": "blue-dragon-2018-best-director-spy-gone-north",
+      "mediaType": "movie",
+      "title": "The Spy Gone North",
+      "originalTitle": "공작",
+      "awardYear": 2018,
+      "winner": "Yoon Jong-bin",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8290698"
+      }
+    },
+    {
+      "id": "blue-dragon-2019-best-director-parasite",
+      "mediaType": "movie",
+      "title": "Parasite",
+      "originalTitle": "기생충",
+      "awardYear": 2019,
+      "winner": "Bong Joon-ho",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6751668"
+      }
+    },
+    {
+      "id": "blue-dragon-2020-best-director-moonlit-winter",
+      "mediaType": "movie",
+      "title": "Moonlit Winter",
+      "originalTitle": "윤희에게",
+      "awardYear": 2020,
+      "winner": "Lim Dae-hyung",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt11311974"
+      }
+    },
+    {
+      "id": "blue-dragon-2021-best-director-mogadishu",
+      "mediaType": "movie",
+      "title": "Escape from Mogadishu",
+      "originalTitle": "모가디슈",
+      "awardYear": 2021,
+      "winner": "Ryoo Seung-wan",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14810692"
+      }
+    },
+    {
+      "id": "blue-dragon-2022-best-director-decision-leave",
+      "mediaType": "movie",
+      "title": "Decision to Leave",
+      "originalTitle": "헤어질 결심",
+      "awardYear": 2022,
+      "winner": "Park Chan-wook",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt12477480"
+      }
+    },
+    {
+      "id": "blue-dragon-2023-best-director-concrete-utopia",
+      "mediaType": "movie",
+      "title": "Concrete Utopia",
+      "originalTitle": "콘크리트 유토피아",
+      "awardYear": 2023,
+      "winner": "Uhm Tae-hwa",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt13086266"
+      }
+    },
+    {
+      "id": "blue-dragon-2024-best-director-exhuma",
+      "mediaType": "movie",
+      "title": "Exhuma",
+      "originalTitle": "파묘",
+      "awardYear": 2024,
+      "winner": "Jang Jae-hyun",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt27802490"
+      }
+    },
+    {
+      "id": "blue-dragon-2025-best-director-no-other-choice",
+      "mediaType": "movie",
+      "title": "No Other Choice",
+      "originalTitle": "어쩔수가없다",
+      "awardYear": 2025,
+      "winner": "Park Chan-wook",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt1527793"
+      }
+    }
+  ]
+}

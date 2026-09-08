@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "Mydea",
+  "title": "威尼斯电影节 2021 年获奖名单",
+  "description": "第89届威尼斯电影节主竞赛主要官方奖项获奖影片。",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "venice-2021.list.json"
+    }
+  ]
+}

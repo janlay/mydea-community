@@ -1,0 +1,416 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "釜山国际电影节 — Sonje奖",
+  "description": "釜山国际电影节Sonje奖历届获奖短片。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "biff-sonje-2008-andong",
+      "mediaType": "movie",
+      "title": "Andong",
+      "releaseDate": "2008",
+      "externalIds": {
+        "letterboxd": "andong"
+      },
+      "awardYear": 2008,
+      "winner": "Rommel TOLENTINO"
+    },
+    {
+      "id": "biff-sonje-2008-girl",
+      "mediaType": "movie",
+      "title": "Girl",
+      "releaseDate": "2008",
+      "externalIds": {
+        "letterboxd": "girl"
+      },
+      "awardYear": 2008,
+      "winner": "HONG Sunghoon"
+    },
+    {
+      "id": "biff-sonje-2009-rare-fish",
+      "mediaType": "movie",
+      "title": "Rare Fish",
+      "releaseDate": "2009",
+      "externalIds": {
+        "letterboxd": "rare-fish"
+      },
+      "awardYear": 2009,
+      "winner": "Basil Vassili MIRONER"
+    },
+    {
+      "id": "biff-sonje-2009-somewhere-unreached",
+      "mediaType": "movie",
+      "title": "Somewhere Unreached",
+      "releaseDate": "2009",
+      "externalIds": {
+        "letterboxd": "somewhere-unreached"
+      },
+      "awardYear": 2009,
+      "winner": "KIM Jae-won"
+    },
+    {
+      "id": "biff-sonje-2010-broken-night",
+      "mediaType": "movie",
+      "title": "Broken Night",
+      "releaseDate": "2010",
+      "externalIds": {
+        "letterboxd": "broken-night"
+      },
+      "awardYear": 2010,
+      "winner": "YANG Hyojoo"
+    },
+    {
+      "id": "biff-sonje-2010-inhalation",
+      "mediaType": "movie",
+      "title": "Inhalation",
+      "releaseDate": "2010",
+      "externalIds": {
+        "letterboxd": "inhalation"
+      },
+      "awardYear": 2010,
+      "winner": "Edmund YEO"
+    },
+    {
+      "id": "biff-sonje-2011-see-you-tomorrow",
+      "mediaType": "movie",
+      "title": "See You Tomorrow",
+      "releaseDate": "2011",
+      "externalIds": {
+        "letterboxd": "see-you-tomorrow"
+      },
+      "awardYear": 2011,
+      "winner": "LEE Woo-jun"
+    },
+    {
+      "id": "biff-sonje-2011-thug-beram",
+      "mediaType": "movie",
+      "title": "Thug Beram",
+      "releaseDate": "2011",
+      "externalIds": {
+        "letterboxd": "thug-beram"
+      },
+      "awardYear": 2011,
+      "winner": "Venkat AMUDHAN"
+    },
+    {
+      "id": "biff-sonje-2012-a-little-farther",
+      "mediaType": "movie",
+      "title": "A Little Farther",
+      "releaseDate": "2012",
+      "externalIds": {
+        "letterboxd": "a-little-farther"
+      },
+      "awardYear": 2012,
+      "winner": "Nikan NEZAMI"
+    },
+    {
+      "id": "biff-sonje-2012-the-night-of-the-witness",
+      "mediaType": "movie",
+      "title": "The Night of the Witness",
+      "releaseDate": "2012",
+      "externalIds": {
+        "letterboxd": "the-night-of-the-witness"
+      },
+      "awardYear": 2012,
+      "winner": "PARK Buem"
+    },
+    {
+      "id": "biff-sonje-2013-a-lady-caddy-who-never-saw-a-hole-in-one",
+      "mediaType": "movie",
+      "title": "A Lady Caddy Who Never Saw a Hole in One",
+      "releaseDate": "2013",
+      "externalIds": {
+        "letterboxd": "a-lady-caddy-who-never-saw-a-hole-in-one"
+      },
+      "awardYear": 2013,
+      "winner": "Yosep ANGGI NOEN"
+    },
+    {
+      "id": "biff-sonje-2013-in-the-summer",
+      "mediaType": "movie",
+      "title": "In the Summer",
+      "releaseDate": "2013",
+      "externalIds": {
+        "letterboxd": "in-the-summer-2013"
+      },
+      "awardYear": 2013,
+      "winner": "SON Tae-gyum"
+    },
+    {
+      "id": "biff-sonje-2014-stairway",
+      "mediaType": "movie",
+      "title": "Stairway",
+      "releaseDate": "2014",
+      "externalIds": {
+        "letterboxd": "stairway"
+      },
+      "awardYear": 2014,
+      "winner": "Matt WU"
+    },
+    {
+      "id": "biff-sonje-2014-the-night",
+      "mediaType": "movie",
+      "title": "The Night",
+      "releaseDate": "2014",
+      "externalIds": {
+        "letterboxd": "the-night"
+      },
+      "awardYear": 2014,
+      "winner": "CHOI Kiyun"
+    },
+    {
+      "id": "biff-sonje-2015-nias-door",
+      "mediaType": "movie",
+      "title": "Nia's Door",
+      "releaseDate": "2015",
+      "externalIds": {
+        "letterboxd": "nias-door"
+      },
+      "awardYear": 2015,
+      "winner": "LAU Kek Huat"
+    },
+    {
+      "id": "biff-sonje-2015-shame-diary",
+      "mediaType": "movie",
+      "title": "Shame Diary",
+      "releaseDate": "2015",
+      "externalIds": {
+        "letterboxd": "shame-diary"
+      },
+      "awardYear": 2015,
+      "winner": "LEE Eunjeong"
+    },
+    {
+      "id": "biff-sonje-2016-off-season",
+      "mediaType": "movie",
+      "title": "Off-season",
+      "releaseDate": "2016",
+      "externalIds": {
+        "letterboxd": "off-season"
+      },
+      "awardYear": 2016,
+      "winner": "Yelzat ESKENDIR"
+    },
+    {
+      "id": "biff-sonje-2016-viewer",
+      "mediaType": "movie",
+      "title": "Viewer",
+      "releaseDate": "2016",
+      "externalIds": {
+        "letterboxd": "viewer"
+      },
+      "awardYear": 2016,
+      "winner": "KIM Soyoun"
+    },
+    {
+      "id": "biff-sonje-2017-a-hand-written-poster",
+      "mediaType": "movie",
+      "title": "A Hand-written Poster",
+      "releaseDate": "2017",
+      "externalIds": {
+        "letterboxd": "a-hand-written-poster"
+      },
+      "awardYear": 2017,
+      "winner": "KWAK Eunmi"
+    },
+    {
+      "id": "biff-sonje-2017-madonna",
+      "mediaType": "movie",
+      "title": "Madonna",
+      "releaseDate": "2017",
+      "externalIds": {
+        "letterboxd": "madonna"
+      },
+      "awardYear": 2017,
+      "winner": "Sinung WINAHYOKO"
+    },
+    {
+      "id": "biff-sonje-2018-cat-day-afternoon",
+      "mediaType": "movie",
+      "title": "Cat Day Afternoon",
+      "releaseDate": "2018",
+      "externalIds": {
+        "letterboxd": "cat-day-afternoon"
+      },
+      "awardYear": 2018,
+      "winner": "KWON Sungmo"
+    },
+    {
+      "id": "biff-sonje-2018-nooreh",
+      "mediaType": "movie",
+      "title": "NOOREH",
+      "releaseDate": "2018",
+      "externalIds": {
+        "letterboxd": "nooreh"
+      },
+      "awardYear": 2018,
+      "winner": "Ashish PANDEY"
+    },
+    {
+      "id": "biff-sonje-2019-dragons-tail",
+      "mediaType": "movie",
+      "title": "Dragon's Tail",
+      "releaseDate": "2019",
+      "externalIds": {
+        "letterboxd": "dragons-tail"
+      },
+      "awardYear": 2019,
+      "winner": "Saeed KESHAVARZ"
+    },
+    {
+      "id": "biff-sonje-2019-hello",
+      "mediaType": "movie",
+      "title": "Hello",
+      "releaseDate": "2019",
+      "externalIds": {
+        "letterboxd": "hello"
+      },
+      "awardYear": 2019,
+      "winner": "JIN Seong-moon"
+    },
+    {
+      "id": "biff-sonje-2020-georgia",
+      "mediaType": "movie",
+      "title": "Georgia",
+      "releaseDate": "2020",
+      "externalIds": {
+        "letterboxd": "georgia"
+      },
+      "awardYear": 2020,
+      "winner": "Jayil PAK"
+    },
+    {
+      "id": "biff-sonje-2020-mountain-cat",
+      "mediaType": "movie",
+      "title": "Mountain Cat",
+      "releaseDate": "2020",
+      "externalIds": {
+        "letterboxd": "mountain-cat"
+      },
+      "awardYear": 2020,
+      "winner": "Lkhagvadulam PUREV-OCHIR"
+    },
+    {
+      "id": "biff-sonje-2021-a-winter-glove",
+      "mediaType": "movie",
+      "title": "A Winter Glove",
+      "releaseDate": "2021",
+      "externalIds": {
+        "letterboxd": "a-winter-glove"
+      },
+      "awardYear": 2021,
+      "winner": "LEE Hyeonju"
+    },
+    {
+      "id": "biff-sonje-2021-the-sea-calls-for-me",
+      "mediaType": "movie",
+      "title": "The Sea Calls for Me",
+      "releaseDate": "2021",
+      "externalIds": {
+        "letterboxd": "the-sea-calls-for-me"
+      },
+      "awardYear": 2021,
+      "winner": "Tumpal TAMPUBOLON"
+    },
+    {
+      "id": "biff-sonje-2022-im-here",
+      "mediaType": "movie",
+      "title": "I'm Here",
+      "releaseDate": "2022",
+      "externalIds": {
+        "letterboxd": "im-here"
+      },
+      "awardYear": 2022,
+      "winner": "JEONG Eunuk"
+    },
+    {
+      "id": "biff-sonje-2022-southern-afternoon",
+      "mediaType": "movie",
+      "title": "Southern Afternoon",
+      "releaseDate": "2022",
+      "externalIds": {
+        "letterboxd": "southern-afternoon"
+      },
+      "awardYear": 2022,
+      "winner": "LAN Tian"
+    },
+    {
+      "id": "biff-sonje-2023-21-weeks-later",
+      "mediaType": "movie",
+      "title": "21 Weeks Later",
+      "releaseDate": "2023",
+      "externalIds": {
+        "letterboxd": "21-weeks-later"
+      },
+      "awardYear": 2023,
+      "winner": "Nasrin MOHAMMADPOUR"
+    },
+    {
+      "id": "biff-sonje-2023-mydear",
+      "mediaType": "movie",
+      "title": "MYDEAR",
+      "releaseDate": "2023",
+      "externalIds": {
+        "letterboxd": "mydear"
+      },
+      "awardYear": 2023,
+      "winner": "JEON Dohee, KIM Sohee"
+    },
+    {
+      "id": "biff-sonje-2024-a-garden-in-winter",
+      "mediaType": "movie",
+      "title": "A Garden in Winter",
+      "releaseDate": "2024",
+      "externalIds": {
+        "letterboxd": "a-garden-in-winter"
+      },
+      "awardYear": 2024,
+      "winner": "Eléonore MAHMOUDIAN, MATSUI Hiroshi"
+    },
+    {
+      "id": "biff-sonje-2024-yurim",
+      "mediaType": "movie",
+      "title": "Yurim",
+      "releaseDate": "2024",
+      "externalIds": {
+        "letterboxd": "yurim"
+      },
+      "awardYear": 2024,
+      "winner": "SONG Jiseo"
+    },
+    {
+      "id": "biff-sonje-2025-delay",
+      "mediaType": "movie",
+      "title": "Delay",
+      "releaseDate": "2025",
+      "externalIds": {
+        "letterboxd": "delay"
+      },
+      "awardYear": 2025,
+      "winner": "WANG Han-xuan"
+    },
+    {
+      "id": "biff-sonje-2025-it-sounds-louder-on-rainy-days",
+      "mediaType": "movie",
+      "title": "It Sounds Louder on Rainy Days",
+      "releaseDate": "2025",
+      "externalIds": {
+        "letterboxd": "it-sounds-louder-on-rainy-days"
+      },
+      "awardYear": 2025,
+      "winner": "KIM Sang-yun"
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-12T02:53:58Z",
+  "title": "百想艺术大赏 — 最佳电视剧",
+  "description": "2017–2026 年百想艺术大赏最佳电视剧获奖记录。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "baeksang-2017-tv-best-dear-friends",
+      "mediaType": "tv",
+      "title": "我亲爱的朋友们",
+      "originalTitle": "디어 마이 프렌즈",
+      "awardYear": 2017,
+      "winner": "我亲爱的朋友们",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5689030"
+      }
+    },
+    {
+      "id": "baeksang-2018-tv-best-mother",
+      "mediaType": "tv",
+      "title": "母亲",
+      "originalTitle": "마더",
+      "awardYear": 2018,
+      "winner": "母亲",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7795226"
+      }
+    },
+    {
+      "id": "baeksang-2019-tv-best-my-mister",
+      "mediaType": "tv",
+      "title": "我的叔叔",
+      "originalTitle": "나의 아저씨",
+      "awardYear": 2019,
+      "winner": "我的叔叔",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7923710"
+      }
+    },
+    {
+      "id": "baeksang-2020-tv-best-stove",
+      "mediaType": "tv",
+      "title": "棒球大联盟",
+      "originalTitle": "스토브리그",
+      "awardYear": 2020,
+      "winner": "棒球大联盟",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt11378124"
+      }
+    },
+    {
+      "id": "baeksang-2021-tv-best-beyond-evil",
+      "mediaType": "tv",
+      "title": "怪物",
+      "originalTitle": "괴물",
+      "awardYear": 2021,
+      "winner": "怪物",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt13634872"
+      }
+    },
+    {
+      "id": "baeksang-2022-tv-best-dp",
+      "mediaType": "tv",
+      "title": "D.P：逃兵追缉令",
+      "originalTitle": "D.P.",
+      "awardYear": 2022,
+      "winner": "D.P：逃兵追缉令",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt13024974"
+      }
+    },
+    {
+      "id": "baeksang-2023-tv-best-glory",
+      "mediaType": "tv",
+      "title": "黑暗荣耀",
+      "originalTitle": "더 글로리",
+      "awardYear": 2023,
+      "winner": "黑暗荣耀",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt21344706"
+      }
+    },
+    {
+      "id": "baeksang-2024-tv-best-my-dearest",
+      "mediaType": "tv",
+      "title": "恋人",
+      "originalTitle": "연인",
+      "awardYear": 2024,
+      "winner": "恋人",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt26228190"
+      }
+    },
+    {
+      "id": "baeksang-2025-tv-best-tangerines",
+      "mediaType": "tv",
+      "title": "苦尽柑来遇见你",
+      "originalTitle": "폭싹 속았수다",
+      "awardYear": 2025,
+      "winner": "苦尽柑来遇见你",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt26471411"
+      }
+    },
+    {
+      "id": "baeksang-2026-tv-best-you-everything",
+      "mediaType": "tv",
+      "title": "恩中与尚渊",
+      "originalTitle": "은중과 상연",
+      "awardYear": 2026,
+      "winner": "恩中与尚渊",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31014107"
+      }
+    }
+  ]
+}

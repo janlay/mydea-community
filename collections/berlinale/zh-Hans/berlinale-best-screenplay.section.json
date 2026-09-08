@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "Mydea",
+  "title": "柏林 — 最佳编剧银熊奖",
+  "description": "柏林国际电影节 最佳编剧银熊奖 全部获奖记录。",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "berlinale-best-screenplay.list.json"
+    }
+  ]
+}

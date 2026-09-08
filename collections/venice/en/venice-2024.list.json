@@ -1,0 +1,116 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:30:00Z",
+  "title": "Venice Film Festival 2024 Awards",
+  "description": "Main Competition official award-winning films at the 2024 Venice International Film Festival.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "venice-golden-lion-2024-the-room-next-door-1",
+      "mediaType": "movie",
+      "title": "The Room Next Door",
+      "releaseDate": "2024",
+      "externalIds": {
+        "letterboxd": "the-room-next-door"
+      },
+      "awardYear": 2024,
+      "winner": "Pedro Almodóvar",
+      "award": "Golden Lion"
+    },
+    {
+      "id": "venice-grand-jury-prize-2024-vermiglio-2",
+      "mediaType": "movie",
+      "title": "Vermiglio",
+      "releaseDate": "2024",
+      "externalIds": {
+        "letterboxd": "vermiglio"
+      },
+      "awardYear": 2024,
+      "winner": "Maura Delpero",
+      "award": "Silver Lion – Grand Jury Prize"
+    },
+    {
+      "id": "venice-best-director-2024-the-brutalist-3",
+      "mediaType": "movie",
+      "title": "The Brutalist",
+      "releaseDate": "2024",
+      "externalIds": {
+        "letterboxd": "the-brutalist"
+      },
+      "awardYear": 2024,
+      "winner": "Brady Corbet",
+      "award": "Silver Lion – Best Director"
+    },
+    {
+      "id": "venice-best-actress-2024-babygirl-4",
+      "mediaType": "movie",
+      "title": "Babygirl",
+      "releaseDate": "2024",
+      "externalIds": {
+        "letterboxd": "babygirl"
+      },
+      "awardYear": 2024,
+      "winner": "Nicole Kidman",
+      "award": "Volpi Cup for Best Actress"
+    },
+    {
+      "id": "venice-best-actor-2024-the-quiet-son-5",
+      "mediaType": "movie",
+      "title": "The Quiet Son",
+      "releaseDate": "2024",
+      "externalIds": {
+        "letterboxd": "the-quiet-son"
+      },
+      "awardYear": 2024,
+      "winner": "Vincent Lindon",
+      "award": "Volpi Cup for Best Actor"
+    },
+    {
+      "id": "venice-best-screenplay-2024-i-m-still-here-6",
+      "mediaType": "movie",
+      "title": "I'm Still Here",
+      "releaseDate": "2024",
+      "externalIds": {
+        "letterboxd": "i-m-still-here"
+      },
+      "awardYear": 2024,
+      "winner": "Murilo Hauser & Heitor Lorega",
+      "award": "Best Screenplay"
+    },
+    {
+      "id": "venice-special-jury-prize-2024-april-7",
+      "mediaType": "movie",
+      "title": "April",
+      "releaseDate": "2024",
+      "externalIds": {
+        "letterboxd": "april"
+      },
+      "awardYear": 2024,
+      "winner": "Déa Kulumbegashvili",
+      "award": "Special Jury Prize"
+    },
+    {
+      "id": "venice-mastroianni-2024-and-their-children-after-them-8",
+      "mediaType": "movie",
+      "title": "And Their Children After Them",
+      "releaseDate": "2024",
+      "externalIds": {
+        "letterboxd": "and-their-children-after-them"
+      },
+      "awardYear": 2024,
+      "winner": "Paul Kircher",
+      "award": "Marcello Mastroianni Award"
+    }
+  ]
+}

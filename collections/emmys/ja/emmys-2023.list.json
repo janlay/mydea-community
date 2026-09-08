@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T05:03:35Z",
+  "title": "プライムタイム・エミー賞 2023 受賞一覧",
+  "description": "第75回プライムタイム・エミー賞の主要部門受賞記録。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "emmys-2023-drama-series-succession",
+      "mediaType": "tv",
+      "title": "メディア王 〜華麗なる一族〜",
+      "originalTitle": "Succession",
+      "award": "作品賞 ドラマ・シリーズ部門",
+      "awardYear": 2023,
+      "awardOrder": 1,
+      "winner": "Succession",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7660850"
+      }
+    },
+    {
+      "id": "emmys-2023-comedy-series-the-bear",
+      "mediaType": "tv",
+      "title": "一流シェフのファミリーレストラン",
+      "originalTitle": "The Bear",
+      "award": "作品賞 コメディ・シリーズ部門",
+      "awardYear": 2023,
+      "awardOrder": 2,
+      "winner": "The Bear",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt14452776"
+      }
+    },
+    {
+      "id": "emmys-2023-limited-series-beef",
+      "mediaType": "tv",
+      "title": "BEEF／ビーフ",
+      "originalTitle": "Beef",
+      "award": "作品賞 リミテッド／アンソロジー・シリーズ部門",
+      "awardYear": 2023,
+      "awardOrder": 3,
+      "winner": "Beef",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt14403178"
+      }
+    },
+    {
+      "id": "emmys-2023-lead-actor-drama-succession",
+      "mediaType": "tv",
+      "title": "メディア王 〜華麗なる一族〜",
+      "originalTitle": "Succession",
+      "award": "主演男優賞 ドラマ・シリーズ部門",
+      "awardYear": 2023,
+      "awardOrder": 4,
+      "winner": "Kieran Culkin",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7660850"
+      }
+    },
+    {
+      "id": "emmys-2023-lead-actress-drama-succession",
+      "mediaType": "tv",
+      "title": "メディア王 〜華麗なる一族〜",
+      "originalTitle": "Succession",
+      "award": "主演女優賞 ドラマ・シリーズ部門",
+      "awardYear": 2023,
+      "awardOrder": 5,
+      "winner": "Sarah Snook",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7660850"
+      }
+    },
+    {
+      "id": "emmys-2023-lead-actor-comedy-the-bear",
+      "mediaType": "tv",
+      "title": "一流シェフのファミリーレストラン",
+      "originalTitle": "The Bear",
+      "award": "主演男優賞 コメディ・シリーズ部門",
+      "awardYear": 2023,
+      "awardOrder": 6,
+      "winner": "Jeremy Allen White",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt14452776"
+      }
+    },
+    {
+      "id": "emmys-2023-lead-actress-comedy-abbott-elementary",
+      "mediaType": "tv",
+      "title": "アボット エレメンタリー",
+      "originalTitle": "Abbott Elementary",
+      "award": "主演女優賞 コメディ・シリーズ部門",
+      "awardYear": 2023,
+      "awardOrder": 7,
+      "winner": "Quinta Brunson",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14218830"
+      }
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "ゴールデングローブ賞 — シネマティック＆ボックスオフィス・アチーブメント賞",
+  "description": "2017年から2026年までのゴールデングローブ賞「シネマティック＆ボックスオフィス・アチーブメント賞」受賞作品。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "golden-globes-boxoffice-2024-barbie",
+      "mediaType": "movie",
+      "title": "バービー",
+      "englishTitle": "Barbie",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt1517268"
+      },
+      "awardYear": 2024,
+      "winner": "バービー"
+    },
+    {
+      "id": "golden-globes-boxoffice-2025-wicked",
+      "mediaType": "movie",
+      "title": "ウィキッド ふたりの魔女",
+      "englishTitle": "Wicked",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt1262426"
+      },
+      "awardYear": 2025,
+      "winner": "ウィキッド ふたりの魔女"
+    },
+    {
+      "id": "golden-globes-boxoffice-2026-sinners",
+      "mediaType": "movie",
+      "title": "罪人たち",
+      "englishTitle": "Sinners",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31193180"
+      },
+      "awardYear": 2026,
+      "winner": "罪人たち"
+    }
+  ]
+}

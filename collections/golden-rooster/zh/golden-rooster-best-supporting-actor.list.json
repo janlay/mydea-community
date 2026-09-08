@@ -1,0 +1,322 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T00:56:00Z",
+  "title": "金鸡奖 — 最佳男配角",
+  "description": "中国电影金鸡奖历届最佳男配角获奖记录；并列获奖按独立条目保留。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "golden-rooster-1982-best-supporting-actor-44917066",
+      "mediaType": "movie",
+      "title": "西安事变",
+      "externalIds": {
+        "imdb": "tt0084908"
+      },
+      "awardYear": 1982,
+      "winner": "孙飞虎"
+    },
+    {
+      "id": "golden-rooster-1983-best-supporting-actor-82581229",
+      "mediaType": "movie",
+      "title": "牧马人",
+      "externalIds": {
+        "imdb": "tt0084360"
+      },
+      "awardYear": 1983,
+      "winner": "牛犇"
+    },
+    {
+      "id": "golden-rooster-1984-best-supporting-actor-18536338",
+      "mediaType": "movie",
+      "title": "秋瑾",
+      "awardYear": 1984,
+      "winner": "于是之"
+    },
+    {
+      "id": "golden-rooster-1985-best-supporting-actor-78491363",
+      "mediaType": "movie",
+      "title": "高山下的花环",
+      "externalIds": {
+        "imdb": "tt0087314"
+      },
+      "awardYear": 1985,
+      "winner": "何伟"
+    },
+    {
+      "id": "golden-rooster-1986-best-supporting-actor-11220225",
+      "mediaType": "movie",
+      "title": "野山",
+      "externalIds": {
+        "imdb": "tt0359839"
+      },
+      "awardYear": 1986,
+      "winner": "辛明"
+    },
+    {
+      "id": "golden-rooster-1988-best-supporting-actor-52302370",
+      "mediaType": "movie",
+      "title": "人鬼情",
+      "awardYear": 1988,
+      "winner": "李保田"
+    },
+    {
+      "id": "golden-rooster-1989-best-supporting-actor-74575485",
+      "mediaType": "movie",
+      "title": "晚钟",
+      "awardYear": 1989,
+      "winner": "孙敏"
+    },
+    {
+      "id": "golden-rooster-1990-best-supporting-actor-71337828",
+      "mediaType": "movie",
+      "title": "开国大典",
+      "externalIds": {
+        "imdb": "tt0343973"
+      },
+      "awardYear": 1990,
+      "winner": "孙飞虎"
+    },
+    {
+      "id": "golden-rooster-1993-best-supporting-actor-74793402",
+      "mediaType": "movie",
+      "title": "三毛从军记",
+      "awardYear": 1993,
+      "winner": "魏宗万"
+    },
+    {
+      "id": "golden-rooster-1994-best-supporting-actor-39408118",
+      "mediaType": "movie",
+      "title": "无人喝彩",
+      "awardYear": 1994,
+      "winner": "方子哥"
+    },
+    {
+      "id": "golden-rooster-1996-best-supporting-actor-31973984",
+      "mediaType": "movie",
+      "title": "吴二哥请神",
+      "awardYear": 1996,
+      "winner": "赵军"
+    },
+    {
+      "id": "golden-rooster-1997-best-supporting-actor-51517177",
+      "mediaType": "movie",
+      "title": "缉毒英雄",
+      "awardYear": 1997,
+      "winner": "孙淳"
+    },
+    {
+      "id": "golden-rooster-1997-best-supporting-actor-39062130",
+      "mediaType": "movie",
+      "title": "鸦片战争",
+      "externalIds": {
+        "imdb": "tt0120530"
+      },
+      "awardYear": 1997,
+      "winner": "林连昆"
+    },
+    {
+      "id": "golden-rooster-1998-best-supporting-actor-90901001",
+      "mediaType": "movie",
+      "title": "周恩来：伟大的朋友",
+      "awardYear": 1998,
+      "winner": "葛存壮"
+    },
+    {
+      "id": "golden-rooster-1999-best-supporting-actor-99480379",
+      "mediaType": "movie",
+      "title": "草房子",
+      "awardYear": 1999,
+      "winner": "杜源"
+    },
+    {
+      "id": "golden-rooster-2000-best-supporting-actor-85639914",
+      "mediaType": "movie",
+      "title": "生死抉择",
+      "awardYear": 2000,
+      "winner": "雷明"
+    },
+    {
+      "id": "golden-rooster-2001-best-supporting-actor-88096359",
+      "mediaType": "movie",
+      "title": "押解的故事",
+      "awardYear": 2001,
+      "winner": "傅彪"
+    },
+    {
+      "id": "golden-rooster-2002-best-supporting-actor-37783121",
+      "mediaType": "movie",
+      "title": "和你在一起",
+      "externalIds": {
+        "tmdb": "11156",
+        "imdb": "tt0332639"
+      },
+      "awardYear": 2002,
+      "winner": "王志文"
+    },
+    {
+      "id": "golden-rooster-2003-best-supporting-actor-03048193",
+      "mediaType": "movie",
+      "title": "看车人的七月",
+      "awardYear": 2003,
+      "winner": "赵君"
+    },
+    {
+      "id": "golden-rooster-2004-best-supporting-actor-24479368",
+      "mediaType": "movie",
+      "title": "美丽上海",
+      "awardYear": 2004,
+      "winner": "冯远征"
+    },
+    {
+      "id": "golden-rooster-2005-best-supporting-actor-29536241",
+      "mediaType": "movie",
+      "title": "张思德",
+      "awardYear": 2005,
+      "winner": "唐国强"
+    },
+    {
+      "id": "golden-rooster-2007-best-supporting-actor-64862350",
+      "mediaType": "movie",
+      "title": "我的长征",
+      "awardYear": 2007,
+      "winner": "王霙"
+    },
+    {
+      "id": "golden-rooster-2009-best-supporting-actor-12311067",
+      "mediaType": "movie",
+      "title": "梅兰芳",
+      "awardYear": 2009,
+      "winner": "王学圻"
+    },
+    {
+      "id": "golden-rooster-2011-best-supporting-actor-78898337",
+      "mediaType": "movie",
+      "title": "团圆",
+      "awardYear": 2011,
+      "winner": "徐才根"
+    },
+    {
+      "id": "golden-rooster-2013-best-supporting-actor-81695954",
+      "mediaType": "movie",
+      "title": "一代宗师",
+      "externalIds": {
+        "tmdb": "44865",
+        "imdb": "tt1462900"
+      },
+      "awardYear": 2013,
+      "winner": "王庆祥"
+    },
+    {
+      "id": "golden-rooster-2015-best-supporting-actor-68766490",
+      "mediaType": "movie",
+      "title": "亲爱的",
+      "externalIds": {
+        "tmdb": "284293",
+        "imdb": "tt3752930"
+      },
+      "awardYear": 2015,
+      "winner": "张译"
+    },
+    {
+      "id": "golden-rooster-2017-best-supporting-actor-96869960",
+      "mediaType": "movie",
+      "title": "我不是潘金莲",
+      "releaseDate": "2016",
+      "externalIds": {
+        "tmdb": "393445",
+        "imdb": "tt5918090"
+      },
+      "awardYear": 2017,
+      "winner": "于和伟"
+    },
+    {
+      "id": "golden-rooster-2017-best-supporting-actor-21299939",
+      "mediaType": "movie",
+      "title": "解救吾先生",
+      "releaseDate": "2015",
+      "externalIds": {
+        "tmdb": "362154",
+        "imdb": "tt4819560"
+      },
+      "awardYear": 2017,
+      "winner": "王千源"
+    },
+    {
+      "id": "golden-rooster-2019-best-supporting-actor-91404749",
+      "mediaType": "movie",
+      "title": "古田军号",
+      "awardYear": 2019,
+      "winner": "王志飞"
+    },
+    {
+      "id": "golden-rooster-2020-best-supporting-actor-74463938",
+      "mediaType": "movie",
+      "title": "烈火英雄",
+      "releaseDate": "2019",
+      "externalIds": {
+        "tmdb": "615457",
+        "imdb": "tt10218674"
+      },
+      "awardYear": 2020,
+      "winner": "印小天"
+    },
+    {
+      "id": "golden-rooster-2021-best-supporting-actor-65303219",
+      "mediaType": "movie",
+      "title": "一秒钟",
+      "releaseDate": "2020",
+      "externalIds": {
+        "tmdb": "575818",
+        "imdb": "tt8959680"
+      },
+      "awardYear": 2021,
+      "winner": "范伟"
+    },
+    {
+      "id": "golden-rooster-2022-best-supporting-actor-70932939",
+      "mediaType": "movie",
+      "title": "漫长的告白",
+      "releaseDate": "2021",
+      "awardYear": 2022,
+      "winner": "辛柏青"
+    },
+    {
+      "id": "golden-rooster-2023-best-supporting-actor-34635728",
+      "mediaType": "movie",
+      "title": "封神第一部：朝歌风云",
+      "releaseDate": "2023",
+      "externalIds": {
+        "tmdb": "856289",
+        "imdb": "tt6979756"
+      },
+      "awardYear": 2023,
+      "winner": "李雪健"
+    },
+    {
+      "id": "golden-rooster-2024-best-supporting-actor-65090969",
+      "mediaType": "movie",
+      "title": "三大队",
+      "releaseDate": "2023",
+      "awardYear": 2024,
+      "winner": "王骁"
+    },
+    {
+      "id": "golden-rooster-2025-best-supporting-actor-23269425",
+      "mediaType": "movie",
+      "title": "水饺皇后",
+      "awardYear": 2025,
+      "winner": "袁富华"
+    }
+  ]
+}

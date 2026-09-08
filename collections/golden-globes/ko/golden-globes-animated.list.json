@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "골든 글로브 — 애니메이션 영화상",
+  "description": "2017–2026 골든 글로브 애니메이션 영화상 수상작.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "golden-globes-animated-2017-zootopia",
+      "mediaType": "movie",
+      "title": "주토피아",
+      "englishTitle": "Zootopia",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt2948356"
+      },
+      "awardYear": 2017,
+      "winner": "주토피아"
+    },
+    {
+      "id": "golden-globes-animated-2018-coco",
+      "mediaType": "movie",
+      "title": "코코",
+      "englishTitle": "Coco",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt2380307"
+      },
+      "awardYear": 2018,
+      "winner": "코코"
+    },
+    {
+      "id": "golden-globes-animated-2019-spider-man-into-the-spider-verse",
+      "mediaType": "movie",
+      "title": "스파이더맨: 뉴 유니버스",
+      "englishTitle": "Spider-Man: Into the Spider-Verse",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt4633694"
+      },
+      "awardYear": 2019,
+      "winner": "스파이더맨: 뉴 유니버스"
+    },
+    {
+      "id": "golden-globes-animated-2020-missing-link",
+      "mediaType": "movie",
+      "title": "Missing Link",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6348138"
+      },
+      "awardYear": 2020,
+      "winner": "Missing Link"
+    },
+    {
+      "id": "golden-globes-animated-2021-soul",
+      "mediaType": "movie",
+      "title": "소울",
+      "englishTitle": "Soul",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt2948372"
+      },
+      "awardYear": 2021,
+      "winner": "소울"
+    },
+    {
+      "id": "golden-globes-animated-2022-encanto",
+      "mediaType": "movie",
+      "title": "엔칸토: 마법의 세계",
+      "englishTitle": "Encanto",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt2953050"
+      },
+      "awardYear": 2022,
+      "winner": "엔칸토: 마법의 세계"
+    },
+    {
+      "id": "golden-globes-animated-2023-guillermo-del-toro-s-pinocchio",
+      "mediaType": "movie",
+      "title": "기예르모 델토로의 피노키오",
+      "englishTitle": "Guillermo del Toro's Pinocchio",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt1488589"
+      },
+      "awardYear": 2023,
+      "winner": "기예르모 델토로의 피노키오"
+    },
+    {
+      "id": "golden-globes-animated-2024-the-boy-and-the-heron",
+      "mediaType": "movie",
+      "title": "그대들은 어떻게 살 것인가",
+      "englishTitle": "The Boy and the Heron",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt6587046"
+      },
+      "awardYear": 2024,
+      "winner": "그대들은 어떻게 살 것인가"
+    },
+    {
+      "id": "golden-globes-animated-2025-flow",
+      "mediaType": "movie",
+      "title": "플로우",
+      "englishTitle": "Flow",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt4772188"
+      },
+      "awardYear": 2025,
+      "winner": "플로우"
+    },
+    {
+      "id": "golden-globes-animated-2026-kpop-demon-hunters",
+      "mediaType": "movie",
+      "title": "케이팝 데몬 헌터스",
+      "englishTitle": "KPop Demon Hunters",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt14205554"
+      },
+      "awardYear": 2026,
+      "winner": "케이팝 데몬 헌터스"
+    }
+  ]
+}

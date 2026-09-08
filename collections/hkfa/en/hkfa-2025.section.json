@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "Mydea",
+  "title": "Hong Kong Film Awards 2025 Winners",
+  "description": "Winning films and filmmakers of the 2025 Hong Kong Film Awards.",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "hkfa-2025.list.json"
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "골든 글로브 2020",
+  "description": "2020 골든 글로브 주요 영화·텔레비전 작품 부문 수상 목록.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "golden-globes-2020-drama-1917",
+      "mediaType": "movie",
+      "title": "1917",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt8579674"
+      },
+      "award": "작품상 드라마",
+      "awardYear": 2020,
+      "awardOrder": 1,
+      "winner": "1917"
+    },
+    {
+      "id": "golden-globes-2020-comedy-once-upon-a-time-in-hollywood",
+      "mediaType": "movie",
+      "title": "원스 어폰 어 타임... 인 할리우드",
+      "englishTitle": "Once Upon a Time... in Hollywood",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt7131622"
+      },
+      "award": "작품상 뮤지컬·코미디",
+      "awardYear": 2020,
+      "awardOrder": 2,
+      "winner": "원스 어폰 어 타임... 인 할리우드"
+    },
+    {
+      "id": "golden-globes-2020-animated-missing-link",
+      "mediaType": "movie",
+      "title": "Missing Link",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6348138"
+      },
+      "award": "애니메이션 영화상",
+      "awardYear": 2020,
+      "awardOrder": 3,
+      "winner": "Missing Link"
+    },
+    {
+      "id": "golden-globes-2020-foreign-parasite",
+      "mediaType": "movie",
+      "title": "기생충",
+      "englishTitle": "Parasite",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6751668"
+      },
+      "award": "비영어권 영화상",
+      "awardYear": 2020,
+      "awardOrder": 4,
+      "winner": "기생충"
+    },
+    {
+      "id": "golden-globes-2020-tv_drama-succession",
+      "mediaType": "tv",
+      "title": "석세션",
+      "englishTitle": "Succession",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7660850"
+      },
+      "award": "TV 드라마 작품상",
+      "awardYear": 2020,
+      "awardOrder": 5,
+      "winner": "석세션"
+    },
+    {
+      "id": "golden-globes-2020-tv_comedy-fleabag",
+      "mediaType": "tv",
+      "title": "플리백",
+      "englishTitle": "Fleabag",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5687612"
+      },
+      "award": "TV 뮤지컬·코미디 작품상",
+      "awardYear": 2020,
+      "awardOrder": 6,
+      "winner": "플리백"
+    },
+    {
+      "id": "golden-globes-2020-limited-chernobyl",
+      "mediaType": "tv",
+      "title": "체르노빌",
+      "englishTitle": "Chernobyl",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt7366338"
+      },
+      "award": "리미티드 시리즈·앤솔러지·TV 영화상",
+      "awardYear": 2020,
+      "awardOrder": 7,
+      "winner": "체르노빌"
+    }
+  ]
+}

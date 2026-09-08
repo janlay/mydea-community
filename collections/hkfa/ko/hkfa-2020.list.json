@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "title": "2020 홍콩 영화 금상장 수상작",
+  "description": "2020년 홍콩 영화 금상장 주요 부문 수상작과 수상자.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "hkfa-2020-best-film-9586294",
+      "mediaType": "movie",
+      "title": "소년시절의 너",
+      "awardYear": 2020,
+      "winner": "《소년시절의 너》",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt9586294"
+      },
+      "award": "최우수 작품상",
+      "awardOrder": 1,
+      "originalTitle": "少年的你"
+    },
+    {
+      "id": "hkfa-2020-best-director-9586294",
+      "mediaType": "movie",
+      "title": "소년시절의 너",
+      "awardYear": 2020,
+      "winner": "曾國祥",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt9586294"
+      },
+      "award": "감독상",
+      "awardOrder": 2,
+      "originalTitle": "少年的你"
+    },
+    {
+      "id": "hkfa-2020-best-screenplay-9586294",
+      "mediaType": "movie",
+      "title": "소년시절의 너",
+      "awardYear": 2020,
+      "winner": "林詠琛、李媛、許伊萌",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt9586294"
+      },
+      "award": "각본상",
+      "awardOrder": 3,
+      "originalTitle": "少年的你"
+    },
+    {
+      "id": "hkfa-2020-best-actor-10975520",
+      "mediaType": "movie",
+      "title": "叔·叔",
+      "awardYear": 2020,
+      "winner": "太保",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10975520"
+      },
+      "award": "남우주연상",
+      "awardOrder": 4
+    },
+    {
+      "id": "hkfa-2020-best-actress-9586294",
+      "mediaType": "movie",
+      "title": "소년시절의 너",
+      "awardYear": 2020,
+      "winner": "저우둥위",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt9586294"
+      },
+      "award": "여우주연상",
+      "awardOrder": 5,
+      "originalTitle": "少年的你"
+    },
+    {
+      "id": "hkfa-2020-best-supporting-actor-10117402",
+      "mediaType": "movie",
+      "title": "麥路人",
+      "awardYear": 2020,
+      "winner": "張達明",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10117402"
+      },
+      "award": "남우조연상",
+      "awardOrder": 6
+    },
+    {
+      "id": "hkfa-2020-best-supporting-actress-10975520",
+      "mediaType": "movie",
+      "title": "叔·叔",
+      "awardYear": 2020,
+      "winner": "區嘉雯",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10975520"
+      },
+      "award": "여우조연상",
+      "awardOrder": 7
+    },
+    {
+      "id": "hkfa-2020-best-new-performer-9586294",
+      "mediaType": "movie",
+      "title": "소년시절의 너",
+      "awardYear": 2020,
+      "winner": "易烊千璽",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt9586294"
+      },
+      "award": "신인상",
+      "awardOrder": 8,
+      "originalTitle": "少年的你"
+    }
+  ],
+  "updatedAt": "2026-09-12T02:57:20Z"
+}

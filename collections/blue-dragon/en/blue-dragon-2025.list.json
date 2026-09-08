@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-12T02:54:20Z",
+  "title": "Blue Dragon Film Awards — 2025",
+  "description": "Winners in 10 major film categories at the 2025 Blue Dragon Film Awards.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "blue-dragon-2025-best-film-no-other-choice",
+      "mediaType": "movie",
+      "title": "No Other Choice",
+      "originalTitle": "어쩔수가없다",
+      "award": "Best Film",
+      "awardYear": 2025,
+      "awardOrder": 1,
+      "winner": "Park Chan-wook",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt1527793"
+      }
+    },
+    {
+      "id": "blue-dragon-2025-best-director-no-other-choice",
+      "mediaType": "movie",
+      "title": "No Other Choice",
+      "originalTitle": "어쩔수가없다",
+      "award": "Best Director",
+      "awardYear": 2025,
+      "awardOrder": 2,
+      "winner": "Park Chan-wook",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt1527793"
+      }
+    },
+    {
+      "id": "blue-dragon-2025-best-actor-harbin",
+      "mediaType": "movie",
+      "title": "Harbin",
+      "originalTitle": "하얼빈",
+      "award": "Best Actor",
+      "awardYear": 2025,
+      "awardOrder": 3,
+      "winner": "Hyun Bin",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt23630030"
+      }
+    },
+    {
+      "id": "blue-dragon-2025-best-actress-no-other-choice",
+      "mediaType": "movie",
+      "title": "No Other Choice",
+      "originalTitle": "어쩔수가없다",
+      "award": "Best Actress",
+      "awardYear": 2025,
+      "awardOrder": 4,
+      "winner": "Son Ye-jin",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt1527793"
+      }
+    },
+    {
+      "id": "blue-dragon-2025-best-supporting-actor-no-other-choice",
+      "mediaType": "movie",
+      "title": "No Other Choice",
+      "originalTitle": "어쩔수가없다",
+      "award": "Best Supporting Actor",
+      "awardYear": 2025,
+      "awardOrder": 5,
+      "winner": "Lee Sung-min",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt1527793"
+      }
+    },
+    {
+      "id": "blue-dragon-2025-best-supporting-actress-hidden-face",
+      "mediaType": "movie",
+      "title": "Hidden Face",
+      "originalTitle": "히든페이스",
+      "award": "Best Supporting Actress",
+      "awardYear": 2025,
+      "awardOrder": 6,
+      "winner": "Park Ji-hyun",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt34490115"
+      }
+    },
+    {
+      "id": "blue-dragon-2025-best-new-director-its-okay",
+      "mediaType": "movie",
+      "title": "It's Okay!",
+      "originalTitle": "괜찮아 괜찮아 괜찮아!",
+      "award": "Best New Director",
+      "awardYear": 2025,
+      "awardOrder": 7,
+      "winner": "Kim Hye-young",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt29579010"
+      }
+    },
+    {
+      "id": "blue-dragon-2025-best-new-actor-pretty-crazy",
+      "mediaType": "movie",
+      "title": "Pretty Crazy",
+      "originalTitle": "악마가 이사왔다",
+      "award": "Best New Actor",
+      "awardYear": 2025,
+      "awardOrder": 8,
+      "winner": "Ahn Bo-hyun",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt35382678"
+      }
+    },
+    {
+      "id": "blue-dragon-2025-best-new-actress-idiot-girls",
+      "mediaType": "movie",
+      "title": "Idiot Girls and School Ghost: School Anniversary",
+      "originalTitle": "아메바 소녀들과 학교괴담: 개교기념일",
+      "award": "Best New Actress",
+      "awardYear": 2025,
+      "awardOrder": 9,
+      "winner": "Kim Do-yeon",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt34136712"
+      }
+    },
+    {
+      "id": "blue-dragon-2025-best-screenplay-match",
+      "mediaType": "movie",
+      "title": "The Match",
+      "originalTitle": "승부",
+      "award": "Best Screenplay",
+      "awardYear": 2025,
+      "awardOrder": 10,
+      "winner": "Kim Hyung-joo & Yoon Jong-bin",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt13498824"
+      }
+    }
+  ]
+}

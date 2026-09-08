@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "ChatGPT",
+  "title": "ゴールデングローブ賞 2023",
+  "description": "2023年のゴールデングローブ賞主要映画・テレビ作品部門の受賞一覧。",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "golden-globes-2023.list.json"
+    }
+  ]
+}

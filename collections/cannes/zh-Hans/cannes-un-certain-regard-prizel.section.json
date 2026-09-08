@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "Mydea",
+  "title": "戛纳 — 一种关注奖",
+  "description": "戛纳电影节历届一种关注奖获奖影片。该奖项设立于1998年；戛纳电影节取消的2020年没有颁发该奖，2011年则由两部影片共同获奖。",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "cannes-un-certain-regard-prizel.list.json"
+    }
+  ]
+}

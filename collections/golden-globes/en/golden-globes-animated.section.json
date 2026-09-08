@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "ChatGPT",
+  "title": "Golden Globes — Best Motion Picture – Animated",
+  "description": "Winners of the Golden Globe Best Motion Picture – Animated category from 2017 through 2026.",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "golden-globes-animated.list.json"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "ChatGPT",
+  "title": "トロント — ミッドナイト・マッドネス観客賞",
+  "description": "トロント国際映画祭「ミッドナイト・マッドネス観客賞」の歴代受賞作。",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "tiff-midnight-madness-peoples-choice.list.json"
+    }
+  ]
+}

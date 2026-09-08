@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:30:00Z",
+  "title": "柏林电影节 2020 年获奖名单",
+  "description": "柏林国际电影节 2020 年主竞赛国际评审团主要奖项获奖影片。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "berlinale-2020-golden-bear-there-is-no-evil",
+      "mediaType": "movie",
+      "title": "无邪",
+      "englishTitle": "There Is No Evil",
+      "award": "金熊奖",
+      "awardYear": 2020,
+      "awardOrder": 1,
+      "winner": "Mohammad Rasoulof",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt11697844"
+      },
+      "backdropPath": "https://image.tmdb.org/t/p/w342/59vPeo5aylXS5uEo5uS46cjGKRz.jpg"
+    },
+    {
+      "id": "berlinale-2020-grand-jury-never-rarely-sometimes-always",
+      "mediaType": "movie",
+      "title": "从不，很少，有时，总是",
+      "englishTitle": "Never Rarely Sometimes Always",
+      "award": "评审团大奖",
+      "awardYear": 2020,
+      "awardOrder": 2,
+      "winner": "Eliza Hittman",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt7772582"
+      }
+    },
+    {
+      "id": "berlinale-2020-70th-silver-bear-delete-history",
+      "mediaType": "movie",
+      "title": "删除历史",
+      "englishTitle": "Delete History",
+      "award": "第70届柏林电影节银熊奖",
+      "awardYear": 2020,
+      "awardOrder": 3,
+      "winner": "Benoît Delépine & Gustave Kervern",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10627352"
+      }
+    },
+    {
+      "id": "berlinale-2020-best-director-the-woman-who-ran",
+      "mediaType": "movie",
+      "title": "逃走的女人",
+      "englishTitle": "The Woman Who Ran",
+      "award": "最佳导演银熊奖",
+      "awardYear": 2020,
+      "awardOrder": 4,
+      "winner": "Hong Sangsoo",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt11738830"
+      }
+    },
+    {
+      "id": "berlinale-2020-best-actress-undine",
+      "mediaType": "movie",
+      "title": "温蒂妮",
+      "englishTitle": "Undine",
+      "award": "最佳女演员银熊奖",
+      "awardYear": 2020,
+      "awardOrder": 5,
+      "winner": "Paula Beer",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt11617052"
+      }
+    },
+    {
+      "id": "berlinale-2020-best-actor-hidden-away",
+      "mediaType": "movie",
+      "title": "隐秘",
+      "englishTitle": "Hidden Away",
+      "award": "最佳男演员银熊奖",
+      "awardYear": 2020,
+      "awardOrder": 6,
+      "winner": "Elio Germano",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt8478554"
+      }
+    },
+    {
+      "id": "berlinale-2020-best-screenplay-bad-tales",
+      "mediaType": "movie",
+      "title": "烂故事",
+      "englishTitle": "Bad Tales",
+      "award": "最佳编剧银熊奖",
+      "awardYear": 2020,
+      "awardOrder": 7,
+      "winner": "Fabio D'Innocenzo & Damiano D'Innocenzo",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt8526370"
+      }
+    },
+    {
+      "id": "berlinale-2020-artistic-contribution-dau-natasha",
+      "mediaType": "movie",
+      "title": "列夫·朗道：娜塔莎",
+      "englishTitle": "DAU. Natasha",
+      "award": "杰出艺术贡献银熊奖",
+      "awardYear": 2020,
+      "awardOrder": 8,
+      "winner": "Jürgen Jürges",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt11905962"
+      }
+    }
+  ]
+}

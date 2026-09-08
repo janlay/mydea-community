@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "ChatGPT",
+  "title": "青龙电影奖 — 最佳女主角",
+  "description": "韩国青龙电影奖最佳女主角2016–2025年获奖记录。",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "blue-dragon-best-actress.list.json"
+    }
+  ]
+}

@@ -1,0 +1,1043 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "OpenAI",
+  "server": "TMDB",
+  "updatedAt": "2026-09-06T16:01:44Z",
+  "description": "戛纳电影节评审团奖获奖影片。",
+  "title": "戛纳 — 评审团奖",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "title with Year"
+  ],
+  "items": [
+    {
+      "id": "cannes-jury-prize-1946-the-battle-of-the-rails",
+      "mediaType": "movie",
+      "title": "铁路战斗队",
+      "awardYear": 1946,
+      "winner": "René Clément",
+      "releaseDate": "1946-02-27",
+      "externalIds": {
+        "tmdb": "39142"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/olRrnwadx2JYgphNdSN6PQlQFvE.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-1951-all-about-eve",
+      "mediaType": "movie",
+      "title": "彗星美人",
+      "awardYear": 1951,
+      "winner": "Joseph L. Mankiewicz",
+      "releaseDate": "1950-11-09",
+      "externalIds": {
+        "tmdb": "705"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/blBzZaatPWVuWpXEnPscMA4Xp6m.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-1952-we-are-all-murderers",
+      "mediaType": "movie",
+      "title": "我们都是杀人犯",
+      "awardYear": 1952,
+      "winner": "André Cayatte",
+      "releaseDate": "1952-05-21",
+      "externalIds": {
+        "tmdb": "199503"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/cA0zWVlOJaHBKpxfiIgCRYR10cm.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-1954-knave-of-hearts",
+      "mediaType": "movie",
+      "title": "相逢",
+      "awardYear": 1954,
+      "winner": "René Clément"
+    },
+    {
+      "id": "cannes-jury-prize-1955-lost-continent",
+      "mediaType": "movie",
+      "title": "失落的大地",
+      "awardYear": 1955,
+      "winner": "Enrico Gras; Giorgio Moser; Leonardo Bonzi",
+      "releaseDate": "1955-05-10",
+      "externalIds": {
+        "tmdb": "199249"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/bA2i2juruTLEP47rl3ZSElw2bX8.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-1956-the-mystery-of-picasso",
+      "mediaType": "movie",
+      "title": "毕加索的秘密",
+      "awardYear": 1956,
+      "winner": "Henri-Georges Clouzot",
+      "releaseDate": "1956-05-18",
+      "externalIds": {
+        "tmdb": "71822"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/kY1Qo3rtkTiElT4iQMiHL9oEDNG.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-1957-kana",
+      "mediaType": "movie",
+      "title": "下水道",
+      "awardYear": 1957,
+      "winner": "Andrzej Wajda",
+      "releaseDate": "1957-04-20",
+      "externalIds": {
+        "tmdb": "29933"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/mUxZNNmvX3MwIJ9LTcuw76ZdtN6.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-1957-the-seventh-seal",
+      "mediaType": "movie",
+      "title": "第七封印",
+      "awardYear": 1957,
+      "winner": "Ingmar Bergman",
+      "releaseDate": "1957-02-16",
+      "externalIds": {
+        "tmdb": "490"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/wcZ21zrOsy0b52AfAF50XpTiv75.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-1958-mon-oncle",
+      "mediaType": "movie",
+      "title": "我的舅舅",
+      "awardYear": 1958,
+      "winner": "Jacques Tati",
+      "releaseDate": "1958-05-10",
+      "externalIds": {
+        "tmdb": "427"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/wH6RyPiXFy8INLbViVkchLVOmBc.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-1959-stars",
+      "mediaType": "movie",
+      "title": "星",
+      "awardYear": 1959,
+      "winner": "Konrad Wolf",
+      "releaseDate": "1959-03-23",
+      "externalIds": {
+        "tmdb": "199177"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/xCWu2icolAmBWES6TuW0Ib4nLkH.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-1960-l-avventura",
+      "mediaType": "movie",
+      "title": "奇遇",
+      "awardYear": 1960,
+      "winner": "Michelangelo Antonioni",
+      "releaseDate": "1960-09-14",
+      "externalIds": {
+        "tmdb": "5165"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/7kUXAS8K7Ihw1T1mhARjnLuMVk3.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-1960-odd-obsession",
+      "mediaType": "movie",
+      "title": "键",
+      "awardYear": 1960,
+      "winner": "Kon Ichikawa",
+      "releaseDate": "1959-06-23",
+      "externalIds": {
+        "tmdb": "43095"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/i3Px0GYThAAyxyoETjh9GE2KXto.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-1961-mother-joan-of-the-angels",
+      "mediaType": "movie",
+      "title": "修女乔安娜",
+      "awardYear": 1961,
+      "winner": "Jerzy Kawalerowicz",
+      "releaseDate": "1961-02-09",
+      "externalIds": {
+        "tmdb": "113458"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/3DRAaO2Yp9wd2lvgRSjWbyeN0Vs.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-1962-l-eclisse",
+      "mediaType": "movie",
+      "title": "蚀",
+      "awardYear": 1962,
+      "winner": "Michelangelo Antonioni",
+      "releaseDate": "1962-04-13",
+      "externalIds": {
+        "tmdb": "21135"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/oXoe0Fp92Yw3mMJ9Vq0hPlaMELg.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-1962-the-trial-of-joan-of-arc",
+      "mediaType": "movie",
+      "title": "圣女贞德的审判",
+      "awardYear": 1962,
+      "winner": "Robert Bresson",
+      "releaseDate": "1963-02-13",
+      "externalIds": {
+        "tmdb": "48764"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/gHb9UUow3j25sMCb3wDIZatfIg1.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-1963-the-cassandra-cat",
+      "mediaType": "movie",
+      "title": "一日一猫",
+      "awardYear": 1963,
+      "winner": "Vojtěch Jasný"
+    },
+    {
+      "id": "cannes-jury-prize-1963-harakiri",
+      "mediaType": "movie",
+      "title": "切腹",
+      "awardYear": 1963,
+      "winner": "Masaki Kobayashi",
+      "releaseDate": "1962-09-15",
+      "externalIds": {
+        "tmdb": "14537"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/zK7HsOC7QxW1ldKIeFG8YJ5F2Eb.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-1964-woman-in-the-dunes",
+      "mediaType": "movie",
+      "title": "砂之女",
+      "awardYear": 1964,
+      "winner": "Hiroshi Teshigahara",
+      "releaseDate": "1964-02-15",
+      "externalIds": {
+        "tmdb": "16672"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/xiBr3bIT2xpbuIKo5bLK7ebP4O1.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-1965-kwaidan",
+      "mediaType": "movie",
+      "title": "怪谈",
+      "awardYear": 1965,
+      "winner": "Masaki Kobayashi",
+      "releaseDate": "1965-01-06",
+      "externalIds": {
+        "tmdb": "30959"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/t9UMfViYl47SdZZatKQ1JKjjCgs.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-1966-alfie",
+      "mediaType": "movie",
+      "title": "阿尔菲",
+      "awardYear": 1966,
+      "winner": "Lewis Gilbert",
+      "releaseDate": "1966-03-29",
+      "externalIds": {
+        "tmdb": "15598"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/tPUqgfGMkZazRZ1UO41j2Fiib5C.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-1969-z",
+      "mediaType": "movie",
+      "title": "焦点新闻",
+      "awardYear": 1969,
+      "winner": "Costa-Gavras",
+      "releaseDate": "1969-02-26",
+      "externalIds": {
+        "tmdb": "2721"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/dFAJyFNgvOv24f2RQyI9KDxjGr3.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-1970-the-falcons",
+      "mediaType": "movie",
+      "title": "隼鹰",
+      "awardYear": 1970,
+      "winner": "István Gaál",
+      "releaseDate": "1970-06-07",
+      "externalIds": {
+        "tmdb": "198659"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/yHhmeim68Ak5C418cBFSmpJiWcM.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-1970-the-strawberry-statement",
+      "mediaType": "movie",
+      "title": "烈火暴潮",
+      "awardYear": 1970,
+      "winner": "Stuart Hagmann",
+      "releaseDate": "1970-08-28",
+      "externalIds": {
+        "tmdb": "51956"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/kKhzIkHWrg51jkTRxq6eAhBSIIl.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-1971-joe-hill",
+      "mediaType": "movie",
+      "title": "碧血黄花",
+      "awardYear": 1971,
+      "winner": "Bo Widerberg",
+      "releaseDate": "1971-08-25",
+      "externalIds": {
+        "tmdb": "74746"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/tguCZY7GtDSLgL6cJWFYexARqB3.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-1971-love",
+      "mediaType": "movie",
+      "title": "爱",
+      "awardYear": 1971,
+      "winner": "Károly Makk",
+      "releaseDate": "1971-01-21",
+      "externalIds": {
+        "tmdb": "42516"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/qjTpEIC3BBrE61hNFluExkjH7Nf.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-1972-slaughterhouse-five",
+      "mediaType": "movie",
+      "title": "第五屠场",
+      "awardYear": 1972,
+      "winner": "George Roy Hill",
+      "releaseDate": "1972-03-15",
+      "externalIds": {
+        "tmdb": "24559"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/gM2q9pGW9x2zdEMPRsXLBgTDDFH.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-1973-the-hourglass-sanatorium",
+      "mediaType": "movie",
+      "title": "砂制时镜下的疗养院",
+      "awardYear": 1973,
+      "winner": "Wojciech Has",
+      "releaseDate": "1973-12-11",
+      "externalIds": {
+        "tmdb": "45698"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/wV6LsDuRHPGbQqRsaAAu3xHgflW.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-1973-the-invitation",
+      "mediaType": "movie",
+      "title": "宴请",
+      "awardYear": 1973,
+      "winner": "Claude Goretta",
+      "releaseDate": "1973-09-13",
+      "externalIds": {
+        "tmdb": "109815"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/o3M1LrjEIJ5M0sLN7K6wnYTNjCv.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-1974-la-prima-angelica",
+      "mediaType": "movie",
+      "title": "安洁丽卡表妹",
+      "awardYear": 1974,
+      "winner": "Carlos Saura",
+      "releaseDate": "1974-04-28",
+      "externalIds": {
+        "tmdb": "54236"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/68dsrXLsER3QU7n6GTouZV3C9EH.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-1980-the-constant-factor",
+      "mediaType": "movie",
+      "title": "山巅的呼唤",
+      "awardYear": 1980,
+      "winner": "Krzysztof Zanussi",
+      "releaseDate": "1980-06-04",
+      "externalIds": {
+        "tmdb": "198500"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/mXvxXOt7UgH9h4ptWysM0lS8zNO.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-1983-kharij",
+      "mediaType": "movie",
+      "title": "结案",
+      "awardYear": 1983,
+      "winner": "Mrinal Sen",
+      "releaseDate": "1982-12-31",
+      "externalIds": {
+        "tmdb": "133751"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/dTZJNsc8irYbfpaRU4MTnJ0EHlI.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-1985-colonel-redl",
+      "mediaType": "movie",
+      "title": "雷德尔上校",
+      "awardYear": 1985,
+      "winner": "István Szabó",
+      "releaseDate": "1985-02-20",
+      "externalIds": {
+        "tmdb": "29471"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/oSOwBgEfMzJa3KqkqNUjBuV2DnT.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-1986-therese",
+      "mediaType": "movie",
+      "title": "圣女泰蕾丝",
+      "awardYear": 1986,
+      "winner": "Alain Cavalier",
+      "releaseDate": "1986-06-21",
+      "externalIds": {
+        "tmdb": "42029"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/3UL9IkMrkPSV2PysNya5MEguW8N.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-1987-shinran-path-to-purity",
+      "mediaType": "movie",
+      "title": "亲鸾:白道",
+      "awardYear": 1987,
+      "winner": "Rentarō Mikuni",
+      "releaseDate": "1987-06-02",
+      "externalIds": {
+        "tmdb": "198454"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/bWxK8mEtNfPfP1BcZTnEzpOEO9F.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-1987-yeelen",
+      "mediaType": "movie",
+      "title": "光之翼",
+      "awardYear": 1987,
+      "winner": "Souleymane Cissé",
+      "releaseDate": "1987-07-01",
+      "externalIds": {
+        "tmdb": "71329"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/xjckmcnKK6Ex6wHrVydu4F21h3t.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-1988-a-short-film-about-killing",
+      "mediaType": "movie",
+      "title": "杀人短片",
+      "awardYear": 1988,
+      "winner": "Krzysztof Kieślowski",
+      "releaseDate": "1988-03-11",
+      "externalIds": {
+        "tmdb": "10754"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/x8zenootZTTB1iEdUQA9dnEuLqv.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-1989-jesus-of-montreal",
+      "mediaType": "movie",
+      "title": "蒙特利尔的耶稣",
+      "awardYear": 1989,
+      "winner": "Denys Arcand",
+      "releaseDate": "1989-05-15",
+      "externalIds": {
+        "tmdb": "4486"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/evtfMmuJyCQch2JIdWO2SdGWgJA.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-1990-hidden-agenda",
+      "mediaType": "movie",
+      "title": "致命档案",
+      "awardYear": 1990,
+      "winner": "Ken Loach",
+      "releaseDate": "1990-11-21",
+      "externalIds": {
+        "tmdb": "47869"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/ceaYwvuTMfgRu7XCrLHmeK1LDzN.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-1991-europa",
+      "mediaType": "movie",
+      "title": "欧洲特快车",
+      "awardYear": 1991,
+      "winner": "Lars von Trier",
+      "releaseDate": "1991-06-27",
+      "externalIds": {
+        "tmdb": "9065"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/pyFtuYQReoSmhNs55kRJedA5wEJ.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-1991-out-of-life",
+      "mediaType": "movie",
+      "title": "生命之外",
+      "awardYear": 1991,
+      "winner": "Maroun Bagdadi",
+      "releaseDate": "1991-05-15",
+      "externalIds": {
+        "tmdb": "66753"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/yJ3bKnUXQp95Xaql5XIgqNdLEwU.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-1992-dream-of-light",
+      "mediaType": "movie",
+      "title": "榅桲树阳光",
+      "awardYear": 1992,
+      "winner": "Víctor Erice",
+      "releaseDate": "1992-10-01",
+      "externalIds": {
+        "tmdb": "94706"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/wH3VuGHcf0jTzeRGLZlPfqTIHS1.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-1992-an-independent-life",
+      "mediaType": "movie",
+      "title": "独立生活",
+      "awardYear": 1992,
+      "winner": "Vitali Kanevsky",
+      "releaseDate": "1992-05-26",
+      "externalIds": {
+        "tmdb": "196929"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/tdW2kiP8010nGmIPiuMzYdyOLHe.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-1993-the-puppetmaster",
+      "mediaType": "movie",
+      "title": "戏梦人生",
+      "awardYear": 1993,
+      "winner": "Hou Hsiao-hsien",
+      "releaseDate": "1993-12-08",
+      "externalIds": {
+        "tmdb": "96712"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/nb3jOZsFUDSjUXQgw951FMNE9O7.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-1993-raining-stones",
+      "mediaType": "movie",
+      "title": "石雨",
+      "awardYear": 1993,
+      "winner": "Ken Loach",
+      "releaseDate": "1993-09-09",
+      "externalIds": {
+        "tmdb": "62463"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/6mn9rCxmslIThAVEqDc6IYY3tZb.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-1994-la-reine-margot",
+      "mediaType": "movie",
+      "title": "玛戈王后",
+      "awardYear": 1994,
+      "winner": "Patrice Chéreau",
+      "releaseDate": "1994-05-13",
+      "externalIds": {
+        "tmdb": "10452"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/8uGkhBLiJMIkwohGPo3iB9AuwDg.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-1995-don-t-forget-you-re-going-to-die",
+      "mediaType": "movie",
+      "title": "别忘记你将死",
+      "awardYear": 1995,
+      "winner": "Xavier Beauvois",
+      "releaseDate": "1996-01-03",
+      "externalIds": {
+        "tmdb": "72368"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/aoS7TUKnZDNXP4atxFoMtcXvmrk.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-1995-carrington",
+      "mediaType": "movie",
+      "title": "卡琳顿",
+      "awardYear": 1995,
+      "winner": "Christopher Hampton",
+      "releaseDate": "1995-05-25",
+      "externalIds": {
+        "tmdb": "47018"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/8NmeBTkC4UQa8XT2GGsBN2R8Bqo.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-1996-crash",
+      "mediaType": "movie",
+      "title": "欲望号快车",
+      "awardYear": 1996,
+      "winner": "David Cronenberg",
+      "releaseDate": "1996-07-17",
+      "externalIds": {
+        "tmdb": "884"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/gpai5oUFyFGLHOCsYTvVMqlbY7A.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-1997-western",
+      "mediaType": "movie",
+      "title": "日落前决定爱不爱你",
+      "awardYear": 1997,
+      "winner": "Manuel Poirier",
+      "releaseDate": "1997-05-09",
+      "externalIds": {
+        "tmdb": "39968"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/u7P3htHY9FDaEFgtRdp5B830L4O.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-1998-the-celebration",
+      "mediaType": "movie",
+      "title": "家宴",
+      "awardYear": 1998,
+      "winner": "Thomas Vinterberg",
+      "releaseDate": "1998-06-19",
+      "externalIds": {
+        "tmdb": "309"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/2LRzNq41yrY8EjCnD1S8sCCPvKk.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-1998-class-trip",
+      "mediaType": "movie",
+      "title": "雪地里的魅影",
+      "awardYear": 1998,
+      "winner": "Claude Miller",
+      "releaseDate": "1998-09-23",
+      "externalIds": {
+        "tmdb": "46817"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/jEoZ0T50qntBYGZC9cQPZtclnKk.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-1999-the-letter",
+      "mediaType": "movie",
+      "title": "情归何处",
+      "awardYear": 1999,
+      "winner": "Manoel de Oliveira",
+      "releaseDate": "1999-09-22",
+      "externalIds": {
+        "tmdb": "105448"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/s246lJtSiJYuJR9WLecB7ZglySB.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-2000-blackboards",
+      "mediaType": "movie",
+      "title": "黑板",
+      "awardYear": 2000,
+      "winner": "Samira Makhmalbaf",
+      "releaseDate": "2000-09-01",
+      "externalIds": {
+        "tmdb": "28988"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/ApLKw8jjGTp7M4FbivX3mHXJ6da.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-2000-songs-from-the-second-floor",
+      "mediaType": "movie",
+      "title": "二楼传来的歌声",
+      "awardYear": 2000,
+      "winner": "Roy Andersson",
+      "releaseDate": "2000-10-06",
+      "externalIds": {
+        "tmdb": "34070"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/xMZieoxiQ1hb5zraZlhzcvU7MGN.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-2002-divine-intervention",
+      "mediaType": "movie",
+      "title": "神的介入",
+      "awardYear": 2002,
+      "winner": "Elia Suleiman",
+      "releaseDate": "2002-10-02",
+      "externalIds": {
+        "tmdb": "27744"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/pczspk2mTCVmG5eyErnB4BZD2HY.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-2003-at-five-in-the-afternoon",
+      "mediaType": "movie",
+      "title": "下午五点",
+      "awardYear": 2003,
+      "winner": "Samira Makhmalbaf",
+      "releaseDate": "2003-08-20",
+      "externalIds": {
+        "tmdb": "43969"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/3yu3Z0tDG03r4nM5vrZ5B3WQ7pg.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-2004-the-ladykillers",
+      "mediaType": "movie",
+      "title": "老妇杀手",
+      "awardYear": 2004,
+      "winner": "Irma P. Hall",
+      "releaseDate": "2004-03-25",
+      "externalIds": {
+        "tmdb": "5516"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/l4g9R39NCp6VaYFrw6q8JwKNW9x.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-2004-tropical-malady",
+      "mediaType": "movie",
+      "title": "热带疾病",
+      "awardYear": 2004,
+      "winner": "Apichatpong Weerasethakul",
+      "releaseDate": "2004-06-24",
+      "externalIds": {
+        "tmdb": "11534"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/9WJ8ZSZp2NC7jSvweFLskldpzzg.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-2005-shanghai-dreams",
+      "mediaType": "movie",
+      "title": "青红",
+      "awardYear": 2005,
+      "winner": "Wang Xiaoshuai",
+      "releaseDate": "2005-06-03",
+      "externalIds": {
+        "tmdb": "101908"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/tPm6d6y6zsBdMZpmru5XNlE57s7.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-2006-red-road",
+      "mediaType": "movie",
+      "title": "红色之路",
+      "awardYear": 2006,
+      "winner": "Andrea Arnold",
+      "releaseDate": "2006-10-27",
+      "externalIds": {
+        "tmdb": "11705"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/o2SWtcm9bR7lqoCp3wsVp35fvmV.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-2007-persepolis",
+      "mediaType": "movie",
+      "title": "我在伊朗长大",
+      "awardYear": 2007,
+      "winner": "Marjane Satrapi; Vincent Paronnaud",
+      "releaseDate": "2007-06-27",
+      "externalIds": {
+        "tmdb": "2011"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/aU8i2QAdTyRR1nYb36Gq51xXP8p.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-2007-silent-light",
+      "mediaType": "movie",
+      "title": "寂静之光",
+      "awardYear": 2007,
+      "winner": "Carlos Reygadas",
+      "releaseDate": "2007-05-22",
+      "externalIds": {
+        "tmdb": "2012"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/kniOoQky3GX9ljyzobwRUGFgQUT.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-2008-il-divo",
+      "mediaType": "movie",
+      "title": "大牌明星",
+      "awardYear": 2008,
+      "winner": "Paolo Sorrentino",
+      "releaseDate": "2008-05-28",
+      "externalIds": {
+        "tmdb": "8832"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/vhvn9FYhDn8hVjFibiQuFVtDzgx.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-2009-fish-tank",
+      "mediaType": "movie",
+      "title": "鱼缸",
+      "awardYear": 2009,
+      "winner": "Andrea Arnold",
+      "releaseDate": "2009-09-11",
+      "externalIds": {
+        "tmdb": "24469"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/rI3MKBDsWzQHi9PWDAMKkgmYcff.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-2009-thirst",
+      "mediaType": "movie",
+      "title": "蝙蝠",
+      "awardYear": 2009,
+      "winner": "Park Chan-wook",
+      "releaseDate": "2009-04-30",
+      "externalIds": {
+        "tmdb": "22536"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/sBnFQwOcmL3dAIYfiQ9nLvLSW7B.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-2010-a-screaming-man",
+      "mediaType": "movie",
+      "title": "吶喊的男人",
+      "awardYear": 2010,
+      "winner": "Mahamat-Saleh Haroun",
+      "releaseDate": "2010-09-29",
+      "externalIds": {
+        "tmdb": "57602"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/q90ysGM6CQmHnUTGGU4x5TBv4hn.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-2011-polisse",
+      "mediaType": "movie",
+      "title": "警员",
+      "awardYear": 2011,
+      "winner": "Maïwenn",
+      "releaseDate": "2011-10-06",
+      "externalIds": {
+        "tmdb": "71157"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/cKs3XSFVbFeZcH3g9geAvr6ApOl.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-2012-the-angels-share",
+      "mediaType": "movie",
+      "title": "天使的一份",
+      "awardYear": 2012,
+      "winner": "Ken Loach",
+      "releaseDate": "2012-06-01",
+      "externalIds": {
+        "tmdb": "103747"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/bt9kJ8gwTMaDcmL0INlJYIZ887t.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-2013-like-father-like-son",
+      "mediaType": "movie",
+      "title": "如父如子",
+      "awardYear": 2013,
+      "winner": "Hirokazu Kore-eda",
+      "releaseDate": "2013-09-24",
+      "externalIds": {
+        "tmdb": "177945"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/r0nejXOf6e4leWhnLuEQOmC5hrX.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-2014-goodbye-to-language",
+      "mediaType": "movie",
+      "title": "再见语言",
+      "awardYear": 2014,
+      "winner": "Jean-Luc Godard",
+      "releaseDate": "2014-05-28",
+      "externalIds": {
+        "tmdb": "114982"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/dQ0qBocOIz5VgoEPQDptOXRwWEv.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-2014-mommy",
+      "mediaType": "movie",
+      "title": "妈咪",
+      "awardYear": 2014,
+      "winner": "Xavier Dolan",
+      "releaseDate": "2014-09-19",
+      "externalIds": {
+        "tmdb": "265177"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/uPDP0cHGOpkr47rdCdHWo4CyiPj.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-2015-the-lobster",
+      "mediaType": "movie",
+      "title": "龙虾",
+      "awardYear": 2015,
+      "winner": "Yorgos Lanthimos",
+      "releaseDate": "2015-10-15",
+      "externalIds": {
+        "tmdb": "254320"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/7Y9ILV1unpW9mLpGcqyGQU72LUy.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-2016-american-honey",
+      "mediaType": "movie",
+      "title": "美国甜心",
+      "awardYear": 2016,
+      "winner": "Andrea Arnold",
+      "releaseDate": "2016-09-30",
+      "externalIds": {
+        "tmdb": "340485"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/41SVO0AElBAl7zks9dFhJ0OjHni.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-2017-loveless",
+      "mediaType": "movie",
+      "title": "无爱可诉",
+      "awardYear": 2017,
+      "winner": "Andrey Zvyagintsev",
+      "releaseDate": "2017-06-01",
+      "externalIds": {
+        "tmdb": "429174"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/oBUsLGZoGuLKMuHj19mjG9iCDoq.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-2018-capernaum",
+      "mediaType": "movie",
+      "title": "何以为家",
+      "awardYear": 2018,
+      "winner": "Nadine Labaki",
+      "releaseDate": "2018-09-20",
+      "externalIds": {
+        "tmdb": "517814"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/mFnfTVADj8yOxwzprYOmTPselk8.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-2019-bacurau",
+      "mediaType": "movie",
+      "title": "巴克劳",
+      "awardYear": 2019,
+      "winner": "Kleber Mendonça Filho; Juliano Dornelles",
+      "releaseDate": "2019-08-29",
+      "externalIds": {
+        "tmdb": "446159"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/tBa4zMGzZUco26XT3WfZZCwQ76i.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-2019-les-miserables",
+      "mediaType": "movie",
+      "title": "悲惨世界",
+      "awardYear": 2019,
+      "winner": "Ladj Ly",
+      "releaseDate": "2019-11-14",
+      "externalIds": {
+        "tmdb": "586863"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/2ZQV9rPFXF0iFfKbsAvVIweQ1yM.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-2021-ahed-s-knee",
+      "mediaType": "movie",
+      "title": "阿赫德的膝盖",
+      "awardYear": 2021,
+      "winner": "Nadav Lapid",
+      "releaseDate": "2021-08-05",
+      "externalIds": {
+        "tmdb": "662029"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/rNoaBDAC1fknNNpl93uSkFsz3NP.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-2021-memoria",
+      "mediaType": "movie",
+      "title": "记忆",
+      "awardYear": 2021,
+      "winner": "Apichatpong Weerasethakul",
+      "releaseDate": "2021-09-30",
+      "externalIds": {
+        "tmdb": "511819"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/mkJl2dVJnPgWAALCuIXJ61TlwHf.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-2022-the-eight-mountains",
+      "mediaType": "movie",
+      "title": "八座山",
+      "awardYear": 2022,
+      "winner": "Felix van Groeningen; Charlotte Vandermeersch",
+      "releaseDate": "2022-12-21",
+      "externalIds": {
+        "tmdb": "803700"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/ohD87uTlwOgNuUEYaW82ew9Eds7.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-2022-eo",
+      "mediaType": "movie",
+      "title": "驴叫",
+      "awardYear": 2022,
+      "winner": "Jerzy Skolimowski",
+      "releaseDate": "2022-09-30",
+      "externalIds": {
+        "tmdb": "785398"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/1MK86Vr2nf1GSYOtRd8pFvA5RM8.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-2023-fallen-leaves",
+      "mediaType": "movie",
+      "title": "枯叶",
+      "awardYear": 2023,
+      "winner": "Aki Kaurismäki",
+      "releaseDate": "2023-09-14",
+      "externalIds": {
+        "tmdb": "986280"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/9ayYOpeqHhxfHHUoyt3kXzznECO.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-2024-emilia-perez",
+      "mediaType": "movie",
+      "title": "艾米莉亚·佩雷斯",
+      "awardYear": 2024,
+      "winner": "Jacques Audiard",
+      "releaseDate": "2024-08-21",
+      "externalIds": {
+        "tmdb": "974950"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/7seqaCaaXDNUHOx4DqwpoOH8pPa.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-2025-sirat",
+      "mediaType": "movie",
+      "title": "接近终点",
+      "awardYear": 2025,
+      "winner": "Oliver Laxe",
+      "releaseDate": "2025-06-06",
+      "externalIds": {
+        "tmdb": "1151272"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/bzBtsLi17rK4G6kDvOXfUZfAhca.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-2025-sound-of-falling",
+      "mediaType": "movie",
+      "title": "望向太阳",
+      "awardYear": 2025,
+      "winner": "Mascha Schilinski",
+      "releaseDate": "2025-08-28",
+      "externalIds": {
+        "tmdb": "1221061"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/5hLiXAqZ3xTHExOIsxYANIswBjZ.jpg"
+    },
+    {
+      "id": "cannes-jury-prize-2026-the-dreamed-adventure",
+      "mediaType": "movie",
+      "title": "向往的冒险",
+      "awardYear": 2026,
+      "winner": "Valeska Grisebach",
+      "releaseDate": "2026-07-15",
+      "externalIds": {
+        "tmdb": "1013822"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/26MIN6Xz6QInqYzDd17c243Uxne.jpg"
+    }
+  ]
+}

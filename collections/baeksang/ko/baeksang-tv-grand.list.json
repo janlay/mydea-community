@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-12T02:53:58Z",
+  "title": "백상예술대상 — 방송부문 대상",
+  "description": "2017–2026년 백상예술대상 방송부문 대상 수상 기록.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "baeksang-2017-tv-grand-goblin",
+      "mediaType": "tv",
+      "title": "도깨비",
+      "englishTitle": "Guardian: The Lonely and Great God",
+      "awardYear": 2017,
+      "winner": "Kim Eun-sook",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5994364"
+      }
+    },
+    {
+      "id": "baeksang-2018-tv-grand-stranger",
+      "mediaType": "tv",
+      "title": "비밀의 숲",
+      "englishTitle": "Stranger",
+      "awardYear": 2018,
+      "winner": "비밀의 숲",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6461346"
+      }
+    },
+    {
+      "id": "baeksang-2019-tv-grand-light-eyes",
+      "mediaType": "tv",
+      "title": "눈이 부시게",
+      "englishTitle": "The Light in Your Eyes",
+      "awardYear": 2019,
+      "winner": "Kim Hye-ja",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt9466968"
+      }
+    },
+    {
+      "id": "baeksang-2020-tv-grand-camellia",
+      "mediaType": "tv",
+      "title": "동백꽃 필 무렵",
+      "englishTitle": "When the Camellia Blooms",
+      "awardYear": 2020,
+      "winner": "동백꽃 필 무렵",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10826064"
+      }
+    },
+    {
+      "id": "baeksang-2022-tv-grand-squid-game",
+      "mediaType": "tv",
+      "title": "오징어 게임",
+      "englishTitle": "Squid Game",
+      "awardYear": 2022,
+      "winner": "오징어 게임",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt10919420"
+      }
+    },
+    {
+      "id": "baeksang-2023-tv-grand-attorney-woo",
+      "mediaType": "tv",
+      "title": "이상한 변호사 우영우",
+      "englishTitle": "Extraordinary Attorney Woo",
+      "awardYear": 2023,
+      "winner": "Park Eun-bin",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt20869502"
+      }
+    },
+    {
+      "id": "baeksang-2024-tv-grand-moving",
+      "mediaType": "tv",
+      "title": "무빙",
+      "englishTitle": "Moving",
+      "awardYear": 2024,
+      "winner": "무빙",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt24640580"
+      }
+    },
+    {
+      "id": "baeksang-2025-tv-grand-culinary",
+      "mediaType": "tv",
+      "title": "흑백요리사: 요리 계급 전쟁",
+      "englishTitle": "Culinary Class Wars",
+      "awardYear": 2025,
+      "winner": "흑백요리사: 요리 계급 전쟁",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt33040785"
+      }
+    },
+    {
+      "id": "baeksang-2026-tv-grand-dream-kim",
+      "mediaType": "tv",
+      "title": "서울 자가에 대기업 다니는 김 부장 이야기",
+      "englishTitle": "The Dream Life of Mr. Kim",
+      "awardYear": 2026,
+      "winner": "Ryu Seung-ryong",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt38570528"
+      }
+    }
+  ]
+}

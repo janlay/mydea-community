@@ -1,0 +1,537 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:30:00Z",
+  "title": "Berlinale — Silver Bear for Outstanding Artistic Contribution",
+  "description": "Complete historical winners of the Berlinale Silver Bear for Outstanding Artistic Contribution.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "berlinale-outstanding-artistic-contribution-1956-la-sorciere",
+      "mediaType": "movie",
+      "title": "La Sorcière",
+      "awardYear": 1956,
+      "winner": "André Michel",
+      "releaseDate": "1956",
+      "externalIds": {
+        "letterboxd": "la-sorciere"
+      }
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-1972-hammersmith-is-out",
+      "mediaType": "movie",
+      "title": "Hammersmith Is Out",
+      "awardYear": 1972,
+      "winner": "Peter Ustinov",
+      "releaseDate": "1972",
+      "externalIds": {
+        "letterboxd": "hammersmith-is-out"
+      }
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-1975-love-and-death",
+      "mediaType": "movie",
+      "title": "Love and Death",
+      "awardYear": 1975,
+      "winner": "Woody Allen",
+      "releaseDate": "1975",
+      "externalIds": {
+        "letterboxd": "love-and-death"
+      }
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-1976-man-without-a-name",
+      "mediaType": "movie",
+      "title": "Man Without a Name",
+      "awardYear": 1976,
+      "winner": "László Lugossy",
+      "releaseDate": "1976",
+      "externalIds": {
+        "letterboxd": "man-without-a-name"
+      }
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-1978-the-teacher",
+      "mediaType": "movie",
+      "title": "The Teacher",
+      "awardYear": 1978,
+      "winner": "Octavio Cortázar",
+      "releaseDate": "1978",
+      "externalIds": {
+        "letterboxd": "the-teacher"
+      }
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-1978-death-of-a-president",
+      "mediaType": "movie",
+      "title": "Death of a President",
+      "awardYear": 1978,
+      "winner": "Jerzy Kawalerowicz",
+      "releaseDate": "1978",
+      "externalIds": {
+        "letterboxd": "death-of-a-president"
+      }
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-1985-ronia-the-robber-s-daughter",
+      "mediaType": "movie",
+      "title": "Ronia, the Robber's Daughter",
+      "awardYear": 1985,
+      "winner": "Tage Danielsson",
+      "releaseDate": "1985",
+      "externalIds": {
+        "letterboxd": "ronia-the-robber-s-daughter"
+      }
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-1986-gonza-the-spearman",
+      "mediaType": "movie",
+      "title": "Gonza the Spearman",
+      "awardYear": 1986,
+      "winner": "Masahiro Shinoda",
+      "releaseDate": "1986",
+      "externalIds": {
+        "letterboxd": "gonza-the-spearman"
+      }
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-1987-children-of-a-lesser-god",
+      "mediaType": "movie",
+      "title": "Children of a Lesser God",
+      "awardYear": 1987,
+      "winner": "Randa Haines",
+      "releaseDate": "1987",
+      "externalIds": {
+        "letterboxd": "children-of-a-lesser-god"
+      }
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-1988-veronico-cruz",
+      "mediaType": "movie",
+      "title": "Verónico Cruz",
+      "awardYear": 1988,
+      "winner": "Miguel Pereira",
+      "releaseDate": "1988",
+      "externalIds": {
+        "letterboxd": "veronico-cruz"
+      }
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-1989-aviya-s-summer",
+      "mediaType": "movie",
+      "title": "Aviya's Summer",
+      "awardYear": 1989,
+      "winner": "Kaipo Cohen & Gila Almagor",
+      "releaseDate": "1989",
+      "externalIds": {
+        "letterboxd": "aviya-s-summer"
+      }
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-1990-coming-out",
+      "mediaType": "movie",
+      "title": "Coming Out",
+      "awardYear": 1990,
+      "winner": "Heiner Carow",
+      "releaseDate": "1990",
+      "externalIds": {
+        "letterboxd": "coming-out"
+      }
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-1992-prince-of-shadows",
+      "mediaType": "movie",
+      "title": "Prince of Shadows",
+      "awardYear": 1992,
+      "winner": "Pilar Miró",
+      "releaseDate": "1992",
+      "externalIds": {
+        "letterboxd": "prince-of-shadows"
+      }
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-1993-the-sun-of-the-sleepless",
+      "mediaType": "movie",
+      "title": "The Sun of the Sleepless",
+      "awardYear": 1993,
+      "winner": "Temur Babluani",
+      "releaseDate": "1993",
+      "externalIds": {
+        "letterboxd": "the-sun-of-the-sleepless"
+      }
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-1994-the-year-of-the-dog",
+      "mediaType": "movie",
+      "title": "The Year of the Dog",
+      "awardYear": 1994,
+      "winner": "Semyon Aranovich",
+      "releaseDate": "1994",
+      "externalIds": {
+        "letterboxd": "the-year-of-the-dog"
+      }
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-1996-holy-week",
+      "mediaType": "movie",
+      "title": "Holy Week",
+      "awardYear": 1996,
+      "winner": "Andrzej Wajda",
+      "releaseDate": "1996",
+      "externalIds": {
+        "letterboxd": "holy-week"
+      }
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-1997-genealogies-of-a-crime",
+      "mediaType": "movie",
+      "title": "Genealogies of a Crime",
+      "awardYear": 1997,
+      "winner": "Raúl Ruiz",
+      "releaseDate": "1997",
+      "externalIds": {
+        "letterboxd": "genealogies-of-a-crime"
+      }
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-1998-same-old-song",
+      "mediaType": "movie",
+      "title": "Same Old Song",
+      "awardYear": 1998,
+      "winner": "Alain Resnais",
+      "releaseDate": "1998",
+      "externalIds": {
+        "letterboxd": "same-old-song"
+      }
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-1999-existenz",
+      "mediaType": "movie",
+      "title": "eXistenZ",
+      "awardYear": 1999,
+      "winner": "David Cronenberg",
+      "releaseDate": "1999",
+      "externalIds": {
+        "letterboxd": "existenz"
+      }
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-2000-paradiso-seven-days-with-seven-women",
+      "mediaType": "movie",
+      "title": "Paradiso: Seven Days with Seven Women",
+      "awardYear": 2000,
+      "winner": "Ensemble Cast",
+      "releaseDate": "2000",
+      "externalIds": {
+        "letterboxd": "paradiso-seven-days-with-seven-women"
+      }
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-2001-you-re-the-one",
+      "mediaType": "movie",
+      "title": "You're the One",
+      "awardYear": 2001,
+      "winner": "Raúl Pérez Cubero",
+      "releaseDate": "2001",
+      "externalIds": {
+        "letterboxd": "you-re-the-one"
+      }
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-2002-8-women",
+      "mediaType": "movie",
+      "title": "8 Women",
+      "awardYear": 2002,
+      "winner": "Female Ensemble Cast",
+      "releaseDate": "2002",
+      "externalIds": {
+        "letterboxd": "8-women"
+      }
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-2003-blind-shaft",
+      "mediaType": "movie",
+      "title": "Blind Shaft",
+      "awardYear": 2003,
+      "winner": "Li Yang",
+      "releaseDate": "2003",
+      "externalIds": {
+        "letterboxd": "blind-shaft"
+      }
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-2004-daybreak",
+      "mediaType": "movie",
+      "title": "Daybreak",
+      "awardYear": 2004,
+      "winner": "Ensemble Cast",
+      "releaseDate": "2004",
+      "externalIds": {
+        "letterboxd": "daybreak"
+      }
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-2005-the-wayward-cloud",
+      "mediaType": "movie",
+      "title": "The Wayward Cloud",
+      "awardYear": 2005,
+      "winner": "Tsai Ming-liang",
+      "releaseDate": "2005",
+      "externalIds": {
+        "letterboxd": "the-wayward-cloud"
+      }
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-2006-the-free-will",
+      "mediaType": "movie",
+      "title": "The Free Will",
+      "awardYear": 2006,
+      "winner": "Jürgen Vogel",
+      "releaseDate": "2006",
+      "externalIds": {
+        "letterboxd": "the-free-will"
+      }
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-2007-the-good-shepherd",
+      "mediaType": "movie",
+      "title": "The Good Shepherd",
+      "awardYear": 2007,
+      "winner": "Ensemble Cast",
+      "releaseDate": "2007",
+      "externalIds": {
+        "letterboxd": "the-good-shepherd"
+      }
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-2008-there-will-be-blood",
+      "mediaType": "movie",
+      "title": "There Will Be Blood",
+      "awardYear": 2008,
+      "winner": "Jonny Greenwood",
+      "releaseDate": "2008",
+      "externalIds": {
+        "letterboxd": "there-will-be-blood"
+      }
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-2009-katalin-varga",
+      "mediaType": "movie",
+      "title": "Katalin Varga",
+      "awardYear": 2009,
+      "winner": "György Kovács, Gábor Erdélyi & Tamás Székely",
+      "releaseDate": "2009",
+      "externalIds": {
+        "letterboxd": "katalin-varga"
+      }
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-2010-how-i-ended-this-summer",
+      "mediaType": "movie",
+      "title": "How I Ended This Summer",
+      "awardYear": 2010,
+      "winner": "Pavel Kostomarov",
+      "releaseDate": "2010",
+      "externalIds": {
+        "letterboxd": "how-i-ended-this-summer"
+      }
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-2011-the-prize",
+      "mediaType": "movie",
+      "title": "The Prize",
+      "awardYear": 2011,
+      "winner": "Barbara Enriquez & Wojciech Staroń",
+      "releaseDate": "2011",
+      "externalIds": {
+        "letterboxd": "the-prize"
+      }
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-2012-white-deer-plain",
+      "mediaType": "movie",
+      "title": "White Deer Plain",
+      "awardYear": 2012,
+      "winner": "Lutz Reitemeier",
+      "releaseDate": "2012",
+      "externalIds": {
+        "letterboxd": "white-deer-plain"
+      }
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-2013-harmony-lessons",
+      "mediaType": "movie",
+      "title": "Harmony Lessons",
+      "awardYear": 2013,
+      "winner": "Aziz Zhambakiyev",
+      "releaseDate": "2013",
+      "externalIds": {
+        "letterboxd": "harmony-lessons"
+      }
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-2014-blind-massage",
+      "mediaType": "movie",
+      "title": "Blind Massage",
+      "awardYear": 2014,
+      "winner": "Zeng Jian",
+      "releaseDate": "2014",
+      "externalIds": {
+        "letterboxd": "blind-massage"
+      }
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-2015-victoria",
+      "mediaType": "movie",
+      "title": "Victoria",
+      "awardYear": 2015,
+      "winner": "Sturla Brandth Grøvlen",
+      "releaseDate": "2015",
+      "externalIds": {
+        "letterboxd": "victoria"
+      }
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-2015-under-electric-clouds",
+      "mediaType": "movie",
+      "title": "Under Electric Clouds",
+      "awardYear": 2015,
+      "winner": "Serhiy Mykhalchuk & Evgeniy Privin",
+      "releaseDate": "2015",
+      "externalIds": {
+        "letterboxd": "under-electric-clouds"
+      }
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-2016-crosscurrent",
+      "mediaType": "movie",
+      "title": "Crosscurrent",
+      "awardYear": 2016,
+      "winner": "Mark Lee Ping Bin",
+      "releaseDate": "2016",
+      "externalIds": {
+        "letterboxd": "crosscurrent"
+      }
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-2017-ana-mon-amour",
+      "mediaType": "movie",
+      "title": "Ana, mon amour",
+      "awardYear": 2017,
+      "winner": "Dana Bunescu",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5964626"
+      }
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-2018-dovlatov",
+      "mediaType": "movie",
+      "title": "Dovlatov",
+      "awardYear": 2018,
+      "winner": "Elena Okopnaya",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7763020"
+      }
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-2019-out-stealing-horses",
+      "mediaType": "movie",
+      "title": "Out Stealing Horses",
+      "awardYear": 2019,
+      "winner": "Rasmus Videbæk",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt8000908"
+      }
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-2020-dau-natasha",
+      "mediaType": "movie",
+      "title": "DAU. Natasha",
+      "awardYear": 2020,
+      "winner": "Jürgen Jürges",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt11905962"
+      }
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-2021-a-cop-movie",
+      "mediaType": "movie",
+      "title": "A Cop Movie",
+      "awardYear": 2021,
+      "winner": "Yibrán Asuad",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14035242"
+      }
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-2022-everything-will-be-ok",
+      "mediaType": "movie",
+      "title": "Everything Will Be Ok",
+      "awardYear": 2022,
+      "winner": "Rithy Panh & Sarit Mang",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt15386518"
+      }
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-2023-disco-boy",
+      "mediaType": "movie",
+      "title": "Disco Boy",
+      "awardYear": 2023,
+      "winner": "Hélène Louvart",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt22180518"
+      }
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-2024-the-devil-s-bath",
+      "mediaType": "movie",
+      "title": "The Devil's Bath",
+      "awardYear": 2024,
+      "winner": "Martin Gschlacht",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt29141112"
+      }
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-2025-the-ice-tower",
+      "mediaType": "movie",
+      "title": "The Ice Tower",
+      "awardYear": 2025,
+      "winner": "Lucile Hadžihalilović and creative ensemble",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt28171985"
+      }
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-2026-yo-love-is-a-rebellious-bird",
+      "mediaType": "movie",
+      "title": "Yo (Love Is a Rebellious Bird)",
+      "awardYear": 2026,
+      "winner": "Anna Fitch & Banker White",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt39382829"
+      }
+    }
+  ]
+}

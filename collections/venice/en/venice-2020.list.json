@@ -1,0 +1,116 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:30:00Z",
+  "title": "Venice Film Festival 2020 Awards",
+  "description": "Main Competition official award-winning films at the 2020 Venice International Film Festival.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "venice-golden-lion-2020-nomadland-1",
+      "mediaType": "movie",
+      "title": "Nomadland",
+      "releaseDate": "2020",
+      "externalIds": {
+        "letterboxd": "nomadland"
+      },
+      "awardYear": 2020,
+      "winner": "Chloé Zhao",
+      "award": "Golden Lion"
+    },
+    {
+      "id": "venice-grand-jury-prize-2020-new-order-2",
+      "mediaType": "movie",
+      "title": "New Order",
+      "releaseDate": "2020",
+      "externalIds": {
+        "letterboxd": "new-order"
+      },
+      "awardYear": 2020,
+      "winner": "Michel Franco",
+      "award": "Silver Lion – Grand Jury Prize"
+    },
+    {
+      "id": "venice-best-director-2020-wife-of-a-spy-3",
+      "mediaType": "movie",
+      "title": "Wife of a Spy",
+      "releaseDate": "2020",
+      "externalIds": {
+        "letterboxd": "wife-of-a-spy"
+      },
+      "awardYear": 2020,
+      "winner": "Kiyoshi Kurosawa",
+      "award": "Silver Lion – Best Director"
+    },
+    {
+      "id": "venice-best-actress-2020-pieces-of-a-woman-4",
+      "mediaType": "movie",
+      "title": "Pieces of a Woman",
+      "releaseDate": "2020",
+      "externalIds": {
+        "letterboxd": "pieces-of-a-woman"
+      },
+      "awardYear": 2020,
+      "winner": "Vanessa Kirby",
+      "award": "Volpi Cup for Best Actress"
+    },
+    {
+      "id": "venice-best-actor-2020-padrenostro-5",
+      "mediaType": "movie",
+      "title": "Padrenostro",
+      "releaseDate": "2020",
+      "externalIds": {
+        "letterboxd": "padrenostro"
+      },
+      "awardYear": 2020,
+      "winner": "Pierfrancesco Favino",
+      "award": "Volpi Cup for Best Actor"
+    },
+    {
+      "id": "venice-best-screenplay-2020-the-disciple-6",
+      "mediaType": "movie",
+      "title": "The Disciple",
+      "releaseDate": "2020",
+      "externalIds": {
+        "letterboxd": "the-disciple"
+      },
+      "awardYear": 2020,
+      "winner": "Chaitanya Tamhane",
+      "award": "Best Screenplay"
+    },
+    {
+      "id": "venice-special-jury-prize-2020-dear-comrades-7",
+      "mediaType": "movie",
+      "title": "Dear Comrades!",
+      "releaseDate": "2020",
+      "externalIds": {
+        "letterboxd": "dear-comrades"
+      },
+      "awardYear": 2020,
+      "winner": "Andrei Konchalovsky",
+      "award": "Special Jury Prize"
+    },
+    {
+      "id": "venice-mastroianni-2020-sun-children-8",
+      "mediaType": "movie",
+      "title": "Sun Children",
+      "releaseDate": "2020",
+      "externalIds": {
+        "letterboxd": "sun-children"
+      },
+      "awardYear": 2020,
+      "winner": "Rouhollah Zamani",
+      "award": "Marcello Mastroianni Award"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "ChatGPT",
+  "title": "中国电影金鸡奖 2017 年获奖名单",
+  "description": "第31届中国电影金鸡奖主要获奖影片与影人。",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "golden-rooster-2017.list.json"
+    }
+  ]
+}

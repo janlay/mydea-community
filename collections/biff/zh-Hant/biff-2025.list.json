@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "釜山國際影展 2025 年得獎名單",
+  "description": "釜山國際影展 2025 年核心競賽獎得獎影片。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "biff-2025-busan-best-film-gloaming-in-luomu",
+      "mediaType": "movie",
+      "title": "Gloaming in Luomu",
+      "award": "釜山獎 最佳影片",
+      "awardYear": 2025,
+      "awardOrder": 1,
+      "winner": "ZHANG Lu",
+      "releaseDate": "2025",
+      "externalIds": {
+        "letterboxd": "gloaming-in-luomu"
+      }
+    },
+    {
+      "id": "biff-2025-new-currents-en-route-to",
+      "mediaType": "movie",
+      "title": "En Route To",
+      "award": "新浪潮獎",
+      "awardYear": 2025,
+      "awardOrder": 2,
+      "winner": "YOO Jaein",
+      "releaseDate": "2025",
+      "externalIds": {
+        "letterboxd": "en-route-to"
+      }
+    },
+    {
+      "id": "biff-2025-mecenat-raining-dust",
+      "mediaType": "movie",
+      "title": "Raining Dust",
+      "award": "BIFF Mecenat獎",
+      "awardYear": 2025,
+      "awardOrder": 3,
+      "winner": "JU Romi, KIM Taeil",
+      "releaseDate": "2025",
+      "externalIds": {
+        "letterboxd": "raining-dust"
+      }
+    },
+    {
+      "id": "biff-2025-mecenat-singing-wings",
+      "mediaType": "movie",
+      "title": "Singing Wings",
+      "award": "BIFF Mecenat獎",
+      "awardYear": 2025,
+      "awardOrder": 4,
+      "winner": "Hemen KHALEDI",
+      "releaseDate": "2025",
+      "externalIds": {
+        "letterboxd": "singing-wings"
+      }
+    },
+    {
+      "id": "biff-2025-sonje-it-sounds-louder-on-rainy-days",
+      "mediaType": "movie",
+      "title": "It Sounds Louder on Rainy Days",
+      "award": "Sonje獎",
+      "awardYear": 2025,
+      "awardOrder": 5,
+      "winner": "KIM Sang-yun",
+      "releaseDate": "2025",
+      "externalIds": {
+        "letterboxd": "it-sounds-louder-on-rainy-days"
+      }
+    },
+    {
+      "id": "biff-2025-sonje-delay",
+      "mediaType": "movie",
+      "title": "Delay",
+      "award": "Sonje獎",
+      "awardYear": 2025,
+      "awardOrder": 6,
+      "winner": "WANG Han-xuan",
+      "releaseDate": "2025",
+      "externalIds": {
+        "letterboxd": "delay"
+      }
+    }
+  ]
+}

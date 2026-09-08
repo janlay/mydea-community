@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "ChatGPT",
+  "title": "백상예술대상 — 2021",
+  "description": "2021년 백상예술대상 영화·방송 주요 수상 기록.",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "baeksang-2021.list.json"
+    }
+  ]
+}

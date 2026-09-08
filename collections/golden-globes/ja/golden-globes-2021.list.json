@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "ゴールデングローブ賞 2021",
+  "description": "2021年のゴールデングローブ賞主要映画・テレビ作品部門の受賞一覧。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "golden-globes-2021-drama-nomadland",
+      "mediaType": "movie",
+      "title": "ノマドランド",
+      "englishTitle": "Nomadland",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt9770150"
+      },
+      "award": "作品賞 ドラマ部門",
+      "awardYear": 2021,
+      "awardOrder": 1,
+      "winner": "ノマドランド"
+    },
+    {
+      "id": "golden-globes-2021-comedy-borat-subsequent-moviefilm",
+      "mediaType": "movie",
+      "title": "Borat Subsequent Moviefilm",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt13143964"
+      },
+      "award": "作品賞 ミュージカル・コメディ部門",
+      "awardYear": 2021,
+      "awardOrder": 2,
+      "winner": "Borat Subsequent Moviefilm"
+    },
+    {
+      "id": "golden-globes-2021-animated-soul",
+      "mediaType": "movie",
+      "title": "ソウルフル・ワールド",
+      "englishTitle": "Soul",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt2948372"
+      },
+      "award": "アニメーション映画賞",
+      "awardYear": 2021,
+      "awardOrder": 3,
+      "winner": "ソウルフル・ワールド"
+    },
+    {
+      "id": "golden-globes-2021-foreign-minari",
+      "mediaType": "movie",
+      "title": "ミナリ",
+      "englishTitle": "Minari",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10633456"
+      },
+      "award": "非英語映画賞",
+      "awardYear": 2021,
+      "awardOrder": 4,
+      "winner": "ミナリ"
+    },
+    {
+      "id": "golden-globes-2021-tv_drama-the-crown",
+      "mediaType": "tv",
+      "title": "ザ・クラウン",
+      "englishTitle": "The Crown",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4786824"
+      },
+      "award": "テレビドラマ作品賞",
+      "awardYear": 2021,
+      "awardOrder": 5,
+      "winner": "ザ・クラウン"
+    },
+    {
+      "id": "golden-globes-2021-tv_comedy-schitt-s-creek",
+      "mediaType": "tv",
+      "title": "Schitt's Creek",
+      "releaseDate": "2015",
+      "externalIds": {
+        "imdb": "tt3526078"
+      },
+      "award": "テレビ作品賞 ミュージカル・コメディ部門",
+      "awardYear": 2021,
+      "awardOrder": 6,
+      "winner": "Schitt's Creek"
+    },
+    {
+      "id": "golden-globes-2021-limited-the-queen-s-gambit",
+      "mediaType": "tv",
+      "title": "クイーンズ・ギャンビット",
+      "englishTitle": "The Queen's Gambit",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10048342"
+      },
+      "award": "リミテッドシリーズ・アンソロジー・テレビ映画賞",
+      "awardYear": 2021,
+      "awardOrder": 7,
+      "winner": "クイーンズ・ギャンビット"
+    }
+  ]
+}

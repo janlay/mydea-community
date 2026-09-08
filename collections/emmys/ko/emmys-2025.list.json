@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T05:03:35Z",
+  "title": "프라임타임 에미상 2025 수상 목록",
+  "description": "제77회 프라임타임 에미상 주요 부문 수상 기록.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "emmys-2025-drama-series-the-pitt",
+      "mediaType": "tv",
+      "title": "더 피트",
+      "originalTitle": "The Pitt",
+      "award": "최우수 드라마 시리즈",
+      "awardYear": 2025,
+      "awardOrder": 1,
+      "winner": "The Pitt",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31938062"
+      }
+    },
+    {
+      "id": "emmys-2025-comedy-series-the-studio",
+      "mediaType": "tv",
+      "title": "더 스튜디오",
+      "originalTitle": "The Studio",
+      "award": "최우수 코미디 시리즈",
+      "awardYear": 2025,
+      "awardOrder": 2,
+      "winner": "The Studio",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt23649128"
+      }
+    },
+    {
+      "id": "emmys-2025-limited-series-adolescence",
+      "mediaType": "tv",
+      "title": "소년의 시간",
+      "originalTitle": "Adolescence",
+      "award": "최우수 리미티드 또는 앤솔러지 시리즈",
+      "awardYear": 2025,
+      "awardOrder": 3,
+      "winner": "Adolescence",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31806037"
+      }
+    },
+    {
+      "id": "emmys-2025-lead-actor-drama-the-pitt",
+      "mediaType": "tv",
+      "title": "더 피트",
+      "originalTitle": "The Pitt",
+      "award": "드라마 시리즈 남우주연상",
+      "awardYear": 2025,
+      "awardOrder": 4,
+      "winner": "Noah Wyle",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31938062"
+      }
+    },
+    {
+      "id": "emmys-2025-lead-actress-drama-severance",
+      "mediaType": "tv",
+      "title": "세브란스: 단절",
+      "originalTitle": "Severance",
+      "award": "드라마 시리즈 여우주연상",
+      "awardYear": 2025,
+      "awardOrder": 5,
+      "winner": "Britt Lower",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt11280740"
+      }
+    },
+    {
+      "id": "emmys-2025-lead-actor-comedy-the-studio",
+      "mediaType": "tv",
+      "title": "더 스튜디오",
+      "originalTitle": "The Studio",
+      "award": "코미디 시리즈 남우주연상",
+      "awardYear": 2025,
+      "awardOrder": 6,
+      "winner": "Seth Rogen",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt23649128"
+      }
+    },
+    {
+      "id": "emmys-2025-lead-actress-comedy-hacks",
+      "mediaType": "tv",
+      "title": "Hacks",
+      "award": "코미디 시리즈 여우주연상",
+      "awardYear": 2025,
+      "awardOrder": 7,
+      "winner": "Jean Smart",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt11815682"
+      }
+    }
+  ]
+}

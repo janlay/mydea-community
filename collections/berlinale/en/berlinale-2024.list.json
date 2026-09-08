@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:30:00Z",
+  "title": "Berlinale 2024 Awards",
+  "description": "Major Competition International Jury award winners at the 2024 Berlin International Film Festival.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "berlinale-2024-golden-bear-dahomey",
+      "mediaType": "movie",
+      "title": "Dahomey",
+      "award": "Golden Bear for Best Film",
+      "awardYear": 2024,
+      "awardOrder": 1,
+      "winner": "Mati Diop",
+      "releaseDate": "2024",
+      "externalIds": {
+        "tmdb": "1101256",
+        "imdb": "tt30057084"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/9d8KvJ3OjUq9rwuM743QPQO48aL.jpg"
+    },
+    {
+      "id": "berlinale-2024-grand-jury-a-traveler-s-needs",
+      "mediaType": "movie",
+      "title": "A Traveler's Needs",
+      "award": "Silver Bear Grand Jury Prize",
+      "awardYear": 2024,
+      "awardOrder": 2,
+      "winner": "Hong Sangsoo",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt31015344"
+      }
+    },
+    {
+      "id": "berlinale-2024-jury-prize-the-empire",
+      "mediaType": "movie",
+      "title": "The Empire",
+      "award": "Silver Bear Jury Prize",
+      "awardYear": 2024,
+      "awardOrder": 3,
+      "winner": "Bruno Dumont",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt17375596"
+      }
+    },
+    {
+      "id": "berlinale-2024-best-director-pepe",
+      "mediaType": "movie",
+      "title": "Pepe",
+      "award": "Silver Bear for Best Director",
+      "awardYear": 2024,
+      "awardOrder": 4,
+      "winner": "Nelson Carlos De Los Santos Arias",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt10781034"
+      }
+    },
+    {
+      "id": "berlinale-2024-leading-performance-a-different-man",
+      "mediaType": "movie",
+      "title": "A Different Man",
+      "award": "Silver Bear for Best Leading Performance",
+      "awardYear": 2024,
+      "awardOrder": 5,
+      "winner": "Sebastian Stan",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt21097228"
+      }
+    },
+    {
+      "id": "berlinale-2024-supporting-performance-small-things-like-these",
+      "mediaType": "movie",
+      "title": "Small Things Like These",
+      "award": "Silver Bear for Best Supporting Performance",
+      "awardYear": 2024,
+      "awardOrder": 6,
+      "winner": "Emily Watson",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt27165281"
+      }
+    },
+    {
+      "id": "berlinale-2024-best-screenplay-dying",
+      "mediaType": "movie",
+      "title": "Dying",
+      "award": "Silver Bear for Best Screenplay",
+      "awardYear": 2024,
+      "awardOrder": 7,
+      "winner": "Matthias Glasner",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt27196021"
+      }
+    },
+    {
+      "id": "berlinale-2024-artistic-contribution-the-devil-s-bath",
+      "mediaType": "movie",
+      "title": "The Devil's Bath",
+      "award": "Silver Bear for Outstanding Artistic Contribution",
+      "awardYear": 2024,
+      "awardOrder": 8,
+      "winner": "Martin Gschlacht",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt29141112"
+      }
+    }
+  ]
+}

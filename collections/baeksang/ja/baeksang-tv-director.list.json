@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-12T02:58:14Z",
+  "title": "百想芸術大賞 — テレビ部門 演出賞",
+  "description": "百想芸術大賞のテレビ部門演出賞受賞作。 2017年から2026年までを収録。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "baeksang-2017-tv-director-dr-romantic",
+      "mediaType": "tv",
+      "title": "浪漫ドクター キム・サブ",
+      "originalTitle": "낭만닥터 김사부",
+      "awardYear": 2017,
+      "winner": "ユ・インシク",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt6157190"
+      }
+    },
+    {
+      "id": "baeksang-2018-tv-director-lady-dignity",
+      "mediaType": "tv",
+      "title": "品位のある彼女",
+      "originalTitle": "품위있는 그녀",
+      "awardYear": 2018,
+      "winner": "キム・ユンチョル",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6898288"
+      }
+    },
+    {
+      "id": "baeksang-2019-tv-director-sky-castle",
+      "mediaType": "tv",
+      "title": "SKYキャッスル ～上流階級の妻たち～",
+      "originalTitle": "SKY 캐슬",
+      "awardYear": 2019,
+      "winner": "チョ・ヒョンタク",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt9151274"
+      }
+    },
+    {
+      "id": "baeksang-2020-tv-director-world-married",
+      "mediaType": "tv",
+      "title": "夫婦の世界",
+      "originalTitle": "부부의 세계",
+      "awardYear": 2020,
+      "winner": "モ・ワニル",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt12042964"
+      }
+    },
+    {
+      "id": "baeksang-2021-tv-director-flower-evil",
+      "mediaType": "tv",
+      "title": "悪の花",
+      "originalTitle": "악의 꽃",
+      "awardYear": 2021,
+      "winner": "キム・チョルギュ",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt11691684"
+      }
+    },
+    {
+      "id": "baeksang-2022-tv-director-squid-game",
+      "mediaType": "tv",
+      "title": "イカゲーム",
+      "originalTitle": "오징어 게임",
+      "awardYear": 2022,
+      "winner": "ファン・ドンヒョク",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt10919420"
+      }
+    },
+    {
+      "id": "baeksang-2023-tv-director-attorney-woo",
+      "mediaType": "tv",
+      "title": "ウ・ヨンウ弁護士は天才肌",
+      "originalTitle": "이상한 변호사 우영우",
+      "awardYear": 2023,
+      "winner": "ユ・インシク",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt20869502"
+      }
+    },
+    {
+      "id": "baeksang-2024-tv-director-worst-evil",
+      "mediaType": "tv",
+      "title": "最悪の悪",
+      "originalTitle": "최악의 악",
+      "awardYear": 2024,
+      "winner": "ハン・ドンウク",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt20600022"
+      }
+    },
+    {
+      "id": "baeksang-2025-tv-director-doubt",
+      "mediaType": "tv",
+      "title": "こんなに親密な裏切り者",
+      "originalTitle": "이토록 친밀한 배신자",
+      "awardYear": 2025,
+      "winner": "ソン・ヨナ",
+      "releaseDate": "2024",
+      "externalIds": {
+        "tmdb": "240942"
+      }
+    },
+    {
+      "id": "baeksang-2026-tv-director-unwritten-seoul",
+      "mediaType": "tv",
+      "title": "未知のソウル",
+      "originalTitle": "미지의 서울",
+      "awardYear": 2026,
+      "winner": "パク・シヌ",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt36724865"
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "Mydea",
+  "title": "香港電影金像獎 — 最佳女配角",
+  "description": "香港電影金像獎歷屆最佳女配角得獎記錄。",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "hkfa-best-supporting-actress.list.json"
+    }
+  ]
+}

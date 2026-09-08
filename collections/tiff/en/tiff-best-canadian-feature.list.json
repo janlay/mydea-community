@@ -1,0 +1,493 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T03:47:39Z",
+  "title": "Toronto — Best Canadian Feature Film",
+  "description": "Historical winners of the TIFF Best Canadian Feature Film.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "tiff-best-canadian-feature-1984-a-woman-in-transit",
+      "mediaType": "movie",
+      "title": "A Woman in Transit",
+      "releaseDate": "1984",
+      "externalIds": {
+        "letterboxd": "a-woman-in-transit"
+      },
+      "awardYear": 1984,
+      "winner": "Léa Pool"
+    },
+    {
+      "id": "tiff-best-canadian-feature-1985-canada-s-sweetheart-the-saga-of-hal-c-banks",
+      "mediaType": "movie",
+      "title": "Canada's Sweetheart: The Saga of Hal C. Banks",
+      "releaseDate": "1985",
+      "externalIds": {
+        "letterboxd": "canada-s-sweetheart-the-saga-of-hal-c-banks"
+      },
+      "awardYear": 1985,
+      "winner": "Donald Brittain"
+    },
+    {
+      "id": "tiff-best-canadian-feature-1986-the-decline-of-the-american-empire",
+      "mediaType": "movie",
+      "title": "The Decline of the American Empire",
+      "releaseDate": "1986",
+      "externalIds": {
+        "letterboxd": "the-decline-of-the-american-empire"
+      },
+      "awardYear": 1986,
+      "winner": "Denys Arcand"
+    },
+    {
+      "id": "tiff-best-canadian-feature-1987-family-viewing",
+      "mediaType": "movie",
+      "title": "Family Viewing",
+      "releaseDate": "1987",
+      "externalIds": {
+        "letterboxd": "family-viewing"
+      },
+      "awardYear": 1987,
+      "winner": "Atom Egoyan"
+    },
+    {
+      "id": "tiff-best-canadian-feature-1988-the-outside-chance-of-maximilian-glick",
+      "mediaType": "movie",
+      "title": "The Outside Chance of Maximilian Glick",
+      "releaseDate": "1988",
+      "externalIds": {
+        "letterboxd": "the-outside-chance-of-maximilian-glick"
+      },
+      "awardYear": 1988,
+      "winner": "Allan A. Goldstein"
+    },
+    {
+      "id": "tiff-best-canadian-feature-1989-roadkill",
+      "mediaType": "movie",
+      "title": "Roadkill",
+      "releaseDate": "1989",
+      "externalIds": {
+        "letterboxd": "roadkill"
+      },
+      "awardYear": 1989,
+      "winner": "Bruce McDonald"
+    },
+    {
+      "id": "tiff-best-canadian-feature-1990-h",
+      "mediaType": "movie",
+      "title": "H",
+      "releaseDate": "1990",
+      "externalIds": {
+        "letterboxd": "h"
+      },
+      "awardYear": 1990,
+      "winner": "Darrell Wasyk"
+    },
+    {
+      "id": "tiff-best-canadian-feature-1991-the-adjuster",
+      "mediaType": "movie",
+      "title": "The Adjuster",
+      "releaseDate": "1991",
+      "externalIds": {
+        "letterboxd": "the-adjuster"
+      },
+      "awardYear": 1991,
+      "winner": "Atom Egoyan"
+    },
+    {
+      "id": "tiff-best-canadian-feature-1992-requiem-for-a-handsome-bastard",
+      "mediaType": "movie",
+      "title": "Requiem for a Handsome Bastard",
+      "releaseDate": "1992",
+      "externalIds": {
+        "letterboxd": "requiem-for-a-handsome-bastard"
+      },
+      "awardYear": 1992,
+      "winner": "Robert Morin"
+    },
+    {
+      "id": "tiff-best-canadian-feature-1993-kanehsatake-270-years-of-resistance",
+      "mediaType": "movie",
+      "title": "Kanehsatake: 270 Years of Resistance",
+      "releaseDate": "1993",
+      "externalIds": {
+        "letterboxd": "kanehsatake-270-years-of-resistance"
+      },
+      "awardYear": 1993,
+      "winner": "Alanis Obomsawin"
+    },
+    {
+      "id": "tiff-best-canadian-feature-1994-exotica",
+      "mediaType": "movie",
+      "title": "Exotica",
+      "releaseDate": "1994",
+      "externalIds": {
+        "letterboxd": "exotica"
+      },
+      "awardYear": 1994,
+      "winner": "Atom Egoyan"
+    },
+    {
+      "id": "tiff-best-canadian-feature-1995-live-bait",
+      "mediaType": "movie",
+      "title": "Live Bait",
+      "releaseDate": "1995",
+      "externalIds": {
+        "letterboxd": "live-bait"
+      },
+      "awardYear": 1995,
+      "winner": "Bruce Sweeney"
+    },
+    {
+      "id": "tiff-best-canadian-feature-1996-long-day-s-journey-into-night",
+      "mediaType": "movie",
+      "title": "Long Day's Journey into Night",
+      "releaseDate": "1996",
+      "externalIds": {
+        "letterboxd": "long-day-s-journey-into-night"
+      },
+      "awardYear": 1996,
+      "winner": "David Wellington"
+    },
+    {
+      "id": "tiff-best-canadian-feature-1997-the-hanging-garden",
+      "mediaType": "movie",
+      "title": "The Hanging Garden",
+      "releaseDate": "1997",
+      "externalIds": {
+        "letterboxd": "the-hanging-garden"
+      },
+      "awardYear": 1997,
+      "winner": "Thom Fitzgerald"
+    },
+    {
+      "id": "tiff-best-canadian-feature-1997-the-sweet-hereafter",
+      "mediaType": "movie",
+      "title": "The Sweet Hereafter",
+      "releaseDate": "1997",
+      "externalIds": {
+        "letterboxd": "the-sweet-hereafter"
+      },
+      "awardYear": 1997,
+      "winner": "Atom Egoyan"
+    },
+    {
+      "id": "tiff-best-canadian-feature-1998-no",
+      "mediaType": "movie",
+      "title": "Nô",
+      "releaseDate": "1998",
+      "externalIds": {
+        "letterboxd": "no"
+      },
+      "awardYear": 1998,
+      "winner": "Robert Lepage"
+    },
+    {
+      "id": "tiff-best-canadian-feature-1999-the-five-senses",
+      "mediaType": "movie",
+      "title": "The Five Senses",
+      "releaseDate": "1999",
+      "externalIds": {
+        "letterboxd": "the-five-senses"
+      },
+      "awardYear": 1999,
+      "winner": "Jeremy Podeswa"
+    },
+    {
+      "id": "tiff-best-canadian-feature-2000-waydowntown",
+      "mediaType": "movie",
+      "title": "waydowntown",
+      "releaseDate": "2000",
+      "externalIds": {
+        "letterboxd": "waydowntown"
+      },
+      "awardYear": 2000,
+      "winner": "Gary Burns"
+    },
+    {
+      "id": "tiff-best-canadian-feature-2001-atanarjuat-the-fast-runner",
+      "mediaType": "movie",
+      "title": "Atanarjuat: The Fast Runner",
+      "releaseDate": "2001",
+      "externalIds": {
+        "letterboxd": "atanarjuat-the-fast-runner"
+      },
+      "awardYear": 2001,
+      "winner": "Zacharias Kunuk"
+    },
+    {
+      "id": "tiff-best-canadian-feature-2002-spider",
+      "mediaType": "movie",
+      "title": "Spider",
+      "releaseDate": "2002",
+      "externalIds": {
+        "letterboxd": "spider"
+      },
+      "awardYear": 2002,
+      "winner": "David Cronenberg"
+    },
+    {
+      "id": "tiff-best-canadian-feature-2003-the-barbarian-invasions",
+      "mediaType": "movie",
+      "title": "The Barbarian Invasions",
+      "releaseDate": "2003",
+      "externalIds": {
+        "letterboxd": "the-barbarian-invasions"
+      },
+      "awardYear": 2003,
+      "winner": "Denys Arcand"
+    },
+    {
+      "id": "tiff-best-canadian-feature-2004-it-s-all-gone-pete-tong",
+      "mediaType": "movie",
+      "title": "It's All Gone Pete Tong",
+      "releaseDate": "2004",
+      "externalIds": {
+        "letterboxd": "it-s-all-gone-pete-tong"
+      },
+      "awardYear": 2004,
+      "winner": "Michael Dowse"
+    },
+    {
+      "id": "tiff-best-canadian-feature-2005-c-r-a-z-y",
+      "mediaType": "movie",
+      "title": "C.R.A.Z.Y.",
+      "releaseDate": "2005",
+      "externalIds": {
+        "letterboxd": "c-r-a-z-y"
+      },
+      "awardYear": 2005,
+      "winner": "Jean-Marc Vallée"
+    },
+    {
+      "id": "tiff-best-canadian-feature-2006-manufactured-landscapes",
+      "mediaType": "movie",
+      "title": "Manufactured Landscapes",
+      "releaseDate": "2006",
+      "externalIds": {
+        "letterboxd": "manufactured-landscapes"
+      },
+      "awardYear": 2006,
+      "winner": "Jennifer Baichwal"
+    },
+    {
+      "id": "tiff-best-canadian-feature-2007-my-winnipeg",
+      "mediaType": "movie",
+      "title": "My Winnipeg",
+      "releaseDate": "2007",
+      "externalIds": {
+        "letterboxd": "my-winnipeg"
+      },
+      "awardYear": 2007,
+      "winner": "Guy Maddin"
+    },
+    {
+      "id": "tiff-best-canadian-feature-2008-lost-song",
+      "mediaType": "movie",
+      "title": "Lost Song",
+      "releaseDate": "2008",
+      "externalIds": {
+        "letterboxd": "lost-song"
+      },
+      "awardYear": 2008,
+      "winner": "Rodrigue Jean"
+    },
+    {
+      "id": "tiff-best-canadian-feature-2009-cairo-time",
+      "mediaType": "movie",
+      "title": "Cairo Time",
+      "releaseDate": "2009",
+      "externalIds": {
+        "letterboxd": "cairo-time"
+      },
+      "awardYear": 2009,
+      "winner": "Ruba Nadda"
+    },
+    {
+      "id": "tiff-best-canadian-feature-2010-incendies",
+      "mediaType": "movie",
+      "title": "Incendies",
+      "releaseDate": "2010",
+      "externalIds": {
+        "letterboxd": "incendies"
+      },
+      "awardYear": 2010,
+      "winner": "Denis Villeneuve"
+    },
+    {
+      "id": "tiff-best-canadian-feature-2011-monsieur-lazhar",
+      "mediaType": "movie",
+      "title": "Monsieur Lazhar",
+      "releaseDate": "2011",
+      "externalIds": {
+        "letterboxd": "monsieur-lazhar"
+      },
+      "awardYear": 2011,
+      "winner": "Philippe Falardeau"
+    },
+    {
+      "id": "tiff-best-canadian-feature-2012-laurence-anyways",
+      "mediaType": "movie",
+      "title": "Laurence Anyways",
+      "releaseDate": "2012",
+      "externalIds": {
+        "letterboxd": "laurence-anyways"
+      },
+      "awardYear": 2012,
+      "winner": "Xavier Dolan"
+    },
+    {
+      "id": "tiff-best-canadian-feature-2013-when-jews-were-funny",
+      "mediaType": "movie",
+      "title": "When Jews Were Funny",
+      "releaseDate": "2013",
+      "externalIds": {
+        "letterboxd": "when-jews-were-funny"
+      },
+      "awardYear": 2013,
+      "winner": "Alan Zweig"
+    },
+    {
+      "id": "tiff-best-canadian-feature-2014-felix-and-meira",
+      "mediaType": "movie",
+      "title": "Felix and Meira",
+      "releaseDate": "2014",
+      "externalIds": {
+        "letterboxd": "felix-and-meira"
+      },
+      "awardYear": 2014,
+      "winner": "Maxime Giroux"
+    },
+    {
+      "id": "tiff-best-canadian-feature-2015-closet-monster",
+      "mediaType": "movie",
+      "title": "Closet Monster",
+      "releaseDate": "2015",
+      "externalIds": {
+        "letterboxd": "closet-monster"
+      },
+      "awardYear": 2015,
+      "winner": "Stephen Dunn"
+    },
+    {
+      "id": "tiff-best-canadian-feature-2016-those-who-make-revolution-halfway-only-dig-their-own-graves",
+      "mediaType": "movie",
+      "title": "Those Who Make Revolution Halfway Only Dig Their Own Graves",
+      "releaseDate": "2016",
+      "externalIds": {
+        "letterboxd": "those-who-make-revolution-halfway-only-dig-their-own-graves"
+      },
+      "awardYear": 2016,
+      "winner": "Mathieu Denis & Simon Lavoie"
+    },
+    {
+      "id": "tiff-best-canadian-feature-2017-ravenous",
+      "mediaType": "movie",
+      "title": "Ravenous",
+      "releaseDate": "2017",
+      "externalIds": {
+        "letterboxd": "ravenous"
+      },
+      "awardYear": 2017,
+      "winner": "Robin Aubert"
+    },
+    {
+      "id": "tiff-best-canadian-feature-2018-the-fireflies-are-gone",
+      "mediaType": "movie",
+      "title": "The Fireflies Are Gone",
+      "releaseDate": "2018",
+      "externalIds": {
+        "letterboxd": "the-fireflies-are-gone"
+      },
+      "awardYear": 2018,
+      "winner": "Sébastien Pilote"
+    },
+    {
+      "id": "tiff-best-canadian-feature-2019-antigone",
+      "mediaType": "movie",
+      "title": "Antigone",
+      "releaseDate": "2019",
+      "externalIds": {
+        "letterboxd": "antigone"
+      },
+      "awardYear": 2019,
+      "winner": "Sophie Deraspe"
+    },
+    {
+      "id": "tiff-best-canadian-feature-2020-inconvenient-indian",
+      "mediaType": "movie",
+      "title": "Inconvenient Indian",
+      "releaseDate": "2020",
+      "externalIds": {
+        "letterboxd": "inconvenient-indian"
+      },
+      "awardYear": 2020,
+      "winner": "Michelle Latimer"
+    },
+    {
+      "id": "tiff-best-canadian-feature-2021-ste-anne",
+      "mediaType": "movie",
+      "title": "Ste. Anne",
+      "releaseDate": "2021",
+      "externalIds": {
+        "letterboxd": "ste-anne"
+      },
+      "awardYear": 2021,
+      "winner": "Rhayne Vermette"
+    },
+    {
+      "id": "tiff-best-canadian-feature-2022-to-kill-a-tiger",
+      "mediaType": "movie",
+      "title": "To Kill a Tiger",
+      "releaseDate": "2022",
+      "externalIds": {
+        "letterboxd": "to-kill-a-tiger"
+      },
+      "awardYear": 2022,
+      "winner": "Nisha Pahuja"
+    },
+    {
+      "id": "tiff-best-canadian-feature-2023-solo",
+      "mediaType": "movie",
+      "title": "Solo",
+      "releaseDate": "2023",
+      "externalIds": {
+        "letterboxd": "solo"
+      },
+      "awardYear": 2023,
+      "winner": "Sophie Dupuis"
+    },
+    {
+      "id": "tiff-best-canadian-feature-2024-shepherds",
+      "mediaType": "movie",
+      "title": "Shepherds",
+      "releaseDate": "2024",
+      "externalIds": {
+        "letterboxd": "shepherds"
+      },
+      "awardYear": 2024,
+      "winner": "Sophie Deraspe"
+    },
+    {
+      "id": "tiff-best-canadian-feature-2025-wrong-husband",
+      "mediaType": "movie",
+      "title": "Wrong Husband",
+      "releaseDate": "2025",
+      "externalIds": {
+        "letterboxd": "wrong-husband"
+      },
+      "awardYear": 2025,
+      "winner": "Zacharias Kunuk"
+    }
+  ]
+}

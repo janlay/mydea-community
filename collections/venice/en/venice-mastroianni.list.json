@@ -1,0 +1,317 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:30:00Z",
+  "title": "Venice — Marcello Mastroianni Award",
+  "description": "Historical Venice International Film Festival Marcello Mastroianni Award winners, including predecessor/equivalent forms where applicable.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "venice-mastroianni-1998-siddhartha-1",
+      "mediaType": "movie",
+      "title": "Siddhartha",
+      "releaseDate": "1998",
+      "externalIds": {
+        "letterboxd": "siddhartha"
+      },
+      "awardYear": 1998,
+      "winner": "Niccolò Senni"
+    },
+    {
+      "id": "venice-mastroianni-2000-liam-2",
+      "mediaType": "movie",
+      "title": "Liam",
+      "releaseDate": "2000",
+      "externalIds": {
+        "letterboxd": "liam"
+      },
+      "awardYear": 2000,
+      "winner": "Megan Burns"
+    },
+    {
+      "id": "venice-mastroianni-2001-y-tu-mama-tambien-3",
+      "mediaType": "movie",
+      "title": "Y tu mamá también",
+      "releaseDate": "2001",
+      "externalIds": {
+        "letterboxd": "y-tu-mama-tambien"
+      },
+      "awardYear": 2001,
+      "winner": "Gael García Bernal & Diego Luna"
+    },
+    {
+      "id": "venice-mastroianni-2002-oasis-4",
+      "mediaType": "movie",
+      "title": "Oasis",
+      "releaseDate": "2002",
+      "externalIds": {
+        "letterboxd": "oasis"
+      },
+      "awardYear": 2002,
+      "winner": "Moon So-ri"
+    },
+    {
+      "id": "venice-mastroianni-2003-raja-5",
+      "mediaType": "movie",
+      "title": "Raja",
+      "releaseDate": "2003",
+      "externalIds": {
+        "letterboxd": "raja"
+      },
+      "awardYear": 2003,
+      "winner": "Najat Benssallem"
+    },
+    {
+      "id": "venice-mastroianni-2004-working-slowly-radio-alice-6",
+      "mediaType": "movie",
+      "title": "Working Slowly (Radio Alice)",
+      "releaseDate": "2004",
+      "externalIds": {
+        "letterboxd": "working-slowly-radio-alice"
+      },
+      "awardYear": 2004,
+      "winner": "Marco Luisi & Tommaso Ramenghi"
+    },
+    {
+      "id": "venice-mastroianni-2005-heading-south-7",
+      "mediaType": "movie",
+      "title": "Heading South",
+      "releaseDate": "2005",
+      "externalIds": {
+        "letterboxd": "heading-south"
+      },
+      "awardYear": 2005,
+      "winner": "Ménothy Cesar"
+    },
+    {
+      "id": "venice-mastroianni-2006-the-untouchable-8",
+      "mediaType": "movie",
+      "title": "The Untouchable",
+      "releaseDate": "2006",
+      "externalIds": {
+        "letterboxd": "the-untouchable"
+      },
+      "awardYear": 2006,
+      "winner": "Isild Le Besco"
+    },
+    {
+      "id": "venice-mastroianni-2007-the-secret-of-the-grain-9",
+      "mediaType": "movie",
+      "title": "The Secret of the Grain",
+      "releaseDate": "2007",
+      "externalIds": {
+        "letterboxd": "the-secret-of-the-grain"
+      },
+      "awardYear": 2007,
+      "winner": "Hafsia Herzi"
+    },
+    {
+      "id": "venice-mastroianni-2008-the-burning-plain-10",
+      "mediaType": "movie",
+      "title": "The Burning Plain",
+      "releaseDate": "2008",
+      "externalIds": {
+        "letterboxd": "the-burning-plain"
+      },
+      "awardYear": 2008,
+      "winner": "Jennifer Lawrence"
+    },
+    {
+      "id": "venice-mastroianni-2009-the-big-dream-11",
+      "mediaType": "movie",
+      "title": "The Big Dream",
+      "releaseDate": "2009",
+      "externalIds": {
+        "letterboxd": "the-big-dream"
+      },
+      "awardYear": 2009,
+      "winner": "Jasmine Trinca"
+    },
+    {
+      "id": "venice-mastroianni-2010-black-swan-12",
+      "mediaType": "movie",
+      "title": "Black Swan",
+      "releaseDate": "2010",
+      "externalIds": {
+        "letterboxd": "black-swan"
+      },
+      "awardYear": 2010,
+      "winner": "Mila Kunis"
+    },
+    {
+      "id": "venice-mastroianni-2011-himizu-13",
+      "mediaType": "movie",
+      "title": "Himizu",
+      "releaseDate": "2011",
+      "externalIds": {
+        "letterboxd": "himizu"
+      },
+      "awardYear": 2011,
+      "winner": "Shota Sometani & Fumi Nikaidō"
+    },
+    {
+      "id": "venice-mastroianni-2012-dormant-beauty-it-was-the-son-14",
+      "mediaType": "movie",
+      "title": "Dormant Beauty / It Was the Son",
+      "releaseDate": "2012",
+      "externalIds": {
+        "letterboxd": "dormant-beauty-it-was-the-son"
+      },
+      "awardYear": 2012,
+      "winner": "Fabrizio Falco"
+    },
+    {
+      "id": "venice-mastroianni-2013-joe-15",
+      "mediaType": "movie",
+      "title": "Joe",
+      "releaseDate": "2013",
+      "externalIds": {
+        "letterboxd": "joe"
+      },
+      "awardYear": 2013,
+      "winner": "Tye Sheridan"
+    },
+    {
+      "id": "venice-mastroianni-2014-the-last-hammer-blow-16",
+      "mediaType": "movie",
+      "title": "The Last Hammer Blow",
+      "releaseDate": "2014",
+      "externalIds": {
+        "letterboxd": "the-last-hammer-blow"
+      },
+      "awardYear": 2014,
+      "winner": "Romain Paul"
+    },
+    {
+      "id": "venice-mastroianni-2015-beasts-of-no-nation-17",
+      "mediaType": "movie",
+      "title": "Beasts of No Nation",
+      "releaseDate": "2015",
+      "externalIds": {
+        "letterboxd": "beasts-of-no-nation"
+      },
+      "awardYear": 2015,
+      "winner": "Abraham Attah"
+    },
+    {
+      "id": "venice-mastroianni-2016-frantz-18",
+      "mediaType": "movie",
+      "title": "Frantz",
+      "releaseDate": "2016",
+      "externalIds": {
+        "letterboxd": "frantz"
+      },
+      "awardYear": 2016,
+      "winner": "Paula Beer"
+    },
+    {
+      "id": "venice-mastroianni-2017-lean-on-pete-19",
+      "mediaType": "movie",
+      "title": "Lean on Pete",
+      "releaseDate": "2017",
+      "externalIds": {
+        "letterboxd": "lean-on-pete"
+      },
+      "awardYear": 2017,
+      "winner": "Charlie Plummer"
+    },
+    {
+      "id": "venice-mastroianni-2018-the-nightingale-20",
+      "mediaType": "movie",
+      "title": "The Nightingale",
+      "releaseDate": "2018",
+      "externalIds": {
+        "letterboxd": "the-nightingale"
+      },
+      "awardYear": 2018,
+      "winner": "Baykali Ganambarr"
+    },
+    {
+      "id": "venice-mastroianni-2019-babyteeth-21",
+      "mediaType": "movie",
+      "title": "Babyteeth",
+      "releaseDate": "2019",
+      "externalIds": {
+        "letterboxd": "babyteeth"
+      },
+      "awardYear": 2019,
+      "winner": "Toby Wallace"
+    },
+    {
+      "id": "venice-mastroianni-2020-sun-children-22",
+      "mediaType": "movie",
+      "title": "Sun Children",
+      "releaseDate": "2020",
+      "externalIds": {
+        "letterboxd": "sun-children"
+      },
+      "awardYear": 2020,
+      "winner": "Rouhollah Zamani"
+    },
+    {
+      "id": "venice-mastroianni-2021-the-hand-of-god-23",
+      "mediaType": "movie",
+      "title": "The Hand of God",
+      "releaseDate": "2021",
+      "externalIds": {
+        "letterboxd": "the-hand-of-god"
+      },
+      "awardYear": 2021,
+      "winner": "Filippo Scotti"
+    },
+    {
+      "id": "venice-mastroianni-2022-bones-and-all-24",
+      "mediaType": "movie",
+      "title": "Bones and All",
+      "releaseDate": "2022",
+      "externalIds": {
+        "letterboxd": "bones-and-all"
+      },
+      "awardYear": 2022,
+      "winner": "Taylor Russell"
+    },
+    {
+      "id": "venice-mastroianni-2023-io-capitano-25",
+      "mediaType": "movie",
+      "title": "Io Capitano",
+      "releaseDate": "2023",
+      "externalIds": {
+        "letterboxd": "io-capitano"
+      },
+      "awardYear": 2023,
+      "winner": "Seydou Sarr"
+    },
+    {
+      "id": "venice-mastroianni-2024-and-their-children-after-them-26",
+      "mediaType": "movie",
+      "title": "And Their Children After Them",
+      "releaseDate": "2024",
+      "externalIds": {
+        "letterboxd": "and-their-children-after-them"
+      },
+      "awardYear": 2024,
+      "winner": "Paul Kircher"
+    },
+    {
+      "id": "venice-mastroianni-2025-silent-friend-27",
+      "mediaType": "movie",
+      "title": "Silent Friend",
+      "releaseDate": "2025",
+      "externalIds": {
+        "letterboxd": "silent-friend"
+      },
+      "awardYear": 2025,
+      "winner": "Luna Wedler"
+    }
+  ]
+}

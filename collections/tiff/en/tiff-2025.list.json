@@ -1,0 +1,195 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T03:47:39Z",
+  "title": "Toronto — 2025",
+  "description": "Film award winners at the 2025 Toronto International Film Festival.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "tiff-2025-peoples-choice-2025-hamnet",
+      "mediaType": "movie",
+      "title": "Hamnet",
+      "releaseDate": "2025",
+      "externalIds": {
+        "letterboxd": "hamnet",
+        "tmdb": "858024"
+      },
+      "awardYear": 2025,
+      "winner": "Chloé Zhao",
+      "award": "People's Choice Award",
+      "awardOrder": 1
+    },
+    {
+      "id": "tiff-2025-documentary-peoples-choice-2025-the-road-between-us-the-ultimate-rescue",
+      "mediaType": "movie",
+      "title": "The Road Between Us: The Ultimate Rescue",
+      "releaseDate": "2025",
+      "externalIds": {
+        "letterboxd": "the-road-between-us-the-ultimate-rescue"
+      },
+      "awardYear": 2025,
+      "winner": "Barry Avrich",
+      "award": "People's Choice Documentary Award",
+      "awardOrder": 2
+    },
+    {
+      "id": "tiff-2025-midnight-madness-peoples-choice-2025-nirvanna-the-band-the-show-the-movie",
+      "mediaType": "movie",
+      "title": "Nirvanna the Band the Show the Movie",
+      "releaseDate": "2025",
+      "externalIds": {
+        "letterboxd": "nirvanna-the-band-the-show-the-movie",
+        "tmdb": "1154538"
+      },
+      "awardYear": 2025,
+      "winner": "Matt Johnson",
+      "award": "People's Choice Midnight Madness Award",
+      "awardOrder": 3
+    },
+    {
+      "id": "tiff-2025-platform-prize-2025-to-the-victory",
+      "mediaType": "movie",
+      "title": "To the Victory!",
+      "releaseDate": "2025",
+      "externalIds": {
+        "letterboxd": "to-the-victory"
+      },
+      "awardYear": 2025,
+      "winner": "Valentyn Vasyanovych",
+      "award": "Platform Prize",
+      "awardOrder": 4
+    },
+    {
+      "id": "tiff-2025-best-canadian-feature-2025-wrong-husband",
+      "mediaType": "movie",
+      "title": "Wrong Husband",
+      "releaseDate": "2025",
+      "externalIds": {
+        "letterboxd": "wrong-husband"
+      },
+      "awardYear": 2025,
+      "winner": "Zacharias Kunuk",
+      "award": "Best Canadian Feature Film",
+      "awardOrder": 5
+    },
+    {
+      "id": "tiff-2025-best-canadian-discovery-2025-blue-heron",
+      "mediaType": "movie",
+      "title": "Blue Heron",
+      "releaseDate": "2025",
+      "externalIds": {
+        "letterboxd": "blue-heron"
+      },
+      "awardYear": 2025,
+      "winner": "Sophy Romvari",
+      "award": "Best Canadian Discovery",
+      "awardOrder": 6
+    },
+    {
+      "id": "tiff-2025-international-people-s-choice-award-2025-no-other-choice",
+      "mediaType": "movie",
+      "title": "No Other Choice",
+      "releaseDate": "2025",
+      "externalIds": {
+        "letterboxd": "no-other-choice"
+      },
+      "awardYear": 2025,
+      "winner": "Park Chan-wook",
+      "award": "International People's Choice Award",
+      "awardOrder": 7
+    },
+    {
+      "id": "tiff-2025-best-animated-short-film-2025-to-the-woods",
+      "mediaType": "movie",
+      "title": "To the Woods",
+      "releaseDate": "2025",
+      "externalIds": {
+        "letterboxd": "to-the-woods"
+      },
+      "awardYear": 2025,
+      "winner": "Agnes Patron",
+      "award": "Best Animated Short Film",
+      "awardOrder": 8
+    },
+    {
+      "id": "tiff-2025-best-canadian-short-film-2025-the-girl-who-cried-pearls",
+      "mediaType": "movie",
+      "title": "The Girl Who Cried Pearls",
+      "releaseDate": "2025",
+      "externalIds": {
+        "letterboxd": "the-girl-who-cried-pearls"
+      },
+      "awardYear": 2025,
+      "winner": "Chris Lavis & Maciek Szczerbowski",
+      "award": "Best Canadian Short Film",
+      "awardOrder": 9
+    },
+    {
+      "id": "tiff-2025-best-international-short-film-2025-talk-me",
+      "mediaType": "movie",
+      "title": "Talk Me",
+      "releaseDate": "2025",
+      "externalIds": {
+        "letterboxd": "talk-me"
+      },
+      "awardYear": 2025,
+      "winner": "Joecar Hanna",
+      "award": "Best International Short Film",
+      "awardOrder": 10
+    },
+    {
+      "id": "tiff-2025-vimeo-staff-pick-award-2025-i-fear-blue-skies",
+      "mediaType": "movie",
+      "title": "I Fear Blue Skies",
+      "releaseDate": "2025",
+      "externalIds": {
+        "letterboxd": "i-fear-blue-skies"
+      },
+      "awardYear": 2025,
+      "winner": "Sally Tran",
+      "award": "Vimeo Staff Pick Award",
+      "awardOrder": 11
+    },
+    {
+      "id": "tiff-2025-fipresci-prize-2025-forastera",
+      "mediaType": "movie",
+      "title": "Forastera",
+      "releaseDate": "2025",
+      "externalIds": {
+        "letterboxd": "forastera"
+      },
+      "awardYear": 2025,
+      "winner": "Lucía Aleñar Iglesias",
+      "award": "FIPRESCI Prize",
+      "awardOrder": 12
+    },
+    {
+      "id": "tiff-2025-netpac-award-2025-in-search-of-the-sky",
+      "mediaType": "movie",
+      "title": "In Search of the Sky",
+      "releaseDate": "2025",
+      "externalIds": {
+        "letterboxd": "in-search-of-the-sky"
+      },
+      "awardYear": 2025,
+      "winner": "Jitank Singh Gurjar",
+      "award": "NETPAC Award",
+      "awardOrder": 13
+    }
+  ]
+}

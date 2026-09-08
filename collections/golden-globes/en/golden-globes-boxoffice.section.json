@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "ChatGPT",
+  "title": "Golden Globes — Cinematic and Box Office Achievement",
+  "description": "Winners of the Golden Globe Cinematic and Box Office Achievement category from 2017 through 2026.",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "golden-globes-boxoffice.list.json"
+    }
+  ]
+}

@@ -1,0 +1,336 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-08T11:52:00Z",
+  "title": "Cannes Film Festival 2021 Awards",
+  "description": "Official film-linked awards from the 74th Festival de Cannes, covering Competition, Short Films, Un Certain Regard, Caméra d'Or, Cinéfondation and CST technical prizes.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "cannes-2021-palme-d-or-titane",
+      "mediaType": "movie",
+      "title": "Titane",
+      "award": "Palme d'Or",
+      "awardYear": 2021,
+      "awardOrder": 1,
+      "winner": "Julia Ducournau",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt10944760"
+      }
+    },
+    {
+      "id": "cannes-2021-grand-prix-ex-aequo-a-hero",
+      "mediaType": "movie",
+      "title": "A Hero",
+      "award": "Grand Prix (Ex-Aequo)",
+      "awardYear": 2021,
+      "awardOrder": 2,
+      "winner": "Asghar Farhadi",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt11777738"
+      }
+    },
+    {
+      "id": "cannes-2021-grand-prix-ex-aequo-compartment-no-6",
+      "mediaType": "movie",
+      "title": "Compartment No. 6",
+      "award": "Grand Prix (Ex-Aequo)",
+      "awardYear": 2021,
+      "awardOrder": 3,
+      "winner": "Juho Kuosmanen",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt10262648"
+      }
+    },
+    {
+      "id": "cannes-2021-best-director-prize-annette",
+      "mediaType": "movie",
+      "title": "Annette",
+      "award": "Best Director Prize",
+      "awardYear": 2021,
+      "awardOrder": 4,
+      "winner": "Leos Carax",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt6217926"
+      }
+    },
+    {
+      "id": "cannes-2021-best-screenplay-drive-my-car",
+      "mediaType": "movie",
+      "title": "Drive My Car",
+      "award": "Best Screenplay",
+      "awardYear": 2021,
+      "awardOrder": 5,
+      "winner": "Ryusuke Hamaguchi & Takamasa Oe",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14039582"
+      }
+    },
+    {
+      "id": "cannes-2021-jury-prize-ex-aequo-memoria",
+      "mediaType": "movie",
+      "title": "Memoria",
+      "award": "Jury Prize (Ex-Aequo)",
+      "awardYear": 2021,
+      "awardOrder": 6,
+      "winner": "Apichatpong Weerasethakul",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt8399288"
+      }
+    },
+    {
+      "id": "cannes-2021-jury-prize-ex-aequo-ahed-s-knee",
+      "mediaType": "movie",
+      "title": "Ahed's Knee",
+      "award": "Jury Prize (Ex-Aequo)",
+      "awardYear": 2021,
+      "awardOrder": 7,
+      "winner": "Nadav Lapid",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt12494638"
+      }
+    },
+    {
+      "id": "cannes-2021-best-performance-for-an-actress-the-worst-person-in-the-world",
+      "mediaType": "movie",
+      "title": "The Worst Person in the World",
+      "award": "Best Performance for an Actress",
+      "awardYear": 2021,
+      "awardOrder": 8,
+      "winner": "Renate Reinsve",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt10370710"
+      }
+    },
+    {
+      "id": "cannes-2021-best-performance-for-an-actor-nitram",
+      "mediaType": "movie",
+      "title": "Nitram",
+      "award": "Best Performance for an Actor",
+      "awardYear": 2021,
+      "awardOrder": 9,
+      "winner": "Caleb Landry Jones",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt13694628"
+      }
+    },
+    {
+      "id": "cannes-2021-vulcain-prize-for-an-artist-technician-petrov-s-flu",
+      "mediaType": "movie",
+      "title": "Petrov's Flu",
+      "award": "Vulcain Prize for an Artist Technician",
+      "awardYear": 2021,
+      "awardOrder": 10,
+      "winner": "Vladislav Opelyants",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt10380900"
+      }
+    },
+    {
+      "id": "cannes-2021-cst-award-for-best-young-female-film-technician-mi-iubita-mon-amour",
+      "mediaType": "movie",
+      "title": "Mi Iubita, Mon Amour",
+      "award": "CST Award for Best Young Female Film Technician",
+      "awardYear": 2021,
+      "awardOrder": 11,
+      "winner": "Armance Durix",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14821328"
+      }
+    },
+    {
+      "id": "cannes-2021-short-film-palme-d-or-all-the-crows-in-the-world",
+      "mediaType": "movie",
+      "title": "All the Crows in the World",
+      "award": "Short Film Palme d'Or",
+      "awardYear": 2021,
+      "awardOrder": 12,
+      "winner": "Tang Yi",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14994868"
+      }
+    },
+    {
+      "id": "cannes-2021-short-film-special-distinction-august-sky",
+      "mediaType": "movie",
+      "title": "August Sky",
+      "award": "Short Film Special Distinction",
+      "awardYear": 2021,
+      "awardOrder": 13,
+      "winner": "Jasmin Tenucci",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14354724"
+      }
+    },
+    {
+      "id": "cannes-2021-un-certain-regard-prize-unclenching-the-fists",
+      "mediaType": "movie",
+      "title": "Unclenching the Fists",
+      "award": "Un Certain Regard Prize",
+      "awardYear": 2021,
+      "awardOrder": 14,
+      "winner": "Kira Kovalenko",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14775666"
+      }
+    },
+    {
+      "id": "cannes-2021-un-certain-regard-ensemble-prize-good-mother",
+      "mediaType": "movie",
+      "title": "Good Mother",
+      "award": "Un Certain Regard Ensemble Prize",
+      "awardYear": 2021,
+      "awardOrder": 15,
+      "winner": "Hafsia Herzi",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt13006574"
+      }
+    },
+    {
+      "id": "cannes-2021-un-certain-regard-jury-prize-great-freedom",
+      "mediaType": "movie",
+      "title": "Great Freedom",
+      "award": "Un Certain Regard Jury Prize",
+      "awardYear": 2021,
+      "awardOrder": 16,
+      "winner": "Sebastian Meise",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14775784"
+      }
+    },
+    {
+      "id": "cannes-2021-un-certain-regard-special-mention-prayers-for-the-stolen",
+      "mediaType": "movie",
+      "title": "Prayers for the Stolen",
+      "award": "Un Certain Regard Special Mention",
+      "awardYear": 2021,
+      "awardOrder": 17,
+      "winner": "Tatiana Huezo",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt10366574"
+      }
+    },
+    {
+      "id": "cannes-2021-un-certain-regard-courage-prize-la-civil",
+      "mediaType": "movie",
+      "title": "La Civil",
+      "award": "Un Certain Regard Courage Prize",
+      "awardYear": 2021,
+      "awardOrder": 18,
+      "winner": "Teodora Ana Mihai",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt13827606"
+      }
+    },
+    {
+      "id": "cannes-2021-un-certain-regard-prize-of-originality-lamb",
+      "mediaType": "movie",
+      "title": "Lamb",
+      "award": "Un Certain Regard Prize of Originality",
+      "awardYear": 2021,
+      "awardOrder": 19,
+      "winner": "Valdimar Jóhannsson",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt9812474"
+      }
+    },
+    {
+      "id": "cannes-2021-cam-ra-d-or-murina",
+      "mediaType": "movie",
+      "title": "Murina",
+      "award": "Caméra d'Or",
+      "awardYear": 2021,
+      "awardOrder": 20,
+      "winner": "Antoneta Alamat Kusijanović",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt8434110"
+      }
+    },
+    {
+      "id": "cannes-2021-cin-fondation-first-prize-the-salamander-child",
+      "mediaType": "movie",
+      "title": "The Salamander Child",
+      "award": "Cinéfondation First Prize",
+      "awardYear": 2021,
+      "awardOrder": 21,
+      "winner": "Théo Degen",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt15018628"
+      }
+    },
+    {
+      "id": "cannes-2021-cin-fondation-second-prize-cicada",
+      "mediaType": "movie",
+      "title": "Cicada",
+      "award": "Cinéfondation Second Prize",
+      "awardYear": 2021,
+      "awardOrder": 22,
+      "winner": "Daewoen Yoon",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt15017380"
+      }
+    },
+    {
+      "id": "cannes-2021-cin-fondation-third-prize-ex-aequo-love-stories-on-the-move",
+      "mediaType": "movie",
+      "title": "Love Stories on the Move",
+      "award": "Cinéfondation Third Prize (Ex-Aequo)",
+      "awardYear": 2021,
+      "awardOrder": 23,
+      "winner": "Carina-Gabriela Dașoveanu",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14923382"
+      }
+    },
+    {
+      "id": "cannes-2021-cin-fondation-third-prize-ex-aequo-cantareira",
+      "mediaType": "movie",
+      "title": "Cantareira",
+      "award": "Cinéfondation Third Prize (Ex-Aequo)",
+      "awardYear": 2021,
+      "awardOrder": 24,
+      "winner": "Rodrigo Ribeyro",
+      "releaseDate": "2021",
+      "externalIds": {
+        "letterboxd": "cantareira"
+      }
+    }
+  ]
+}

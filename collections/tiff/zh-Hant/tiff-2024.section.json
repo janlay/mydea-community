@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "ChatGPT",
+  "title": "多倫多 — 2024",
+  "description": "2024 年多倫多國際影展影片類獎項獲獎紀錄。",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "tiff-2024.list.json"
+    }
+  ]
+}

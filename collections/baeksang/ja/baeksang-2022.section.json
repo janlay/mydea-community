@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "ChatGPT",
+  "title": "百想芸術大賞 — 2022",
+  "description": "2022年の百想芸術大賞における主要な映画・テレビ部門の受賞作品。",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "baeksang-2022.list.json"
+    }
+  ]
+}

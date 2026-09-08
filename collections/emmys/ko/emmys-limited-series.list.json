@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T05:03:35Z",
+  "title": "프라임타임 에미상 — 최우수 리미티드 또는 앤솔러지 시리즈",
+  "description": "프라임타임 에미상 “최우수 리미티드 또는 앤솔러지 시리즈” 수상 기록.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "emmys-2017-limited-series-big-little-lies",
+      "mediaType": "tv",
+      "title": "빅 리틀 라이즈",
+      "originalTitle": "Big Little Lies",
+      "awardYear": 2017,
+      "winner": "Big Little Lies",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt3920596"
+      }
+    },
+    {
+      "id": "emmys-2018-limited-series-the-assassination-of-gianni-versace-american-crime-story",
+      "mediaType": "tv",
+      "title": "아메리칸 크라임 스토리: 지아니 베르사체 암살",
+      "originalTitle": "The Assassination of Gianni Versace: American Crime Story",
+      "awardYear": 2018,
+      "winner": "The Assassination of Gianni Versace: American Crime Story",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt2788432"
+      }
+    },
+    {
+      "id": "emmys-2019-limited-series-chernobyl",
+      "mediaType": "tv",
+      "title": "체르노빌",
+      "originalTitle": "Chernobyl",
+      "awardYear": 2019,
+      "winner": "Chernobyl",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt7366338"
+      }
+    },
+    {
+      "id": "emmys-2020-limited-series-watchmen",
+      "mediaType": "tv",
+      "title": "왓치맨",
+      "originalTitle": "Watchmen",
+      "awardYear": 2020,
+      "winner": "Watchmen",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt7049682"
+      }
+    },
+    {
+      "id": "emmys-2021-limited-series-the-queen-s-gambit",
+      "mediaType": "tv",
+      "title": "퀸스 갬빗",
+      "originalTitle": "The Queen's Gambit",
+      "awardYear": 2021,
+      "winner": "The Queen's Gambit",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10048342"
+      }
+    },
+    {
+      "id": "emmys-2022-limited-series-the-white-lotus",
+      "mediaType": "tv",
+      "title": "화이트 로투스",
+      "originalTitle": "The White Lotus",
+      "awardYear": 2022,
+      "winner": "The White Lotus",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt13406094"
+      }
+    },
+    {
+      "id": "emmys-2023-limited-series-beef",
+      "mediaType": "tv",
+      "title": "성난 사람들",
+      "originalTitle": "Beef",
+      "awardYear": 2023,
+      "winner": "Beef",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt14403178"
+      }
+    },
+    {
+      "id": "emmys-2024-limited-series-baby-reindeer",
+      "mediaType": "tv",
+      "title": "베이비 레인디어",
+      "originalTitle": "Baby Reindeer",
+      "awardYear": 2024,
+      "winner": "Baby Reindeer",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt13649112"
+      }
+    },
+    {
+      "id": "emmys-2025-limited-series-adolescence",
+      "mediaType": "tv",
+      "title": "소년의 시간",
+      "originalTitle": "Adolescence",
+      "awardYear": 2025,
+      "winner": "Adolescence",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31806037"
+      }
+    },
+    {
+      "id": "emmys-2026-limited-series-dtf-st-louis",
+      "mediaType": "tv",
+      "title": "DTF St. Louis",
+      "awardYear": 2026,
+      "winner": "DTF St. Louis",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt34385331"
+      }
+    }
+  ]
+}

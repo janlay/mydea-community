@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "ChatGPT",
+  "title": "青龍映画賞 — 2019",
+  "description": "2019年青龍映画賞、主要10部門の受賞記録。",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "blue-dragon-2019.list.json"
+    }
+  ]
+}

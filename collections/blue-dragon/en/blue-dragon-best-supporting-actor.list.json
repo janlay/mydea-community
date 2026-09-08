@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-12T02:54:20Z",
+  "title": "Blue Dragon Film Awards — Best Supporting Actor",
+  "description": "Blue Dragon Film Awards Best Supporting Actor winners from 2016 through 2025.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "blue-dragon-2016-best-supporting-actor-wailing",
+      "mediaType": "movie",
+      "title": "The Wailing",
+      "originalTitle": "곡성",
+      "awardYear": 2016,
+      "winner": "Jun Kunimura",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5215952"
+      }
+    },
+    {
+      "id": "blue-dragon-2017-best-supporting-actor-outlaws",
+      "mediaType": "movie",
+      "title": "The Outlaws",
+      "originalTitle": "범죄도시",
+      "awardYear": 2017,
+      "winner": "Jin Seon-kyu",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7468056"
+      }
+    },
+    {
+      "id": "blue-dragon-2018-best-supporting-actor-believer",
+      "mediaType": "movie",
+      "title": "Believer",
+      "originalTitle": "독전",
+      "awardYear": 2018,
+      "winner": "Kim Joo-hyuk",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7095654"
+      }
+    },
+    {
+      "id": "blue-dragon-2019-best-supporting-actor-default",
+      "mediaType": "movie",
+      "title": "Default",
+      "originalTitle": "국가부도의 날",
+      "awardYear": 2019,
+      "winner": "Jo Woo-jin",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7233726"
+      }
+    },
+    {
+      "id": "blue-dragon-2020-best-supporting-actor-deliver-evil",
+      "mediaType": "movie",
+      "title": "Deliver Us from Evil",
+      "originalTitle": "다만 악에서 구하소서",
+      "awardYear": 2020,
+      "winner": "Park Jeong-min",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt12763920"
+      }
+    },
+    {
+      "id": "blue-dragon-2021-best-supporting-actor-mogadishu",
+      "mediaType": "movie",
+      "title": "Escape from Mogadishu",
+      "originalTitle": "모가디슈",
+      "awardYear": 2021,
+      "winner": "Huh Joon-ho",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14810692"
+      }
+    },
+    {
+      "id": "blue-dragon-2022-best-supporting-actor-hansan",
+      "mediaType": "movie",
+      "title": "Hansan: Rising Dragon",
+      "originalTitle": "한산: 용의 출현",
+      "awardYear": 2022,
+      "winner": "Byun Yo-han",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt21109538"
+      }
+    },
+    {
+      "id": "blue-dragon-2023-best-supporting-actor-smugglers",
+      "mediaType": "movie",
+      "title": "Smugglers",
+      "originalTitle": "밀수",
+      "awardYear": 2023,
+      "winner": "Zo In-sung",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt28106766"
+      }
+    },
+    {
+      "id": "blue-dragon-2024-best-supporting-actor-i-executioner",
+      "mediaType": "movie",
+      "title": "I, the Executioner",
+      "originalTitle": "베테랑2",
+      "awardYear": 2024,
+      "winner": "Jung Hae-in",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt30287778"
+      }
+    },
+    {
+      "id": "blue-dragon-2025-best-supporting-actor-no-other-choice",
+      "mediaType": "movie",
+      "title": "No Other Choice",
+      "originalTitle": "어쩔수가없다",
+      "awardYear": 2025,
+      "winner": "Lee Sung-min",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt1527793"
+      }
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T05:03:58Z",
+  "title": "아카데미상 — 각색상",
+  "description": "아카데미상 각색상 최근 10회 수상 기록.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "oscars-best-adapted-screenplay-2017-moonlight",
+      "mediaType": "movie",
+      "title": "Moonlight",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4975722"
+      },
+      "awardYear": 2017,
+      "winner": "Barry Jenkins & Tarell Alvin McCraney"
+    },
+    {
+      "id": "oscars-best-adapted-screenplay-2018-call-me-by-your-name",
+      "mediaType": "movie",
+      "title": "Call Me by Your Name",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5726616"
+      },
+      "awardYear": 2018,
+      "winner": "James Ivory"
+    },
+    {
+      "id": "oscars-best-adapted-screenplay-2019-blackkklansman",
+      "mediaType": "movie",
+      "title": "BlacKkKlansman",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7349662"
+      },
+      "awardYear": 2019,
+      "winner": "Charlie Wachtel, David Rabinowitz, Kevin Willmott & Spike Lee"
+    },
+    {
+      "id": "oscars-best-adapted-screenplay-2020-jojo-rabbit",
+      "mediaType": "movie",
+      "title": "Jojo Rabbit",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt2584384"
+      },
+      "awardYear": 2020,
+      "winner": "Taika Waititi"
+    },
+    {
+      "id": "oscars-best-adapted-screenplay-2021-the-father",
+      "mediaType": "movie",
+      "title": "The Father",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10272386"
+      },
+      "awardYear": 2021,
+      "winner": "Christopher Hampton & Florian Zeller"
+    },
+    {
+      "id": "oscars-best-adapted-screenplay-2022-coda",
+      "mediaType": "movie",
+      "title": "CODA",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt10366460"
+      },
+      "awardYear": 2022,
+      "winner": "Siân Heder"
+    },
+    {
+      "id": "oscars-best-adapted-screenplay-2023-women-talking",
+      "mediaType": "movie",
+      "title": "Women Talking",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt13669038"
+      },
+      "awardYear": 2023,
+      "winner": "Sarah Polley"
+    },
+    {
+      "id": "oscars-best-adapted-screenplay-2024-american-fiction",
+      "mediaType": "movie",
+      "title": "American Fiction",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt23561236"
+      },
+      "awardYear": 2024,
+      "winner": "Cord Jefferson"
+    },
+    {
+      "id": "oscars-best-adapted-screenplay-2025-conclave",
+      "mediaType": "movie",
+      "title": "Conclave",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt20215234"
+      },
+      "awardYear": 2025,
+      "winner": "Peter Straughan"
+    },
+    {
+      "id": "oscars-best-adapted-screenplay-2026-one-battle-after-another",
+      "mediaType": "movie",
+      "title": "One Battle after Another",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt30144839"
+      },
+      "awardYear": 2026,
+      "winner": "Paul Thomas Anderson"
+    }
+  ]
+}

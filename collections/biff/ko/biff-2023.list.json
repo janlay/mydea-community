@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "부산국제영화제 2023 수상작",
+  "description": "부산국제영화제 2023 주요 경쟁상 수상작.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "biff-2023-new-currents-the-wrestler",
+      "mediaType": "movie",
+      "title": "The Wrestler",
+      "award": "뉴 커런츠상",
+      "awardYear": 2023,
+      "awardOrder": 1,
+      "winner": "Iqbal H. CHOWDHURY",
+      "releaseDate": "2023",
+      "externalIds": {
+        "letterboxd": "the-wrestler"
+      }
+    },
+    {
+      "id": "biff-2023-new-currents-september-1923",
+      "mediaType": "movie",
+      "title": "SEPTEMBER 1923",
+      "award": "뉴 커런츠상",
+      "awardYear": 2023,
+      "awardOrder": 2,
+      "winner": "MORI Tatsuya",
+      "releaseDate": "2023",
+      "externalIds": {
+        "letterboxd": "september-1923"
+      }
+    },
+    {
+      "id": "biff-2023-kim-jiseok-paradise",
+      "mediaType": "movie",
+      "title": "Paradise",
+      "award": "지석상",
+      "awardYear": 2023,
+      "awardOrder": 3,
+      "winner": "Prasanna VITHANAGE",
+      "releaseDate": "2023",
+      "externalIds": {
+        "letterboxd": "paradise"
+      }
+    },
+    {
+      "id": "biff-2023-kim-jiseok-bride-kidnapping",
+      "mediaType": "movie",
+      "title": "Bride Kidnapping",
+      "award": "지석상",
+      "awardYear": 2023,
+      "awardOrder": 4,
+      "winner": "Mirlan ABDYKALYKOV",
+      "releaseDate": "2023",
+      "externalIds": {
+        "letterboxd": "bride-kidnapping"
+      }
+    },
+    {
+      "id": "biff-2023-mecenat-the-voices-of-the-silenced",
+      "mediaType": "movie",
+      "title": "The Voices of the Silenced",
+      "award": "비프메세나상",
+      "awardYear": 2023,
+      "awardOrder": 5,
+      "winner": "PARK Soo-nam, PARK Maeui",
+      "releaseDate": "2023",
+      "externalIds": {
+        "letterboxd": "the-voices-of-the-silenced"
+      }
+    },
+    {
+      "id": "biff-2023-mecenat-republic",
+      "mediaType": "movie",
+      "title": "Republic",
+      "award": "비프메세나상",
+      "awardYear": 2023,
+      "awardOrder": 6,
+      "winner": "JIN Jiang",
+      "releaseDate": "2023",
+      "externalIds": {
+        "letterboxd": "republic"
+      }
+    },
+    {
+      "id": "biff-2023-sonje-mydear",
+      "mediaType": "movie",
+      "title": "MYDEAR",
+      "award": "선재상",
+      "awardYear": 2023,
+      "awardOrder": 7,
+      "winner": "JEON Dohee, KIM Sohee",
+      "releaseDate": "2023",
+      "externalIds": {
+        "letterboxd": "mydear"
+      }
+    },
+    {
+      "id": "biff-2023-sonje-21-weeks-later",
+      "mediaType": "movie",
+      "title": "21 Weeks Later",
+      "award": "선재상",
+      "awardYear": 2023,
+      "awardOrder": 8,
+      "winner": "Nasrin MOHAMMADPOUR",
+      "releaseDate": "2023",
+      "externalIds": {
+        "letterboxd": "21-weeks-later"
+      }
+    }
+  ]
+}

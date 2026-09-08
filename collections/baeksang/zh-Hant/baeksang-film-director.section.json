@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "ChatGPT",
+  "title": "百想藝術大賞 — 電影最佳導演",
+  "description": "2017–2026 年百想藝術大賞電影最佳導演獲獎記錄。",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "baeksang-film-director.list.json"
+    }
+  ]
+}

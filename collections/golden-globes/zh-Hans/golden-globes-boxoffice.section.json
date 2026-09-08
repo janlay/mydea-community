@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "ChatGPT",
+  "title": "金球奖 — 电影和票房成就奖",
+  "description": "2017–2026 年金球奖电影和票房成就奖获奖作品。",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "golden-globes-boxoffice.list.json"
+    }
+  ]
+}

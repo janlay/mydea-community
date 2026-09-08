@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "Busan International Film Festival 2021 Awards",
+  "description": "Core competition winners at the 2021 Busan International Film Festival.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "biff-2021-new-currents-farewell-my-hometown",
+      "mediaType": "movie",
+      "title": "Farewell, My Hometown",
+      "award": "New Currents Award",
+      "awardYear": 2021,
+      "awardOrder": 1,
+      "winner": "WANG Er Zhuo",
+      "releaseDate": "2021",
+      "externalIds": {
+        "letterboxd": "farewell-my-hometown"
+      }
+    },
+    {
+      "id": "biff-2021-new-currents-the-apartment-with-two-women",
+      "mediaType": "movie",
+      "title": "The Apartment with Two Women",
+      "award": "New Currents Award",
+      "awardYear": 2021,
+      "awardOrder": 2,
+      "winner": "KIM Se-in",
+      "releaseDate": "2021",
+      "externalIds": {
+        "letterboxd": "the-apartment-with-two-women"
+      }
+    },
+    {
+      "id": "biff-2021-kim-jiseok-the-rapist",
+      "mediaType": "movie",
+      "title": "The Rapist",
+      "award": "KIM Jiseok Award",
+      "awardYear": 2021,
+      "awardOrder": 3,
+      "winner": "Aparna SEN",
+      "releaseDate": "2021",
+      "externalIds": {
+        "letterboxd": "the-rapist"
+      }
+    },
+    {
+      "id": "biff-2021-kim-jiseok-gensan-punch",
+      "mediaType": "movie",
+      "title": "GENSAN PUNCH",
+      "award": "KIM Jiseok Award",
+      "awardYear": 2021,
+      "awardOrder": 4,
+      "winner": "Brillante Ma MENDOZA",
+      "releaseDate": "2021",
+      "externalIds": {
+        "letterboxd": "gensan-punch"
+      }
+    },
+    {
+      "id": "biff-2021-mecenat-206-unearthed",
+      "mediaType": "movie",
+      "title": "206: Unearthed",
+      "award": "BIFF Mecenat Award",
+      "awardYear": 2021,
+      "awardOrder": 5,
+      "winner": "HEO Chul-nyung",
+      "releaseDate": "2021",
+      "externalIds": {
+        "letterboxd": "206-unearthed"
+      }
+    },
+    {
+      "id": "biff-2021-mecenat-self-portrait-fairy-tale-in-47km",
+      "mediaType": "movie",
+      "title": "Self-Portrait: Fairy Tale in 47KM",
+      "award": "BIFF Mecenat Award",
+      "awardYear": 2021,
+      "awardOrder": 6,
+      "winner": "ZHANG Mengqi",
+      "releaseDate": "2021",
+      "externalIds": {
+        "letterboxd": "self-portrait-fairy-tale-in-47km"
+      }
+    },
+    {
+      "id": "biff-2021-sonje-a-winter-glove",
+      "mediaType": "movie",
+      "title": "A Winter Glove",
+      "award": "Sonje Award",
+      "awardYear": 2021,
+      "awardOrder": 7,
+      "winner": "LEE Hyeonju",
+      "releaseDate": "2021",
+      "externalIds": {
+        "letterboxd": "a-winter-glove"
+      }
+    },
+    {
+      "id": "biff-2021-sonje-the-sea-calls-for-me",
+      "mediaType": "movie",
+      "title": "The Sea Calls for Me",
+      "award": "Sonje Award",
+      "awardYear": 2021,
+      "awardOrder": 8,
+      "winner": "Tumpal TAMPUBOLON",
+      "releaseDate": "2021",
+      "externalIds": {
+        "letterboxd": "the-sea-calls-for-me"
+      }
+    }
+  ]
+}

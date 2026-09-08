@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "ChatGPT",
+  "title": "프라임타임 에미상 — 드라마 시리즈 여우주연상",
+  "description": "프라임타임 에미상 “드라마 시리즈 여우주연상” 수상 기록.",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "emmys-lead-actress-drama.list.json"
+    }
+  ]
+}

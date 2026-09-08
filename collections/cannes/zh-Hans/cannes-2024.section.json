@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "Mydea",
+  "title": "戛纳电影节 2024 年获奖名单",
+  "description": "第77届戛纳电影节官方影片相关奖项，涵盖主竞赛单元, 短片, 一种关注单元, 金摄影机奖, 电影基石单元 以及 CST 技术奖。",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "cannes-2024.list.json"
+    }
+  ]
+}

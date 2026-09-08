@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "Mydea",
+  "title": "Berlinale — Silver Bear – 70th Berlinale",
+  "description": "Complete historical winners of the Berlinale Silver Bear – 70th Berlinale.",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "berlinale-70th-silver-bear.list.json"
+    }
+  ]
+}

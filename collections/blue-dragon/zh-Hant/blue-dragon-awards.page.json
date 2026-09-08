@@ -1,0 +1,203 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "title": "青龍電影獎獎項",
+  "description": "青龍電影獎各獎項完整獲獎名單。",
+  "tags": [
+    "award",
+    "prize"
+  ],
+  "icon": "ticket",
+  "sections": [
+    {
+      "title": "青龍電影獎 — 最佳影片",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "carousel",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "blue-dragon-best-film.list.json"
+        }
+      ],
+      "limit": 10
+    },
+    {
+      "title": "青龍電影獎 — 最佳導演",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "blue-dragon-best-director.list.json"
+        }
+      ],
+      "limit": 10
+    },
+    {
+      "title": "青龍電影獎 — 最佳男主角",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "blue-dragon-best-actor.list.json"
+        }
+      ],
+      "limit": 10
+    },
+    {
+      "title": "青龍電影獎 — 最佳女主角",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "blue-dragon-best-actress.list.json"
+        }
+      ],
+      "limit": 10
+    },
+    {
+      "title": "青龍電影獎 — 最佳男配角",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "blue-dragon-best-supporting-actor.list.json"
+        }
+      ],
+      "limit": 10
+    },
+    {
+      "title": "青龍電影獎 — 最佳女配角",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "blue-dragon-best-supporting-actress.list.json"
+        }
+      ],
+      "limit": 10
+    },
+    {
+      "title": "青龍電影獎 — 最佳新人導演",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "blue-dragon-best-new-director.list.json"
+        }
+      ],
+      "limit": 10
+    },
+    {
+      "title": "青龍電影獎 — 最佳新人男演員",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "blue-dragon-best-new-actor.list.json"
+        }
+      ],
+      "limit": 10
+    },
+    {
+      "title": "青龍電影獎 — 最佳新人女演員",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "blue-dragon-best-new-actress.list.json"
+        }
+      ],
+      "limit": 10
+    },
+    {
+      "title": "青龍電影獎 — 最佳劇本",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "blue-dragon-best-screenplay.list.json"
+        }
+      ],
+      "limit": 10
+    }
+  ]
+}

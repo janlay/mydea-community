@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "金球獎 2017",
+  "description": "2017 金球獎主要电影与电视作品类获奖名单。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "golden-globes-2017-drama-moonlight",
+      "mediaType": "movie",
+      "title": "月光下的藍色男孩",
+      "englishTitle": "Moonlight",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4975722"
+      },
+      "award": "最佳劇情片",
+      "awardYear": 2017,
+      "awardOrder": 1,
+      "winner": "月光下的藍色男孩"
+    },
+    {
+      "id": "golden-globes-2017-comedy-la-la-land",
+      "mediaType": "movie",
+      "title": "樂來越愛你",
+      "englishTitle": "La La Land",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt3783958"
+      },
+      "award": "最佳音樂或喜劇片",
+      "awardYear": 2017,
+      "awardOrder": 2,
+      "winner": "樂來越愛你"
+    },
+    {
+      "id": "golden-globes-2017-animated-zootopia",
+      "mediaType": "movie",
+      "title": "動物方城市",
+      "englishTitle": "Zootopia",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt2948356"
+      },
+      "award": "最佳動畫片",
+      "awardYear": 2017,
+      "awardOrder": 3,
+      "winner": "動物方城市"
+    },
+    {
+      "id": "golden-globes-2017-foreign-elle",
+      "mediaType": "movie",
+      "title": "Elle",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt3716530"
+      },
+      "award": "最佳非英語片",
+      "awardYear": 2017,
+      "awardOrder": 4,
+      "winner": "Elle"
+    },
+    {
+      "id": "golden-globes-2017-tv_drama-the-crown",
+      "mediaType": "tv",
+      "title": "王冠",
+      "englishTitle": "The Crown",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4786824"
+      },
+      "award": "最佳劇情類影集",
+      "awardYear": 2017,
+      "awardOrder": 5,
+      "winner": "王冠"
+    },
+    {
+      "id": "golden-globes-2017-tv_comedy-atlanta",
+      "mediaType": "tv",
+      "title": "Atlanta",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4288182"
+      },
+      "award": "最佳音樂或喜劇類影集",
+      "awardYear": 2017,
+      "awardOrder": 6,
+      "winner": "Atlanta"
+    },
+    {
+      "id": "golden-globes-2017-limited-the-people-v-o-j-simpson-american-crime-story",
+      "mediaType": "tv",
+      "title": "The People v. O. J. Simpson: American Crime Story",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt2788432"
+      },
+      "award": "最佳有限影集、選集影集或電視電影",
+      "awardYear": 2017,
+      "awardOrder": 7,
+      "winner": "The People v. O. J. Simpson: American Crime Story"
+    }
+  ]
+}

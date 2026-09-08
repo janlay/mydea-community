@@ -1,0 +1,475 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-12T02:57:20Z",
+  "title": "홍콩 영화 금상장 — 여우조연상",
+  "description": "홍콩 영화 금상장 역대 여우조연상 수상 기록.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "hkfa-best-supporting-actress-1985-hkfa-film",
+      "mediaType": "movie",
+      "title": "緣份",
+      "releaseDate": "1984",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 1985,
+      "winner": "매염방"
+    },
+    {
+      "id": "hkfa-best-supporting-actress-1986-hkfa-film",
+      "mediaType": "movie",
+      "title": "花街時代",
+      "releaseDate": "1985",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 1986,
+      "winner": "엽덕한"
+    },
+    {
+      "id": "hkfa-best-supporting-actress-1987-hkfa-film",
+      "mediaType": "movie",
+      "title": "地下情",
+      "releaseDate": "1986",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 1987,
+      "winner": "金燕玲"
+    },
+    {
+      "id": "hkfa-best-supporting-actress-1988-hkfa-film",
+      "mediaType": "movie",
+      "title": "人民英雄",
+      "releaseDate": "1987",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 1988,
+      "winner": "金燕玲"
+    },
+    {
+      "id": "hkfa-best-supporting-actress-1989-hkfa-film",
+      "mediaType": "movie",
+      "title": "學校風雲",
+      "releaseDate": "1988",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 1989,
+      "winner": "李麗蕊"
+    },
+    {
+      "id": "hkfa-best-supporting-actress-1990-hkfa-film",
+      "mediaType": "movie",
+      "title": "飛越黃昏",
+      "releaseDate": "1989",
+      "externalIds": {
+        "imdb": "tt0097344"
+      },
+      "awardYear": 1990,
+      "winner": "葉童"
+    },
+    {
+      "id": "hkfa-best-supporting-actress-1991-hkfa-film",
+      "mediaType": "movie",
+      "title": "廟街皇后",
+      "releaseDate": "1990",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 1991,
+      "winner": "劉玉翠"
+    },
+    {
+      "id": "hkfa-best-supporting-actress-1992-hkfa-film",
+      "mediaType": "movie",
+      "title": "與龍共舞",
+      "releaseDate": "1991",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 1992,
+      "winner": "엽덕한"
+    },
+    {
+      "id": "hkfa-best-supporting-actress-1993-92",
+      "mediaType": "movie",
+      "title": "92黑玫瑰對黑玫瑰",
+      "releaseDate": "1992",
+      "externalIds": {
+        "letterboxd": "92"
+      },
+      "awardYear": 1993,
+      "winner": "馮寶寶"
+    },
+    {
+      "id": "hkfa-best-supporting-actress-1994-hkfa-film",
+      "mediaType": "movie",
+      "title": "新不了情",
+      "releaseDate": "1993",
+      "externalIds": {
+        "imdb": "tt0111770"
+      },
+      "awardYear": 1994,
+      "winner": "馮寶寶"
+    },
+    {
+      "id": "hkfa-best-supporting-actress-1995-hkfa-film",
+      "mediaType": "movie",
+      "title": "我和春天有個約會",
+      "releaseDate": "1994",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 1995,
+      "winner": "羅冠蘭"
+    },
+    {
+      "id": "hkfa-best-supporting-actress-1996-hkfa-film",
+      "mediaType": "movie",
+      "title": "墮落天使",
+      "releaseDate": "1995",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 1996,
+      "winner": "莫文蔚"
+    },
+    {
+      "id": "hkfa-best-supporting-actress-1997-hkfa-film",
+      "mediaType": "movie",
+      "title": "色情男女",
+      "releaseDate": "1996",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 1997,
+      "winner": "서기"
+    },
+    {
+      "id": "hkfa-best-supporting-actress-1998-hkfa-film",
+      "mediaType": "movie",
+      "title": "半生緣",
+      "releaseDate": "1997",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 1998,
+      "winner": "매염방"
+    },
+    {
+      "id": "hkfa-best-supporting-actress-1999-hkfa-film",
+      "mediaType": "movie",
+      "title": "古惑仔情義篇之洪興十三妹",
+      "releaseDate": "1998",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 1999,
+      "winner": "서기"
+    },
+    {
+      "id": "hkfa-best-supporting-actress-2000-hkfa-film",
+      "mediaType": "movie",
+      "title": "流星語",
+      "releaseDate": "1999",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 2000,
+      "winner": "吳家麗"
+    },
+    {
+      "id": "hkfa-best-supporting-actress-2001-hkfa-film",
+      "mediaType": "movie",
+      "title": "와호장룡",
+      "releaseDate": "2000",
+      "externalIds": {
+        "imdb": "tt0190332"
+      },
+      "awardYear": 2001,
+      "winner": "鄭佩佩",
+      "originalTitle": "臥虎藏龍"
+    },
+    {
+      "id": "hkfa-best-supporting-actress-2002-hkfa-film",
+      "mediaType": "movie",
+      "title": "男人四十",
+      "releaseDate": "2001",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 2002,
+      "winner": "林嘉欣"
+    },
+    {
+      "id": "hkfa-best-supporting-actress-2003-hkfa-film",
+      "mediaType": "movie",
+      "title": "雙瞳",
+      "releaseDate": "2002",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 2003,
+      "winner": "劉若英"
+    },
+    {
+      "id": "hkfa-best-supporting-actress-2004-hkfa-film",
+      "mediaType": "movie",
+      "title": "豪情",
+      "releaseDate": "2003",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 2004,
+      "winner": "何超儀"
+    },
+    {
+      "id": "hkfa-best-supporting-actress-2005-2",
+      "mediaType": "movie",
+      "title": "三更2之餃子",
+      "releaseDate": "2004",
+      "externalIds": {
+        "letterboxd": "2"
+      },
+      "awardYear": 2005,
+      "winner": "白靈"
+    },
+    {
+      "id": "hkfa-best-supporting-actress-2006-hkfa-film",
+      "mediaType": "movie",
+      "title": "早熟",
+      "releaseDate": "2005",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 2006,
+      "winner": "모순균"
+    },
+    {
+      "id": "hkfa-best-supporting-actress-2007-hkfa-film",
+      "mediaType": "movie",
+      "title": "夜宴",
+      "releaseDate": "2006",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 2007,
+      "winner": "저우쉰"
+    },
+    {
+      "id": "hkfa-best-supporting-actress-2008-hkfa-film",
+      "mediaType": "movie",
+      "title": "野·良犬",
+      "releaseDate": "2007",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 2008,
+      "winner": "邵音音"
+    },
+    {
+      "id": "hkfa-best-supporting-actress-2009-hkfa-film",
+      "mediaType": "movie",
+      "title": "天水圍的日與夜",
+      "releaseDate": "2008",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 2009,
+      "winner": "陳麗雲"
+    },
+    {
+      "id": "hkfa-best-supporting-actress-2010-hkfa-film",
+      "mediaType": "movie",
+      "title": "意外",
+      "releaseDate": "2009",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 2010,
+      "winner": "葉璇"
+    },
+    {
+      "id": "hkfa-best-supporting-actress-2011-hkfa-film",
+      "mediaType": "movie",
+      "title": "打擂台",
+      "releaseDate": "2010",
+      "externalIds": {
+        "imdb": "tt1611823"
+      },
+      "awardYear": 2011,
+      "winner": "邵音音"
+    },
+    {
+      "id": "hkfa-best-supporting-actress-2012-hkfa-film",
+      "mediaType": "movie",
+      "title": "奪命金",
+      "releaseDate": "2011",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 2012,
+      "winner": "蘇杏璇"
+    },
+    {
+      "id": "hkfa-best-supporting-actress-2013-hkfa-film",
+      "mediaType": "movie",
+      "title": "低俗喜劇",
+      "releaseDate": "2012",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 2013,
+      "winner": "陳靜"
+    },
+    {
+      "id": "hkfa-best-supporting-actress-2014-hkfa-film",
+      "mediaType": "movie",
+      "title": "殭屍",
+      "releaseDate": "2013",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 2014,
+      "winner": "혜영홍"
+    },
+    {
+      "id": "hkfa-best-supporting-actress-2015-sss",
+      "mediaType": "movie",
+      "title": "金雞SSS",
+      "releaseDate": "2014",
+      "externalIds": {
+        "letterboxd": "sss"
+      },
+      "awardYear": 2015,
+      "winner": "王菀之"
+    },
+    {
+      "id": "hkfa-best-supporting-actress-2016-hkfa-film",
+      "mediaType": "movie",
+      "title": "답혈심매",
+      "releaseDate": "2015",
+      "externalIds": {
+        "imdb": "tt5148932"
+      },
+      "awardYear": 2016,
+      "winner": "金燕玲",
+      "originalTitle": "踏血尋梅"
+    },
+    {
+      "id": "hkfa-2017-best-supporting-actress-6041030",
+      "mediaType": "movie",
+      "title": "一念無明",
+      "awardYear": 2017,
+      "winner": "金燕玲",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt6041030"
+      }
+    },
+    {
+      "id": "hkfa-2018-best-supporting-actress-7075594",
+      "mediaType": "movie",
+      "title": "明月幾時有",
+      "awardYear": 2018,
+      "winner": "엽덕한",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7075594"
+      }
+    },
+    {
+      "id": "hkfa-2019-best-supporting-actress-7762748",
+      "mediaType": "movie",
+      "title": "翠絲",
+      "awardYear": 2019,
+      "winner": "혜영홍",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7762748"
+      }
+    },
+    {
+      "id": "hkfa-2020-best-supporting-actress-10975520",
+      "mediaType": "movie",
+      "title": "叔·叔",
+      "awardYear": 2020,
+      "winner": "區嘉雯",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10975520"
+      }
+    },
+    {
+      "id": "hkfa-2022-best-supporting-actress-15010590",
+      "mediaType": "movie",
+      "title": "아니타",
+      "awardYear": 2022,
+      "winner": "랴오쯔위",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt15010590"
+      },
+      "originalTitle": "梅艷芳"
+    },
+    {
+      "id": "hkfa-2023-best-supporting-actress-21187542",
+      "mediaType": "movie",
+      "title": "飯戲攻心",
+      "awardYear": 2023,
+      "winner": "王菀之",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt21187542"
+      }
+    },
+    {
+      "id": "hkfa-2024-best-supporting-actress-27881515",
+      "mediaType": "movie",
+      "title": "백일지하",
+      "awardYear": 2024,
+      "winner": "梁雍婷",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt27881515"
+      },
+      "originalTitle": "白日之下"
+    },
+    {
+      "id": "hkfa-2025-best-supporting-actress-33499985",
+      "mediaType": "movie",
+      "title": "爸爸",
+      "awardYear": 2025,
+      "winner": "谷祖琳",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt33499985"
+      }
+    },
+    {
+      "id": "hkfa-2026-best-supporting-actress-14241008",
+      "mediaType": "movie",
+      "title": "再見UFO",
+      "awardYear": 2026,
+      "winner": "웨이시야",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt14241008"
+      }
+    }
+  ]
+}

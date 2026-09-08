@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "ゴールデングローブ賞 2025",
+  "description": "2025年のゴールデングローブ賞主要映画・テレビ作品部門の受賞一覧。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "golden-globes-2025-drama-the-brutalist",
+      "mediaType": "movie",
+      "title": "ブルータリスト",
+      "englishTitle": "The Brutalist",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt8999762"
+      },
+      "award": "作品賞 ドラマ部門",
+      "awardYear": 2025,
+      "awardOrder": 1,
+      "winner": "ブルータリスト"
+    },
+    {
+      "id": "golden-globes-2025-comedy-emilia-perez",
+      "mediaType": "movie",
+      "title": "エミリア・ペレス",
+      "englishTitle": "Emilia Pérez",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt20221436"
+      },
+      "award": "作品賞 ミュージカル・コメディ部門",
+      "awardYear": 2025,
+      "awardOrder": 2,
+      "winner": "エミリア・ペレス"
+    },
+    {
+      "id": "golden-globes-2025-animated-flow",
+      "mediaType": "movie",
+      "title": "Flow",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt4772188"
+      },
+      "award": "アニメーション映画賞",
+      "awardYear": 2025,
+      "awardOrder": 3,
+      "winner": "Flow"
+    },
+    {
+      "id": "golden-globes-2025-foreign-emilia-perez",
+      "mediaType": "movie",
+      "title": "エミリア・ペレス",
+      "englishTitle": "Emilia Pérez",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt20221436"
+      },
+      "award": "非英語映画賞",
+      "awardYear": 2025,
+      "awardOrder": 4,
+      "winner": "エミリア・ペレス"
+    },
+    {
+      "id": "golden-globes-2025-tv_drama-shogun",
+      "mediaType": "tv",
+      "title": "SHOGUN 将軍",
+      "englishTitle": "Shōgun",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt2788316"
+      },
+      "award": "テレビドラマ作品賞",
+      "awardYear": 2025,
+      "awardOrder": 5,
+      "winner": "SHOGUN 将軍"
+    },
+    {
+      "id": "golden-globes-2025-tv_comedy-hacks",
+      "mediaType": "tv",
+      "title": "Hacks",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt11815682"
+      },
+      "award": "テレビ作品賞 ミュージカル・コメディ部門",
+      "awardYear": 2025,
+      "awardOrder": 6,
+      "winner": "Hacks"
+    },
+    {
+      "id": "golden-globes-2025-limited-baby-reindeer",
+      "mediaType": "tv",
+      "title": "私のトナカイちゃん",
+      "englishTitle": "Baby Reindeer",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt13649112"
+      },
+      "award": "リミテッドシリーズ・アンソロジー・テレビ映画賞",
+      "awardYear": 2025,
+      "awardOrder": 7,
+      "winner": "私のトナカイちゃん"
+    },
+    {
+      "id": "golden-globes-2025-boxoffice-wicked",
+      "mediaType": "movie",
+      "title": "ウィキッド ふたりの魔女",
+      "englishTitle": "Wicked",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt1262426"
+      },
+      "award": "シネマティック＆ボックスオフィス・アチーブメント賞",
+      "awardYear": 2025,
+      "awardOrder": 8,
+      "winner": "ウィキッド ふたりの魔女"
+    }
+  ]
+}

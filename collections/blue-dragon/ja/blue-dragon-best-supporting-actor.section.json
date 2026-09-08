@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "ChatGPT",
+  "title": "青龍映画賞 — 助演男優賞",
+  "description": "青龍映画賞助演男優賞の歴代受賞者。",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "blue-dragon-best-supporting-actor.list.json"
+    }
+  ]
+}

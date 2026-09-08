@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T05:03:58Z",
+  "title": "아카데미상 — 여우주연상",
+  "description": "아카데미상 여우주연상 최근 10회 수상 기록.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "oscars-best-actress-2017-la-la-land",
+      "mediaType": "movie",
+      "title": "La La Land",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt3783958"
+      },
+      "awardYear": 2017,
+      "winner": "Emma Stone"
+    },
+    {
+      "id": "oscars-best-actress-2018-three-billboards-outside-ebbing-missouri",
+      "mediaType": "movie",
+      "title": "Three Billboards Outside Ebbing, Missouri",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5027774"
+      },
+      "awardYear": 2018,
+      "winner": "Frances McDormand"
+    },
+    {
+      "id": "oscars-best-actress-2019-the-favourite",
+      "mediaType": "movie",
+      "title": "The Favourite",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt5083738"
+      },
+      "awardYear": 2019,
+      "winner": "Olivia Colman"
+    },
+    {
+      "id": "oscars-best-actress-2020-judy",
+      "mediaType": "movie",
+      "title": "Judy",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt7549996"
+      },
+      "awardYear": 2020,
+      "winner": "Renée Zellweger"
+    },
+    {
+      "id": "oscars-best-actress-2021-nomadland",
+      "mediaType": "movie",
+      "title": "Nomadland",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt9770150"
+      },
+      "awardYear": 2021,
+      "winner": "Frances McDormand"
+    },
+    {
+      "id": "oscars-best-actress-2022-the-eyes-of-tammy-faye",
+      "mediaType": "movie",
+      "title": "The Eyes of Tammy Faye",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt9115530"
+      },
+      "awardYear": 2022,
+      "winner": "Jessica Chastain"
+    },
+    {
+      "id": "oscars-best-actress-2023-everything-everywhere-all-at-once",
+      "mediaType": "movie",
+      "title": "Everything Everywhere All at Once",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt6710474"
+      },
+      "awardYear": 2023,
+      "winner": "Michelle Yeoh"
+    },
+    {
+      "id": "oscars-best-actress-2024-poor-things",
+      "mediaType": "movie",
+      "title": "Poor Things",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt14230458"
+      },
+      "awardYear": 2024,
+      "winner": "Emma Stone"
+    },
+    {
+      "id": "oscars-best-actress-2025-anora",
+      "mediaType": "movie",
+      "title": "Anora",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt28607951"
+      },
+      "awardYear": 2025,
+      "winner": "Mikey Madison"
+    },
+    {
+      "id": "oscars-best-actress-2026-hamnet",
+      "mediaType": "movie",
+      "title": "Hamnet",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt14905854"
+      },
+      "awardYear": 2026,
+      "winner": "Jessie Buckley"
+    }
+  ]
+}

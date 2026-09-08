@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:30:00Z",
+  "title": "Berlinale — Silver Bear Jury Prize",
+  "description": "Complete historical winners of the Berlinale Silver Bear Jury Prize.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "berlinale-jury-prize-2021-mr-bachmann-and-his-class",
+      "mediaType": "movie",
+      "title": "Mr Bachmann and His Class",
+      "awardYear": 2021,
+      "winner": "Maria Speth",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14035048"
+      }
+    },
+    {
+      "id": "berlinale-jury-prize-2022-robe-of-gems",
+      "mediaType": "movie",
+      "title": "Robe of Gems",
+      "awardYear": 2022,
+      "winner": "Natalia López Gallardo",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt17280362"
+      }
+    },
+    {
+      "id": "berlinale-jury-prize-2023-bad-living",
+      "mediaType": "movie",
+      "title": "Bad Living",
+      "awardYear": 2023,
+      "winner": "João Canijo",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt14007288"
+      }
+    },
+    {
+      "id": "berlinale-jury-prize-2024-the-empire",
+      "mediaType": "movie",
+      "title": "The Empire",
+      "awardYear": 2024,
+      "winner": "Bruno Dumont",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt17375596"
+      }
+    },
+    {
+      "id": "berlinale-jury-prize-2025-the-message",
+      "mediaType": "movie",
+      "title": "The Message",
+      "awardYear": 2025,
+      "winner": "Iván Fund",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt35499146"
+      }
+    },
+    {
+      "id": "berlinale-jury-prize-2026-queen-at-sea",
+      "mediaType": "movie",
+      "title": "Queen at Sea",
+      "awardYear": 2026,
+      "winner": "Lance Hammer",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt27541205"
+      }
+    }
+  ]
+}

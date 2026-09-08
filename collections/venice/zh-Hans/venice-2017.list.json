@@ -1,0 +1,124 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:30:00Z",
+  "title": "威尼斯电影节 2017 年获奖名单",
+  "description": "第85届威尼斯电影节主竞赛主要官方奖项获奖影片。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "venice-golden-lion-2017-the-shape-of-water-1",
+      "mediaType": "movie",
+      "title": "水形物语",
+      "releaseDate": "2017",
+      "externalIds": {
+        "letterboxd": "the-shape-of-water"
+      },
+      "awardYear": 2017,
+      "winner": "Guillermo del Toro",
+      "englishTitle": "The Shape of Water",
+      "award": "金狮奖"
+    },
+    {
+      "id": "venice-grand-jury-prize-2017-foxtrot-2",
+      "mediaType": "movie",
+      "title": "狐步舞",
+      "releaseDate": "2017",
+      "externalIds": {
+        "letterboxd": "foxtrot"
+      },
+      "awardYear": 2017,
+      "winner": "Samuel Maoz",
+      "englishTitle": "Foxtrot",
+      "award": "银狮奖·评审团大奖"
+    },
+    {
+      "id": "venice-best-director-2017-custody-3",
+      "mediaType": "movie",
+      "title": "监护风云",
+      "releaseDate": "2017",
+      "externalIds": {
+        "letterboxd": "custody"
+      },
+      "awardYear": 2017,
+      "winner": "Xavier Legrand",
+      "englishTitle": "Custody",
+      "award": "银狮奖·最佳导演"
+    },
+    {
+      "id": "venice-best-actress-2017-hannah-4",
+      "mediaType": "movie",
+      "title": "汉娜",
+      "releaseDate": "2017",
+      "externalIds": {
+        "letterboxd": "hannah"
+      },
+      "awardYear": 2017,
+      "winner": "Charlotte Rampling",
+      "englishTitle": "Hannah",
+      "award": "沃尔皮杯·最佳女演员"
+    },
+    {
+      "id": "venice-best-actor-2017-the-insult-5",
+      "mediaType": "movie",
+      "title": "羞辱",
+      "releaseDate": "2017",
+      "externalIds": {
+        "letterboxd": "the-insult"
+      },
+      "awardYear": 2017,
+      "winner": "Kamel El Basha",
+      "englishTitle": "The Insult",
+      "award": "沃尔皮杯·最佳男演员"
+    },
+    {
+      "id": "venice-best-screenplay-2017-three-billboards-outside-ebbing-missouri-6",
+      "mediaType": "movie",
+      "title": "三块广告牌",
+      "releaseDate": "2017",
+      "externalIds": {
+        "letterboxd": "three-billboards-outside-ebbing-missouri"
+      },
+      "awardYear": 2017,
+      "winner": "Martin McDonagh",
+      "englishTitle": "Three Billboards Outside Ebbing, Missouri",
+      "award": "最佳编剧奖"
+    },
+    {
+      "id": "venice-special-jury-prize-2017-sweet-country-7",
+      "mediaType": "movie",
+      "title": "甜蜜国度",
+      "releaseDate": "2017",
+      "externalIds": {
+        "letterboxd": "sweet-country"
+      },
+      "awardYear": 2017,
+      "winner": "Warwick Thornton",
+      "englishTitle": "Sweet Country",
+      "award": "评审团特别奖"
+    },
+    {
+      "id": "venice-mastroianni-2017-lean-on-pete-8",
+      "mediaType": "movie",
+      "title": "赛马皮特",
+      "releaseDate": "2017",
+      "externalIds": {
+        "letterboxd": "lean-on-pete"
+      },
+      "awardYear": 2017,
+      "winner": "Charlie Plummer",
+      "englishTitle": "Lean on Pete",
+      "award": "马塞洛·马斯楚安尼奖"
+    }
+  ]
+}

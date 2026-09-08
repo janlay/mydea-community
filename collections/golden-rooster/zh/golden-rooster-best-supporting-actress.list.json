@@ -1,0 +1,299 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T00:56:00Z",
+  "title": "金鸡奖 — 最佳女配角",
+  "description": "中国电影金鸡奖历届最佳女配角获奖记录；并列获奖按独立条目保留。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "golden-rooster-1982-best-supporting-actress-95607131",
+      "mediaType": "movie",
+      "title": "被爱情遗忘的角落",
+      "awardYear": 1982,
+      "winner": "贺小书"
+    },
+    {
+      "id": "golden-rooster-1983-best-supporting-actress-82182846",
+      "mediaType": "movie",
+      "title": "城南旧事",
+      "externalIds": {
+        "tmdb": "198222",
+        "imdb": "tt0085334"
+      },
+      "awardYear": 1983,
+      "winner": "郑振瑶"
+    },
+    {
+      "id": "golden-rooster-1984-best-supporting-actress-20888136",
+      "mediaType": "movie",
+      "title": "十六号病房",
+      "awardYear": 1984,
+      "winner": "宋晓英"
+    },
+    {
+      "id": "golden-rooster-1985-best-supporting-actress-89367672",
+      "mediaType": "movie",
+      "title": "谭嗣同",
+      "awardYear": 1985,
+      "winner": "王玉梅"
+    },
+    {
+      "id": "golden-rooster-1985-best-supporting-actress-18342895",
+      "mediaType": "movie",
+      "title": "黄山来的姑娘",
+      "awardYear": 1985,
+      "winner": "丁一"
+    },
+    {
+      "id": "golden-rooster-1986-best-supporting-actress-05323667",
+      "mediaType": "movie",
+      "title": "日出",
+      "awardYear": 1986,
+      "winner": "王馥荔"
+    },
+    {
+      "id": "golden-rooster-1987-best-supporting-actress-34129433",
+      "mediaType": "movie",
+      "title": "芙蓉镇",
+      "externalIds": {
+        "tmdb": "38993",
+        "imdb": "tt0087301"
+      },
+      "awardYear": 1987,
+      "winner": "徐宁"
+    },
+    {
+      "id": "golden-rooster-1988-best-supporting-actress-30285558",
+      "mediaType": "movie",
+      "title": "老井",
+      "externalIds": {
+        "tmdb": "36436",
+        "imdb": "tt0093392"
+      },
+      "awardYear": 1988,
+      "winner": "吕丽萍"
+    },
+    {
+      "id": "golden-rooster-1990-best-supporting-actress-94934364",
+      "mediaType": "movie",
+      "title": "红楼梦",
+      "awardYear": 1990,
+      "winner": "林默予"
+    },
+    {
+      "id": "golden-rooster-1992-best-supporting-actress-46159622",
+      "mediaType": "movie",
+      "title": "过年",
+      "awardYear": 1992,
+      "winner": "丁嘉莉"
+    },
+    {
+      "id": "golden-rooster-1993-best-supporting-actress-66504189",
+      "mediaType": "movie",
+      "title": "人之初",
+      "awardYear": 1993,
+      "winner": "张力维"
+    },
+    {
+      "id": "golden-rooster-1995-best-supporting-actress-23639902",
+      "mediaType": "movie",
+      "title": "永失我爱",
+      "awardYear": 1995,
+      "winner": "剧雪"
+    },
+    {
+      "id": "golden-rooster-1996-best-supporting-actress-05860435",
+      "mediaType": "movie",
+      "title": "吴二哥请神",
+      "awardYear": 1996,
+      "winner": "郑卫莉"
+    },
+    {
+      "id": "golden-rooster-1997-best-supporting-actress-11274915",
+      "mediaType": "movie",
+      "title": "我也有爸爸",
+      "awardYear": 1997,
+      "winner": "马晓晴"
+    },
+    {
+      "id": "golden-rooster-1998-best-supporting-actress-25711812",
+      "mediaType": "movie",
+      "title": "安居",
+      "awardYear": 1998,
+      "winner": "白雪云"
+    },
+    {
+      "id": "golden-rooster-1999-best-supporting-actress-63787385",
+      "mediaType": "movie",
+      "title": "春天的狂想",
+      "awardYear": 1999,
+      "winner": "袁泉"
+    },
+    {
+      "id": "golden-rooster-2000-best-supporting-actress-81808849",
+      "mediaType": "movie",
+      "title": "横空出世",
+      "awardYear": 2000,
+      "winner": "陈瑾"
+    },
+    {
+      "id": "golden-rooster-2001-best-supporting-actress-01187714",
+      "mediaType": "movie",
+      "title": "月圆今宵",
+      "awardYear": 2001,
+      "winner": "彭玉"
+    },
+    {
+      "id": "golden-rooster-2002-best-supporting-actress-92842366",
+      "mediaType": "movie",
+      "title": "美丽的大脚",
+      "awardYear": 2002,
+      "winner": "袁泉"
+    },
+    {
+      "id": "golden-rooster-2003-best-supporting-actress-29441570",
+      "mediaType": "movie",
+      "title": "我的美丽乡愁",
+      "awardYear": 2003,
+      "winner": "徐静蕾"
+    },
+    {
+      "id": "golden-rooster-2005-best-supporting-actress-87573786",
+      "mediaType": "movie",
+      "title": "孔雀",
+      "externalIds": {
+        "tmdb": "16146",
+        "imdb": "tt0445506"
+      },
+      "awardYear": 2005,
+      "winner": "黄梅莹"
+    },
+    {
+      "id": "golden-rooster-2007-best-supporting-actress-46900845",
+      "mediaType": "movie",
+      "title": "鸡犬不宁",
+      "awardYear": 2007,
+      "winner": "小香玉"
+    },
+    {
+      "id": "golden-rooster-2009-best-supporting-actress-09299732",
+      "mediaType": "movie",
+      "title": "走着瞧",
+      "awardYear": 2009,
+      "winner": "岳红"
+    },
+    {
+      "id": "golden-rooster-2011-best-supporting-actress-36387167",
+      "mediaType": "movie",
+      "title": "惊沙",
+      "awardYear": 2011,
+      "winner": "国歌"
+    },
+    {
+      "id": "golden-rooster-2013-best-supporting-actress-08678627",
+      "mediaType": "movie",
+      "title": "搜索",
+      "externalIds": {
+        "tmdb": "127864",
+        "imdb": "tt2259360"
+      },
+      "awardYear": 2013,
+      "winner": "王珞丹"
+    },
+    {
+      "id": "golden-rooster-2015-best-supporting-actress-29849559",
+      "mediaType": "movie",
+      "title": "全民目击",
+      "awardYear": 2015,
+      "winner": "邓家佳"
+    },
+    {
+      "id": "golden-rooster-2017-best-supporting-actress-30746487",
+      "mediaType": "movie",
+      "title": "搬迁",
+      "awardYear": 2017,
+      "winner": "吴彦姝"
+    },
+    {
+      "id": "golden-rooster-2019-best-supporting-actress-20571671",
+      "mediaType": "movie",
+      "title": "送我上青云",
+      "awardYear": 2019,
+      "winner": "吴玉芳"
+    },
+    {
+      "id": "golden-rooster-2020-best-supporting-actress-73875884",
+      "mediaType": "movie",
+      "title": "中国机长",
+      "releaseDate": "2019",
+      "externalIds": {
+        "tmdb": "595975",
+        "imdb": "tt10218674"
+      },
+      "awardYear": 2020,
+      "winner": "袁泉"
+    },
+    {
+      "id": "golden-rooster-2021-best-supporting-actress-59386632",
+      "mediaType": "movie",
+      "title": "我的姐姐",
+      "releaseDate": "2021",
+      "externalIds": {
+        "tmdb": "795607",
+        "imdb": "tt12788408"
+      },
+      "awardYear": 2021,
+      "winner": "朱媛媛"
+    },
+    {
+      "id": "golden-rooster-2022-best-supporting-actress-05637408",
+      "mediaType": "movie",
+      "title": "奇迹·笨小孩",
+      "releaseDate": "2022",
+      "externalIds": {
+        "tmdb": "926899",
+        "imdb": "tt15783426"
+      },
+      "awardYear": 2022,
+      "winner": "齐溪"
+    },
+    {
+      "id": "golden-rooster-2023-best-supporting-actress-01224089",
+      "mediaType": "movie",
+      "title": "永安镇故事集",
+      "awardYear": 2023,
+      "winner": "黄米依"
+    },
+    {
+      "id": "golden-rooster-2024-best-supporting-actress-69852821",
+      "mediaType": "movie",
+      "title": "乘船而去",
+      "releaseDate": "2023",
+      "awardYear": 2024,
+      "winner": "刘丹"
+    },
+    {
+      "id": "golden-rooster-2025-best-supporting-actress-62660287",
+      "mediaType": "movie",
+      "title": "好东西",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt31807233",
+        "douban": "36154853"
+      },
+      "awardYear": 2025,
+      "winner": "钟楚曦"
+    }
+  ]
+}

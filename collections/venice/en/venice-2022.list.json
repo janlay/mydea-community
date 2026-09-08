@@ -1,0 +1,116 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:30:00Z",
+  "title": "Venice Film Festival 2022 Awards",
+  "description": "Main Competition official award-winning films at the 2022 Venice International Film Festival.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "venice-golden-lion-2022-all-the-beauty-and-the-bloodshed-1",
+      "mediaType": "movie",
+      "title": "All the Beauty and the Bloodshed",
+      "releaseDate": "2022",
+      "externalIds": {
+        "letterboxd": "all-the-beauty-and-the-bloodshed"
+      },
+      "awardYear": 2022,
+      "winner": "Laura Poitras",
+      "award": "Golden Lion"
+    },
+    {
+      "id": "venice-grand-jury-prize-2022-saint-omer-2",
+      "mediaType": "movie",
+      "title": "Saint Omer",
+      "releaseDate": "2022",
+      "externalIds": {
+        "letterboxd": "saint-omer"
+      },
+      "awardYear": 2022,
+      "winner": "Alice Diop",
+      "award": "Silver Lion – Grand Jury Prize"
+    },
+    {
+      "id": "venice-best-director-2022-bones-and-all-3",
+      "mediaType": "movie",
+      "title": "Bones and All",
+      "releaseDate": "2022",
+      "externalIds": {
+        "letterboxd": "bones-and-all"
+      },
+      "awardYear": 2022,
+      "winner": "Luca Guadagnino",
+      "award": "Silver Lion – Best Director"
+    },
+    {
+      "id": "venice-best-actress-2022-tar-4",
+      "mediaType": "movie",
+      "title": "Tár",
+      "releaseDate": "2022",
+      "externalIds": {
+        "letterboxd": "tar"
+      },
+      "awardYear": 2022,
+      "winner": "Cate Blanchett",
+      "award": "Volpi Cup for Best Actress"
+    },
+    {
+      "id": "venice-best-actor-2022-the-banshees-of-inisherin-5",
+      "mediaType": "movie",
+      "title": "The Banshees of Inisherin",
+      "releaseDate": "2022",
+      "externalIds": {
+        "letterboxd": "the-banshees-of-inisherin"
+      },
+      "awardYear": 2022,
+      "winner": "Colin Farrell",
+      "award": "Volpi Cup for Best Actor"
+    },
+    {
+      "id": "venice-best-screenplay-2022-the-banshees-of-inisherin-6",
+      "mediaType": "movie",
+      "title": "The Banshees of Inisherin",
+      "releaseDate": "2022",
+      "externalIds": {
+        "letterboxd": "the-banshees-of-inisherin"
+      },
+      "awardYear": 2022,
+      "winner": "Martin McDonagh",
+      "award": "Best Screenplay"
+    },
+    {
+      "id": "venice-special-jury-prize-2022-no-bears-7",
+      "mediaType": "movie",
+      "title": "No Bears",
+      "releaseDate": "2022",
+      "externalIds": {
+        "letterboxd": "no-bears"
+      },
+      "awardYear": 2022,
+      "winner": "Jafar Panahi",
+      "award": "Special Jury Prize"
+    },
+    {
+      "id": "venice-mastroianni-2022-bones-and-all-8",
+      "mediaType": "movie",
+      "title": "Bones and All",
+      "releaseDate": "2022",
+      "externalIds": {
+        "letterboxd": "bones-and-all"
+      },
+      "awardYear": 2022,
+      "winner": "Taylor Russell",
+      "award": "Marcello Mastroianni Award"
+    }
+  ]
+}

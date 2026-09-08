@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "골든 글로브 2017",
+  "description": "2017 골든 글로브 주요 영화·텔레비전 작품 부문 수상 목록.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "golden-globes-2017-drama-moonlight",
+      "mediaType": "movie",
+      "title": "문라이트",
+      "englishTitle": "Moonlight",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4975722"
+      },
+      "award": "작품상 드라마",
+      "awardYear": 2017,
+      "awardOrder": 1,
+      "winner": "문라이트"
+    },
+    {
+      "id": "golden-globes-2017-comedy-la-la-land",
+      "mediaType": "movie",
+      "title": "라라랜드",
+      "englishTitle": "La La Land",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt3783958"
+      },
+      "award": "작품상 뮤지컬·코미디",
+      "awardYear": 2017,
+      "awardOrder": 2,
+      "winner": "라라랜드"
+    },
+    {
+      "id": "golden-globes-2017-animated-zootopia",
+      "mediaType": "movie",
+      "title": "주토피아",
+      "englishTitle": "Zootopia",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt2948356"
+      },
+      "award": "애니메이션 영화상",
+      "awardYear": 2017,
+      "awardOrder": 3,
+      "winner": "주토피아"
+    },
+    {
+      "id": "golden-globes-2017-foreign-elle",
+      "mediaType": "movie",
+      "title": "엘르",
+      "englishTitle": "Elle",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt3716530"
+      },
+      "award": "비영어권 영화상",
+      "awardYear": 2017,
+      "awardOrder": 4,
+      "winner": "엘르"
+    },
+    {
+      "id": "golden-globes-2017-tv_drama-the-crown",
+      "mediaType": "tv",
+      "title": "더 크라운",
+      "englishTitle": "The Crown",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4786824"
+      },
+      "award": "TV 드라마 작품상",
+      "awardYear": 2017,
+      "awardOrder": 5,
+      "winner": "더 크라운"
+    },
+    {
+      "id": "golden-globes-2017-tv_comedy-atlanta",
+      "mediaType": "tv",
+      "title": "애틀랜타",
+      "englishTitle": "Atlanta",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4288182"
+      },
+      "award": "TV 뮤지컬·코미디 작품상",
+      "awardYear": 2017,
+      "awardOrder": 6,
+      "winner": "애틀랜타"
+    },
+    {
+      "id": "golden-globes-2017-limited-the-people-v-o-j-simpson-american-crime-story",
+      "mediaType": "tv",
+      "title": "The People v. O. J. Simpson: American Crime Story",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt2788432"
+      },
+      "award": "리미티드 시리즈·앤솔러지·TV 영화상",
+      "awardYear": 2017,
+      "awardOrder": 7,
+      "winner": "The People v. O. J. Simpson: American Crime Story"
+    }
+  ]
+}

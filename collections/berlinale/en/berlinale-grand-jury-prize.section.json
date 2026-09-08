@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "Mydea",
+  "title": "Berlinale — Silver Bear Grand Jury Prize",
+  "description": "Complete historical winners of the Berlinale Silver Bear Grand Jury Prize.",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "berlinale-grand-jury-prize.list.json"
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "title": "Baeksang Arts Awards 10 Years",
+  "description": "Major film and broadcast winners of the Baeksang Arts Awards from 2017 to 2026.",
+  "tags": [
+    "award",
+    "decade"
+  ],
+  "icon": "ticket",
+  "sections": [
+    {
+      "title": "Baeksang Arts Awards — 2026",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "carousel",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "baeksang-2026.list.json"
+        }
+      ]
+    },
+    {
+      "title": "Baeksang Arts Awards — 2025",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "baeksang-2025.list.json"
+        }
+      ]
+    },
+    {
+      "title": "Baeksang Arts Awards — 2024",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "baeksang-2024.list.json"
+        }
+      ]
+    },
+    {
+      "title": "Baeksang Arts Awards — 2023",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "baeksang-2023.list.json"
+        }
+      ]
+    },
+    {
+      "title": "Baeksang Arts Awards — 2022",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "baeksang-2022.list.json"
+        }
+      ]
+    },
+    {
+      "title": "Baeksang Arts Awards — 2021",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "baeksang-2021.list.json"
+        }
+      ]
+    },
+    {
+      "title": "Baeksang Arts Awards — 2020",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "baeksang-2020.list.json"
+        }
+      ]
+    },
+    {
+      "title": "Baeksang Arts Awards — 2019",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "baeksang-2019.list.json"
+        }
+      ]
+    },
+    {
+      "title": "Baeksang Arts Awards — 2018",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "baeksang-2018.list.json"
+        }
+      ]
+    },
+    {
+      "title": "Baeksang Arts Awards — 2017",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "baeksang-2017.list.json"
+        }
+      ]
+    }
+  ]
+}

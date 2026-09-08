@@ -1,0 +1,174 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-12T02:54:20Z",
+  "title": "青龍電影獎 — 2023",
+  "description": "2023年韓國青龍電影獎10個主要電影獎項獲獎作品。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "blue-dragon-2023-best-film-smugglers",
+      "mediaType": "movie",
+      "title": "走私",
+      "originalTitle": "밀수",
+      "englishTitle": "Smugglers",
+      "award": "最佳影片",
+      "awardYear": 2023,
+      "awardOrder": 1,
+      "winner": "Ryoo Seung-wan",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt28106766"
+      }
+    },
+    {
+      "id": "blue-dragon-2023-best-director-concrete-utopia",
+      "mediaType": "movie",
+      "title": "混凝土烏托邦",
+      "originalTitle": "콘크리트 유토피아",
+      "englishTitle": "Concrete Utopia",
+      "award": "最佳導演",
+      "awardYear": 2023,
+      "awardOrder": 2,
+      "winner": "Uhm Tae-hwa",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt13086266"
+      }
+    },
+    {
+      "id": "blue-dragon-2023-best-actor-concrete-utopia",
+      "mediaType": "movie",
+      "title": "混凝土烏托邦",
+      "originalTitle": "콘크리트 유토피아",
+      "englishTitle": "Concrete Utopia",
+      "award": "最佳男主角",
+      "awardYear": 2023,
+      "awardOrder": 3,
+      "winner": "Lee Byung-hun",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt13086266"
+      }
+    },
+    {
+      "id": "blue-dragon-2023-best-actress-sleep",
+      "mediaType": "movie",
+      "title": "睡眠",
+      "originalTitle": "잠",
+      "englishTitle": "Sleep",
+      "award": "最佳女主角",
+      "awardYear": 2023,
+      "awardOrder": 4,
+      "winner": "Jung Yu-mi",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt8209702"
+      }
+    },
+    {
+      "id": "blue-dragon-2023-best-supporting-actor-smugglers",
+      "mediaType": "movie",
+      "title": "走私",
+      "originalTitle": "밀수",
+      "englishTitle": "Smugglers",
+      "award": "最佳男配角",
+      "awardYear": 2023,
+      "awardOrder": 5,
+      "winner": "Zo In-sung",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt28106766"
+      }
+    },
+    {
+      "id": "blue-dragon-2023-best-supporting-actress-cobweb",
+      "mediaType": "movie",
+      "title": "蜘蛛網",
+      "originalTitle": "거미집",
+      "englishTitle": "Cobweb",
+      "award": "最佳女配角",
+      "awardYear": 2023,
+      "awardOrder": 6,
+      "winner": "Jeon Yeo-bin",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt21254598"
+      }
+    },
+    {
+      "id": "blue-dragon-2023-best-new-director-night-owl",
+      "mediaType": "movie",
+      "title": "夜梟",
+      "originalTitle": "올빼미",
+      "englishTitle": "The Night Owl",
+      "award": "最佳新人導演",
+      "awardYear": 2023,
+      "awardOrder": 7,
+      "winner": "Ahn Tae-jin",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt23871504"
+      }
+    },
+    {
+      "id": "blue-dragon-2023-best-new-actor-hopeless",
+      "mediaType": "movie",
+      "title": "禍亂",
+      "originalTitle": "화란",
+      "englishTitle": "Hopeless",
+      "award": "最佳新人男演員",
+      "awardYear": 2023,
+      "awardOrder": 8,
+      "winner": "Hong Sa-bin",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt27502351"
+      }
+    },
+    {
+      "id": "blue-dragon-2023-best-new-actress-smugglers",
+      "mediaType": "movie",
+      "title": "走私",
+      "originalTitle": "밀수",
+      "englishTitle": "Smugglers",
+      "award": "最佳新人女演員",
+      "awardYear": 2023,
+      "awardOrder": 9,
+      "winner": "Go Min-si",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt28106766"
+      }
+    },
+    {
+      "id": "blue-dragon-2023-best-screenplay-next-sohee",
+      "mediaType": "movie",
+      "title": "下一個素熙",
+      "originalTitle": "다음 소희",
+      "englishTitle": "Next Sohee",
+      "award": "最佳劇本",
+      "awardYear": 2023,
+      "awardOrder": 10,
+      "winner": "July Jung",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt19820538"
+      }
+    }
+  ]
+}

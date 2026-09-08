@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:30:00Z",
+  "title": "Berlinale 2021 Awards",
+  "description": "Major Competition International Jury award winners at the 2021 Berlin International Film Festival.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "berlinale-2021-golden-bear-bad-luck-banging-or-loony-porn",
+      "mediaType": "movie",
+      "title": "Bad Luck Banging or Loony Porn",
+      "award": "Golden Bear for Best Film",
+      "awardYear": 2021,
+      "awardOrder": 1,
+      "winner": "Radu Jude",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14033502"
+      },
+      "backdropPath": "https://image.tmdb.org/t/p/w342/cq7ZThEzrW7TstuTh8gzRK0FpfM.jpg"
+    },
+    {
+      "id": "berlinale-2021-grand-jury-wheel-of-fortune-and-fantasy",
+      "mediaType": "movie",
+      "title": "Wheel of Fortune and Fantasy",
+      "award": "Silver Bear Grand Jury Prize",
+      "awardYear": 2021,
+      "awardOrder": 2,
+      "winner": "Ryusuke Hamaguchi",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14034966"
+      }
+    },
+    {
+      "id": "berlinale-2021-jury-prize-mr-bachmann-and-his-class",
+      "mediaType": "movie",
+      "title": "Mr Bachmann and His Class",
+      "award": "Silver Bear Jury Prize",
+      "awardYear": 2021,
+      "awardOrder": 3,
+      "winner": "Maria Speth",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14035048"
+      }
+    },
+    {
+      "id": "berlinale-2021-best-director-natural-light",
+      "mediaType": "movie",
+      "title": "Natural Light",
+      "award": "Silver Bear for Best Director",
+      "awardYear": 2021,
+      "awardOrder": 4,
+      "winner": "Dénes Nagy",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt11681056"
+      }
+    },
+    {
+      "id": "berlinale-2021-leading-performance-i-m-your-man",
+      "mediaType": "movie",
+      "title": "I'm Your Man",
+      "award": "Silver Bear for Best Leading Performance",
+      "awardYear": 2021,
+      "awardOrder": 5,
+      "winner": "Maren Eggert",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt13087796"
+      }
+    },
+    {
+      "id": "berlinale-2021-supporting-performance-forest-i-see-you-everywhere",
+      "mediaType": "movie",
+      "title": "Forest – I See You Everywhere",
+      "award": "Silver Bear for Best Supporting Performance",
+      "awardYear": 2021,
+      "awardOrder": 6,
+      "winner": "Lilla Kizlinger",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14033416"
+      }
+    },
+    {
+      "id": "berlinale-2021-best-screenplay-introduction",
+      "mediaType": "movie",
+      "title": "Introduction",
+      "award": "Silver Bear for Best Screenplay",
+      "awardYear": 2021,
+      "awardOrder": 7,
+      "winner": "Hong Sangsoo",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14035108"
+      }
+    },
+    {
+      "id": "berlinale-2021-artistic-contribution-a-cop-movie",
+      "mediaType": "movie",
+      "title": "A Cop Movie",
+      "award": "Silver Bear for Outstanding Artistic Contribution",
+      "awardYear": 2021,
+      "awardOrder": 8,
+      "winner": "Yibrán Asuad",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14035242"
+      }
+    }
+  ]
+}

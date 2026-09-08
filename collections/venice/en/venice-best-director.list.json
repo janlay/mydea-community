@@ -1,0 +1,350 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:30:00Z",
+  "title": "Venice — Silver Lion – Best Director",
+  "description": "Historical Venice International Film Festival Silver Lion – Best Director winners, including predecessor/equivalent forms where applicable.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "venice-best-director-1990-goodfellas-1",
+      "mediaType": "movie",
+      "title": "Goodfellas",
+      "releaseDate": "1990",
+      "externalIds": {
+        "letterboxd": "goodfellas"
+      },
+      "awardYear": 1990,
+      "winner": "Martin Scorsese"
+    },
+    {
+      "id": "venice-best-director-1998-the-pear-tree-2",
+      "mediaType": "movie",
+      "title": "The Pear Tree",
+      "releaseDate": "1998",
+      "externalIds": {
+        "letterboxd": "the-pear-tree"
+      },
+      "awardYear": 1998,
+      "winner": "Dariush Mehrjui"
+    },
+    {
+      "id": "venice-best-director-1999-the-wind-will-carry-us-3",
+      "mediaType": "movie",
+      "title": "The Wind Will Carry Us",
+      "releaseDate": "1999",
+      "externalIds": {
+        "letterboxd": "the-wind-will-carry-us"
+      },
+      "awardYear": 1999,
+      "winner": "Abbas Kiarostami"
+    },
+    {
+      "id": "venice-best-director-2000-buddha-s-little-finger-4",
+      "mediaType": "movie",
+      "title": "Buddha's Little Finger",
+      "releaseDate": "2000",
+      "externalIds": {
+        "letterboxd": "buddha-s-little-finger"
+      },
+      "awardYear": 2000,
+      "winner": "Evgeny Tsymbal"
+    },
+    {
+      "id": "venice-best-director-2001-the-navigators-5",
+      "mediaType": "movie",
+      "title": "The Navigators",
+      "releaseDate": "2001",
+      "externalIds": {
+        "letterboxd": "the-navigators"
+      },
+      "awardYear": 2001,
+      "winner": "Ken Loach"
+    },
+    {
+      "id": "venice-best-director-2002-oasis-6",
+      "mediaType": "movie",
+      "title": "Oasis",
+      "releaseDate": "2002",
+      "externalIds": {
+        "letterboxd": "oasis"
+      },
+      "awardYear": 2002,
+      "winner": "Lee Chang-dong"
+    },
+    {
+      "id": "venice-best-director-2003-zatoichi-7",
+      "mediaType": "movie",
+      "title": "Zatōichi",
+      "releaseDate": "2003",
+      "externalIds": {
+        "letterboxd": "zatoichi"
+      },
+      "awardYear": 2003,
+      "winner": "Takeshi Kitano"
+    },
+    {
+      "id": "venice-best-director-2004-3-iron-8",
+      "mediaType": "movie",
+      "title": "3-Iron",
+      "releaseDate": "2004",
+      "externalIds": {
+        "letterboxd": "3-iron"
+      },
+      "awardYear": 2004,
+      "winner": "Kim Ki-duk"
+    },
+    {
+      "id": "venice-best-director-2005-the-regular-lovers-9",
+      "mediaType": "movie",
+      "title": "The Regular Lovers",
+      "releaseDate": "2005",
+      "externalIds": {
+        "letterboxd": "the-regular-lovers"
+      },
+      "awardYear": 2005,
+      "winner": "Philippe Garrel"
+    },
+    {
+      "id": "venice-best-director-2006-private-fears-in-public-places-10",
+      "mediaType": "movie",
+      "title": "Private Fears in Public Places",
+      "releaseDate": "2006",
+      "externalIds": {
+        "letterboxd": "private-fears-in-public-places"
+      },
+      "awardYear": 2006,
+      "winner": "Alain Resnais"
+    },
+    {
+      "id": "venice-best-director-2007-redacted-11",
+      "mediaType": "movie",
+      "title": "Redacted",
+      "releaseDate": "2007",
+      "externalIds": {
+        "letterboxd": "redacted"
+      },
+      "awardYear": 2007,
+      "winner": "Brian De Palma"
+    },
+    {
+      "id": "venice-best-director-2008-paper-soldier-12",
+      "mediaType": "movie",
+      "title": "Paper Soldier",
+      "releaseDate": "2008",
+      "externalIds": {
+        "letterboxd": "paper-soldier"
+      },
+      "awardYear": 2008,
+      "winner": "Aleksey German Jr."
+    },
+    {
+      "id": "venice-best-director-2009-women-without-men-13",
+      "mediaType": "movie",
+      "title": "Women Without Men",
+      "releaseDate": "2009",
+      "externalIds": {
+        "letterboxd": "women-without-men"
+      },
+      "awardYear": 2009,
+      "winner": "Shirin Neshat"
+    },
+    {
+      "id": "venice-best-director-2010-the-last-circus-14",
+      "mediaType": "movie",
+      "title": "The Last Circus",
+      "releaseDate": "2010",
+      "externalIds": {
+        "letterboxd": "the-last-circus"
+      },
+      "awardYear": 2010,
+      "winner": "Álex de la Iglesia"
+    },
+    {
+      "id": "venice-best-director-2011-people-mountain-people-sea-15",
+      "mediaType": "movie",
+      "title": "People Mountain People Sea",
+      "releaseDate": "2011",
+      "externalIds": {
+        "letterboxd": "people-mountain-people-sea"
+      },
+      "awardYear": 2011,
+      "winner": "Cai Shangjun"
+    },
+    {
+      "id": "venice-best-director-2012-the-master-16",
+      "mediaType": "movie",
+      "title": "The Master",
+      "releaseDate": "2012",
+      "externalIds": {
+        "letterboxd": "the-master"
+      },
+      "awardYear": 2012,
+      "winner": "Paul Thomas Anderson"
+    },
+    {
+      "id": "venice-best-director-2013-miss-violence-17",
+      "mediaType": "movie",
+      "title": "Miss Violence",
+      "releaseDate": "2013",
+      "externalIds": {
+        "letterboxd": "miss-violence"
+      },
+      "awardYear": 2013,
+      "winner": "Alexandros Avranas"
+    },
+    {
+      "id": "venice-best-director-2014-the-postman-s-white-nights-18",
+      "mediaType": "movie",
+      "title": "The Postman's White Nights",
+      "releaseDate": "2014",
+      "externalIds": {
+        "letterboxd": "the-postman-s-white-nights"
+      },
+      "awardYear": 2014,
+      "winner": "Andrei Konchalovsky"
+    },
+    {
+      "id": "venice-best-director-2015-the-clan-19",
+      "mediaType": "movie",
+      "title": "The Clan",
+      "releaseDate": "2015",
+      "externalIds": {
+        "letterboxd": "the-clan"
+      },
+      "awardYear": 2015,
+      "winner": "Pablo Trapero"
+    },
+    {
+      "id": "venice-best-director-2016-paradise-20",
+      "mediaType": "movie",
+      "title": "Paradise",
+      "releaseDate": "2016",
+      "externalIds": {
+        "letterboxd": "paradise"
+      },
+      "awardYear": 2016,
+      "winner": "Andrei Konchalovsky"
+    },
+    {
+      "id": "venice-best-director-2016-the-untamed-21",
+      "mediaType": "movie",
+      "title": "The Untamed",
+      "releaseDate": "2016",
+      "externalIds": {
+        "letterboxd": "the-untamed"
+      },
+      "awardYear": 2016,
+      "winner": "Amat Escalante"
+    },
+    {
+      "id": "venice-best-director-2017-custody-22",
+      "mediaType": "movie",
+      "title": "Custody",
+      "releaseDate": "2017",
+      "externalIds": {
+        "letterboxd": "custody"
+      },
+      "awardYear": 2017,
+      "winner": "Xavier Legrand"
+    },
+    {
+      "id": "venice-best-director-2018-the-sisters-brothers-23",
+      "mediaType": "movie",
+      "title": "The Sisters Brothers",
+      "releaseDate": "2018",
+      "externalIds": {
+        "letterboxd": "the-sisters-brothers"
+      },
+      "awardYear": 2018,
+      "winner": "Jacques Audiard"
+    },
+    {
+      "id": "venice-best-director-2019-about-endlessness-24",
+      "mediaType": "movie",
+      "title": "About Endlessness",
+      "releaseDate": "2019",
+      "externalIds": {
+        "letterboxd": "about-endlessness"
+      },
+      "awardYear": 2019,
+      "winner": "Roy Andersson"
+    },
+    {
+      "id": "venice-best-director-2020-wife-of-a-spy-25",
+      "mediaType": "movie",
+      "title": "Wife of a Spy",
+      "releaseDate": "2020",
+      "externalIds": {
+        "letterboxd": "wife-of-a-spy"
+      },
+      "awardYear": 2020,
+      "winner": "Kiyoshi Kurosawa"
+    },
+    {
+      "id": "venice-best-director-2021-the-power-of-the-dog-26",
+      "mediaType": "movie",
+      "title": "The Power of the Dog",
+      "releaseDate": "2021",
+      "externalIds": {
+        "letterboxd": "the-power-of-the-dog"
+      },
+      "awardYear": 2021,
+      "winner": "Jane Campion"
+    },
+    {
+      "id": "venice-best-director-2022-bones-and-all-27",
+      "mediaType": "movie",
+      "title": "Bones and All",
+      "releaseDate": "2022",
+      "externalIds": {
+        "letterboxd": "bones-and-all"
+      },
+      "awardYear": 2022,
+      "winner": "Luca Guadagnino"
+    },
+    {
+      "id": "venice-best-director-2023-io-capitano-28",
+      "mediaType": "movie",
+      "title": "Io Capitano",
+      "releaseDate": "2023",
+      "externalIds": {
+        "letterboxd": "io-capitano"
+      },
+      "awardYear": 2023,
+      "winner": "Matteo Garrone"
+    },
+    {
+      "id": "venice-best-director-2024-the-brutalist-29",
+      "mediaType": "movie",
+      "title": "The Brutalist",
+      "releaseDate": "2024",
+      "externalIds": {
+        "letterboxd": "the-brutalist"
+      },
+      "awardYear": 2024,
+      "winner": "Brady Corbet"
+    },
+    {
+      "id": "venice-best-director-2025-the-smashing-machine-30",
+      "mediaType": "movie",
+      "title": "The Smashing Machine",
+      "releaseDate": "2025",
+      "externalIds": {
+        "letterboxd": "the-smashing-machine"
+      },
+      "awardYear": 2025,
+      "winner": "Benny Safdie"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "ChatGPT",
+  "title": "부산국제영화제 2024 수상작",
+  "description": "부산국제영화제 2024 주요 경쟁상 수상작.",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "biff-2024.list.json"
+    }
+  ]
+}

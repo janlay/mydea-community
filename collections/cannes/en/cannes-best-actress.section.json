@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "OpenAI",
+  "title": "Cannes — Best Actress",
+  "description": "Films associated with Cannes Film Festival Best Actress winners.",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "cannes-best-actress.list.json"
+    }
+  ]
+}

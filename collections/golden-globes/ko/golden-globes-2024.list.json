@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "골든 글로브 2024",
+  "description": "2024 골든 글로브 주요 영화·텔레비전 작품 부문 수상 목록.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "golden-globes-2024-drama-oppenheimer",
+      "mediaType": "movie",
+      "title": "오펜하이머",
+      "englishTitle": "Oppenheimer",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt15398776"
+      },
+      "award": "작품상 드라마",
+      "awardYear": 2024,
+      "awardOrder": 1,
+      "winner": "오펜하이머"
+    },
+    {
+      "id": "golden-globes-2024-comedy-poor-things",
+      "mediaType": "movie",
+      "title": "가여운 것들",
+      "englishTitle": "Poor Things",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt14230458"
+      },
+      "award": "작품상 뮤지컬·코미디",
+      "awardYear": 2024,
+      "awardOrder": 2,
+      "winner": "가여운 것들"
+    },
+    {
+      "id": "golden-globes-2024-animated-the-boy-and-the-heron",
+      "mediaType": "movie",
+      "title": "그대들은 어떻게 살 것인가",
+      "englishTitle": "The Boy and the Heron",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt6587046"
+      },
+      "award": "애니메이션 영화상",
+      "awardYear": 2024,
+      "awardOrder": 3,
+      "winner": "그대들은 어떻게 살 것인가"
+    },
+    {
+      "id": "golden-globes-2024-foreign-anatomy-of-a-fall",
+      "mediaType": "movie",
+      "title": "추락의 해부",
+      "englishTitle": "Anatomy of a Fall",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt17009710"
+      },
+      "award": "비영어권 영화상",
+      "awardYear": 2024,
+      "awardOrder": 4,
+      "winner": "추락의 해부"
+    },
+    {
+      "id": "golden-globes-2024-tv_drama-succession",
+      "mediaType": "tv",
+      "title": "석세션",
+      "englishTitle": "Succession",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7660850"
+      },
+      "award": "TV 드라마 작품상",
+      "awardYear": 2024,
+      "awardOrder": 5,
+      "winner": "석세션"
+    },
+    {
+      "id": "golden-globes-2024-tv_comedy-the-bear",
+      "mediaType": "tv",
+      "title": "더 베어",
+      "englishTitle": "The Bear",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt14452776"
+      },
+      "award": "TV 뮤지컬·코미디 작품상",
+      "awardYear": 2024,
+      "awardOrder": 6,
+      "winner": "더 베어"
+    },
+    {
+      "id": "golden-globes-2024-limited-beef",
+      "mediaType": "tv",
+      "title": "성난 사람들",
+      "englishTitle": "Beef",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt14403178"
+      },
+      "award": "리미티드 시리즈·앤솔러지·TV 영화상",
+      "awardYear": 2024,
+      "awardOrder": 7,
+      "winner": "성난 사람들"
+    },
+    {
+      "id": "golden-globes-2024-boxoffice-barbie",
+      "mediaType": "movie",
+      "title": "바비",
+      "englishTitle": "Barbie",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt1517268"
+      },
+      "award": "시네마틱 및 박스오피스 성취상",
+      "awardYear": 2024,
+      "awardOrder": 8,
+      "winner": "바비"
+    }
+  ]
+}

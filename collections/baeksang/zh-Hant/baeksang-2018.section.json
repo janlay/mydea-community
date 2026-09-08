@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "ChatGPT",
+  "title": "百想藝術大賞 — 2018",
+  "description": "2018 年百想藝術大賞電影與電視主要獎項獲獎記錄。",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "baeksang-2018.list.json"
+    }
+  ]
+}

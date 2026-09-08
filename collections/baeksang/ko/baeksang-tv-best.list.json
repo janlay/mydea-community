@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-12T02:53:58Z",
+  "title": "백상예술대상 — 방송부문 작품상 드라마",
+  "description": "2017–2026년 백상예술대상 방송부문 작품상 드라마 수상 기록.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "baeksang-2017-tv-best-dear-friends",
+      "mediaType": "tv",
+      "title": "디어 마이 프렌즈",
+      "englishTitle": "Dear My Friends",
+      "awardYear": 2017,
+      "winner": "디어 마이 프렌즈",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5689030"
+      }
+    },
+    {
+      "id": "baeksang-2018-tv-best-mother",
+      "mediaType": "tv",
+      "title": "마더",
+      "englishTitle": "Mother",
+      "awardYear": 2018,
+      "winner": "마더",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7795226"
+      }
+    },
+    {
+      "id": "baeksang-2019-tv-best-my-mister",
+      "mediaType": "tv",
+      "title": "나의 아저씨",
+      "englishTitle": "My Mister",
+      "awardYear": 2019,
+      "winner": "나의 아저씨",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7923710"
+      }
+    },
+    {
+      "id": "baeksang-2020-tv-best-stove",
+      "mediaType": "tv",
+      "title": "스토브리그",
+      "englishTitle": "Hot Stove League",
+      "awardYear": 2020,
+      "winner": "스토브리그",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt11378124"
+      }
+    },
+    {
+      "id": "baeksang-2021-tv-best-beyond-evil",
+      "mediaType": "tv",
+      "title": "괴물",
+      "englishTitle": "Beyond Evil",
+      "awardYear": 2021,
+      "winner": "괴물",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt13634872"
+      }
+    },
+    {
+      "id": "baeksang-2022-tv-best-dp",
+      "mediaType": "tv",
+      "title": "D.P.",
+      "englishTitle": "D.P.",
+      "awardYear": 2022,
+      "winner": "D.P.",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt13024974"
+      }
+    },
+    {
+      "id": "baeksang-2023-tv-best-glory",
+      "mediaType": "tv",
+      "title": "더 글로리",
+      "englishTitle": "The Glory",
+      "awardYear": 2023,
+      "winner": "더 글로리",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt21344706"
+      }
+    },
+    {
+      "id": "baeksang-2024-tv-best-my-dearest",
+      "mediaType": "tv",
+      "title": "연인",
+      "englishTitle": "My Dearest",
+      "awardYear": 2024,
+      "winner": "연인",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt26228190"
+      }
+    },
+    {
+      "id": "baeksang-2025-tv-best-tangerines",
+      "mediaType": "tv",
+      "title": "폭싹 속았수다",
+      "englishTitle": "When Life Gives You Tangerines",
+      "awardYear": 2025,
+      "winner": "폭싹 속았수다",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt26471411"
+      }
+    },
+    {
+      "id": "baeksang-2026-tv-best-you-everything",
+      "mediaType": "tv",
+      "title": "은중과 상연",
+      "englishTitle": "You and Everything Else",
+      "awardYear": 2026,
+      "winner": "은중과 상연",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31014107"
+      }
+    }
+  ]
+}

@@ -1,0 +1,375 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-08T11:52:00Z",
+  "title": "Cannes Film Festival 2019 Awards",
+  "description": "Official film-linked awards from the 72th Festival de Cannes, covering Competition, Short Films, Un Certain Regard, Caméra d'Or, Cinéfondation and CST technical prizes.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "cannes-2019-palme-d-or-parasite",
+      "mediaType": "movie",
+      "title": "Parasite",
+      "award": "Palme d'Or",
+      "awardYear": 2019,
+      "awardOrder": 1,
+      "winner": "Bong Joon Ho",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6751668"
+      }
+    },
+    {
+      "id": "cannes-2019-grand-prix-atlantics",
+      "mediaType": "movie",
+      "title": "Atlantics",
+      "award": "Grand Prix",
+      "awardYear": 2019,
+      "awardOrder": 2,
+      "winner": "Mati Diop",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10199586"
+      }
+    },
+    {
+      "id": "cannes-2019-best-director-prize-young-ahmed",
+      "mediaType": "movie",
+      "title": "Young Ahmed",
+      "award": "Best Director Prize",
+      "awardYear": 2019,
+      "awardOrder": 3,
+      "winner": "Jean-Pierre Dardenne & Luc Dardenne",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt8359822"
+      }
+    },
+    {
+      "id": "cannes-2019-jury-prize-ex-aequo-les-mis-rables",
+      "mediaType": "movie",
+      "title": "Les Misérables",
+      "award": "Jury Prize (Ex-Aequo)",
+      "awardYear": 2019,
+      "awardOrder": 4,
+      "winner": "Ladj Ly",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10199590"
+      }
+    },
+    {
+      "id": "cannes-2019-jury-prize-ex-aequo-bacurau",
+      "mediaType": "movie",
+      "title": "Bacurau",
+      "award": "Jury Prize (Ex-Aequo)",
+      "awardYear": 2019,
+      "awardOrder": 5,
+      "winner": "Kleber Mendonça Filho & Juliano Dornelles",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt2762506"
+      }
+    },
+    {
+      "id": "cannes-2019-best-performance-for-an-actor-pain-and-glory",
+      "mediaType": "movie",
+      "title": "Pain and Glory",
+      "award": "Best Performance for an Actor",
+      "awardYear": 2019,
+      "awardOrder": 6,
+      "winner": "Antonio Banderas",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt8291806"
+      }
+    },
+    {
+      "id": "cannes-2019-best-performance-for-an-actress-little-joe",
+      "mediaType": "movie",
+      "title": "Little Joe",
+      "award": "Best Performance for an Actress",
+      "awardYear": 2019,
+      "awardOrder": 7,
+      "winner": "Emily Beecham",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt9204204"
+      }
+    },
+    {
+      "id": "cannes-2019-best-screenplay-portrait-of-a-lady-on-fire",
+      "mediaType": "movie",
+      "title": "Portrait of a Lady on Fire",
+      "award": "Best Screenplay",
+      "awardYear": 2019,
+      "awardOrder": 8,
+      "winner": "Céline Sciamma",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt8613070"
+      }
+    },
+    {
+      "id": "cannes-2019-special-mention-it-must-be-heaven",
+      "mediaType": "movie",
+      "title": "It Must Be Heaven",
+      "award": "Special Mention",
+      "awardYear": 2019,
+      "awardOrder": 9,
+      "winner": "Elia Suleiman",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt8359842"
+      }
+    },
+    {
+      "id": "cannes-2019-short-film-palme-d-or-the-distance-between-us-and-the-sky",
+      "mediaType": "movie",
+      "title": "The Distance Between Us and the Sky",
+      "award": "Short Film Palme d'Or",
+      "awardYear": 2019,
+      "awardOrder": 10,
+      "winner": "Vasilis Kekatos",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10214916"
+      }
+    },
+    {
+      "id": "cannes-2019-short-film-special-distinction-monster-god",
+      "mediaType": "movie",
+      "title": "Monster God",
+      "award": "Short Film Special Distinction",
+      "awardYear": 2019,
+      "awardOrder": 11,
+      "winner": "Agustina San Martín",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10224954"
+      }
+    },
+    {
+      "id": "cannes-2019-un-certain-regard-prize-invisible-life",
+      "mediaType": "movie",
+      "title": "Invisible Life",
+      "award": "Un Certain Regard Prize",
+      "awardYear": 2019,
+      "awardOrder": 12,
+      "winner": "Karim Aïnouz",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6390668"
+      }
+    },
+    {
+      "id": "cannes-2019-un-certain-regard-jury-prize-fire-will-come",
+      "mediaType": "movie",
+      "title": "Fire Will Come",
+      "award": "Un Certain Regard Jury Prize",
+      "awardYear": 2019,
+      "awardOrder": 13,
+      "winner": "Oliver Laxe",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt8212958"
+      }
+    },
+    {
+      "id": "cannes-2019-un-certain-regard-best-performance-on-a-magical-night",
+      "mediaType": "movie",
+      "title": "On a Magical Night",
+      "award": "Un Certain Regard Best Performance",
+      "awardYear": 2019,
+      "awardOrder": 14,
+      "winner": "Chiara Mastroianni",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10115562"
+      }
+    },
+    {
+      "id": "cannes-2019-un-certain-regard-best-director-beanpole",
+      "mediaType": "movie",
+      "title": "Beanpole",
+      "award": "Un Certain Regard Best Director",
+      "awardYear": 2019,
+      "awardOrder": 15,
+      "winner": "Kantemir Balagov",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10199640"
+      }
+    },
+    {
+      "id": "cannes-2019-un-certain-regard-special-jury-prize-libert",
+      "mediaType": "movie",
+      "title": "Liberté",
+      "award": "Un Certain Regard Special Jury Prize",
+      "awardYear": 2019,
+      "awardOrder": 16,
+      "winner": "Albert Serra",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10199670"
+      }
+    },
+    {
+      "id": "cannes-2019-un-certain-regard-jury-coup-de-c-ur-ex-aequo-a-brother-s-love",
+      "mediaType": "movie",
+      "title": "A Brother's Love",
+      "award": "Un Certain Regard Jury Coup de Cœur (Ex-Aequo)",
+      "awardYear": 2019,
+      "awardOrder": 17,
+      "winner": "Monia Chokri",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10155342"
+      }
+    },
+    {
+      "id": "cannes-2019-un-certain-regard-jury-coup-de-c-ur-ex-aequo-the-climb",
+      "mediaType": "movie",
+      "title": "The Climb",
+      "award": "Un Certain Regard Jury Coup de Cœur (Ex-Aequo)",
+      "awardYear": 2019,
+      "awardOrder": 18,
+      "winner": "Michael Angelo Covino",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt8637440"
+      }
+    },
+    {
+      "id": "cannes-2019-un-certain-regard-special-mention-joan-of-arc",
+      "mediaType": "movie",
+      "title": "Joan of Arc",
+      "award": "Un Certain Regard Special Mention",
+      "awardYear": 2019,
+      "awardOrder": 19,
+      "winner": "Bruno Dumont",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt8669356"
+      }
+    },
+    {
+      "id": "cannes-2019-cam-ra-d-or-our-mothers",
+      "mediaType": "movie",
+      "title": "Our Mothers",
+      "award": "Caméra d'Or",
+      "awardYear": 2019,
+      "awardOrder": 20,
+      "winner": "César Díaz",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt9206516"
+      }
+    },
+    {
+      "id": "cannes-2019-cin-fondation-first-prize-mano-a-mano",
+      "mediaType": "movie",
+      "title": "Mano a Mano",
+      "award": "Cinéfondation First Prize",
+      "awardYear": 2019,
+      "awardOrder": 21,
+      "winner": "Louise Courvoisier",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8336716"
+      }
+    },
+    {
+      "id": "cannes-2019-cin-fondation-second-prize-hi-u",
+      "mediaType": "movie",
+      "title": "Hiêu",
+      "award": "Cinéfondation Second Prize",
+      "awardYear": 2019,
+      "awardOrder": 22,
+      "winner": "Richard Van",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8530868"
+      }
+    },
+    {
+      "id": "cannes-2019-cin-fondation-third-prize-ex-aequo-ambience",
+      "mediaType": "movie",
+      "title": "Ambience",
+      "award": "Cinéfondation Third Prize (Ex-Aequo)",
+      "awardYear": 2019,
+      "awardOrder": 23,
+      "winner": "Wisam Al Jafari",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10341630"
+      }
+    },
+    {
+      "id": "cannes-2019-cin-fondation-third-prize-ex-aequo-the-little-soul",
+      "mediaType": "movie",
+      "title": "The Little Soul",
+      "award": "Cinéfondation Third Prize (Ex-Aequo)",
+      "awardYear": 2019,
+      "awardOrder": 24,
+      "winner": "Barbara Rupik",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10341888"
+      }
+    },
+    {
+      "id": "cannes-2019-cst-artist-technician-prize-les-mis-rables",
+      "mediaType": "movie",
+      "title": "Les Misérables",
+      "award": "CST Artist-Technician Prize",
+      "awardYear": 2019,
+      "awardOrder": 25,
+      "winner": "Flora Volpeliere & Julien Poupard",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10199590"
+      }
+    },
+    {
+      "id": "cannes-2019-cst-jury-special-mention-atlantics",
+      "mediaType": "movie",
+      "title": "Atlantics",
+      "award": "CST Jury Special Mention",
+      "awardYear": 2019,
+      "awardOrder": 26,
+      "winner": "Claire Mathon",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10199586"
+      }
+    },
+    {
+      "id": "cannes-2019-cst-jury-special-mention-portrait-of-a-lady-on-fire",
+      "mediaType": "movie",
+      "title": "Portrait of a Lady on Fire",
+      "award": "CST Jury Special Mention",
+      "awardYear": 2019,
+      "awardOrder": 27,
+      "winner": "Claire Mathon",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt8613070"
+      }
+    }
+  ]
+}

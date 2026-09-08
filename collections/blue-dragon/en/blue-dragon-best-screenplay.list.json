@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-12T02:54:20Z",
+  "title": "Blue Dragon Film Awards — Best Screenplay",
+  "description": "Blue Dragon Film Awards Best Screenplay winners from 2016 through 2025.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "blue-dragon-2016-best-screenplay-dongju",
+      "mediaType": "movie",
+      "title": "Dongju: The Portrait of a Poet",
+      "originalTitle": "동주",
+      "awardYear": 2016,
+      "winner": "Shin Yeon-shick",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5799928"
+      }
+    },
+    {
+      "id": "blue-dragon-2017-best-screenplay-fortress",
+      "mediaType": "movie",
+      "title": "The Fortress",
+      "originalTitle": "남한산성",
+      "awardYear": 2017,
+      "winner": "Hwang Dong-hyuk",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7160176"
+      }
+    },
+    {
+      "id": "blue-dragon-2018-best-screenplay-dark-figure-crime",
+      "mediaType": "movie",
+      "title": "Dark Figure of Crime",
+      "originalTitle": "암수살인",
+      "awardYear": 2018,
+      "winner": "Kwak Kyung-taek & Kim Tae-gyun",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8119680"
+      }
+    },
+    {
+      "id": "blue-dragon-2019-best-screenplay-house-hummingbird",
+      "mediaType": "movie",
+      "title": "House of Hummingbird",
+      "originalTitle": "벌새",
+      "awardYear": 2019,
+      "winner": "Kim Bora",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8951086"
+      }
+    },
+    {
+      "id": "blue-dragon-2020-best-screenplay-moonlit-winter",
+      "mediaType": "movie",
+      "title": "Moonlit Winter",
+      "originalTitle": "윤희에게",
+      "awardYear": 2020,
+      "winner": "Lim Dae-hyung",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt11311974"
+      }
+    },
+    {
+      "id": "blue-dragon-2021-best-screenplay-book-fish",
+      "mediaType": "movie",
+      "title": "The Book of Fish",
+      "originalTitle": "자산어보",
+      "awardYear": 2021,
+      "winner": "Kim Se-gyeom",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14371900"
+      }
+    },
+    {
+      "id": "blue-dragon-2022-best-screenplay-decision-leave",
+      "mediaType": "movie",
+      "title": "Decision to Leave",
+      "originalTitle": "헤어질 결심",
+      "awardYear": 2022,
+      "winner": "Park Chan-wook & Jeong Seo-kyeong",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt12477480"
+      }
+    },
+    {
+      "id": "blue-dragon-2023-best-screenplay-next-sohee",
+      "mediaType": "movie",
+      "title": "Next Sohee",
+      "originalTitle": "다음 소희",
+      "awardYear": 2023,
+      "winner": "July Jung",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt19820538"
+      }
+    },
+    {
+      "id": "blue-dragon-2024-best-screenplay-dream-songs",
+      "mediaType": "movie",
+      "title": "The Dream Songs",
+      "originalTitle": "너와 나",
+      "awardYear": 2024,
+      "winner": "Cho Hyun-chul",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt26757183"
+      }
+    },
+    {
+      "id": "blue-dragon-2025-best-screenplay-match",
+      "mediaType": "movie",
+      "title": "The Match",
+      "originalTitle": "승부",
+      "awardYear": 2025,
+      "winner": "Kim Hyung-joo & Yoon Jong-bin",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt13498824"
+      }
+    }
+  ]
+}

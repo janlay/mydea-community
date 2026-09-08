@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "Golden Globes 2024",
+  "description": "Major film and television program winners at the 2024 Golden Globes.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "golden-globes-2024-drama-oppenheimer",
+      "mediaType": "movie",
+      "title": "Oppenheimer",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt15398776"
+      },
+      "award": "Best Motion Picture – Drama",
+      "awardYear": 2024,
+      "awardOrder": 1,
+      "winner": "Oppenheimer"
+    },
+    {
+      "id": "golden-globes-2024-comedy-poor-things",
+      "mediaType": "movie",
+      "title": "Poor Things",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt14230458"
+      },
+      "award": "Best Motion Picture – Musical or Comedy",
+      "awardYear": 2024,
+      "awardOrder": 2,
+      "winner": "Poor Things"
+    },
+    {
+      "id": "golden-globes-2024-animated-the-boy-and-the-heron",
+      "mediaType": "movie",
+      "title": "The Boy and the Heron",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt6587046"
+      },
+      "award": "Best Motion Picture – Animated",
+      "awardYear": 2024,
+      "awardOrder": 3,
+      "winner": "The Boy and the Heron"
+    },
+    {
+      "id": "golden-globes-2024-foreign-anatomy-of-a-fall",
+      "mediaType": "movie",
+      "title": "Anatomy of a Fall",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt17009710"
+      },
+      "award": "Best Motion Picture – Non-English Language",
+      "awardYear": 2024,
+      "awardOrder": 4,
+      "winner": "Anatomy of a Fall"
+    },
+    {
+      "id": "golden-globes-2024-tv_drama-succession",
+      "mediaType": "tv",
+      "title": "Succession",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7660850"
+      },
+      "award": "Best Television Series – Drama",
+      "awardYear": 2024,
+      "awardOrder": 5,
+      "winner": "Succession"
+    },
+    {
+      "id": "golden-globes-2024-tv_comedy-the-bear",
+      "mediaType": "tv",
+      "title": "The Bear",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt14452776"
+      },
+      "award": "Best Television Series – Musical or Comedy",
+      "awardYear": 2024,
+      "awardOrder": 6,
+      "winner": "The Bear"
+    },
+    {
+      "id": "golden-globes-2024-limited-beef",
+      "mediaType": "tv",
+      "title": "Beef",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt14403178"
+      },
+      "award": "Best Television Limited Series, Anthology Series or Motion Picture Made for Television",
+      "awardYear": 2024,
+      "awardOrder": 7,
+      "winner": "Beef"
+    },
+    {
+      "id": "golden-globes-2024-boxoffice-barbie",
+      "mediaType": "movie",
+      "title": "Barbie",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt1517268"
+      },
+      "award": "Cinematic and Box Office Achievement",
+      "awardYear": 2024,
+      "awardOrder": 8,
+      "winner": "Barbie"
+    }
+  ]
+}

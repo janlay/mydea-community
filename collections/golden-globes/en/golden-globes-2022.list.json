@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "Golden Globes 2022",
+  "description": "Major film and television program winners at the 2022 Golden Globes.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "golden-globes-2022-drama-the-power-of-the-dog",
+      "mediaType": "movie",
+      "title": "The Power of the Dog",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt10293406"
+      },
+      "award": "Best Motion Picture – Drama",
+      "awardYear": 2022,
+      "awardOrder": 1,
+      "winner": "The Power of the Dog"
+    },
+    {
+      "id": "golden-globes-2022-comedy-west-side-story",
+      "mediaType": "movie",
+      "title": "West Side Story",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt3581652"
+      },
+      "award": "Best Motion Picture – Musical or Comedy",
+      "awardYear": 2022,
+      "awardOrder": 2,
+      "winner": "West Side Story"
+    },
+    {
+      "id": "golden-globes-2022-animated-encanto",
+      "mediaType": "movie",
+      "title": "Encanto",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt2953050"
+      },
+      "award": "Best Motion Picture – Animated",
+      "awardYear": 2022,
+      "awardOrder": 3,
+      "winner": "Encanto"
+    },
+    {
+      "id": "golden-globes-2022-foreign-drive-my-car",
+      "mediaType": "movie",
+      "title": "Drive My Car",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14039582"
+      },
+      "award": "Best Motion Picture – Non-English Language",
+      "awardYear": 2022,
+      "awardOrder": 4,
+      "winner": "Drive My Car"
+    },
+    {
+      "id": "golden-globes-2022-tv_drama-succession",
+      "mediaType": "tv",
+      "title": "Succession",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7660850"
+      },
+      "award": "Best Television Series – Drama",
+      "awardYear": 2022,
+      "awardOrder": 5,
+      "winner": "Succession"
+    },
+    {
+      "id": "golden-globes-2022-tv_comedy-hacks",
+      "mediaType": "tv",
+      "title": "Hacks",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt11815682"
+      },
+      "award": "Best Television Series – Musical or Comedy",
+      "awardYear": 2022,
+      "awardOrder": 6,
+      "winner": "Hacks"
+    },
+    {
+      "id": "golden-globes-2022-limited-the-underground-railroad",
+      "mediaType": "tv",
+      "title": "The Underground Railroad",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt6704972"
+      },
+      "award": "Best Television Limited Series, Anthology Series or Motion Picture Made for Television",
+      "awardYear": 2022,
+      "awardOrder": 7,
+      "winner": "The Underground Railroad"
+    }
+  ]
+}

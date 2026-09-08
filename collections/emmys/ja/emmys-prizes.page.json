@@ -1,0 +1,146 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "title": "プライムタイム・エミー賞 部門別",
+  "description": "プライムタイム・エミー賞の主要部門別受賞記録。",
+  "tags": [
+    "award",
+    "prize"
+  ],
+  "icon": "ticket",
+  "sections": [
+    {
+      "title": "プライムタイム・エミー賞 — 作品賞 ドラマ・シリーズ部門",
+      "layout": "carousel",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "emmys-drama-series.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "limit": 10
+    },
+    {
+      "title": "プライムタイム・エミー賞 — 作品賞 コメディ・シリーズ部門",
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "emmys-comedy-series.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "limit": 10
+    },
+    {
+      "title": "プライムタイム・エミー賞 — 作品賞 リミテッド／アンソロジー・シリーズ部門",
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "emmys-limited-series.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "limit": 10
+    },
+    {
+      "title": "プライムタイム・エミー賞 — 主演男優賞 ドラマ・シリーズ部門",
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "emmys-lead-actor-drama.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "limit": 10
+    },
+    {
+      "title": "プライムタイム・エミー賞 — 主演女優賞 ドラマ・シリーズ部門",
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "emmys-lead-actress-drama.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "limit": 10
+    },
+    {
+      "title": "プライムタイム・エミー賞 — 主演男優賞 コメディ・シリーズ部門",
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "emmys-lead-actor-comedy.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "limit": 10
+    },
+    {
+      "title": "プライムタイム・エミー賞 — 主演女優賞 コメディ・シリーズ部門",
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "emmys-lead-actress-comedy.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "limit": 10
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "ChatGPT",
+  "title": "プライムタイム・エミー賞 2020 受賞一覧",
+  "description": "第72回プライムタイム・エミー賞の主要部門受賞記録。",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "emmys-2020.list.json"
+    }
+  ]
+}

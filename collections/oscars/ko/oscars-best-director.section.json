@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "ChatGPT",
+  "title": "아카데미상 — 감독상",
+  "description": "아카데미상 감독상 최근 10회 수상 기록.",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "oscars-best-director.list.json"
+    }
+  ]
+}

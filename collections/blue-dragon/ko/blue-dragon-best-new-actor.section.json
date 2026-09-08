@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "ChatGPT",
+  "title": "청룡영화상 — 신인남우상",
+  "description": "2016–2025년 청룡영화상 신인남우상 수상 기록.",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "blue-dragon-best-new-actor.list.json"
+    }
+  ]
+}

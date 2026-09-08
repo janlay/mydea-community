@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T05:03:35Z",
+  "title": "Primetime Emmy Awards 2024 Winners",
+  "description": "Major-category winners from the 76th Primetime Emmy Awards.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "emmys-2024-drama-series-shogun",
+      "mediaType": "tv",
+      "title": "Shōgun",
+      "award": "Outstanding Drama Series",
+      "awardYear": 2024,
+      "awardOrder": 1,
+      "winner": "Shōgun",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt2788316"
+      }
+    },
+    {
+      "id": "emmys-2024-comedy-series-hacks",
+      "mediaType": "tv",
+      "title": "Hacks",
+      "award": "Outstanding Comedy Series",
+      "awardYear": 2024,
+      "awardOrder": 2,
+      "winner": "Hacks",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt11815682"
+      }
+    },
+    {
+      "id": "emmys-2024-limited-series-baby-reindeer",
+      "mediaType": "tv",
+      "title": "Baby Reindeer",
+      "award": "Outstanding Limited or Anthology Series",
+      "awardYear": 2024,
+      "awardOrder": 3,
+      "winner": "Baby Reindeer",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt13649112"
+      }
+    },
+    {
+      "id": "emmys-2024-lead-actor-drama-shogun",
+      "mediaType": "tv",
+      "title": "Shōgun",
+      "award": "Outstanding Lead Actor in a Drama Series",
+      "awardYear": 2024,
+      "awardOrder": 4,
+      "winner": "Hiroyuki Sanada",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt2788316"
+      }
+    },
+    {
+      "id": "emmys-2024-lead-actress-drama-shogun",
+      "mediaType": "tv",
+      "title": "Shōgun",
+      "award": "Outstanding Lead Actress in a Drama Series",
+      "awardYear": 2024,
+      "awardOrder": 5,
+      "winner": "Anna Sawai",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt2788316"
+      }
+    },
+    {
+      "id": "emmys-2024-lead-actor-comedy-the-bear",
+      "mediaType": "tv",
+      "title": "The Bear",
+      "award": "Outstanding Lead Actor in a Comedy Series",
+      "awardYear": 2024,
+      "awardOrder": 6,
+      "winner": "Jeremy Allen White",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt14452776"
+      }
+    },
+    {
+      "id": "emmys-2024-lead-actress-comedy-hacks",
+      "mediaType": "tv",
+      "title": "Hacks",
+      "award": "Outstanding Lead Actress in a Comedy Series",
+      "awardYear": 2024,
+      "awardOrder": 7,
+      "winner": "Jean Smart",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt11815682"
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "Mydea",
+  "title": "Berlinale 2019 Awards",
+  "description": "Major Competition International Jury award winners at the 2019 Berlin International Film Festival.",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "berlinale-2019.list.json"
+    }
+  ]
+}

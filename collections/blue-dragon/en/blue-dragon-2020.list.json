@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-12T02:54:20Z",
+  "title": "Blue Dragon Film Awards — 2020",
+  "description": "Winners in 10 major film categories at the 2020 Blue Dragon Film Awards.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "blue-dragon-2020-best-film-man-standing-next",
+      "mediaType": "movie",
+      "title": "The Man Standing Next",
+      "originalTitle": "남산의 부장들",
+      "award": "Best Film",
+      "awardYear": 2020,
+      "awardOrder": 1,
+      "winner": "Woo Min-ho",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt11358398"
+      }
+    },
+    {
+      "id": "blue-dragon-2020-best-director-moonlit-winter",
+      "mediaType": "movie",
+      "title": "Moonlit Winter",
+      "originalTitle": "윤희에게",
+      "award": "Best Director",
+      "awardYear": 2020,
+      "awardOrder": 2,
+      "winner": "Lim Dae-hyung",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt11311974"
+      }
+    },
+    {
+      "id": "blue-dragon-2020-best-actor-voice-silence",
+      "mediaType": "movie",
+      "title": "Voice of Silence",
+      "originalTitle": "소리도 없이",
+      "award": "Best Actor",
+      "awardYear": 2020,
+      "awardOrder": 3,
+      "winner": "Yoo Ah-in",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10431572"
+      }
+    },
+    {
+      "id": "blue-dragon-2020-best-actress-honest-candidate",
+      "mediaType": "movie",
+      "title": "Honest Candidate",
+      "originalTitle": "정직한 후보",
+      "award": "Best Actress",
+      "awardYear": 2020,
+      "awardOrder": 4,
+      "winner": "Ra Mi-ran",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt11812338"
+      }
+    },
+    {
+      "id": "blue-dragon-2020-best-supporting-actor-deliver-evil",
+      "mediaType": "movie",
+      "title": "Deliver Us from Evil",
+      "originalTitle": "다만 악에서 구하소서",
+      "award": "Best Supporting Actor",
+      "awardYear": 2020,
+      "awardOrder": 5,
+      "winner": "Park Jeong-min",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt12763920"
+      }
+    },
+    {
+      "id": "blue-dragon-2020-best-supporting-actress-samjin",
+      "mediaType": "movie",
+      "title": "Samjin Company English Class",
+      "originalTitle": "삼진그룹 영어토익반",
+      "award": "Best Supporting Actress",
+      "awardYear": 2020,
+      "awardOrder": 6,
+      "winner": "Esom",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt13210996"
+      }
+    },
+    {
+      "id": "blue-dragon-2020-best-new-director-voice-silence",
+      "mediaType": "movie",
+      "title": "Voice of Silence",
+      "originalTitle": "소리도 없이",
+      "award": "Best New Director",
+      "awardYear": 2020,
+      "awardOrder": 7,
+      "winner": "Hong Eui-jeong",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10431572"
+      }
+    },
+    {
+      "id": "blue-dragon-2020-best-new-actor-vertigo",
+      "mediaType": "movie",
+      "title": "Vertigo",
+      "originalTitle": "버티고",
+      "award": "Best New Actor",
+      "awardYear": 2020,
+      "awardOrder": 8,
+      "winner": "Yoo Teo",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt11135842"
+      }
+    },
+    {
+      "id": "blue-dragon-2020-best-new-actress-lucky-chansil",
+      "mediaType": "movie",
+      "title": "Lucky Chan-sil",
+      "originalTitle": "찬실이는 복도 많지",
+      "award": "Best New Actress",
+      "awardYear": 2020,
+      "awardOrder": 9,
+      "winner": "Kang Mal-geum",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt11639190"
+      }
+    },
+    {
+      "id": "blue-dragon-2020-best-screenplay-moonlit-winter",
+      "mediaType": "movie",
+      "title": "Moonlit Winter",
+      "originalTitle": "윤희에게",
+      "award": "Best Screenplay",
+      "awardYear": 2020,
+      "awardOrder": 10,
+      "winner": "Lim Dae-hyung",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt11311974"
+      }
+    }
+  ]
+}

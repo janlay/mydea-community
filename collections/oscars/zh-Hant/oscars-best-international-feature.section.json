@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "ChatGPT",
+  "title": "奧斯卡 — 最佳國際影片",
+  "description": "奧斯卡最佳國際影片最近十屆得獎紀錄。",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "oscars-best-international-feature.list.json"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:30:00Z",
+  "title": "威尼斯电影节 2024 年获奖名单",
+  "description": "第92届威尼斯电影节主竞赛主要官方奖项获奖影片。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "venice-golden-lion-2024-the-room-next-door-1",
+      "mediaType": "movie",
+      "title": "隔壁房间",
+      "releaseDate": "2024",
+      "externalIds": {
+        "letterboxd": "the-room-next-door"
+      },
+      "awardYear": 2024,
+      "winner": "Pedro Almodóvar",
+      "englishTitle": "The Room Next Door",
+      "award": "金狮奖"
+    },
+    {
+      "id": "venice-grand-jury-prize-2024-vermiglio-2",
+      "mediaType": "movie",
+      "title": "山区新娘",
+      "releaseDate": "2024",
+      "externalIds": {
+        "letterboxd": "vermiglio"
+      },
+      "awardYear": 2024,
+      "winner": "Maura Delpero",
+      "englishTitle": "Vermiglio",
+      "award": "银狮奖·评审团大奖"
+    },
+    {
+      "id": "venice-best-director-2024-the-brutalist-3",
+      "mediaType": "movie",
+      "title": "粗野派",
+      "releaseDate": "2024",
+      "externalIds": {
+        "letterboxd": "the-brutalist"
+      },
+      "awardYear": 2024,
+      "winner": "Brady Corbet",
+      "englishTitle": "The Brutalist",
+      "award": "银狮奖·最佳导演"
+    },
+    {
+      "id": "venice-best-actress-2024-babygirl-4",
+      "mediaType": "movie",
+      "title": "小心肝儿",
+      "releaseDate": "2024",
+      "externalIds": {
+        "letterboxd": "babygirl"
+      },
+      "awardYear": 2024,
+      "winner": "Nicole Kidman",
+      "englishTitle": "Babygirl",
+      "award": "沃尔皮杯·最佳女演员"
+    },
+    {
+      "id": "venice-best-actor-2024-the-quiet-son-5",
+      "mediaType": "movie",
+      "title": "静默的儿子",
+      "releaseDate": "2024",
+      "externalIds": {
+        "letterboxd": "the-quiet-son"
+      },
+      "awardYear": 2024,
+      "winner": "Vincent Lindon",
+      "englishTitle": "The Quiet Son",
+      "award": "沃尔皮杯·最佳男演员"
+    },
+    {
+      "id": "venice-best-screenplay-2024-i-m-still-here-6",
+      "mediaType": "movie",
+      "title": "我仍在此",
+      "releaseDate": "2024",
+      "externalIds": {
+        "letterboxd": "i-m-still-here"
+      },
+      "awardYear": 2024,
+      "winner": "Murilo Hauser & Heitor Lorega",
+      "englishTitle": "I'm Still Here",
+      "award": "最佳编剧奖"
+    },
+    {
+      "id": "venice-special-jury-prize-2024-april-7",
+      "mediaType": "movie",
+      "title": "四月",
+      "releaseDate": "2024",
+      "externalIds": {
+        "letterboxd": "april"
+      },
+      "awardYear": 2024,
+      "winner": "Déa Kulumbegashvili",
+      "englishTitle": "April",
+      "award": "评审团特别奖"
+    },
+    {
+      "id": "venice-mastroianni-2024-and-their-children-after-them-8",
+      "mediaType": "movie",
+      "title": "他们之后的孩子",
+      "releaseDate": "2024",
+      "externalIds": {
+        "letterboxd": "and-their-children-after-them"
+      },
+      "awardYear": 2024,
+      "winner": "Paul Kircher",
+      "englishTitle": "And Their Children After Them",
+      "award": "马塞洛·马斯楚安尼奖"
+    }
+  ]
+}

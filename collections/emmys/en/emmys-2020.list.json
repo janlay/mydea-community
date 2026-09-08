@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T05:03:35Z",
+  "title": "Primetime Emmy Awards 2020 Winners",
+  "description": "Major-category winners from the 72th Primetime Emmy Awards.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "emmys-2020-drama-series-succession",
+      "mediaType": "tv",
+      "title": "Succession",
+      "award": "Outstanding Drama Series",
+      "awardYear": 2020,
+      "awardOrder": 1,
+      "winner": "Succession",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7660850"
+      }
+    },
+    {
+      "id": "emmys-2020-comedy-series-schitt-s-creek",
+      "mediaType": "tv",
+      "title": "Schitt's Creek",
+      "award": "Outstanding Comedy Series",
+      "awardYear": 2020,
+      "awardOrder": 2,
+      "winner": "Schitt's Creek",
+      "releaseDate": "2015",
+      "externalIds": {
+        "imdb": "tt3526078"
+      }
+    },
+    {
+      "id": "emmys-2020-limited-series-watchmen",
+      "mediaType": "tv",
+      "title": "Watchmen",
+      "award": "Outstanding Limited or Anthology Series",
+      "awardYear": 2020,
+      "awardOrder": 3,
+      "winner": "Watchmen",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt7049682"
+      }
+    },
+    {
+      "id": "emmys-2020-lead-actor-drama-succession",
+      "mediaType": "tv",
+      "title": "Succession",
+      "award": "Outstanding Lead Actor in a Drama Series",
+      "awardYear": 2020,
+      "awardOrder": 4,
+      "winner": "Jeremy Strong",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7660850"
+      }
+    },
+    {
+      "id": "emmys-2020-lead-actress-drama-euphoria",
+      "mediaType": "tv",
+      "title": "Euphoria",
+      "award": "Outstanding Lead Actress in a Drama Series",
+      "awardYear": 2020,
+      "awardOrder": 5,
+      "winner": "Zendaya",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt8772296"
+      }
+    },
+    {
+      "id": "emmys-2020-lead-actor-comedy-schitt-s-creek",
+      "mediaType": "tv",
+      "title": "Schitt's Creek",
+      "award": "Outstanding Lead Actor in a Comedy Series",
+      "awardYear": 2020,
+      "awardOrder": 6,
+      "winner": "Eugene Levy",
+      "releaseDate": "2015",
+      "externalIds": {
+        "imdb": "tt3526078"
+      }
+    },
+    {
+      "id": "emmys-2020-lead-actress-comedy-schitt-s-creek",
+      "mediaType": "tv",
+      "title": "Schitt's Creek",
+      "award": "Outstanding Lead Actress in a Comedy Series",
+      "awardYear": 2020,
+      "awardOrder": 7,
+      "winner": "Catherine O'Hara",
+      "releaseDate": "2015",
+      "externalIds": {
+        "imdb": "tt3526078"
+      }
+    }
+  ]
+}

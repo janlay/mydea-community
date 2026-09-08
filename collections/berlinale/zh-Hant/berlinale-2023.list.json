@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:30:00Z",
+  "title": "柏林影展 2023 年獲獎名單",
+  "description": "柏林影展 2023 年主競賽國際評審團主要獎項獲獎影片。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "berlinale-2023-golden-bear-on-the-adamant",
+      "mediaType": "movie",
+      "title": "堅毅之旅",
+      "englishTitle": "On the Adamant",
+      "award": "金熊獎",
+      "awardYear": 2023,
+      "awardOrder": 1,
+      "winner": "Nicolas Philibert",
+      "releaseDate": "2023",
+      "externalIds": {
+        "tmdb": "1070449",
+        "imdb": "tt26448811"
+      }
+    },
+    {
+      "id": "berlinale-2023-grand-jury-afire",
+      "mediaType": "movie",
+      "title": "紅色天空",
+      "englishTitle": "Afire",
+      "award": "評審團大獎",
+      "awardYear": 2023,
+      "awardOrder": 2,
+      "winner": "Christian Petzold",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt26440619"
+      }
+    },
+    {
+      "id": "berlinale-2023-jury-prize-bad-living",
+      "mediaType": "movie",
+      "title": "惡劣生活",
+      "englishTitle": "Bad Living",
+      "award": "評審團獎",
+      "awardYear": 2023,
+      "awardOrder": 3,
+      "winner": "João Canijo",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt14007288"
+      }
+    },
+    {
+      "id": "berlinale-2023-best-director-the-plough",
+      "mediaType": "movie",
+      "title": "北斗七星",
+      "englishTitle": "The Plough",
+      "award": "最佳導演銀熊獎",
+      "awardYear": 2023,
+      "awardOrder": 4,
+      "winner": "Philippe Garrel",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt15531718"
+      }
+    },
+    {
+      "id": "berlinale-2023-leading-performance-20-000-species-of-bees",
+      "mediaType": "movie",
+      "title": "兩萬種蜜蜂",
+      "englishTitle": "20,000 Species of Bees",
+      "award": "最佳主角銀熊獎",
+      "awardYear": 2023,
+      "awardOrder": 5,
+      "winner": "Sofía Otero",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt21113962"
+      }
+    },
+    {
+      "id": "berlinale-2023-supporting-performance-till-the-end-of-the-night",
+      "mediaType": "movie",
+      "title": "直到夜盡頭",
+      "englishTitle": "Till the End of the Night",
+      "award": "最佳配角銀熊獎",
+      "awardYear": 2023,
+      "awardOrder": 6,
+      "winner": "Thea Ehre",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt23283892"
+      }
+    },
+    {
+      "id": "berlinale-2023-best-screenplay-music",
+      "mediaType": "movie",
+      "title": "音樂",
+      "englishTitle": "Music",
+      "award": "最佳編劇銀熊獎",
+      "awardYear": 2023,
+      "awardOrder": 7,
+      "winner": "Angela Schanelec",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt15547924"
+      }
+    },
+    {
+      "id": "berlinale-2023-artistic-contribution-disco-boy",
+      "mediaType": "movie",
+      "title": "迪斯科男孩",
+      "englishTitle": "Disco Boy",
+      "award": "傑出藝術貢獻銀熊獎",
+      "awardYear": 2023,
+      "awardOrder": 8,
+      "winner": "Hélène Louvart",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt22180518"
+      }
+    }
+  ]
+}

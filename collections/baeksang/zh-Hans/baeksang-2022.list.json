@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-12T02:53:58Z",
+  "title": "百想艺术大赏 — 2022",
+  "description": "2022 年百想艺术大赏电影与电视主要奖项获奖记录。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "baeksang-2022-film-grand-mogadishu",
+      "mediaType": "movie",
+      "title": "摩加迪沙",
+      "originalTitle": "모가디슈",
+      "award": "电影大奖",
+      "awardYear": 2022,
+      "awardOrder": 1,
+      "winner": "Ryoo Seung-wan",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14810692"
+      }
+    },
+    {
+      "id": "baeksang-2022-tv-grand-squid-game",
+      "mediaType": "tv",
+      "title": "鱿鱼游戏",
+      "originalTitle": "오징어 게임",
+      "award": "电视大奖",
+      "awardYear": 2022,
+      "awardOrder": 2,
+      "winner": "鱿鱼游戏",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt10919420"
+      }
+    },
+    {
+      "id": "baeksang-2022-film-best-mogadishu",
+      "mediaType": "movie",
+      "title": "摩加迪沙",
+      "originalTitle": "모가디슈",
+      "award": "最佳电影",
+      "awardYear": 2022,
+      "awardOrder": 3,
+      "winner": "摩加迪沙",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14810692"
+      }
+    },
+    {
+      "id": "baeksang-2022-film-director-kingmaker",
+      "mediaType": "movie",
+      "title": "王者制造",
+      "originalTitle": "킹메이커",
+      "award": "电影最佳导演",
+      "awardYear": 2022,
+      "awardOrder": 4,
+      "winner": "Byun Sung-hyun",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt17491616"
+      }
+    },
+    {
+      "id": "baeksang-2022-film-actor-kingmaker",
+      "mediaType": "movie",
+      "title": "王者制造",
+      "originalTitle": "킹메이커",
+      "award": "电影最佳男主角",
+      "awardYear": 2022,
+      "awardOrder": 5,
+      "winner": "Sol Kyung-gu",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt17491616"
+      }
+    },
+    {
+      "id": "baeksang-2022-film-actress-in-front",
+      "mediaType": "movie",
+      "title": "在你面前",
+      "originalTitle": "당신얼굴 앞에서",
+      "award": "电影最佳女主角",
+      "awardYear": 2022,
+      "awardOrder": 6,
+      "winner": "Lee Hye-young",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14776918"
+      }
+    },
+    {
+      "id": "baeksang-2022-tv-best-dp",
+      "mediaType": "tv",
+      "title": "D.P：逃兵追缉令",
+      "originalTitle": "D.P.",
+      "award": "最佳电视剧",
+      "awardYear": 2022,
+      "awardOrder": 7,
+      "winner": "D.P：逃兵追缉令",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt13024974"
+      }
+    },
+    {
+      "id": "baeksang-2022-tv-director-squid-game",
+      "mediaType": "tv",
+      "title": "鱿鱼游戏",
+      "originalTitle": "오징어 게임",
+      "award": "电视最佳导演",
+      "awardYear": 2022,
+      "awardOrder": 8,
+      "winner": "Hwang Dong-hyuk",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt10919420"
+      }
+    },
+    {
+      "id": "baeksang-2022-tv-actor-red-sleeve",
+      "mediaType": "tv",
+      "title": "衣袖红镶边",
+      "originalTitle": "옷소매 붉은 끝동",
+      "award": "电视最佳男主角",
+      "awardYear": 2022,
+      "awardOrder": 9,
+      "winner": "Lee Jun-ho",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14687200"
+      }
+    },
+    {
+      "id": "baeksang-2022-tv-actress-2521",
+      "mediaType": "tv",
+      "title": "二十五，二十一",
+      "originalTitle": "스물다섯 스물하나",
+      "award": "电视最佳女主角",
+      "awardYear": 2022,
+      "awardOrder": 10,
+      "winner": "Kim Tae-ri",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt17513352"
+      }
+    }
+  ]
+}

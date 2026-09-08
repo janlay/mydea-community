@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "title": "Hong Kong Film Awards 2024 Winners",
+  "description": "Winning films and filmmakers of the 2024 Hong Kong Film Awards.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "hkfa-2024-best-film-25377462",
+      "mediaType": "movie",
+      "title": "A Guilty Conscience",
+      "awardYear": 2024,
+      "winner": "A Guilty Conscience",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt25377462"
+      },
+      "award": "Best Film",
+      "awardOrder": 1,
+      "originalTitle": "毒舌大狀"
+    },
+    {
+      "id": "hkfa-2024-best-director-19856688",
+      "mediaType": "movie",
+      "title": "命案",
+      "awardYear": 2024,
+      "winner": "鄭保瑞",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt19856688"
+      },
+      "award": "Best Director",
+      "awardOrder": 2
+    },
+    {
+      "id": "hkfa-2024-best-screenplay-19856688",
+      "mediaType": "movie",
+      "title": "命案",
+      "awardYear": 2024,
+      "winner": "游乃海、李春暉",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt19856688"
+      },
+      "award": "Best Screenplay",
+      "awardOrder": 3
+    },
+    {
+      "id": "hkfa-2024-best-actor-14099796",
+      "mediaType": "movie",
+      "title": "金手指",
+      "awardYear": 2024,
+      "winner": "梁朝偉",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt14099796"
+      },
+      "award": "Best Actor",
+      "awardOrder": 4
+    },
+    {
+      "id": "hkfa-2024-best-actress-27881515",
+      "mediaType": "movie",
+      "title": "白日之下",
+      "awardYear": 2024,
+      "winner": "余香凝",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt27881515"
+      },
+      "award": "Best Actress",
+      "awardOrder": 5
+    },
+    {
+      "id": "hkfa-2024-best-supporting-actor-27881515",
+      "mediaType": "movie",
+      "title": "白日之下",
+      "awardYear": 2024,
+      "winner": "姜大衞",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt27881515"
+      },
+      "award": "Best Supporting Actor",
+      "awardOrder": 6
+    },
+    {
+      "id": "hkfa-2024-best-supporting-actress-27881515",
+      "mediaType": "movie",
+      "title": "白日之下",
+      "awardYear": 2024,
+      "winner": "梁雍婷",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt27881515"
+      },
+      "award": "Best Supporting Actress",
+      "awardOrder": 7
+    },
+    {
+      "id": "hkfa-2024-best-new-performer-27139786",
+      "mediaType": "movie",
+      "title": "但願人長久",
+      "awardYear": 2024,
+      "winner": "謝咏欣",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt27139786"
+      },
+      "award": "Best New Performer",
+      "awardOrder": 8
+    }
+  ]
+}

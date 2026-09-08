@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "ChatGPT",
+  "title": "Oscars 2019 Winners",
+  "description": "Winners in core film categories at the 91st Academy Awards.",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "oscars-2019.list.json"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "ChatGPT",
+  "title": "Busan International Film Festival 2019 Awards",
+  "description": "Core competition winners at the 2019 Busan International Film Festival.",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "biff-2019.list.json"
+    }
+  ]
+}

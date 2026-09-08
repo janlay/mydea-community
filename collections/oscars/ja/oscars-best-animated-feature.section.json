@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "ChatGPT",
+  "title": "アカデミー賞 — 長編アニメ映画賞",
+  "description": "アカデミー賞「長編アニメ映画賞」の直近10回の受賞記録。",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "oscars-best-animated-feature.list.json"
+    }
+  ]
+}

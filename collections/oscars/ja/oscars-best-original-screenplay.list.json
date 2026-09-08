@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T05:03:58Z",
+  "title": "アカデミー賞 — 脚本賞",
+  "description": "アカデミー賞「脚本賞」の直近10回の受賞記録。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "oscars-best-original-screenplay-2017-manchester-by-the-sea",
+      "mediaType": "movie",
+      "title": "Manchester by the Sea",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4034228"
+      },
+      "awardYear": 2017,
+      "winner": "Kenneth Lonergan"
+    },
+    {
+      "id": "oscars-best-original-screenplay-2018-get-out",
+      "mediaType": "movie",
+      "title": "Get Out",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5052448"
+      },
+      "awardYear": 2018,
+      "winner": "Jordan Peele"
+    },
+    {
+      "id": "oscars-best-original-screenplay-2019-green-book",
+      "mediaType": "movie",
+      "title": "Green Book",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt6966692"
+      },
+      "awardYear": 2019,
+      "winner": "Nick Vallelonga, Brian Currie & Peter Farrelly"
+    },
+    {
+      "id": "oscars-best-original-screenplay-2020-parasite",
+      "mediaType": "movie",
+      "title": "Parasite",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6751668"
+      },
+      "awardYear": 2020,
+      "winner": "Bong Joon Ho & Han Jin Won"
+    },
+    {
+      "id": "oscars-best-original-screenplay-2021-promising-young-woman",
+      "mediaType": "movie",
+      "title": "Promising Young Woman",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt9620292"
+      },
+      "awardYear": 2021,
+      "winner": "Emerald Fennell"
+    },
+    {
+      "id": "oscars-best-original-screenplay-2022-belfast",
+      "mediaType": "movie",
+      "title": "Belfast",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt12789558"
+      },
+      "awardYear": 2022,
+      "winner": "Kenneth Branagh"
+    },
+    {
+      "id": "oscars-best-original-screenplay-2023-everything-everywhere-all-at-once",
+      "mediaType": "movie",
+      "title": "Everything Everywhere All at Once",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt6710474"
+      },
+      "awardYear": 2023,
+      "winner": "Daniel Kwan & Daniel Scheinert"
+    },
+    {
+      "id": "oscars-best-original-screenplay-2024-anatomy-of-a-fall",
+      "mediaType": "movie",
+      "title": "Anatomy of a Fall",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt17009710"
+      },
+      "awardYear": 2024,
+      "winner": "Justine Triet & Arthur Harari"
+    },
+    {
+      "id": "oscars-best-original-screenplay-2025-anora",
+      "mediaType": "movie",
+      "title": "Anora",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt28607951"
+      },
+      "awardYear": 2025,
+      "winner": "Sean Baker"
+    },
+    {
+      "id": "oscars-best-original-screenplay-2026-sinners",
+      "mediaType": "movie",
+      "title": "Sinners",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31193180"
+      },
+      "awardYear": 2026,
+      "winner": "Ryan Coogler"
+    }
+  ]
+}

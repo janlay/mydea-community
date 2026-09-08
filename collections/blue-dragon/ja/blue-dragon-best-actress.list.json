@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T00:00:00Z",
+  "title": "青龍映画賞 — 主演女優賞",
+  "description": "青龍映画賞主演女優賞の歴代受賞者。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "blue-dragon-2016-best-actress-handmaiden",
+      "mediaType": "movie",
+      "title": "お嬢さん",
+      "originalTitle": "아가씨",
+      "awardYear": 2016,
+      "winner": "キム・ミニ",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4016934"
+      }
+    },
+    {
+      "id": "blue-dragon-2017-best-actress-i-can-speak",
+      "mediaType": "movie",
+      "title": "アイ・キャン・スピーク",
+      "originalTitle": "아이 캔 스피크",
+      "awardYear": 2017,
+      "winner": "ナ・ムニ",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7342204"
+      }
+    },
+    {
+      "id": "blue-dragon-2018-best-actress-miss-baek",
+      "mediaType": "movie",
+      "title": "Miss Baek",
+      "originalTitle": "미쓰백",
+      "awardYear": 2018,
+      "winner": "ハン・ジミン",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt6479534"
+      }
+    },
+    {
+      "id": "blue-dragon-2019-best-actress-parasite",
+      "mediaType": "movie",
+      "title": "パラサイト 半地下の家族",
+      "originalTitle": "기생충",
+      "awardYear": 2019,
+      "winner": "チョ・ヨジョン",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6751668"
+      }
+    },
+    {
+      "id": "blue-dragon-2020-best-actress-honest-candidate",
+      "mediaType": "movie",
+      "title": "Honest Candidate",
+      "originalTitle": "정직한 후보",
+      "awardYear": 2020,
+      "winner": "ラ・ミラン",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt11812338"
+      }
+    },
+    {
+      "id": "blue-dragon-2021-best-actress-three-sisters",
+      "mediaType": "movie",
+      "title": "三姉妹",
+      "originalTitle": "세 자매",
+      "awardYear": 2021,
+      "winner": "ムン・ソリ",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt12385956"
+      }
+    },
+    {
+      "id": "blue-dragon-2022-best-actress-decision-leave",
+      "mediaType": "movie",
+      "title": "別れる決心",
+      "originalTitle": "헤어질 결심",
+      "awardYear": 2022,
+      "winner": "タン・ウェイ",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt12477480"
+      }
+    },
+    {
+      "id": "blue-dragon-2023-best-actress-sleep",
+      "mediaType": "movie",
+      "title": "スリープ",
+      "originalTitle": "잠",
+      "awardYear": 2023,
+      "winner": "チョン・ユミ",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt8209702"
+      }
+    },
+    {
+      "id": "blue-dragon-2024-best-actress-exhuma",
+      "mediaType": "movie",
+      "title": "破墓/パミョ",
+      "originalTitle": "파묘",
+      "awardYear": 2024,
+      "winner": "キム・ゴウン",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt27802490"
+      }
+    },
+    {
+      "id": "blue-dragon-2025-best-actress-no-other-choice",
+      "mediaType": "movie",
+      "title": "No Other Choice",
+      "originalTitle": "어쩔수가없다",
+      "awardYear": 2025,
+      "winner": "ソン・イェジン",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt1527793"
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "ChatGPT",
+  "title": "香港電影金像奨 — 最優秀助演女優賞",
+  "description": "香港電影金像奨の歴代最優秀助演女優賞受賞記録。",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "hkfa-best-supporting-actress.list.json"
+    }
+  ]
+}

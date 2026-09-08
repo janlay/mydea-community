@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "골든 글로브 — TV 드라마 작품상",
+  "description": "2017–2026 골든 글로브 TV 드라마 작품상 수상작.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "golden-globes-tv_drama-2017-the-crown",
+      "mediaType": "tv",
+      "title": "더 크라운",
+      "englishTitle": "The Crown",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4786824"
+      },
+      "awardYear": 2017,
+      "winner": "더 크라운"
+    },
+    {
+      "id": "golden-globes-tv_drama-2018-the-handmaid-s-tale",
+      "mediaType": "tv",
+      "title": "핸드메이즈 테일",
+      "englishTitle": "The Handmaid's Tale",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5834204"
+      },
+      "awardYear": 2018,
+      "winner": "핸드메이즈 테일"
+    },
+    {
+      "id": "golden-globes-tv_drama-2019-bodyguard",
+      "mediaType": "tv",
+      "title": "보디가드",
+      "englishTitle": "Bodyguard",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7493974"
+      },
+      "awardYear": 2019,
+      "winner": "보디가드"
+    },
+    {
+      "id": "golden-globes-tv_drama-2020-succession",
+      "mediaType": "tv",
+      "title": "석세션",
+      "englishTitle": "Succession",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7660850"
+      },
+      "awardYear": 2020,
+      "winner": "석세션"
+    },
+    {
+      "id": "golden-globes-tv_drama-2021-the-crown",
+      "mediaType": "tv",
+      "title": "더 크라운",
+      "englishTitle": "The Crown",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4786824"
+      },
+      "awardYear": 2021,
+      "winner": "더 크라운"
+    },
+    {
+      "id": "golden-globes-tv_drama-2022-succession",
+      "mediaType": "tv",
+      "title": "석세션",
+      "englishTitle": "Succession",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7660850"
+      },
+      "awardYear": 2022,
+      "winner": "석세션"
+    },
+    {
+      "id": "golden-globes-tv_drama-2023-house-of-the-dragon",
+      "mediaType": "tv",
+      "title": "하우스 오브 드래곤",
+      "englishTitle": "House of the Dragon",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt11198330"
+      },
+      "awardYear": 2023,
+      "winner": "하우스 오브 드래곤"
+    },
+    {
+      "id": "golden-globes-tv_drama-2024-succession",
+      "mediaType": "tv",
+      "title": "석세션",
+      "englishTitle": "Succession",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7660850"
+      },
+      "awardYear": 2024,
+      "winner": "석세션"
+    },
+    {
+      "id": "golden-globes-tv_drama-2025-shogun",
+      "mediaType": "tv",
+      "title": "쇼군",
+      "englishTitle": "Shōgun",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt2788316"
+      },
+      "awardYear": 2025,
+      "winner": "쇼군"
+    },
+    {
+      "id": "golden-globes-tv_drama-2026-the-pitt",
+      "mediaType": "tv",
+      "title": "더 피트",
+      "englishTitle": "The Pitt",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31938062"
+      },
+      "awardYear": 2026,
+      "winner": "더 피트"
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-12T02:54:20Z",
+  "title": "청룡영화상 — 2021",
+  "description": "2021년 청룡영화상 주요 10개 영화 부문 수상작.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "blue-dragon-2021-best-film-mogadishu",
+      "mediaType": "movie",
+      "title": "모가디슈",
+      "englishTitle": "Escape from Mogadishu",
+      "award": "최우수작품상",
+      "awardYear": 2021,
+      "awardOrder": 1,
+      "winner": "Ryoo Seung-wan",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14810692"
+      }
+    },
+    {
+      "id": "blue-dragon-2021-best-director-mogadishu",
+      "mediaType": "movie",
+      "title": "모가디슈",
+      "englishTitle": "Escape from Mogadishu",
+      "award": "감독상",
+      "awardYear": 2021,
+      "awardOrder": 2,
+      "winner": "Ryoo Seung-wan",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14810692"
+      }
+    },
+    {
+      "id": "blue-dragon-2021-best-actor-book-fish",
+      "mediaType": "movie",
+      "title": "자산어보",
+      "englishTitle": "The Book of Fish",
+      "award": "남우주연상",
+      "awardYear": 2021,
+      "awardOrder": 3,
+      "winner": "Sul Kyung-gu",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14371900"
+      }
+    },
+    {
+      "id": "blue-dragon-2021-best-actress-three-sisters",
+      "mediaType": "movie",
+      "title": "세 자매",
+      "englishTitle": "Three Sisters",
+      "award": "여우주연상",
+      "awardYear": 2021,
+      "awardOrder": 4,
+      "winner": "Moon So-ri",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt12385956"
+      }
+    },
+    {
+      "id": "blue-dragon-2021-best-supporting-actor-mogadishu",
+      "mediaType": "movie",
+      "title": "모가디슈",
+      "englishTitle": "Escape from Mogadishu",
+      "award": "남우조연상",
+      "awardYear": 2021,
+      "awardOrder": 5,
+      "winner": "Huh Joon-ho",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14810692"
+      }
+    },
+    {
+      "id": "blue-dragon-2021-best-supporting-actress-three-sisters",
+      "mediaType": "movie",
+      "title": "세 자매",
+      "englishTitle": "Three Sisters",
+      "award": "여우조연상",
+      "awardYear": 2021,
+      "awardOrder": 6,
+      "winner": "Kim Sun-young",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt12385956"
+      }
+    },
+    {
+      "id": "blue-dragon-2021-best-new-director-day-i-died",
+      "mediaType": "movie",
+      "title": "내가 죽던 날",
+      "englishTitle": "The Day I Died: Unclosed Case",
+      "award": "신인감독상",
+      "awardYear": 2021,
+      "awardOrder": 7,
+      "winner": "Park Ji-wan",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt13423318"
+      }
+    },
+    {
+      "id": "blue-dragon-2021-best-new-actor-not-out",
+      "mediaType": "movie",
+      "title": "낫아웃",
+      "englishTitle": "Not Out",
+      "award": "신인남우상",
+      "awardYear": 2021,
+      "awardOrder": 8,
+      "winner": "Jeong Jae-kwang",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14627004"
+      }
+    },
+    {
+      "id": "blue-dragon-2021-best-new-actress-aloners",
+      "mediaType": "movie",
+      "title": "혼자 사는 사람들",
+      "englishTitle": "Aloners",
+      "award": "신인여우상",
+      "awardYear": 2021,
+      "awardOrder": 9,
+      "winner": "Gong Seung-yeon",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14598598"
+      }
+    },
+    {
+      "id": "blue-dragon-2021-best-screenplay-book-fish",
+      "mediaType": "movie",
+      "title": "자산어보",
+      "englishTitle": "The Book of Fish",
+      "award": "각본상",
+      "awardYear": 2021,
+      "awardOrder": 10,
+      "winner": "Kim Se-gyeom",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14371900"
+      }
+    }
+  ]
+}

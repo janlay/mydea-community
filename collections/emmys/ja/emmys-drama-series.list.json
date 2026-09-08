@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T05:03:35Z",
+  "title": "プライムタイム・エミー賞 — 作品賞 ドラマ・シリーズ部門",
+  "description": "プライムタイム・エミー賞「作品賞 ドラマ・シリーズ部門」の受賞記録。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "emmys-2017-drama-series-the-handmaid-s-tale",
+      "mediaType": "tv",
+      "title": "ハンドメイズ・テイル／侍女の物語",
+      "originalTitle": "The Handmaid's Tale",
+      "awardYear": 2017,
+      "winner": "The Handmaid's Tale",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5834204"
+      }
+    },
+    {
+      "id": "emmys-2018-drama-series-game-of-thrones",
+      "mediaType": "tv",
+      "title": "ゲーム・オブ・スローンズ",
+      "originalTitle": "Game of Thrones",
+      "awardYear": 2018,
+      "winner": "Game of Thrones",
+      "releaseDate": "2011",
+      "externalIds": {
+        "imdb": "tt0944947"
+      }
+    },
+    {
+      "id": "emmys-2019-drama-series-game-of-thrones",
+      "mediaType": "tv",
+      "title": "ゲーム・オブ・スローンズ",
+      "originalTitle": "Game of Thrones",
+      "awardYear": 2019,
+      "winner": "Game of Thrones",
+      "releaseDate": "2011",
+      "externalIds": {
+        "imdb": "tt0944947"
+      }
+    },
+    {
+      "id": "emmys-2020-drama-series-succession",
+      "mediaType": "tv",
+      "title": "メディア王 〜華麗なる一族〜",
+      "originalTitle": "Succession",
+      "awardYear": 2020,
+      "winner": "Succession",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7660850"
+      }
+    },
+    {
+      "id": "emmys-2021-drama-series-the-crown",
+      "mediaType": "tv",
+      "title": "ザ・クラウン",
+      "originalTitle": "The Crown",
+      "awardYear": 2021,
+      "winner": "The Crown",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4786824"
+      }
+    },
+    {
+      "id": "emmys-2022-drama-series-succession",
+      "mediaType": "tv",
+      "title": "メディア王 〜華麗なる一族〜",
+      "originalTitle": "Succession",
+      "awardYear": 2022,
+      "winner": "Succession",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7660850"
+      }
+    },
+    {
+      "id": "emmys-2023-drama-series-succession",
+      "mediaType": "tv",
+      "title": "メディア王 〜華麗なる一族〜",
+      "originalTitle": "Succession",
+      "awardYear": 2023,
+      "winner": "Succession",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7660850"
+      }
+    },
+    {
+      "id": "emmys-2024-drama-series-shogun",
+      "mediaType": "tv",
+      "title": "SHOGUN 将軍",
+      "originalTitle": "Shōgun",
+      "awardYear": 2024,
+      "winner": "Shōgun",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt2788316"
+      }
+    },
+    {
+      "id": "emmys-2025-drama-series-the-pitt",
+      "mediaType": "tv",
+      "title": "The Pitt",
+      "awardYear": 2025,
+      "winner": "The Pitt",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31938062"
+      }
+    },
+    {
+      "id": "emmys-2026-drama-series-the-pitt",
+      "mediaType": "tv",
+      "title": "The Pitt",
+      "awardYear": 2026,
+      "winner": "The Pitt",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31938062"
+      }
+    }
+  ]
+}

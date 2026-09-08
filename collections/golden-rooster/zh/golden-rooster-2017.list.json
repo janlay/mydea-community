@@ -1,0 +1,248 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T00:56:00Z",
+  "title": "中国电影金鸡奖 2017 年获奖名单",
+  "description": "第31届中国电影金鸡奖主要获奖影片与影人。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "golden-rooster-2017-best-feature-film-83471229",
+      "mediaType": "movie",
+      "title": "湄公河行动",
+      "releaseDate": "2016",
+      "externalIds": {
+        "tmdb": "408620",
+        "imdb": "tt6044910"
+      },
+      "awardYear": 2017,
+      "awardOrder": 1,
+      "award": "最佳故事片",
+      "winner": "林超贤"
+    },
+    {
+      "id": "golden-rooster-2017-best-director-75463928",
+      "mediaType": "movie",
+      "title": "我不是潘金莲",
+      "releaseDate": "2016",
+      "externalIds": {
+        "tmdb": "393445",
+        "imdb": "tt5918090"
+      },
+      "awardYear": 2017,
+      "awardOrder": 2,
+      "award": "最佳导演",
+      "winner": "冯小刚"
+    },
+    {
+      "id": "golden-rooster-2017-best-actor-57793639",
+      "mediaType": "movie",
+      "title": "烈日灼心",
+      "releaseDate": "2015",
+      "externalIds": {
+        "tmdb": "339677",
+        "imdb": "tt4077222"
+      },
+      "awardYear": 2017,
+      "awardOrder": 3,
+      "award": "最佳男主角",
+      "winner": "邓超"
+    },
+    {
+      "id": "golden-rooster-2017-best-actress-65628412",
+      "mediaType": "movie",
+      "title": "我不是潘金莲",
+      "releaseDate": "2016",
+      "externalIds": {
+        "tmdb": "393445",
+        "imdb": "tt5918090"
+      },
+      "awardYear": 2017,
+      "awardOrder": 4,
+      "award": "最佳女主角",
+      "winner": "范冰冰"
+    },
+    {
+      "id": "golden-rooster-2017-best-supporting-actor-96869960",
+      "mediaType": "movie",
+      "title": "我不是潘金莲",
+      "releaseDate": "2016",
+      "externalIds": {
+        "tmdb": "393445",
+        "imdb": "tt5918090"
+      },
+      "awardYear": 2017,
+      "awardOrder": 5,
+      "award": "最佳男配角",
+      "winner": "于和伟"
+    },
+    {
+      "id": "golden-rooster-2017-best-supporting-actor-21299939",
+      "mediaType": "movie",
+      "title": "解救吾先生",
+      "releaseDate": "2015",
+      "externalIds": {
+        "tmdb": "362154",
+        "imdb": "tt4819560"
+      },
+      "awardYear": 2017,
+      "awardOrder": 6,
+      "award": "最佳男配角",
+      "winner": "王千源"
+    },
+    {
+      "id": "golden-rooster-2017-best-supporting-actress-30746487",
+      "mediaType": "movie",
+      "title": "搬迁",
+      "awardYear": 2017,
+      "awardOrder": 7,
+      "award": "最佳女配角",
+      "winner": "吴彦姝"
+    },
+    {
+      "id": "golden-rooster-2017-best-screenplay-82320111",
+      "mediaType": "movie",
+      "title": "老炮儿",
+      "releaseDate": "2015",
+      "externalIds": {
+        "tmdb": "361278",
+        "imdb": "tt4701702"
+      },
+      "awardYear": 2017,
+      "awardOrder": 8,
+      "award": "最佳编剧",
+      "winner": "管虎、董润年"
+    },
+    {
+      "id": "golden-rooster-2017-best-directorial-debut-80159324",
+      "mediaType": "movie",
+      "title": "陆垚知马俐",
+      "awardYear": 2017,
+      "awardOrder": 9,
+      "award": "最佳导演处女作",
+      "winner": "文章"
+    },
+    {
+      "id": "golden-rooster-2017-best-documentary-47164500",
+      "mediaType": "movie",
+      "title": "日本战犯忏悔备忘录",
+      "awardYear": 2017,
+      "awardOrder": 10,
+      "award": "最佳纪录片"
+    },
+    {
+      "id": "golden-rooster-2017-best-science-film-17589759",
+      "mediaType": "movie",
+      "title": "首星揭秘",
+      "awardYear": 2017,
+      "awardOrder": 11,
+      "award": "最佳科教片"
+    },
+    {
+      "id": "golden-rooster-2017-best-low-budget-feature-14396238",
+      "mediaType": "movie",
+      "title": "塔洛",
+      "releaseDate": "2015",
+      "externalIds": {
+        "tmdb": "360207",
+        "imdb": "tt4975328"
+      },
+      "awardYear": 2017,
+      "awardOrder": 12,
+      "award": "最佳中小成本故事片"
+    },
+    {
+      "id": "golden-rooster-2017-best-children-film-00834927",
+      "mediaType": "movie",
+      "title": "乌珠穆沁的孩子",
+      "awardYear": 2017,
+      "awardOrder": 13,
+      "award": "最佳儿童片"
+    },
+    {
+      "id": "golden-rooster-2017-best-opera-film-58333989",
+      "mediaType": "movie",
+      "title": "穆桂英挂帅",
+      "awardYear": 2017,
+      "awardOrder": 14,
+      "award": "最佳戏曲片"
+    },
+    {
+      "id": "golden-rooster-2017-best-animation-22755879",
+      "mediaType": "movie",
+      "title": "大耳朵图图之美食狂想曲",
+      "awardYear": 2017,
+      "awardOrder": 15,
+      "award": "最佳美术片"
+    },
+    {
+      "id": "golden-rooster-2017-best-sound-28204039",
+      "mediaType": "movie",
+      "title": "火锅英雄",
+      "awardYear": 2017,
+      "awardOrder": 16,
+      "award": "最佳录音",
+      "winner": "黄铮"
+    },
+    {
+      "id": "golden-rooster-2017-best-cinematography-84783124",
+      "mediaType": "movie",
+      "title": "村戏",
+      "awardYear": 2017,
+      "awardOrder": 17,
+      "award": "最佳摄影",
+      "winner": "邵丹"
+    },
+    {
+      "id": "golden-rooster-2017-best-art-direction-70458991",
+      "mediaType": "movie",
+      "title": "罗曼蒂克消亡史",
+      "releaseDate": "2016",
+      "externalIds": {
+        "tmdb": "414415",
+        "imdb": "tt5229546"
+      },
+      "awardYear": 2017,
+      "awardOrder": 18,
+      "award": "最佳美术",
+      "winner": "韩忠"
+    },
+    {
+      "id": "golden-rooster-2017-best-music-80869662",
+      "mediaType": "movie",
+      "title": "开罗宣言",
+      "awardYear": 2017,
+      "awardOrder": 19,
+      "award": "最佳音乐",
+      "winner": "叶小钢"
+    },
+    {
+      "id": "golden-rooster-2017-best-editing-10642351",
+      "mediaType": "movie",
+      "title": "解救吾先生",
+      "releaseDate": "2015",
+      "externalIds": {
+        "tmdb": "362154",
+        "imdb": "tt4819560"
+      },
+      "awardYear": 2017,
+      "awardOrder": 20,
+      "award": "最佳剪辑",
+      "winner": "丁晟"
+    }
+  ]
+}

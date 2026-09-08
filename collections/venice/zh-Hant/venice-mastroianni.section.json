@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "Mydea",
+  "title": "威尼斯 — 馬塞洛·馬斯楚安尼獎",
+  "description": "威尼斯影展歷屆馬塞洛·馬斯楚安尼獎獲獎影片/表演記錄；按該獎項現行或歷史等價類別整理。",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "venice-mastroianni.list.json"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "ChatGPT",
+  "title": "青龍電影獎 — 2022",
+  "description": "2022年韓國青龍電影獎10個主要電影獎項獲獎作品。",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "blue-dragon-2022.list.json"
+    }
+  ]
+}

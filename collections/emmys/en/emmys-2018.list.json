@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T05:03:35Z",
+  "title": "Primetime Emmy Awards 2018 Winners",
+  "description": "Major-category winners from the 70th Primetime Emmy Awards.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "emmys-2018-drama-series-game-of-thrones",
+      "mediaType": "tv",
+      "title": "Game of Thrones",
+      "award": "Outstanding Drama Series",
+      "awardYear": 2018,
+      "awardOrder": 1,
+      "winner": "Game of Thrones",
+      "releaseDate": "2011",
+      "externalIds": {
+        "imdb": "tt0944947"
+      }
+    },
+    {
+      "id": "emmys-2018-comedy-series-the-marvelous-mrs-maisel",
+      "mediaType": "tv",
+      "title": "The Marvelous Mrs. Maisel",
+      "award": "Outstanding Comedy Series",
+      "awardYear": 2018,
+      "awardOrder": 2,
+      "winner": "The Marvelous Mrs. Maisel",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5788792"
+      }
+    },
+    {
+      "id": "emmys-2018-limited-series-the-assassination-of-gianni-versace-american-crime-story",
+      "mediaType": "tv",
+      "title": "The Assassination of Gianni Versace: American Crime Story",
+      "award": "Outstanding Limited or Anthology Series",
+      "awardYear": 2018,
+      "awardOrder": 3,
+      "winner": "The Assassination of Gianni Versace: American Crime Story",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt2788432"
+      }
+    },
+    {
+      "id": "emmys-2018-lead-actor-drama-the-americans",
+      "mediaType": "tv",
+      "title": "The Americans",
+      "award": "Outstanding Lead Actor in a Drama Series",
+      "awardYear": 2018,
+      "awardOrder": 4,
+      "winner": "Matthew Rhys",
+      "releaseDate": "2013",
+      "externalIds": {
+        "imdb": "tt2149175"
+      }
+    },
+    {
+      "id": "emmys-2018-lead-actress-drama-the-crown",
+      "mediaType": "tv",
+      "title": "The Crown",
+      "award": "Outstanding Lead Actress in a Drama Series",
+      "awardYear": 2018,
+      "awardOrder": 5,
+      "winner": "Claire Foy",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4786824"
+      }
+    },
+    {
+      "id": "emmys-2018-lead-actor-comedy-barry",
+      "mediaType": "tv",
+      "title": "Barry",
+      "award": "Outstanding Lead Actor in a Comedy Series",
+      "awardYear": 2018,
+      "awardOrder": 6,
+      "winner": "Bill Hader",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt5348176"
+      }
+    },
+    {
+      "id": "emmys-2018-lead-actress-comedy-the-marvelous-mrs-maisel",
+      "mediaType": "tv",
+      "title": "The Marvelous Mrs. Maisel",
+      "award": "Outstanding Lead Actress in a Comedy Series",
+      "awardYear": 2018,
+      "awardOrder": 7,
+      "winner": "Rachel Brosnahan",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5788792"
+      }
+    }
+  ]
+}

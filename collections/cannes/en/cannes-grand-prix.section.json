@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "OpenAI",
+  "title": "Cannes — Grand Prix",
+  "description": "Cannes Film Festival Grand Prix winning films.",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "cannes-grand-prix.list.json"
+    }
+  ]
+}

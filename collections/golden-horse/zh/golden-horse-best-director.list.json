@@ -1,0 +1,591 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:45:00Z",
+  "title": "金馬獎 — 最佳導演",
+  "description": "金馬獎最佳導演歷屆全部實際得獎記錄。1964年及1974年停辦不列入。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "golden-horse-1962-best-director-item-1",
+      "mediaType": "movie",
+      "title": "千嬌百媚",
+      "awardYear": 1962,
+      "winner": "陶秦",
+      "releaseDate": "1962"
+    },
+    {
+      "id": "golden-horse-1963-best-director-tt0057248",
+      "mediaType": "movie",
+      "title": "梁山伯與祝英台",
+      "awardYear": 1963,
+      "winner": "李翰祥",
+      "releaseDate": "1963",
+      "externalIds": {
+        "imdb": "tt0057248"
+      }
+    },
+    {
+      "id": "golden-horse-1965-best-director-tt1345532",
+      "mediaType": "movie",
+      "title": "養鴨人家",
+      "awardYear": 1965,
+      "winner": "李行",
+      "releaseDate": "1965",
+      "externalIds": {
+        "imdb": "tt1345532"
+      }
+    },
+    {
+      "id": "golden-horse-1966-best-director-tt0311305",
+      "mediaType": "movie",
+      "title": "西施",
+      "awardYear": 1966,
+      "winner": "李翰祥",
+      "releaseDate": "1966",
+      "externalIds": {
+        "imdb": "tt0311305"
+      }
+    },
+    {
+      "id": "golden-horse-1967-best-director-tt0185582",
+      "mediaType": "movie",
+      "title": "我女若蘭",
+      "awardYear": 1967,
+      "winner": "李嘉",
+      "releaseDate": "1967",
+      "externalIds": {
+        "imdb": "tt0185582"
+      }
+    },
+    {
+      "id": "golden-horse-1968-best-director-item-6",
+      "mediaType": "movie",
+      "title": "寂寞的十七歲",
+      "awardYear": 1968,
+      "winner": "白景瑞",
+      "releaseDate": "1968"
+    },
+    {
+      "id": "golden-horse-1969-best-director-item-7",
+      "mediaType": "movie",
+      "title": "新娘與我",
+      "awardYear": 1969,
+      "winner": "白景瑞",
+      "releaseDate": "1969"
+    },
+    {
+      "id": "golden-horse-1970-best-director-item-8",
+      "mediaType": "movie",
+      "title": "路客與刀客",
+      "awardYear": 1970,
+      "winner": "張曾澤",
+      "releaseDate": "1970"
+    },
+    {
+      "id": "golden-horse-1971-best-director-item-9",
+      "mediaType": "movie",
+      "title": "落鷹峽",
+      "awardYear": 1971,
+      "winner": "丁善璽",
+      "releaseDate": "1971"
+    },
+    {
+      "id": "golden-horse-1972-best-director-item-10",
+      "mediaType": "movie",
+      "title": "秋決",
+      "awardYear": 1972,
+      "winner": "李行",
+      "releaseDate": "1972"
+    },
+    {
+      "id": "golden-horse-1973-best-director-item-11",
+      "mediaType": "movie",
+      "title": "十四女英豪",
+      "awardYear": 1973,
+      "winner": "程剛",
+      "releaseDate": "1973"
+    },
+    {
+      "id": "golden-horse-1975-best-director-item-12",
+      "mediaType": "movie",
+      "title": "長情萬縷",
+      "awardYear": 1975,
+      "winner": "劉藝",
+      "releaseDate": "1975"
+    },
+    {
+      "id": "golden-horse-1976-best-director-item-13",
+      "mediaType": "movie",
+      "title": "狼牙口",
+      "awardYear": 1976,
+      "winner": "張佩成",
+      "releaseDate": "1976"
+    },
+    {
+      "id": "golden-horse-1977-best-director-tt0184567",
+      "mediaType": "movie",
+      "title": "筧橋英烈傳",
+      "awardYear": 1977,
+      "winner": "張曾澤",
+      "releaseDate": "1977",
+      "externalIds": {
+        "imdb": "tt0184567"
+      }
+    },
+    {
+      "id": "golden-horse-1978-best-director-tt0079277",
+      "mediaType": "movie",
+      "title": "汪洋中的一條船",
+      "awardYear": 1978,
+      "winner": "李行",
+      "releaseDate": "1978",
+      "externalIds": {
+        "imdb": "tt0079277"
+      }
+    },
+    {
+      "id": "golden-horse-1979-best-director-item-16",
+      "mediaType": "movie",
+      "title": "山中傳奇",
+      "awardYear": 1979,
+      "winner": "胡金銓",
+      "releaseDate": "1979"
+    },
+    {
+      "id": "golden-horse-1980-best-director-tt1220568",
+      "mediaType": "movie",
+      "title": "六朝怪談",
+      "awardYear": 1980,
+      "winner": "王菊金",
+      "releaseDate": "1980",
+      "externalIds": {
+        "imdb": "tt1220568"
+      }
+    },
+    {
+      "id": "golden-horse-1981-best-director-item-18",
+      "mediaType": "movie",
+      "title": "鬼馬智多星",
+      "awardYear": 1981,
+      "winner": "徐克",
+      "releaseDate": "1981"
+    },
+    {
+      "id": "golden-horse-1982-best-director-tt0185188",
+      "mediaType": "movie",
+      "title": "邊緣人",
+      "awardYear": 1982,
+      "winner": "章國明",
+      "releaseDate": "1982",
+      "externalIds": {
+        "imdb": "tt0185188"
+      }
+    },
+    {
+      "id": "golden-horse-1983-best-director-item-20",
+      "mediaType": "movie",
+      "title": "小畢的故事",
+      "awardYear": 1983,
+      "winner": "陳坤厚",
+      "releaseDate": "1983"
+    },
+    {
+      "id": "golden-horse-1984-best-director-item-21",
+      "mediaType": "movie",
+      "title": "省港旗兵",
+      "awardYear": 1984,
+      "winner": "麥當雄",
+      "releaseDate": "1984"
+    },
+    {
+      "id": "golden-horse-1985-best-director-item-22",
+      "mediaType": "movie",
+      "title": "我這樣過了一生",
+      "awardYear": 1985,
+      "winner": "張毅",
+      "releaseDate": "1985"
+    },
+    {
+      "id": "golden-horse-1986-best-director-item-23",
+      "mediaType": "movie",
+      "title": "英雄本色",
+      "awardYear": 1986,
+      "winner": "吳宇森",
+      "releaseDate": "1986"
+    },
+    {
+      "id": "golden-horse-1987-best-director-tt0092829",
+      "mediaType": "movie",
+      "title": "稻草人",
+      "awardYear": 1987,
+      "winner": "王童",
+      "releaseDate": "1987",
+      "externalIds": {
+        "imdb": "tt0092829"
+      }
+    },
+    {
+      "id": "golden-horse-1988-best-director-tt0095937",
+      "mediaType": "movie",
+      "title": "七小福",
+      "awardYear": 1988,
+      "winner": "羅啟銳",
+      "releaseDate": "1988",
+      "externalIds": {
+        "imdb": "tt0095937"
+      }
+    },
+    {
+      "id": "golden-horse-1989-best-director-item-26",
+      "mediaType": "movie",
+      "title": "悲情城市",
+      "awardYear": 1989,
+      "winner": "侯孝賢",
+      "releaseDate": "1989"
+    },
+    {
+      "id": "golden-horse-1990-best-director-tt0099719",
+      "mediaType": "movie",
+      "title": "滾滾紅塵",
+      "awardYear": 1990,
+      "winner": "嚴浩",
+      "releaseDate": "1990",
+      "externalIds": {
+        "imdb": "tt0099719"
+      }
+    },
+    {
+      "id": "golden-horse-1991-best-director-item-28",
+      "mediaType": "movie",
+      "title": "阿飛正傳",
+      "awardYear": 1991,
+      "winner": "王家衛",
+      "releaseDate": "1991"
+    },
+    {
+      "id": "golden-horse-1992-best-director-item-29",
+      "mediaType": "movie",
+      "title": "無言的山丘",
+      "awardYear": 1992,
+      "winner": "王童",
+      "releaseDate": "1992"
+    },
+    {
+      "id": "golden-horse-1993-best-director-item-30",
+      "mediaType": "movie",
+      "title": "囍宴",
+      "awardYear": 1993,
+      "winner": "李安",
+      "releaseDate": "1993"
+    },
+    {
+      "id": "golden-horse-1994-best-director-item-31",
+      "mediaType": "movie",
+      "title": "愛情萬歲",
+      "awardYear": 1994,
+      "winner": "蔡明亮",
+      "releaseDate": "1994"
+    },
+    {
+      "id": "golden-horse-1995-best-director-tt0113256",
+      "mediaType": "movie",
+      "title": "好男好女",
+      "awardYear": 1995,
+      "winner": "侯孝賢",
+      "releaseDate": "1995",
+      "externalIds": {
+        "imdb": "tt0113256"
+      }
+    },
+    {
+      "id": "golden-horse-1996-best-director-item-33",
+      "mediaType": "movie",
+      "title": "陽光燦爛的日子",
+      "awardYear": 1996,
+      "winner": "姜文",
+      "releaseDate": "1996"
+    },
+    {
+      "id": "golden-horse-1997-best-director-tt0123328",
+      "mediaType": "movie",
+      "title": "香港製造",
+      "awardYear": 1997,
+      "winner": "陳果",
+      "releaseDate": "1997",
+      "externalIds": {
+        "imdb": "tt0123328"
+      }
+    },
+    {
+      "id": "golden-horse-1998-best-director-tt0115005",
+      "mediaType": "movie",
+      "title": "天浴",
+      "awardYear": 1998,
+      "winner": "陳冲",
+      "releaseDate": "1998",
+      "externalIds": {
+        "imdb": "tt0115005"
+      }
+    },
+    {
+      "id": "golden-horse-1999-best-director-item-36",
+      "mediaType": "movie",
+      "title": "千言萬語",
+      "awardYear": 1999,
+      "winner": "許鞍華",
+      "releaseDate": "1999"
+    },
+    {
+      "id": "golden-horse-2000-best-director-tt0220644",
+      "mediaType": "movie",
+      "title": "鎗火",
+      "awardYear": 2000,
+      "winner": "杜琪峯",
+      "releaseDate": "2000",
+      "externalIds": {
+        "imdb": "tt0220644"
+      }
+    },
+    {
+      "id": "golden-horse-2001-best-director-item-38",
+      "mediaType": "movie",
+      "title": "藍宇",
+      "awardYear": 2001,
+      "winner": "關錦鵬",
+      "releaseDate": "2001"
+    },
+    {
+      "id": "golden-horse-2002-best-director-item-39",
+      "mediaType": "movie",
+      "title": "香港有個荷里活",
+      "awardYear": 2002,
+      "winner": "陳果",
+      "releaseDate": "2002"
+    },
+    {
+      "id": "golden-horse-2003-best-director-item-40",
+      "mediaType": "movie",
+      "title": "無間道",
+      "awardYear": 2003,
+      "winner": "劉偉強、麥兆輝",
+      "releaseDate": "2003"
+    },
+    {
+      "id": "golden-horse-2004-best-director-item-41",
+      "mediaType": "movie",
+      "title": "大事件",
+      "awardYear": 2004,
+      "winner": "杜琪峯",
+      "releaseDate": "2004"
+    },
+    {
+      "id": "golden-horse-2005-best-director-item-42",
+      "mediaType": "movie",
+      "title": "功夫",
+      "awardYear": 2005,
+      "winner": "周星馳",
+      "releaseDate": "2005"
+    },
+    {
+      "id": "golden-horse-2006-best-director-item-43",
+      "mediaType": "movie",
+      "title": "如果·愛",
+      "awardYear": 2006,
+      "winner": "陳可辛",
+      "releaseDate": "2006"
+    },
+    {
+      "id": "golden-horse-2007-best-director-item-44",
+      "mediaType": "movie",
+      "title": "色，戒",
+      "awardYear": 2007,
+      "winner": "李安",
+      "releaseDate": "2007"
+    },
+    {
+      "id": "golden-horse-2008-best-director-item-45",
+      "mediaType": "movie",
+      "title": "投名狀",
+      "awardYear": 2008,
+      "winner": "陳可辛",
+      "releaseDate": "2008"
+    },
+    {
+      "id": "golden-horse-2009-best-director-item-46",
+      "mediaType": "movie",
+      "title": "不能沒有你",
+      "awardYear": 2009,
+      "winner": "戴立忍",
+      "releaseDate": "2009"
+    },
+    {
+      "id": "golden-horse-2010-best-director-item-47",
+      "mediaType": "movie",
+      "title": "第四張畫",
+      "awardYear": 2010,
+      "winner": "鍾孟宏",
+      "releaseDate": "2010"
+    },
+    {
+      "id": "golden-horse-2011-best-director-item-48",
+      "mediaType": "movie",
+      "title": "桃姐",
+      "awardYear": 2011,
+      "winner": "許鞍華",
+      "releaseDate": "2011"
+    },
+    {
+      "id": "golden-horse-2012-best-director-item-49",
+      "mediaType": "movie",
+      "title": "奪命金",
+      "awardYear": 2012,
+      "winner": "杜琪峯",
+      "releaseDate": "2012"
+    },
+    {
+      "id": "golden-horse-2013-best-director-item-50",
+      "mediaType": "movie",
+      "title": "郊遊",
+      "awardYear": 2013,
+      "winner": "蔡明亮",
+      "releaseDate": "2013"
+    },
+    {
+      "id": "golden-horse-2014-best-director-item-51",
+      "mediaType": "movie",
+      "title": "黃金時代",
+      "awardYear": 2014,
+      "winner": "許鞍華",
+      "releaseDate": "2014"
+    },
+    {
+      "id": "golden-horse-2015-best-director-item-52",
+      "mediaType": "movie",
+      "title": "刺客聶隱娘",
+      "awardYear": 2015,
+      "winner": "侯孝賢",
+      "releaseDate": "2015"
+    },
+    {
+      "id": "golden-horse-2016-best-director-tt5918090",
+      "mediaType": "movie",
+      "title": "我不是潘金蓮",
+      "awardYear": 2016,
+      "winner": "馮小剛",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5918090"
+      }
+    },
+    {
+      "id": "golden-horse-2017-best-director-tt7205208",
+      "mediaType": "movie",
+      "title": "嘉年華",
+      "awardYear": 2017,
+      "winner": "文晏",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7205208"
+      }
+    },
+    {
+      "id": "golden-horse-2018-best-director-tt6864046",
+      "mediaType": "movie",
+      "title": "影",
+      "awardYear": 2018,
+      "winner": "張藝謀",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt6864046"
+      }
+    },
+    {
+      "id": "golden-horse-2019-best-director-tt10883506",
+      "mediaType": "movie",
+      "title": "陽光普照",
+      "awardYear": 2019,
+      "winner": "鍾孟宏",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10883506"
+      }
+    },
+    {
+      "id": "golden-horse-2020-best-director-tt13105824",
+      "mediaType": "movie",
+      "title": "消失的情人節",
+      "awardYear": 2020,
+      "winner": "陳玉勳",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt13105824"
+      }
+    },
+    {
+      "id": "golden-horse-2021-best-director-tt15575176",
+      "mediaType": "movie",
+      "title": "花果飄零",
+      "awardYear": 2021,
+      "winner": "羅卓瑤",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt15575176"
+      }
+    },
+    {
+      "id": "golden-horse-2022-best-director-tt22370990",
+      "mediaType": "movie",
+      "title": "哈勇家",
+      "awardYear": 2022,
+      "winner": "陳潔瑤",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt22370990"
+      }
+    },
+    {
+      "id": "golden-horse-2023-best-director-tt29452517",
+      "mediaType": "movie",
+      "title": "老狐狸",
+      "awardYear": 2023,
+      "winner": "蕭雅全",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt29452517"
+      }
+    },
+    {
+      "id": "golden-horse-2024-best-director-tt32186579",
+      "mediaType": "movie",
+      "title": "一部未完成的電影",
+      "awardYear": 2024,
+      "winner": "婁燁",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt32186579"
+      }
+    },
+    {
+      "id": "golden-horse-2025-best-director-tt35453155",
+      "mediaType": "movie",
+      "title": "眾生相",
+      "awardYear": 2025,
+      "winner": "李駿碩",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt35453155"
+      }
+    }
+  ]
+}

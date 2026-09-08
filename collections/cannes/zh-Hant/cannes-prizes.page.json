@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "title": "坎城獎項",
+  "description": "坎城影展各獎項完整獲獎名單。2020 年因疫情取消，無該年記錄。",
+  "tags": [
+    "award",
+    "prize"
+  ],
+  "icon": "ticket",
+  "sections": [
+    {
+      "title": "坎城 — 金棕櫚獎",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "carousel",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "cannes-palme-dor.list.json"
+        }
+      ]
+    },
+    {
+      "title": "坎城 — 評審團大獎",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "cannes-grand-prix.list.json"
+        }
+      ],
+      "layout": "grid"
+    },
+    {
+      "title": "坎城 — 評審團獎",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "cannes-jury-prize.list.json"
+        }
+      ],
+      "layout": "grid"
+    },
+    {
+      "title": "坎城 — 最佳導演",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "cannes-best-director.list.json"
+        }
+      ],
+      "layout": "grid"
+    },
+    {
+      "title": "坎城 — 最佳編劇",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "cannes-best-screenplay.list.json"
+        }
+      ],
+      "layout": "grid"
+    },
+    {
+      "title": "坎城 — 最佳女演員",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "cannes-best-actress.list.json"
+        }
+      ],
+      "layout": "grid"
+    },
+    {
+      "title": "坎城 — 最佳男演員",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "cannes-best-actor.list.json"
+        }
+      ],
+      "layout": "grid"
+    },
+    {
+      "title": "坎城 — 金攝影機獎",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "cannes-camera-dor.list.json"
+        }
+      ],
+      "layout": "grid"
+    },
+    {
+      "title": "坎城 — 一種關注獎",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "cannes-un-certain-regard-prizel.list.json"
+        }
+      ],
+      "layout": "grid"
+    }
+  ]
+}

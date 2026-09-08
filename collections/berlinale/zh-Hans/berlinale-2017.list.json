@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:30:00Z",
+  "title": "柏林电影节 2017 年获奖名单",
+  "description": "柏林国际电影节 2017 年主竞赛国际评审团主要奖项获奖影片。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "berlinale-2017-golden-bear-on-body-and-soul",
+      "mediaType": "movie",
+      "title": "肉与灵",
+      "englishTitle": "On Body and Soul",
+      "award": "金熊奖",
+      "awardYear": 2017,
+      "awardOrder": 1,
+      "winner": "Ildikó Enyedi",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5607714"
+      },
+      "backdropPath": "https://image.tmdb.org/t/p/w342/c2NBRjDVLolRBmzbxFg7UnbmWdu.jpg"
+    },
+    {
+      "id": "berlinale-2017-grand-jury-felicite",
+      "mediaType": "movie",
+      "title": "菲丽希缇",
+      "englishTitle": "Félicité",
+      "award": "评审团大奖",
+      "awardYear": 2017,
+      "awardOrder": 2,
+      "winner": "Alain Gomis",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6343058"
+      }
+    },
+    {
+      "id": "berlinale-2017-alfred-bauer-spoor",
+      "mediaType": "movie",
+      "title": "糜骨之壤",
+      "englishTitle": "Spoor",
+      "award": "阿尔弗雷德·鲍尔奖",
+      "awardYear": 2017,
+      "awardOrder": 3,
+      "winner": "Agnieszka Holland",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5328350"
+      }
+    },
+    {
+      "id": "berlinale-2017-best-director-the-other-side-of-hope",
+      "mediaType": "movie",
+      "title": "希望的另一面",
+      "englishTitle": "The Other Side of Hope",
+      "award": "最佳导演银熊奖",
+      "awardYear": 2017,
+      "awardOrder": 4,
+      "winner": "Aki Kaurismäki",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5222918"
+      },
+      "backdropPath": "https://image.tmdb.org/t/p/w342/hR0HdKBsPFnWqpWtjzy7Xj14FD.jpg"
+    },
+    {
+      "id": "berlinale-2017-best-actress-on-the-beach-at-night-alone",
+      "mediaType": "movie",
+      "title": "独自在夜晚的海边",
+      "englishTitle": "On the Beach at Night Alone",
+      "award": "最佳女演员银熊奖",
+      "awardYear": 2017,
+      "awardOrder": 5,
+      "winner": "Kim Min-hee",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6462506"
+      }
+    },
+    {
+      "id": "berlinale-2017-best-actor-bright-nights",
+      "mediaType": "movie",
+      "title": "明亮的夜",
+      "englishTitle": "Bright Nights",
+      "award": "最佳男演员银熊奖",
+      "awardYear": 2017,
+      "awardOrder": 6,
+      "winner": "Georg Friedrich",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5226512"
+      }
+    },
+    {
+      "id": "berlinale-2017-best-screenplay-a-fantastic-woman",
+      "mediaType": "movie",
+      "title": "普通女人",
+      "englishTitle": "A Fantastic Woman",
+      "award": "最佳编剧银熊奖",
+      "awardYear": 2017,
+      "awardOrder": 7,
+      "winner": "Sebastián Lelio & Gonzalo Maza",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5639354"
+      },
+      "backdropPath": "https://image.tmdb.org/t/p/w342/A3RYhmb5TUlZlaIOzpkcP1VwRGl.jpg"
+    },
+    {
+      "id": "berlinale-2017-artistic-contribution-ana-mon-amour",
+      "mediaType": "movie",
+      "title": "安娜，我的爱",
+      "englishTitle": "Ana, mon amour",
+      "award": "杰出艺术贡献银熊奖",
+      "awardYear": 2017,
+      "awardOrder": 8,
+      "winner": "Dana Bunescu",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5964626"
+      }
+    }
+  ]
+}

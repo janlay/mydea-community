@@ -1,0 +1,548 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-12T02:57:20Z",
+  "title": "香港電影金像奨 — 最優秀作品賞",
+  "description": "香港電影金像奨の歴代最優秀作品賞受賞記録。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "hkfa-best-film-1982-hkfa-film",
+      "mediaType": "movie",
+      "title": "Father and Son",
+      "releaseDate": "1981",
+      "externalIds": {
+        "imdb": "tt0082428"
+      },
+      "awardYear": 1982,
+      "winner": "『父子情』",
+      "originalTitle": "父子情"
+    },
+    {
+      "id": "hkfa-best-film-1983-hkfa-film",
+      "mediaType": "movie",
+      "title": "Boat People",
+      "releaseDate": "1982",
+      "externalIds": {
+        "imdb": "tt0084807"
+      },
+      "awardYear": 1983,
+      "winner": "『投奔怒海』",
+      "originalTitle": "投奔怒海"
+    },
+    {
+      "id": "hkfa-best-film-1984-hkfa-film",
+      "mediaType": "movie",
+      "title": "Ah Ying",
+      "releaseDate": "1983",
+      "externalIds": {
+        "imdb": "tt0085144"
+      },
+      "awardYear": 1984,
+      "winner": "『半邊人』",
+      "originalTitle": "半邊人"
+    },
+    {
+      "id": "hkfa-best-film-1985-hkfa-film",
+      "mediaType": "movie",
+      "title": "Homecoming",
+      "releaseDate": "1984",
+      "externalIds": {
+        "imdb": "tt0088126"
+      },
+      "awardYear": 1985,
+      "winner": "『似水流年』",
+      "originalTitle": "似水流年"
+    },
+    {
+      "id": "hkfa-best-film-1986-hkfa-film",
+      "mediaType": "movie",
+      "title": "ポリス・ストーリー 香港国際警察",
+      "releaseDate": "1985",
+      "externalIds": {
+        "imdb": "tt0089374"
+      },
+      "awardYear": 1986,
+      "winner": "『ポリス・ストーリー 香港国際警察』",
+      "originalTitle": "警察故事"
+    },
+    {
+      "id": "hkfa-best-film-1987-hkfa-film",
+      "mediaType": "movie",
+      "title": "男たちの挽歌",
+      "releaseDate": "1986",
+      "externalIds": {
+        "imdb": "tt0092263"
+      },
+      "awardYear": 1987,
+      "winner": "『男たちの挽歌』",
+      "originalTitle": "英雄本色"
+    },
+    {
+      "id": "hkfa-best-film-1988-hkfa-film",
+      "mediaType": "movie",
+      "title": "誰かがあなたを愛してる",
+      "releaseDate": "1987",
+      "externalIds": {
+        "imdb": "tt0093426"
+      },
+      "awardYear": 1988,
+      "winner": "『誰かがあなたを愛してる』",
+      "originalTitle": "秋天的童話"
+    },
+    {
+      "id": "hkfa-best-film-1989-hkfa-film",
+      "mediaType": "movie",
+      "title": "ルージュ",
+      "releaseDate": "1988",
+      "externalIds": {
+        "imdb": "tt0093258"
+      },
+      "awardYear": 1989,
+      "winner": "『ルージュ』",
+      "originalTitle": "胭脂扣"
+    },
+    {
+      "id": "hkfa-best-film-1990-hkfa-film",
+      "mediaType": "movie",
+      "title": "Beyond the Sunset",
+      "releaseDate": "1989",
+      "externalIds": {
+        "imdb": "tt0097344"
+      },
+      "awardYear": 1990,
+      "winner": "『飛越黃昏』",
+      "originalTitle": "飛越黃昏"
+    },
+    {
+      "id": "hkfa-best-film-1991-hkfa-film",
+      "mediaType": "movie",
+      "title": "欲望の翼",
+      "releaseDate": "1990",
+      "externalIds": {
+        "imdb": "tt0101258"
+      },
+      "awardYear": 1991,
+      "winner": "『欲望の翼』",
+      "originalTitle": "阿飛正傳"
+    },
+    {
+      "id": "hkfa-best-film-1992-hkfa-film",
+      "mediaType": "movie",
+      "title": "To Be Number One",
+      "releaseDate": "1991",
+      "externalIds": {
+        "imdb": "tt0100973"
+      },
+      "awardYear": 1992,
+      "winner": "『跛豪』",
+      "originalTitle": "跛豪"
+    },
+    {
+      "id": "hkfa-best-film-1993-hkfa-film",
+      "mediaType": "movie",
+      "title": "Cageman",
+      "releaseDate": "1992",
+      "externalIds": {
+        "imdb": "tt0108656"
+      },
+      "awardYear": 1993,
+      "winner": "『籠民』",
+      "originalTitle": "籠民"
+    },
+    {
+      "id": "hkfa-best-film-1994-hkfa-film",
+      "mediaType": "movie",
+      "title": "C'est la vie, mon chéri",
+      "releaseDate": "1993",
+      "externalIds": {
+        "imdb": "tt0111770"
+      },
+      "awardYear": 1994,
+      "winner": "『新不了情』",
+      "originalTitle": "新不了情"
+    },
+    {
+      "id": "hkfa-best-film-1995-hkfa-film",
+      "mediaType": "movie",
+      "title": "恋する惑星",
+      "releaseDate": "1994",
+      "externalIds": {
+        "imdb": "tt0109424"
+      },
+      "awardYear": 1995,
+      "winner": "『恋する惑星』",
+      "originalTitle": "重慶森林"
+    },
+    {
+      "id": "hkfa-best-film-1996-hkfa-film",
+      "mediaType": "movie",
+      "title": "Summer Snow",
+      "releaseDate": "1995",
+      "externalIds": {
+        "imdb": "tt0111739"
+      },
+      "awardYear": 1996,
+      "winner": "『女人、四十。』",
+      "originalTitle": "女人四十"
+    },
+    {
+      "id": "hkfa-best-film-1997-hkfa-film",
+      "mediaType": "movie",
+      "title": "ラヴソング",
+      "releaseDate": "1996",
+      "externalIds": {
+        "imdb": "tt0117905"
+      },
+      "awardYear": 1997,
+      "winner": "『ラヴソング』",
+      "originalTitle": "甜蜜蜜"
+    },
+    {
+      "id": "hkfa-best-film-1998-hkfa-film",
+      "mediaType": "movie",
+      "title": "メイド・イン・ホンコン",
+      "releaseDate": "1997",
+      "externalIds": {
+        "imdb": "tt0118845"
+      },
+      "awardYear": 1998,
+      "winner": "『メイド・イン・ホンコン』",
+      "originalTitle": "香港製造"
+    },
+    {
+      "id": "hkfa-best-film-1999-hkfa-film",
+      "mediaType": "movie",
+      "title": "Beast Cops",
+      "releaseDate": "1998",
+      "externalIds": {
+        "imdb": "tt0157366"
+      },
+      "awardYear": 1999,
+      "winner": "『野獸刑警』",
+      "originalTitle": "野獸刑警"
+    },
+    {
+      "id": "hkfa-best-film-2000-hkfa-film",
+      "mediaType": "movie",
+      "title": "Ordinary Heroes",
+      "releaseDate": "1999",
+      "externalIds": {
+        "imdb": "tt0189954"
+      },
+      "awardYear": 2000,
+      "winner": "『千言萬語』",
+      "originalTitle": "千言萬語"
+    },
+    {
+      "id": "hkfa-best-film-2001-hkfa-film",
+      "mediaType": "movie",
+      "title": "グリーン・デスティニー",
+      "releaseDate": "2000",
+      "externalIds": {
+        "imdb": "tt0190332"
+      },
+      "awardYear": 2001,
+      "winner": "『グリーン・デスティニー』",
+      "originalTitle": "臥虎藏龍"
+    },
+    {
+      "id": "hkfa-best-film-2002-hkfa-film",
+      "mediaType": "movie",
+      "title": "少林サッカー",
+      "releaseDate": "2001",
+      "externalIds": {
+        "imdb": "tt0286112"
+      },
+      "awardYear": 2002,
+      "winner": "『少林サッカー』",
+      "originalTitle": "少林足球"
+    },
+    {
+      "id": "hkfa-best-film-2003-hkfa-film",
+      "mediaType": "movie",
+      "title": "インファナル・アフェア",
+      "releaseDate": "2002",
+      "externalIds": {
+        "imdb": "tt0338564"
+      },
+      "awardYear": 2003,
+      "winner": "『インファナル・アフェア』",
+      "originalTitle": "無間道"
+    },
+    {
+      "id": "hkfa-best-film-2004-hkfa-film",
+      "mediaType": "movie",
+      "title": "マッスルモンク",
+      "releaseDate": "2003",
+      "externalIds": {
+        "imdb": "tt0374184"
+      },
+      "awardYear": 2004,
+      "winner": "『マッスルモンク』",
+      "originalTitle": "大隻佬"
+    },
+    {
+      "id": "hkfa-best-film-2005-hkfa-film",
+      "mediaType": "movie",
+      "title": "カンフーハッスル",
+      "releaseDate": "2004",
+      "externalIds": {
+        "imdb": "tt0373074"
+      },
+      "awardYear": 2005,
+      "winner": "『カンフーハッスル』",
+      "originalTitle": "功夫"
+    },
+    {
+      "id": "hkfa-best-film-2006-hkfa-film",
+      "mediaType": "movie",
+      "title": "エレクション",
+      "releaseDate": "2005",
+      "externalIds": {
+        "imdb": "tt0434008"
+      },
+      "awardYear": 2006,
+      "winner": "『エレクション』",
+      "originalTitle": "黑社會"
+    },
+    {
+      "id": "hkfa-best-film-2007-hkfa-film",
+      "mediaType": "movie",
+      "title": "After This Our Exile",
+      "releaseDate": "2006",
+      "externalIds": {
+        "imdb": "tt0768114"
+      },
+      "awardYear": 2007,
+      "winner": "『父子』",
+      "originalTitle": "父子"
+    },
+    {
+      "id": "hkfa-best-film-2008-hkfa-film",
+      "mediaType": "movie",
+      "title": "ウォーロード／男たちの誓い",
+      "releaseDate": "2007",
+      "externalIds": {
+        "imdb": "tt0913968"
+      },
+      "awardYear": 2008,
+      "winner": "『ウォーロード／男たちの誓い』",
+      "originalTitle": "投名狀"
+    },
+    {
+      "id": "hkfa-best-film-2009-hkfa-film",
+      "mediaType": "movie",
+      "title": "イップ・マン 序章",
+      "releaseDate": "2008",
+      "externalIds": {
+        "imdb": "tt1220719"
+      },
+      "awardYear": 2009,
+      "winner": "『イップ・マン 序章』",
+      "originalTitle": "葉問"
+    },
+    {
+      "id": "hkfa-best-film-2010-hkfa-film",
+      "mediaType": "movie",
+      "title": "孫文の義士団",
+      "releaseDate": "2009",
+      "externalIds": {
+        "imdb": "tt1403130"
+      },
+      "awardYear": 2010,
+      "winner": "『孫文の義士団』",
+      "originalTitle": "十月圍城"
+    },
+    {
+      "id": "hkfa-best-film-2011-hkfa-film",
+      "mediaType": "movie",
+      "title": "燃えよ！じじぃドラゴン 龍虎激闘",
+      "releaseDate": "2010",
+      "externalIds": {
+        "imdb": "tt1611823"
+      },
+      "awardYear": 2011,
+      "winner": "『燃えよ！じじぃドラゴン 龍虎激闘』",
+      "originalTitle": "打擂台"
+    },
+    {
+      "id": "hkfa-best-film-2012-hkfa-film",
+      "mediaType": "movie",
+      "title": "桃（タオ）さんのしあわせ",
+      "releaseDate": "2011",
+      "externalIds": {
+        "imdb": "tt2008006"
+      },
+      "awardYear": 2012,
+      "winner": "『桃（タオ）さんのしあわせ』",
+      "originalTitle": "桃姐"
+    },
+    {
+      "id": "hkfa-best-film-2013-hkfa-film",
+      "mediaType": "movie",
+      "title": "コールド・ウォー 香港警察 二つの正義",
+      "releaseDate": "2012",
+      "externalIds": {
+        "imdb": "tt2186715"
+      },
+      "awardYear": 2013,
+      "winner": "『コールド・ウォー 香港警察 二つの正義』",
+      "originalTitle": "寒戰"
+    },
+    {
+      "id": "hkfa-best-film-2014-hkfa-film",
+      "mediaType": "movie",
+      "title": "グランド・マスター",
+      "releaseDate": "2013",
+      "externalIds": {
+        "imdb": "tt1462900"
+      },
+      "awardYear": 2014,
+      "winner": "『グランド・マスター』",
+      "originalTitle": "一代宗師"
+    },
+    {
+      "id": "hkfa-best-film-2015-hkfa-film",
+      "mediaType": "movie",
+      "title": "The Golden Era",
+      "releaseDate": "2014",
+      "externalIds": {
+        "imdb": "tt2771800"
+      },
+      "awardYear": 2015,
+      "winner": "『黄金時代』",
+      "originalTitle": "黃金時代"
+    },
+    {
+      "id": "hkfa-best-film-2016-hkfa-film",
+      "mediaType": "movie",
+      "title": "Ten Years",
+      "releaseDate": "2015",
+      "externalIds": {
+        "imdb": "tt5269560"
+      },
+      "awardYear": 2016,
+      "winner": "『十年 Ten Years』",
+      "originalTitle": "十年"
+    },
+    {
+      "id": "hkfa-2017-best-film-4379800",
+      "mediaType": "movie",
+      "title": "大樹は風を招く",
+      "awardYear": 2017,
+      "winner": "『大樹は風を招く』",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4379800"
+      },
+      "originalTitle": "樹大招風"
+    },
+    {
+      "id": "hkfa-2018-best-film-7075594",
+      "mediaType": "movie",
+      "title": "Our Time Will Come",
+      "awardYear": 2018,
+      "winner": "『明月幾時有 Our Time Will Come』",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7075594"
+      },
+      "originalTitle": "明月幾時有"
+    },
+    {
+      "id": "hkfa-2019-best-film-7183578",
+      "mediaType": "movie",
+      "title": "プロジェクト・グーテンベルク 贋札王",
+      "awardYear": 2019,
+      "winner": "『プロジェクト・グーテンベルク 贋札王』",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7183578"
+      },
+      "originalTitle": "無雙"
+    },
+    {
+      "id": "hkfa-2020-best-film-9586294",
+      "mediaType": "movie",
+      "title": "少年の君",
+      "awardYear": 2020,
+      "winner": "『少年の君』",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt9586294"
+      },
+      "originalTitle": "少年的你"
+    },
+    {
+      "id": "hkfa-2022-best-film-8165192",
+      "mediaType": "movie",
+      "title": "レイジング・ファイア",
+      "awardYear": 2022,
+      "winner": "『レイジング・ファイア』",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt8165192"
+      },
+      "originalTitle": "怒火"
+    },
+    {
+      "id": "hkfa-2023-best-film-21867610",
+      "mediaType": "movie",
+      "title": "To My Nineteen-Year-Old Self",
+      "awardYear": 2023,
+      "winner": "『給十九歲的我』",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt21867610"
+      },
+      "originalTitle": "給十九歲的我"
+    },
+    {
+      "id": "hkfa-2024-best-film-25377462",
+      "mediaType": "movie",
+      "title": "毒舌弁護人〜正義への戦い〜",
+      "awardYear": 2024,
+      "winner": "『毒舌弁護人〜正義への戦い〜』",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt25377462"
+      },
+      "originalTitle": "毒舌大狀"
+    },
+    {
+      "id": "hkfa-2025-best-film-20316748",
+      "mediaType": "movie",
+      "title": "トワイライト・ウォリアーズ 決戦！九龍城砦",
+      "awardYear": 2025,
+      "winner": "『トワイライト・ウォリアーズ 決戦！九龍城砦』",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt20316748"
+      },
+      "originalTitle": "九龍城寨之圍城"
+    },
+    {
+      "id": "hkfa-2026-best-film-14241008",
+      "mediaType": "movie",
+      "title": "Goodbye, UFO",
+      "awardYear": 2026,
+      "winner": "『再見UFO』",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt14241008"
+      },
+      "originalTitle": "再見UFO"
+    }
+  ]
+}

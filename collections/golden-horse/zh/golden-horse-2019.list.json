@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:00:00Z",
+  "title": "金馬獎 2019 年核心獎項得獎名單",
+  "description": "第56屆金馬獎核心常設獎項得獎作品，收錄最佳劇情片、導演、男女主角、男女配角、新導演與新演員。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "golden-horse-2019-best-feature-tt10883506",
+      "mediaType": "movie",
+      "title": "陽光普照",
+      "award": "最佳劇情片",
+      "awardYear": 2019,
+      "winner": "鍾孟宏",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10883506"
+      },
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-horse-2019-best-director-tt10883506",
+      "mediaType": "movie",
+      "title": "陽光普照",
+      "award": "最佳導演",
+      "awardYear": 2019,
+      "winner": "鍾孟宏",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10883506"
+      },
+      "awardOrder": 2
+    },
+    {
+      "id": "golden-horse-2019-best-actor-tt10883506",
+      "mediaType": "movie",
+      "title": "陽光普照",
+      "award": "最佳男主角",
+      "awardYear": 2019,
+      "winner": "陳以文",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10883506"
+      },
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-horse-2019-best-actress-tt9822706",
+      "mediaType": "movie",
+      "title": "熱帶雨",
+      "award": "最佳女主角",
+      "awardYear": 2019,
+      "winner": "楊雁雁",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt9822706"
+      },
+      "awardOrder": 4
+    },
+    {
+      "id": "golden-horse-2019-best-supporting-actor-tt10883506",
+      "mediaType": "movie",
+      "title": "陽光普照",
+      "award": "最佳男配角",
+      "awardYear": 2019,
+      "winner": "劉冠廷",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10883506"
+      },
+      "awardOrder": 5
+    },
+    {
+      "id": "golden-horse-2019-best-supporting-actress-tt11070412",
+      "mediaType": "movie",
+      "title": "我的靈魂是愛做的",
+      "award": "最佳女配角",
+      "awardYear": 2019,
+      "winner": "張詩盈",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt11070412"
+      },
+      "awardOrder": 6
+    },
+    {
+      "id": "golden-horse-2019-best-new-director-tt10805432",
+      "mediaType": "movie",
+      "title": "返校",
+      "award": "最佳新導演",
+      "awardYear": 2019,
+      "winner": "徐漢強",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10805432"
+      },
+      "awardOrder": 7
+    },
+    {
+      "id": "golden-horse-2019-best-new-performer-tt10869364",
+      "mediaType": "movie",
+      "title": "下半場",
+      "award": "最佳新演員",
+      "awardYear": 2019,
+      "winner": "范少勳",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10869364"
+      },
+      "awardOrder": 8
+    }
+  ]
+}

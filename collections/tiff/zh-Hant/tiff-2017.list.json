@@ -1,0 +1,181 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T03:47:39Z",
+  "title": "多倫多 — 2017",
+  "description": "2017 年多倫多國際影展影片類獎項獲獎紀錄。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "tiff-2017-peoples-choice-2017-three-billboards-outside-ebbing-missouri",
+      "mediaType": "movie",
+      "title": "意外",
+      "englishTitle": "Three Billboards Outside Ebbing, Missouri",
+      "releaseDate": "2017",
+      "externalIds": {
+        "letterboxd": "three-billboards-outside-ebbing-missouri"
+      },
+      "awardYear": 2017,
+      "winner": "Martin McDonagh",
+      "award": "觀眾選擇獎",
+      "awardOrder": 1
+    },
+    {
+      "id": "tiff-2017-documentary-peoples-choice-2017-faces-places",
+      "mediaType": "movie",
+      "title": "Faces Places",
+      "releaseDate": "2017",
+      "externalIds": {
+        "letterboxd": "faces-places"
+      },
+      "awardYear": 2017,
+      "winner": "Agnès Varda & JR",
+      "award": "紀錄片觀眾選擇獎",
+      "awardOrder": 2
+    },
+    {
+      "id": "tiff-2017-midnight-madness-peoples-choice-2017-bodied",
+      "mediaType": "movie",
+      "title": "Bodied",
+      "releaseDate": "2017",
+      "externalIds": {
+        "letterboxd": "bodied"
+      },
+      "awardYear": 2017,
+      "winner": "Joseph Kahn",
+      "award": "午夜瘋狂觀眾選擇獎",
+      "awardOrder": 3
+    },
+    {
+      "id": "tiff-2017-platform-prize-2017-sweet-country",
+      "mediaType": "movie",
+      "title": "Sweet Country",
+      "releaseDate": "2017",
+      "externalIds": {
+        "letterboxd": "sweet-country"
+      },
+      "awardYear": 2017,
+      "winner": "Warwick Thornton",
+      "award": "Platform 獎",
+      "awardOrder": 4
+    },
+    {
+      "id": "tiff-2017-best-canadian-feature-2017-ravenous",
+      "mediaType": "movie",
+      "title": "Ravenous",
+      "releaseDate": "2017",
+      "externalIds": {
+        "letterboxd": "ravenous"
+      },
+      "awardYear": 2017,
+      "winner": "Robin Aubert",
+      "award": "最佳加拿大長片",
+      "awardOrder": 5
+    },
+    {
+      "id": "tiff-2017-best-canadian-discovery-2017-luk-luk-i",
+      "mediaType": "movie",
+      "title": "Luk'Luk'I",
+      "releaseDate": "2017",
+      "externalIds": {
+        "letterboxd": "luk-luk-i"
+      },
+      "awardYear": 2017,
+      "winner": "Wayne Wapeemukwa",
+      "award": "最佳加拿大新發現",
+      "awardOrder": 6
+    },
+    {
+      "id": "tiff-2017-best-canadian-short-film-2017-pre-drink",
+      "mediaType": "movie",
+      "title": "Pre-Drink",
+      "releaseDate": "2017",
+      "externalIds": {
+        "letterboxd": "pre-drink"
+      },
+      "awardYear": 2017,
+      "winner": "Marc-Antoine Lemire",
+      "award": "最佳加拿大短片",
+      "awardOrder": 7
+    },
+    {
+      "id": "tiff-2017-best-canadian-first-feature-2017-luk-luk-i",
+      "mediaType": "movie",
+      "title": "Luk'Luk'I",
+      "releaseDate": "2017",
+      "externalIds": {
+        "letterboxd": "luk-luk-i"
+      },
+      "awardYear": 2017,
+      "winner": "Wayne Wapeemukwa",
+      "award": "最佳加拿大處女作",
+      "awardOrder": 8
+    },
+    {
+      "id": "tiff-2017-fipresci-prize-discovery-2017-ava",
+      "mediaType": "movie",
+      "title": "Ava",
+      "releaseDate": "2017",
+      "externalIds": {
+        "letterboxd": "ava"
+      },
+      "awardYear": 2017,
+      "winner": "Sadaf Foroughi",
+      "award": "費比西獎 — Discovery",
+      "awardOrder": 9
+    },
+    {
+      "id": "tiff-2017-fipresci-prize-special-presentations-2017-the-motive",
+      "mediaType": "movie",
+      "title": "The Motive",
+      "releaseDate": "2017",
+      "externalIds": {
+        "letterboxd": "the-motive"
+      },
+      "awardYear": 2017,
+      "winner": "Manuel Martín Cuenca",
+      "award": "費比西獎 — Special Presentations",
+      "awardOrder": 10
+    },
+    {
+      "id": "tiff-2017-best-international-short-film-2017-the-burden",
+      "mediaType": "movie",
+      "title": "The Burden",
+      "releaseDate": "2017",
+      "externalIds": {
+        "letterboxd": "the-burden"
+      },
+      "awardYear": 2017,
+      "winner": "Niki Lindroth von Bahr",
+      "award": "最佳國際短片",
+      "awardOrder": 11
+    },
+    {
+      "id": "tiff-2017-netpac-award-2017-the-great-buddha",
+      "mediaType": "movie",
+      "title": "The Great Buddha+",
+      "releaseDate": "2017",
+      "externalIds": {
+        "letterboxd": "the-great-buddha"
+      },
+      "awardYear": 2017,
+      "winner": "Huang Hsin-yao",
+      "award": "NETPAC 獎",
+      "awardOrder": 12
+    }
+  ]
+}

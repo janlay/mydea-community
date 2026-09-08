@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "Mydea",
+  "title": "Hong Kong Film Awards — Best Actor",
+  "description": "Complete historical winners of the Hong Kong Film Award for Actor.",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "hkfa-best-actor.list.json"
+    }
+  ]
+}

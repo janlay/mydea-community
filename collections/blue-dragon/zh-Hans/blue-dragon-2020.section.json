@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "ChatGPT",
+  "title": "青龙电影奖 — 2020",
+  "description": "2020年韩国青龙电影奖10个主要电影奖项获奖作品。",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "blue-dragon-2020.list.json"
+    }
+  ]
+}

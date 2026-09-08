@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T03:47:39Z",
+  "title": "Toronto — Platform Prize",
+  "description": "Historical winners of the TIFF Platform Prize.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "tiff-platform-prize-2015-hurt",
+      "mediaType": "movie",
+      "title": "Hurt",
+      "releaseDate": "2015",
+      "externalIds": {
+        "letterboxd": "hurt"
+      },
+      "awardYear": 2015,
+      "winner": "Alan Zweig"
+    },
+    {
+      "id": "tiff-platform-prize-2016-jackie",
+      "mediaType": "movie",
+      "title": "Jackie",
+      "releaseDate": "2016",
+      "externalIds": {
+        "letterboxd": "jackie"
+      },
+      "awardYear": 2016,
+      "winner": "Pablo Larraín"
+    },
+    {
+      "id": "tiff-platform-prize-2017-sweet-country",
+      "mediaType": "movie",
+      "title": "Sweet Country",
+      "releaseDate": "2017",
+      "externalIds": {
+        "letterboxd": "sweet-country"
+      },
+      "awardYear": 2017,
+      "winner": "Warwick Thornton"
+    },
+    {
+      "id": "tiff-platform-prize-2018-cities-of-last-things",
+      "mediaType": "movie",
+      "title": "Cities of Last Things",
+      "releaseDate": "2018",
+      "externalIds": {
+        "letterboxd": "cities-of-last-things"
+      },
+      "awardYear": 2018,
+      "winner": "Ho Wi-ding"
+    },
+    {
+      "id": "tiff-platform-prize-2019-martin-eden",
+      "mediaType": "movie",
+      "title": "Martin Eden",
+      "releaseDate": "2019",
+      "externalIds": {
+        "letterboxd": "martin-eden"
+      },
+      "awardYear": 2019,
+      "winner": "Pietro Marcello"
+    },
+    {
+      "id": "tiff-platform-prize-2021-yuni",
+      "mediaType": "movie",
+      "title": "Yuni",
+      "releaseDate": "2021",
+      "externalIds": {
+        "letterboxd": "yuni"
+      },
+      "awardYear": 2021,
+      "winner": "Kamila Andini"
+    },
+    {
+      "id": "tiff-platform-prize-2022-riceboy-sleeps",
+      "mediaType": "movie",
+      "title": "Riceboy Sleeps",
+      "releaseDate": "2022",
+      "externalIds": {
+        "letterboxd": "riceboy-sleeps"
+      },
+      "awardYear": 2022,
+      "winner": "Anthony Shim"
+    },
+    {
+      "id": "tiff-platform-prize-2023-dear-jassi",
+      "mediaType": "movie",
+      "title": "Dear Jassi",
+      "releaseDate": "2023",
+      "externalIds": {
+        "letterboxd": "dear-jassi"
+      },
+      "awardYear": 2023,
+      "winner": "Tarsem Singh"
+    },
+    {
+      "id": "tiff-platform-prize-2024-they-will-be-dust",
+      "mediaType": "movie",
+      "title": "They Will Be Dust",
+      "releaseDate": "2024",
+      "externalIds": {
+        "letterboxd": "they-will-be-dust"
+      },
+      "awardYear": 2024,
+      "winner": "Carlos Marqués-Marcet"
+    },
+    {
+      "id": "tiff-platform-prize-2025-to-the-victory",
+      "mediaType": "movie",
+      "title": "To the Victory!",
+      "releaseDate": "2025",
+      "externalIds": {
+        "letterboxd": "to-the-victory"
+      },
+      "awardYear": 2025,
+      "winner": "Valentyn Vasyanovych"
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-12T02:54:20Z",
+  "title": "청룡영화상 — 2022",
+  "description": "2022년 청룡영화상 주요 10개 영화 부문 수상작.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "blue-dragon-2022-best-film-decision-leave",
+      "mediaType": "movie",
+      "title": "헤어질 결심",
+      "englishTitle": "Decision to Leave",
+      "award": "최우수작품상",
+      "awardYear": 2022,
+      "awardOrder": 1,
+      "winner": "Park Chan-wook",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt12477480"
+      }
+    },
+    {
+      "id": "blue-dragon-2022-best-director-decision-leave",
+      "mediaType": "movie",
+      "title": "헤어질 결심",
+      "englishTitle": "Decision to Leave",
+      "award": "감독상",
+      "awardYear": 2022,
+      "awardOrder": 2,
+      "winner": "Park Chan-wook",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt12477480"
+      }
+    },
+    {
+      "id": "blue-dragon-2022-best-actor-decision-leave",
+      "mediaType": "movie",
+      "title": "헤어질 결심",
+      "englishTitle": "Decision to Leave",
+      "award": "남우주연상",
+      "awardYear": 2022,
+      "awardOrder": 3,
+      "winner": "Park Hae-il",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt12477480"
+      }
+    },
+    {
+      "id": "blue-dragon-2022-best-actress-decision-leave",
+      "mediaType": "movie",
+      "title": "헤어질 결심",
+      "englishTitle": "Decision to Leave",
+      "award": "여우주연상",
+      "awardYear": 2022,
+      "awardOrder": 4,
+      "winner": "Tang Wei",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt12477480"
+      }
+    },
+    {
+      "id": "blue-dragon-2022-best-supporting-actor-hansan",
+      "mediaType": "movie",
+      "title": "한산: 용의 출현",
+      "englishTitle": "Hansan: Rising Dragon",
+      "award": "남우조연상",
+      "awardYear": 2022,
+      "awardOrder": 5,
+      "winner": "Byun Yo-han",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt21109538"
+      }
+    },
+    {
+      "id": "blue-dragon-2022-best-supporting-actress-perhaps-love",
+      "mediaType": "movie",
+      "title": "장르만 로맨스",
+      "englishTitle": "Perhaps Love",
+      "award": "여우조연상",
+      "awardYear": 2022,
+      "awardOrder": 6,
+      "winner": "Oh Na-ra",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt15587126"
+      }
+    },
+    {
+      "id": "blue-dragon-2022-best-new-director-hunt",
+      "mediaType": "movie",
+      "title": "헌트",
+      "englishTitle": "Hunt",
+      "award": "신인감독상",
+      "awardYear": 2022,
+      "awardOrder": 7,
+      "winner": "Lee Jung-jae",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt6931658"
+      }
+    },
+    {
+      "id": "blue-dragon-2022-best-new-actor-in-our-prime",
+      "mediaType": "movie",
+      "title": "이상한 나라의 수학자",
+      "englishTitle": "In Our Prime",
+      "award": "신인남우상",
+      "awardYear": 2022,
+      "awardOrder": 8,
+      "winner": "Kim Dong-hwi",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt12663772"
+      }
+    },
+    {
+      "id": "blue-dragon-2022-best-new-actress-bulldozer-girl",
+      "mediaType": "movie",
+      "title": "불도저에 탄 소녀",
+      "englishTitle": "The Girl on a Bulldozer",
+      "award": "신인여우상",
+      "awardYear": 2022,
+      "awardOrder": 9,
+      "winner": "Kim Hye-yoon",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt19632924"
+      }
+    },
+    {
+      "id": "blue-dragon-2022-best-screenplay-decision-leave",
+      "mediaType": "movie",
+      "title": "헤어질 결심",
+      "englishTitle": "Decision to Leave",
+      "award": "각본상",
+      "awardYear": 2022,
+      "awardOrder": 10,
+      "winner": "Park Chan-wook & Jeong Seo-kyeong",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt12477480"
+      }
+    }
+  ]
+}

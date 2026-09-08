@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "ChatGPT",
+  "title": "多伦多 — 最佳加拿大新发现",
+  "description": "多伦多国际电影节最佳加拿大新发现历届获奖影片。",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "tiff-best-canadian-discovery.list.json"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T05:03:35Z",
+  "title": "黃金時段艾美獎 2025 年獲獎名單",
+  "description": "第 77 屆黃金時段艾美獎主要獎項獲獎記錄。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "emmys-2025-drama-series-the-pitt",
+      "mediaType": "tv",
+      "title": "匹茲堡醫護前線",
+      "originalTitle": "The Pitt",
+      "award": "最佳劇情類影集",
+      "awardYear": 2025,
+      "awardOrder": 1,
+      "winner": "The Pitt",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31938062"
+      }
+    },
+    {
+      "id": "emmys-2025-comedy-series-the-studio",
+      "mediaType": "tv",
+      "title": "片廠風雲",
+      "originalTitle": "The Studio",
+      "award": "最佳喜劇類影集",
+      "awardYear": 2025,
+      "awardOrder": 2,
+      "winner": "The Studio",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt23649128"
+      }
+    },
+    {
+      "id": "emmys-2025-limited-series-adolescence",
+      "mediaType": "tv",
+      "title": "混沌少年時",
+      "originalTitle": "Adolescence",
+      "award": "最佳有限影集或詩選影集",
+      "awardYear": 2025,
+      "awardOrder": 3,
+      "winner": "Adolescence",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31806037"
+      }
+    },
+    {
+      "id": "emmys-2025-lead-actor-drama-the-pitt",
+      "mediaType": "tv",
+      "title": "匹茲堡醫護前線",
+      "originalTitle": "The Pitt",
+      "award": "劇情類最佳男主角",
+      "awardYear": 2025,
+      "awardOrder": 4,
+      "winner": "Noah Wyle",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31938062"
+      }
+    },
+    {
+      "id": "emmys-2025-lead-actress-drama-severance",
+      "mediaType": "tv",
+      "title": "人生切割術",
+      "originalTitle": "Severance",
+      "award": "劇情類最佳女主角",
+      "awardYear": 2025,
+      "awardOrder": 5,
+      "winner": "Britt Lower",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt11280740"
+      }
+    },
+    {
+      "id": "emmys-2025-lead-actor-comedy-the-studio",
+      "mediaType": "tv",
+      "title": "片廠風雲",
+      "originalTitle": "The Studio",
+      "award": "喜劇類最佳男主角",
+      "awardYear": 2025,
+      "awardOrder": 6,
+      "winner": "Seth Rogen",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt23649128"
+      }
+    },
+    {
+      "id": "emmys-2025-lead-actress-comedy-hacks",
+      "mediaType": "tv",
+      "title": "天后與草莓",
+      "originalTitle": "Hacks",
+      "award": "喜劇類最佳女主角",
+      "awardYear": 2025,
+      "awardOrder": 7,
+      "winner": "Jean Smart",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt11815682"
+      }
+    }
+  ]
+}

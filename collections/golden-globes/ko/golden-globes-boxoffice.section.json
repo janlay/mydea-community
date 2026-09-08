@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "ChatGPT",
+  "title": "골든 글로브 — 시네마틱 및 박스오피스 성취상",
+  "description": "2017–2026 골든 글로브 시네마틱 및 박스오피스 성취상 수상작.",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "golden-globes-boxoffice.list.json"
+    }
+  ]
+}

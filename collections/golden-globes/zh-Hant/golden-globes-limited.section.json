@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "ChatGPT",
+  "title": "金球獎 — 最佳有限影集、選集影集或電視電影",
+  "description": "2017–2026 年金球獎最佳有限影集、選集影集或電視電影获奖作品。",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "golden-globes-limited.list.json"
+    }
+  ]
+}

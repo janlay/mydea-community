@@ -1,0 +1,211 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T00:56:00Z",
+  "title": "中国电影金鸡奖 2024 年获奖名单",
+  "description": "第37届中国电影金鸡奖主要获奖影片与影人。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "golden-rooster-2024-best-feature-film-76709098",
+      "mediaType": "movie",
+      "title": "第二十条",
+      "releaseDate": "2024",
+      "awardYear": 2024,
+      "awardOrder": 1,
+      "award": "最佳故事片",
+      "winner": "张艺谋"
+    },
+    {
+      "id": "golden-rooster-2024-jury-special-prize-90188900",
+      "mediaType": "movie",
+      "title": "志愿军：雄兵出击",
+      "releaseDate": "2023",
+      "awardYear": 2024,
+      "awardOrder": 2,
+      "award": "评委会特别奖"
+    },
+    {
+      "id": "golden-rooster-2024-best-screenplay-38830882",
+      "mediaType": "movie",
+      "title": "我们一起摇太阳",
+      "releaseDate": "2024",
+      "awardYear": 2024,
+      "awardOrder": 3,
+      "award": "最佳编剧",
+      "winner": "韩延、李弗"
+    },
+    {
+      "id": "golden-rooster-2024-best-director-95326525",
+      "mediaType": "movie",
+      "title": "志愿军：雄兵出击",
+      "releaseDate": "2023",
+      "awardYear": 2024,
+      "awardOrder": 4,
+      "award": "最佳导演",
+      "winner": "陈凯歌"
+    },
+    {
+      "id": "golden-rooster-2024-best-directorial-debut-32760820",
+      "mediaType": "movie",
+      "title": "倒仓",
+      "awardYear": 2024,
+      "awardOrder": 5,
+      "award": "最佳导演处女作",
+      "winner": "张裕笛"
+    },
+    {
+      "id": "golden-rooster-2024-best-actor-93874582",
+      "mediaType": "movie",
+      "title": "第二十条",
+      "releaseDate": "2024",
+      "awardYear": 2024,
+      "awardOrder": 6,
+      "award": "最佳男主角",
+      "winner": "雷佳音"
+    },
+    {
+      "id": "golden-rooster-2024-best-actress-70695733",
+      "mediaType": "movie",
+      "title": "我们一起摇太阳",
+      "releaseDate": "2024",
+      "awardYear": 2024,
+      "awardOrder": 7,
+      "award": "最佳女主角",
+      "winner": "李庚希"
+    },
+    {
+      "id": "golden-rooster-2024-best-supporting-actor-65090969",
+      "mediaType": "movie",
+      "title": "三大队",
+      "releaseDate": "2023",
+      "awardYear": 2024,
+      "awardOrder": 8,
+      "award": "最佳男配角",
+      "winner": "王骁"
+    },
+    {
+      "id": "golden-rooster-2024-best-supporting-actress-69852821",
+      "mediaType": "movie",
+      "title": "乘船而去",
+      "releaseDate": "2023",
+      "awardYear": 2024,
+      "awardOrder": 9,
+      "award": "最佳女配角",
+      "winner": "刘丹"
+    },
+    {
+      "id": "golden-rooster-2024-best-low-budget-feature-92664851",
+      "mediaType": "movie",
+      "title": "又是充满希望的一天",
+      "awardYear": 2024,
+      "awardOrder": 10,
+      "award": "最佳中小成本故事片"
+    },
+    {
+      "id": "golden-rooster-2024-best-documentary-science-33389365",
+      "mediaType": "movie",
+      "title": "里斯本丸沉没",
+      "awardYear": 2024,
+      "awardOrder": 11,
+      "award": "最佳纪录科教片"
+    },
+    {
+      "id": "golden-rooster-2024-best-children-film-41508641",
+      "mediaType": "movie",
+      "title": "屋顶足球",
+      "awardYear": 2024,
+      "awardOrder": 12,
+      "award": "最佳儿童片"
+    },
+    {
+      "id": "golden-rooster-2024-best-opera-film-24024791",
+      "mediaType": "movie",
+      "title": "安国夫人",
+      "awardYear": 2024,
+      "awardOrder": 13,
+      "award": "最佳戏曲片"
+    },
+    {
+      "id": "golden-rooster-2024-best-animation-10666985",
+      "mediaType": "movie",
+      "title": "守龙者",
+      "awardYear": 2024,
+      "awardOrder": 14,
+      "award": "最佳美术片"
+    },
+    {
+      "id": "golden-rooster-2024-best-foreign-language-film-27165450",
+      "mediaType": "movie",
+      "title": "奥本海默",
+      "releaseDate": "2023",
+      "externalIds": {
+        "tmdb": "872585",
+        "imdb": "tt15398776"
+      },
+      "awardYear": 2024,
+      "awardOrder": 15,
+      "award": "最佳外语片"
+    },
+    {
+      "id": "golden-rooster-2024-best-cinematography-20258416",
+      "mediaType": "movie",
+      "title": "热烈",
+      "awardYear": 2024,
+      "awardOrder": 16,
+      "award": "最佳摄影",
+      "winner": "钟锐、钱添添"
+    },
+    {
+      "id": "golden-rooster-2024-best-music-47415139",
+      "mediaType": "movie",
+      "title": "三大队",
+      "releaseDate": "2023",
+      "awardYear": 2024,
+      "awardOrder": 17,
+      "award": "最佳音乐",
+      "winner": "彭飞"
+    },
+    {
+      "id": "golden-rooster-2024-best-art-direction-63484706",
+      "mediaType": "movie",
+      "title": "飞驰人生2",
+      "awardYear": 2024,
+      "awardOrder": 18,
+      "award": "最佳美术",
+      "winner": "赵学昊"
+    },
+    {
+      "id": "golden-rooster-2024-best-editing-08625289",
+      "mediaType": "movie",
+      "title": "孤注一掷",
+      "awardYear": 2024,
+      "awardOrder": 19,
+      "award": "最佳剪辑",
+      "winner": "周肖林、申奥"
+    },
+    {
+      "id": "golden-rooster-2024-best-sound-78120746",
+      "mediaType": "movie",
+      "title": "飞驰人生2",
+      "awardYear": 2024,
+      "awardOrder": 20,
+      "award": "最佳录音",
+      "winner": "王钢、刘晓莎"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "ChatGPT",
+  "title": "トロント — 最優秀カナダ長編映画賞",
+  "description": "トロント国際映画祭「最優秀カナダ長編映画賞」の歴代受賞作。",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "tiff-best-canadian-feature.list.json"
+    }
+  ]
+}

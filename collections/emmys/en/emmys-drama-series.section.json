@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "ChatGPT",
+  "title": "Primetime Emmy Awards — Outstanding Drama Series",
+  "description": "Winners of the Primetime Emmy Award for Outstanding Drama Series.",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "emmys-drama-series.list.json"
+    }
+  ]
+}

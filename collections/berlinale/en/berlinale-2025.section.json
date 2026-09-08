@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "Mydea",
+  "title": "Berlinale 2025 Awards",
+  "description": "Major Competition International Jury award winners at the 2025 Berlin International Film Festival.",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "berlinale-2025.list.json"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "title": "香港電影金像獎 2025 年得獎名單",
+  "description": "第43屆香港電影金像獎主要獎項得獎作品。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "hkfa-2025-best-film-20316748",
+      "mediaType": "movie",
+      "title": "九龍城寨之圍城",
+      "awardYear": 2025,
+      "winner": "《九龍城寨之圍城》",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt20316748"
+      },
+      "award": "最佳電影",
+      "awardOrder": 1
+    },
+    {
+      "id": "hkfa-2025-best-director-20316748",
+      "mediaType": "movie",
+      "title": "九龍城寨之圍城",
+      "awardYear": 2025,
+      "winner": "鄭保瑞",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt20316748"
+      },
+      "award": "最佳導演",
+      "awardOrder": 2
+    },
+    {
+      "id": "hkfa-2025-best-screenplay-31648020",
+      "mediaType": "movie",
+      "title": "破·地獄",
+      "awardYear": 2025,
+      "winner": "陳茂賢、鄭緯機",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt31648020"
+      },
+      "award": "最佳編劇",
+      "awardOrder": 3
+    },
+    {
+      "id": "hkfa-2025-best-actor-33499985",
+      "mediaType": "movie",
+      "title": "爸爸",
+      "awardYear": 2025,
+      "winner": "劉青雲",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt33499985"
+      },
+      "award": "最佳男主角",
+      "awardOrder": 4
+    },
+    {
+      "id": "hkfa-2025-best-actress-31648020",
+      "mediaType": "movie",
+      "title": "破·地獄",
+      "awardYear": 2025,
+      "winner": "衛詩雅",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt31648020"
+      },
+      "award": "最佳女主角",
+      "awardOrder": 5
+    },
+    {
+      "id": "hkfa-2025-best-supporting-actor-31648020",
+      "mediaType": "movie",
+      "title": "破·地獄",
+      "awardYear": 2025,
+      "winner": "朱栢康",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt31648020"
+      },
+      "award": "最佳男配角",
+      "awardOrder": 6
+    },
+    {
+      "id": "hkfa-2025-best-supporting-actress-33499985",
+      "mediaType": "movie",
+      "title": "爸爸",
+      "awardYear": 2025,
+      "winner": "谷祖琳",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt33499985"
+      },
+      "award": "最佳女配角",
+      "awardOrder": 7
+    },
+    {
+      "id": "hkfa-2025-best-new-performer-33499985",
+      "mediaType": "movie",
+      "title": "爸爸",
+      "awardYear": 2025,
+      "winner": "蘇文濤",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt33499985"
+      },
+      "award": "最佳新演員",
+      "awardOrder": 8
+    }
+  ]
+}

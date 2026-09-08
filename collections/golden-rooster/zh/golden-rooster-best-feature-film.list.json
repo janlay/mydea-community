@@ -1,0 +1,444 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T00:56:00Z",
+  "title": "金鸡奖 — 最佳故事片",
+  "description": "中国电影金鸡奖历届最佳故事片获奖记录；并列获奖按独立条目保留。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "golden-rooster-1981-best-feature-film-33721692",
+      "mediaType": "movie",
+      "title": "天云山传奇",
+      "externalIds": {
+        "imdb": "tt0083199"
+      },
+      "awardYear": 1981,
+      "winner": "谢晋"
+    },
+    {
+      "id": "golden-rooster-1981-best-feature-film-69945030",
+      "mediaType": "movie",
+      "title": "巴山夜雨",
+      "externalIds": {
+        "imdb": "tt0080404"
+      },
+      "awardYear": 1981,
+      "winner": "吴永刚、吴贻弓"
+    },
+    {
+      "id": "golden-rooster-1982-best-feature-film-85873272",
+      "mediaType": "movie",
+      "title": "邻居",
+      "awardYear": 1982,
+      "winner": "郑洞天、徐谷明"
+    },
+    {
+      "id": "golden-rooster-1983-best-feature-film-58177441",
+      "mediaType": "movie",
+      "title": "人到中年",
+      "awardYear": 1983,
+      "winner": "王启民、孙羽"
+    },
+    {
+      "id": "golden-rooster-1983-best-feature-film-22266189",
+      "mediaType": "movie",
+      "title": "骆驼祥子",
+      "externalIds": {
+        "tmdb": "57020",
+        "imdb": "tt0084249"
+      },
+      "awardYear": 1983,
+      "winner": "凌子风"
+    },
+    {
+      "id": "golden-rooster-1984-best-feature-film-14014985",
+      "mediaType": "movie",
+      "title": "乡音",
+      "awardYear": 1984,
+      "winner": "胡炳榴"
+    },
+    {
+      "id": "golden-rooster-1985-best-feature-film-11418363",
+      "mediaType": "movie",
+      "title": "红衣少女",
+      "awardYear": 1985,
+      "winner": "陆小雅"
+    },
+    {
+      "id": "golden-rooster-1986-best-feature-film-04865147",
+      "mediaType": "movie",
+      "title": "野山",
+      "externalIds": {
+        "imdb": "tt0359839"
+      },
+      "awardYear": 1986,
+      "winner": "颜学恕"
+    },
+    {
+      "id": "golden-rooster-1987-best-feature-film-66264299",
+      "mediaType": "movie",
+      "title": "孙中山",
+      "awardYear": 1987,
+      "winner": "丁荫楠"
+    },
+    {
+      "id": "golden-rooster-1987-best-feature-film-46813133",
+      "mediaType": "movie",
+      "title": "芙蓉镇",
+      "externalIds": {
+        "tmdb": "38993",
+        "imdb": "tt0087301"
+      },
+      "awardYear": 1987,
+      "winner": "谢晋"
+    },
+    {
+      "id": "golden-rooster-1988-best-feature-film-20114227",
+      "mediaType": "movie",
+      "title": "红高粱",
+      "externalIds": {
+        "tmdb": "25376",
+        "imdb": "tt0093206"
+      },
+      "awardYear": 1988,
+      "winner": "张艺谋"
+    },
+    {
+      "id": "golden-rooster-1988-best-feature-film-85096466",
+      "mediaType": "movie",
+      "title": "老井",
+      "externalIds": {
+        "tmdb": "36436",
+        "imdb": "tt0093392"
+      },
+      "awardYear": 1988,
+      "winner": "吴天明"
+    },
+    {
+      "id": "golden-rooster-1990-best-feature-film-97677992",
+      "mediaType": "movie",
+      "title": "开国大典",
+      "externalIds": {
+        "imdb": "tt0343973"
+      },
+      "awardYear": 1990,
+      "winner": "李前宽、肖桂云"
+    },
+    {
+      "id": "golden-rooster-1991-best-feature-film-71887531",
+      "mediaType": "movie",
+      "title": "焦裕禄",
+      "externalIds": {
+        "imdb": "tt0343979"
+      },
+      "awardYear": 1991,
+      "winner": "王冀邢"
+    },
+    {
+      "id": "golden-rooster-1992-best-feature-film-08404721",
+      "mediaType": "movie",
+      "title": "大决战",
+      "awardYear": 1992,
+      "winner": "李俊、韦廉、景慕逵、翟俊杰、杨光远、赵继烈"
+    },
+    {
+      "id": "golden-rooster-1993-best-feature-film-24469207",
+      "mediaType": "movie",
+      "title": "秋菊打官司",
+      "externalIds": {
+        "tmdb": "17339",
+        "imdb": "tt0105197"
+      },
+      "awardYear": 1993,
+      "winner": "张艺谋"
+    },
+    {
+      "id": "golden-rooster-1994-best-feature-film-71878385",
+      "mediaType": "movie",
+      "title": "凤凰琴",
+      "awardYear": 1994,
+      "winner": "何群"
+    },
+    {
+      "id": "golden-rooster-1995-best-feature-film-72857559",
+      "mediaType": "movie",
+      "title": "被告山杠爷",
+      "awardYear": 1995,
+      "winner": "范元"
+    },
+    {
+      "id": "golden-rooster-1996-best-feature-film-12390514",
+      "mediaType": "movie",
+      "title": "红樱桃",
+      "awardYear": 1996,
+      "winner": "叶大鹰"
+    },
+    {
+      "id": "golden-rooster-1997-best-feature-film-30892148",
+      "mediaType": "movie",
+      "title": "鸦片战争",
+      "externalIds": {
+        "imdb": "tt0120530"
+      },
+      "awardYear": 1997,
+      "winner": "谢晋"
+    },
+    {
+      "id": "golden-rooster-1998-best-feature-film-90691243",
+      "mediaType": "movie",
+      "title": "安居",
+      "awardYear": 1998,
+      "winner": "胡炳榴"
+    },
+    {
+      "id": "golden-rooster-1999-best-feature-film-47703231",
+      "mediaType": "movie",
+      "title": "那山那人那狗",
+      "awardYear": 1999,
+      "winner": "霍建起"
+    },
+    {
+      "id": "golden-rooster-2000-best-feature-film-16566999",
+      "mediaType": "movie",
+      "title": "我的父亲母亲",
+      "externalIds": {
+        "tmdb": "16185",
+        "imdb": "tt0235060"
+      },
+      "awardYear": 2000,
+      "winner": "张艺谋"
+    },
+    {
+      "id": "golden-rooster-2000-best-feature-film-50933945",
+      "mediaType": "movie",
+      "title": "横空出世",
+      "awardYear": 2000,
+      "winner": "陈国星"
+    },
+    {
+      "id": "golden-rooster-2000-best-feature-film-10823768",
+      "mediaType": "movie",
+      "title": "生死抉择",
+      "awardYear": 2000,
+      "winner": "于本正"
+    },
+    {
+      "id": "golden-rooster-2001-best-feature-film-19437776",
+      "mediaType": "movie",
+      "title": "毛泽东在1925",
+      "awardYear": 2001,
+      "winner": "张今标"
+    },
+    {
+      "id": "golden-rooster-2002-best-feature-film-20341403",
+      "mediaType": "movie",
+      "title": "冲出亚马逊",
+      "awardYear": 2002,
+      "winner": "宋业明"
+    },
+    {
+      "id": "golden-rooster-2002-best-feature-film-99698625",
+      "mediaType": "movie",
+      "title": "美丽的大脚",
+      "awardYear": 2002,
+      "winner": "杨亚洲"
+    },
+    {
+      "id": "golden-rooster-2003-best-feature-film-89801564",
+      "mediaType": "movie",
+      "title": "惊涛骇浪",
+      "awardYear": 2003,
+      "winner": "翟俊杰"
+    },
+    {
+      "id": "golden-rooster-2003-best-feature-film-64179055",
+      "mediaType": "movie",
+      "title": "暖",
+      "awardYear": 2003,
+      "winner": "霍建起"
+    },
+    {
+      "id": "golden-rooster-2004-best-feature-film-73384823",
+      "mediaType": "movie",
+      "title": "美丽上海",
+      "awardYear": 2004,
+      "winner": "彭小莲"
+    },
+    {
+      "id": "golden-rooster-2005-best-feature-film-41031137",
+      "mediaType": "movie",
+      "title": "可可西里",
+      "externalIds": {
+        "tmdb": "12863",
+        "imdb": "tt0386651"
+      },
+      "awardYear": 2005,
+      "winner": "陆川"
+    },
+    {
+      "id": "golden-rooster-2005-best-feature-film-87176144",
+      "mediaType": "movie",
+      "title": "太行山上",
+      "awardYear": 2005,
+      "winner": "韦廉、沈东、陈健"
+    },
+    {
+      "id": "golden-rooster-2007-best-feature-film-78750152",
+      "mediaType": "movie",
+      "title": "云水谣",
+      "externalIds": {
+        "imdb": "tt0860464"
+      },
+      "awardYear": 2007,
+      "winner": "尹力"
+    },
+    {
+      "id": "golden-rooster-2009-best-feature-film-97480702",
+      "mediaType": "movie",
+      "title": "梅兰芳",
+      "awardYear": 2009,
+      "winner": "陈凯歌"
+    },
+    {
+      "id": "golden-rooster-2009-best-feature-film-96250077",
+      "mediaType": "movie",
+      "title": "集结号",
+      "awardYear": 2009,
+      "winner": "冯小刚"
+    },
+    {
+      "id": "golden-rooster-2011-best-feature-film-74054496",
+      "mediaType": "movie",
+      "title": "飞天",
+      "awardYear": 2011,
+      "winner": "王珈、沈东"
+    },
+    {
+      "id": "golden-rooster-2013-best-feature-film-67807925",
+      "mediaType": "movie",
+      "title": "中国合伙人",
+      "externalIds": {
+        "tmdb": "192577",
+        "imdb": "tt2278392"
+      },
+      "awardYear": 2013,
+      "winner": "陈可辛"
+    },
+    {
+      "id": "golden-rooster-2013-best-feature-film-81877932",
+      "mediaType": "movie",
+      "title": "周恩来的四个昼夜",
+      "awardYear": 2013,
+      "winner": "陈力"
+    },
+    {
+      "id": "golden-rooster-2015-best-feature-film-97007905",
+      "mediaType": "movie",
+      "title": "狼图腾",
+      "externalIds": {
+        "tmdb": "266058",
+        "imdb": "tt2909116"
+      },
+      "awardYear": 2015,
+      "winner": "让-雅克·阿诺"
+    },
+    {
+      "id": "golden-rooster-2017-best-feature-film-83471229",
+      "mediaType": "movie",
+      "title": "湄公河行动",
+      "releaseDate": "2016",
+      "externalIds": {
+        "tmdb": "408620",
+        "imdb": "tt6044910"
+      },
+      "awardYear": 2017,
+      "winner": "林超贤"
+    },
+    {
+      "id": "golden-rooster-2019-best-feature-film-66826765",
+      "mediaType": "movie",
+      "title": "流浪地球",
+      "releaseDate": "2019",
+      "externalIds": {
+        "tmdb": "535167",
+        "imdb": "tt7605074"
+      },
+      "awardYear": 2019,
+      "winner": "郭帆"
+    },
+    {
+      "id": "golden-rooster-2020-best-feature-film-09510219",
+      "mediaType": "movie",
+      "title": "夺冠",
+      "releaseDate": "2020",
+      "externalIds": {
+        "tmdb": "541560",
+        "imdb": "tt10670442"
+      },
+      "awardYear": 2020,
+      "winner": "陈可辛"
+    },
+    {
+      "id": "golden-rooster-2021-best-feature-film-60441916",
+      "mediaType": "movie",
+      "title": "守岛人",
+      "awardYear": 2021,
+      "winner": "陈力"
+    },
+    {
+      "id": "golden-rooster-2022-best-feature-film-25389892",
+      "mediaType": "movie",
+      "title": "长津湖",
+      "releaseDate": "2021",
+      "externalIds": {
+        "tmdb": "752623",
+        "imdb": "tt13462900"
+      },
+      "awardYear": 2022,
+      "winner": "陈凯歌、徐克、林超贤"
+    },
+    {
+      "id": "golden-rooster-2023-best-feature-film-37080571",
+      "mediaType": "movie",
+      "title": "封神第一部：朝歌风云",
+      "releaseDate": "2023",
+      "externalIds": {
+        "tmdb": "856289",
+        "imdb": "tt6979756"
+      },
+      "awardYear": 2023,
+      "winner": "乌尔善"
+    },
+    {
+      "id": "golden-rooster-2024-best-feature-film-76709098",
+      "mediaType": "movie",
+      "title": "第二十条",
+      "releaseDate": "2024",
+      "awardYear": 2024,
+      "winner": "张艺谋"
+    },
+    {
+      "id": "golden-rooster-2025-best-feature-film-58770383",
+      "mediaType": "movie",
+      "title": "好东西",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt31807233",
+        "douban": "36154853"
+      },
+      "awardYear": 2025,
+      "winner": "邵艺辉"
+    }
+  ]
+}

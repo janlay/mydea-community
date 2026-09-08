@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:30:00Z",
+  "title": "柏林电影节 2025 年获奖名单",
+  "description": "柏林国际电影节 2025 年主竞赛国际评审团主要奖项获奖影片。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "berlinale-2025-golden-bear-dreams-sex-love",
+      "mediaType": "movie",
+      "title": "梦（性与爱）",
+      "englishTitle": "Dreams (Sex Love)",
+      "award": "金熊奖",
+      "awardYear": 2025,
+      "awardOrder": 1,
+      "winner": "Dag Johan Haugerud",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt30810787"
+      }
+    },
+    {
+      "id": "berlinale-2025-grand-jury-the-blue-trail",
+      "mediaType": "movie",
+      "title": "蓝色小径",
+      "englishTitle": "The Blue Trail",
+      "award": "评审团大奖",
+      "awardYear": 2025,
+      "awardOrder": 2,
+      "winner": "Gabriel Mascaro",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt35340614"
+      }
+    },
+    {
+      "id": "berlinale-2025-jury-prize-the-message",
+      "mediaType": "movie",
+      "title": "消息",
+      "englishTitle": "The Message",
+      "award": "评审团奖",
+      "awardYear": 2025,
+      "awardOrder": 3,
+      "winner": "Iván Fund",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt35499146"
+      }
+    },
+    {
+      "id": "berlinale-2025-best-director-living-the-land",
+      "mediaType": "movie",
+      "title": "生息之地",
+      "englishTitle": "Living the Land",
+      "award": "最佳导演银熊奖",
+      "awardYear": 2025,
+      "awardOrder": 4,
+      "winner": "Huo Meng",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31079597"
+      }
+    },
+    {
+      "id": "berlinale-2025-leading-performance-if-i-had-legs-i-d-kick-you",
+      "mediaType": "movie",
+      "title": "如果我有腿，我会踢你",
+      "englishTitle": "If I Had Legs I'd Kick You",
+      "award": "最佳主角银熊奖",
+      "awardYear": 2025,
+      "awardOrder": 5,
+      "winner": "Rose Byrne",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt18382850"
+      }
+    },
+    {
+      "id": "berlinale-2025-supporting-performance-blue-moon",
+      "mediaType": "movie",
+      "title": "蓝月亮",
+      "englishTitle": "Blue Moon",
+      "award": "最佳配角银熊奖",
+      "awardYear": 2025,
+      "awardOrder": 6,
+      "winner": "Andrew Scott",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt32536315"
+      }
+    },
+    {
+      "id": "berlinale-2025-best-screenplay-kontinental-25",
+      "mediaType": "movie",
+      "title": "Kontinental '25",
+      "englishTitle": "Kontinental '25",
+      "award": "最佳编剧银熊奖",
+      "awardYear": 2025,
+      "awardOrder": 7,
+      "winner": "Radu Jude",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt35492581"
+      }
+    },
+    {
+      "id": "berlinale-2025-artistic-contribution-the-ice-tower",
+      "mediaType": "movie",
+      "title": "冰塔",
+      "englishTitle": "The Ice Tower",
+      "award": "杰出艺术贡献银熊奖",
+      "awardYear": 2025,
+      "awardOrder": 8,
+      "winner": "Creative ensemble",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt28171985"
+      }
+    }
+  ]
+}

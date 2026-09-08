@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T00:00:00Z",
+  "title": "青龍映画賞 — 2021",
+  "description": "2021年青龍映画賞、主要10部門の受賞記録。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "blue-dragon-2021-best-film-mogadishu",
+      "mediaType": "movie",
+      "title": "モガディシュ 脱出までの14日間",
+      "originalTitle": "모가디슈",
+      "award": "最優秀作品賞",
+      "awardYear": 2021,
+      "awardOrder": 1,
+      "winner": "リュ・スンワン",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14810692"
+      }
+    },
+    {
+      "id": "blue-dragon-2021-best-director-mogadishu",
+      "mediaType": "movie",
+      "title": "モガディシュ 脱出までの14日間",
+      "originalTitle": "모가디슈",
+      "award": "監督賞",
+      "awardYear": 2021,
+      "awardOrder": 2,
+      "winner": "リュ・スンワン",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14810692"
+      }
+    },
+    {
+      "id": "blue-dragon-2021-best-actor-book-fish",
+      "mediaType": "movie",
+      "title": "The Book of Fish",
+      "originalTitle": "자산어보",
+      "award": "主演男優賞",
+      "awardYear": 2021,
+      "awardOrder": 3,
+      "winner": "ソル・ギョング",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14371900"
+      }
+    },
+    {
+      "id": "blue-dragon-2021-best-actress-three-sisters",
+      "mediaType": "movie",
+      "title": "三姉妹",
+      "originalTitle": "세 자매",
+      "award": "主演女優賞",
+      "awardYear": 2021,
+      "awardOrder": 4,
+      "winner": "ムン・ソリ",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt12385956"
+      }
+    },
+    {
+      "id": "blue-dragon-2021-best-supporting-actor-mogadishu",
+      "mediaType": "movie",
+      "title": "モガディシュ 脱出までの14日間",
+      "originalTitle": "모가디슈",
+      "award": "助演男優賞",
+      "awardYear": 2021,
+      "awardOrder": 5,
+      "winner": "ホ・ジュノ",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14810692"
+      }
+    },
+    {
+      "id": "blue-dragon-2021-best-supporting-actress-three-sisters",
+      "mediaType": "movie",
+      "title": "三姉妹",
+      "originalTitle": "세 자매",
+      "award": "助演女優賞",
+      "awardYear": 2021,
+      "awardOrder": 6,
+      "winner": "キム・ソニョン",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt12385956"
+      }
+    },
+    {
+      "id": "blue-dragon-2021-best-new-director-day-i-died",
+      "mediaType": "movie",
+      "title": "The Day I Died: Unclosed Case",
+      "originalTitle": "내가 죽던 날",
+      "award": "新人監督賞",
+      "awardYear": 2021,
+      "awardOrder": 7,
+      "winner": "パク・ジワン",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt13423318"
+      }
+    },
+    {
+      "id": "blue-dragon-2021-best-new-actor-not-out",
+      "mediaType": "movie",
+      "title": "Not Out",
+      "originalTitle": "낫아웃",
+      "award": "新人男優賞",
+      "awardYear": 2021,
+      "awardOrder": 8,
+      "winner": "チョン・ジェグァン",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14627004"
+      }
+    },
+    {
+      "id": "blue-dragon-2021-best-new-actress-aloners",
+      "mediaType": "movie",
+      "title": "Aloners",
+      "originalTitle": "혼자 사는 사람들",
+      "award": "新人女優賞",
+      "awardYear": 2021,
+      "awardOrder": 9,
+      "winner": "コン・スンヨン",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14598598"
+      }
+    },
+    {
+      "id": "blue-dragon-2021-best-screenplay-book-fish",
+      "mediaType": "movie",
+      "title": "The Book of Fish",
+      "originalTitle": "자산어보",
+      "award": "脚本賞",
+      "awardYear": 2021,
+      "awardOrder": 10,
+      "winner": "キム・セギョム",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14371900"
+      }
+    }
+  ]
+}

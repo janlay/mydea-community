@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "부산국제영화제 2019 수상작",
+  "description": "부산국제영화제 2019 주요 경쟁상 수상작.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "biff-2019-new-currents-rom",
+      "mediaType": "movie",
+      "title": "Rom",
+      "award": "뉴 커런츠상",
+      "awardYear": 2019,
+      "awardOrder": 1,
+      "winner": "Tran Thanh Huy",
+      "releaseDate": "2019",
+      "externalIds": {
+        "letterboxd": "rom"
+      }
+    },
+    {
+      "id": "biff-2019-new-currents-haifa-street",
+      "mediaType": "movie",
+      "title": "Haifa Street",
+      "award": "뉴 커런츠상",
+      "awardYear": 2019,
+      "awardOrder": 2,
+      "winner": "Mohanad HAYAL",
+      "releaseDate": "2019",
+      "externalIds": {
+        "letterboxd": "haifa-street"
+      }
+    },
+    {
+      "id": "biff-2019-kim-jiseok-circus-of-life",
+      "mediaType": "movie",
+      "title": "Circus of Life",
+      "award": "지석상",
+      "awardYear": 2019,
+      "awardOrder": 3,
+      "winner": "Sarmad Sultan KHOOSAT",
+      "releaseDate": "2019",
+      "externalIds": {
+        "letterboxd": "circus-of-life"
+      }
+    },
+    {
+      "id": "biff-2019-kim-jiseok-market",
+      "mediaType": "movie",
+      "title": "Market",
+      "award": "지석상",
+      "awardYear": 2019,
+      "awardOrder": 4,
+      "winner": "Pradip KURBAH",
+      "releaseDate": "2019",
+      "externalIds": {
+        "letterboxd": "market"
+      }
+    },
+    {
+      "id": "biff-2019-mecenat-underground",
+      "mediaType": "movie",
+      "title": "Underground",
+      "award": "비프메세나상",
+      "awardYear": 2019,
+      "awardOrder": 5,
+      "winner": "KIM Jeong-keun",
+      "releaseDate": "2019",
+      "externalIds": {
+        "letterboxd": "underground"
+      }
+    },
+    {
+      "id": "biff-2019-mecenat-noodle-kid",
+      "mediaType": "movie",
+      "title": "Noodle Kid",
+      "award": "비프메세나상",
+      "awardYear": 2019,
+      "awardOrder": 6,
+      "winner": "HUO Ning",
+      "releaseDate": "2019",
+      "externalIds": {
+        "letterboxd": "noodle-kid"
+      }
+    },
+    {
+      "id": "biff-2019-sonje-hello",
+      "mediaType": "movie",
+      "title": "Hello",
+      "award": "선재상",
+      "awardYear": 2019,
+      "awardOrder": 7,
+      "winner": "JIN Seong-moon",
+      "releaseDate": "2019",
+      "externalIds": {
+        "letterboxd": "hello"
+      }
+    },
+    {
+      "id": "biff-2019-sonje-dragons-tail",
+      "mediaType": "movie",
+      "title": "Dragon's Tail",
+      "award": "선재상",
+      "awardYear": 2019,
+      "awardOrder": 8,
+      "winner": "Saeed KESHAVARZ",
+      "releaseDate": "2019",
+      "externalIds": {
+        "letterboxd": "dragons-tail"
+      }
+    }
+  ]
+}

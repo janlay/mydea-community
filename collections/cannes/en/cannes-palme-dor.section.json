@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "OpenAI",
+  "title": "Cannes — Palme d'Or",
+  "description": "Cannes Film Festival Palme d'Or and historical top-prize winning films.",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "cannes-palme-dor.list.json"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T05:03:58Z",
+  "title": "Oscars 2023 Winners",
+  "description": "Winners in core film categories at the 95th Academy Awards.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "oscars-2023-best-picture-everything-everywhere-all-at-once",
+      "mediaType": "movie",
+      "title": "Everything Everywhere All at Once",
+      "award": "Best Picture",
+      "awardYear": 2023,
+      "awardOrder": 1,
+      "winner": "Daniel Kwan, Daniel Scheinert & Jonathan Wang",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt6710474"
+      }
+    },
+    {
+      "id": "oscars-2023-best-director-everything-everywhere-all-at-once",
+      "mediaType": "movie",
+      "title": "Everything Everywhere All at Once",
+      "award": "Best Director",
+      "awardYear": 2023,
+      "awardOrder": 2,
+      "winner": "Daniel Kwan & Daniel Scheinert",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt6710474"
+      }
+    },
+    {
+      "id": "oscars-2023-best-actor-the-whale",
+      "mediaType": "movie",
+      "title": "The Whale",
+      "award": "Best Actor",
+      "awardYear": 2023,
+      "awardOrder": 3,
+      "winner": "Brendan Fraser",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt13833688"
+      }
+    },
+    {
+      "id": "oscars-2023-best-actress-everything-everywhere-all-at-once",
+      "mediaType": "movie",
+      "title": "Everything Everywhere All at Once",
+      "award": "Best Actress",
+      "awardYear": 2023,
+      "awardOrder": 4,
+      "winner": "Michelle Yeoh",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt6710474"
+      }
+    },
+    {
+      "id": "oscars-2023-best-supporting-actor-everything-everywhere-all-at-once",
+      "mediaType": "movie",
+      "title": "Everything Everywhere All at Once",
+      "award": "Best Supporting Actor",
+      "awardYear": 2023,
+      "awardOrder": 5,
+      "winner": "Ke Huy Quan",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt6710474"
+      }
+    },
+    {
+      "id": "oscars-2023-best-supporting-actress-everything-everywhere-all-at-once",
+      "mediaType": "movie",
+      "title": "Everything Everywhere All at Once",
+      "award": "Best Supporting Actress",
+      "awardYear": 2023,
+      "awardOrder": 6,
+      "winner": "Jamie Lee Curtis",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt6710474"
+      }
+    },
+    {
+      "id": "oscars-2023-best-original-screenplay-everything-everywhere-all-at-once",
+      "mediaType": "movie",
+      "title": "Everything Everywhere All at Once",
+      "award": "Best Original Screenplay",
+      "awardYear": 2023,
+      "awardOrder": 7,
+      "winner": "Daniel Kwan & Daniel Scheinert",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt6710474"
+      }
+    },
+    {
+      "id": "oscars-2023-best-adapted-screenplay-women-talking",
+      "mediaType": "movie",
+      "title": "Women Talking",
+      "award": "Best Adapted Screenplay",
+      "awardYear": 2023,
+      "awardOrder": 8,
+      "winner": "Sarah Polley",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt13669038"
+      }
+    },
+    {
+      "id": "oscars-2023-best-animated-feature-guillermo-del-toro-s-pinocchio",
+      "mediaType": "movie",
+      "title": "Guillermo del Toro's Pinocchio",
+      "award": "Best Animated Feature",
+      "awardYear": 2023,
+      "awardOrder": 9,
+      "winner": "Guillermo del Toro, Mark Gustafson, Gary Ungar & Alex Bulkley",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt1488589"
+      }
+    },
+    {
+      "id": "oscars-2023-best-international-feature-all-quiet-on-the-western-front",
+      "mediaType": "movie",
+      "title": "All Quiet on the Western Front",
+      "award": "Best International Feature Film",
+      "awardYear": 2023,
+      "awardOrder": 10,
+      "winner": "Germany",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt1016150"
+      }
+    }
+  ]
+}

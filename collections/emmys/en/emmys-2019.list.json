@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T05:03:35Z",
+  "title": "Primetime Emmy Awards 2019 Winners",
+  "description": "Major-category winners from the 71th Primetime Emmy Awards.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "emmys-2019-drama-series-game-of-thrones",
+      "mediaType": "tv",
+      "title": "Game of Thrones",
+      "award": "Outstanding Drama Series",
+      "awardYear": 2019,
+      "awardOrder": 1,
+      "winner": "Game of Thrones",
+      "releaseDate": "2011",
+      "externalIds": {
+        "imdb": "tt0944947"
+      }
+    },
+    {
+      "id": "emmys-2019-comedy-series-fleabag",
+      "mediaType": "tv",
+      "title": "Fleabag",
+      "award": "Outstanding Comedy Series",
+      "awardYear": 2019,
+      "awardOrder": 2,
+      "winner": "Fleabag",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5687612"
+      }
+    },
+    {
+      "id": "emmys-2019-limited-series-chernobyl",
+      "mediaType": "tv",
+      "title": "Chernobyl",
+      "award": "Outstanding Limited or Anthology Series",
+      "awardYear": 2019,
+      "awardOrder": 3,
+      "winner": "Chernobyl",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt7366338"
+      }
+    },
+    {
+      "id": "emmys-2019-lead-actor-drama-pose",
+      "mediaType": "tv",
+      "title": "Pose",
+      "award": "Outstanding Lead Actor in a Drama Series",
+      "awardYear": 2019,
+      "awardOrder": 4,
+      "winner": "Billy Porter",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7562112"
+      }
+    },
+    {
+      "id": "emmys-2019-lead-actress-drama-killing-eve",
+      "mediaType": "tv",
+      "title": "Killing Eve",
+      "award": "Outstanding Lead Actress in a Drama Series",
+      "awardYear": 2019,
+      "awardOrder": 5,
+      "winner": "Jodie Comer",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7016936"
+      }
+    },
+    {
+      "id": "emmys-2019-lead-actor-comedy-barry",
+      "mediaType": "tv",
+      "title": "Barry",
+      "award": "Outstanding Lead Actor in a Comedy Series",
+      "awardYear": 2019,
+      "awardOrder": 6,
+      "winner": "Bill Hader",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt5348176"
+      }
+    },
+    {
+      "id": "emmys-2019-lead-actress-comedy-fleabag",
+      "mediaType": "tv",
+      "title": "Fleabag",
+      "award": "Outstanding Lead Actress in a Comedy Series",
+      "awardYear": 2019,
+      "awardOrder": 7,
+      "winner": "Phoebe Waller-Bridge",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5687612"
+      }
+    }
+  ]
+}

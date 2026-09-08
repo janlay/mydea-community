@@ -1,0 +1,284 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-08T11:52:00Z",
+  "title": "Cannes Film Festival 2017 Awards",
+  "description": "Official film-linked awards from the 70th Festival de Cannes, covering Competition, Short Films, Un Certain Regard, Caméra d'Or, Cinéfondation and CST technical prizes.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "cannes-2017-palme-d-or-the-square",
+      "mediaType": "movie",
+      "title": "The Square",
+      "award": "Palme d'Or",
+      "awardYear": 2017,
+      "awardOrder": 1,
+      "winner": "Ruben Östlund",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt4995790"
+      }
+    },
+    {
+      "id": "cannes-2017-grand-prix-bpm-beats-per-minute",
+      "mediaType": "movie",
+      "title": "BPM (Beats per Minute)",
+      "award": "Grand Prix",
+      "awardYear": 2017,
+      "awardOrder": 2,
+      "winner": "Robin Campillo",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6135348"
+      }
+    },
+    {
+      "id": "cannes-2017-best-director-prize-the-beguiled",
+      "mediaType": "movie",
+      "title": "The Beguiled",
+      "award": "Best Director Prize",
+      "awardYear": 2017,
+      "awardOrder": 3,
+      "winner": "Sofia Coppola",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5592248"
+      }
+    },
+    {
+      "id": "cannes-2017-best-screenplay-ex-aequo-the-killing-of-a-sacred-deer",
+      "mediaType": "movie",
+      "title": "The Killing of a Sacred Deer",
+      "award": "Best Screenplay (Ex-Aequo)",
+      "awardYear": 2017,
+      "awardOrder": 4,
+      "winner": "Yorgos Lanthimos & Efthimis Filippou",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5715874"
+      }
+    },
+    {
+      "id": "cannes-2017-best-screenplay-ex-aequo-you-were-never-really-here",
+      "mediaType": "movie",
+      "title": "You Were Never Really Here",
+      "award": "Best Screenplay (Ex-Aequo)",
+      "awardYear": 2017,
+      "awardOrder": 5,
+      "winner": "Lynne Ramsay",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5742374"
+      }
+    },
+    {
+      "id": "cannes-2017-jury-prize-loveless",
+      "mediaType": "movie",
+      "title": "Loveless",
+      "award": "Jury Prize",
+      "awardYear": 2017,
+      "awardOrder": 6,
+      "winner": "Andrey Zvyagintsev",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6304162"
+      }
+    },
+    {
+      "id": "cannes-2017-best-performance-for-an-actress-in-the-fade",
+      "mediaType": "movie",
+      "title": "In the Fade",
+      "award": "Best Performance for an Actress",
+      "awardYear": 2017,
+      "awardOrder": 7,
+      "winner": "Diane Kruger",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5723272"
+      }
+    },
+    {
+      "id": "cannes-2017-best-performance-for-an-actor-you-were-never-really-here",
+      "mediaType": "movie",
+      "title": "You Were Never Really Here",
+      "award": "Best Performance for an Actor",
+      "awardYear": 2017,
+      "awardOrder": 8,
+      "winner": "Joaquin Phoenix",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5742374"
+      }
+    },
+    {
+      "id": "cannes-2017-vulcain-prize-for-an-artist-technician-the-square",
+      "mediaType": "movie",
+      "title": "The Square",
+      "award": "Vulcain Prize for an Artist Technician",
+      "awardYear": 2017,
+      "awardOrder": 9,
+      "winner": "Josefin Åsberg",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt4995790"
+      }
+    },
+    {
+      "id": "cannes-2017-short-film-palme-d-or-a-gentle-night",
+      "mediaType": "movie",
+      "title": "A Gentle Night",
+      "award": "Short Film Palme d'Or",
+      "awardYear": 2017,
+      "awardOrder": 10,
+      "winner": "Qiu Yang",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7003952"
+      }
+    },
+    {
+      "id": "cannes-2017-short-film-special-jury-distinction-the-ceiling",
+      "mediaType": "movie",
+      "title": "The Ceiling",
+      "award": "Short Film Special Jury Distinction",
+      "awardYear": 2017,
+      "awardOrder": 11,
+      "winner": "Teppo Airaksinen",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6770178"
+      }
+    },
+    {
+      "id": "cannes-2017-un-certain-regard-prize-a-man-of-integrity",
+      "mediaType": "movie",
+      "title": "A Man of Integrity",
+      "award": "Un Certain Regard Prize",
+      "awardYear": 2017,
+      "awardOrder": 12,
+      "winner": "Mohammad Rasoulof",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6776462"
+      }
+    },
+    {
+      "id": "cannes-2017-un-certain-regard-best-actress-fortunata",
+      "mediaType": "movie",
+      "title": "Fortunata",
+      "award": "Un Certain Regard Best Actress",
+      "awardYear": 2017,
+      "awardOrder": 13,
+      "winner": "Jasmine Trinca",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6306400"
+      }
+    },
+    {
+      "id": "cannes-2017-un-certain-regard-prize-for-the-best-poetic-narrative-barbara",
+      "mediaType": "movie",
+      "title": "Barbara",
+      "award": "Un Certain Regard Prize for the Best Poetic Narrative",
+      "awardYear": 2017,
+      "awardOrder": 14,
+      "winner": "Mathieu Amalric",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6411984"
+      }
+    },
+    {
+      "id": "cannes-2017-un-certain-regard-jury-prize-april-s-daughter",
+      "mediaType": "movie",
+      "title": "April's Daughter",
+      "award": "Un Certain Regard Jury Prize",
+      "awardYear": 2017,
+      "awardOrder": 15,
+      "winner": "Michel Franco",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6397762"
+      }
+    },
+    {
+      "id": "cannes-2017-un-certain-regard-best-directing-wind-river",
+      "mediaType": "movie",
+      "title": "Wind River",
+      "award": "Un Certain Regard Best Directing",
+      "awardYear": 2017,
+      "awardOrder": 16,
+      "winner": "Taylor Sheridan",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5362988"
+      }
+    },
+    {
+      "id": "cannes-2017-cam-ra-d-or-jeune-femme",
+      "mediaType": "movie",
+      "title": "Jeune Femme",
+      "award": "Caméra d'Or",
+      "awardYear": 2017,
+      "awardOrder": 17,
+      "winner": "Léonor Serraille",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5598160"
+      }
+    },
+    {
+      "id": "cannes-2017-cin-fondation-first-prize-paul-is-here",
+      "mediaType": "movie",
+      "title": "Paul Is Here",
+      "award": "Cinéfondation First Prize",
+      "awardYear": 2017,
+      "awardOrder": 18,
+      "winner": "Valentina Maurel",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7197034"
+      }
+    },
+    {
+      "id": "cannes-2017-cin-fondation-second-prize-animal",
+      "mediaType": "movie",
+      "title": "Animal",
+      "award": "Cinéfondation Second Prize",
+      "awardYear": 2017,
+      "awardOrder": 19,
+      "winner": "Bahman Ark & Bahram Ark",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6841582"
+      }
+    },
+    {
+      "id": "cannes-2017-cin-fondation-third-prize-two-youths-died",
+      "mediaType": "movie",
+      "title": "Two Youths Died",
+      "award": "Cinéfondation Third Prize",
+      "awardYear": 2017,
+      "awardOrder": 20,
+      "winner": "Tommaso Usberti",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6907472"
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "Mydea",
+  "title": "Venice — Volpi Cup for Best Actress",
+  "description": "Historical Venice International Film Festival Volpi Cup for Best Actress winners, including predecessor/equivalent forms where applicable.",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "venice-best-actress.list.json"
+    }
+  ]
+}

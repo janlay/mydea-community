@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "釜山國際影展 — 釜山獎 最佳影片",
+  "description": "釜山國際影展釜山獎最佳影片歷屆得獎影片。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "biff-busan-best-film-2025-gloaming-in-luomu",
+      "mediaType": "movie",
+      "title": "Gloaming in Luomu",
+      "releaseDate": "2025",
+      "externalIds": {
+        "letterboxd": "gloaming-in-luomu"
+      },
+      "awardYear": 2025,
+      "winner": "ZHANG Lu"
+    }
+  ]
+}

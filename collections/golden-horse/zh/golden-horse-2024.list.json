@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:00:00Z",
+  "title": "金馬獎 2024 年核心獎項得獎名單",
+  "description": "第61屆金馬獎核心常設獎項得獎作品，收錄最佳劇情片、導演、男女主角、男女配角、新導演與新演員。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "golden-horse-2024-best-feature-tt32186579",
+      "mediaType": "movie",
+      "title": "一部未完成的電影",
+      "award": "最佳劇情片",
+      "awardYear": 2024,
+      "winner": "婁燁",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt32186579"
+      },
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-horse-2024-best-director-tt32186579",
+      "mediaType": "movie",
+      "title": "一部未完成的電影",
+      "award": "最佳導演",
+      "awardYear": 2024,
+      "winner": "婁燁",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt32186579"
+      },
+      "awardOrder": 2
+    },
+    {
+      "id": "golden-horse-2024-best-actor-tt33616511",
+      "mediaType": "movie",
+      "title": "漂亮朋友",
+      "award": "最佳男主角",
+      "awardYear": 2024,
+      "winner": "張志勇",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt33616511"
+      },
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-horse-2024-best-actress-tt31660693",
+      "mediaType": "movie",
+      "title": "看我今天怎麼說",
+      "award": "最佳女主角",
+      "awardYear": 2024,
+      "winner": "鍾雪瑩",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt31660693"
+      },
+      "awardOrder": 4
+    },
+    {
+      "id": "golden-horse-2024-best-supporting-actor-tt32915791",
+      "mediaType": "movie",
+      "title": "角頭－大橋頭",
+      "award": "最佳男配角",
+      "awardYear": 2024,
+      "winner": "施名帥",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt32915791"
+      },
+      "awardOrder": 5
+    },
+    {
+      "id": "golden-horse-2024-best-supporting-actress-tt33290581",
+      "mediaType": "movie",
+      "title": "小雁與吳愛麗",
+      "award": "最佳女配角",
+      "awardYear": 2024,
+      "winner": "楊貴媚",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt33290581"
+      },
+      "awardOrder": 6
+    },
+    {
+      "id": "golden-horse-2024-best-new-director-tt11101808",
+      "mediaType": "movie",
+      "title": "白衣蒼狗",
+      "award": "最佳新導演",
+      "awardYear": 2024,
+      "winner": "曾威量、尹又巧",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt11101808"
+      },
+      "awardOrder": 7
+    },
+    {
+      "id": "golden-horse-2024-best-new-performer-tt29195650",
+      "mediaType": "movie",
+      "title": "BIG",
+      "award": "最佳新演員",
+      "awardYear": 2024,
+      "winner": "鄭又菲",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt29195650"
+      },
+      "awardOrder": 8
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "ChatGPT",
+  "title": "프라임타임 에미상 2021 수상 목록",
+  "description": "제73회 프라임타임 에미상 주요 부문 수상 기록.",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "emmys-2021.list.json"
+    }
+  ]
+}

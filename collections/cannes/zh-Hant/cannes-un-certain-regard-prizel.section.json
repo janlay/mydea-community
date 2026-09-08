@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "Mydea",
+  "title": "坎城 — 一種關注獎",
+  "description": "坎城影展歷屆一種關注獎獲獎影片。該獎項設立於1998年；坎城影展取消的2020年沒有頒發該獎，2011年則由兩部影片共同獲獎。",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "cannes-un-certain-regard-prizel.list.json"
+    }
+  ]
+}

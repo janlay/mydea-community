@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "Mydea",
+  "title": "Cannes Film Festival 2024 Awards",
+  "description": "Official film-linked awards from the 77th Festival de Cannes, covering Competition, Short Films, Un Certain Regard, Caméra d'Or, La Cinef and CST technical prizes.",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "cannes-2024.list.json"
+    }
+  ]
+}

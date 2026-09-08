@@ -1,0 +1,146 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "title": "黄金时段艾美奖奖项",
+  "description": "黄金时段艾美奖主要奖项按奖项整理的获奖记录。",
+  "tags": [
+    "award",
+    "prize"
+  ],
+  "icon": "ticket",
+  "sections": [
+    {
+      "title": "黄金时段艾美奖 — 最佳剧情类剧集",
+      "layout": "carousel",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "emmys-drama-series.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "limit": 10
+    },
+    {
+      "title": "黄金时段艾美奖 — 最佳喜剧类剧集",
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "emmys-comedy-series.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "limit": 10
+    },
+    {
+      "title": "黄金时段艾美奖 — 最佳限定剧或诗选剧",
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "emmys-limited-series.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "limit": 10
+    },
+    {
+      "title": "黄金时段艾美奖 — 剧情类最佳男主角",
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "emmys-lead-actor-drama.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "limit": 10
+    },
+    {
+      "title": "黄金时段艾美奖 — 剧情类最佳女主角",
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "emmys-lead-actress-drama.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "limit": 10
+    },
+    {
+      "title": "黄金时段艾美奖 — 喜剧类最佳男主角",
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "emmys-lead-actor-comedy.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "limit": 10
+    },
+    {
+      "title": "黄金时段艾美奖 — 喜剧类最佳女主角",
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "emmys-lead-actress-comedy.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "limit": 10
+    }
+  ]
+}

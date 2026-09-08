@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "Mydea",
+  "title": "Berlinale — Silver Bear for Outstanding Artistic Contribution",
+  "description": "Complete historical winners of the Berlinale Silver Bear for Outstanding Artistic Contribution.",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "berlinale-outstanding-artistic-contribution.list.json"
+    }
+  ]
+}

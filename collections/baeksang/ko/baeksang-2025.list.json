@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-12T02:53:58Z",
+  "title": "백상예술대상 — 2025",
+  "description": "2025년 백상예술대상 영화·방송 주요 수상 기록.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "baeksang-2025-film-grand-harbin",
+      "mediaType": "movie",
+      "title": "하얼빈",
+      "englishTitle": "Harbin",
+      "award": "영화부문 대상",
+      "awardYear": 2025,
+      "awardOrder": 1,
+      "winner": "Hong Kyung-pyo",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt23630030"
+      }
+    },
+    {
+      "id": "baeksang-2025-tv-grand-culinary",
+      "mediaType": "tv",
+      "title": "흑백요리사: 요리 계급 전쟁",
+      "englishTitle": "Culinary Class Wars",
+      "award": "방송부문 대상",
+      "awardYear": 2025,
+      "awardOrder": 2,
+      "winner": "흑백요리사: 요리 계급 전쟁",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt33040785"
+      }
+    },
+    {
+      "id": "baeksang-2025-film-best-harbin",
+      "mediaType": "movie",
+      "title": "하얼빈",
+      "englishTitle": "Harbin",
+      "award": "영화부문 작품상",
+      "awardYear": 2025,
+      "awardOrder": 3,
+      "winner": "하얼빈",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt23630030"
+      }
+    },
+    {
+      "id": "baeksang-2025-film-director-revolver",
+      "mediaType": "movie",
+      "title": "리볼버",
+      "englishTitle": "Revolver",
+      "award": "영화부문 감독상",
+      "awardYear": 2025,
+      "awardOrder": 4,
+      "winner": "Oh Seung-uk",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt28284984"
+      }
+    },
+    {
+      "id": "baeksang-2025-film-actor-pilot",
+      "mediaType": "movie",
+      "title": "파일럿",
+      "englishTitle": "Pilot",
+      "award": "영화부문 남자 최우수 연기상",
+      "awardYear": 2025,
+      "awardOrder": 5,
+      "winner": "Cho Jung-seok",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt32175399"
+      }
+    },
+    {
+      "id": "baeksang-2025-film-actress-revolver",
+      "mediaType": "movie",
+      "title": "리볼버",
+      "englishTitle": "Revolver",
+      "award": "영화부문 여자 최우수 연기상",
+      "awardYear": 2025,
+      "awardOrder": 6,
+      "winner": "Jeon Do-yeon",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt28284984"
+      }
+    },
+    {
+      "id": "baeksang-2025-tv-best-tangerines",
+      "mediaType": "tv",
+      "title": "폭싹 속았수다",
+      "englishTitle": "When Life Gives You Tangerines",
+      "award": "방송부문 작품상 드라마",
+      "awardYear": 2025,
+      "awardOrder": 7,
+      "winner": "폭싹 속았수다",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt26471411"
+      }
+    },
+    {
+      "id": "baeksang-2025-tv-director-doubt",
+      "mediaType": "tv",
+      "title": "이토록 친밀한 배신자",
+      "englishTitle": "Doubt",
+      "award": "방송부문 연출상",
+      "awardYear": 2025,
+      "awardOrder": 8,
+      "winner": "Song Yeon-hwa",
+      "releaseDate": "2024",
+      "externalIds": {
+        "tmdb": "240942"
+      }
+    },
+    {
+      "id": "baeksang-2025-tv-actor-trauma",
+      "mediaType": "tv",
+      "title": "중증외상센터",
+      "englishTitle": "The Trauma Code: Heroes on Call",
+      "award": "방송부문 남자 최우수 연기상",
+      "awardYear": 2025,
+      "awardOrder": 9,
+      "winner": "Ju Ji-hoon",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt28106730"
+      }
+    },
+    {
+      "id": "baeksang-2025-tv-actress-jeongnyeon",
+      "mediaType": "tv",
+      "title": "정년이",
+      "englishTitle": "Jeongnyeon: The Star Is Born",
+      "award": "방송부문 여자 최우수 연기상",
+      "awardYear": 2025,
+      "awardOrder": 10,
+      "winner": "Kim Tae-ri",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt28197611"
+      }
+    }
+  ]
+}

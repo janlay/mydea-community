@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "ChatGPT",
+  "title": "奧斯卡 2018 年得獎名單",
+  "description": "第 90 屆奧斯卡核心電影獎項得獎影片與得獎者。",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "oscars-2018.list.json"
+    }
+  ]
+}

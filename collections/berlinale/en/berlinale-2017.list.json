@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:30:00Z",
+  "title": "Berlinale 2017 Awards",
+  "description": "Major Competition International Jury award winners at the 2017 Berlin International Film Festival.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "berlinale-2017-golden-bear-on-body-and-soul",
+      "mediaType": "movie",
+      "title": "On Body and Soul",
+      "award": "Golden Bear for Best Film",
+      "awardYear": 2017,
+      "awardOrder": 1,
+      "winner": "Ildikó Enyedi",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5607714"
+      },
+      "backdropPath": "https://image.tmdb.org/t/p/w342/c2NBRjDVLolRBmzbxFg7UnbmWdu.jpg"
+    },
+    {
+      "id": "berlinale-2017-grand-jury-felicite",
+      "mediaType": "movie",
+      "title": "Félicité",
+      "award": "Silver Bear Grand Jury Prize",
+      "awardYear": 2017,
+      "awardOrder": 2,
+      "winner": "Alain Gomis",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6343058"
+      }
+    },
+    {
+      "id": "berlinale-2017-alfred-bauer-spoor",
+      "mediaType": "movie",
+      "title": "Spoor",
+      "award": "Alfred Bauer Prize",
+      "awardYear": 2017,
+      "awardOrder": 3,
+      "winner": "Agnieszka Holland",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5328350"
+      }
+    },
+    {
+      "id": "berlinale-2017-best-director-the-other-side-of-hope",
+      "mediaType": "movie",
+      "title": "The Other Side of Hope",
+      "award": "Silver Bear for Best Director",
+      "awardYear": 2017,
+      "awardOrder": 4,
+      "winner": "Aki Kaurismäki",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5222918"
+      },
+      "backdropPath": "https://image.tmdb.org/t/p/w342/hR0HdKBsPFnWqpWtjzy7Xj14FD.jpg"
+    },
+    {
+      "id": "berlinale-2017-best-actress-on-the-beach-at-night-alone",
+      "mediaType": "movie",
+      "title": "On the Beach at Night Alone",
+      "award": "Silver Bear for Best Actress",
+      "awardYear": 2017,
+      "awardOrder": 5,
+      "winner": "Kim Min-hee",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6462506"
+      }
+    },
+    {
+      "id": "berlinale-2017-best-actor-bright-nights",
+      "mediaType": "movie",
+      "title": "Bright Nights",
+      "award": "Silver Bear for Best Actor",
+      "awardYear": 2017,
+      "awardOrder": 6,
+      "winner": "Georg Friedrich",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5226512"
+      }
+    },
+    {
+      "id": "berlinale-2017-best-screenplay-a-fantastic-woman",
+      "mediaType": "movie",
+      "title": "A Fantastic Woman",
+      "award": "Silver Bear for Best Screenplay",
+      "awardYear": 2017,
+      "awardOrder": 7,
+      "winner": "Sebastián Lelio & Gonzalo Maza",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5639354"
+      },
+      "backdropPath": "https://image.tmdb.org/t/p/w342/A3RYhmb5TUlZlaIOzpkcP1VwRGl.jpg"
+    },
+    {
+      "id": "berlinale-2017-artistic-contribution-ana-mon-amour",
+      "mediaType": "movie",
+      "title": "Ana, mon amour",
+      "award": "Silver Bear for Outstanding Artistic Contribution",
+      "awardYear": 2017,
+      "awardOrder": 8,
+      "winner": "Dana Bunescu",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5964626"
+      }
+    }
+  ]
+}

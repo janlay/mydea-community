@@ -1,0 +1,1240 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "OpenAI",
+  "server": "TMDB",
+  "updatedAt": "2026-09-06T16:01:44Z",
+  "description": "戛纳电影节金棕榈奖及历届最高奖获奖影片。",
+  "title": "戛纳 — 金棕榈奖",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "title with Year"
+  ],
+  "items": [
+    {
+      "id": "cannes-palme-dor-1946-brief-encounter",
+      "mediaType": "movie",
+      "title": "相见恨晚",
+      "awardYear": 1946,
+      "winner": "David Lean",
+      "releaseDate": "1945-11-24",
+      "externalIds": {
+        "tmdb": "851"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/jC9EwLJcGhYMSQAHu2LxkKN5v7O.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-1946-the-last-chance",
+      "mediaType": "movie",
+      "title": "最后的机会",
+      "awardYear": 1946,
+      "winner": "Leopold Lindtberg",
+      "releaseDate": "1945-05-26",
+      "externalIds": {
+        "tmdb": "101772"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/wvBwSwRhMR03a5kYzRiicgdslw4.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-1946-the-lost-weekend",
+      "mediaType": "movie",
+      "title": "失去的周末",
+      "awardYear": 1946,
+      "winner": "Billy Wilder",
+      "releaseDate": "1945-11-29",
+      "externalIds": {
+        "tmdb": "28580"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/yL6EJxPeYIcB9TChm56lHqXKzHC.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-1946-maria-candelaria",
+      "mediaType": "movie",
+      "title": "玛丽娅的画像",
+      "awardYear": 1946,
+      "winner": "Emilio Fernández",
+      "releaseDate": "1944-01-20",
+      "externalIds": {
+        "tmdb": "60225"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/whd229FgEBmzxZOGgOWffKOcuRl.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-1946-men-without-wings",
+      "mediaType": "movie",
+      "title": "没有翅膀的男人",
+      "awardYear": 1946,
+      "winner": "František Čáp",
+      "releaseDate": "1946-10-25",
+      "externalIds": {
+        "tmdb": "154623"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/iS4yFIxFwnZAh8iW4VEBzsoWEEe.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-1946-neecha-nagar",
+      "mediaType": "movie",
+      "title": "贫民窟",
+      "awardYear": 1946,
+      "winner": "Chetan Anand",
+      "releaseDate": "1946-09-29",
+      "externalIds": {
+        "tmdb": "154879"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/6790uW3R2yU2w0qiWY3nt2Iki9e.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-1946-pastoral-symphony",
+      "mediaType": "movie",
+      "title": "田园交响乐",
+      "awardYear": 1946,
+      "winner": "Jean Delannoy",
+      "releaseDate": "1946-09-26",
+      "externalIds": {
+        "tmdb": "117500"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/wsbIQxI69MNBFzzEmA7QLysHQQ9.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-1946-the-red-meadows",
+      "mediaType": "movie",
+      "title": "大地将变成红色",
+      "awardYear": 1946,
+      "winner": "Bodil Ipsen; Lau Lauritzen Jr.",
+      "releaseDate": "1945-12-26",
+      "externalIds": {
+        "tmdb": "99272"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/vpO08S6GWb8zD6FexLp1MIddo7i.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-1946-rome-open-city",
+      "mediaType": "movie",
+      "title": "罗马，不设防的城市",
+      "awardYear": 1946,
+      "winner": "Roberto Rossellini",
+      "releaseDate": "1945-10-08",
+      "externalIds": {
+        "tmdb": "307"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/ijGV4v8JxgbNzgEhqKdzHdaZn8a.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-1946-torment",
+      "mediaType": "movie",
+      "title": "折磨",
+      "awardYear": 1946,
+      "winner": "Alf Sjöberg",
+      "releaseDate": "1946-09-25",
+      "externalIds": {
+        "tmdb": "670632"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/t2zpRQxicjvGD2NT9NHWXeCsHSA.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-1946-the-turning-point",
+      "mediaType": "movie",
+      "title": "伟大的转折",
+      "awardYear": 1946,
+      "winner": "Fridrikh Ermler",
+      "releaseDate": "1945-07-19",
+      "externalIds": {
+        "tmdb": "154620"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/tidOMPsO6d4ntThlzkmBEQPn0XY.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-1947-antoine-and-antoinette",
+      "mediaType": "movie",
+      "title": "安东与安东妮",
+      "awardYear": 1947,
+      "winner": "Jacques Becker",
+      "releaseDate": "1947-09-27",
+      "externalIds": {
+        "tmdb": "44532"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/mQrx290OaYTgnuvcFaU0hFHBRlS.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-1947-crossfire",
+      "mediaType": "movie",
+      "title": "双雄斗智",
+      "awardYear": 1947,
+      "winner": "Edward Dmytryk",
+      "releaseDate": "1947-08-15",
+      "externalIds": {
+        "tmdb": "28120"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/s3EFBiCsc4Ckc1tntoHAEnhZtSO.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-1947-dumbo",
+      "mediaType": "movie",
+      "title": "小飞象",
+      "awardYear": 1947,
+      "winner": "Ben Sharpsteen"
+    },
+    {
+      "id": "cannes-palme-dor-1947-the-damned",
+      "mediaType": "movie",
+      "title": "海牙",
+      "awardYear": 1947,
+      "winner": "René Clément",
+      "releaseDate": "1947-09-19",
+      "externalIds": {
+        "tmdb": "87245"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/uzlRzlHXp4WtlHjkCEu730Xk4P8.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-1947-ziegfeld-follies",
+      "mediaType": "movie",
+      "title": "齐格菲歌舞团",
+      "awardYear": 1947,
+      "winner": "Vincente Minnelli",
+      "releaseDate": "1945-08-26",
+      "externalIds": {
+        "tmdb": "43176"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/f5CPLtMX9vSMoumnZi1s8KbbD6p.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-1949-the-third-man",
+      "mediaType": "movie",
+      "title": "第三人",
+      "awardYear": 1949,
+      "winner": "Carol Reed",
+      "releaseDate": "1949-08-31",
+      "externalIds": {
+        "tmdb": "1092"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/vqnFHTx1phgTAsLfxZoejSbMVHA.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-1951-miracle-in-milan",
+      "mediaType": "movie",
+      "title": "米兰的奇迹",
+      "awardYear": 1951,
+      "winner": "Vittorio De Sica",
+      "releaseDate": "1951-02-08",
+      "externalIds": {
+        "tmdb": "43379"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/9l47FSwRvu0IETKjDVpZ2INbqvI.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-1951-miss-julie",
+      "mediaType": "movie",
+      "title": "朱丽小姐",
+      "awardYear": 1951,
+      "winner": "Alf Sjöberg",
+      "releaseDate": "1951-06-28",
+      "externalIds": {
+        "tmdb": "18650"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/t0FCrjopWvU6rm54WpioTLCUVZc.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-1952-othello",
+      "mediaType": "movie",
+      "title": "奥赛罗",
+      "awardYear": 1952,
+      "winner": "Orson Welles",
+      "releaseDate": "1951-11-28",
+      "externalIds": {
+        "tmdb": "47697"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/61A7EJqfMsrQO0YWsUWq8gbgbu0.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-1952-two-cents-worth-of-hope",
+      "mediaType": "movie",
+      "title": "两分钱的希望",
+      "awardYear": 1952,
+      "winner": "Renato Castellani",
+      "releaseDate": "1952-04-10",
+      "externalIds": {
+        "tmdb": "117478"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/qTDv04Y6XbCn0uB3dxynItTaXAl.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-1953-the-wages-of-fear",
+      "mediaType": "movie",
+      "title": "恐惧的代价",
+      "awardYear": 1953,
+      "winner": "Henri-Georges Clouzot",
+      "releaseDate": "1953-04-22",
+      "externalIds": {
+        "tmdb": "204"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/sNOvIp4X0fmCMfgEs2ww5IyMgFm.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-1954-gate-of-hell",
+      "mediaType": "movie",
+      "title": "地狱门",
+      "awardYear": 1954,
+      "winner": "Teinosuke Kinugasa",
+      "releaseDate": "1953-10-30",
+      "externalIds": {
+        "tmdb": "43349"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/um7KDGoLgS1aRDZENkxlTSLIQNw.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-1955-marty",
+      "mediaType": "movie",
+      "title": "君子好逑",
+      "awardYear": 1955,
+      "winner": "Delbert Mann",
+      "releaseDate": "1955-04-11",
+      "externalIds": {
+        "tmdb": "15919"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/8tnGO5VoAQII4DbE3hozWKhV4BY.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-1956-the-silent-world",
+      "mediaType": "movie",
+      "title": "沉默的世界",
+      "awardYear": 1956,
+      "winner": "Jacques Cousteau; Louis Malle",
+      "releaseDate": "1956-02-15",
+      "externalIds": {
+        "tmdb": "60234"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/ys1AiQJbQPNimud1kZQ91FgOJLR.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-1957-friendly-persuasion",
+      "mediaType": "movie",
+      "title": "四海一家",
+      "awardYear": 1957,
+      "winner": "William Wyler",
+      "releaseDate": "1956-10-30",
+      "externalIds": {
+        "tmdb": "43258"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/mhsdObvFHoOfgaKAVJUOeK3LiOP.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-1958-the-cranes-are-flying",
+      "mediaType": "movie",
+      "title": "雁南飞",
+      "awardYear": 1958,
+      "winner": "Mikhail Kalatozov",
+      "releaseDate": "1957-10-12",
+      "externalIds": {
+        "tmdb": "38360"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/foXYOdXEJ0rvtTDo4LLnsUnvPLB.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-1959-black-orpheus",
+      "mediaType": "movie",
+      "title": "黑人奥菲尔",
+      "awardYear": 1959,
+      "winner": "Marcel Camus",
+      "releaseDate": "1959-06-12",
+      "externalIds": {
+        "tmdb": "40423"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/fJWzdNRnfjcJuaZiKqaSURFV6Lg.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-1960-la-dolce-vita",
+      "mediaType": "movie",
+      "title": "甜蜜的生活",
+      "awardYear": 1960,
+      "winner": "Federico Fellini",
+      "releaseDate": "1960-02-05",
+      "externalIds": {
+        "tmdb": "439"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/dZ2v0DAX4aCZartCzZdg4ZinSW2.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-1961-the-long-absence",
+      "mediaType": "movie",
+      "title": "长别离",
+      "awardYear": 1961,
+      "winner": "Henri Colpi",
+      "releaseDate": "1961-05-17",
+      "externalIds": {
+        "tmdb": "131836"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/tPs6Lnp0vfiQDzZELxd4uI09AYa.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-1961-viridiana",
+      "mediaType": "movie",
+      "title": "维莉蒂安娜",
+      "awardYear": 1961,
+      "winner": "Luis Buñuel",
+      "releaseDate": "1962-04-01",
+      "externalIds": {
+        "tmdb": "4497"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/mYPuSx5JwL8AdTwS1iQW4Un1cYP.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-1962-o-pagador-de-promessas",
+      "mediaType": "movie",
+      "title": "诺言",
+      "awardYear": 1962,
+      "winner": "Anselmo Duarte",
+      "releaseDate": "1962-04-17",
+      "externalIds": {
+        "tmdb": "59990"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/wjNydK6CnoJFEp69OzAcSsAaIME.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-1963-the-leopard",
+      "mediaType": "movie",
+      "title": "豹",
+      "awardYear": 1963,
+      "winner": "Luchino Visconti",
+      "releaseDate": "1963-03-27",
+      "externalIds": {
+        "tmdb": "1040"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/riSUxwoK3xjkOgy6YJSvPhi7cO6.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-1964-the-umbrellas-of-cherbourg",
+      "mediaType": "movie",
+      "title": "瑟堡的雨伞",
+      "awardYear": 1964,
+      "winner": "Jacques Demy",
+      "releaseDate": "1964-02-19",
+      "externalIds": {
+        "tmdb": "5967"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/tAgTf64XKK5ir7w5C7dnB53jWWG.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-1965-the-knack-and-how-to-get-it",
+      "mediaType": "movie",
+      "title": "诀窍",
+      "awardYear": 1965,
+      "winner": "Richard Lester",
+      "releaseDate": "1965-06-03",
+      "externalIds": {
+        "tmdb": "42744"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/xO2dJcCISY6lujaU4Qew3RzSErJ.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-1966-the-birds-the-bees-and-the-italians",
+      "mediaType": "movie",
+      "title": "绅士现形记",
+      "awardYear": 1966,
+      "winner": "Pietro Germi",
+      "releaseDate": "1966-02-10",
+      "externalIds": {
+        "tmdb": "17974"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/9q3b1tVa4LO2Xx3JUcjThdV3b12.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-1966-a-man-and-a-woman",
+      "mediaType": "movie",
+      "title": "一个男人和一个女人",
+      "awardYear": 1966,
+      "winner": "Claude Lelouch",
+      "releaseDate": "1966-05-27",
+      "externalIds": {
+        "tmdb": "42726"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/boDZQiubhyhksN8fcgM4sXZ2btW.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-1967-blowup",
+      "mediaType": "movie",
+      "title": "放大",
+      "awardYear": 1967,
+      "winner": "Michelangelo Antonioni",
+      "releaseDate": "1966-12-18",
+      "externalIds": {
+        "tmdb": "1052"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/jVDVpydUw8Z50naUDAG4NbRCrSa.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-1969-if",
+      "mediaType": "movie",
+      "title": "如果",
+      "awardYear": 1969,
+      "winner": "Lindsay Anderson",
+      "releaseDate": "1968-12-19",
+      "externalIds": {
+        "tmdb": "14794"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/oqlpAGq4aXhc6ODtxBcGM1SEoIp.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-1970-m-a-s-h",
+      "mediaType": "movie",
+      "title": "陆军野战医院",
+      "awardYear": 1970,
+      "winner": "Robert Altman",
+      "releaseDate": "1970-02-18",
+      "externalIds": {
+        "tmdb": "651"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/on8Q9LhtHYNhmITjUMpgOUkIG8o.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-1971-the-go-between",
+      "mediaType": "movie",
+      "title": "幽情密使",
+      "awardYear": 1971,
+      "winner": "Joseph Losey",
+      "releaseDate": "1971-06-16",
+      "externalIds": {
+        "tmdb": "36194"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/61dXOIpDaiWCp7aIjBYkd6ujdXZ.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-1972-the-mattei-affair",
+      "mediaType": "movie",
+      "title": "马蒂事件",
+      "awardYear": 1972,
+      "winner": "Francesco Rosi",
+      "releaseDate": "1972-01-26",
+      "externalIds": {
+        "tmdb": "62382"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/p4EHDfdbgjNXmQb7WB9fYmom0s1.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-1972-the-working-class-goes-to-heaven",
+      "mediaType": "movie",
+      "title": "工人阶级上天堂",
+      "awardYear": 1972,
+      "winner": "Elio Petri",
+      "releaseDate": "1971-09-17",
+      "externalIds": {
+        "tmdb": "56231"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/gulAszCUPjuBtDd6NudgLTBu3i5.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-1973-the-hireling",
+      "mediaType": "movie",
+      "title": "爱心补情天",
+      "awardYear": 1973,
+      "winner": "Alan Bridges",
+      "releaseDate": "1973-06-10",
+      "externalIds": {
+        "tmdb": "80382"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/xlhaEmOMWFFmCx4O8oPUMlPqEpo.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-1973-scarecrow",
+      "mediaType": "movie",
+      "title": "稻草人",
+      "awardYear": 1973,
+      "winner": "Jerry Schatzberg",
+      "releaseDate": "1973-04-11",
+      "externalIds": {
+        "tmdb": "31587"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/jK0e8jLl0pp59yX6AYMyyJPnMVJ.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-1974-the-conversation",
+      "mediaType": "movie",
+      "title": "窃听大阴谋",
+      "awardYear": 1974,
+      "winner": "Francis Ford Coppola",
+      "releaseDate": "1974-04-12",
+      "externalIds": {
+        "tmdb": "592"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/dHqVBwcv1SGymOpUueRoKzcmdes.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-1975-chronicle-of-the-years-of-fire",
+      "mediaType": "movie",
+      "title": "烽火岁月志",
+      "awardYear": 1975,
+      "winner": "Mohammed Lakhdar-Hamina",
+      "releaseDate": "1975-11-26",
+      "externalIds": {
+        "tmdb": "52555"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/wtx3qqdwwp3sNANYfAFXl5tKZE6.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-1976-taxi-driver",
+      "mediaType": "movie",
+      "title": "出租车司机",
+      "awardYear": 1976,
+      "winner": "Martin Scorsese",
+      "releaseDate": "1976-02-09",
+      "externalIds": {
+        "tmdb": "103"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/ekstpH614fwDX8DUln1a2Opz0N8.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-1977-padre-padrone",
+      "mediaType": "movie",
+      "title": "我父我主",
+      "awardYear": 1977,
+      "winner": "Paolo Taviani; Vittorio Taviani",
+      "releaseDate": "1977-05-20",
+      "externalIds": {
+        "tmdb": "42225"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/6kGarhZIsbpFNcEHftRzNeuz6Sb.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-1978-the-tree-of-wooden-clogs",
+      "mediaType": "movie",
+      "title": "木屐树",
+      "awardYear": 1978,
+      "winner": "Ermanno Olmi",
+      "releaseDate": "1978-09-21",
+      "externalIds": {
+        "tmdb": "31542"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/ld4l2XWuECX6c6lWd2BWv1olg2N.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-1979-apocalypse-now",
+      "mediaType": "movie",
+      "title": "现代启示录",
+      "awardYear": 1979,
+      "winner": "Francis Ford Coppola",
+      "releaseDate": "1979-05-19",
+      "externalIds": {
+        "tmdb": "28"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-1979-the-tin-drum",
+      "mediaType": "movie",
+      "title": "铁皮鼓",
+      "awardYear": 1979,
+      "winner": "Volker Schlöndorff",
+      "releaseDate": "1979-05-02",
+      "externalIds": {
+        "tmdb": "659"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/z4QsBWJbbBxct2zU7LnYSOw8UFz.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-1980-all-that-jazz",
+      "mediaType": "movie",
+      "title": "爵士春秋",
+      "awardYear": 1980,
+      "winner": "Bob Fosse",
+      "releaseDate": "1979-12-16",
+      "externalIds": {
+        "tmdb": "16858"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/culCEdj4srLljefgn4XKd6k3C5t.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-1980-kagemusha",
+      "mediaType": "movie",
+      "title": "影武者",
+      "awardYear": 1980,
+      "winner": "Akira Kurosawa",
+      "releaseDate": "1980-04-26",
+      "externalIds": {
+        "tmdb": "11953"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/fJgqj9s8HNZz9zwX6femVJn8HEB.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-1981-man-of-iron",
+      "mediaType": "movie",
+      "title": "铁人",
+      "awardYear": 1981,
+      "winner": "Andrzej Wajda",
+      "releaseDate": "1981-07-27",
+      "externalIds": {
+        "tmdb": "225"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/22wNUqKyz2m6wzAt31f26H8Y433.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-1982-missing",
+      "mediaType": "movie",
+      "title": "大失踪",
+      "awardYear": 1982,
+      "winner": "Costa-Gavras",
+      "releaseDate": "1982-02-12",
+      "externalIds": {
+        "tmdb": "15600"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/fAAhC4RkpXu7SJgIESWQwVxcelo.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-1982-yol",
+      "mediaType": "movie",
+      "title": "自由之路",
+      "awardYear": 1982,
+      "winner": "Yılmaz Güney; Şerif Gören",
+      "releaseDate": "1982-09-01",
+      "externalIds": {
+        "tmdb": "52556"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/oblv2iaKFvrleCqBMLNHzcOCufR.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-1983-the-ballad-of-narayama",
+      "mediaType": "movie",
+      "title": "楢山节考",
+      "awardYear": 1983,
+      "winner": "Shōhei Imamura",
+      "releaseDate": "1983-04-29",
+      "externalIds": {
+        "tmdb": "42113"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/h3iNimtw6HsFTtAvEDF3XYZ4Y5T.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-1984-paris-texas",
+      "mediaType": "movie",
+      "title": "德州巴黎",
+      "awardYear": 1984,
+      "winner": "Wim Wenders",
+      "releaseDate": "1984-07-16",
+      "externalIds": {
+        "tmdb": "655"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/sP27Qm4THyRZyHjHYMfIDtJP6YE.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-1985-when-father-was-away-on-business",
+      "mediaType": "movie",
+      "title": "爸爸去出差",
+      "awardYear": 1985,
+      "winner": "Emir Kusturica",
+      "releaseDate": "1985-01-15",
+      "externalIds": {
+        "tmdb": "21042"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/jhTu6UwP32jPwiBccGAkZq0yqvV.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-1986-the-mission",
+      "mediaType": "movie",
+      "title": "教会",
+      "awardYear": 1986,
+      "winner": "Roland Joffé",
+      "releaseDate": "1986-09-06",
+      "externalIds": {
+        "tmdb": "11416"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/6K9cG6LOOtySZF4D4xBu1MApC1N.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-1987-under-the-sun-of-satan",
+      "mediaType": "movie",
+      "title": "在撒旦的阳光下",
+      "awardYear": 1987,
+      "winner": "Maurice Pialat",
+      "releaseDate": "1987-08-01",
+      "externalIds": {
+        "tmdb": "31300"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/mWqd19oWODYyHK6RHGsAdW8wtL5.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-1988-pelle-the-conqueror",
+      "mediaType": "movie",
+      "title": "征服者佩尔",
+      "awardYear": 1988,
+      "winner": "Bille August",
+      "releaseDate": "1987-12-21",
+      "externalIds": {
+        "tmdb": "11174"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/oSsu4khg459yTR1sw4qjEC4LO5J.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-1989-sex-lies-and-videotape",
+      "mediaType": "movie",
+      "title": "性、谎言和录像带",
+      "awardYear": 1989,
+      "winner": "Steven Soderbergh",
+      "releaseDate": "1989-08-04",
+      "externalIds": {
+        "tmdb": "1412"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/dE0u4uB5UPfVIdz258Ye2XEPuuh.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-1990-wild-at-heart",
+      "mediaType": "movie",
+      "title": "我心狂野",
+      "awardYear": 1990,
+      "winner": "David Lynch",
+      "releaseDate": "1990-08-17",
+      "externalIds": {
+        "tmdb": "483"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/uLUFI5sJIfWrBUWB2Y1dEuyvvVy.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-1991-barton-fink",
+      "mediaType": "movie",
+      "title": "巴顿·芬克",
+      "awardYear": 1991,
+      "winner": "Joel Coen",
+      "releaseDate": "1991-08-01",
+      "externalIds": {
+        "tmdb": "290"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/oDkp5iClJ9WKJGtKHz8BydodHC3.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-1992-the-best-intentions",
+      "mediaType": "movie",
+      "title": "善意的背叛",
+      "awardYear": 1992,
+      "winner": "Bille August",
+      "releaseDate": "1992-05-24",
+      "externalIds": {
+        "tmdb": "41764"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/kkwKpqYac8zUNNMkRTfAQfbMQWl.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-1993-farewell-my-concubine",
+      "mediaType": "movie",
+      "title": "霸王别姬",
+      "awardYear": 1993,
+      "winner": "Chen Kaige",
+      "releaseDate": "1993-01-01",
+      "externalIds": {
+        "tmdb": "10997"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/f54hNIiHNINw3JiUJB2XaQl5wCN.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-1993-the-piano",
+      "mediaType": "movie",
+      "title": "钢琴课",
+      "awardYear": 1993,
+      "winner": "Jane Campion",
+      "releaseDate": "1993-05-18",
+      "externalIds": {
+        "tmdb": "713"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/rx8RKXn8OtuS6lqloYsjyrGOUp4.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-1994-pulp-fiction",
+      "mediaType": "movie",
+      "title": "低俗小说",
+      "awardYear": 1994,
+      "winner": "Quentin Tarantino",
+      "releaseDate": "1994-09-10",
+      "externalIds": {
+        "tmdb": "680"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-1995-underground",
+      "mediaType": "movie",
+      "title": "地下",
+      "awardYear": 1995,
+      "winner": "Emir Kusturica",
+      "releaseDate": "1995-10-25",
+      "externalIds": {
+        "tmdb": "11902"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/h8N6y13t4VusrDdH5PzTkwvBvgN.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-1996-secrets-and-lies",
+      "mediaType": "movie",
+      "title": "秘密与谎言",
+      "awardYear": 1996,
+      "winner": "Mike Leigh",
+      "releaseDate": "1996-05-24",
+      "externalIds": {
+        "tmdb": "11159"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/zQBuRQ3hrLhkEsXcxteUxuxLrvs.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-1997-the-eel",
+      "mediaType": "movie",
+      "title": "鳗鱼",
+      "awardYear": 1997,
+      "winner": "Shōhei Imamura",
+      "releaseDate": "1997-05-12",
+      "externalIds": {
+        "tmdb": "20506"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/3TEzcwdF3DPeO8uSPmCfBBUhgNp.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-1997-taste-of-cherry",
+      "mediaType": "movie",
+      "title": "樱桃的滋味",
+      "awardYear": 1997,
+      "winner": "Abbas Kiarostami",
+      "releaseDate": "1997-09-28",
+      "externalIds": {
+        "tmdb": "30020"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/vgPwjgbSdbYWrS1ty8TIZtmi6Tn.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-1998-eternity-and-a-day",
+      "mediaType": "movie",
+      "title": "永恒和一日",
+      "awardYear": 1998,
+      "winner": "Theo Angelopoulos",
+      "releaseDate": "1998-10-23",
+      "externalIds": {
+        "tmdb": "24858"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/wH8sfLJCqNjsIw8zkXpvxdSzj60.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-1999-rosetta",
+      "mediaType": "movie",
+      "title": "罗塞塔",
+      "awardYear": 1999,
+      "winner": "Jean-Pierre Dardenne; Luc Dardenne",
+      "releaseDate": "1999-09-29",
+      "externalIds": {
+        "tmdb": "11489"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/buwLjQPPA9FaATvKzeAppLXiGMB.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-2000-dancer-in-the-dark",
+      "mediaType": "movie",
+      "title": "黑暗中的舞者",
+      "awardYear": 2000,
+      "winner": "Lars von Trier",
+      "releaseDate": "2000-09-01",
+      "externalIds": {
+        "tmdb": "16"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/pWzOfTJRZHPNO1VNrMnNFqRcJwg.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-2001-the-son-s-room",
+      "mediaType": "movie",
+      "title": "儿子的房间",
+      "awardYear": 2001,
+      "winner": "Nanni Moretti",
+      "releaseDate": "2001-03-09",
+      "externalIds": {
+        "tmdb": "11447"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/e9s1Hvw9TcVZspbkq2V8Bmvhky1.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-2002-the-pianist",
+      "mediaType": "movie",
+      "title": "钢琴家",
+      "awardYear": 2002,
+      "winner": "Roman Polanski",
+      "releaseDate": "2002-09-17",
+      "externalIds": {
+        "tmdb": "423"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/2hFvxCCWrTmCYwfy7yum0GKRi3Y.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-2003-elephant",
+      "mediaType": "movie",
+      "title": "大象",
+      "awardYear": 2003,
+      "winner": "Gus Van Sant",
+      "releaseDate": "2003-09-20",
+      "externalIds": {
+        "tmdb": "1807"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/1a4VU9z2hxEvugHMK7VsobB9xTX.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-2004-fahrenheit-9-11",
+      "mediaType": "movie",
+      "title": "华氏911",
+      "awardYear": 2004,
+      "winner": "Michael Moore",
+      "releaseDate": "2004-06-25",
+      "externalIds": {
+        "tmdb": "1777"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/cZ7M343iuiMDc36fSeSm699XQFv.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-2005-l-enfant",
+      "mediaType": "movie",
+      "title": "孩子",
+      "awardYear": 2005,
+      "winner": "Jean-Pierre Dardenne; Luc Dardenne",
+      "releaseDate": "2005-09-14",
+      "externalIds": {
+        "tmdb": "11490"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/dk7ZpsVKLt2nwjQZZIde0WP4oQV.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-2006-the-wind-that-shakes-the-barley",
+      "mediaType": "movie",
+      "title": "风吹麦浪",
+      "awardYear": 2006,
+      "winner": "Ken Loach",
+      "releaseDate": "2006-06-23",
+      "externalIds": {
+        "tmdb": "1116"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/yCb4LweL6U7KTgSda3Wb7vHiA9J.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-2007-4-months-3-weeks-and-2-days",
+      "mediaType": "movie",
+      "title": "四月三周两天",
+      "awardYear": 2007,
+      "winner": "Cristian Mungiu",
+      "releaseDate": "2007-08-24",
+      "externalIds": {
+        "tmdb": "2009"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/acEtvzFPeOQwbzRWncjRLenhnKV.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-2008-the-class",
+      "mediaType": "movie",
+      "title": "墙壁之间",
+      "awardYear": 2008,
+      "winner": "Laurent Cantet",
+      "releaseDate": "2008-09-24",
+      "externalIds": {
+        "tmdb": "8841"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/8yFgK1YgfrnbsRXTg4Hko98nIUt.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-2009-the-white-ribbon",
+      "mediaType": "movie",
+      "title": "白丝带",
+      "awardYear": 2009,
+      "winner": "Michael Haneke",
+      "releaseDate": "2009-09-24",
+      "externalIds": {
+        "tmdb": "37903"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/54dlnGDexrwAFlDb8HWKfmmX4LB.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-2010-uncle-boonmee-who-can-recall-his-past-lives",
+      "mediaType": "movie",
+      "title": "能召回前世的布米叔叔",
+      "awardYear": 2010,
+      "winner": "Apichatpong Weerasethakul",
+      "releaseDate": "2010-06-25",
+      "externalIds": {
+        "tmdb": "38368"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/kPFkC9EBvllCIuDTR7A0DSEK6gJ.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-2011-the-tree-of-life",
+      "mediaType": "movie",
+      "title": "生命之树",
+      "awardYear": 2011,
+      "winner": "Terrence Malick",
+      "releaseDate": "2011-05-17",
+      "externalIds": {
+        "tmdb": "8967"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/l8cwuB5WJSoj4uMAsnzuHBOMaSJ.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-2012-amour",
+      "mediaType": "movie",
+      "title": "爱",
+      "awardYear": 2012,
+      "winner": "Michael Haneke",
+      "releaseDate": "2012-09-20",
+      "externalIds": {
+        "tmdb": "86837"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/19hyCudualHxCD0GrEngqsi0wBF.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-2013-blue-is-the-warmest-colour",
+      "mediaType": "movie",
+      "title": "阿黛尔的生活",
+      "awardYear": 2013,
+      "winner": "Abdellatif Kechiche; Adèle Exarchopoulos; Léa Seydoux",
+      "releaseDate": "2013-10-09",
+      "externalIds": {
+        "tmdb": "152584"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/kgUk1wti2cvrptIgUz0VTAtSF6w.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-2014-winter-sleep",
+      "mediaType": "movie",
+      "title": "冬眠",
+      "awardYear": 2014,
+      "winner": "Nuri Bilge Ceylan",
+      "releaseDate": "2014-06-13",
+      "externalIds": {
+        "tmdb": "265169"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/95j83qOqH3Ivz4RYkaSjGT0VSNr.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-2015-dheepan",
+      "mediaType": "movie",
+      "title": "流浪的迪潘",
+      "awardYear": 2015,
+      "winner": "Jacques Audiard",
+      "releaseDate": "2015-08-26",
+      "externalIds": {
+        "tmdb": "314402"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/80wJKQZYa9FHrxfaTVxXePmXni7.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-2016-i-daniel-blake",
+      "mediaType": "movie",
+      "title": "我是布莱克",
+      "awardYear": 2016,
+      "winner": "Ken Loach",
+      "releaseDate": "2016-10-21",
+      "externalIds": {
+        "tmdb": "374473"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/nu3WVABXz2W85N6JXTZOT1aWS3b.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-2017-the-square",
+      "mediaType": "movie",
+      "title": "方形",
+      "awardYear": 2017,
+      "winner": "Ruben Östlund",
+      "releaseDate": "2017-08-25",
+      "externalIds": {
+        "tmdb": "401246"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/pefcv5VNspSK4Dt8doei5bJmmln.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-2018-shoplifters",
+      "mediaType": "movie",
+      "title": "小偷家族",
+      "awardYear": 2018,
+      "winner": "Hirokazu Kore-eda",
+      "releaseDate": "2018-06-02",
+      "externalIds": {
+        "tmdb": "505192"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/4nfRUOv3LX5zLn98WS1WqVBk9E9.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-2019-parasite",
+      "mediaType": "movie",
+      "title": "寄生虫",
+      "awardYear": 2019,
+      "winner": "Bong Joon Ho",
+      "releaseDate": "2019-05-30",
+      "externalIds": {
+        "tmdb": "496243"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-2021-titane",
+      "mediaType": "movie",
+      "title": "钛",
+      "awardYear": 2021,
+      "winner": "Julia Ducournau",
+      "releaseDate": "2021-07-14",
+      "externalIds": {
+        "tmdb": "630240"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/mBlpouG3gqB8WLdP65LCOXb3jFb.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-2022-triangle-of-sadness",
+      "mediaType": "movie",
+      "title": "悲情三角",
+      "awardYear": 2022,
+      "winner": "Ruben Östlund",
+      "releaseDate": "2022-09-18",
+      "externalIds": {
+        "tmdb": "497828"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/k9eLozCgCed5FGTSdHu0bBElAV8.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-2023-anatomy-of-a-fall",
+      "mediaType": "movie",
+      "title": "坠落的审判",
+      "awardYear": 2023,
+      "winner": "Justine Triet",
+      "releaseDate": "2023-08-23",
+      "externalIds": {
+        "tmdb": "915935"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/1ho0d4LNZw3Y0voeKmSvPSgJOJ2.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-2024-anora",
+      "mediaType": "movie",
+      "title": "阿诺拉",
+      "awardYear": 2024,
+      "winner": "Sean Baker",
+      "releaseDate": "2024-10-14",
+      "externalIds": {
+        "tmdb": "1064213"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/cgXk2tNYhJZLXdBDO5DidAVzQ82.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-2025-it-was-just-an-accident",
+      "mediaType": "movie",
+      "title": "普通事故",
+      "awardYear": 2025,
+      "winner": "Jafar Panahi",
+      "releaseDate": "2025-10-01",
+      "externalIds": {
+        "tmdb": "1456349"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/eNYGj2DG3n8OrVPTfYunpPW9uas.jpg"
+    },
+    {
+      "id": "cannes-palme-dor-2026-fjord",
+      "mediaType": "movie",
+      "title": "峡湾",
+      "awardYear": 2026,
+      "winner": "Cristian Mungiu",
+      "releaseDate": "2026-06-13",
+      "externalIds": {
+        "tmdb": "1401459"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/3PPPIeSdeivjUn3O9RahGiaJ9b8.jpg"
+    }
+  ]
+}

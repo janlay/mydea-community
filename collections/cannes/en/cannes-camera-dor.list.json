@@ -1,0 +1,601 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "OpenAI",
+  "server": "TMDB",
+  "updatedAt": "2026-09-06T16:01:44Z",
+  "description": "Cannes Film Festival Caméra d'Or winning films.",
+  "title": "Cannes — Caméra d'Or",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "title with Year"
+  ],
+  "items": [
+    {
+      "id": "cannes-camera-dor-1978-alambrista",
+      "mediaType": "movie",
+      "title": "Alambrista!",
+      "awardYear": 1978,
+      "winner": "Robert M. Young",
+      "releaseDate": "1977-10-16",
+      "externalIds": {
+        "tmdb": "86975"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/dubpRwUF73rh99FkpR4xz41XrzR.jpg"
+    },
+    {
+      "id": "cannes-camera-dor-1979-northern-lights",
+      "mediaType": "movie",
+      "title": "Northern Lights",
+      "awardYear": 1979,
+      "winner": "John Hanson; Rob Nilsson",
+      "releaseDate": "1978-11-17",
+      "externalIds": {
+        "tmdb": "226749"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/14SprxFpIxsqfGkxgYoutxYGZzE.jpg"
+    },
+    {
+      "id": "cannes-camera-dor-1980-adrien-s-story",
+      "mediaType": "movie",
+      "title": "Adrien's Story",
+      "awardYear": 1980,
+      "winner": "Jean-Pierre Denis",
+      "releaseDate": "1980-01-14",
+      "externalIds": {
+        "tmdb": "66810"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/l6hWkbmHQGzkWqdpDpfE6O3ywuC.jpg"
+    },
+    {
+      "id": "cannes-camera-dor-1981-desperado-city",
+      "mediaType": "movie",
+      "title": "Desperado City",
+      "awardYear": 1981,
+      "winner": "Vadim Glowna",
+      "releaseDate": "1982-04-29",
+      "externalIds": {
+        "tmdb": "264162"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/52R9ZsCPtnKXFpldEnB5a1LwExu.jpg"
+    },
+    {
+      "id": "cannes-camera-dor-1982-half-a-life",
+      "mediaType": "movie",
+      "title": "Half a Life",
+      "awardYear": 1982,
+      "winner": "Romain Goupil",
+      "releaseDate": "1982-06-09",
+      "externalIds": {
+        "tmdb": "118136"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/24cNufb9iRXqNuDy9uEbCHrceow.jpg"
+    },
+    {
+      "id": "cannes-camera-dor-1983-the-princess",
+      "mediaType": "movie",
+      "title": "The Princess",
+      "awardYear": 1983,
+      "winner": "Pál Erdőss",
+      "releaseDate": "1983-08-01",
+      "externalIds": {
+        "tmdb": "767908"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/A1GNjQ9x33b4DmTU1fbwkCYelKg.jpg"
+    },
+    {
+      "id": "cannes-camera-dor-1984-stranger-than-paradise",
+      "mediaType": "movie",
+      "title": "Stranger Than Paradise",
+      "awardYear": 1984,
+      "winner": "Jim Jarmusch",
+      "releaseDate": "1984-10-01",
+      "externalIds": {
+        "tmdb": "469"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/Q9wdlNjBOti4JhAjAQXphzShw3.jpg"
+    },
+    {
+      "id": "cannes-camera-dor-1985-oriana",
+      "mediaType": "movie",
+      "title": "Oriana",
+      "awardYear": 1985,
+      "winner": "Fina Torres",
+      "releaseDate": "1985-09-08",
+      "externalIds": {
+        "tmdb": "96419"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/lMqaSvi3ayuVdJCEczQsglqoL74.jpg"
+    },
+    {
+      "id": "cannes-camera-dor-1986-noir-et-blanc",
+      "mediaType": "movie",
+      "title": "Noir et Blanc",
+      "awardYear": 1986,
+      "winner": "Claire Devers",
+      "releaseDate": "1986-03-12",
+      "externalIds": {
+        "tmdb": "49791"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/fD8cv3AVQAjtFHkqgitGZnV5hGf.jpg"
+    },
+    {
+      "id": "cannes-camera-dor-1987-robinson-crusoe-in-georgia",
+      "mediaType": "movie",
+      "title": "Robinson Crusoe in Georgia",
+      "awardYear": 1987,
+      "winner": "Nana Dzhordzhadze"
+    },
+    {
+      "id": "cannes-camera-dor-1988-salaam-bombay",
+      "mediaType": "movie",
+      "title": "Salaam Bombay!",
+      "awardYear": 1988,
+      "winner": "Mira Nair",
+      "releaseDate": "1988-08-24",
+      "externalIds": {
+        "tmdb": "45129"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/405GFXA7NKwVxqP9WHD5RaKZ84C.jpg"
+    },
+    {
+      "id": "cannes-camera-dor-1989-my-20th-century",
+      "mediaType": "movie",
+      "title": "My 20th Century",
+      "awardYear": 1989,
+      "winner": "Ildikó Enyedi"
+    },
+    {
+      "id": "cannes-camera-dor-1990-freeze-die-come-to-life",
+      "mediaType": "movie",
+      "title": "Freeze Die Come to Life",
+      "awardYear": 1990,
+      "winner": "Vitali Kanevsky",
+      "releaseDate": "1990-08-01",
+      "externalIds": {
+        "tmdb": "41948"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/nRD6y547nWjlD9enAwsGP0lbsis.jpg"
+    },
+    {
+      "id": "cannes-camera-dor-1991-toto-the-hero",
+      "mediaType": "movie",
+      "title": "Toto the Hero",
+      "awardYear": 1991,
+      "winner": "Jaco Van Dormael",
+      "releaseDate": "1991-05-17",
+      "externalIds": {
+        "tmdb": "56321"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/fxIzSyOMrOFxwCIWIW4bwtgMpds.jpg"
+    },
+    {
+      "id": "cannes-camera-dor-1992-mac",
+      "mediaType": "movie",
+      "title": "Mac",
+      "awardYear": 1992,
+      "winner": "John Turturro",
+      "releaseDate": "1992-09-17",
+      "externalIds": {
+        "tmdb": "111883"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/raJlCVdCH3mNDrvFoeejezfTlC0.jpg"
+    },
+    {
+      "id": "cannes-camera-dor-1993-the-scent-of-green-papaya",
+      "mediaType": "movie",
+      "title": "The Scent of Green Papaya",
+      "awardYear": 1993,
+      "winner": "Tran Anh Hung",
+      "releaseDate": "1993-06-08",
+      "externalIds": {
+        "tmdb": "19552"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/4Pqvx6cuzF2XQrHUrIPUBVXugc3.jpg"
+    },
+    {
+      "id": "cannes-camera-dor-1994-coming-to-terms-with-the-dead",
+      "mediaType": "movie",
+      "title": "Coming to Terms with the Dead",
+      "awardYear": 1994,
+      "winner": "Pascale Ferran",
+      "releaseDate": "1994-10-05",
+      "externalIds": {
+        "tmdb": "64573"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/iExwsf8wZcbwYqjtXksUyoKJrEm.jpg"
+    },
+    {
+      "id": "cannes-camera-dor-1995-the-white-balloon",
+      "mediaType": "movie",
+      "title": "The White Balloon",
+      "awardYear": 1995,
+      "winner": "Jafar Panahi",
+      "releaseDate": "1995-01-02",
+      "externalIds": {
+        "tmdb": "46785"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/bamJR4MwtQDMdWkjVAPojfwOjY4.jpg"
+    },
+    {
+      "id": "cannes-camera-dor-1996-love-serenade",
+      "mediaType": "movie",
+      "title": "Love Serenade",
+      "awardYear": 1996,
+      "winner": "Shirley Barrett",
+      "releaseDate": "1996-10-10",
+      "externalIds": {
+        "tmdb": "65046"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/fXBWYmK9MybKhqvmyj57KyFEcq3.jpg"
+    },
+    {
+      "id": "cannes-camera-dor-1997-suzaku",
+      "mediaType": "movie",
+      "title": "Suzaku",
+      "awardYear": 1997,
+      "winner": "Naomi Kawase",
+      "releaseDate": "1997-11-01",
+      "externalIds": {
+        "tmdb": "36895"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/fdHiWTfFWt5v1gYlOTqaqhs4lZM.jpg"
+    },
+    {
+      "id": "cannes-camera-dor-1998-slam",
+      "mediaType": "movie",
+      "title": "Slam",
+      "awardYear": 1998,
+      "winner": "Marc Levin",
+      "releaseDate": "1998-10-07",
+      "externalIds": {
+        "tmdb": "37532"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/qU0QR2ax1hyjfACni4Clgsc5YyX.jpg"
+    },
+    {
+      "id": "cannes-camera-dor-1999-marana-simhasanam",
+      "mediaType": "movie",
+      "title": "Marana Simhasanam",
+      "awardYear": 1999,
+      "winner": "Murali Nair"
+    },
+    {
+      "id": "cannes-camera-dor-2000-djomeh",
+      "mediaType": "movie",
+      "title": "Djomeh",
+      "awardYear": 2000,
+      "winner": "Hassan Yektapanah",
+      "releaseDate": "2000-05-21",
+      "externalIds": {
+        "tmdb": "47161"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/z6abeHmE7StRSDJAYCd28bu4vaS.jpg"
+    },
+    {
+      "id": "cannes-camera-dor-2000-a-time-for-drunken-horses",
+      "mediaType": "movie",
+      "title": "A Time for Drunken Horses",
+      "awardYear": 2000,
+      "winner": "Bahman Ghobadi",
+      "releaseDate": "2000-09-13",
+      "externalIds": {
+        "tmdb": "29270"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/hQv7sCP0FddDwVo243Fpf32u4uR.jpg"
+    },
+    {
+      "id": "cannes-camera-dor-2001-atanarjuat-the-fast-runner",
+      "mediaType": "movie",
+      "title": "Atanarjuat: The Fast Runner",
+      "awardYear": 2001,
+      "winner": "Zacharias Kunuk",
+      "releaseDate": "2002-02-01",
+      "externalIds": {
+        "tmdb": "13245"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/jSGiFOTwosoiAAXLTLHtzMUCVUN.jpg"
+    },
+    {
+      "id": "cannes-camera-dor-2002-seaside",
+      "mediaType": "movie",
+      "title": "Seaside",
+      "awardYear": 2002,
+      "winner": "Julie Lopes-Curval",
+      "releaseDate": "2002-12-04",
+      "externalIds": {
+        "tmdb": "125952"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/6YuYFgywFJVBvSlKqmp6RwM6aDd.jpg"
+    },
+    {
+      "id": "cannes-camera-dor-2003-reconstruction",
+      "mediaType": "movie",
+      "title": "Reconstruction",
+      "awardYear": 2003,
+      "winner": "Christoffer Boe",
+      "releaseDate": "2003-05-17",
+      "externalIds": {
+        "tmdb": "29456"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/fWke9pUnvJ1S3LRL5b0CDs621Pa.jpg"
+    },
+    {
+      "id": "cannes-camera-dor-2004-or-my-treasure",
+      "mediaType": "movie",
+      "title": "Or (My Treasure)",
+      "awardYear": 2004,
+      "winner": "Keren Yedaya",
+      "releaseDate": "2004-06-29",
+      "externalIds": {
+        "tmdb": "1918"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/mZfpWNAVK4Y8SsSnx0bu0sVdUb7.jpg"
+    },
+    {
+      "id": "cannes-camera-dor-2005-me-and-you-and-everyone-we-know",
+      "mediaType": "movie",
+      "title": "Me and You and Everyone We Know",
+      "awardYear": 2005,
+      "winner": "Miranda July",
+      "releaseDate": "2005-05-12",
+      "externalIds": {
+        "tmdb": "1382"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/hrj9VsInHnqSDBhEc2FvY0qd79F.jpg"
+    },
+    {
+      "id": "cannes-camera-dor-2005-the-forsaken-land",
+      "mediaType": "movie",
+      "title": "The Forsaken Land",
+      "awardYear": 2005,
+      "winner": "Vimukthi Jayasundara",
+      "releaseDate": "2005-05-14",
+      "externalIds": {
+        "tmdb": "83221"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/hRPCWykVJfC2qMNRiOPXrOLPZDo.jpg"
+    },
+    {
+      "id": "cannes-camera-dor-2006-12-08-east-of-bucharest",
+      "mediaType": "movie",
+      "title": "12:08 East of Bucharest",
+      "awardYear": 2006,
+      "winner": "Corneliu Porumboiu",
+      "releaseDate": "2006-09-29",
+      "externalIds": {
+        "tmdb": "24159"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/a7bBUXKWzhtqaPDyksOebSHeD6N.jpg"
+    },
+    {
+      "id": "cannes-camera-dor-2007-jellyfish",
+      "mediaType": "movie",
+      "title": "Jellyfish",
+      "awardYear": 2007,
+      "winner": "Etgar Keret; Shira Geffen",
+      "releaseDate": "2007-06-28",
+      "externalIds": {
+        "tmdb": "6391"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/hTCagyFazmGez993bLX9XgG3GiP.jpg"
+    },
+    {
+      "id": "cannes-camera-dor-2008-hunger",
+      "mediaType": "movie",
+      "title": "Hunger",
+      "awardYear": 2008,
+      "winner": "Steve McQueen",
+      "releaseDate": "1966-08-19",
+      "externalIds": {
+        "tmdb": "76235"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/yyMiQ6YoxvySq3bjZLh0TaNd5C1.jpg"
+    },
+    {
+      "id": "cannes-camera-dor-2009-samson-and-delilah",
+      "mediaType": "movie",
+      "title": "Samson and Delilah",
+      "awardYear": 2009,
+      "winner": "Warwick Thornton",
+      "releaseDate": "2009-05-07",
+      "externalIds": {
+        "tmdb": "47075"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/w5BD4rNvGthCZSoJzJsIO8bQJhA.jpg"
+    },
+    {
+      "id": "cannes-camera-dor-2010-ano-bisiesto",
+      "mediaType": "movie",
+      "title": "Año Bisiesto",
+      "awardYear": 2010,
+      "winner": "Michael Rowe",
+      "releaseDate": "2010-05-17",
+      "externalIds": {
+        "tmdb": "63555"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/mpqI90MK7aI5RP5uvDr7gKHyCJ4.jpg"
+    },
+    {
+      "id": "cannes-camera-dor-2011-las-acacias",
+      "mediaType": "movie",
+      "title": "Las Acacias",
+      "awardYear": 2011,
+      "winner": "Pablo Giorgelli",
+      "releaseDate": "2011-10-14",
+      "externalIds": {
+        "tmdb": "85549"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/waAb5FlGzmo7TkCNA0t1P0aymQW.jpg"
+    },
+    {
+      "id": "cannes-camera-dor-2012-beasts-of-the-southern-wild",
+      "mediaType": "movie",
+      "title": "Beasts of the Southern Wild",
+      "awardYear": 2012,
+      "winner": "Benh Zeitlin",
+      "releaseDate": "2012-06-29",
+      "externalIds": {
+        "tmdb": "84175"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/nQJmWekGYlXhezGUb21xFfEfwhH.jpg"
+    },
+    {
+      "id": "cannes-camera-dor-2013-ilo-ilo",
+      "mediaType": "movie",
+      "title": "Ilo Ilo",
+      "awardYear": 2013,
+      "winner": "Anthony Chen",
+      "releaseDate": "2013-08-29",
+      "externalIds": {
+        "tmdb": "188598"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/AfVMrZHiZQW8ONm6Rok3afvHbXB.jpg"
+    },
+    {
+      "id": "cannes-camera-dor-2014-party-girl",
+      "mediaType": "movie",
+      "title": "Party Girl",
+      "awardYear": 2014,
+      "winner": "Marie Amachoukeli; Claire Burger; Samuel Theis",
+      "releaseDate": "2014-08-27",
+      "externalIds": {
+        "tmdb": "266030"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/woul0s4PWeTRbeQH4TdBqOr19Gq.jpg"
+    },
+    {
+      "id": "cannes-camera-dor-2015-land-and-shade",
+      "mediaType": "movie",
+      "title": "Land and Shade",
+      "awardYear": 2015,
+      "winner": "César Augusto Acevedo",
+      "releaseDate": "2015-07-23",
+      "externalIds": {
+        "tmdb": "336669"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/se4W7dzlEFGpQYge73Nx9IfMh5P.jpg"
+    },
+    {
+      "id": "cannes-camera-dor-2016-divines",
+      "mediaType": "movie",
+      "title": "Divines",
+      "awardYear": 2016,
+      "winner": "Houda Benyamina",
+      "releaseDate": "2016-08-31",
+      "externalIds": {
+        "tmdb": "393729"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/gOwIZPNFstt9BWUyekMzSF2Wzd1.jpg"
+    },
+    {
+      "id": "cannes-camera-dor-2017-montparnasse-bienvenue",
+      "mediaType": "movie",
+      "title": "Montparnasse Bienvenue",
+      "awardYear": 2017,
+      "winner": "Léonor Serraille"
+    },
+    {
+      "id": "cannes-camera-dor-2018-girl",
+      "mediaType": "movie",
+      "title": "Girl",
+      "awardYear": 2018,
+      "winner": "Lukas Dhont",
+      "releaseDate": "2018-09-18",
+      "externalIds": {
+        "tmdb": "515916"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/a6WKjZ1eHrKV8u1DYqjW4yUPuC.jpg"
+    },
+    {
+      "id": "cannes-camera-dor-2019-our-mothers",
+      "mediaType": "movie",
+      "title": "Our Mothers",
+      "awardYear": 2019,
+      "winner": "César Diaz",
+      "releaseDate": "2019-10-04",
+      "externalIds": {
+        "tmdb": "596873"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/lhx8o5cIEibvkoz2EVtWXGEjcEn.jpg"
+    },
+    {
+      "id": "cannes-camera-dor-2021-murina",
+      "mediaType": "movie",
+      "title": "Murina",
+      "awardYear": 2021,
+      "winner": "Antoneta Alamat Kusijanović",
+      "releaseDate": "2022-04-08",
+      "externalIds": {
+        "tmdb": "838148"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/gK51yeJpaSFjQhBZdljYYiBXBTS.jpg"
+    },
+    {
+      "id": "cannes-camera-dor-2022-war-pony",
+      "mediaType": "movie",
+      "title": "War Pony",
+      "awardYear": 2022,
+      "winner": "Riley Keough; Gina Gammell",
+      "releaseDate": "2023-05-10",
+      "externalIds": {
+        "tmdb": "962566"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/oN2NCnVq0FTHvvIxKBEEJy8dhrr.jpg"
+    },
+    {
+      "id": "cannes-camera-dor-2023-inside-the-yellow-cocoon-shell",
+      "mediaType": "movie",
+      "title": "Inside the Yellow Cocoon Shell",
+      "awardYear": 2023,
+      "winner": "Pham Thien An",
+      "releaseDate": "2023-08-11",
+      "externalIds": {
+        "tmdb": "1114816"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/7k1QaP44m4jpavnmn1G1Fs2mGFD.jpg"
+    },
+    {
+      "id": "cannes-camera-dor-2024-armand",
+      "mediaType": "movie",
+      "title": "Armand",
+      "awardYear": 2024,
+      "winner": "Halfdan Ullmann Tøndel",
+      "releaseDate": "2024-09-27",
+      "externalIds": {
+        "tmdb": "1144681"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/sC4H6dsiN8kpTzPowfL9S5kugg0.jpg"
+    },
+    {
+      "id": "cannes-camera-dor-2025-the-president-s-cake",
+      "mediaType": "movie",
+      "title": "The President's Cake",
+      "awardYear": 2025,
+      "winner": "Hasan Hadi",
+      "releaseDate": "2026-01-22",
+      "externalIds": {
+        "tmdb": "1464883"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/uSrozVUxIUaer6FIUHHFtOdbqj8.jpg"
+    },
+    {
+      "id": "cannes-camera-dor-2026-ben-imana",
+      "mediaType": "movie",
+      "title": "Ben'Imana",
+      "awardYear": 2026,
+      "winner": "Marie Clémentine Dusabejambo",
+      "releaseDate": "2027-02-03",
+      "externalIds": {
+        "tmdb": "1405200"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/qUBear4cXvzYMEx7WzpUIW8yLJ4.jpg"
+    }
+  ]
+}

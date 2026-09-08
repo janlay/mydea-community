@@ -1,0 +1,154 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T05:03:58Z",
+  "title": "아카데미상 2025 수상 목록",
+  "description": "제97회 아카데미상 주요 영화 부문의 수상작과 수상자.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "oscars-2025-best-picture-anora",
+      "mediaType": "movie",
+      "title": "Anora",
+      "award": "작품상",
+      "awardYear": 2025,
+      "awardOrder": 1,
+      "winner": "Alex Coco, Samantha Quan & Sean Baker",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt28607951"
+      }
+    },
+    {
+      "id": "oscars-2025-best-director-anora",
+      "mediaType": "movie",
+      "title": "Anora",
+      "award": "감독상",
+      "awardYear": 2025,
+      "awardOrder": 2,
+      "winner": "Sean Baker",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt28607951"
+      }
+    },
+    {
+      "id": "oscars-2025-best-actor-the-brutalist",
+      "mediaType": "movie",
+      "title": "The Brutalist",
+      "award": "남우주연상",
+      "awardYear": 2025,
+      "awardOrder": 3,
+      "winner": "Adrien Brody",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt8999762"
+      }
+    },
+    {
+      "id": "oscars-2025-best-actress-anora",
+      "mediaType": "movie",
+      "title": "Anora",
+      "award": "여우주연상",
+      "awardYear": 2025,
+      "awardOrder": 4,
+      "winner": "Mikey Madison",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt28607951"
+      }
+    },
+    {
+      "id": "oscars-2025-best-supporting-actor-a-real-pain",
+      "mediaType": "movie",
+      "title": "A Real Pain",
+      "award": "남우조연상",
+      "awardYear": 2025,
+      "awardOrder": 5,
+      "winner": "Kieran Culkin",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt21823606"
+      }
+    },
+    {
+      "id": "oscars-2025-best-supporting-actress-emilia-p-rez",
+      "mediaType": "movie",
+      "title": "Emilia Pérez",
+      "award": "여우조연상",
+      "awardYear": 2025,
+      "awardOrder": 6,
+      "winner": "Zoe Saldaña",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt20221436"
+      }
+    },
+    {
+      "id": "oscars-2025-best-original-screenplay-anora",
+      "mediaType": "movie",
+      "title": "Anora",
+      "award": "각본상",
+      "awardYear": 2025,
+      "awardOrder": 7,
+      "winner": "Sean Baker",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt28607951"
+      }
+    },
+    {
+      "id": "oscars-2025-best-adapted-screenplay-conclave",
+      "mediaType": "movie",
+      "title": "Conclave",
+      "award": "각색상",
+      "awardYear": 2025,
+      "awardOrder": 8,
+      "winner": "Peter Straughan",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt20215234"
+      }
+    },
+    {
+      "id": "oscars-2025-best-animated-feature-flow",
+      "mediaType": "movie",
+      "title": "Flow",
+      "award": "장편 애니메이션상",
+      "awardYear": 2025,
+      "awardOrder": 9,
+      "winner": "Gints Zilbalodis, Matīss Kaža, Ron Dyens & Gregory Zalcman",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt4772188"
+      }
+    },
+    {
+      "id": "oscars-2025-best-international-feature-i-m-still-here",
+      "mediaType": "movie",
+      "title": "I'm Still Here",
+      "award": "국제장편영화상",
+      "awardYear": 2025,
+      "awardOrder": 10,
+      "winner": "Brazil",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt14961016"
+      }
+    }
+  ]
+}

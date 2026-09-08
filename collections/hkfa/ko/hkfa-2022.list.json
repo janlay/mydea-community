@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "title": "2022 홍콩 영화 금상장 수상작",
+  "description": "2022년 홍콩 영화 금상장 주요 부문 수상작과 수상자.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "hkfa-2022-best-film-8165192",
+      "mediaType": "movie",
+      "title": "레이징 파이어",
+      "awardYear": 2022,
+      "winner": "《레이징 파이어》",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt8165192"
+      },
+      "award": "최우수 작품상",
+      "awardOrder": 1,
+      "originalTitle": "怒火"
+    },
+    {
+      "id": "hkfa-2022-best-director-8165192",
+      "mediaType": "movie",
+      "title": "레이징 파이어",
+      "awardYear": 2022,
+      "winner": "陳木勝",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt8165192"
+      },
+      "award": "감독상",
+      "awardOrder": 2,
+      "originalTitle": "怒火"
+    },
+    {
+      "id": "hkfa-2022-best-screenplay-14032696",
+      "mediaType": "movie",
+      "title": "림보",
+      "awardYear": 2022,
+      "winner": "歐健兒、岑君茜",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14032696"
+      },
+      "award": "각본상",
+      "awardOrder": 3,
+      "originalTitle": "智齒"
+    },
+    {
+      "id": "hkfa-2022-best-actor-14713814",
+      "mediaType": "movie",
+      "title": "殺出個黃昏",
+      "awardYear": 2022,
+      "winner": "謝賢",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14713814"
+      },
+      "award": "남우주연상",
+      "awardOrder": 4
+    },
+    {
+      "id": "hkfa-2022-best-actress-14032696",
+      "mediaType": "movie",
+      "title": "림보",
+      "awardYear": 2022,
+      "winner": "류야써",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14032696"
+      },
+      "award": "여우주연상",
+      "awardOrder": 5,
+      "originalTitle": "智齒"
+    },
+    {
+      "id": "hkfa-2022-best-supporting-actor-14892216",
+      "mediaType": "movie",
+      "title": "媽媽的神奇小子",
+      "awardYear": 2022,
+      "winner": "馮皓揚",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14892216"
+      },
+      "award": "남우조연상",
+      "awardOrder": 6
+    },
+    {
+      "id": "hkfa-2022-best-supporting-actress-15010590",
+      "mediaType": "movie",
+      "title": "아니타",
+      "awardYear": 2022,
+      "winner": "랴오쯔위",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt15010590"
+      },
+      "award": "여우조연상",
+      "awardOrder": 7,
+      "originalTitle": "梅艷芳"
+    },
+    {
+      "id": "hkfa-2022-best-new-performer-15010590",
+      "mediaType": "movie",
+      "title": "아니타",
+      "awardYear": 2022,
+      "winner": "王丹妮",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt15010590"
+      },
+      "award": "신인상",
+      "awardOrder": 8,
+      "originalTitle": "梅艷芳"
+    }
+  ],
+  "updatedAt": "2026-09-12T02:57:20Z"
+}

@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "ChatGPT",
+  "title": "百想藝術大賞 — 電視最佳女主角",
+  "description": "2017–2026 年百想藝術大賞電視最佳女主角獲獎記錄。",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "baeksang-tv-actress.list.json"
+    }
+  ]
+}

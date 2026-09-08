@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "Mydea",
+  "title": "Venice — Best Screenplay",
+  "description": "Historical Venice International Film Festival Best Screenplay winners, including predecessor/equivalent forms where applicable.",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "venice-best-screenplay.list.json"
+    }
+  ]
+}

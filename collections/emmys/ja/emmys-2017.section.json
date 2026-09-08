@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "ChatGPT",
+  "title": "プライムタイム・エミー賞 2017 受賞一覧",
+  "description": "第69回プライムタイム・エミー賞の主要部門受賞記録。",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "emmys-2017.list.json"
+    }
+  ]
+}

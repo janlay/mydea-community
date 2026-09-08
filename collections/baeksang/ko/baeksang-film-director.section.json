@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "ChatGPT",
+  "title": "백상예술대상 — 영화부문 감독상",
+  "description": "2017–2026년 백상예술대상 영화부문 감독상 수상 기록.",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "baeksang-film-director.list.json"
+    }
+  ]
+}

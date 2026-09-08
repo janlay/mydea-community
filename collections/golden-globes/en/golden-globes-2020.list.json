@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "Golden Globes 2020",
+  "description": "Major film and television program winners at the 2020 Golden Globes.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "golden-globes-2020-drama-1917",
+      "mediaType": "movie",
+      "title": "1917",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt8579674"
+      },
+      "award": "Best Motion Picture – Drama",
+      "awardYear": 2020,
+      "awardOrder": 1,
+      "winner": "1917"
+    },
+    {
+      "id": "golden-globes-2020-comedy-once-upon-a-time-in-hollywood",
+      "mediaType": "movie",
+      "title": "Once Upon a Time... in Hollywood",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt7131622"
+      },
+      "award": "Best Motion Picture – Musical or Comedy",
+      "awardYear": 2020,
+      "awardOrder": 2,
+      "winner": "Once Upon a Time... in Hollywood"
+    },
+    {
+      "id": "golden-globes-2020-animated-missing-link",
+      "mediaType": "movie",
+      "title": "Missing Link",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6348138"
+      },
+      "award": "Best Motion Picture – Animated",
+      "awardYear": 2020,
+      "awardOrder": 3,
+      "winner": "Missing Link"
+    },
+    {
+      "id": "golden-globes-2020-foreign-parasite",
+      "mediaType": "movie",
+      "title": "Parasite",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6751668"
+      },
+      "award": "Best Motion Picture – Non-English Language",
+      "awardYear": 2020,
+      "awardOrder": 4,
+      "winner": "Parasite"
+    },
+    {
+      "id": "golden-globes-2020-tv_drama-succession",
+      "mediaType": "tv",
+      "title": "Succession",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7660850"
+      },
+      "award": "Best Television Series – Drama",
+      "awardYear": 2020,
+      "awardOrder": 5,
+      "winner": "Succession"
+    },
+    {
+      "id": "golden-globes-2020-tv_comedy-fleabag",
+      "mediaType": "tv",
+      "title": "Fleabag",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5687612"
+      },
+      "award": "Best Television Series – Musical or Comedy",
+      "awardYear": 2020,
+      "awardOrder": 6,
+      "winner": "Fleabag"
+    },
+    {
+      "id": "golden-globes-2020-limited-chernobyl",
+      "mediaType": "tv",
+      "title": "Chernobyl",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt7366338"
+      },
+      "award": "Best Television Limited Series, Anthology Series or Motion Picture Made for Television",
+      "awardYear": 2020,
+      "awardOrder": 7,
+      "winner": "Chernobyl"
+    }
+  ]
+}

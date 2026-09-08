@@ -1,0 +1,193 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T03:47:39Z",
+  "title": "Toronto — 2021",
+  "description": "Film award winners at the 2021 Toronto International Film Festival.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "tiff-2021-peoples-choice-2021-belfast",
+      "mediaType": "movie",
+      "title": "Belfast",
+      "releaseDate": "2021",
+      "externalIds": {
+        "letterboxd": "belfast"
+      },
+      "awardYear": 2021,
+      "winner": "Kenneth Branagh",
+      "award": "People's Choice Award",
+      "awardOrder": 1
+    },
+    {
+      "id": "tiff-2021-documentary-peoples-choice-2021-the-rescue",
+      "mediaType": "movie",
+      "title": "The Rescue",
+      "releaseDate": "2021",
+      "externalIds": {
+        "letterboxd": "the-rescue"
+      },
+      "awardYear": 2021,
+      "winner": "Elizabeth Chai Vasarhelyi & Jimmy Chin",
+      "award": "People's Choice Documentary Award",
+      "awardOrder": 2
+    },
+    {
+      "id": "tiff-2021-midnight-madness-peoples-choice-2021-titane",
+      "mediaType": "movie",
+      "title": "Titane",
+      "releaseDate": "2021",
+      "externalIds": {
+        "letterboxd": "titane"
+      },
+      "awardYear": 2021,
+      "winner": "Julia Ducournau",
+      "award": "People's Choice Midnight Madness Award",
+      "awardOrder": 3
+    },
+    {
+      "id": "tiff-2021-platform-prize-2021-yuni",
+      "mediaType": "movie",
+      "title": "Yuni",
+      "releaseDate": "2021",
+      "externalIds": {
+        "letterboxd": "yuni"
+      },
+      "awardYear": 2021,
+      "winner": "Kamila Andini",
+      "award": "Platform Prize",
+      "awardOrder": 4
+    },
+    {
+      "id": "tiff-2021-best-canadian-feature-2021-ste-anne",
+      "mediaType": "movie",
+      "title": "Ste. Anne",
+      "releaseDate": "2021",
+      "externalIds": {
+        "letterboxd": "ste-anne"
+      },
+      "awardYear": 2021,
+      "winner": "Rhayne Vermette",
+      "award": "Best Canadian Feature Film",
+      "awardOrder": 5
+    },
+    {
+      "id": "tiff-2021-best-canadian-short-film-2021-angakusajaujuq-the-shaman-s-apprentice",
+      "mediaType": "movie",
+      "title": "Angakusajaujuq: The Shaman's Apprentice",
+      "releaseDate": "2021",
+      "externalIds": {
+        "letterboxd": "angakusajaujuq-the-shaman-s-apprentice"
+      },
+      "awardYear": 2021,
+      "winner": "Zacharias Kunuk",
+      "award": "Best Canadian Short Film",
+      "awardOrder": 6
+    },
+    {
+      "id": "tiff-2021-best-international-short-film-2021-displaced",
+      "mediaType": "movie",
+      "title": "Displaced",
+      "releaseDate": "2021",
+      "externalIds": {
+        "letterboxd": "displaced"
+      },
+      "awardYear": 2021,
+      "winner": "Samir Karahoda",
+      "award": "Best International Short Film",
+      "awardOrder": 7
+    },
+    {
+      "id": "tiff-2021-fipresci-prize-2021-anatolian-leopard",
+      "mediaType": "movie",
+      "title": "Anatolian Leopard",
+      "releaseDate": "2021",
+      "externalIds": {
+        "letterboxd": "anatolian-leopard"
+      },
+      "awardYear": 2021,
+      "winner": "Emre Kayiş",
+      "award": "FIPRESCI Prize",
+      "awardOrder": 8
+    },
+    {
+      "id": "tiff-2021-netpac-award-2021-costa-brava-lebanon",
+      "mediaType": "movie",
+      "title": "Costa Brava, Lebanon",
+      "releaseDate": "2021",
+      "externalIds": {
+        "letterboxd": "costa-brava-lebanon"
+      },
+      "awardYear": 2021,
+      "winner": "Mounia Akl",
+      "award": "NETPAC Award",
+      "awardOrder": 9
+    },
+    {
+      "id": "tiff-2021-amplify-voices-award-2021-the-gravedigger-s-wife",
+      "mediaType": "movie",
+      "title": "The Gravedigger's Wife",
+      "releaseDate": "2021",
+      "externalIds": {
+        "letterboxd": "the-gravedigger-s-wife"
+      },
+      "awardYear": 2021,
+      "winner": "Khadar Ayderus Ahmed",
+      "award": "Amplify Voices Award",
+      "awardOrder": 10
+    },
+    {
+      "id": "tiff-2021-amplify-voices-award-2021-a-night-of-knowing-nothing",
+      "mediaType": "movie",
+      "title": "A Night of Knowing Nothing",
+      "releaseDate": "2021",
+      "externalIds": {
+        "letterboxd": "a-night-of-knowing-nothing"
+      },
+      "awardYear": 2021,
+      "winner": "Payal Kapadia",
+      "award": "Amplify Voices Award",
+      "awardOrder": 11
+    },
+    {
+      "id": "tiff-2021-changemaker-award-2021-scarborough",
+      "mediaType": "movie",
+      "title": "Scarborough",
+      "releaseDate": "2021",
+      "externalIds": {
+        "letterboxd": "scarborough"
+      },
+      "awardYear": 2021,
+      "winner": "Shasha Nakhai & Rich Williamson",
+      "award": "Changemaker Award",
+      "awardOrder": 12
+    },
+    {
+      "id": "tiff-2021-share-her-journey-award-2021-astel",
+      "mediaType": "movie",
+      "title": "Astel",
+      "releaseDate": "2021",
+      "externalIds": {
+        "letterboxd": "astel"
+      },
+      "awardYear": 2021,
+      "winner": "Ramata-Toulaye Sy",
+      "award": "Share Her Journey Award",
+      "awardOrder": 13
+    }
+  ]
+}

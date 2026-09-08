@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "ChatGPT",
+  "title": "홍콩 영화 금상장 — 최우수 작품상",
+  "description": "홍콩 영화 금상장 역대 최우수 작품상 수상 기록.",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "hkfa-best-film.list.json"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "Mydea",
+  "title": "柏林影展 2023 年獲獎名單",
+  "description": "柏林影展 2023 年主競賽國際評審團主要獎項獲獎影片。",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "berlinale-2023.list.json"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "ChatGPT",
+  "title": "2025 홍콩 영화 금상장 수상작",
+  "description": "2025년 홍콩 영화 금상장 주요 부문 수상작과 수상자.",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "hkfa-2025.list.json"
+    }
+  ]
+}

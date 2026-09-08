@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "ChatGPT",
+  "title": "Toronto — Best Canadian Feature Film",
+  "description": "Historical winners of the TIFF Best Canadian Feature Film.",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "tiff-best-canadian-feature.list.json"
+    }
+  ]
+}

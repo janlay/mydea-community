@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:00:00Z",
+  "title": "金馬獎 2017 年核心獎項得獎名單",
+  "description": "第54屆金馬獎核心常設獎項得獎作品，收錄最佳劇情片、導演、男女主角、男女配角、新導演與新演員。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "golden-horse-2017-best-feature-tt7479784",
+      "mediaType": "movie",
+      "title": "血觀音",
+      "award": "最佳劇情片",
+      "awardYear": 2017,
+      "winner": "楊雅喆",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7479784"
+      },
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-horse-2017-best-director-tt7205208",
+      "mediaType": "movie",
+      "title": "嘉年華",
+      "award": "最佳導演",
+      "awardYear": 2017,
+      "winner": "文晏",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7205208"
+      },
+      "awardOrder": 2
+    },
+    {
+      "id": "golden-horse-2017-best-actor-tt7481246",
+      "mediaType": "movie",
+      "title": "老獸",
+      "award": "最佳男主角",
+      "awardYear": 2017,
+      "winner": "涂們",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7481246"
+      },
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-horse-2017-best-actress-tt7479784",
+      "mediaType": "movie",
+      "title": "血觀音",
+      "award": "最佳女主角",
+      "awardYear": 2017,
+      "winner": "惠英紅",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7479784"
+      },
+      "awardOrder": 4
+    },
+    {
+      "id": "golden-horse-2017-best-supporting-actor-tt7491398",
+      "mediaType": "movie",
+      "title": "阿莉芙",
+      "award": "最佳男配角",
+      "awardYear": 2017,
+      "winner": "陳竹昇",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7491398"
+      },
+      "awardOrder": 5
+    },
+    {
+      "id": "golden-horse-2017-best-supporting-actress-tt7479784",
+      "mediaType": "movie",
+      "title": "血觀音",
+      "award": "最佳女配角",
+      "awardYear": 2017,
+      "winner": "文淇",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7479784"
+      },
+      "awardOrder": 6
+    },
+    {
+      "id": "golden-horse-2017-best-new-director-tt7010412",
+      "mediaType": "movie",
+      "title": "大佛普拉斯",
+      "award": "最佳新導演",
+      "awardYear": 2017,
+      "winner": "黃信堯",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7010412"
+      },
+      "awardOrder": 7
+    },
+    {
+      "id": "golden-horse-2017-best-new-performer-tt7010456",
+      "mediaType": "movie",
+      "title": "強尼．凱克",
+      "award": "最佳新演員",
+      "awardYear": 2017,
+      "winner": "瑞瑪席丹",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7010456"
+      },
+      "awardOrder": 8
+    }
+  ]
+}

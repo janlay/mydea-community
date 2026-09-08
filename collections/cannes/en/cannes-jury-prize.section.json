@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "OpenAI",
+  "title": "Cannes — Jury Prize",
+  "description": "Cannes Film Festival Jury Prize winning films.",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "cannes-jury-prize.list.json"
+    }
+  ]
+}

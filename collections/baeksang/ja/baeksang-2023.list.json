@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-12T02:58:14Z",
+  "title": "百想芸術大賞 — 2023",
+  "description": "2023年の百想芸術大賞における主要な映画・テレビ部門の受賞作品。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "baeksang-2023-film-grand-decision",
+      "mediaType": "movie",
+      "title": "別れる決心",
+      "originalTitle": "헤어질 결심",
+      "award": "映画部門 大賞",
+      "awardYear": 2023,
+      "awardOrder": 1,
+      "winner": "別れる決心",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt12477480"
+      }
+    },
+    {
+      "id": "baeksang-2023-tv-grand-attorney-woo",
+      "mediaType": "tv",
+      "title": "ウ・ヨンウ弁護士は天才肌",
+      "originalTitle": "이상한 변호사 우영우",
+      "award": "テレビ部門 大賞",
+      "awardYear": 2023,
+      "awardOrder": 2,
+      "winner": "パク・ウンビン",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt20869502"
+      }
+    },
+    {
+      "id": "baeksang-2023-film-best-night-owl",
+      "mediaType": "movie",
+      "title": "梟－フクロウ－",
+      "originalTitle": "올빼미",
+      "award": "映画部門 作品賞",
+      "awardYear": 2023,
+      "awardOrder": 3,
+      "winner": "梟－フクロウ－",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt23871504"
+      }
+    },
+    {
+      "id": "baeksang-2023-film-director-decision",
+      "mediaType": "movie",
+      "title": "別れる決心",
+      "originalTitle": "헤어질 결심",
+      "award": "映画部門 監督賞",
+      "awardYear": 2023,
+      "awardOrder": 4,
+      "winner": "パク・チャヌク",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt12477480"
+      }
+    },
+    {
+      "id": "baeksang-2023-film-actor-night-owl",
+      "mediaType": "movie",
+      "title": "梟－フクロウ－",
+      "originalTitle": "올빼미",
+      "award": "映画部門 男性最優秀演技賞",
+      "awardYear": 2023,
+      "awardOrder": 5,
+      "winner": "リュ・ジュンヨル",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt23871504"
+      }
+    },
+    {
+      "id": "baeksang-2023-film-actress-decision",
+      "mediaType": "movie",
+      "title": "別れる決心",
+      "originalTitle": "헤어질 결심",
+      "award": "映画部門 女性最優秀演技賞",
+      "awardYear": 2023,
+      "awardOrder": 6,
+      "winner": "タン・ウェイ",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt12477480"
+      }
+    },
+    {
+      "id": "baeksang-2023-tv-best-glory",
+      "mediaType": "tv",
+      "title": "ザ・グローリー ～輝かしき復讐～",
+      "originalTitle": "더 글로리",
+      "award": "テレビ部門 作品賞",
+      "awardYear": 2023,
+      "awardOrder": 7,
+      "winner": "ザ・グローリー ～輝かしき復讐～",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt21344706"
+      }
+    },
+    {
+      "id": "baeksang-2023-tv-director-attorney-woo",
+      "mediaType": "tv",
+      "title": "ウ・ヨンウ弁護士は天才肌",
+      "originalTitle": "이상한 변호사 우영우",
+      "award": "テレビ部門 演出賞",
+      "awardYear": 2023,
+      "awardOrder": 8,
+      "winner": "ユ・インシク",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt20869502"
+      }
+    },
+    {
+      "id": "baeksang-2023-tv-actor-reborn-rich",
+      "mediaType": "tv",
+      "title": "財閥家の末息子～Reborn Rich～",
+      "originalTitle": "재벌집 막내아들",
+      "award": "テレビ部門 男性最優秀演技賞",
+      "awardYear": 2023,
+      "awardOrder": 9,
+      "winner": "イ・ソンミン",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt18352538"
+      }
+    },
+    {
+      "id": "baeksang-2023-tv-actress-glory",
+      "mediaType": "tv",
+      "title": "ザ・グローリー ～輝かしき復讐～",
+      "originalTitle": "더 글로리",
+      "award": "テレビ部門 女性最優秀演技賞",
+      "awardYear": 2023,
+      "awardOrder": 10,
+      "winner": "ソン・ヘギョ",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt21344706"
+      }
+    }
+  ]
+}

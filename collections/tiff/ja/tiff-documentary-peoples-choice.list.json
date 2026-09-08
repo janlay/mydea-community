@@ -1,0 +1,208 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T03:47:39Z",
+  "title": "トロント — ドキュメンタリー観客賞",
+  "description": "トロント国際映画祭「ドキュメンタリー観客賞」の歴代受賞作。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "tiff-documentary-peoples-choice-2009-the-topp-twins-untouchable-girls",
+      "mediaType": "movie",
+      "title": "The Topp Twins: Untouchable Girls",
+      "releaseDate": "2009",
+      "externalIds": {
+        "letterboxd": "the-topp-twins-untouchable-girls"
+      },
+      "awardYear": 2009,
+      "winner": "Leanne Pooley"
+    },
+    {
+      "id": "tiff-documentary-peoples-choice-2010-force-of-nature-the-david-suzuki-movie",
+      "mediaType": "movie",
+      "title": "Force of Nature: The David Suzuki Movie",
+      "releaseDate": "2010",
+      "externalIds": {
+        "letterboxd": "force-of-nature-the-david-suzuki-movie"
+      },
+      "awardYear": 2010,
+      "winner": "Sturla Gunnarsson"
+    },
+    {
+      "id": "tiff-documentary-peoples-choice-2011-the-island-president",
+      "mediaType": "movie",
+      "title": "The Island President",
+      "releaseDate": "2011",
+      "externalIds": {
+        "letterboxd": "the-island-president"
+      },
+      "awardYear": 2011,
+      "winner": "Jon Shenk"
+    },
+    {
+      "id": "tiff-documentary-peoples-choice-2012-artifact",
+      "mediaType": "movie",
+      "title": "Artifact",
+      "releaseDate": "2012",
+      "externalIds": {
+        "letterboxd": "artifact"
+      },
+      "awardYear": 2012,
+      "winner": "Jared Leto"
+    },
+    {
+      "id": "tiff-documentary-peoples-choice-2013-the-square",
+      "mediaType": "movie",
+      "title": "The Square",
+      "releaseDate": "2013",
+      "externalIds": {
+        "letterboxd": "the-square"
+      },
+      "awardYear": 2013,
+      "winner": "Jehane Noujaim"
+    },
+    {
+      "id": "tiff-documentary-peoples-choice-2014-beats-of-the-antonov",
+      "mediaType": "movie",
+      "title": "Beats of the Antonov",
+      "releaseDate": "2014",
+      "externalIds": {
+        "letterboxd": "beats-of-the-antonov"
+      },
+      "awardYear": 2014,
+      "winner": "Hajooj Kuka"
+    },
+    {
+      "id": "tiff-documentary-peoples-choice-2015-winter-on-fire-ukraine-s-fight-for-freedom",
+      "mediaType": "movie",
+      "title": "Winter on Fire: Ukraine's Fight for Freedom",
+      "releaseDate": "2015",
+      "externalIds": {
+        "letterboxd": "winter-on-fire-ukraine-s-fight-for-freedom"
+      },
+      "awardYear": 2015,
+      "winner": "Evgeny Afineevsky"
+    },
+    {
+      "id": "tiff-documentary-peoples-choice-2016-i-am-not-your-negro",
+      "mediaType": "movie",
+      "title": "I Am Not Your Negro",
+      "releaseDate": "2016",
+      "externalIds": {
+        "letterboxd": "i-am-not-your-negro"
+      },
+      "awardYear": 2016,
+      "winner": "Raoul Peck"
+    },
+    {
+      "id": "tiff-documentary-peoples-choice-2017-faces-places",
+      "mediaType": "movie",
+      "title": "Faces Places",
+      "releaseDate": "2017",
+      "externalIds": {
+        "letterboxd": "faces-places"
+      },
+      "awardYear": 2017,
+      "winner": "Agnès Varda & JR"
+    },
+    {
+      "id": "tiff-documentary-peoples-choice-2018-free-solo",
+      "mediaType": "movie",
+      "title": "フリーソロ",
+      "englishTitle": "Free Solo",
+      "releaseDate": "2018",
+      "externalIds": {
+        "letterboxd": "free-solo"
+      },
+      "awardYear": 2018,
+      "winner": "E. Chai Vasarhelyi & Jimmy Chin"
+    },
+    {
+      "id": "tiff-documentary-peoples-choice-2019-the-cave",
+      "mediaType": "movie",
+      "title": "The Cave",
+      "releaseDate": "2019",
+      "externalIds": {
+        "letterboxd": "the-cave"
+      },
+      "awardYear": 2019,
+      "winner": "Feras Fayyad"
+    },
+    {
+      "id": "tiff-documentary-peoples-choice-2020-inconvenient-indian",
+      "mediaType": "movie",
+      "title": "Inconvenient Indian",
+      "releaseDate": "2020",
+      "externalIds": {
+        "letterboxd": "inconvenient-indian"
+      },
+      "awardYear": 2020,
+      "winner": "Michelle Latimer"
+    },
+    {
+      "id": "tiff-documentary-peoples-choice-2021-the-rescue",
+      "mediaType": "movie",
+      "title": "The Rescue",
+      "releaseDate": "2021",
+      "externalIds": {
+        "letterboxd": "the-rescue"
+      },
+      "awardYear": 2021,
+      "winner": "Elizabeth Chai Vasarhelyi & Jimmy Chin"
+    },
+    {
+      "id": "tiff-documentary-peoples-choice-2022-black-ice",
+      "mediaType": "movie",
+      "title": "Black Ice",
+      "releaseDate": "2022",
+      "externalIds": {
+        "letterboxd": "black-ice"
+      },
+      "awardYear": 2022,
+      "winner": "Hubert Davis"
+    },
+    {
+      "id": "tiff-documentary-peoples-choice-2023-mr-dressup-the-magic-of-make-believe",
+      "mediaType": "movie",
+      "title": "Mr. Dressup: The Magic of Make-Believe",
+      "releaseDate": "2023",
+      "externalIds": {
+        "letterboxd": "mr-dressup-the-magic-of-make-believe"
+      },
+      "awardYear": 2023,
+      "winner": "Robert McCallum"
+    },
+    {
+      "id": "tiff-documentary-peoples-choice-2024-the-tragically-hip-no-dress-rehearsal",
+      "mediaType": "movie",
+      "title": "The Tragically Hip: No Dress Rehearsal",
+      "releaseDate": "2024",
+      "externalIds": {
+        "letterboxd": "the-tragically-hip-no-dress-rehearsal"
+      },
+      "awardYear": 2024,
+      "winner": "Mike Downie"
+    },
+    {
+      "id": "tiff-documentary-peoples-choice-2025-the-road-between-us-the-ultimate-rescue",
+      "mediaType": "movie",
+      "title": "The Road Between Us: The Ultimate Rescue",
+      "releaseDate": "2025",
+      "externalIds": {
+        "letterboxd": "the-road-between-us-the-ultimate-rescue"
+      },
+      "awardYear": 2025,
+      "winner": "Barry Avrich"
+    }
+  ]
+}

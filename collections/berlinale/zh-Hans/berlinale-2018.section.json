@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "Mydea",
+  "title": "柏林电影节 2018 年获奖名单",
+  "description": "柏林国际电影节 2018 年主竞赛国际评审团主要奖项获奖影片。",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "berlinale-2018.list.json"
+    }
+  ]
+}

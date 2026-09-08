@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-12T02:54:20Z",
+  "title": "青龍電影獎 — 最佳女配角",
+  "description": "韓國青龍電影獎最佳女配角2016–2025年獲獎記錄。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "blue-dragon-2016-best-supporting-actress-priests",
+      "mediaType": "movie",
+      "title": "黑司祭們",
+      "originalTitle": "검은 사제들",
+      "englishTitle": "The Priests",
+      "awardYear": 2016,
+      "winner": "Park So-dam",
+      "releaseDate": "2015",
+      "externalIds": {
+        "imdb": "tt5049302"
+      }
+    },
+    {
+      "id": "blue-dragon-2017-best-supporting-actress-king",
+      "mediaType": "movie",
+      "title": "王者",
+      "originalTitle": "더 킹",
+      "englishTitle": "The King",
+      "awardYear": 2017,
+      "winner": "Kim So-jin",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5644740"
+      }
+    },
+    {
+      "id": "blue-dragon-2018-best-supporting-actress-along-gods",
+      "mediaType": "movie",
+      "title": "與神同行：罪與罰",
+      "originalTitle": "신과함께-죄와 벌",
+      "englishTitle": "Along with the Gods: The Two Worlds",
+      "awardYear": 2018,
+      "winner": "Kim Hyang-gi",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7160070"
+      }
+    },
+    {
+      "id": "blue-dragon-2019-best-supporting-actress-parasite",
+      "mediaType": "movie",
+      "title": "寄生蟲",
+      "originalTitle": "기생충",
+      "englishTitle": "Parasite",
+      "awardYear": 2019,
+      "winner": "Lee Jung-eun",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6751668"
+      }
+    },
+    {
+      "id": "blue-dragon-2020-best-supporting-actress-samjin",
+      "mediaType": "movie",
+      "title": "三振集團英語託業班",
+      "originalTitle": "삼진그룹 영어토익반",
+      "englishTitle": "Samjin Company English Class",
+      "awardYear": 2020,
+      "winner": "Esom",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt13210996"
+      }
+    },
+    {
+      "id": "blue-dragon-2021-best-supporting-actress-three-sisters",
+      "mediaType": "movie",
+      "title": "三姐妹",
+      "originalTitle": "세 자매",
+      "englishTitle": "Three Sisters",
+      "awardYear": 2021,
+      "winner": "Kim Sun-young",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt12385956"
+      }
+    },
+    {
+      "id": "blue-dragon-2022-best-supporting-actress-perhaps-love",
+      "mediaType": "movie",
+      "title": "只有形式的羅曼史",
+      "originalTitle": "장르만 로맨스",
+      "englishTitle": "Perhaps Love",
+      "awardYear": 2022,
+      "winner": "Oh Na-ra",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt15587126"
+      }
+    },
+    {
+      "id": "blue-dragon-2023-best-supporting-actress-cobweb",
+      "mediaType": "movie",
+      "title": "蜘蛛網",
+      "originalTitle": "거미집",
+      "englishTitle": "Cobweb",
+      "awardYear": 2023,
+      "winner": "Jeon Yeo-bin",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt21254598"
+      }
+    },
+    {
+      "id": "blue-dragon-2024-best-supporting-actress-loh-kiwan",
+      "mediaType": "movie",
+      "title": "路基完",
+      "originalTitle": "로기완",
+      "englishTitle": "My Name Is Loh Kiwan",
+      "awardYear": 2024,
+      "winner": "Lee Sang-hee",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt26672512"
+      }
+    },
+    {
+      "id": "blue-dragon-2025-best-supporting-actress-hidden-face",
+      "mediaType": "movie",
+      "title": "隱藏的面孔",
+      "originalTitle": "히든페이스",
+      "englishTitle": "Hidden Face",
+      "awardYear": 2025,
+      "winner": "Park Ji-hyun",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt34490115"
+      }
+    }
+  ]
+}

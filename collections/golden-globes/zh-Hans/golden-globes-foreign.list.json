@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "金球奖 — 最佳非英语片",
+  "description": "2017–2026 年金球奖最佳非英语片获奖作品。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "golden-globes-foreign-2017-elle",
+      "mediaType": "movie",
+      "title": "她",
+      "englishTitle": "Elle",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt3716530"
+      },
+      "awardYear": 2017,
+      "winner": "她"
+    },
+    {
+      "id": "golden-globes-foreign-2018-in-the-fade",
+      "mediaType": "movie",
+      "title": "凭空而来",
+      "englishTitle": "In the Fade",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5723272"
+      },
+      "awardYear": 2018,
+      "winner": "凭空而来"
+    },
+    {
+      "id": "golden-globes-foreign-2019-roma",
+      "mediaType": "movie",
+      "title": "罗马",
+      "englishTitle": "Roma",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt6155172"
+      },
+      "awardYear": 2019,
+      "winner": "罗马"
+    },
+    {
+      "id": "golden-globes-foreign-2020-parasite",
+      "mediaType": "movie",
+      "title": "寄生虫",
+      "englishTitle": "Parasite",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6751668"
+      },
+      "awardYear": 2020,
+      "winner": "寄生虫"
+    },
+    {
+      "id": "golden-globes-foreign-2021-minari",
+      "mediaType": "movie",
+      "title": "米纳里",
+      "englishTitle": "Minari",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10633456"
+      },
+      "awardYear": 2021,
+      "winner": "米纳里"
+    },
+    {
+      "id": "golden-globes-foreign-2022-drive-my-car",
+      "mediaType": "movie",
+      "title": "驾驶我的车",
+      "englishTitle": "Drive My Car",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14039582"
+      },
+      "awardYear": 2022,
+      "winner": "驾驶我的车"
+    },
+    {
+      "id": "golden-globes-foreign-2023-argentina-1985",
+      "mediaType": "movie",
+      "title": "阿根廷，1985",
+      "englishTitle": "Argentina, 1985",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt15301048"
+      },
+      "awardYear": 2023,
+      "winner": "阿根廷，1985"
+    },
+    {
+      "id": "golden-globes-foreign-2024-anatomy-of-a-fall",
+      "mediaType": "movie",
+      "title": "坠落的审判",
+      "englishTitle": "Anatomy of a Fall",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt17009710"
+      },
+      "awardYear": 2024,
+      "winner": "坠落的审判"
+    },
+    {
+      "id": "golden-globes-foreign-2025-emilia-perez",
+      "mediaType": "movie",
+      "title": "艾米莉亚·佩雷斯",
+      "englishTitle": "Emilia Pérez",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt20221436"
+      },
+      "awardYear": 2025,
+      "winner": "艾米莉亚·佩雷斯"
+    },
+    {
+      "id": "golden-globes-foreign-2026-the-secret-agent",
+      "mediaType": "movie",
+      "title": "秘密特工",
+      "englishTitle": "The Secret Agent",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt27847051"
+      },
+      "awardYear": 2026,
+      "winner": "秘密特工"
+    }
+  ]
+}

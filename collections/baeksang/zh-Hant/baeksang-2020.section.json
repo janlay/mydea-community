@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "ChatGPT",
+  "title": "百想藝術大賞 — 2020",
+  "description": "2020 年百想藝術大賞電影與電視主要獎項獲獎記錄。",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "baeksang-2020.list.json"
+    }
+  ]
+}

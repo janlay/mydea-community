@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "ChatGPT",
+  "title": "Blue Dragon Film Awards — Best New Director",
+  "description": "Blue Dragon Film Awards Best New Director winners from 2016 through 2025.",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "blue-dragon-best-new-director.list.json"
+    }
+  ]
+}

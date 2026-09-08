@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "ChatGPT",
+  "title": "奧斯卡 — 最佳動畫長片",
+  "description": "奧斯卡最佳動畫長片最近十屆得獎紀錄。",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "oscars-best-animated-feature.list.json"
+    }
+  ]
+}

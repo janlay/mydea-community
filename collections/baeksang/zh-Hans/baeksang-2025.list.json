@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-12T02:53:58Z",
+  "title": "百想艺术大赏 — 2025",
+  "description": "2025 年百想艺术大赏电影与电视主要奖项获奖记录。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "baeksang-2025-film-grand-harbin",
+      "mediaType": "movie",
+      "title": "哈尔滨",
+      "originalTitle": "하얼빈",
+      "award": "电影大奖",
+      "awardYear": 2025,
+      "awardOrder": 1,
+      "winner": "Hong Kyung-pyo",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt23630030"
+      }
+    },
+    {
+      "id": "baeksang-2025-tv-grand-culinary",
+      "mediaType": "tv",
+      "title": "黑白厨师：料理阶级战争",
+      "originalTitle": "흑백요리사: 요리 계급 전쟁",
+      "award": "电视大奖",
+      "awardYear": 2025,
+      "awardOrder": 2,
+      "winner": "黑白厨师：料理阶级战争",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt33040785"
+      }
+    },
+    {
+      "id": "baeksang-2025-film-best-harbin",
+      "mediaType": "movie",
+      "title": "哈尔滨",
+      "originalTitle": "하얼빈",
+      "award": "最佳电影",
+      "awardYear": 2025,
+      "awardOrder": 3,
+      "winner": "哈尔滨",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt23630030"
+      }
+    },
+    {
+      "id": "baeksang-2025-film-director-revolver",
+      "mediaType": "movie",
+      "title": "左轮手枪",
+      "originalTitle": "리볼버",
+      "award": "电影最佳导演",
+      "awardYear": 2025,
+      "awardOrder": 4,
+      "winner": "Oh Seung-uk",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt28284984"
+      }
+    },
+    {
+      "id": "baeksang-2025-film-actor-pilot",
+      "mediaType": "movie",
+      "title": "飞行员",
+      "originalTitle": "파일럿",
+      "award": "电影最佳男主角",
+      "awardYear": 2025,
+      "awardOrder": 5,
+      "winner": "Cho Jung-seok",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt32175399"
+      }
+    },
+    {
+      "id": "baeksang-2025-film-actress-revolver",
+      "mediaType": "movie",
+      "title": "左轮手枪",
+      "originalTitle": "리볼버",
+      "award": "电影最佳女主角",
+      "awardYear": 2025,
+      "awardOrder": 6,
+      "winner": "Jeon Do-yeon",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt28284984"
+      }
+    },
+    {
+      "id": "baeksang-2025-tv-best-tangerines",
+      "mediaType": "tv",
+      "title": "苦尽柑来遇见你",
+      "originalTitle": "폭싹 속았수다",
+      "award": "最佳电视剧",
+      "awardYear": 2025,
+      "awardOrder": 7,
+      "winner": "苦尽柑来遇见你",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt26471411"
+      }
+    },
+    {
+      "id": "baeksang-2025-tv-director-doubt",
+      "mediaType": "tv",
+      "title": "如此亲密的背叛者",
+      "originalTitle": "이토록 친밀한 배신자",
+      "award": "电视最佳导演",
+      "awardYear": 2025,
+      "awardOrder": 8,
+      "winner": "Song Yeon-hwa",
+      "releaseDate": "2024",
+      "externalIds": {
+        "tmdb": "240942"
+      }
+    },
+    {
+      "id": "baeksang-2025-tv-actor-trauma",
+      "mediaType": "tv",
+      "title": "重症外伤中心",
+      "originalTitle": "중증외상센터",
+      "award": "电视最佳男主角",
+      "awardYear": 2025,
+      "awardOrder": 9,
+      "winner": "Ju Ji-hoon",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt28106730"
+      }
+    },
+    {
+      "id": "baeksang-2025-tv-actress-jeongnyeon",
+      "mediaType": "tv",
+      "title": "正年",
+      "originalTitle": "정년이",
+      "award": "电视最佳女主角",
+      "awardYear": 2025,
+      "awardOrder": 10,
+      "winner": "Kim Tae-ri",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt28197611"
+      }
+    }
+  ]
+}

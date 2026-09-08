@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "ChatGPT",
+  "title": "Primetime Emmy Awards 2026 Winners",
+  "description": "Major-category winners from the 78th Primetime Emmy Awards.",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "emmys-2026.list.json"
+    }
+  ]
+}

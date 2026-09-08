@@ -1,0 +1,146 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-12T02:58:14Z",
+  "title": "百想芸術大賞 — 2021",
+  "description": "2021年の百想芸術大賞における主要な映画・テレビ部門の受賞作品。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "baeksang-2021-film-grand-book-fish",
+      "mediaType": "movie",
+      "title": "茲山魚譜－チャサンオボ－",
+      "originalTitle": "자산어보",
+      "award": "映画部門 大賞",
+      "awardYear": 2021,
+      "awardOrder": 1,
+      "winner": "イ・ジュニク",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14371900"
+      }
+    },
+    {
+      "id": "baeksang-2021-film-best-samjin",
+      "mediaType": "movie",
+      "title": "サムジンカンパニー1995",
+      "originalTitle": "삼진그룹 영어토익반",
+      "award": "映画部門 作品賞",
+      "awardYear": 2021,
+      "awardOrder": 2,
+      "winner": "サムジンカンパニー1995",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt13210996"
+      }
+    },
+    {
+      "id": "baeksang-2021-film-director-voice-silence",
+      "mediaType": "movie",
+      "title": "声もなく",
+      "originalTitle": "소리도 없이",
+      "award": "映画部門 監督賞",
+      "awardYear": 2021,
+      "awardOrder": 3,
+      "winner": "ホン・ウィジョン",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10431572"
+      }
+    },
+    {
+      "id": "baeksang-2021-film-actor-voice-silence",
+      "mediaType": "movie",
+      "title": "声もなく",
+      "originalTitle": "소리도 없이",
+      "award": "映画部門 男性最優秀演技賞",
+      "awardYear": 2021,
+      "awardOrder": 4,
+      "winner": "ユ・アイン",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10431572"
+      }
+    },
+    {
+      "id": "baeksang-2021-film-actress-call",
+      "mediaType": "movie",
+      "title": "ザ・コール",
+      "originalTitle": "콜",
+      "award": "映画部門 女性最優秀演技賞",
+      "awardYear": 2021,
+      "awardOrder": 5,
+      "winner": "チョン・ジョンソ",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10530176"
+      }
+    },
+    {
+      "id": "baeksang-2021-tv-best-beyond-evil",
+      "mediaType": "tv",
+      "title": "怪物",
+      "originalTitle": "괴물",
+      "award": "テレビ部門 作品賞",
+      "awardYear": 2021,
+      "awardOrder": 6,
+      "winner": "怪物",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt13634872"
+      }
+    },
+    {
+      "id": "baeksang-2021-tv-director-flower-evil",
+      "mediaType": "tv",
+      "title": "悪の花",
+      "originalTitle": "악의 꽃",
+      "award": "テレビ部門 演出賞",
+      "awardYear": 2021,
+      "awardOrder": 7,
+      "winner": "キム・チョルギュ",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt11691684"
+      }
+    },
+    {
+      "id": "baeksang-2021-tv-actor-beyond-evil",
+      "mediaType": "tv",
+      "title": "怪物",
+      "originalTitle": "괴물",
+      "award": "テレビ部門 男性最優秀演技賞",
+      "awardYear": 2021,
+      "awardOrder": 8,
+      "winner": "シン・ハギュン",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt13634872"
+      }
+    },
+    {
+      "id": "baeksang-2021-tv-actress-penthouse",
+      "mediaType": "tv",
+      "title": "ペントハウス",
+      "originalTitle": "펜트하우스",
+      "award": "テレビ部門 女性最優秀演技賞",
+      "awardYear": 2021,
+      "awardOrder": 9,
+      "winner": "キム・ソヨン",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt13067118"
+      }
+    }
+  ]
+}

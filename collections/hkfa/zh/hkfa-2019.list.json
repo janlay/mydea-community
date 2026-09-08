@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "title": "香港電影金像獎 2019 年得獎名單",
+  "description": "第38屆香港電影金像獎主要獎項得獎作品。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "hkfa-2019-best-film-7183578",
+      "mediaType": "movie",
+      "title": "無雙",
+      "awardYear": 2019,
+      "winner": "《無雙》",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7183578"
+      },
+      "award": "最佳電影",
+      "awardOrder": 1
+    },
+    {
+      "id": "hkfa-2019-best-director-7183578",
+      "mediaType": "movie",
+      "title": "無雙",
+      "awardYear": 2019,
+      "winner": "莊文強",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7183578"
+      },
+      "award": "最佳導演",
+      "awardOrder": 2
+    },
+    {
+      "id": "hkfa-2019-best-screenplay-7183578",
+      "mediaType": "movie",
+      "title": "無雙",
+      "awardYear": 2019,
+      "winner": "莊文強",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7183578"
+      },
+      "award": "最佳編劇",
+      "awardOrder": 3
+    },
+    {
+      "id": "hkfa-2019-best-actor-8497794",
+      "mediaType": "movie",
+      "title": "淪落人",
+      "awardYear": 2019,
+      "winner": "黃秋生",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8497794"
+      },
+      "award": "最佳男主角",
+      "awardOrder": 4
+    },
+    {
+      "id": "hkfa-2019-best-actress-9076570",
+      "mediaType": "movie",
+      "title": "三夫",
+      "awardYear": 2019,
+      "winner": "曾美慧孜",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt9076570"
+      },
+      "award": "最佳女主角",
+      "awardOrder": 5
+    },
+    {
+      "id": "hkfa-2019-best-supporting-actor-7762748",
+      "mediaType": "movie",
+      "title": "翠絲",
+      "awardYear": 2019,
+      "winner": "袁富華",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7762748"
+      },
+      "award": "最佳男配角",
+      "awardOrder": 6
+    },
+    {
+      "id": "hkfa-2019-best-supporting-actress-7762748",
+      "mediaType": "movie",
+      "title": "翠絲",
+      "awardYear": 2019,
+      "winner": "惠英紅",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7762748"
+      },
+      "award": "最佳女配角",
+      "awardOrder": 7
+    },
+    {
+      "id": "hkfa-2019-best-new-performer-8497794",
+      "mediaType": "movie",
+      "title": "淪落人",
+      "awardYear": 2019,
+      "winner": "姬素·孔尚治",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8497794"
+      },
+      "award": "最佳新演員",
+      "awardOrder": 8
+    }
+  ]
+}

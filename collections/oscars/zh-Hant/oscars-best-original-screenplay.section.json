@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "ChatGPT",
+  "title": "奧斯卡 — 最佳原創劇本",
+  "description": "奧斯卡最佳原創劇本最近十屆得獎紀錄。",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "oscars-best-original-screenplay.list.json"
+    }
+  ]
+}

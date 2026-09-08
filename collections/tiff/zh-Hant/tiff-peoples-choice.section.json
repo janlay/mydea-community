@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "ChatGPT",
+  "title": "多倫多 — 觀眾選擇獎",
+  "description": "多倫多國際影展觀眾選擇獎歷屆獲獎影片。",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "tiff-peoples-choice.list.json"
+    }
+  ]
+}

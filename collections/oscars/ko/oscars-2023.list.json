@@ -1,0 +1,154 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T05:03:58Z",
+  "title": "아카데미상 2023 수상 목록",
+  "description": "제95회 아카데미상 주요 영화 부문의 수상작과 수상자.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "oscars-2023-best-picture-everything-everywhere-all-at-once",
+      "mediaType": "movie",
+      "title": "Everything Everywhere All at Once",
+      "award": "작품상",
+      "awardYear": 2023,
+      "awardOrder": 1,
+      "winner": "Daniel Kwan, Daniel Scheinert & Jonathan Wang",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt6710474"
+      }
+    },
+    {
+      "id": "oscars-2023-best-director-everything-everywhere-all-at-once",
+      "mediaType": "movie",
+      "title": "Everything Everywhere All at Once",
+      "award": "감독상",
+      "awardYear": 2023,
+      "awardOrder": 2,
+      "winner": "Daniel Kwan & Daniel Scheinert",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt6710474"
+      }
+    },
+    {
+      "id": "oscars-2023-best-actor-the-whale",
+      "mediaType": "movie",
+      "title": "The Whale",
+      "award": "남우주연상",
+      "awardYear": 2023,
+      "awardOrder": 3,
+      "winner": "Brendan Fraser",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt13833688"
+      }
+    },
+    {
+      "id": "oscars-2023-best-actress-everything-everywhere-all-at-once",
+      "mediaType": "movie",
+      "title": "Everything Everywhere All at Once",
+      "award": "여우주연상",
+      "awardYear": 2023,
+      "awardOrder": 4,
+      "winner": "Michelle Yeoh",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt6710474"
+      }
+    },
+    {
+      "id": "oscars-2023-best-supporting-actor-everything-everywhere-all-at-once",
+      "mediaType": "movie",
+      "title": "Everything Everywhere All at Once",
+      "award": "남우조연상",
+      "awardYear": 2023,
+      "awardOrder": 5,
+      "winner": "Ke Huy Quan",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt6710474"
+      }
+    },
+    {
+      "id": "oscars-2023-best-supporting-actress-everything-everywhere-all-at-once",
+      "mediaType": "movie",
+      "title": "Everything Everywhere All at Once",
+      "award": "여우조연상",
+      "awardYear": 2023,
+      "awardOrder": 6,
+      "winner": "Jamie Lee Curtis",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt6710474"
+      }
+    },
+    {
+      "id": "oscars-2023-best-original-screenplay-everything-everywhere-all-at-once",
+      "mediaType": "movie",
+      "title": "Everything Everywhere All at Once",
+      "award": "각본상",
+      "awardYear": 2023,
+      "awardOrder": 7,
+      "winner": "Daniel Kwan & Daniel Scheinert",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt6710474"
+      }
+    },
+    {
+      "id": "oscars-2023-best-adapted-screenplay-women-talking",
+      "mediaType": "movie",
+      "title": "Women Talking",
+      "award": "각색상",
+      "awardYear": 2023,
+      "awardOrder": 8,
+      "winner": "Sarah Polley",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt13669038"
+      }
+    },
+    {
+      "id": "oscars-2023-best-animated-feature-guillermo-del-toro-s-pinocchio",
+      "mediaType": "movie",
+      "title": "Guillermo del Toro's Pinocchio",
+      "award": "장편 애니메이션상",
+      "awardYear": 2023,
+      "awardOrder": 9,
+      "winner": "Guillermo del Toro, Mark Gustafson, Gary Ungar & Alex Bulkley",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt1488589"
+      }
+    },
+    {
+      "id": "oscars-2023-best-international-feature-all-quiet-on-the-western-front",
+      "mediaType": "movie",
+      "title": "All Quiet on the Western Front",
+      "award": "국제장편영화상",
+      "awardYear": 2023,
+      "awardOrder": 10,
+      "winner": "Germany",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt1016150"
+      }
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T05:03:35Z",
+  "title": "프라임타임 에미상 2021 수상 목록",
+  "description": "제73회 프라임타임 에미상 주요 부문 수상 기록.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "emmys-2021-drama-series-the-crown",
+      "mediaType": "tv",
+      "title": "더 크라운",
+      "originalTitle": "The Crown",
+      "award": "최우수 드라마 시리즈",
+      "awardYear": 2021,
+      "awardOrder": 1,
+      "winner": "The Crown",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4786824"
+      }
+    },
+    {
+      "id": "emmys-2021-comedy-series-ted-lasso",
+      "mediaType": "tv",
+      "title": "테드 래소",
+      "originalTitle": "Ted Lasso",
+      "award": "최우수 코미디 시리즈",
+      "awardYear": 2021,
+      "awardOrder": 2,
+      "winner": "Ted Lasso",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10986410"
+      }
+    },
+    {
+      "id": "emmys-2021-limited-series-the-queen-s-gambit",
+      "mediaType": "tv",
+      "title": "퀸스 갬빗",
+      "originalTitle": "The Queen's Gambit",
+      "award": "최우수 리미티드 또는 앤솔러지 시리즈",
+      "awardYear": 2021,
+      "awardOrder": 3,
+      "winner": "The Queen's Gambit",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10048342"
+      }
+    },
+    {
+      "id": "emmys-2021-lead-actor-drama-the-crown",
+      "mediaType": "tv",
+      "title": "더 크라운",
+      "originalTitle": "The Crown",
+      "award": "드라마 시리즈 남우주연상",
+      "awardYear": 2021,
+      "awardOrder": 4,
+      "winner": "Josh O'Connor",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4786824"
+      }
+    },
+    {
+      "id": "emmys-2021-lead-actress-drama-the-crown",
+      "mediaType": "tv",
+      "title": "더 크라운",
+      "originalTitle": "The Crown",
+      "award": "드라마 시리즈 여우주연상",
+      "awardYear": 2021,
+      "awardOrder": 5,
+      "winner": "Olivia Colman",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4786824"
+      }
+    },
+    {
+      "id": "emmys-2021-lead-actor-comedy-ted-lasso",
+      "mediaType": "tv",
+      "title": "테드 래소",
+      "originalTitle": "Ted Lasso",
+      "award": "코미디 시리즈 남우주연상",
+      "awardYear": 2021,
+      "awardOrder": 6,
+      "winner": "Jason Sudeikis",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10986410"
+      }
+    },
+    {
+      "id": "emmys-2021-lead-actress-comedy-hacks",
+      "mediaType": "tv",
+      "title": "Hacks",
+      "award": "코미디 시리즈 여우주연상",
+      "awardYear": 2021,
+      "awardOrder": 7,
+      "winner": "Jean Smart",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt11815682"
+      }
+    }
+  ]
+}

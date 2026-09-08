@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "ChatGPT",
+  "title": "百想艺术大赏 — 电视大奖",
+  "description": "2017–2026 年百想艺术大赏电视大奖获奖记录。",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "baeksang-tv-grand.list.json"
+    }
+  ]
+}

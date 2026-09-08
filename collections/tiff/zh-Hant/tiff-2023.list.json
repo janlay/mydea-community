@@ -1,0 +1,194 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T03:47:39Z",
+  "title": "多倫多 — 2023",
+  "description": "2023 年多倫多國際影展影片類獎項獲獎紀錄。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "tiff-2023-peoples-choice-2023-american-fiction",
+      "mediaType": "movie",
+      "title": "美國小說",
+      "englishTitle": "American Fiction",
+      "releaseDate": "2023",
+      "externalIds": {
+        "letterboxd": "american-fiction"
+      },
+      "awardYear": 2023,
+      "winner": "Cord Jefferson",
+      "award": "觀眾選擇獎",
+      "awardOrder": 1
+    },
+    {
+      "id": "tiff-2023-documentary-peoples-choice-2023-mr-dressup-the-magic-of-make-believe",
+      "mediaType": "movie",
+      "title": "Mr. Dressup: The Magic of Make-Believe",
+      "releaseDate": "2023",
+      "externalIds": {
+        "letterboxd": "mr-dressup-the-magic-of-make-believe"
+      },
+      "awardYear": 2023,
+      "winner": "Robert McCallum",
+      "award": "紀錄片觀眾選擇獎",
+      "awardOrder": 2
+    },
+    {
+      "id": "tiff-2023-midnight-madness-peoples-choice-2023-dicks-the-musical",
+      "mediaType": "movie",
+      "title": "Dicks: The Musical",
+      "releaseDate": "2023",
+      "externalIds": {
+        "letterboxd": "dicks-the-musical"
+      },
+      "awardYear": 2023,
+      "winner": "Larry Charles",
+      "award": "午夜瘋狂觀眾選擇獎",
+      "awardOrder": 3
+    },
+    {
+      "id": "tiff-2023-platform-prize-2023-dear-jassi",
+      "mediaType": "movie",
+      "title": "Dear Jassi",
+      "releaseDate": "2023",
+      "externalIds": {
+        "letterboxd": "dear-jassi"
+      },
+      "awardYear": 2023,
+      "winner": "Tarsem Singh",
+      "award": "Platform 獎",
+      "awardOrder": 4
+    },
+    {
+      "id": "tiff-2023-best-canadian-feature-2023-solo",
+      "mediaType": "movie",
+      "title": "Solo",
+      "releaseDate": "2023",
+      "externalIds": {
+        "letterboxd": "solo"
+      },
+      "awardYear": 2023,
+      "winner": "Sophie Dupuis",
+      "award": "最佳加拿大長片",
+      "awardOrder": 5
+    },
+    {
+      "id": "tiff-2023-best-canadian-short-film-2023-motherland",
+      "mediaType": "movie",
+      "title": "Motherland",
+      "releaseDate": "2023",
+      "externalIds": {
+        "letterboxd": "motherland"
+      },
+      "awardYear": 2023,
+      "winner": "Jasmin Mozaffari",
+      "award": "最佳加拿大短片",
+      "awardOrder": 6
+    },
+    {
+      "id": "tiff-2023-best-international-short-film-2023-electra",
+      "mediaType": "movie",
+      "title": "Electra",
+      "releaseDate": "2023",
+      "externalIds": {
+        "letterboxd": "electra"
+      },
+      "awardYear": 2023,
+      "winner": "Daria Kashcheeva",
+      "award": "最佳國際短片",
+      "awardOrder": 7
+    },
+    {
+      "id": "tiff-2023-fipresci-prize-2023-seagrass",
+      "mediaType": "movie",
+      "title": "Seagrass",
+      "releaseDate": "2023",
+      "externalIds": {
+        "letterboxd": "seagrass"
+      },
+      "awardYear": 2023,
+      "winner": "Meredith Hama-Brown",
+      "award": "費比西獎",
+      "awardOrder": 8
+    },
+    {
+      "id": "tiff-2023-netpac-award-2023-a-match",
+      "mediaType": "movie",
+      "title": "A Match",
+      "releaseDate": "2023",
+      "externalIds": {
+        "letterboxd": "a-match"
+      },
+      "awardYear": 2023,
+      "winner": "Jayant Digambar Somalkar",
+      "award": "NETPAC 獎",
+      "awardOrder": 9
+    },
+    {
+      "id": "tiff-2023-amplify-voices-award-best-film-2023-kanaval",
+      "mediaType": "movie",
+      "title": "Kanaval",
+      "releaseDate": "2023",
+      "externalIds": {
+        "letterboxd": "kanaval"
+      },
+      "awardYear": 2023,
+      "winner": "Henri Pardo",
+      "award": "Amplify Voices 最佳影片",
+      "awardOrder": 10
+    },
+    {
+      "id": "tiff-2023-amplify-voices-award-best-first-film-2023-tautuktavuk-what-we-see",
+      "mediaType": "movie",
+      "title": "Tautuktavuk (What We See)",
+      "releaseDate": "2023",
+      "externalIds": {
+        "letterboxd": "tautuktavuk-what-we-see"
+      },
+      "awardYear": 2023,
+      "winner": "Carol Kunnuk & Lucy Tulugarjuk",
+      "award": "Amplify Voices 最佳處女作",
+      "awardOrder": 11
+    },
+    {
+      "id": "tiff-2023-changemaker-award-2023-we-grown-now",
+      "mediaType": "movie",
+      "title": "We Grown Now",
+      "releaseDate": "2023",
+      "externalIds": {
+        "letterboxd": "we-grown-now"
+      },
+      "awardYear": 2023,
+      "winner": "Minhal Baig",
+      "award": "Changemaker 獎",
+      "awardOrder": 12
+    },
+    {
+      "id": "tiff-2023-share-her-journey-award-2023-she-snake",
+      "mediaType": "movie",
+      "title": "Shé (Snake)",
+      "releaseDate": "2023",
+      "externalIds": {
+        "letterboxd": "she-snake"
+      },
+      "awardYear": 2023,
+      "winner": "Renee Zhan",
+      "award": "Share Her Journey 獎",
+      "awardOrder": 13
+    }
+  ]
+}

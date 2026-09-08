@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T05:03:35Z",
+  "title": "프라임타임 에미상 — 드라마 시리즈 남우주연상",
+  "description": "프라임타임 에미상 “드라마 시리즈 남우주연상” 수상 기록.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "emmys-2017-lead-actor-drama-this-is-us",
+      "mediaType": "tv",
+      "title": "디스 이즈 어스",
+      "originalTitle": "This Is Us",
+      "awardYear": 2017,
+      "winner": "Sterling K. Brown",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5555260"
+      }
+    },
+    {
+      "id": "emmys-2018-lead-actor-drama-the-americans",
+      "mediaType": "tv",
+      "title": "디 아메리칸즈",
+      "originalTitle": "The Americans",
+      "awardYear": 2018,
+      "winner": "Matthew Rhys",
+      "releaseDate": "2013",
+      "externalIds": {
+        "imdb": "tt2149175"
+      }
+    },
+    {
+      "id": "emmys-2019-lead-actor-drama-pose",
+      "mediaType": "tv",
+      "title": "포즈",
+      "originalTitle": "Pose",
+      "awardYear": 2019,
+      "winner": "Billy Porter",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7562112"
+      }
+    },
+    {
+      "id": "emmys-2020-lead-actor-drama-succession",
+      "mediaType": "tv",
+      "title": "석세션",
+      "originalTitle": "Succession",
+      "awardYear": 2020,
+      "winner": "Jeremy Strong",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7660850"
+      }
+    },
+    {
+      "id": "emmys-2021-lead-actor-drama-the-crown",
+      "mediaType": "tv",
+      "title": "더 크라운",
+      "originalTitle": "The Crown",
+      "awardYear": 2021,
+      "winner": "Josh O'Connor",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4786824"
+      }
+    },
+    {
+      "id": "emmys-2022-lead-actor-drama-squid-game",
+      "mediaType": "tv",
+      "title": "오징어 게임",
+      "originalTitle": "Squid Game",
+      "awardYear": 2022,
+      "winner": "Lee Jung-jae",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt10919420"
+      }
+    },
+    {
+      "id": "emmys-2023-lead-actor-drama-succession",
+      "mediaType": "tv",
+      "title": "석세션",
+      "originalTitle": "Succession",
+      "awardYear": 2023,
+      "winner": "Kieran Culkin",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7660850"
+      }
+    },
+    {
+      "id": "emmys-2024-lead-actor-drama-shogun",
+      "mediaType": "tv",
+      "title": "쇼군",
+      "originalTitle": "Shōgun",
+      "awardYear": 2024,
+      "winner": "Hiroyuki Sanada",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt2788316"
+      }
+    },
+    {
+      "id": "emmys-2025-lead-actor-drama-the-pitt",
+      "mediaType": "tv",
+      "title": "더 피트",
+      "originalTitle": "The Pitt",
+      "awardYear": 2025,
+      "winner": "Noah Wyle",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31938062"
+      }
+    },
+    {
+      "id": "emmys-2026-lead-actor-drama-the-pitt",
+      "mediaType": "tv",
+      "title": "더 피트",
+      "originalTitle": "The Pitt",
+      "awardYear": 2026,
+      "winner": "Noah Wyle",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31938062"
+      }
+    }
+  ]
+}

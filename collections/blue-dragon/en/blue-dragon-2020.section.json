@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "ChatGPT",
+  "title": "Blue Dragon Film Awards — 2020",
+  "description": "Winners in 10 major film categories at the 2020 Blue Dragon Film Awards.",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "blue-dragon-2020.list.json"
+    }
+  ]
+}

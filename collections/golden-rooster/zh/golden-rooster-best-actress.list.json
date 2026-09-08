@@ -1,0 +1,386 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T00:56:00Z",
+  "title": "金鸡奖 — 最佳女主角",
+  "description": "中国电影金鸡奖历届最佳女主角获奖记录；并列获奖按独立条目保留。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "golden-rooster-1981-best-actress-63683825",
+      "mediaType": "movie",
+      "title": "巴山夜雨",
+      "externalIds": {
+        "imdb": "tt0080404"
+      },
+      "awardYear": 1981,
+      "winner": "张瑜"
+    },
+    {
+      "id": "golden-rooster-1981-best-actress-73153368",
+      "mediaType": "movie",
+      "title": "庐山恋",
+      "externalIds": {
+        "imdb": "tt0081080"
+      },
+      "awardYear": 1981,
+      "winner": "张瑜"
+    },
+    {
+      "id": "golden-rooster-1982-best-actress-88858887",
+      "mediaType": "movie",
+      "title": "许茂和他的女儿们",
+      "awardYear": 1982,
+      "winner": "李秀明"
+    },
+    {
+      "id": "golden-rooster-1983-best-actress-76367295",
+      "mediaType": "movie",
+      "title": "人到中年",
+      "awardYear": 1983,
+      "winner": "潘虹"
+    },
+    {
+      "id": "golden-rooster-1983-best-actress-25377779",
+      "mediaType": "movie",
+      "title": "骆驼祥子",
+      "externalIds": {
+        "tmdb": "57020",
+        "imdb": "tt0084249"
+      },
+      "awardYear": 1983,
+      "winner": "斯琴高娃"
+    },
+    {
+      "id": "golden-rooster-1984-best-actress-56444990",
+      "mediaType": "movie",
+      "title": "大桥下面",
+      "awardYear": 1984,
+      "winner": "龚雪"
+    },
+    {
+      "id": "golden-rooster-1985-best-actress-23240175",
+      "mediaType": "movie",
+      "title": "黄山来的姑娘",
+      "awardYear": 1985,
+      "winner": "李羚"
+    },
+    {
+      "id": "golden-rooster-1986-best-actress-19640815",
+      "mediaType": "movie",
+      "title": "野山",
+      "externalIds": {
+        "imdb": "tt0359839"
+      },
+      "awardYear": 1986,
+      "winner": "岳红"
+    },
+    {
+      "id": "golden-rooster-1987-best-actress-96380124",
+      "mediaType": "movie",
+      "title": "芙蓉镇",
+      "externalIds": {
+        "tmdb": "38993",
+        "imdb": "tt0087301"
+      },
+      "awardYear": 1987,
+      "winner": "刘晓庆"
+    },
+    {
+      "id": "golden-rooster-1988-best-actress-06783979",
+      "mediaType": "movie",
+      "title": "井",
+      "awardYear": 1988,
+      "winner": "潘虹"
+    },
+    {
+      "id": "golden-rooster-1989-best-actress-24964964",
+      "mediaType": "movie",
+      "title": "欢乐英雄",
+      "awardYear": 1989,
+      "winner": "徐守莉"
+    },
+    {
+      "id": "golden-rooster-1989-best-actress-45496065",
+      "mediaType": "movie",
+      "title": "阴阳界",
+      "awardYear": 1989,
+      "winner": "徐守莉"
+    },
+    {
+      "id": "golden-rooster-1991-best-actress-24307017",
+      "mediaType": "movie",
+      "title": "假女真情",
+      "awardYear": 1991,
+      "winner": "奚美娟"
+    },
+    {
+      "id": "golden-rooster-1992-best-actress-56553488",
+      "mediaType": "movie",
+      "title": "烛光里的微笑",
+      "awardYear": 1992,
+      "winner": "宋晓英"
+    },
+    {
+      "id": "golden-rooster-1993-best-actress-37798294",
+      "mediaType": "movie",
+      "title": "秋菊打官司",
+      "externalIds": {
+        "tmdb": "17339",
+        "imdb": "tt0105197"
+      },
+      "awardYear": 1993,
+      "winner": "巩俐"
+    },
+    {
+      "id": "golden-rooster-1994-best-actress-64134366",
+      "mediaType": "movie",
+      "title": "股疯",
+      "awardYear": 1994,
+      "winner": "潘虹"
+    },
+    {
+      "id": "golden-rooster-1995-best-actress-65174549",
+      "mediaType": "movie",
+      "title": "二嫫",
+      "awardYear": 1995,
+      "winner": "艾丽娅"
+    },
+    {
+      "id": "golden-rooster-1996-best-actress-39854791",
+      "mediaType": "movie",
+      "title": "九香",
+      "awardYear": 1996,
+      "winner": "宋春丽"
+    },
+    {
+      "id": "golden-rooster-1997-best-actress-82989161",
+      "mediaType": "movie",
+      "title": "喜莲",
+      "awardYear": 1997,
+      "winner": "于慧"
+    },
+    {
+      "id": "golden-rooster-1998-best-actress-02673360",
+      "mediaType": "movie",
+      "title": "黑眼睛",
+      "awardYear": 1998,
+      "winner": "陶虹"
+    },
+    {
+      "id": "golden-rooster-1999-best-actress-63354081",
+      "mediaType": "movie",
+      "title": "黄河绝恋",
+      "awardYear": 1999,
+      "winner": "宁静"
+    },
+    {
+      "id": "golden-rooster-2000-best-actress-18676043",
+      "mediaType": "movie",
+      "title": "漂亮妈妈",
+      "externalIds": {
+        "imdb": "tt0244070"
+      },
+      "awardYear": 2000,
+      "winner": "巩俐"
+    },
+    {
+      "id": "golden-rooster-2001-best-actress-17107285",
+      "mediaType": "movie",
+      "title": "相伴永远",
+      "awardYear": 2001,
+      "winner": "宋春丽"
+    },
+    {
+      "id": "golden-rooster-2002-best-actress-90342862",
+      "mediaType": "movie",
+      "title": "生活秀",
+      "awardYear": 2002,
+      "winner": "陶红"
+    },
+    {
+      "id": "golden-rooster-2002-best-actress-26380880",
+      "mediaType": "movie",
+      "title": "美丽的大脚",
+      "awardYear": 2002,
+      "winner": "倪萍"
+    },
+    {
+      "id": "golden-rooster-2003-best-actress-36379887",
+      "mediaType": "movie",
+      "title": "惊蛰",
+      "awardYear": 2003,
+      "winner": "余男"
+    },
+    {
+      "id": "golden-rooster-2004-best-actress-96469165",
+      "mediaType": "movie",
+      "title": "美丽上海",
+      "awardYear": 2004,
+      "winner": "郑振瑶"
+    },
+    {
+      "id": "golden-rooster-2004-best-actress-36999342",
+      "mediaType": "movie",
+      "title": "茉莉花开",
+      "awardYear": 2004,
+      "winner": "章子怡"
+    },
+    {
+      "id": "golden-rooster-2005-best-actress-45447947",
+      "mediaType": "movie",
+      "title": "我们俩",
+      "awardYear": 2005,
+      "winner": "金雅琴"
+    },
+    {
+      "id": "golden-rooster-2007-best-actress-43850907",
+      "mediaType": "movie",
+      "title": "好奇害死猫",
+      "externalIds": {
+        "imdb": "tt0865431"
+      },
+      "awardYear": 2007,
+      "winner": "刘嘉玲"
+    },
+    {
+      "id": "golden-rooster-2007-best-actress-42836224",
+      "mediaType": "movie",
+      "title": "爱情的牙齿",
+      "awardYear": 2007,
+      "winner": "颜丙燕"
+    },
+    {
+      "id": "golden-rooster-2009-best-actress-25575660",
+      "mediaType": "movie",
+      "title": "李米的猜想",
+      "awardYear": 2009,
+      "winner": "周迅"
+    },
+    {
+      "id": "golden-rooster-2009-best-actress-52553124",
+      "mediaType": "movie",
+      "title": "立春",
+      "awardYear": 2009,
+      "winner": "蒋雯丽"
+    },
+    {
+      "id": "golden-rooster-2011-best-actress-74339497",
+      "mediaType": "movie",
+      "title": "额吉",
+      "awardYear": 2011,
+      "winner": "娜仁花"
+    },
+    {
+      "id": "golden-rooster-2013-best-actress-65028140",
+      "mediaType": "movie",
+      "title": "萧红",
+      "awardYear": 2013,
+      "winner": "宋佳"
+    },
+    {
+      "id": "golden-rooster-2015-best-actress-28982605",
+      "mediaType": "movie",
+      "title": "诺日吉玛",
+      "awardYear": 2015,
+      "winner": "巴德玛"
+    },
+    {
+      "id": "golden-rooster-2017-best-actress-65628412",
+      "mediaType": "movie",
+      "title": "我不是潘金莲",
+      "releaseDate": "2016",
+      "externalIds": {
+        "tmdb": "393445",
+        "imdb": "tt5918090"
+      },
+      "awardYear": 2017,
+      "winner": "范冰冰"
+    },
+    {
+      "id": "golden-rooster-2019-best-actress-17848968",
+      "mediaType": "movie",
+      "title": "地久天长",
+      "releaseDate": "2019",
+      "externalIds": {
+        "tmdb": "575452",
+        "imdb": "tt9581076"
+      },
+      "awardYear": 2019,
+      "winner": "咏梅"
+    },
+    {
+      "id": "golden-rooster-2020-best-actress-34851464",
+      "mediaType": "movie",
+      "title": "少年的你",
+      "releaseDate": "2019",
+      "externalIds": {
+        "tmdb": "575813",
+        "imdb": "tt9586294"
+      },
+      "awardYear": 2020,
+      "winner": "周冬雨"
+    },
+    {
+      "id": "golden-rooster-2021-best-actress-29641320",
+      "mediaType": "movie",
+      "title": "你好，李焕英",
+      "releaseDate": "2021",
+      "externalIds": {
+        "tmdb": "776503",
+        "imdb": "tt13364790"
+      },
+      "awardYear": 2021,
+      "winner": "张小斐"
+    },
+    {
+      "id": "golden-rooster-2022-best-actress-93111993",
+      "mediaType": "movie",
+      "title": "妈妈！",
+      "releaseDate": "2022",
+      "externalIds": {
+        "tmdb": "1004968",
+        "imdb": "tt21379562"
+      },
+      "awardYear": 2022,
+      "winner": "奚美娟"
+    },
+    {
+      "id": "golden-rooster-2023-best-actress-30705233",
+      "mediaType": "movie",
+      "title": "追月",
+      "awardYear": 2023,
+      "winner": "何赛飞"
+    },
+    {
+      "id": "golden-rooster-2024-best-actress-70695733",
+      "mediaType": "movie",
+      "title": "我们一起摇太阳",
+      "releaseDate": "2024",
+      "awardYear": 2024,
+      "winner": "李庚希"
+    },
+    {
+      "id": "golden-rooster-2025-best-actress-36697945",
+      "mediaType": "movie",
+      "title": "好东西",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt31807233",
+        "douban": "36154853"
+      },
+      "awardYear": 2025,
+      "winner": "宋佳"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T05:03:35Z",
+  "title": "黃金時段艾美獎 2023 年獲獎名單",
+  "description": "第 75 屆黃金時段艾美獎主要獎項獲獎記錄。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "emmys-2023-drama-series-succession",
+      "mediaType": "tv",
+      "title": "繼承之戰",
+      "originalTitle": "Succession",
+      "award": "最佳劇情類影集",
+      "awardYear": 2023,
+      "awardOrder": 1,
+      "winner": "Succession",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7660850"
+      }
+    },
+    {
+      "id": "emmys-2023-comedy-series-the-bear",
+      "mediaType": "tv",
+      "title": "大熊餐廳",
+      "originalTitle": "The Bear",
+      "award": "最佳喜劇類影集",
+      "awardYear": 2023,
+      "awardOrder": 2,
+      "winner": "The Bear",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt14452776"
+      }
+    },
+    {
+      "id": "emmys-2023-limited-series-beef",
+      "mediaType": "tv",
+      "title": "怒嗆人生",
+      "originalTitle": "Beef",
+      "award": "最佳有限影集或詩選影集",
+      "awardYear": 2023,
+      "awardOrder": 3,
+      "winner": "Beef",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt14403178"
+      }
+    },
+    {
+      "id": "emmys-2023-lead-actor-drama-succession",
+      "mediaType": "tv",
+      "title": "繼承之戰",
+      "originalTitle": "Succession",
+      "award": "劇情類最佳男主角",
+      "awardYear": 2023,
+      "awardOrder": 4,
+      "winner": "Kieran Culkin",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7660850"
+      }
+    },
+    {
+      "id": "emmys-2023-lead-actress-drama-succession",
+      "mediaType": "tv",
+      "title": "繼承之戰",
+      "originalTitle": "Succession",
+      "award": "劇情類最佳女主角",
+      "awardYear": 2023,
+      "awardOrder": 5,
+      "winner": "Sarah Snook",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7660850"
+      }
+    },
+    {
+      "id": "emmys-2023-lead-actor-comedy-the-bear",
+      "mediaType": "tv",
+      "title": "大熊餐廳",
+      "originalTitle": "The Bear",
+      "award": "喜劇類最佳男主角",
+      "awardYear": 2023,
+      "awardOrder": 6,
+      "winner": "Jeremy Allen White",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt14452776"
+      }
+    },
+    {
+      "id": "emmys-2023-lead-actress-comedy-abbott-elementary",
+      "mediaType": "tv",
+      "title": "小學風雲",
+      "originalTitle": "Abbott Elementary",
+      "award": "喜劇類最佳女主角",
+      "awardYear": 2023,
+      "awardOrder": 7,
+      "winner": "Quinta Brunson",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14218830"
+      }
+    }
+  ]
+}

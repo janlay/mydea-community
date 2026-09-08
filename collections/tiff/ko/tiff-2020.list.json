@@ -1,0 +1,181 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T03:47:39Z",
+  "title": "토론토 — 2020",
+  "description": "2020년 토론토국제영화제 영화 부문 수상작.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "tiff-2020-peoples-choice-2020-nomadland",
+      "mediaType": "movie",
+      "title": "노매드랜드",
+      "englishTitle": "Nomadland",
+      "releaseDate": "2020",
+      "externalIds": {
+        "letterboxd": "nomadland"
+      },
+      "awardYear": 2020,
+      "winner": "Chloé Zhao",
+      "award": "관객상",
+      "awardOrder": 1
+    },
+    {
+      "id": "tiff-2020-documentary-peoples-choice-2020-inconvenient-indian",
+      "mediaType": "movie",
+      "title": "Inconvenient Indian",
+      "releaseDate": "2020",
+      "externalIds": {
+        "letterboxd": "inconvenient-indian"
+      },
+      "awardYear": 2020,
+      "winner": "Michelle Latimer",
+      "award": "다큐멘터리 관객상",
+      "awardOrder": 2
+    },
+    {
+      "id": "tiff-2020-midnight-madness-peoples-choice-2020-shadow-in-the-cloud",
+      "mediaType": "movie",
+      "title": "Shadow in the Cloud",
+      "releaseDate": "2020",
+      "externalIds": {
+        "letterboxd": "shadow-in-the-cloud"
+      },
+      "awardYear": 2020,
+      "winner": "Roseanne Liang",
+      "award": "미드나잇 매드니스 관객상",
+      "awardOrder": 3
+    },
+    {
+      "id": "tiff-2020-best-canadian-feature-2020-inconvenient-indian",
+      "mediaType": "movie",
+      "title": "Inconvenient Indian",
+      "releaseDate": "2020",
+      "externalIds": {
+        "letterboxd": "inconvenient-indian"
+      },
+      "awardYear": 2020,
+      "winner": "Michelle Latimer",
+      "award": "캐나다 장편영화상",
+      "awardOrder": 4
+    },
+    {
+      "id": "tiff-2020-best-canadian-short-film-2020-benjamin-benny-ben",
+      "mediaType": "movie",
+      "title": "Benjamin, Benny, Ben",
+      "releaseDate": "2020",
+      "externalIds": {
+        "letterboxd": "benjamin-benny-ben"
+      },
+      "awardYear": 2020,
+      "winner": "Paul Shkordoff",
+      "award": "캐나다 단편영화상",
+      "awardOrder": 5
+    },
+    {
+      "id": "tiff-2020-best-international-short-film-2020-dustin",
+      "mediaType": "movie",
+      "title": "Dustin",
+      "releaseDate": "2020",
+      "externalIds": {
+        "letterboxd": "dustin"
+      },
+      "awardYear": 2020,
+      "winner": "Naïla Guiguet",
+      "award": "국제 단편영화상",
+      "awardOrder": 6
+    },
+    {
+      "id": "tiff-2020-fipresci-prize-2020-beginning",
+      "mediaType": "movie",
+      "title": "Beginning",
+      "releaseDate": "2020",
+      "externalIds": {
+        "letterboxd": "beginning"
+      },
+      "awardYear": 2020,
+      "winner": "Dea Kulumbegashvili",
+      "award": "FIPRESCI상",
+      "awardOrder": 7
+    },
+    {
+      "id": "tiff-2020-netpac-award-2020-gaza-mon-amour",
+      "mediaType": "movie",
+      "title": "Gaza mon amour",
+      "releaseDate": "2020",
+      "externalIds": {
+        "letterboxd": "gaza-mon-amour"
+      },
+      "awardYear": 2020,
+      "winner": "Arab Nasser & Tarzan Nasser",
+      "award": "NETPAC상",
+      "awardOrder": 8
+    },
+    {
+      "id": "tiff-2020-amplify-voices-award-2020-the-disciple",
+      "mediaType": "movie",
+      "title": "The Disciple",
+      "releaseDate": "2020",
+      "externalIds": {
+        "letterboxd": "the-disciple"
+      },
+      "awardYear": 2020,
+      "winner": "Chaitanya Tamhane",
+      "award": "Amplify Voices상",
+      "awardOrder": 9
+    },
+    {
+      "id": "tiff-2020-amplify-voices-award-2020-night-of-the-kings",
+      "mediaType": "movie",
+      "title": "Night of the Kings",
+      "releaseDate": "2020",
+      "externalIds": {
+        "letterboxd": "night-of-the-kings"
+      },
+      "awardYear": 2020,
+      "winner": "Philippe Lacôte",
+      "award": "Amplify Voices상",
+      "awardOrder": 10
+    },
+    {
+      "id": "tiff-2020-changemaker-award-2020-black-bodies",
+      "mediaType": "movie",
+      "title": "Black Bodies",
+      "releaseDate": "2020",
+      "externalIds": {
+        "letterboxd": "black-bodies"
+      },
+      "awardYear": 2020,
+      "winner": "Kelly Fyffe-Marshall",
+      "award": "Changemaker상",
+      "awardOrder": 11
+    },
+    {
+      "id": "tiff-2020-share-her-journey-award-2020-sing-me-a-lullaby",
+      "mediaType": "movie",
+      "title": "Sing Me a Lullaby",
+      "releaseDate": "2020",
+      "externalIds": {
+        "letterboxd": "sing-me-a-lullaby"
+      },
+      "awardYear": 2020,
+      "winner": "Tiffany Hsiung",
+      "award": "Share Her Journey상",
+      "awardOrder": 12
+    }
+  ]
+}

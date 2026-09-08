@@ -1,0 +1,363 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-07T05:48:00Z",
+  "title": "Cannes — Un Certain Regard Prize",
+  "description": "A list of films that have won the Un Certain Regard Prize at past Cannes Film Festivals. The award was established in 1998; no film was awarded in 2020 because the Cannes Film Festival was canceled; in 2011, two films shared the award.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "title with year"
+  ],
+  "items": [
+    {
+      "id": "cannes-ucr-2026",
+      "mediaType": "movie",
+      "title": "Everytime",
+      "releaseDate": "2026",
+      "externalIds": {
+        "tmdb": "1655419",
+        "imdb": "tt41592057"
+      },
+      "awardYear": 2026,
+      "director": "Sandra Wollner"
+    },
+    {
+      "id": "cannes-ucr-2025",
+      "mediaType": "movie",
+      "title": "The Mysterious Gaze of the Flamingo",
+      "originalTitle": "La misteriosa mirada del flamenco",
+      "releaseDate": "2025",
+      "externalIds": {
+        "tmdb": "896096",
+        "imdb": "tt22237964"
+      },
+      "awardYear": 2025,
+      "director": "Diego Céspedes"
+    },
+    {
+      "id": "cannes-ucr-2024",
+      "mediaType": "movie",
+      "title": "Black Dog",
+      "originalTitle": "狗阵",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt28131427"
+      },
+      "awardYear": 2024,
+      "director": "Guan Hu"
+    },
+    {
+      "id": "cannes-ucr-2023",
+      "mediaType": "movie",
+      "title": "How to Have Sex",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt22890246"
+      },
+      "awardYear": 2023,
+      "director": "Molly Manning Walker"
+    },
+    {
+      "id": "cannes-ucr-2022",
+      "mediaType": "movie",
+      "title": "The Worst Ones",
+      "originalTitle": "Les pires",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt19719862"
+      },
+      "awardYear": 2022,
+      "director": "Lise Akoka, Romane Gueret"
+    },
+    {
+      "id": "cannes-ucr-2021",
+      "mediaType": "movie",
+      "title": "Unclenching the Fists",
+      "originalTitle": "Разжимая кулаки",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14775666"
+      },
+      "awardYear": 2021,
+      "director": "Kira Kovalenko"
+    },
+    {
+      "id": "cannes-ucr-2019",
+      "mediaType": "movie",
+      "title": "Invisible Life",
+      "originalTitle": "A Vida Invisível de Eurídice Gusmão",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6390668"
+      },
+      "awardYear": 2019,
+      "director": "Karim Aïnouz"
+    },
+    {
+      "id": "cannes-ucr-2018",
+      "mediaType": "movie",
+      "title": "Border",
+      "originalTitle": "Gräns",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt5501104"
+      },
+      "awardYear": 2018,
+      "director": "Ali Abbasi"
+    },
+    {
+      "id": "cannes-ucr-2017",
+      "mediaType": "movie",
+      "title": "A Man of Integrity",
+      "originalTitle": "Lerd",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6776462"
+      },
+      "awardYear": 2017,
+      "director": "Mohammad Rasoulof"
+    },
+    {
+      "id": "cannes-ucr-2016",
+      "mediaType": "movie",
+      "title": "The Happiest Day in the Life of Olli Mäki",
+      "originalTitle": "Hymyilevä mies",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4771932"
+      },
+      "awardYear": 2016,
+      "director": "Juho Kuosmanen"
+    },
+    {
+      "id": "cannes-ucr-2015",
+      "mediaType": "movie",
+      "title": "Rams",
+      "originalTitle": "Hrútar",
+      "releaseDate": "2015",
+      "externalIds": {
+        "imdb": "tt3296658"
+      },
+      "awardYear": 2015,
+      "director": "Grímur Hákonarson"
+    },
+    {
+      "id": "cannes-ucr-2014",
+      "mediaType": "movie",
+      "title": "White God",
+      "originalTitle": "Fehér isten",
+      "releaseDate": "2014",
+      "externalIds": {
+        "imdb": "tt2844798"
+      },
+      "awardYear": 2014,
+      "director": "Kornél Mundruczó"
+    },
+    {
+      "id": "cannes-ucr-2013",
+      "mediaType": "movie",
+      "title": "The Missing Picture",
+      "originalTitle": "L'image manquante",
+      "releaseDate": "2013",
+      "externalIds": {
+        "imdb": "tt2852470"
+      },
+      "awardYear": 2013,
+      "director": "Rithy Panh"
+    },
+    {
+      "id": "cannes-ucr-2012",
+      "mediaType": "movie",
+      "title": "After Lucia",
+      "originalTitle": "Después de Lucía",
+      "releaseDate": "2012",
+      "externalIds": {
+        "imdb": "tt2368749"
+      },
+      "awardYear": 2012,
+      "director": "Michel Franco"
+    },
+    {
+      "id": "cannes-ucr-2011-arirang",
+      "mediaType": "movie",
+      "title": "Arirang",
+      "originalTitle": "아리랑",
+      "releaseDate": "2011",
+      "externalIds": {
+        "imdb": "tt1922551"
+      },
+      "awardYear": 2011,
+      "director": "Kim Ki-duk"
+    },
+    {
+      "id": "cannes-ucr-2011-stopped-on-track",
+      "mediaType": "movie",
+      "title": "Stopped on Track",
+      "originalTitle": "Halt auf freier Strecke",
+      "releaseDate": "2011",
+      "externalIds": {
+        "imdb": "tt1780856"
+      },
+      "awardYear": 2011,
+      "director": "Andreas Dresen"
+    },
+    {
+      "id": "cannes-ucr-2010",
+      "mediaType": "movie",
+      "title": "Hahaha",
+      "originalTitle": "하하하",
+      "releaseDate": "2010",
+      "externalIds": {
+        "imdb": "tt1452626"
+      },
+      "awardYear": 2010,
+      "director": "Hong Sang-soo"
+    },
+    {
+      "id": "cannes-ucr-2009",
+      "mediaType": "movie",
+      "title": "Dogtooth",
+      "originalTitle": "Κυνόδοντας",
+      "releaseDate": "2009",
+      "externalIds": {
+        "imdb": "tt1379182"
+      },
+      "awardYear": 2009,
+      "director": "Yorgos Lanthimos"
+    },
+    {
+      "id": "cannes-ucr-2008",
+      "mediaType": "movie",
+      "title": "Tulpan",
+      "releaseDate": "2008",
+      "externalIds": {
+        "imdb": "tt0436854"
+      },
+      "awardYear": 2008,
+      "director": "Sergey Dvortsevoy"
+    },
+    {
+      "id": "cannes-ucr-2007",
+      "mediaType": "movie",
+      "title": "California Dreamin'",
+      "originalTitle": "California Dreamin' (Nesfârșit)",
+      "releaseDate": "2007",
+      "externalIds": {
+        "imdb": "tt0449573"
+      },
+      "awardYear": 2007,
+      "director": "Cristian Nemescu"
+    },
+    {
+      "id": "cannes-ucr-2006",
+      "mediaType": "movie",
+      "title": "Luxury Car",
+      "originalTitle": "江城夏日",
+      "releaseDate": "2006",
+      "externalIds": {
+        "imdb": "tt0810954"
+      },
+      "awardYear": 2006,
+      "director": "Wang Chao"
+    },
+    {
+      "id": "cannes-ucr-2005",
+      "mediaType": "movie",
+      "title": "The Death of Mr. Lazarescu",
+      "originalTitle": "Moartea domnului Lăzărescu",
+      "releaseDate": "2005",
+      "externalIds": {
+        "imdb": "tt0456149"
+      },
+      "awardYear": 2005,
+      "director": "Cristi Puiu"
+    },
+    {
+      "id": "cannes-ucr-2004",
+      "mediaType": "movie",
+      "title": "Moolaadé",
+      "releaseDate": "2004",
+      "externalIds": {
+        "imdb": "tt0416991"
+      },
+      "awardYear": 2004,
+      "director": "Ousmane Sembène"
+    },
+    {
+      "id": "cannes-ucr-2003",
+      "mediaType": "movie",
+      "title": "The Best of Youth",
+      "originalTitle": "La meglio gioventù",
+      "releaseDate": "2003",
+      "externalIds": {
+        "imdb": "tt0346336"
+      },
+      "awardYear": 2003,
+      "director": "Marco Tullio Giordana"
+    },
+    {
+      "id": "cannes-ucr-2002",
+      "mediaType": "movie",
+      "title": "Blissfully Yours",
+      "originalTitle": "Sud sanaeha",
+      "releaseDate": "2002",
+      "externalIds": {
+        "imdb": "tt0317171"
+      },
+      "awardYear": 2002,
+      "director": "Apichatpong Weerasethakul"
+    },
+    {
+      "id": "cannes-ucr-2001",
+      "mediaType": "movie",
+      "title": "Boyhood Loves",
+      "originalTitle": "Amour d'enfance",
+      "releaseDate": "2001",
+      "externalIds": {
+        "imdb": "tt0284848"
+      },
+      "awardYear": 2001,
+      "director": "Yves Caumon"
+    },
+    {
+      "id": "cannes-ucr-2000",
+      "mediaType": "movie",
+      "title": "Things You Can Tell Just by Looking at Her",
+      "releaseDate": "2000",
+      "externalIds": {
+        "imdb": "tt0210358"
+      },
+      "awardYear": 2000,
+      "director": "Rodrigo García"
+    },
+    {
+      "id": "cannes-ucr-1999",
+      "mediaType": "movie",
+      "title": "Beautiful People",
+      "releaseDate": "1999",
+      "externalIds": {
+        "imdb": "tt0159272"
+      },
+      "awardYear": 1999,
+      "director": "Jasmin Dizdar"
+    },
+    {
+      "id": "cannes-ucr-1998",
+      "mediaType": "movie",
+      "title": "Killer",
+      "originalTitle": "Tueur à gages",
+      "releaseDate": "1998",
+      "externalIds": {
+        "imdb": "tt0157124"
+      },
+      "awardYear": 1998,
+      "director": "Darezhan Omirbayev"
+    }
+  ]
+}

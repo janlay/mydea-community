@@ -1,0 +1,212 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T03:47:39Z",
+  "title": "토론토 — 미드나잇 매드니스 관객상",
+  "description": "토론토국제영화제 미드나잇 매드니스 관객상 역대 수상작.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "tiff-midnight-madness-peoples-choice-2009-the-loved-ones",
+      "mediaType": "movie",
+      "title": "The Loved Ones",
+      "releaseDate": "2009",
+      "externalIds": {
+        "letterboxd": "the-loved-ones"
+      },
+      "awardYear": 2009,
+      "winner": "Sean Byrne"
+    },
+    {
+      "id": "tiff-midnight-madness-peoples-choice-2010-stake-land",
+      "mediaType": "movie",
+      "title": "Stake Land",
+      "releaseDate": "2010",
+      "externalIds": {
+        "letterboxd": "stake-land"
+      },
+      "awardYear": 2010,
+      "winner": "Jim Mickle"
+    },
+    {
+      "id": "tiff-midnight-madness-peoples-choice-2011-the-raid",
+      "mediaType": "movie",
+      "title": "The Raid",
+      "releaseDate": "2011",
+      "externalIds": {
+        "letterboxd": "the-raid"
+      },
+      "awardYear": 2011,
+      "winner": "Gareth Evans"
+    },
+    {
+      "id": "tiff-midnight-madness-peoples-choice-2012-seven-psychopaths",
+      "mediaType": "movie",
+      "title": "Seven Psychopaths",
+      "releaseDate": "2012",
+      "externalIds": {
+        "letterboxd": "seven-psychopaths"
+      },
+      "awardYear": 2012,
+      "winner": "Martin McDonagh"
+    },
+    {
+      "id": "tiff-midnight-madness-peoples-choice-2013-why-don-t-you-play-in-hell",
+      "mediaType": "movie",
+      "title": "Why Don't You Play in Hell?",
+      "releaseDate": "2013",
+      "externalIds": {
+        "letterboxd": "why-don-t-you-play-in-hell"
+      },
+      "awardYear": 2013,
+      "winner": "Sion Sono"
+    },
+    {
+      "id": "tiff-midnight-madness-peoples-choice-2014-what-we-do-in-the-shadows",
+      "mediaType": "movie",
+      "title": "What We Do in the Shadows",
+      "releaseDate": "2014",
+      "externalIds": {
+        "letterboxd": "what-we-do-in-the-shadows"
+      },
+      "awardYear": 2014,
+      "winner": "Taika Waititi & Jemaine Clement"
+    },
+    {
+      "id": "tiff-midnight-madness-peoples-choice-2015-hardcore-henry",
+      "mediaType": "movie",
+      "title": "Hardcore Henry",
+      "releaseDate": "2015",
+      "externalIds": {
+        "letterboxd": "hardcore-henry"
+      },
+      "awardYear": 2015,
+      "winner": "Ilya Naishuller"
+    },
+    {
+      "id": "tiff-midnight-madness-peoples-choice-2016-free-fire",
+      "mediaType": "movie",
+      "title": "Free Fire",
+      "releaseDate": "2016",
+      "externalIds": {
+        "letterboxd": "free-fire"
+      },
+      "awardYear": 2016,
+      "winner": "Ben Wheatley"
+    },
+    {
+      "id": "tiff-midnight-madness-peoples-choice-2017-bodied",
+      "mediaType": "movie",
+      "title": "Bodied",
+      "releaseDate": "2017",
+      "externalIds": {
+        "letterboxd": "bodied"
+      },
+      "awardYear": 2017,
+      "winner": "Joseph Kahn"
+    },
+    {
+      "id": "tiff-midnight-madness-peoples-choice-2018-the-man-who-feels-no-pain",
+      "mediaType": "movie",
+      "title": "The Man Who Feels No Pain",
+      "releaseDate": "2018",
+      "externalIds": {
+        "letterboxd": "the-man-who-feels-no-pain"
+      },
+      "awardYear": 2018,
+      "winner": "Vasan Bala"
+    },
+    {
+      "id": "tiff-midnight-madness-peoples-choice-2019-the-platform",
+      "mediaType": "movie",
+      "title": "더 플랫폼",
+      "englishTitle": "The Platform",
+      "releaseDate": "2019",
+      "externalIds": {
+        "letterboxd": "the-platform"
+      },
+      "awardYear": 2019,
+      "winner": "Galder Gaztelu-Urrutia"
+    },
+    {
+      "id": "tiff-midnight-madness-peoples-choice-2020-shadow-in-the-cloud",
+      "mediaType": "movie",
+      "title": "Shadow in the Cloud",
+      "releaseDate": "2020",
+      "externalIds": {
+        "letterboxd": "shadow-in-the-cloud"
+      },
+      "awardYear": 2020,
+      "winner": "Roseanne Liang"
+    },
+    {
+      "id": "tiff-midnight-madness-peoples-choice-2021-titane",
+      "mediaType": "movie",
+      "title": "티탄",
+      "englishTitle": "Titane",
+      "releaseDate": "2021",
+      "externalIds": {
+        "letterboxd": "titane"
+      },
+      "awardYear": 2021,
+      "winner": "Julia Ducournau"
+    },
+    {
+      "id": "tiff-midnight-madness-peoples-choice-2022-weird-the-al-yankovic-story",
+      "mediaType": "movie",
+      "title": "Weird: The Al Yankovic Story",
+      "releaseDate": "2022",
+      "externalIds": {
+        "letterboxd": "weird-the-al-yankovic-story"
+      },
+      "awardYear": 2022,
+      "winner": "Eric Appel"
+    },
+    {
+      "id": "tiff-midnight-madness-peoples-choice-2023-dicks-the-musical",
+      "mediaType": "movie",
+      "title": "Dicks: The Musical",
+      "releaseDate": "2023",
+      "externalIds": {
+        "letterboxd": "dicks-the-musical"
+      },
+      "awardYear": 2023,
+      "winner": "Larry Charles"
+    },
+    {
+      "id": "tiff-midnight-madness-peoples-choice-2024-the-substance",
+      "mediaType": "movie",
+      "title": "서브스턴스",
+      "englishTitle": "The Substance",
+      "releaseDate": "2024",
+      "externalIds": {
+        "letterboxd": "the-substance",
+        "tmdb": "933260"
+      },
+      "awardYear": 2024,
+      "winner": "Coralie Fargeat"
+    },
+    {
+      "id": "tiff-midnight-madness-peoples-choice-2025-nirvanna-the-band-the-show-the-movie",
+      "mediaType": "movie",
+      "title": "Nirvanna the Band the Show the Movie",
+      "releaseDate": "2025",
+      "externalIds": {
+        "letterboxd": "nirvanna-the-band-the-show-the-movie",
+        "tmdb": "1154538"
+      },
+      "awardYear": 2025,
+      "winner": "Matt Johnson"
+    }
+  ]
+}

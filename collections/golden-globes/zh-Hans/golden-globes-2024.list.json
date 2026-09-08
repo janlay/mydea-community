@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "金球奖 2024",
+  "description": "2024 金球奖主要电影与电视作品类获奖名单。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "golden-globes-2024-drama-oppenheimer",
+      "mediaType": "movie",
+      "title": "奥本海默",
+      "englishTitle": "Oppenheimer",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt15398776"
+      },
+      "award": "最佳剧情片",
+      "awardYear": 2024,
+      "awardOrder": 1,
+      "winner": "奥本海默"
+    },
+    {
+      "id": "golden-globes-2024-comedy-poor-things",
+      "mediaType": "movie",
+      "title": "可怜的东西",
+      "englishTitle": "Poor Things",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt14230458"
+      },
+      "award": "最佳音乐或喜剧片",
+      "awardYear": 2024,
+      "awardOrder": 2,
+      "winner": "可怜的东西"
+    },
+    {
+      "id": "golden-globes-2024-animated-the-boy-and-the-heron",
+      "mediaType": "movie",
+      "title": "你想活出怎样的人生",
+      "englishTitle": "The Boy and the Heron",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt6587046"
+      },
+      "award": "最佳动画片",
+      "awardYear": 2024,
+      "awardOrder": 3,
+      "winner": "你想活出怎样的人生"
+    },
+    {
+      "id": "golden-globes-2024-foreign-anatomy-of-a-fall",
+      "mediaType": "movie",
+      "title": "坠落的审判",
+      "englishTitle": "Anatomy of a Fall",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt17009710"
+      },
+      "award": "最佳非英语片",
+      "awardYear": 2024,
+      "awardOrder": 4,
+      "winner": "坠落的审判"
+    },
+    {
+      "id": "golden-globes-2024-tv_drama-succession",
+      "mediaType": "tv",
+      "title": "继承之战",
+      "englishTitle": "Succession",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7660850"
+      },
+      "award": "最佳剧情类剧集",
+      "awardYear": 2024,
+      "awardOrder": 5,
+      "winner": "继承之战"
+    },
+    {
+      "id": "golden-globes-2024-tv_comedy-the-bear",
+      "mediaType": "tv",
+      "title": "熊家餐馆",
+      "englishTitle": "The Bear",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt14452776"
+      },
+      "award": "最佳音乐或喜剧类剧集",
+      "awardYear": 2024,
+      "awardOrder": 6,
+      "winner": "熊家餐馆"
+    },
+    {
+      "id": "golden-globes-2024-limited-beef",
+      "mediaType": "tv",
+      "title": "怒呛人生",
+      "englishTitle": "Beef",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt14403178"
+      },
+      "award": "最佳限定剧、选集剧或电视电影",
+      "awardYear": 2024,
+      "awardOrder": 7,
+      "winner": "怒呛人生"
+    },
+    {
+      "id": "golden-globes-2024-boxoffice-barbie",
+      "mediaType": "movie",
+      "title": "芭比",
+      "englishTitle": "Barbie",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt1517268"
+      },
+      "award": "电影和票房成就奖",
+      "awardYear": 2024,
+      "awardOrder": 8,
+      "winner": "芭比"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:30:00Z",
+  "title": "威尼斯电影节 2021 年获奖名单",
+  "description": "第89届威尼斯电影节主竞赛主要官方奖项获奖影片。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "venice-golden-lion-2021-happening-1",
+      "mediaType": "movie",
+      "title": "正发生",
+      "releaseDate": "2021",
+      "externalIds": {
+        "letterboxd": "happening"
+      },
+      "awardYear": 2021,
+      "winner": "Audrey Diwan",
+      "englishTitle": "Happening",
+      "award": "金狮奖"
+    },
+    {
+      "id": "venice-grand-jury-prize-2021-the-hand-of-god-2",
+      "mediaType": "movie",
+      "title": "上帝之手",
+      "releaseDate": "2021",
+      "externalIds": {
+        "letterboxd": "the-hand-of-god"
+      },
+      "awardYear": 2021,
+      "winner": "Paolo Sorrentino",
+      "englishTitle": "The Hand of God",
+      "award": "银狮奖·评审团大奖"
+    },
+    {
+      "id": "venice-best-director-2021-the-power-of-the-dog-3",
+      "mediaType": "movie",
+      "title": "犬之力",
+      "releaseDate": "2021",
+      "externalIds": {
+        "letterboxd": "the-power-of-the-dog"
+      },
+      "awardYear": 2021,
+      "winner": "Jane Campion",
+      "englishTitle": "The Power of the Dog",
+      "award": "银狮奖·最佳导演"
+    },
+    {
+      "id": "venice-best-actress-2021-parallel-mothers-4",
+      "mediaType": "movie",
+      "title": "平行母亲",
+      "releaseDate": "2021",
+      "externalIds": {
+        "letterboxd": "parallel-mothers"
+      },
+      "awardYear": 2021,
+      "winner": "Penélope Cruz",
+      "englishTitle": "Parallel Mothers",
+      "award": "沃尔皮杯·最佳女演员"
+    },
+    {
+      "id": "venice-best-actor-2021-on-the-job-the-missing-8-5",
+      "mediaType": "movie",
+      "title": "囚禁",
+      "releaseDate": "2021",
+      "externalIds": {
+        "letterboxd": "on-the-job-the-missing-8"
+      },
+      "awardYear": 2021,
+      "winner": "John Arcilla",
+      "englishTitle": "On the Job: The Missing 8",
+      "award": "沃尔皮杯·最佳男演员"
+    },
+    {
+      "id": "venice-best-screenplay-2021-the-lost-daughter-6",
+      "mediaType": "movie",
+      "title": "暗处的女儿",
+      "releaseDate": "2021",
+      "externalIds": {
+        "letterboxd": "the-lost-daughter"
+      },
+      "awardYear": 2021,
+      "winner": "Maggie Gyllenhaal",
+      "englishTitle": "The Lost Daughter",
+      "award": "最佳编剧奖"
+    },
+    {
+      "id": "venice-special-jury-prize-2021-il-buco-7",
+      "mediaType": "movie",
+      "title": "洞",
+      "releaseDate": "2021",
+      "externalIds": {
+        "letterboxd": "il-buco"
+      },
+      "awardYear": 2021,
+      "winner": "Michelangelo Frammartino",
+      "englishTitle": "Il buco",
+      "award": "评审团特别奖"
+    },
+    {
+      "id": "venice-mastroianni-2021-the-hand-of-god-8",
+      "mediaType": "movie",
+      "title": "上帝之手",
+      "releaseDate": "2021",
+      "externalIds": {
+        "letterboxd": "the-hand-of-god"
+      },
+      "awardYear": 2021,
+      "winner": "Filippo Scotti",
+      "englishTitle": "The Hand of God",
+      "award": "马塞洛·马斯楚安尼奖"
+    }
+  ]
+}

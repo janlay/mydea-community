@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "Mydea",
+  "title": "Venice Film Festival 2024 Awards",
+  "description": "Main Competition official award-winning films at the 2024 Venice International Film Festival.",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "venice-2024.list.json"
+    }
+  ]
+}

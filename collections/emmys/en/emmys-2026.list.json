@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T05:03:35Z",
+  "title": "Primetime Emmy Awards 2026 Winners",
+  "description": "Major-category winners from the 78th Primetime Emmy Awards.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "emmys-2026-drama-series-the-pitt",
+      "mediaType": "tv",
+      "title": "The Pitt",
+      "award": "Outstanding Drama Series",
+      "awardYear": 2026,
+      "awardOrder": 1,
+      "winner": "The Pitt",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31938062"
+      }
+    },
+    {
+      "id": "emmys-2026-comedy-series-widow-s-bay",
+      "mediaType": "tv",
+      "title": "Widow's Bay",
+      "award": "Outstanding Comedy Series",
+      "awardYear": 2026,
+      "awardOrder": 2,
+      "winner": "Widow's Bay",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt33332385"
+      }
+    },
+    {
+      "id": "emmys-2026-limited-series-dtf-st-louis",
+      "mediaType": "tv",
+      "title": "DTF St. Louis",
+      "award": "Outstanding Limited or Anthology Series",
+      "awardYear": 2026,
+      "awardOrder": 3,
+      "winner": "DTF St. Louis",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt34385331"
+      }
+    },
+    {
+      "id": "emmys-2026-lead-actor-drama-the-pitt",
+      "mediaType": "tv",
+      "title": "The Pitt",
+      "award": "Outstanding Lead Actor in a Drama Series",
+      "awardYear": 2026,
+      "awardOrder": 4,
+      "winner": "Noah Wyle",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31938062"
+      }
+    },
+    {
+      "id": "emmys-2026-lead-actress-drama-pluribus",
+      "mediaType": "tv",
+      "title": "Pluribus",
+      "award": "Outstanding Lead Actress in a Drama Series",
+      "awardYear": 2026,
+      "awardOrder": 5,
+      "winner": "Rhea Seehorn",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt22202452"
+      }
+    },
+    {
+      "id": "emmys-2026-lead-actor-comedy-widow-s-bay",
+      "mediaType": "tv",
+      "title": "Widow's Bay",
+      "award": "Outstanding Lead Actor in a Comedy Series",
+      "awardYear": 2026,
+      "awardOrder": 6,
+      "winner": "Matthew Rhys",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt33332385"
+      }
+    },
+    {
+      "id": "emmys-2026-lead-actress-comedy-hacks",
+      "mediaType": "tv",
+      "title": "Hacks",
+      "award": "Outstanding Lead Actress in a Comedy Series",
+      "awardYear": 2026,
+      "awardOrder": 7,
+      "winner": "Jean Smart",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt11815682"
+      }
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T05:03:35Z",
+  "title": "プライムタイム・エミー賞 2017 受賞一覧",
+  "description": "第69回プライムタイム・エミー賞の主要部門受賞記録。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "emmys-2017-drama-series-the-handmaid-s-tale",
+      "mediaType": "tv",
+      "title": "ハンドメイズ・テイル／侍女の物語",
+      "originalTitle": "The Handmaid's Tale",
+      "award": "作品賞 ドラマ・シリーズ部門",
+      "awardYear": 2017,
+      "awardOrder": 1,
+      "winner": "The Handmaid's Tale",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5834204"
+      }
+    },
+    {
+      "id": "emmys-2017-comedy-series-veep",
+      "mediaType": "tv",
+      "title": "Veep／ヴィープ",
+      "originalTitle": "Veep",
+      "award": "作品賞 コメディ・シリーズ部門",
+      "awardYear": 2017,
+      "awardOrder": 2,
+      "winner": "Veep",
+      "releaseDate": "2012",
+      "externalIds": {
+        "imdb": "tt1759761"
+      }
+    },
+    {
+      "id": "emmys-2017-limited-series-big-little-lies",
+      "mediaType": "tv",
+      "title": "ビッグ・リトル・ライズ",
+      "originalTitle": "Big Little Lies",
+      "award": "作品賞 リミテッド／アンソロジー・シリーズ部門",
+      "awardYear": 2017,
+      "awardOrder": 3,
+      "winner": "Big Little Lies",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt3920596"
+      }
+    },
+    {
+      "id": "emmys-2017-lead-actor-drama-this-is-us",
+      "mediaType": "tv",
+      "title": "THIS IS US／ディス・イズ・アス",
+      "originalTitle": "This Is Us",
+      "award": "主演男優賞 ドラマ・シリーズ部門",
+      "awardYear": 2017,
+      "awardOrder": 4,
+      "winner": "Sterling K. Brown",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5555260"
+      }
+    },
+    {
+      "id": "emmys-2017-lead-actress-drama-the-handmaid-s-tale",
+      "mediaType": "tv",
+      "title": "ハンドメイズ・テイル／侍女の物語",
+      "originalTitle": "The Handmaid's Tale",
+      "award": "主演女優賞 ドラマ・シリーズ部門",
+      "awardYear": 2017,
+      "awardOrder": 5,
+      "winner": "Elisabeth Moss",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5834204"
+      }
+    },
+    {
+      "id": "emmys-2017-lead-actor-comedy-atlanta",
+      "mediaType": "tv",
+      "title": "アトランタ",
+      "originalTitle": "Atlanta",
+      "award": "主演男優賞 コメディ・シリーズ部門",
+      "awardYear": 2017,
+      "awardOrder": 6,
+      "winner": "Donald Glover",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4288182"
+      }
+    },
+    {
+      "id": "emmys-2017-lead-actress-comedy-veep",
+      "mediaType": "tv",
+      "title": "Veep／ヴィープ",
+      "originalTitle": "Veep",
+      "award": "主演女優賞 コメディ・シリーズ部門",
+      "awardYear": 2017,
+      "awardOrder": 7,
+      "winner": "Julia Louis-Dreyfus",
+      "releaseDate": "2012",
+      "externalIds": {
+        "imdb": "tt1759761"
+      }
+    }
+  ]
+}

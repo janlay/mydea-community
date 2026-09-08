@@ -1,0 +1,570 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:45:00Z",
+  "title": "金馬獎 — 最佳女主角",
+  "description": "金馬獎最佳女主角歷屆全部實際得獎記錄；共同得獎保留完整得主。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "golden-horse-1962-best-actress-tt0211753",
+      "mediaType": "movie",
+      "title": "星星月亮太陽",
+      "awardYear": 1962,
+      "winner": "尤敏",
+      "releaseDate": "1962",
+      "externalIds": {
+        "imdb": "tt0211753"
+      }
+    },
+    {
+      "id": "golden-horse-1963-best-actress-tt0057248",
+      "mediaType": "movie",
+      "title": "梁山伯與祝英台",
+      "awardYear": 1963,
+      "winner": "樂蒂",
+      "releaseDate": "1963",
+      "externalIds": {
+        "imdb": "tt0057248"
+      }
+    },
+    {
+      "id": "golden-horse-1965-best-actress-item-3",
+      "mediaType": "movie",
+      "title": "故都春夢",
+      "awardYear": 1965,
+      "winner": "李麗華",
+      "releaseDate": "1965"
+    },
+    {
+      "id": "golden-horse-1966-best-actress-item-4",
+      "mediaType": "movie",
+      "title": "煙雨濛濛",
+      "awardYear": 1966,
+      "winner": "歸亞蕾",
+      "releaseDate": "1966"
+    },
+    {
+      "id": "golden-horse-1967-best-actress-item-5",
+      "mediaType": "movie",
+      "title": "幾度夕陽紅",
+      "awardYear": 1967,
+      "winner": "江青",
+      "releaseDate": "1967"
+    },
+    {
+      "id": "golden-horse-1968-best-actress-item-6",
+      "mediaType": "movie",
+      "title": "烽火萬里情",
+      "awardYear": 1968,
+      "winner": "凌波",
+      "releaseDate": "1968"
+    },
+    {
+      "id": "golden-horse-1969-best-actress-item-7",
+      "mediaType": "movie",
+      "title": "揚子江風雲",
+      "awardYear": 1969,
+      "winner": "李麗華",
+      "releaseDate": "1969"
+    },
+    {
+      "id": "golden-horse-1970-best-actress-tt0978620",
+      "mediaType": "movie",
+      "title": "家在台北",
+      "awardYear": 1970,
+      "winner": "歸亞蕾",
+      "releaseDate": "1970",
+      "externalIds": {
+        "imdb": "tt0978620"
+      }
+    },
+    {
+      "id": "golden-horse-1971-best-actress-item-9",
+      "mediaType": "movie",
+      "title": "董夫人",
+      "awardYear": 1971,
+      "winner": "盧燕",
+      "releaseDate": "1971"
+    },
+    {
+      "id": "golden-horse-1972-best-actress-item-10",
+      "mediaType": "movie",
+      "title": "真假千金",
+      "awardYear": 1972,
+      "winner": "翁倩玉",
+      "releaseDate": "1972"
+    },
+    {
+      "id": "golden-horse-1973-best-actress-item-11",
+      "mediaType": "movie",
+      "title": "馬路小英雄",
+      "awardYear": 1973,
+      "winner": "上官靈鳳",
+      "releaseDate": "1973"
+    },
+    {
+      "id": "golden-horse-1975-best-actress-item-12",
+      "mediaType": "movie",
+      "title": "傾國傾城",
+      "awardYear": 1975,
+      "winner": "盧燕",
+      "releaseDate": "1975"
+    },
+    {
+      "id": "golden-horse-1976-best-actress-item-13",
+      "mediaType": "movie",
+      "title": "刺客",
+      "awardYear": 1976,
+      "winner": "徐楓",
+      "releaseDate": "1976"
+    },
+    {
+      "id": "golden-horse-1977-best-actress-item-14",
+      "mediaType": "movie",
+      "title": "秋霞",
+      "awardYear": 1977,
+      "winner": "陳秋霞",
+      "releaseDate": "1977"
+    },
+    {
+      "id": "golden-horse-1978-best-actress-item-15",
+      "mediaType": "movie",
+      "title": "蒂蒂日記",
+      "awardYear": 1978,
+      "winner": "恬妞",
+      "releaseDate": "1978"
+    },
+    {
+      "id": "golden-horse-1979-best-actress-tt0314907",
+      "mediaType": "movie",
+      "title": "小城故事",
+      "awardYear": 1979,
+      "winner": "林鳳嬌",
+      "releaseDate": "1979",
+      "externalIds": {
+        "imdb": "tt0314907"
+      }
+    },
+    {
+      "id": "golden-horse-1980-best-actress-item-17",
+      "mediaType": "movie",
+      "title": "源",
+      "awardYear": 1980,
+      "winner": "徐楓",
+      "releaseDate": "1980"
+    },
+    {
+      "id": "golden-horse-1981-best-actress-item-18",
+      "mediaType": "movie",
+      "title": "我的爺爺",
+      "awardYear": 1981,
+      "winner": "張艾嘉",
+      "releaseDate": "1981"
+    },
+    {
+      "id": "golden-horse-1982-best-actress-item-19",
+      "mediaType": "movie",
+      "title": "武松",
+      "awardYear": 1982,
+      "winner": "汪萍",
+      "releaseDate": "1982"
+    },
+    {
+      "id": "golden-horse-1983-best-actress-item-20",
+      "mediaType": "movie",
+      "title": "看海的日子",
+      "awardYear": 1983,
+      "winner": "陸小芬",
+      "releaseDate": "1983"
+    },
+    {
+      "id": "golden-horse-1984-best-actress-item-21",
+      "mediaType": "movie",
+      "title": "小逃犯",
+      "awardYear": 1984,
+      "winner": "楊惠姍",
+      "releaseDate": "1984"
+    },
+    {
+      "id": "golden-horse-1985-best-actress-item-22",
+      "mediaType": "movie",
+      "title": "我這樣過了一生",
+      "awardYear": 1985,
+      "winner": "楊惠姍",
+      "releaseDate": "1985"
+    },
+    {
+      "id": "golden-horse-1986-best-actress-item-23",
+      "mediaType": "movie",
+      "title": "最愛",
+      "awardYear": 1986,
+      "winner": "張艾嘉",
+      "releaseDate": "1986"
+    },
+    {
+      "id": "golden-horse-1987-best-actress-item-24",
+      "mediaType": "movie",
+      "title": "胭脂扣",
+      "awardYear": 1987,
+      "winner": "梅艷芳",
+      "releaseDate": "1987"
+    },
+    {
+      "id": "golden-horse-1988-best-actress-item-25",
+      "mediaType": "movie",
+      "title": "星星月亮太陽",
+      "awardYear": 1988,
+      "winner": "鄭裕玲",
+      "releaseDate": "1988"
+    },
+    {
+      "id": "golden-horse-1989-best-actress-item-26",
+      "mediaType": "movie",
+      "title": "三個女人的故事",
+      "awardYear": 1989,
+      "winner": "張曼玉",
+      "releaseDate": "1989"
+    },
+    {
+      "id": "golden-horse-1990-best-actress-tt0099719",
+      "mediaType": "movie",
+      "title": "滾滾紅塵",
+      "awardYear": 1990,
+      "winner": "林青霞",
+      "releaseDate": "1990",
+      "externalIds": {
+        "imdb": "tt0099719"
+      }
+    },
+    {
+      "id": "golden-horse-1991-best-actress-item-28",
+      "mediaType": "movie",
+      "title": "阮玲玉",
+      "awardYear": 1991,
+      "winner": "張曼玉",
+      "releaseDate": "1991"
+    },
+    {
+      "id": "golden-horse-1992-best-actress-item-29",
+      "mediaType": "movie",
+      "title": "浮世戀曲",
+      "awardYear": 1992,
+      "winner": "陳令智",
+      "releaseDate": "1992"
+    },
+    {
+      "id": "golden-horse-1993-best-actress-item-30",
+      "mediaType": "movie",
+      "title": "赤裸的誘惑",
+      "awardYear": 1993,
+      "winner": "吳家麗",
+      "releaseDate": "1993"
+    },
+    {
+      "id": "golden-horse-1994-best-actress-item-31",
+      "mediaType": "movie",
+      "title": "紅玫瑰白玫瑰",
+      "awardYear": 1994,
+      "winner": "陳冲",
+      "releaseDate": "1994"
+    },
+    {
+      "id": "golden-horse-1995-best-actress-item-32",
+      "mediaType": "movie",
+      "title": "女人四十",
+      "awardYear": 1995,
+      "winner": "蕭芳芳",
+      "releaseDate": "1995"
+    },
+    {
+      "id": "golden-horse-1996-best-actress-item-33",
+      "mediaType": "movie",
+      "title": "虎度門",
+      "awardYear": 1996,
+      "winner": "蕭芳芳",
+      "releaseDate": "1996"
+    },
+    {
+      "id": "golden-horse-1997-best-actress-tt0117905",
+      "mediaType": "movie",
+      "title": "甜蜜蜜",
+      "awardYear": 1997,
+      "winner": "張曼玉",
+      "releaseDate": "1997",
+      "externalIds": {
+        "imdb": "tt0117905"
+      }
+    },
+    {
+      "id": "golden-horse-1998-best-actress-tt0115005",
+      "mediaType": "movie",
+      "title": "天浴",
+      "awardYear": 1998,
+      "winner": "李小璐",
+      "releaseDate": "1998",
+      "externalIds": {
+        "imdb": "tt0115005"
+      }
+    },
+    {
+      "id": "golden-horse-1999-best-actress-item-36",
+      "mediaType": "movie",
+      "title": "千言萬語",
+      "awardYear": 1999,
+      "winner": "李麗珍",
+      "releaseDate": "1999"
+    },
+    {
+      "id": "golden-horse-2000-best-actress-item-37",
+      "mediaType": "movie",
+      "title": "花樣年華",
+      "awardYear": 2000,
+      "winner": "張曼玉",
+      "releaseDate": "2000"
+    },
+    {
+      "id": "golden-horse-2001-best-actress-tt0255327",
+      "mediaType": "movie",
+      "title": "榴槤飄飄",
+      "awardYear": 2001,
+      "winner": "秦海璐",
+      "releaseDate": "2001",
+      "externalIds": {
+        "imdb": "tt0255327"
+      }
+    },
+    {
+      "id": "golden-horse-2002-best-actress-item-39",
+      "mediaType": "movie",
+      "title": "見鬼",
+      "awardYear": 2002,
+      "winner": "李心潔",
+      "releaseDate": "2002"
+    },
+    {
+      "id": "golden-horse-2003-best-actress-item-40",
+      "mediaType": "movie",
+      "title": "金雞",
+      "awardYear": 2003,
+      "winner": "吳君如",
+      "releaseDate": "2003"
+    },
+    {
+      "id": "golden-horse-2004-best-actress-item-41",
+      "mediaType": "movie",
+      "title": "月光下，我記得",
+      "awardYear": 2004,
+      "winner": "楊貴媚",
+      "releaseDate": "2004"
+    },
+    {
+      "id": "golden-horse-2005-best-actress-item-42",
+      "mediaType": "movie",
+      "title": "最好的時光",
+      "awardYear": 2005,
+      "winner": "舒淇",
+      "releaseDate": "2005"
+    },
+    {
+      "id": "golden-horse-2006-best-actress-item-43",
+      "mediaType": "movie",
+      "title": "如果·愛",
+      "awardYear": 2006,
+      "winner": "周迅",
+      "releaseDate": "2006"
+    },
+    {
+      "id": "golden-horse-2007-best-actress-item-44",
+      "mediaType": "movie",
+      "title": "意",
+      "awardYear": 2007,
+      "winner": "陳冲",
+      "releaseDate": "2007"
+    },
+    {
+      "id": "golden-horse-2008-best-actress-item-45",
+      "mediaType": "movie",
+      "title": "我不賣身，我賣子宮",
+      "awardYear": 2008,
+      "winner": "劉美君",
+      "releaseDate": "2008"
+    },
+    {
+      "id": "golden-horse-2009-best-actress-item-46",
+      "mediaType": "movie",
+      "title": "風聲",
+      "awardYear": 2009,
+      "winner": "李冰冰",
+      "releaseDate": "2009"
+    },
+    {
+      "id": "golden-horse-2010-best-actress-item-47",
+      "mediaType": "movie",
+      "title": "玩酷青春",
+      "awardYear": 2010,
+      "winner": "呂麗萍",
+      "releaseDate": "2010"
+    },
+    {
+      "id": "golden-horse-2011-best-actress-item-48",
+      "mediaType": "movie",
+      "title": "桃姐",
+      "awardYear": 2011,
+      "winner": "葉德嫻",
+      "releaseDate": "2011"
+    },
+    {
+      "id": "golden-horse-2012-best-actress-item-49",
+      "mediaType": "movie",
+      "title": "女朋友。男朋友",
+      "awardYear": 2012,
+      "winner": "桂綸鎂",
+      "releaseDate": "2012"
+    },
+    {
+      "id": "golden-horse-2013-best-actress-item-50",
+      "mediaType": "movie",
+      "title": "一代宗師",
+      "awardYear": 2013,
+      "winner": "章子怡",
+      "releaseDate": "2013"
+    },
+    {
+      "id": "golden-horse-2014-best-actress-item-51",
+      "mediaType": "movie",
+      "title": "迴光奏鳴曲",
+      "awardYear": 2014,
+      "winner": "陳湘琪",
+      "releaseDate": "2014"
+    },
+    {
+      "id": "golden-horse-2015-best-actress-item-52",
+      "mediaType": "movie",
+      "title": "百日告別",
+      "awardYear": 2015,
+      "winner": "林嘉欣",
+      "releaseDate": "2015"
+    },
+    {
+      "id": "golden-horse-2016-best-actress-tt6054290",
+      "mediaType": "movie",
+      "title": "七月與安生",
+      "awardYear": 2016,
+      "winner": "周冬雨、馬思純",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt6054290"
+      }
+    },
+    {
+      "id": "golden-horse-2017-best-actress-tt7479784",
+      "mediaType": "movie",
+      "title": "血觀音",
+      "awardYear": 2017,
+      "winner": "惠英紅",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7479784"
+      }
+    },
+    {
+      "id": "golden-horse-2018-best-actress-tt8443704",
+      "mediaType": "movie",
+      "title": "誰先愛上他的",
+      "awardYear": 2018,
+      "winner": "謝盈萱",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8443704"
+      }
+    },
+    {
+      "id": "golden-horse-2019-best-actress-tt9822706",
+      "mediaType": "movie",
+      "title": "熱帶雨",
+      "awardYear": 2019,
+      "winner": "楊雁雁",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt9822706"
+      }
+    },
+    {
+      "id": "golden-horse-2020-best-actress-tt12397078",
+      "mediaType": "movie",
+      "title": "孤味",
+      "awardYear": 2020,
+      "winner": "陳淑芳",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt12397078"
+      }
+    },
+    {
+      "id": "golden-horse-2021-best-actress-tt15119668",
+      "mediaType": "movie",
+      "title": "瀑布",
+      "awardYear": 2021,
+      "winner": "賈靜雯",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt15119668"
+      }
+    },
+    {
+      "id": "golden-horse-2022-best-actress-tt14071600",
+      "mediaType": "movie",
+      "title": "燈火闌珊",
+      "awardYear": 2022,
+      "winner": "張艾嘉",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt14071600"
+      }
+    },
+    {
+      "id": "golden-horse-2023-best-actress-tt29566160",
+      "mediaType": "movie",
+      "title": "小曉",
+      "awardYear": 2023,
+      "winner": "林品彤",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt29566160"
+      }
+    },
+    {
+      "id": "golden-horse-2024-best-actress-tt31660693",
+      "mediaType": "movie",
+      "title": "看我今天怎麼說",
+      "awardYear": 2024,
+      "winner": "鍾雪瑩",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt31660693"
+      }
+    },
+    {
+      "id": "golden-horse-2025-best-actress-tt33708662",
+      "mediaType": "movie",
+      "title": "地母",
+      "awardYear": 2025,
+      "winner": "范冰冰",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt33708662"
+      }
+    }
+  ]
+}

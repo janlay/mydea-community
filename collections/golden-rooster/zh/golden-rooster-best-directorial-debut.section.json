@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "ChatGPT",
+  "title": "金鸡奖 — 最佳导演处女作",
+  "description": "中国电影金鸡奖历届最佳导演处女作获奖记录；并列获奖按独立条目保留。",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "golden-rooster-best-directorial-debut.list.json"
+    }
+  ]
+}

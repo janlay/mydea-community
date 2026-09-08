@@ -1,0 +1,165 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "title": "Golden Globes Awards",
+  "description": "Winners of major Golden Globe film and television program categories.",
+  "tags": [
+    "award",
+    "prize"
+  ],
+  "icon": "ticket",
+  "sections": [
+    {
+      "title": "Golden Globes — Best Motion Picture – Drama",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "carousel",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "golden-globes-drama.list.json"
+        }
+      ]
+    },
+    {
+      "title": "Golden Globes — Best Motion Picture – Musical or Comedy",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "golden-globes-comedy.list.json"
+        }
+      ]
+    },
+    {
+      "title": "Golden Globes — Best Motion Picture – Animated",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "golden-globes-animated.list.json"
+        }
+      ]
+    },
+    {
+      "title": "Golden Globes — Best Motion Picture – Non-English Language",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "golden-globes-foreign.list.json"
+        }
+      ]
+    },
+    {
+      "title": "Golden Globes — Best Television Series – Drama",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "golden-globes-tv-drama.list.json"
+        }
+      ]
+    },
+    {
+      "title": "Golden Globes — Best Television Series – Musical or Comedy",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "golden-globes-tv-comedy.list.json"
+        }
+      ]
+    },
+    {
+      "title": "Golden Globes — Best Television Limited Series, Anthology Series or Motion Picture Made for Television",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "golden-globes-limited.list.json"
+        }
+      ]
+    },
+    {
+      "title": "Golden Globes — Cinematic and Box Office Achievement",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "golden-globes-boxoffice.list.json"
+        }
+      ]
+    }
+  ]
+}

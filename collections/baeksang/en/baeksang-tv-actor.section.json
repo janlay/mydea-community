@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "ChatGPT",
+  "title": "Baeksang Arts Awards — Best Actor Broadcast",
+  "description": "Baeksang Arts Awards Best Actor Broadcast winners from 2017 to 2026.",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "baeksang-tv-actor.list.json"
+    }
+  ]
+}

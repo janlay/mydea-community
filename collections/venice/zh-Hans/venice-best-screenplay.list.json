@@ -1,0 +1,216 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:30:00Z",
+  "title": "威尼斯 — 最佳编剧奖",
+  "description": "威尼斯国际电影节历届最佳编剧奖获奖影片/表演记录；按该奖项现行或历史等价类别整理。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "venice-best-screenplay-1937-the-pearls-of-the-crown-1",
+      "mediaType": "movie",
+      "title": "The Pearls of the Crown",
+      "releaseDate": "1937",
+      "externalIds": {
+        "letterboxd": "the-pearls-of-the-crown"
+      },
+      "awardYear": 1937,
+      "winner": "Sacha Guitry & Christian-Jaque"
+    },
+    {
+      "id": "venice-best-screenplay-1947-spring-2",
+      "mediaType": "movie",
+      "title": "Spring",
+      "releaseDate": "1947",
+      "externalIds": {
+        "letterboxd": "spring"
+      },
+      "awardYear": 1947,
+      "winner": "Grigori Aleksandrov, Moris Slobodskoy & Aleksandr Raskin"
+    },
+    {
+      "id": "venice-best-screenplay-2000-one-hundred-steps-3",
+      "mediaType": "movie",
+      "title": "One Hundred Steps",
+      "releaseDate": "2000",
+      "externalIds": {
+        "letterboxd": "one-hundred-steps"
+      },
+      "awardYear": 2000,
+      "winner": "Claudio Fava, Marco Tullio Giordana & Monica Zapelli"
+    },
+    {
+      "id": "venice-best-screenplay-2001-y-tu-mama-tambien-4",
+      "mediaType": "movie",
+      "title": "Y tu mamá también",
+      "releaseDate": "2001",
+      "externalIds": {
+        "letterboxd": "y-tu-mama-tambien"
+      },
+      "awardYear": 2001,
+      "winner": "Alfonso Cuarón & Carlos Cuarón"
+    },
+    {
+      "id": "venice-best-screenplay-2013-philomena-5",
+      "mediaType": "movie",
+      "title": "Philomena",
+      "releaseDate": "2013",
+      "externalIds": {
+        "letterboxd": "philomena"
+      },
+      "awardYear": 2013,
+      "winner": "Steve Coogan & Jeff Pope"
+    },
+    {
+      "id": "venice-best-screenplay-2014-tales-6",
+      "mediaType": "movie",
+      "title": "Tales",
+      "releaseDate": "2014",
+      "externalIds": {
+        "letterboxd": "tales"
+      },
+      "awardYear": 2014,
+      "winner": "Rakhshān Banietemad & Farid Mostafavi"
+    },
+    {
+      "id": "venice-best-screenplay-2015-courted-7",
+      "mediaType": "movie",
+      "title": "Courted",
+      "releaseDate": "2015",
+      "externalIds": {
+        "letterboxd": "courted"
+      },
+      "awardYear": 2015,
+      "winner": "Christian Vincent"
+    },
+    {
+      "id": "venice-best-screenplay-2016-jackie-8",
+      "mediaType": "movie",
+      "title": "第一夫人",
+      "releaseDate": "2016",
+      "externalIds": {
+        "letterboxd": "jackie"
+      },
+      "awardYear": 2016,
+      "winner": "Noah Oppenheim",
+      "englishTitle": "Jackie"
+    },
+    {
+      "id": "venice-best-screenplay-2017-three-billboards-outside-ebbing-missouri-9",
+      "mediaType": "movie",
+      "title": "三块广告牌",
+      "releaseDate": "2017",
+      "externalIds": {
+        "letterboxd": "three-billboards-outside-ebbing-missouri"
+      },
+      "awardYear": 2017,
+      "winner": "Martin McDonagh",
+      "englishTitle": "Three Billboards Outside Ebbing, Missouri"
+    },
+    {
+      "id": "venice-best-screenplay-2018-the-ballad-of-buster-scruggs-10",
+      "mediaType": "movie",
+      "title": "巴斯特·斯克鲁格斯的歌谣",
+      "releaseDate": "2018",
+      "externalIds": {
+        "letterboxd": "the-ballad-of-buster-scruggs"
+      },
+      "awardYear": 2018,
+      "winner": "Joel Coen & Ethan Coen",
+      "englishTitle": "The Ballad of Buster Scruggs"
+    },
+    {
+      "id": "venice-best-screenplay-2019-no-7-cherry-lane-11",
+      "mediaType": "movie",
+      "title": "继园台七号",
+      "releaseDate": "2019",
+      "externalIds": {
+        "letterboxd": "no-7-cherry-lane"
+      },
+      "awardYear": 2019,
+      "winner": "Yonfan",
+      "englishTitle": "No. 7 Cherry Lane"
+    },
+    {
+      "id": "venice-best-screenplay-2020-the-disciple-12",
+      "mediaType": "movie",
+      "title": "The Disciple",
+      "releaseDate": "2020",
+      "externalIds": {
+        "letterboxd": "the-disciple"
+      },
+      "awardYear": 2020,
+      "winner": "Chaitanya Tamhane"
+    },
+    {
+      "id": "venice-best-screenplay-2021-the-lost-daughter-13",
+      "mediaType": "movie",
+      "title": "暗处的女儿",
+      "releaseDate": "2021",
+      "externalIds": {
+        "letterboxd": "the-lost-daughter"
+      },
+      "awardYear": 2021,
+      "winner": "Maggie Gyllenhaal",
+      "englishTitle": "The Lost Daughter"
+    },
+    {
+      "id": "venice-best-screenplay-2022-the-banshees-of-inisherin-14",
+      "mediaType": "movie",
+      "title": "伊尼舍林的报丧女妖",
+      "releaseDate": "2022",
+      "externalIds": {
+        "letterboxd": "the-banshees-of-inisherin"
+      },
+      "awardYear": 2022,
+      "winner": "Martin McDonagh",
+      "englishTitle": "The Banshees of Inisherin"
+    },
+    {
+      "id": "venice-best-screenplay-2023-el-conde-15",
+      "mediaType": "movie",
+      "title": "伯爵",
+      "releaseDate": "2023",
+      "externalIds": {
+        "letterboxd": "el-conde"
+      },
+      "awardYear": 2023,
+      "winner": "Guillermo Calderón & Pablo Larraín",
+      "englishTitle": "El Conde"
+    },
+    {
+      "id": "venice-best-screenplay-2024-i-m-still-here-16",
+      "mediaType": "movie",
+      "title": "我仍在此",
+      "releaseDate": "2024",
+      "externalIds": {
+        "letterboxd": "i-m-still-here"
+      },
+      "awardYear": 2024,
+      "winner": "Murilo Hauser & Heitor Lorega",
+      "englishTitle": "I'm Still Here"
+    },
+    {
+      "id": "venice-best-screenplay-2025-at-work-17",
+      "mediaType": "movie",
+      "title": "工作中",
+      "releaseDate": "2025",
+      "externalIds": {
+        "letterboxd": "at-work"
+      },
+      "awardYear": 2025,
+      "winner": "Valérie Donzelli & Gilles Marchand",
+      "englishTitle": "At Work"
+    }
+  ]
+}

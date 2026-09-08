@@ -1,0 +1,238 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T00:56:00Z",
+  "title": "中国电影金鸡奖 2021 年获奖名单",
+  "description": "第34届中国电影金鸡奖主要获奖影片与影人。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "golden-rooster-2021-best-feature-film-60441916",
+      "mediaType": "movie",
+      "title": "守岛人",
+      "awardYear": 2021,
+      "awardOrder": 1,
+      "award": "最佳故事片",
+      "winner": "陈力"
+    },
+    {
+      "id": "golden-rooster-2021-jury-special-prize-21558402",
+      "mediaType": "movie",
+      "title": "我和我的家乡",
+      "awardYear": 2021,
+      "awardOrder": 2,
+      "award": "评委会特别奖"
+    },
+    {
+      "id": "golden-rooster-2021-best-director-98534377",
+      "mediaType": "movie",
+      "title": "悬崖之上",
+      "releaseDate": "2021",
+      "externalIds": {
+        "tmdb": "602334",
+        "imdb": "tt11448076"
+      },
+      "awardYear": 2021,
+      "awardOrder": 3,
+      "award": "最佳导演",
+      "winner": "张艺谋"
+    },
+    {
+      "id": "golden-rooster-2021-best-actor-01421861",
+      "mediaType": "movie",
+      "title": "悬崖之上",
+      "releaseDate": "2021",
+      "externalIds": {
+        "tmdb": "602334",
+        "imdb": "tt11448076"
+      },
+      "awardYear": 2021,
+      "awardOrder": 4,
+      "award": "最佳男主角",
+      "winner": "张译"
+    },
+    {
+      "id": "golden-rooster-2021-best-actress-29641320",
+      "mediaType": "movie",
+      "title": "你好，李焕英",
+      "releaseDate": "2021",
+      "externalIds": {
+        "tmdb": "776503",
+        "imdb": "tt13364790"
+      },
+      "awardYear": 2021,
+      "awardOrder": 5,
+      "award": "最佳女主角",
+      "winner": "张小斐"
+    },
+    {
+      "id": "golden-rooster-2021-best-supporting-actor-65303219",
+      "mediaType": "movie",
+      "title": "一秒钟",
+      "releaseDate": "2020",
+      "externalIds": {
+        "tmdb": "575818",
+        "imdb": "tt8959680"
+      },
+      "awardYear": 2021,
+      "awardOrder": 6,
+      "award": "最佳男配角",
+      "winner": "范伟"
+    },
+    {
+      "id": "golden-rooster-2021-best-supporting-actress-59386632",
+      "mediaType": "movie",
+      "title": "我的姐姐",
+      "releaseDate": "2021",
+      "externalIds": {
+        "tmdb": "795607",
+        "imdb": "tt12788408"
+      },
+      "awardYear": 2021,
+      "awardOrder": 7,
+      "award": "最佳女配角",
+      "winner": "朱媛媛"
+    },
+    {
+      "id": "golden-rooster-2021-best-screenplay-44756025",
+      "mediaType": "movie",
+      "title": "1921",
+      "awardYear": 2021,
+      "awardOrder": 8,
+      "award": "最佳编剧",
+      "winner": "余曦、黄欣、赵宁宇"
+    },
+    {
+      "id": "golden-rooster-2021-best-directorial-debut-72159913",
+      "mediaType": "movie",
+      "title": "随风飘散",
+      "awardYear": 2021,
+      "awardOrder": 9,
+      "award": "最佳导演处女作",
+      "winner": "旦真旺甲"
+    },
+    {
+      "id": "golden-rooster-2021-best-documentary-25261696",
+      "mediaType": "movie",
+      "title": "九零后",
+      "awardYear": 2021,
+      "awardOrder": 10,
+      "award": "最佳纪录片"
+    },
+    {
+      "id": "golden-rooster-2021-best-foreign-language-film-69831792",
+      "mediaType": "movie",
+      "title": "困在时间里的父亲",
+      "awardYear": 2021,
+      "awardOrder": 11,
+      "award": "最佳外语片"
+    },
+    {
+      "id": "golden-rooster-2021-best-low-budget-feature-83713029",
+      "mediaType": "movie",
+      "title": "冰下的鱼",
+      "awardYear": 2021,
+      "awardOrder": 12,
+      "award": "最佳中小成本故事片"
+    },
+    {
+      "id": "golden-rooster-2021-best-children-film-06039021",
+      "mediaType": "movie",
+      "title": "再见吧！少年",
+      "awardYear": 2021,
+      "awardOrder": 13,
+      "award": "最佳儿童片"
+    },
+    {
+      "id": "golden-rooster-2021-best-opera-film-16538247",
+      "mediaType": "movie",
+      "title": "南越宫词",
+      "awardYear": 2021,
+      "awardOrder": 14,
+      "award": "最佳戏曲片"
+    },
+    {
+      "id": "golden-rooster-2021-best-animation-38184457",
+      "mediaType": "movie",
+      "title": "白蛇2：青蛇劫起",
+      "awardYear": 2021,
+      "awardOrder": 15,
+      "award": "最佳美术片"
+    },
+    {
+      "id": "golden-rooster-2021-best-sound-27330729",
+      "mediaType": "movie",
+      "title": "一秒钟",
+      "releaseDate": "2020",
+      "externalIds": {
+        "tmdb": "575818",
+        "imdb": "tt8959680"
+      },
+      "awardYear": 2021,
+      "awardOrder": 16,
+      "award": "最佳录音",
+      "winner": "陶经"
+    },
+    {
+      "id": "golden-rooster-2021-best-cinematography-36564645",
+      "mediaType": "movie",
+      "title": "悬崖之上",
+      "releaseDate": "2021",
+      "externalIds": {
+        "tmdb": "602334",
+        "imdb": "tt11448076"
+      },
+      "awardYear": 2021,
+      "awardOrder": 17,
+      "award": "最佳摄影",
+      "winner": "赵小丁"
+    },
+    {
+      "id": "golden-rooster-2021-best-art-direction-26080104",
+      "mediaType": "movie",
+      "title": "革命者",
+      "awardYear": 2021,
+      "awardOrder": 18,
+      "award": "最佳美术",
+      "winner": "霍廷霄"
+    },
+    {
+      "id": "golden-rooster-2021-best-music-25609434",
+      "mediaType": "movie",
+      "title": "中国医生",
+      "releaseDate": "2021",
+      "externalIds": {
+        "tmdb": "848439",
+        "imdb": "tt13696296"
+      },
+      "awardYear": 2021,
+      "awardOrder": 19,
+      "award": "最佳音乐",
+      "winner": "陈光荣、陈永健"
+    },
+    {
+      "id": "golden-rooster-2021-best-editing-79295854",
+      "mediaType": "movie",
+      "title": "拆弹专家2",
+      "releaseDate": "2020",
+      "awardYear": 2021,
+      "awardOrder": 20,
+      "award": "最佳剪辑",
+      "winner": "钟炜钊"
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T00:56:00Z",
+  "title": "中国电影金鸡奖 2020 年获奖名单",
+  "description": "第33届中国电影金鸡奖主要获奖影片与影人。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "golden-rooster-2020-best-feature-film-09510219",
+      "mediaType": "movie",
+      "title": "夺冠",
+      "releaseDate": "2020",
+      "externalIds": {
+        "tmdb": "541560",
+        "imdb": "tt10670442"
+      },
+      "awardYear": 2020,
+      "awardOrder": 1,
+      "award": "最佳故事片",
+      "winner": "陈可辛"
+    },
+    {
+      "id": "golden-rooster-2020-jury-special-prize-59237823",
+      "mediaType": "movie",
+      "title": "我和我的祖国",
+      "releaseDate": "2019",
+      "externalIds": {
+        "tmdb": "612070",
+        "imdb": "tt10147382"
+      },
+      "awardYear": 2020,
+      "awardOrder": 2,
+      "award": "评委会特别奖"
+    },
+    {
+      "id": "golden-rooster-2020-best-director-59098210",
+      "mediaType": "movie",
+      "title": "白云之下",
+      "awardYear": 2020,
+      "awardOrder": 3,
+      "award": "最佳导演",
+      "winner": "王瑞"
+    },
+    {
+      "id": "golden-rooster-2020-best-actor-29247686",
+      "mediaType": "movie",
+      "title": "烈火英雄",
+      "releaseDate": "2019",
+      "externalIds": {
+        "tmdb": "615457",
+        "imdb": "tt10218674"
+      },
+      "awardYear": 2020,
+      "awardOrder": 4,
+      "award": "最佳男主角",
+      "winner": "黄晓明"
+    },
+    {
+      "id": "golden-rooster-2020-best-actress-34851464",
+      "mediaType": "movie",
+      "title": "少年的你",
+      "releaseDate": "2019",
+      "externalIds": {
+        "tmdb": "575813",
+        "imdb": "tt9586294"
+      },
+      "awardYear": 2020,
+      "awardOrder": 5,
+      "award": "最佳女主角",
+      "winner": "周冬雨"
+    },
+    {
+      "id": "golden-rooster-2020-best-supporting-actor-74463938",
+      "mediaType": "movie",
+      "title": "烈火英雄",
+      "releaseDate": "2019",
+      "externalIds": {
+        "tmdb": "615457",
+        "imdb": "tt10218674"
+      },
+      "awardYear": 2020,
+      "awardOrder": 6,
+      "award": "最佳男配角",
+      "winner": "印小天"
+    },
+    {
+      "id": "golden-rooster-2020-best-supporting-actress-73875884",
+      "mediaType": "movie",
+      "title": "中国机长",
+      "releaseDate": "2019",
+      "externalIds": {
+        "tmdb": "595975",
+        "imdb": "tt10218674"
+      },
+      "awardYear": 2020,
+      "awardOrder": 7,
+      "award": "最佳女配角",
+      "winner": "袁泉"
+    },
+    {
+      "id": "golden-rooster-2020-best-screenplay-69293191",
+      "mediaType": "movie",
+      "title": "夺冠",
+      "releaseDate": "2020",
+      "externalIds": {
+        "tmdb": "541560",
+        "imdb": "tt10670442"
+      },
+      "awardYear": 2020,
+      "awardOrder": 8,
+      "award": "最佳编剧",
+      "winner": "张冀"
+    },
+    {
+      "id": "golden-rooster-2020-best-directorial-debut-52517439",
+      "mediaType": "movie",
+      "title": "受益人",
+      "awardYear": 2020,
+      "awardOrder": 9,
+      "award": "最佳导演处女作",
+      "winner": "申奥"
+    },
+    {
+      "id": "golden-rooster-2020-best-documentary-science-29232059",
+      "mediaType": "movie",
+      "title": "掬水月在手",
+      "awardYear": 2020,
+      "awardOrder": 10,
+      "award": "最佳纪录科教片"
+    },
+    {
+      "id": "golden-rooster-2020-best-low-budget-feature-75389099",
+      "mediaType": "movie",
+      "title": "我的喜马拉雅",
+      "awardYear": 2020,
+      "awardOrder": 11,
+      "award": "最佳中小成本故事片"
+    },
+    {
+      "id": "golden-rooster-2020-best-children-film-50183726",
+      "mediaType": "movie",
+      "title": "点点星光",
+      "awardYear": 2020,
+      "awardOrder": 12,
+      "award": "最佳儿童片"
+    },
+    {
+      "id": "golden-rooster-2020-best-opera-film-73129529",
+      "mediaType": "movie",
+      "title": "贞观盛世",
+      "awardYear": 2020,
+      "awardOrder": 13,
+      "award": "最佳戏曲片"
+    },
+    {
+      "id": "golden-rooster-2020-best-animation-74233586",
+      "mediaType": "movie",
+      "title": "哪吒之魔童降世",
+      "releaseDate": "2019",
+      "externalIds": {
+        "tmdb": "615453",
+        "imdb": "tt10627720"
+      },
+      "awardYear": 2020,
+      "awardOrder": 14,
+      "award": "最佳美术片"
+    },
+    {
+      "id": "golden-rooster-2020-best-sound-05931484",
+      "mediaType": "movie",
+      "title": "只有芸知道",
+      "awardYear": 2020,
+      "awardOrder": 15,
+      "award": "最佳录音",
+      "winner": "吴江"
+    },
+    {
+      "id": "golden-rooster-2020-best-cinematography-01411594",
+      "mediaType": "movie",
+      "title": "夺冠",
+      "releaseDate": "2020",
+      "externalIds": {
+        "tmdb": "541560",
+        "imdb": "tt10670442"
+      },
+      "awardYear": 2020,
+      "awardOrder": 16,
+      "award": "最佳摄影",
+      "winner": "赵晓时"
+    },
+    {
+      "id": "golden-rooster-2020-best-art-direction-07535279",
+      "mediaType": "movie",
+      "title": "解放·终局营救",
+      "awardYear": 2020,
+      "awardOrder": 17,
+      "award": "最佳美术",
+      "winner": "宋军、东智良、郭钟山"
+    },
+    {
+      "id": "golden-rooster-2020-best-editing-64475533",
+      "mediaType": "movie",
+      "title": "少年的你",
+      "releaseDate": "2019",
+      "externalIds": {
+        "tmdb": "575813",
+        "imdb": "tt9586294"
+      },
+      "awardYear": 2020,
+      "awardOrder": 18,
+      "award": "最佳剪辑",
+      "winner": "张一博"
+    }
+  ]
+}

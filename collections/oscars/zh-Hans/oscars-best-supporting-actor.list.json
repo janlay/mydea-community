@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T05:03:58Z",
+  "title": "奥斯卡 — 最佳男配角",
+  "description": "奥斯卡最佳男配角最近十届获奖记录。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "oscars-best-supporting-actor-2017-moonlight",
+      "mediaType": "movie",
+      "title": "Moonlight",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4975722"
+      },
+      "awardYear": 2017,
+      "winner": "Mahershala Ali"
+    },
+    {
+      "id": "oscars-best-supporting-actor-2018-three-billboards-outside-ebbing-missouri",
+      "mediaType": "movie",
+      "title": "Three Billboards Outside Ebbing, Missouri",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5027774"
+      },
+      "awardYear": 2018,
+      "winner": "Sam Rockwell"
+    },
+    {
+      "id": "oscars-best-supporting-actor-2019-green-book",
+      "mediaType": "movie",
+      "title": "Green Book",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt6966692"
+      },
+      "awardYear": 2019,
+      "winner": "Mahershala Ali"
+    },
+    {
+      "id": "oscars-best-supporting-actor-2020-once-upon-a-time-in-hollywood",
+      "mediaType": "movie",
+      "title": "Once Upon a Time... in Hollywood",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt7131622"
+      },
+      "awardYear": 2020,
+      "winner": "Brad Pitt"
+    },
+    {
+      "id": "oscars-best-supporting-actor-2021-judas-and-the-black-messiah",
+      "mediaType": "movie",
+      "title": "Judas and the Black Messiah",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt9784798"
+      },
+      "awardYear": 2021,
+      "winner": "Daniel Kaluuya"
+    },
+    {
+      "id": "oscars-best-supporting-actor-2022-coda",
+      "mediaType": "movie",
+      "title": "CODA",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt10366460"
+      },
+      "awardYear": 2022,
+      "winner": "Troy Kotsur"
+    },
+    {
+      "id": "oscars-best-supporting-actor-2023-everything-everywhere-all-at-once",
+      "mediaType": "movie",
+      "title": "Everything Everywhere All at Once",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt6710474"
+      },
+      "awardYear": 2023,
+      "winner": "Ke Huy Quan"
+    },
+    {
+      "id": "oscars-best-supporting-actor-2024-oppenheimer",
+      "mediaType": "movie",
+      "title": "Oppenheimer",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt15398776"
+      },
+      "awardYear": 2024,
+      "winner": "Robert Downey Jr."
+    },
+    {
+      "id": "oscars-best-supporting-actor-2025-a-real-pain",
+      "mediaType": "movie",
+      "title": "A Real Pain",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt21823606"
+      },
+      "awardYear": 2025,
+      "winner": "Kieran Culkin"
+    },
+    {
+      "id": "oscars-best-supporting-actor-2026-one-battle-after-another",
+      "mediaType": "movie",
+      "title": "One Battle after Another",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt30144839"
+      },
+      "awardYear": 2026,
+      "winner": "Sean Penn"
+    }
+  ]
+}

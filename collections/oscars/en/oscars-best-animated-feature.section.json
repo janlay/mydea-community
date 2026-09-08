@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "ChatGPT",
+  "title": "Oscars — Best Animated Feature",
+  "description": "Ten-year winner history for the Academy Award for Best Animated Feature.",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "oscars-best-animated-feature.list.json"
+    }
+  ]
+}

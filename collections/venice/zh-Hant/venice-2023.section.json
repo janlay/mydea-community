@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "Mydea",
+  "title": "威尼斯影展 2023 年獲獎名單",
+  "description": "第91屆威尼斯影展主競賽主要官方獎項獲獎影片。",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "venice-2023.list.json"
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-12T02:54:20Z",
+  "title": "青龙电影奖 — 最佳新人女演员",
+  "description": "韩国青龙电影奖最佳新人女演员2016–2025年获奖记录。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "blue-dragon-2016-best-new-actress-handmaiden",
+      "mediaType": "movie",
+      "title": "小姐",
+      "originalTitle": "아가씨",
+      "englishTitle": "The Handmaiden",
+      "awardYear": 2016,
+      "winner": "Kim Tae-ri",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4016934"
+      }
+    },
+    {
+      "id": "blue-dragon-2017-best-new-actress-anarchist-colony",
+      "mediaType": "movie",
+      "title": "朴烈",
+      "originalTitle": "박열",
+      "englishTitle": "Anarchist from Colony",
+      "awardYear": 2017,
+      "winner": "Choi Hee-seo",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6903980"
+      }
+    },
+    {
+      "id": "blue-dragon-2018-best-new-actress-witch",
+      "mediaType": "movie",
+      "title": "魔女",
+      "originalTitle": "마녀",
+      "englishTitle": "The Witch: Part 1. The Subversion",
+      "awardYear": 2018,
+      "winner": "Kim Da-mi",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8574252"
+      }
+    },
+    {
+      "id": "blue-dragon-2019-best-new-actress-another-child",
+      "mediaType": "movie",
+      "title": "未成年",
+      "originalTitle": "미성년",
+      "englishTitle": "Another Child",
+      "awardYear": 2019,
+      "winner": "Kim Hye-jun",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt8991322"
+      }
+    },
+    {
+      "id": "blue-dragon-2020-best-new-actress-lucky-chansil",
+      "mediaType": "movie",
+      "title": "灿实也多福",
+      "originalTitle": "찬실이는 복도 많지",
+      "englishTitle": "Lucky Chan-sil",
+      "awardYear": 2020,
+      "winner": "Kang Mal-geum",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt11639190"
+      }
+    },
+    {
+      "id": "blue-dragon-2021-best-new-actress-aloners",
+      "mediaType": "movie",
+      "title": "独自生活的人们",
+      "originalTitle": "혼자 사는 사람들",
+      "englishTitle": "Aloners",
+      "awardYear": 2021,
+      "winner": "Gong Seung-yeon",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14598598"
+      }
+    },
+    {
+      "id": "blue-dragon-2022-best-new-actress-bulldozer-girl",
+      "mediaType": "movie",
+      "title": "坐推土机的少女",
+      "originalTitle": "불도저에 탄 소녀",
+      "englishTitle": "The Girl on a Bulldozer",
+      "awardYear": 2022,
+      "winner": "Kim Hye-yoon",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt19632924"
+      }
+    },
+    {
+      "id": "blue-dragon-2023-best-new-actress-smugglers",
+      "mediaType": "movie",
+      "title": "走私",
+      "originalTitle": "밀수",
+      "englishTitle": "Smugglers",
+      "awardYear": 2023,
+      "winner": "Go Min-si",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt28106766"
+      }
+    },
+    {
+      "id": "blue-dragon-2024-best-new-actress-drive",
+      "mediaType": "movie",
+      "title": "驾驶",
+      "originalTitle": "드라이브",
+      "englishTitle": "Drive",
+      "awardYear": 2024,
+      "winner": "Park Ju-hyun",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt32322546"
+      }
+    },
+    {
+      "id": "blue-dragon-2025-best-new-actress-idiot-girls",
+      "mediaType": "movie",
+      "title": "阿米巴少女与学校怪谈：建校纪念日",
+      "originalTitle": "아메바 소녀들과 학교괴담: 개교기념일",
+      "englishTitle": "Idiot Girls and School Ghost: School Anniversary",
+      "awardYear": 2025,
+      "winner": "Kim Do-yeon",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt34136712"
+      }
+    }
+  ]
+}

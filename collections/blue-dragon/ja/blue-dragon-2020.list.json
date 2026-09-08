@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T00:00:00Z",
+  "title": "青龍映画賞 — 2020",
+  "description": "2020年青龍映画賞、主要10部門の受賞記録。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "blue-dragon-2020-best-film-man-standing-next",
+      "mediaType": "movie",
+      "title": "KCIA 南山の部長たち",
+      "originalTitle": "남산의 부장들",
+      "award": "最優秀作品賞",
+      "awardYear": 2020,
+      "awardOrder": 1,
+      "winner": "ウ・ミンホ",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt11358398"
+      }
+    },
+    {
+      "id": "blue-dragon-2020-best-director-moonlit-winter",
+      "mediaType": "movie",
+      "title": "ユンヒへ",
+      "originalTitle": "윤희에게",
+      "award": "監督賞",
+      "awardYear": 2020,
+      "awardOrder": 2,
+      "winner": "イム・デヒョン",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt11311974"
+      }
+    },
+    {
+      "id": "blue-dragon-2020-best-actor-voice-silence",
+      "mediaType": "movie",
+      "title": "声もなく",
+      "originalTitle": "소리도 없이",
+      "award": "主演男優賞",
+      "awardYear": 2020,
+      "awardOrder": 3,
+      "winner": "ユ・アイン",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10431572"
+      }
+    },
+    {
+      "id": "blue-dragon-2020-best-actress-honest-candidate",
+      "mediaType": "movie",
+      "title": "Honest Candidate",
+      "originalTitle": "정직한 후보",
+      "award": "主演女優賞",
+      "awardYear": 2020,
+      "awardOrder": 4,
+      "winner": "ラ・ミラン",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt11812338"
+      }
+    },
+    {
+      "id": "blue-dragon-2020-best-supporting-actor-deliver-evil",
+      "mediaType": "movie",
+      "title": "Deliver Us from Evil",
+      "originalTitle": "다만 악에서 구하소서",
+      "award": "助演男優賞",
+      "awardYear": 2020,
+      "awardOrder": 5,
+      "winner": "パク・ジョンミン",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt12763920"
+      }
+    },
+    {
+      "id": "blue-dragon-2020-best-supporting-actress-samjin",
+      "mediaType": "movie",
+      "title": "Samjin Company English Class",
+      "originalTitle": "삼진그룹 영어토익반",
+      "award": "助演女優賞",
+      "awardYear": 2020,
+      "awardOrder": 6,
+      "winner": "イソム",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt13210996"
+      }
+    },
+    {
+      "id": "blue-dragon-2020-best-new-director-voice-silence",
+      "mediaType": "movie",
+      "title": "声もなく",
+      "originalTitle": "소리도 없이",
+      "award": "新人監督賞",
+      "awardYear": 2020,
+      "awardOrder": 7,
+      "winner": "ホン・ウィジョン",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10431572"
+      }
+    },
+    {
+      "id": "blue-dragon-2020-best-new-actor-vertigo",
+      "mediaType": "movie",
+      "title": "Vertigo",
+      "originalTitle": "버티고",
+      "award": "新人男優賞",
+      "awardYear": 2020,
+      "awardOrder": 8,
+      "winner": "ユ・テオ",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt11135842"
+      }
+    },
+    {
+      "id": "blue-dragon-2020-best-new-actress-lucky-chansil",
+      "mediaType": "movie",
+      "title": "Lucky Chan-sil",
+      "originalTitle": "찬실이는 복도 많지",
+      "award": "新人女優賞",
+      "awardYear": 2020,
+      "awardOrder": 9,
+      "winner": "カン・マルグム",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt11639190"
+      }
+    },
+    {
+      "id": "blue-dragon-2020-best-screenplay-moonlit-winter",
+      "mediaType": "movie",
+      "title": "ユンヒへ",
+      "originalTitle": "윤희에게",
+      "award": "脚本賞",
+      "awardYear": 2020,
+      "awardOrder": 10,
+      "winner": "イム・デヒョン",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt11311974"
+      }
+    }
+  ]
+}

@@ -1,0 +1,781 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:30:00Z",
+  "title": "Berlinale — Silver Bear for Best Director",
+  "description": "Complete historical winners of the Berlinale Silver Bear for Best Director.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "berlinale-best-director-1956-autumn-leaves",
+      "mediaType": "movie",
+      "title": "Autumn Leaves",
+      "awardYear": 1956,
+      "winner": "Robert Aldrich",
+      "releaseDate": "1956",
+      "externalIds": {
+        "letterboxd": "autumn-leaves"
+      }
+    },
+    {
+      "id": "berlinale-best-director-1957-fathers-and-sons",
+      "mediaType": "movie",
+      "title": "Fathers and Sons",
+      "awardYear": 1957,
+      "winner": "Mario Monicelli",
+      "releaseDate": "1957",
+      "externalIds": {
+        "letterboxd": "fathers-and-sons"
+      }
+    },
+    {
+      "id": "berlinale-best-director-1958-jun-ai-monogatari",
+      "mediaType": "movie",
+      "title": "Jun'ai Monogatari",
+      "awardYear": 1958,
+      "winner": "Tadashi Imai",
+      "releaseDate": "1958",
+      "externalIds": {
+        "letterboxd": "jun-ai-monogatari"
+      }
+    },
+    {
+      "id": "berlinale-best-director-1959-the-hidden-fortress",
+      "mediaType": "movie",
+      "title": "The Hidden Fortress",
+      "awardYear": 1959,
+      "winner": "Akira Kurosawa",
+      "releaseDate": "1959",
+      "externalIds": {
+        "letterboxd": "the-hidden-fortress"
+      }
+    },
+    {
+      "id": "berlinale-best-director-1960-breathless",
+      "mediaType": "movie",
+      "title": "Breathless",
+      "awardYear": 1960,
+      "winner": "Jean-Luc Godard",
+      "releaseDate": "1960",
+      "externalIds": {
+        "letterboxd": "breathless"
+      }
+    },
+    {
+      "id": "berlinale-best-director-1961-the-miracle-of-father-malachia",
+      "mediaType": "movie",
+      "title": "The Miracle of Father Malachia",
+      "awardYear": 1961,
+      "winner": "Bernhard Wicki",
+      "releaseDate": "1961",
+      "externalIds": {
+        "letterboxd": "the-miracle-of-father-malachia"
+      }
+    },
+    {
+      "id": "berlinale-best-director-1962-salvatore-giuliano",
+      "mediaType": "movie",
+      "title": "Salvatore Giuliano",
+      "awardYear": 1962,
+      "winner": "Francesco Rosi",
+      "releaseDate": "1962",
+      "externalIds": {
+        "letterboxd": "salvatore-giuliano"
+      }
+    },
+    {
+      "id": "berlinale-best-director-1963-young-aphrodites",
+      "mediaType": "movie",
+      "title": "Young Aphrodites",
+      "awardYear": 1963,
+      "winner": "Nikos Koundouros",
+      "releaseDate": "1963",
+      "externalIds": {
+        "letterboxd": "young-aphrodites"
+      }
+    },
+    {
+      "id": "berlinale-best-director-1964-mahanagar",
+      "mediaType": "movie",
+      "title": "Mahanagar",
+      "awardYear": 1964,
+      "winner": "Satyajit Ray",
+      "releaseDate": "1964",
+      "externalIds": {
+        "letterboxd": "mahanagar"
+      }
+    },
+    {
+      "id": "berlinale-best-director-1965-charulata",
+      "mediaType": "movie",
+      "title": "Charulata",
+      "awardYear": 1965,
+      "winner": "Satyajit Ray",
+      "releaseDate": "1965",
+      "externalIds": {
+        "letterboxd": "charulata"
+      }
+    },
+    {
+      "id": "berlinale-best-director-1966-the-hunt",
+      "mediaType": "movie",
+      "title": "The Hunt",
+      "awardYear": 1966,
+      "winner": "Carlos Saura",
+      "releaseDate": "1966",
+      "externalIds": {
+        "letterboxd": "the-hunt"
+      }
+    },
+    {
+      "id": "berlinale-best-director-1967-the-rats-woke-up",
+      "mediaType": "movie",
+      "title": "The Rats Woke Up",
+      "awardYear": 1967,
+      "winner": "Živojin Pavlović",
+      "releaseDate": "1967",
+      "externalIds": {
+        "letterboxd": "the-rats-woke-up"
+      }
+    },
+    {
+      "id": "berlinale-best-director-1968-peppermint-frappe",
+      "mediaType": "movie",
+      "title": "Peppermint Frappé",
+      "awardYear": 1968,
+      "winner": "Carlos Saura",
+      "releaseDate": "1968",
+      "externalIds": {
+        "letterboxd": "peppermint-frappe"
+      }
+    },
+    {
+      "id": "berlinale-best-director-1972-the-old-maid",
+      "mediaType": "movie",
+      "title": "The Old Maid",
+      "awardYear": 1972,
+      "winner": "Jean-Pierre Blanc",
+      "releaseDate": "1972",
+      "externalIds": {
+        "letterboxd": "the-old-maid"
+      }
+    },
+    {
+      "id": "berlinale-best-director-1975-one-hundred-days-after-childhood",
+      "mediaType": "movie",
+      "title": "One Hundred Days After Childhood",
+      "awardYear": 1975,
+      "winner": "Sergei Solovyov",
+      "releaseDate": "1975",
+      "externalIds": {
+        "letterboxd": "one-hundred-days-after-childhood"
+      }
+    },
+    {
+      "id": "berlinale-best-director-1976-caro-michele",
+      "mediaType": "movie",
+      "title": "Caro Michele",
+      "awardYear": 1976,
+      "winner": "Mario Monicelli",
+      "releaseDate": "1976",
+      "externalIds": {
+        "letterboxd": "caro-michele"
+      }
+    },
+    {
+      "id": "berlinale-best-director-1977-black-litter",
+      "mediaType": "movie",
+      "title": "Black Litter",
+      "awardYear": 1977,
+      "winner": "Manuel Gutiérrez Aragón",
+      "releaseDate": "1977",
+      "externalIds": {
+        "letterboxd": "black-litter"
+      }
+    },
+    {
+      "id": "berlinale-best-director-1978-advantage",
+      "mediaType": "movie",
+      "title": "Advantage",
+      "awardYear": 1978,
+      "winner": "Georgi Djulgerov",
+      "releaseDate": "1978",
+      "externalIds": {
+        "letterboxd": "advantage"
+      }
+    },
+    {
+      "id": "berlinale-best-director-1979-winterborn",
+      "mediaType": "movie",
+      "title": "Winterborn",
+      "awardYear": 1979,
+      "winner": "Astrid Henning-Jensen",
+      "releaseDate": "1979",
+      "externalIds": {
+        "letterboxd": "winterborn"
+      }
+    },
+    {
+      "id": "berlinale-best-director-1980-bizalom",
+      "mediaType": "movie",
+      "title": "Bizalom",
+      "awardYear": 1980,
+      "winner": "István Szabó",
+      "releaseDate": "1980",
+      "externalIds": {
+        "letterboxd": "bizalom"
+      }
+    },
+    {
+      "id": "berlinale-best-director-1982-il-marchese-del-grillo",
+      "mediaType": "movie",
+      "title": "Il Marchese del Grillo",
+      "awardYear": 1982,
+      "winner": "Mario Monicelli",
+      "releaseDate": "1982",
+      "externalIds": {
+        "letterboxd": "il-marchese-del-grillo"
+      }
+    },
+    {
+      "id": "berlinale-best-director-1983-pauline-at-the-beach",
+      "mediaType": "movie",
+      "title": "Pauline at the Beach",
+      "awardYear": 1983,
+      "winner": "Éric Rohmer",
+      "releaseDate": "1983",
+      "externalIds": {
+        "letterboxd": "pauline-at-the-beach"
+      }
+    },
+    {
+      "id": "berlinale-best-director-1984-rembetiko",
+      "mediaType": "movie",
+      "title": "Rembetiko",
+      "awardYear": 1984,
+      "winner": "Costas Ferris",
+      "releaseDate": "1984",
+      "externalIds": {
+        "letterboxd": "rembetiko"
+      }
+    },
+    {
+      "id": "berlinale-best-director-1984-le-bal",
+      "mediaType": "movie",
+      "title": "Le Bal",
+      "awardYear": 1984,
+      "winner": "Ettore Scola",
+      "releaseDate": "1984",
+      "externalIds": {
+        "letterboxd": "le-bal"
+      }
+    },
+    {
+      "id": "berlinale-best-director-1985-places-in-the-heart",
+      "mediaType": "movie",
+      "title": "Places in the Heart",
+      "awardYear": 1985,
+      "winner": "Robert Benton",
+      "releaseDate": "1985",
+      "externalIds": {
+        "letterboxd": "places-in-the-heart"
+      }
+    },
+    {
+      "id": "berlinale-best-director-1986-the-journey-of-a-young-composer",
+      "mediaType": "movie",
+      "title": "The Journey of a Young Composer",
+      "awardYear": 1986,
+      "winner": "Giorgi Shengelaya",
+      "releaseDate": "1986",
+      "externalIds": {
+        "letterboxd": "the-journey-of-a-young-composer"
+      }
+    },
+    {
+      "id": "berlinale-best-director-1987-platoon",
+      "mediaType": "movie",
+      "title": "Platoon",
+      "awardYear": 1987,
+      "winner": "Oliver Stone",
+      "releaseDate": "1987",
+      "externalIds": {
+        "letterboxd": "platoon"
+      }
+    },
+    {
+      "id": "berlinale-best-director-1988-moonstruck",
+      "mediaType": "movie",
+      "title": "Moonstruck",
+      "awardYear": 1988,
+      "winner": "Norman Jewison",
+      "releaseDate": "1988",
+      "externalIds": {
+        "letterboxd": "moonstruck"
+      }
+    },
+    {
+      "id": "berlinale-best-director-1989-i-love-you-love",
+      "mediaType": "movie",
+      "title": "I Love, You Love",
+      "awardYear": 1989,
+      "winner": "Dušan Hanák",
+      "releaseDate": "1989",
+      "externalIds": {
+        "letterboxd": "i-love-you-love"
+      }
+    },
+    {
+      "id": "berlinale-best-director-1990-the-nasty-girl",
+      "mediaType": "movie",
+      "title": "The Nasty Girl",
+      "awardYear": 1990,
+      "winner": "Michael Verhoeven",
+      "releaseDate": "1990",
+      "externalIds": {
+        "letterboxd": "the-nasty-girl"
+      }
+    },
+    {
+      "id": "berlinale-best-director-1991-the-silence-of-the-lambs",
+      "mediaType": "movie",
+      "title": "The Silence of the Lambs",
+      "awardYear": 1991,
+      "winner": "Jonathan Demme",
+      "releaseDate": "1991",
+      "externalIds": {
+        "letterboxd": "the-silence-of-the-lambs"
+      }
+    },
+    {
+      "id": "berlinale-best-director-1991-ultra",
+      "mediaType": "movie",
+      "title": "Ultra",
+      "awardYear": 1991,
+      "winner": "Ricky Tognazzi",
+      "releaseDate": "1991",
+      "externalIds": {
+        "letterboxd": "ultra"
+      }
+    },
+    {
+      "id": "berlinale-best-director-1992-il-capitano-a-swedish-requiem",
+      "mediaType": "movie",
+      "title": "Il Capitano: A Swedish Requiem",
+      "awardYear": 1992,
+      "winner": "Jan Troell",
+      "releaseDate": "1992",
+      "externalIds": {
+        "letterboxd": "il-capitano-a-swedish-requiem"
+      }
+    },
+    {
+      "id": "berlinale-best-director-1993-the-cement-garden",
+      "mediaType": "movie",
+      "title": "The Cement Garden",
+      "awardYear": 1993,
+      "winner": "Andrew Birkin",
+      "releaseDate": "1993",
+      "externalIds": {
+        "letterboxd": "the-cement-garden"
+      }
+    },
+    {
+      "id": "berlinale-best-director-1994-three-colours-white",
+      "mediaType": "movie",
+      "title": "Three Colours: White",
+      "awardYear": 1994,
+      "winner": "Krzysztof Kieślowski",
+      "releaseDate": "1994",
+      "externalIds": {
+        "letterboxd": "three-colours-white"
+      }
+    },
+    {
+      "id": "berlinale-best-director-1995-before-sunrise",
+      "mediaType": "movie",
+      "title": "Before Sunrise",
+      "awardYear": 1995,
+      "winner": "Richard Linklater",
+      "releaseDate": "1995",
+      "externalIds": {
+        "letterboxd": "before-sunrise"
+      }
+    },
+    {
+      "id": "berlinale-best-director-1996-richard-iii",
+      "mediaType": "movie",
+      "title": "Richard III",
+      "awardYear": 1996,
+      "winner": "Richard Loncraine",
+      "releaseDate": "1996",
+      "externalIds": {
+        "letterboxd": "richard-iii"
+      }
+    },
+    {
+      "id": "berlinale-best-director-1996-the-sun-has-ears",
+      "mediaType": "movie",
+      "title": "The Sun Has Ears",
+      "awardYear": 1996,
+      "winner": "Yim Ho",
+      "releaseDate": "1996",
+      "externalIds": {
+        "letterboxd": "the-sun-has-ears"
+      }
+    },
+    {
+      "id": "berlinale-best-director-1997-port-djema",
+      "mediaType": "movie",
+      "title": "Port Djema",
+      "awardYear": 1997,
+      "winner": "Eric Heumann",
+      "releaseDate": "1997",
+      "externalIds": {
+        "letterboxd": "port-djema"
+      }
+    },
+    {
+      "id": "berlinale-best-director-1998-the-butcher-boy",
+      "mediaType": "movie",
+      "title": "The Butcher Boy",
+      "awardYear": 1998,
+      "winner": "Neil Jordan",
+      "releaseDate": "1998",
+      "externalIds": {
+        "letterboxd": "the-butcher-boy"
+      }
+    },
+    {
+      "id": "berlinale-best-director-1999-the-hi-lo-country",
+      "mediaType": "movie",
+      "title": "The Hi-Lo Country",
+      "awardYear": 1999,
+      "winner": "Stephen Frears",
+      "releaseDate": "1999",
+      "externalIds": {
+        "letterboxd": "the-hi-lo-country"
+      }
+    },
+    {
+      "id": "berlinale-best-director-2000-man-on-the-moon",
+      "mediaType": "movie",
+      "title": "Man on the Moon",
+      "awardYear": 2000,
+      "winner": "Miloš Forman",
+      "releaseDate": "2000",
+      "externalIds": {
+        "letterboxd": "man-on-the-moon"
+      }
+    },
+    {
+      "id": "berlinale-best-director-2001-betelnut-beauty",
+      "mediaType": "movie",
+      "title": "Betelnut Beauty",
+      "awardYear": 2001,
+      "winner": "Lin Cheng-sheng",
+      "releaseDate": "2001",
+      "externalIds": {
+        "letterboxd": "betelnut-beauty"
+      }
+    },
+    {
+      "id": "berlinale-best-director-2002-monday-morning",
+      "mediaType": "movie",
+      "title": "Monday Morning",
+      "awardYear": 2002,
+      "winner": "Otar Iosseliani",
+      "releaseDate": "2002",
+      "externalIds": {
+        "letterboxd": "monday-morning"
+      }
+    },
+    {
+      "id": "berlinale-best-director-2003-son-frere",
+      "mediaType": "movie",
+      "title": "Son frère",
+      "awardYear": 2003,
+      "winner": "Patrice Chéreau",
+      "releaseDate": "2003",
+      "externalIds": {
+        "letterboxd": "son-frere"
+      }
+    },
+    {
+      "id": "berlinale-best-director-2004-samaritan-girl",
+      "mediaType": "movie",
+      "title": "Samaritan Girl",
+      "awardYear": 2004,
+      "winner": "Kim Ki-duk",
+      "releaseDate": "2004",
+      "externalIds": {
+        "letterboxd": "samaritan-girl"
+      }
+    },
+    {
+      "id": "berlinale-best-director-2005-sophie-scholl-the-final-days",
+      "mediaType": "movie",
+      "title": "Sophie Scholl – The Final Days",
+      "awardYear": 2005,
+      "winner": "Marc Rothemund",
+      "releaseDate": "2005",
+      "externalIds": {
+        "letterboxd": "sophie-scholl-the-final-days"
+      }
+    },
+    {
+      "id": "berlinale-best-director-2006-the-road-to-guantanamo",
+      "mediaType": "movie",
+      "title": "The Road to Guantánamo",
+      "awardYear": 2006,
+      "winner": "Michael Winterbottom & Mat Whitecross",
+      "releaseDate": "2006",
+      "externalIds": {
+        "letterboxd": "the-road-to-guantanamo"
+      }
+    },
+    {
+      "id": "berlinale-best-director-2007-beaufort",
+      "mediaType": "movie",
+      "title": "Beaufort",
+      "awardYear": 2007,
+      "winner": "Joseph Cedar",
+      "releaseDate": "2007",
+      "externalIds": {
+        "letterboxd": "beaufort"
+      }
+    },
+    {
+      "id": "berlinale-best-director-2008-there-will-be-blood",
+      "mediaType": "movie",
+      "title": "There Will Be Blood",
+      "awardYear": 2008,
+      "winner": "Paul Thomas Anderson",
+      "releaseDate": "2008",
+      "externalIds": {
+        "letterboxd": "there-will-be-blood"
+      }
+    },
+    {
+      "id": "berlinale-best-director-2009-about-elly",
+      "mediaType": "movie",
+      "title": "About Elly",
+      "awardYear": 2009,
+      "winner": "Asghar Farhadi",
+      "releaseDate": "2009",
+      "externalIds": {
+        "letterboxd": "about-elly"
+      }
+    },
+    {
+      "id": "berlinale-best-director-2010-the-ghost-writer",
+      "mediaType": "movie",
+      "title": "The Ghost Writer",
+      "awardYear": 2010,
+      "winner": "Roman Polanski",
+      "releaseDate": "2010",
+      "externalIds": {
+        "letterboxd": "the-ghost-writer"
+      }
+    },
+    {
+      "id": "berlinale-best-director-2011-sleeping-sickness",
+      "mediaType": "movie",
+      "title": "Sleeping Sickness",
+      "awardYear": 2011,
+      "winner": "Ulrich Köhler",
+      "releaseDate": "2011",
+      "externalIds": {
+        "letterboxd": "sleeping-sickness"
+      }
+    },
+    {
+      "id": "berlinale-best-director-2012-barbara",
+      "mediaType": "movie",
+      "title": "Barbara",
+      "awardYear": 2012,
+      "winner": "Christian Petzold",
+      "releaseDate": "2012",
+      "externalIds": {
+        "letterboxd": "barbara"
+      }
+    },
+    {
+      "id": "berlinale-best-director-2013-prince-avalanche",
+      "mediaType": "movie",
+      "title": "Prince Avalanche",
+      "awardYear": 2013,
+      "winner": "David Gordon Green",
+      "releaseDate": "2013",
+      "externalIds": {
+        "letterboxd": "prince-avalanche"
+      }
+    },
+    {
+      "id": "berlinale-best-director-2014-boyhood",
+      "mediaType": "movie",
+      "title": "Boyhood",
+      "awardYear": 2014,
+      "winner": "Richard Linklater",
+      "releaseDate": "2014",
+      "externalIds": {
+        "letterboxd": "boyhood"
+      }
+    },
+    {
+      "id": "berlinale-best-director-2015-aferim",
+      "mediaType": "movie",
+      "title": "Aferim!",
+      "awardYear": 2015,
+      "winner": "Radu Jude",
+      "releaseDate": "2015",
+      "externalIds": {
+        "letterboxd": "aferim"
+      }
+    },
+    {
+      "id": "berlinale-best-director-2015-body",
+      "mediaType": "movie",
+      "title": "Body",
+      "awardYear": 2015,
+      "winner": "Małgorzata Szumowska",
+      "releaseDate": "2015",
+      "externalIds": {
+        "letterboxd": "body"
+      }
+    },
+    {
+      "id": "berlinale-best-director-2016-things-to-come",
+      "mediaType": "movie",
+      "title": "Things to Come",
+      "awardYear": 2016,
+      "winner": "Mia Hansen-Løve",
+      "releaseDate": "2016",
+      "externalIds": {
+        "letterboxd": "things-to-come"
+      }
+    },
+    {
+      "id": "berlinale-best-director-2017-the-other-side-of-hope",
+      "mediaType": "movie",
+      "title": "The Other Side of Hope",
+      "awardYear": 2017,
+      "winner": "Aki Kaurismäki",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5222918"
+      },
+      "backdropPath": "https://image.tmdb.org/t/p/w342/hR0HdKBsPFnWqpWtjzy7Xj14FD.jpg"
+    },
+    {
+      "id": "berlinale-best-director-2018-isle-of-dogs",
+      "mediaType": "movie",
+      "title": "Isle of Dogs",
+      "awardYear": 2018,
+      "winner": "Wes Anderson",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt5104604"
+      },
+      "backdropPath": "https://image.tmdb.org/t/p/w342/6utVGu3wu8AV8x7jGo17M5RnrJN.jpg"
+    },
+    {
+      "id": "berlinale-best-director-2019-i-was-at-home-but",
+      "mediaType": "movie",
+      "title": "I Was at Home, But",
+      "awardYear": 2019,
+      "winner": "Angela Schanelec",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt7760890"
+      }
+    },
+    {
+      "id": "berlinale-best-director-2020-the-woman-who-ran",
+      "mediaType": "movie",
+      "title": "The Woman Who Ran",
+      "awardYear": 2020,
+      "winner": "Hong Sangsoo",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt11738830"
+      }
+    },
+    {
+      "id": "berlinale-best-director-2021-natural-light",
+      "mediaType": "movie",
+      "title": "Natural Light",
+      "awardYear": 2021,
+      "winner": "Dénes Nagy",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt11681056"
+      }
+    },
+    {
+      "id": "berlinale-best-director-2022-both-sides-of-the-blade",
+      "mediaType": "movie",
+      "title": "Both Sides of the Blade",
+      "awardYear": 2022,
+      "winner": "Claire Denis",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt13535920"
+      }
+    },
+    {
+      "id": "berlinale-best-director-2023-the-plough",
+      "mediaType": "movie",
+      "title": "The Plough",
+      "awardYear": 2023,
+      "winner": "Philippe Garrel",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt15531718"
+      }
+    },
+    {
+      "id": "berlinale-best-director-2024-pepe",
+      "mediaType": "movie",
+      "title": "Pepe",
+      "awardYear": 2024,
+      "winner": "Nelson Carlos De Los Santos Arias",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt10781034"
+      }
+    },
+    {
+      "id": "berlinale-best-director-2025-living-the-land",
+      "mediaType": "movie",
+      "title": "Living the Land",
+      "awardYear": 2025,
+      "winner": "Huo Meng",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31079597"
+      }
+    },
+    {
+      "id": "berlinale-best-director-2026-everybody-digs-bill-evans",
+      "mediaType": "movie",
+      "title": "Everybody Digs Bill Evans",
+      "awardYear": 2026,
+      "winner": "Grant Gee",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt34347792"
+      }
+    }
+  ]
+}

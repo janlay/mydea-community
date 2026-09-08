@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "Mydea",
+  "title": "Hong Kong Film Awards — Best Film",
+  "description": "Complete historical winners of the Hong Kong Film Award for Film.",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "hkfa-best-film.list.json"
+    }
+  ]
+}

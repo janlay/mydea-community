@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "ChatGPT",
+  "title": "Oscars — Best Original Screenplay",
+  "description": "Ten-year winner history for the Academy Award for Best Original Screenplay.",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "oscars-best-original-screenplay.list.json"
+    }
+  ]
+}

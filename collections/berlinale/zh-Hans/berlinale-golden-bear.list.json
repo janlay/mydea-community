@@ -1,0 +1,1025 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:30:00Z",
+  "title": "柏林 — 金熊奖",
+  "description": "柏林国际电影节 金熊奖 全部获奖记录。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "berlinale-golden-bear-1951-four-in-a-jeep",
+      "mediaType": "movie",
+      "title": "Four in a Jeep",
+      "awardYear": 1951,
+      "winner": "Leopold Lindtberg",
+      "releaseDate": "1951",
+      "externalIds": {
+        "letterboxd": "four-in-a-jeep"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-1951-without-leaving-an-address",
+      "mediaType": "movie",
+      "title": "Without Leaving an Address",
+      "awardYear": 1951,
+      "winner": "Jean-Paul Le Chanois",
+      "releaseDate": "1951",
+      "externalIds": {
+        "letterboxd": "without-leaving-an-address"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-1951-in-beaver-valley",
+      "mediaType": "movie",
+      "title": "In Beaver Valley",
+      "awardYear": 1951,
+      "winner": "James Algar",
+      "releaseDate": "1951",
+      "externalIds": {
+        "letterboxd": "in-beaver-valley"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-1951-justice-is-done",
+      "mediaType": "movie",
+      "title": "Justice Is Done",
+      "awardYear": 1951,
+      "winner": "André Cayatte",
+      "releaseDate": "1951",
+      "externalIds": {
+        "letterboxd": "justice-is-done"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-1951-cinderella",
+      "mediaType": "movie",
+      "title": "Cinderella",
+      "awardYear": 1951,
+      "winner": "Wilfred Jackson",
+      "releaseDate": "1951",
+      "externalIds": {
+        "letterboxd": "cinderella"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-1952-one-summer-of-happiness",
+      "mediaType": "movie",
+      "title": "One Summer of Happiness",
+      "awardYear": 1952,
+      "winner": "Arne Mattsson",
+      "releaseDate": "1952",
+      "externalIds": {
+        "letterboxd": "one-summer-of-happiness"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-1953-the-wages-of-fear",
+      "mediaType": "movie",
+      "title": "The Wages of Fear",
+      "awardYear": 1953,
+      "winner": "Henri-Georges Clouzot",
+      "releaseDate": "1953",
+      "externalIds": {
+        "letterboxd": "the-wages-of-fear"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-1954-hobson-s-choice",
+      "mediaType": "movie",
+      "title": "Hobson's Choice",
+      "awardYear": 1954,
+      "winner": "David Lean",
+      "releaseDate": "1954",
+      "externalIds": {
+        "letterboxd": "hobson-s-choice"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-1955-die-ratten",
+      "mediaType": "movie",
+      "title": "Die Ratten",
+      "awardYear": 1955,
+      "winner": "Robert Siodmak",
+      "releaseDate": "1955",
+      "externalIds": {
+        "letterboxd": "die-ratten"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-1956-invitation-to-the-dance",
+      "mediaType": "movie",
+      "title": "Invitation to the Dance",
+      "awardYear": 1956,
+      "winner": "Gene Kelly",
+      "releaseDate": "1956",
+      "externalIds": {
+        "letterboxd": "invitation-to-the-dance"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-1957-12-angry-men",
+      "mediaType": "movie",
+      "title": "十二怒汉",
+      "englishTitle": "12 Angry Men",
+      "awardYear": 1957,
+      "winner": "Sidney Lumet",
+      "releaseDate": "1957",
+      "externalIds": {
+        "letterboxd": "12-angry-men"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-1958-wild-strawberries",
+      "mediaType": "movie",
+      "title": "野草莓",
+      "englishTitle": "Wild Strawberries",
+      "awardYear": 1958,
+      "winner": "Ingmar Bergman",
+      "releaseDate": "1958",
+      "externalIds": {
+        "letterboxd": "wild-strawberries"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-1959-les-cousins",
+      "mediaType": "movie",
+      "title": "Les Cousins",
+      "awardYear": 1959,
+      "winner": "Claude Chabrol",
+      "releaseDate": "1959",
+      "externalIds": {
+        "letterboxd": "les-cousins"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-1960-el-lazarillo-de-tormes",
+      "mediaType": "movie",
+      "title": "El Lazarillo de Tormes",
+      "awardYear": 1960,
+      "winner": "César Fernández Ardavín",
+      "releaseDate": "1960",
+      "externalIds": {
+        "letterboxd": "el-lazarillo-de-tormes"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-1961-la-notte",
+      "mediaType": "movie",
+      "title": "夜",
+      "englishTitle": "La Notte",
+      "awardYear": 1961,
+      "winner": "Michelangelo Antonioni",
+      "releaseDate": "1961",
+      "externalIds": {
+        "letterboxd": "la-notte"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-1962-a-kind-of-loving",
+      "mediaType": "movie",
+      "title": "A Kind of Loving",
+      "awardYear": 1962,
+      "winner": "John Schlesinger",
+      "releaseDate": "1962",
+      "externalIds": {
+        "letterboxd": "a-kind-of-loving"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-1963-bushido-samurai-saga",
+      "mediaType": "movie",
+      "title": "Bushido, Samurai Saga",
+      "awardYear": 1963,
+      "winner": "Tadashi Imai",
+      "releaseDate": "1963",
+      "externalIds": {
+        "letterboxd": "bushido-samurai-saga"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-1963-to-bed-or-not-to-bed",
+      "mediaType": "movie",
+      "title": "To Bed or Not to Bed",
+      "awardYear": 1963,
+      "winner": "Gian Luigi Polidoro",
+      "releaseDate": "1963",
+      "externalIds": {
+        "letterboxd": "to-bed-or-not-to-bed"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-1964-dry-summer",
+      "mediaType": "movie",
+      "title": "Dry Summer",
+      "awardYear": 1964,
+      "winner": "Metin Erksan",
+      "releaseDate": "1964",
+      "externalIds": {
+        "letterboxd": "dry-summer"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-1965-alphaville",
+      "mediaType": "movie",
+      "title": "阿尔法城",
+      "englishTitle": "Alphaville",
+      "awardYear": 1965,
+      "winner": "Jean-Luc Godard",
+      "releaseDate": "1965",
+      "externalIds": {
+        "letterboxd": "alphaville"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-1966-cul-de-sac",
+      "mediaType": "movie",
+      "title": "Cul-de-Sac",
+      "awardYear": 1966,
+      "winner": "Roman Polanski",
+      "releaseDate": "1966",
+      "externalIds": {
+        "letterboxd": "cul-de-sac"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-1967-le-depart",
+      "mediaType": "movie",
+      "title": "Le Départ",
+      "awardYear": 1967,
+      "winner": "Jerzy Skolimowski",
+      "releaseDate": "1967",
+      "externalIds": {
+        "letterboxd": "le-depart"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-1968-who-saw-him-die",
+      "mediaType": "movie",
+      "title": "Who Saw Him Die?",
+      "awardYear": 1968,
+      "winner": "Jan Troell",
+      "releaseDate": "1968",
+      "externalIds": {
+        "letterboxd": "who-saw-him-die"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-1969-early-works",
+      "mediaType": "movie",
+      "title": "Early Works",
+      "awardYear": 1969,
+      "winner": "Želimir Žilnik",
+      "releaseDate": "1969",
+      "externalIds": {
+        "letterboxd": "early-works"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-1971-the-garden-of-the-finzi-continis",
+      "mediaType": "movie",
+      "title": "The Garden of the Finzi-Continis",
+      "awardYear": 1971,
+      "winner": "Vittorio De Sica",
+      "releaseDate": "1971",
+      "externalIds": {
+        "letterboxd": "the-garden-of-the-finzi-continis"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-1972-the-canterbury-tales",
+      "mediaType": "movie",
+      "title": "坎特伯雷故事集",
+      "englishTitle": "The Canterbury Tales",
+      "awardYear": 1972,
+      "winner": "Pier Paolo Pasolini",
+      "releaseDate": "1972",
+      "externalIds": {
+        "letterboxd": "the-canterbury-tales"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-1973-distant-thunder",
+      "mediaType": "movie",
+      "title": "Distant Thunder",
+      "awardYear": 1973,
+      "winner": "Satyajit Ray",
+      "releaseDate": "1973",
+      "externalIds": {
+        "letterboxd": "distant-thunder"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-1974-the-apprenticeship-of-duddy-kravitz",
+      "mediaType": "movie",
+      "title": "The Apprenticeship of Duddy Kravitz",
+      "awardYear": 1974,
+      "winner": "Ted Kotcheff",
+      "releaseDate": "1974",
+      "externalIds": {
+        "letterboxd": "the-apprenticeship-of-duddy-kravitz"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-1975-adoption",
+      "mediaType": "movie",
+      "title": "Adoption",
+      "awardYear": 1975,
+      "winner": "Márta Mészáros",
+      "releaseDate": "1975",
+      "externalIds": {
+        "letterboxd": "adoption"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-1976-buffalo-bill-and-the-indians-or-sitting-bull-s-history-lesson",
+      "mediaType": "movie",
+      "title": "Buffalo Bill and the Indians, or Sitting Bull's History Lesson",
+      "awardYear": 1976,
+      "winner": "Robert Altman",
+      "releaseDate": "1976",
+      "externalIds": {
+        "letterboxd": "buffalo-bill-and-the-indians-or-sitting-bull-s-history-lesson"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-1977-the-ascent",
+      "mediaType": "movie",
+      "title": "The Ascent",
+      "awardYear": 1977,
+      "winner": "Larisa Shepitko",
+      "releaseDate": "1977",
+      "externalIds": {
+        "letterboxd": "the-ascent"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-1978-ascensor",
+      "mediaType": "movie",
+      "title": "Ascensor",
+      "awardYear": 1978,
+      "winner": "Tomás Muñoz",
+      "releaseDate": "1978",
+      "externalIds": {
+        "letterboxd": "ascensor"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-1978-las-truchas",
+      "mediaType": "movie",
+      "title": "Las truchas",
+      "awardYear": 1978,
+      "winner": "José Luis García Sánchez",
+      "releaseDate": "1978",
+      "externalIds": {
+        "letterboxd": "las-truchas"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-1978-what-max-said",
+      "mediaType": "movie",
+      "title": "What Max Said",
+      "awardYear": 1978,
+      "winner": "Emilio Martínez-Lázaro",
+      "releaseDate": "1978",
+      "externalIds": {
+        "letterboxd": "what-max-said"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-1979-david",
+      "mediaType": "movie",
+      "title": "David",
+      "awardYear": 1979,
+      "winner": "Peter Lilienthal",
+      "releaseDate": "1979",
+      "externalIds": {
+        "letterboxd": "david"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-1980-heartland",
+      "mediaType": "movie",
+      "title": "Heartland",
+      "awardYear": 1980,
+      "winner": "Richard Pearce",
+      "releaseDate": "1980",
+      "externalIds": {
+        "letterboxd": "heartland"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-1980-palermo-or-wolfsburg",
+      "mediaType": "movie",
+      "title": "Palermo or Wolfsburg",
+      "awardYear": 1980,
+      "winner": "Werner Schroeter",
+      "releaseDate": "1980",
+      "externalIds": {
+        "letterboxd": "palermo-or-wolfsburg"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-1981-deprisa-deprisa",
+      "mediaType": "movie",
+      "title": "Deprisa, deprisa",
+      "awardYear": 1981,
+      "winner": "Carlos Saura",
+      "releaseDate": "1981",
+      "externalIds": {
+        "letterboxd": "deprisa-deprisa"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-1982-veronika-voss",
+      "mediaType": "movie",
+      "title": "Veronika Voss",
+      "awardYear": 1982,
+      "winner": "Rainer Werner Fassbinder",
+      "releaseDate": "1982",
+      "externalIds": {
+        "letterboxd": "veronika-voss"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-1983-ascendancy",
+      "mediaType": "movie",
+      "title": "Ascendancy",
+      "awardYear": 1983,
+      "winner": "Edward Bennett",
+      "releaseDate": "1983",
+      "externalIds": {
+        "letterboxd": "ascendancy"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-1983-la-colmena",
+      "mediaType": "movie",
+      "title": "La colmena",
+      "awardYear": 1983,
+      "winner": "Mario Camus",
+      "releaseDate": "1983",
+      "externalIds": {
+        "letterboxd": "la-colmena"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-1984-love-streams",
+      "mediaType": "movie",
+      "title": "Love Streams",
+      "awardYear": 1984,
+      "winner": "John Cassavetes",
+      "releaseDate": "1984",
+      "externalIds": {
+        "letterboxd": "love-streams"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-1985-wetherby",
+      "mediaType": "movie",
+      "title": "Wetherby",
+      "awardYear": 1985,
+      "winner": "David Hare",
+      "releaseDate": "1985",
+      "externalIds": {
+        "letterboxd": "wetherby"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-1985-the-woman-and-the-stranger",
+      "mediaType": "movie",
+      "title": "The Woman and the Stranger",
+      "awardYear": 1985,
+      "winner": "Rainer Simon",
+      "releaseDate": "1985",
+      "externalIds": {
+        "letterboxd": "the-woman-and-the-stranger"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-1986-stammheim",
+      "mediaType": "movie",
+      "title": "Stammheim",
+      "awardYear": 1986,
+      "winner": "Reinhard Hauff",
+      "releaseDate": "1986",
+      "externalIds": {
+        "letterboxd": "stammheim"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-1987-the-theme",
+      "mediaType": "movie",
+      "title": "The Theme",
+      "awardYear": 1987,
+      "winner": "Gleb Panfilov",
+      "releaseDate": "1987",
+      "externalIds": {
+        "letterboxd": "the-theme"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-1988-red-sorghum",
+      "mediaType": "movie",
+      "title": "红高粱",
+      "englishTitle": "Red Sorghum",
+      "awardYear": 1988,
+      "winner": "Zhang Yimou",
+      "releaseDate": "1988",
+      "externalIds": {
+        "letterboxd": "red-sorghum"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-1989-rain-man",
+      "mediaType": "movie",
+      "title": "雨人",
+      "englishTitle": "Rain Man",
+      "awardYear": 1989,
+      "winner": "Barry Levinson",
+      "releaseDate": "1989",
+      "externalIds": {
+        "letterboxd": "rain-man"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-1990-larks-on-a-string",
+      "mediaType": "movie",
+      "title": "Larks on a String",
+      "awardYear": 1990,
+      "winner": "Jiří Menzel",
+      "releaseDate": "1990",
+      "externalIds": {
+        "letterboxd": "larks-on-a-string"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-1990-music-box",
+      "mediaType": "movie",
+      "title": "Music Box",
+      "awardYear": 1990,
+      "winner": "Costa-Gavras",
+      "releaseDate": "1990",
+      "externalIds": {
+        "letterboxd": "music-box"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-1991-the-house-of-smiles",
+      "mediaType": "movie",
+      "title": "The House of Smiles",
+      "awardYear": 1991,
+      "winner": "Marco Ferreri",
+      "releaseDate": "1991",
+      "externalIds": {
+        "letterboxd": "the-house-of-smiles"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-1992-grand-canyon",
+      "mediaType": "movie",
+      "title": "Grand Canyon",
+      "awardYear": 1992,
+      "winner": "Lawrence Kasdan",
+      "releaseDate": "1992",
+      "externalIds": {
+        "letterboxd": "grand-canyon"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-1993-the-wedding-banquet",
+      "mediaType": "movie",
+      "title": "喜宴",
+      "englishTitle": "The Wedding Banquet",
+      "awardYear": 1993,
+      "winner": "Ang Lee",
+      "releaseDate": "1993",
+      "externalIds": {
+        "letterboxd": "the-wedding-banquet"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-1993-woman-sesame-oil-maker",
+      "mediaType": "movie",
+      "title": "香魂女",
+      "englishTitle": "Woman Sesame Oil Maker",
+      "awardYear": 1993,
+      "winner": "Xie Fei",
+      "releaseDate": "1993",
+      "externalIds": {
+        "letterboxd": "woman-sesame-oil-maker"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-1994-in-the-name-of-the-father",
+      "mediaType": "movie",
+      "title": "In the Name of the Father",
+      "awardYear": 1994,
+      "winner": "Jim Sheridan",
+      "releaseDate": "1994",
+      "externalIds": {
+        "letterboxd": "in-the-name-of-the-father"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-1995-the-bait",
+      "mediaType": "movie",
+      "title": "The Bait",
+      "awardYear": 1995,
+      "winner": "Bertrand Tavernier",
+      "releaseDate": "1995",
+      "externalIds": {
+        "letterboxd": "the-bait"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-1996-sense-and-sensibility",
+      "mediaType": "movie",
+      "title": "理智与情感",
+      "englishTitle": "Sense and Sensibility",
+      "awardYear": 1996,
+      "winner": "Ang Lee",
+      "releaseDate": "1996",
+      "externalIds": {
+        "letterboxd": "sense-and-sensibility"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-1997-the-people-vs-larry-flynt",
+      "mediaType": "movie",
+      "title": "The People vs. Larry Flynt",
+      "awardYear": 1997,
+      "winner": "Miloš Forman",
+      "releaseDate": "1997",
+      "externalIds": {
+        "letterboxd": "the-people-vs-larry-flynt"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-1998-central-station",
+      "mediaType": "movie",
+      "title": "中央车站",
+      "englishTitle": "Central Station",
+      "awardYear": 1998,
+      "winner": "Walter Salles",
+      "releaseDate": "1998",
+      "externalIds": {
+        "letterboxd": "central-station"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-1999-the-thin-red-line",
+      "mediaType": "movie",
+      "title": "细细的红线",
+      "englishTitle": "The Thin Red Line",
+      "awardYear": 1999,
+      "winner": "Terrence Malick",
+      "releaseDate": "1999",
+      "externalIds": {
+        "letterboxd": "the-thin-red-line"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-2000-magnolia",
+      "mediaType": "movie",
+      "title": "木兰花",
+      "englishTitle": "Magnolia",
+      "awardYear": 2000,
+      "winner": "Paul Thomas Anderson",
+      "releaseDate": "2000",
+      "externalIds": {
+        "letterboxd": "magnolia"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-2001-intimacy",
+      "mediaType": "movie",
+      "title": "Intimacy",
+      "awardYear": 2001,
+      "winner": "Patrice Chéreau",
+      "releaseDate": "2001",
+      "externalIds": {
+        "letterboxd": "intimacy"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-2002-bloody-sunday",
+      "mediaType": "movie",
+      "title": "Bloody Sunday",
+      "awardYear": 2002,
+      "winner": "Paul Greengrass",
+      "releaseDate": "2002",
+      "externalIds": {
+        "letterboxd": "bloody-sunday"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-2002-spirited-away",
+      "mediaType": "movie",
+      "title": "千与千寻",
+      "englishTitle": "Spirited Away",
+      "awardYear": 2002,
+      "winner": "Hayao Miyazaki",
+      "releaseDate": "2002",
+      "externalIds": {
+        "letterboxd": "spirited-away"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-2003-in-this-world",
+      "mediaType": "movie",
+      "title": "In This World",
+      "awardYear": 2003,
+      "winner": "Michael Winterbottom",
+      "releaseDate": "2003",
+      "externalIds": {
+        "letterboxd": "in-this-world"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-2004-head-on",
+      "mediaType": "movie",
+      "title": "勇往直前",
+      "englishTitle": "Head-On",
+      "awardYear": 2004,
+      "winner": "Fatih Akin",
+      "releaseDate": "2004",
+      "externalIds": {
+        "letterboxd": "head-on"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-2005-u-carmen-ekhayelitsha",
+      "mediaType": "movie",
+      "title": "U-Carmen eKhayelitsha",
+      "awardYear": 2005,
+      "winner": "Mark Dornford-May",
+      "releaseDate": "2005",
+      "externalIds": {
+        "letterboxd": "u-carmen-ekhayelitsha"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-2006-grbavica",
+      "mediaType": "movie",
+      "title": "Grbavica",
+      "awardYear": 2006,
+      "winner": "Jasmila Žbanić",
+      "releaseDate": "2006",
+      "externalIds": {
+        "letterboxd": "grbavica"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-2007-tuya-s-marriage",
+      "mediaType": "movie",
+      "title": "图雅的婚事",
+      "englishTitle": "Tuya's Marriage",
+      "awardYear": 2007,
+      "winner": "Wang Quan'an",
+      "releaseDate": "2007",
+      "externalIds": {
+        "letterboxd": "tuya-s-marriage"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-2008-elite-squad",
+      "mediaType": "movie",
+      "title": "精英部队",
+      "englishTitle": "Elite Squad",
+      "awardYear": 2008,
+      "winner": "José Padilha",
+      "releaseDate": "2008",
+      "externalIds": {
+        "letterboxd": "elite-squad"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-2009-the-milk-of-sorrow",
+      "mediaType": "movie",
+      "title": "The Milk of Sorrow",
+      "awardYear": 2009,
+      "winner": "Claudia Llosa",
+      "releaseDate": "2009",
+      "externalIds": {
+        "letterboxd": "the-milk-of-sorrow"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-2010-honey",
+      "mediaType": "movie",
+      "title": "Honey",
+      "awardYear": 2010,
+      "winner": "Semih Kaplanoğlu",
+      "releaseDate": "2010",
+      "externalIds": {
+        "letterboxd": "honey"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-2011-a-separation",
+      "mediaType": "movie",
+      "title": "一次别离",
+      "englishTitle": "A Separation",
+      "awardYear": 2011,
+      "winner": "Asghar Farhadi",
+      "releaseDate": "2011",
+      "externalIds": {
+        "letterboxd": "a-separation"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-2012-caesar-must-die",
+      "mediaType": "movie",
+      "title": "Caesar Must Die",
+      "awardYear": 2012,
+      "winner": "Paolo and Vittorio Taviani",
+      "releaseDate": "2012",
+      "externalIds": {
+        "letterboxd": "caesar-must-die"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-2013-child-s-pose",
+      "mediaType": "movie",
+      "title": "Child's Pose",
+      "awardYear": 2013,
+      "winner": "Călin Peter Netzer",
+      "releaseDate": "2013",
+      "externalIds": {
+        "letterboxd": "child-s-pose"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-2014-black-coal-thin-ice",
+      "mediaType": "movie",
+      "title": "白日焰火",
+      "englishTitle": "Black Coal, Thin Ice",
+      "awardYear": 2014,
+      "winner": "Diao Yinan",
+      "releaseDate": "2014",
+      "externalIds": {
+        "letterboxd": "black-coal-thin-ice"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-2015-taxi",
+      "mediaType": "movie",
+      "title": "出租车",
+      "englishTitle": "Taxi",
+      "awardYear": 2015,
+      "winner": "Jafar Panahi",
+      "releaseDate": "2015",
+      "externalIds": {
+        "letterboxd": "taxi"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-2016-fire-at-sea",
+      "mediaType": "movie",
+      "title": "海上火焰",
+      "englishTitle": "Fire at Sea",
+      "awardYear": 2016,
+      "winner": "Gianfranco Rosi",
+      "releaseDate": "2016",
+      "externalIds": {
+        "letterboxd": "fire-at-sea"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-2017-on-body-and-soul",
+      "mediaType": "movie",
+      "title": "肉与灵",
+      "englishTitle": "On Body and Soul",
+      "awardYear": 2017,
+      "winner": "Ildikó Enyedi",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5607714"
+      },
+      "backdropPath": "https://image.tmdb.org/t/p/w342/c2NBRjDVLolRBmzbxFg7UnbmWdu.jpg"
+    },
+    {
+      "id": "berlinale-golden-bear-2018-touch-me-not",
+      "mediaType": "movie",
+      "title": "不要碰我",
+      "englishTitle": "Touch Me Not",
+      "awardYear": 2018,
+      "winner": "Adina Pintilie",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt4949112"
+      },
+      "backdropPath": "https://image.tmdb.org/t/p/w342/7JsBBGvikqWsvXhRrzRLzj3xFjX.jpg"
+    },
+    {
+      "id": "berlinale-golden-bear-2019-synonyms",
+      "mediaType": "movie",
+      "title": "同义词",
+      "englishTitle": "Synonyms",
+      "awardYear": 2019,
+      "winner": "Nadav Lapid",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt7019942"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-2020-there-is-no-evil",
+      "mediaType": "movie",
+      "title": "无邪",
+      "englishTitle": "There Is No Evil",
+      "awardYear": 2020,
+      "winner": "Mohammad Rasoulof",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt11697844"
+      },
+      "backdropPath": "https://image.tmdb.org/t/p/w342/59vPeo5aylXS5uEo5uS46cjGKRz.jpg"
+    },
+    {
+      "id": "berlinale-golden-bear-2021-bad-luck-banging-or-loony-porn",
+      "mediaType": "movie",
+      "title": "倒霉性爱，发狂黄片",
+      "englishTitle": "Bad Luck Banging or Loony Porn",
+      "awardYear": 2021,
+      "winner": "Radu Jude",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14033502"
+      },
+      "backdropPath": "https://image.tmdb.org/t/p/w342/cq7ZThEzrW7TstuTh8gzRK0FpfM.jpg"
+    },
+    {
+      "id": "berlinale-golden-bear-2022-alcarras",
+      "mediaType": "movie",
+      "title": "阿尔卡拉斯",
+      "englishTitle": "Alcarràs",
+      "awardYear": 2022,
+      "winner": "Carla Simón",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt11930126"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-2023-on-the-adamant",
+      "mediaType": "movie",
+      "title": "坚毅之旅",
+      "englishTitle": "On the Adamant",
+      "awardYear": 2023,
+      "winner": "Nicolas Philibert",
+      "releaseDate": "2023",
+      "externalIds": {
+        "tmdb": "1070449",
+        "imdb": "tt26448811"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-2024-dahomey",
+      "mediaType": "movie",
+      "title": "达荷美",
+      "englishTitle": "Dahomey",
+      "awardYear": 2024,
+      "winner": "Mati Diop",
+      "releaseDate": "2024",
+      "externalIds": {
+        "tmdb": "1101256",
+        "imdb": "tt30057084"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/9d8KvJ3OjUq9rwuM743QPQO48aL.jpg"
+    },
+    {
+      "id": "berlinale-golden-bear-2025-dreams-sex-love",
+      "mediaType": "movie",
+      "title": "梦（性与爱）",
+      "englishTitle": "Dreams (Sex Love)",
+      "awardYear": 2025,
+      "winner": "Dag Johan Haugerud",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt30810787"
+      }
+    },
+    {
+      "id": "berlinale-golden-bear-2026-yellow-letters",
+      "mediaType": "movie",
+      "title": "Yellow Letters",
+      "awardYear": 2026,
+      "winner": "İlker Çatak",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt32888226"
+      }
+    }
+  ]
+}

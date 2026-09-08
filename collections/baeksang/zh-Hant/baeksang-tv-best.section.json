@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "ChatGPT",
+  "title": "百想藝術大賞 — 最佳電視劇",
+  "description": "2017–2026 年百想藝術大賞最佳電視劇獲獎記錄。",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "baeksang-tv-best.list.json"
+    }
+  ]
+}

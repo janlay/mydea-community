@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "Mydea",
+  "title": "柏林 — 最佳男演员银熊奖（历史）",
+  "description": "柏林国际电影节 最佳男演员银熊奖（历史） 全部获奖记录。",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "berlinale-best-actor.list.json"
+    }
+  ]
+}

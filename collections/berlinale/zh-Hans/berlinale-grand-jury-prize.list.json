@@ -1,0 +1,786 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:30:00Z",
+  "title": "柏林 — 评审团大奖",
+  "description": "柏林国际电影节 评审团大奖 全部获奖记录。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "berlinale-grand-jury-prize-1965-le-bonheur",
+      "mediaType": "movie",
+      "title": "Le Bonheur",
+      "awardYear": 1965,
+      "winner": "Agnès Varda",
+      "releaseDate": "1965",
+      "externalIds": {
+        "letterboxd": "le-bonheur"
+      }
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1965-repulsion",
+      "mediaType": "movie",
+      "title": "Repulsion",
+      "awardYear": 1965,
+      "winner": "Roman Polanski",
+      "releaseDate": "1965",
+      "externalIds": {
+        "letterboxd": "repulsion"
+      }
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1966-the-chasers",
+      "mediaType": "movie",
+      "title": "The Chasers",
+      "awardYear": 1966,
+      "winner": "Yngve Gamlin",
+      "releaseDate": "1966",
+      "externalIds": {
+        "letterboxd": "the-chasers"
+      }
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1966-no-shooting-time-for-foxes",
+      "mediaType": "movie",
+      "title": "No Shooting Time for Foxes",
+      "awardYear": 1966,
+      "winner": "Peter Schamoni",
+      "releaseDate": "1966",
+      "externalIds": {
+        "letterboxd": "no-shooting-time-for-foxes"
+      }
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1967-la-collectionneuse",
+      "mediaType": "movie",
+      "title": "La Collectionneuse",
+      "awardYear": 1967,
+      "winner": "Éric Rohmer",
+      "releaseDate": "1967",
+      "externalIds": {
+        "letterboxd": "la-collectionneuse"
+      }
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1967-next-year-same-time",
+      "mediaType": "movie",
+      "title": "Next Year, Same Time",
+      "awardYear": 1967,
+      "winner": "Ulrich Schamoni",
+      "releaseDate": "1967",
+      "externalIds": {
+        "letterboxd": "next-year-same-time"
+      }
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1968-innocence-unprotected",
+      "mediaType": "movie",
+      "title": "Innocence Unprotected",
+      "awardYear": 1968,
+      "winner": "Dušan Makavejev",
+      "releaseDate": "1968",
+      "externalIds": {
+        "letterboxd": "innocence-unprotected"
+      }
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1968-signs-of-life",
+      "mediaType": "movie",
+      "title": "Signs of Life",
+      "awardYear": 1968,
+      "winner": "Werner Herzog",
+      "releaseDate": "1968",
+      "externalIds": {
+        "letterboxd": "signs-of-life"
+      }
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1968-something-like-love",
+      "mediaType": "movie",
+      "title": "Something Like Love",
+      "awardYear": 1968,
+      "winner": "Enrique Martino",
+      "releaseDate": "1968",
+      "externalIds": {
+        "letterboxd": "something-like-love"
+      }
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1971-the-decameron",
+      "mediaType": "movie",
+      "title": "The Decameron",
+      "awardYear": 1971,
+      "winner": "Pier Paolo Pasolini",
+      "releaseDate": "1971",
+      "externalIds": {
+        "letterboxd": "the-decameron"
+      }
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1972-the-hospital",
+      "mediaType": "movie",
+      "title": "The Hospital",
+      "awardYear": 1972,
+      "winner": "Arthur Hiller",
+      "releaseDate": "1972",
+      "externalIds": {
+        "letterboxd": "the-hospital"
+      }
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1973-there-s-no-smoke-without-fire",
+      "mediaType": "movie",
+      "title": "There's No Smoke Without Fire",
+      "awardYear": 1973,
+      "winner": "André Cayatte",
+      "releaseDate": "1973",
+      "externalIds": {
+        "letterboxd": "there-s-no-smoke-without-fire"
+      }
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1974-the-clockmaker",
+      "mediaType": "movie",
+      "title": "The Clockmaker",
+      "awardYear": 1974,
+      "winner": "Bertrand Tavernier",
+      "releaseDate": "1974",
+      "externalIds": {
+        "letterboxd": "the-clockmaker"
+      }
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1975-the-common-man",
+      "mediaType": "movie",
+      "title": "The Common Man",
+      "awardYear": 1975,
+      "winner": "Yves Boisset",
+      "releaseDate": "1975",
+      "externalIds": {
+        "letterboxd": "the-common-man"
+      }
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1975-overlord",
+      "mediaType": "movie",
+      "title": "Overlord",
+      "awardYear": 1975,
+      "winner": "Stuart Cooper",
+      "releaseDate": "1975",
+      "externalIds": {
+        "letterboxd": "overlord"
+      }
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1976-canoa-a-shameful-memory",
+      "mediaType": "movie",
+      "title": "Canoa: A Shameful Memory",
+      "awardYear": 1976,
+      "winner": "Felipe Cazals",
+      "releaseDate": "1976",
+      "externalIds": {
+        "letterboxd": "canoa-a-shameful-memory"
+      }
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1977-the-devil-probably",
+      "mediaType": "movie",
+      "title": "The Devil, Probably",
+      "awardYear": 1977,
+      "winner": "Robert Bresson",
+      "releaseDate": "1977",
+      "externalIds": {
+        "letterboxd": "the-devil-probably"
+      }
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1978-a-queda",
+      "mediaType": "movie",
+      "title": "A Queda",
+      "awardYear": 1978,
+      "winner": "Ruy Guerra & Nelson Xavier",
+      "releaseDate": "1978",
+      "externalIds": {
+        "letterboxd": "a-queda"
+      }
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1979-alexandria-why",
+      "mediaType": "movie",
+      "title": "Alexandria... Why?",
+      "awardYear": 1979,
+      "winner": "Youssef Chahine",
+      "releaseDate": "1979",
+      "externalIds": {
+        "letterboxd": "alexandria-why"
+      }
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1980-seeking-asylum",
+      "mediaType": "movie",
+      "title": "Seeking Asylum",
+      "awardYear": 1980,
+      "winner": "Marco Ferreri",
+      "releaseDate": "1980",
+      "externalIds": {
+        "letterboxd": "seeking-asylum"
+      }
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1981-akaler-shandhaney",
+      "mediaType": "movie",
+      "title": "Akaler Shandhaney",
+      "awardYear": 1981,
+      "winner": "Mrinal Sen",
+      "releaseDate": "1981",
+      "externalIds": {
+        "letterboxd": "akaler-shandhaney"
+      }
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1982-shivers",
+      "mediaType": "movie",
+      "title": "Shivers",
+      "awardYear": 1982,
+      "winner": "Wojciech Marczewski",
+      "releaseDate": "1982",
+      "externalIds": {
+        "letterboxd": "shivers"
+      }
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1983-a-season-in-hakkari",
+      "mediaType": "movie",
+      "title": "A Season in Hakkari",
+      "awardYear": 1983,
+      "winner": "Erden Kıral",
+      "releaseDate": "1983",
+      "externalIds": {
+        "letterboxd": "a-season-in-hakkari"
+      }
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1984-funny-dirty-little-war",
+      "mediaType": "movie",
+      "title": "Funny Dirty Little War",
+      "awardYear": 1984,
+      "winner": "Héctor Olivera",
+      "releaseDate": "1984",
+      "externalIds": {
+        "letterboxd": "funny-dirty-little-war"
+      }
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1985-flowers-of-reverie",
+      "mediaType": "movie",
+      "title": "Flowers of Reverie",
+      "awardYear": 1985,
+      "winner": "László Lugossy",
+      "releaseDate": "1985",
+      "externalIds": {
+        "letterboxd": "flowers-of-reverie"
+      }
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1986-the-mass-is-ended",
+      "mediaType": "movie",
+      "title": "The Mass Is Ended",
+      "awardYear": 1986,
+      "winner": "Nanni Moretti",
+      "releaseDate": "1986",
+      "externalIds": {
+        "letterboxd": "the-mass-is-ended"
+      }
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1987-the-sea-and-poison",
+      "mediaType": "movie",
+      "title": "The Sea and Poison",
+      "awardYear": 1987,
+      "winner": "Kei Kumai",
+      "releaseDate": "1987",
+      "externalIds": {
+        "letterboxd": "the-sea-and-poison"
+      }
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1988-commissar",
+      "mediaType": "movie",
+      "title": "Commissar",
+      "awardYear": 1988,
+      "winner": "Aleksandr Askoldov",
+      "releaseDate": "1988",
+      "externalIds": {
+        "letterboxd": "commissar"
+      }
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1989-evening-bell",
+      "mediaType": "movie",
+      "title": "Evening Bell",
+      "awardYear": 1989,
+      "winner": "Wu Ziniu",
+      "releaseDate": "1989",
+      "externalIds": {
+        "letterboxd": "evening-bell"
+      }
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1990-the-asthenic-syndrome",
+      "mediaType": "movie",
+      "title": "The Asthenic Syndrome",
+      "awardYear": 1990,
+      "winner": "Kira Muratova",
+      "releaseDate": "1990",
+      "externalIds": {
+        "letterboxd": "the-asthenic-syndrome"
+      }
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1991-the-conviction",
+      "mediaType": "movie",
+      "title": "The Conviction",
+      "awardYear": 1991,
+      "winner": "Marco Bellocchio",
+      "releaseDate": "1991",
+      "externalIds": {
+        "letterboxd": "the-conviction"
+      }
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1991-satan",
+      "mediaType": "movie",
+      "title": "Satan",
+      "awardYear": 1991,
+      "winner": "Viktor Aristov",
+      "releaseDate": "1991",
+      "externalIds": {
+        "letterboxd": "satan"
+      }
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1992-sweet-emma-dear-bobe",
+      "mediaType": "movie",
+      "title": "Sweet Emma, Dear Böbe",
+      "awardYear": 1992,
+      "winner": "István Szabó",
+      "releaseDate": "1992",
+      "externalIds": {
+        "letterboxd": "sweet-emma-dear-bobe"
+      }
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1993-arizona-dream",
+      "mediaType": "movie",
+      "title": "Arizona Dream",
+      "awardYear": 1993,
+      "winner": "Emir Kusturica",
+      "releaseDate": "1993",
+      "externalIds": {
+        "letterboxd": "arizona-dream"
+      }
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1994-strawberry-and-chocolate",
+      "mediaType": "movie",
+      "title": "Strawberry and Chocolate",
+      "awardYear": 1994,
+      "winner": "Tomás Gutiérrez Alea & Juan Carlos Tabío",
+      "releaseDate": "1994",
+      "externalIds": {
+        "letterboxd": "strawberry-and-chocolate"
+      }
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1995-smoke",
+      "mediaType": "movie",
+      "title": "Smoke",
+      "awardYear": 1995,
+      "winner": "Wayne Wang",
+      "releaseDate": "1995",
+      "externalIds": {
+        "letterboxd": "smoke"
+      }
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1996-all-things-fair",
+      "mediaType": "movie",
+      "title": "All Things Fair",
+      "awardYear": 1996,
+      "winner": "Bo Widerberg",
+      "releaseDate": "1996",
+      "externalIds": {
+        "letterboxd": "all-things-fair"
+      }
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1997-the-river",
+      "mediaType": "movie",
+      "title": "The River",
+      "awardYear": 1997,
+      "winner": "Tsai Ming-liang",
+      "releaseDate": "1997",
+      "externalIds": {
+        "letterboxd": "the-river"
+      }
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1998-wag-the-dog",
+      "mediaType": "movie",
+      "title": "Wag the Dog",
+      "awardYear": 1998,
+      "winner": "Barry Levinson",
+      "releaseDate": "1998",
+      "externalIds": {
+        "letterboxd": "wag-the-dog"
+      }
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1999-mifune-s-last-song",
+      "mediaType": "movie",
+      "title": "Mifune's Last Song",
+      "awardYear": 1999,
+      "winner": "Søren Kragh-Jacobsen",
+      "releaseDate": "1999",
+      "externalIds": {
+        "letterboxd": "mifune-s-last-song"
+      }
+    },
+    {
+      "id": "berlinale-grand-jury-prize-2000-the-road-home",
+      "mediaType": "movie",
+      "title": "The Road Home",
+      "awardYear": 2000,
+      "winner": "Zhang Yimou",
+      "releaseDate": "2000",
+      "externalIds": {
+        "letterboxd": "the-road-home"
+      }
+    },
+    {
+      "id": "berlinale-grand-jury-prize-2001-beijing-bicycle",
+      "mediaType": "movie",
+      "title": "Beijing Bicycle",
+      "awardYear": 2001,
+      "winner": "Wang Xiaoshuai",
+      "releaseDate": "2001",
+      "externalIds": {
+        "letterboxd": "beijing-bicycle"
+      }
+    },
+    {
+      "id": "berlinale-grand-jury-prize-2002-grill-point",
+      "mediaType": "movie",
+      "title": "Grill Point",
+      "awardYear": 2002,
+      "winner": "Andreas Dresen",
+      "releaseDate": "2002",
+      "externalIds": {
+        "letterboxd": "grill-point"
+      }
+    },
+    {
+      "id": "berlinale-grand-jury-prize-2003-adaptation",
+      "mediaType": "movie",
+      "title": "Adaptation",
+      "awardYear": 2003,
+      "winner": "Spike Jonze",
+      "releaseDate": "2003",
+      "externalIds": {
+        "letterboxd": "adaptation"
+      }
+    },
+    {
+      "id": "berlinale-grand-jury-prize-2004-lost-embrace",
+      "mediaType": "movie",
+      "title": "Lost Embrace",
+      "awardYear": 2004,
+      "winner": "Daniel Burman",
+      "releaseDate": "2004",
+      "externalIds": {
+        "letterboxd": "lost-embrace"
+      }
+    },
+    {
+      "id": "berlinale-grand-jury-prize-2005-peacock",
+      "mediaType": "movie",
+      "title": "Peacock",
+      "awardYear": 2005,
+      "winner": "Gu Changwei",
+      "releaseDate": "2005",
+      "externalIds": {
+        "letterboxd": "peacock"
+      }
+    },
+    {
+      "id": "berlinale-grand-jury-prize-2006-offside",
+      "mediaType": "movie",
+      "title": "Offside",
+      "awardYear": 2006,
+      "winner": "Jafar Panahi",
+      "releaseDate": "2006",
+      "externalIds": {
+        "letterboxd": "offside"
+      }
+    },
+    {
+      "id": "berlinale-grand-jury-prize-2006-a-soap",
+      "mediaType": "movie",
+      "title": "A Soap",
+      "awardYear": 2006,
+      "winner": "Pernille Fischer Christensen",
+      "releaseDate": "2006",
+      "externalIds": {
+        "letterboxd": "a-soap"
+      }
+    },
+    {
+      "id": "berlinale-grand-jury-prize-2007-the-other",
+      "mediaType": "movie",
+      "title": "The Other",
+      "awardYear": 2007,
+      "winner": "Ariel Rotter",
+      "releaseDate": "2007",
+      "externalIds": {
+        "letterboxd": "the-other"
+      }
+    },
+    {
+      "id": "berlinale-grand-jury-prize-2008-standard-operating-procedure",
+      "mediaType": "movie",
+      "title": "Standard Operating Procedure",
+      "awardYear": 2008,
+      "winner": "Errol Morris",
+      "releaseDate": "2008",
+      "externalIds": {
+        "letterboxd": "standard-operating-procedure"
+      }
+    },
+    {
+      "id": "berlinale-grand-jury-prize-2009-everyone-else",
+      "mediaType": "movie",
+      "title": "Everyone Else",
+      "awardYear": 2009,
+      "winner": "Maren Ade",
+      "releaseDate": "2009",
+      "externalIds": {
+        "letterboxd": "everyone-else"
+      }
+    },
+    {
+      "id": "berlinale-grand-jury-prize-2009-giant",
+      "mediaType": "movie",
+      "title": "Giant",
+      "awardYear": 2009,
+      "winner": "Adrián Biniez",
+      "releaseDate": "2009",
+      "externalIds": {
+        "letterboxd": "giant"
+      }
+    },
+    {
+      "id": "berlinale-grand-jury-prize-2010-if-i-want-to-whistle-i-whistle",
+      "mediaType": "movie",
+      "title": "If I Want to Whistle, I Whistle",
+      "awardYear": 2010,
+      "winner": "Florin Șerban",
+      "releaseDate": "2010",
+      "externalIds": {
+        "letterboxd": "if-i-want-to-whistle-i-whistle"
+      }
+    },
+    {
+      "id": "berlinale-grand-jury-prize-2011-the-turin-horse",
+      "mediaType": "movie",
+      "title": "The Turin Horse",
+      "awardYear": 2011,
+      "winner": "Béla Tarr",
+      "releaseDate": "2011",
+      "externalIds": {
+        "letterboxd": "the-turin-horse"
+      }
+    },
+    {
+      "id": "berlinale-grand-jury-prize-2012-just-the-wind",
+      "mediaType": "movie",
+      "title": "Just the Wind",
+      "awardYear": 2012,
+      "winner": "Benedek Fliegauf",
+      "releaseDate": "2012",
+      "externalIds": {
+        "letterboxd": "just-the-wind"
+      }
+    },
+    {
+      "id": "berlinale-grand-jury-prize-2013-an-episode-in-the-life-of-an-iron-picker",
+      "mediaType": "movie",
+      "title": "An Episode in the Life of an Iron Picker",
+      "awardYear": 2013,
+      "winner": "Danis Tanović",
+      "releaseDate": "2013",
+      "externalIds": {
+        "letterboxd": "an-episode-in-the-life-of-an-iron-picker"
+      }
+    },
+    {
+      "id": "berlinale-grand-jury-prize-2014-the-grand-budapest-hotel",
+      "mediaType": "movie",
+      "title": "布达佩斯大饭店",
+      "englishTitle": "The Grand Budapest Hotel",
+      "awardYear": 2014,
+      "winner": "Wes Anderson",
+      "releaseDate": "2014",
+      "externalIds": {
+        "letterboxd": "the-grand-budapest-hotel"
+      }
+    },
+    {
+      "id": "berlinale-grand-jury-prize-2015-the-club",
+      "mediaType": "movie",
+      "title": "The Club",
+      "awardYear": 2015,
+      "winner": "Pablo Larraín",
+      "releaseDate": "2015",
+      "externalIds": {
+        "letterboxd": "the-club"
+      }
+    },
+    {
+      "id": "berlinale-grand-jury-prize-2016-death-in-sarajevo",
+      "mediaType": "movie",
+      "title": "Death in Sarajevo",
+      "awardYear": 2016,
+      "winner": "Danis Tanović",
+      "releaseDate": "2016",
+      "externalIds": {
+        "letterboxd": "death-in-sarajevo"
+      }
+    },
+    {
+      "id": "berlinale-grand-jury-prize-2017-felicite",
+      "mediaType": "movie",
+      "title": "菲丽希缇",
+      "englishTitle": "Félicité",
+      "awardYear": 2017,
+      "winner": "Alain Gomis",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6343058"
+      }
+    },
+    {
+      "id": "berlinale-grand-jury-prize-2018-mug",
+      "mediaType": "movie",
+      "title": "Mug",
+      "awardYear": 2018,
+      "winner": "Małgorzata Szumowska",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt5311542"
+      }
+    },
+    {
+      "id": "berlinale-grand-jury-prize-2019-by-the-grace-of-god",
+      "mediaType": "movie",
+      "title": "感谢上帝",
+      "englishTitle": "By the Grace of God",
+      "awardYear": 2019,
+      "winner": "François Ozon",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt8095860"
+      }
+    },
+    {
+      "id": "berlinale-grand-jury-prize-2020-never-rarely-sometimes-always",
+      "mediaType": "movie",
+      "title": "从不，很少，有时，总是",
+      "englishTitle": "Never Rarely Sometimes Always",
+      "awardYear": 2020,
+      "winner": "Eliza Hittman",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt7772582"
+      }
+    },
+    {
+      "id": "berlinale-grand-jury-prize-2021-wheel-of-fortune-and-fantasy",
+      "mediaType": "movie",
+      "title": "偶然与想象",
+      "englishTitle": "Wheel of Fortune and Fantasy",
+      "awardYear": 2021,
+      "winner": "Ryusuke Hamaguchi",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14034966"
+      }
+    },
+    {
+      "id": "berlinale-grand-jury-prize-2022-the-novelist-s-film",
+      "mediaType": "movie",
+      "title": "The Novelist's Film",
+      "awardYear": 2022,
+      "winner": "Hong Sangsoo",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt17146978"
+      }
+    },
+    {
+      "id": "berlinale-grand-jury-prize-2023-afire",
+      "mediaType": "movie",
+      "title": "红色天空",
+      "englishTitle": "Afire",
+      "awardYear": 2023,
+      "winner": "Christian Petzold",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt26440619"
+      }
+    },
+    {
+      "id": "berlinale-grand-jury-prize-2024-a-traveler-s-needs",
+      "mediaType": "movie",
+      "title": "旅行者的需求",
+      "englishTitle": "A Traveler's Needs",
+      "awardYear": 2024,
+      "winner": "Hong Sangsoo",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt31015344"
+      }
+    },
+    {
+      "id": "berlinale-grand-jury-prize-2025-the-blue-trail",
+      "mediaType": "movie",
+      "title": "The Blue Trail",
+      "awardYear": 2025,
+      "winner": "Gabriel Mascaro",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt35340614"
+      }
+    },
+    {
+      "id": "berlinale-grand-jury-prize-2026-salvation",
+      "mediaType": "movie",
+      "title": "Salvation",
+      "awardYear": 2026,
+      "winner": "Emin Alper",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt36472181"
+      }
+    }
+  ]
+}

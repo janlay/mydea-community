@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-12T02:58:14Z",
+  "title": "百想芸術大賞 — 映画部門 男性最優秀演技賞",
+  "description": "百想芸術大賞の映画部門男性最優秀演技賞受賞作。 2017年から2026年までを収録。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "baeksang-2017-film-actor-age-shadows",
+      "mediaType": "movie",
+      "title": "密偵",
+      "originalTitle": "밀정",
+      "awardYear": 2017,
+      "winner": "ソン・ガンホ",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4914580"
+      }
+    },
+    {
+      "id": "baeksang-2018-film-actor-1987",
+      "mediaType": "movie",
+      "title": "1987、ある闘いの真実",
+      "originalTitle": "1987",
+      "awardYear": 2018,
+      "winner": "キム・ユンソク",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6493286"
+      }
+    },
+    {
+      "id": "baeksang-2019-film-actor-spy-north",
+      "mediaType": "movie",
+      "title": "工作 黒金星と呼ばれた男",
+      "originalTitle": "공작",
+      "awardYear": 2019,
+      "winner": "イ・ソンミン",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8290698"
+      }
+    },
+    {
+      "id": "baeksang-2020-film-actor-man-standing",
+      "mediaType": "movie",
+      "title": "KCIA 南山の部長たち",
+      "originalTitle": "남산의 부장들",
+      "awardYear": 2020,
+      "winner": "イ・ビョンホン",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt11358398"
+      }
+    },
+    {
+      "id": "baeksang-2021-film-actor-voice-silence",
+      "mediaType": "movie",
+      "title": "声もなく",
+      "originalTitle": "소리도 없이",
+      "awardYear": 2021,
+      "winner": "ユ・アイン",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10431572"
+      }
+    },
+    {
+      "id": "baeksang-2022-film-actor-kingmaker",
+      "mediaType": "movie",
+      "title": "キングメーカー 大統領を作った男",
+      "originalTitle": "킹메이커",
+      "awardYear": 2022,
+      "winner": "ソル・ギョング",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt17491616"
+      }
+    },
+    {
+      "id": "baeksang-2023-film-actor-night-owl",
+      "mediaType": "movie",
+      "title": "梟－フクロウ－",
+      "originalTitle": "올빼미",
+      "awardYear": 2023,
+      "winner": "リュ・ジュンヨル",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt23871504"
+      }
+    },
+    {
+      "id": "baeksang-2024-film-actor-seoul-spring",
+      "mediaType": "movie",
+      "title": "ソウルの春",
+      "originalTitle": "서울의 봄",
+      "awardYear": 2024,
+      "winner": "ファン・ジョンミン",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt22507524"
+      }
+    },
+    {
+      "id": "baeksang-2025-film-actor-pilot",
+      "mediaType": "movie",
+      "title": "パイロット",
+      "originalTitle": "파일럿",
+      "awardYear": 2025,
+      "winner": "チョ・ジョンソク",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt32175399"
+      }
+    },
+    {
+      "id": "baeksang-2026-film-actor-ugly",
+      "mediaType": "movie",
+      "title": "顔",
+      "originalTitle": "얼굴",
+      "awardYear": 2026,
+      "winner": "パク・ジョンミン",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt33514451"
+      }
+    }
+  ]
+}

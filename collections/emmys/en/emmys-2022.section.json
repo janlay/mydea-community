@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "ChatGPT",
+  "title": "Primetime Emmy Awards 2022 Winners",
+  "description": "Major-category winners from the 74th Primetime Emmy Awards.",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "emmys-2022.list.json"
+    }
+  ]
+}

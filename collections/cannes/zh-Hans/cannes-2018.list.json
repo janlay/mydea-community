@@ -1,0 +1,310 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-08T11:52:00Z",
+  "title": "戛纳电影节 2018 年获奖名单",
+  "description": "第71届戛纳电影节官方影片相关奖项，涵盖主竞赛单元, 短片, 一种关注单元, 金摄影机奖, 电影基石单元 以及 CST 技术奖。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "cannes-2018-palme-d-or-shoplifters",
+      "mediaType": "movie",
+      "title": "小偷家族",
+      "award": "金棕榈奖",
+      "awardYear": 2018,
+      "awardOrder": 1,
+      "winner": "Hirokazu Kore-eda",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8075192"
+      }
+    },
+    {
+      "id": "cannes-2018-special-palme-d-or-the-image-book",
+      "mediaType": "movie",
+      "title": "影像之书",
+      "award": "特别金棕榈奖",
+      "awardYear": 2018,
+      "awardOrder": 2,
+      "winner": "Jean-Luc Godard",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt5749596"
+      }
+    },
+    {
+      "id": "cannes-2018-grand-prix-blackkklansman",
+      "mediaType": "movie",
+      "title": "黑色党徒",
+      "award": "评审团大奖",
+      "awardYear": 2018,
+      "awardOrder": 3,
+      "winner": "Spike Lee",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7349662"
+      }
+    },
+    {
+      "id": "cannes-2018-best-director-prize-cold-war",
+      "mediaType": "movie",
+      "title": "冷战",
+      "award": "最佳导演奖",
+      "awardYear": 2018,
+      "awardOrder": 4,
+      "winner": "Paweł Pawlikowski",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt6543652"
+      }
+    },
+    {
+      "id": "cannes-2018-best-screenplay-ex-aequo-happy-as-lazzaro",
+      "mediaType": "movie",
+      "title": "幸福的拉扎罗",
+      "award": "最佳编剧 （并列）",
+      "awardYear": 2018,
+      "awardOrder": 5,
+      "winner": "Alice Rohrwacher",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt6752992"
+      }
+    },
+    {
+      "id": "cannes-2018-best-screenplay-ex-aequo-3-faces",
+      "mediaType": "movie",
+      "title": "三张面孔",
+      "award": "最佳编剧 （并列）",
+      "awardYear": 2018,
+      "awardOrder": 6,
+      "winner": "Jafar Panahi",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8269552"
+      }
+    },
+    {
+      "id": "cannes-2018-jury-prize-capernaum",
+      "mediaType": "movie",
+      "title": "何以为家",
+      "award": "评审团奖",
+      "awardYear": 2018,
+      "awardOrder": 7,
+      "winner": "Nadine Labaki",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8267604"
+      }
+    },
+    {
+      "id": "cannes-2018-best-performance-for-an-actress-ayka",
+      "mediaType": "movie",
+      "title": "艾卡",
+      "award": "最佳女演员奖",
+      "awardYear": 2018,
+      "awardOrder": 8,
+      "winner": "Samal Yeslyamova",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8305116"
+      }
+    },
+    {
+      "id": "cannes-2018-best-performance-for-an-actor-dogman",
+      "mediaType": "movie",
+      "title": "狗狗情缘",
+      "award": "最佳男演员奖",
+      "awardYear": 2018,
+      "awardOrder": 9,
+      "winner": "Marcello Fonte",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt6768578"
+      }
+    },
+    {
+      "id": "cannes-2018-vulcain-prize-for-an-artist-technician-burning",
+      "mediaType": "movie",
+      "title": "燃烧",
+      "award": "艺术家技术奖",
+      "awardYear": 2018,
+      "awardOrder": 10,
+      "winner": "Shin Jeom-hui",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7282468"
+      }
+    },
+    {
+      "id": "cannes-2018-short-film-palme-d-or-all-these-creatures",
+      "mediaType": "movie",
+      "title": "所有这些生灵",
+      "award": "短片 金棕榈奖",
+      "awardYear": 2018,
+      "awardOrder": 11,
+      "winner": "Charles Williams",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8296622"
+      }
+    },
+    {
+      "id": "cannes-2018-short-film-special-jury-distinction-on-the-border",
+      "mediaType": "movie",
+      "title": "在边境上",
+      "award": "短片 评审团特别提及",
+      "awardYear": 2018,
+      "awardOrder": 12,
+      "winner": "Wei Shujun",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8296620"
+      }
+    },
+    {
+      "id": "cannes-2018-un-certain-regard-prize-border",
+      "mediaType": "movie",
+      "title": "边境",
+      "award": "一种关注奖",
+      "awardYear": 2018,
+      "awardOrder": 13,
+      "winner": "Ali Abbasi",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt5501104"
+      }
+    },
+    {
+      "id": "cannes-2018-un-certain-regard-jury-prize-the-dead-and-the-others",
+      "mediaType": "movie",
+      "title": "死者与其他人",
+      "award": "一种关注 评审团奖",
+      "awardYear": 2018,
+      "awardOrder": 14,
+      "winner": "João Salaviza & Renée Nader Messora",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8423962"
+      }
+    },
+    {
+      "id": "cannes-2018-un-certain-regard-best-directing-donbass",
+      "mediaType": "movie",
+      "title": "顿巴斯",
+      "award": "一种关注 最佳导演",
+      "awardYear": 2018,
+      "awardOrder": 15,
+      "winner": "Sergei Loznitsa",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8282042"
+      }
+    },
+    {
+      "id": "cannes-2018-un-certain-regard-best-screenplay-sofia",
+      "mediaType": "movie",
+      "title": "索菲亚",
+      "award": "一种关注 最佳编剧",
+      "awardYear": 2018,
+      "awardOrder": 16,
+      "winner": "Meryem Benm'Barek",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8296592"
+      }
+    },
+    {
+      "id": "cannes-2018-un-certain-regard-best-actor-girl",
+      "mediaType": "movie",
+      "title": "女孩",
+      "award": "一种关注 最佳男演员",
+      "awardYear": 2018,
+      "awardOrder": 17,
+      "winner": "Victor Polster",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8254556"
+      }
+    },
+    {
+      "id": "cannes-2018-cam-ra-d-or-girl",
+      "mediaType": "movie",
+      "title": "女孩",
+      "award": "金摄影机奖",
+      "awardYear": 2018,
+      "awardOrder": 18,
+      "winner": "Lukas Dhont",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8254556"
+      }
+    },
+    {
+      "id": "cannes-2018-cin-fondation-first-prize-the-summer-of-the-electric-lion",
+      "mediaType": "movie",
+      "title": "电光狮之夏",
+      "award": "电影基石 一等奖",
+      "awardYear": 2018,
+      "awardOrder": 19,
+      "winner": "Diego Céspedes",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8517672"
+      }
+    },
+    {
+      "id": "cannes-2018-cin-fondation-second-prize-ex-aequo-calendar",
+      "mediaType": "movie",
+      "title": "日历",
+      "award": "电影基石 二等奖 （并列）",
+      "awardYear": 2018,
+      "awardOrder": 20,
+      "winner": "Igor Poplauhin",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8517728"
+      }
+    },
+    {
+      "id": "cannes-2018-cin-fondation-second-prize-ex-aequo-the-storms-in-our-blood",
+      "mediaType": "movie",
+      "title": "血液中的风暴",
+      "award": "电影基石 二等奖 （并列）",
+      "awardYear": 2018,
+      "awardOrder": 21,
+      "winner": "Shen Di",
+      "releaseDate": "2018",
+      "externalIds": {
+        "letterboxd": "the-storms-in-our-blood"
+      }
+    },
+    {
+      "id": "cannes-2018-cin-fondation-third-prize-inanimate",
+      "mediaType": "movie",
+      "title": "无生命",
+      "award": "电影基石 三等奖",
+      "awardYear": 2018,
+      "awardOrder": 22,
+      "winner": "Lucia Bulgheroni",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8358616"
+      }
+    }
+  ]
+}

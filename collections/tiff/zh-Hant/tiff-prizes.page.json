@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "title": "多倫多獎項",
+  "description": "多倫多國際影展主要影片獎項的歷屆獲獎紀錄。",
+  "tags": [
+    "award",
+    "prize"
+  ],
+  "icon": "ticket",
+  "sections": [
+    {
+      "title": "多倫多 — 觀眾選擇獎",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "limit": 10,
+      "layout": "carousel",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "tiff-peoples-choice.list.json"
+        }
+      ]
+    },
+    {
+      "title": "多倫多 — 紀錄片觀眾選擇獎",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "limit": 10,
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "tiff-documentary-peoples-choice.list.json"
+        }
+      ]
+    },
+    {
+      "title": "多倫多 — 午夜瘋狂觀眾選擇獎",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "limit": 10,
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "tiff-midnight-madness-peoples-choice.list.json"
+        }
+      ]
+    },
+    {
+      "title": "多倫多 — Platform 獎",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "limit": 10,
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "tiff-platform-prize.list.json"
+        }
+      ]
+    },
+    {
+      "title": "多倫多 — 最佳加拿大長片",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "limit": 10,
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "tiff-best-canadian-feature.list.json"
+        }
+      ]
+    },
+    {
+      "title": "多倫多 — 最佳加拿大新發現",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "limit": 10,
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "tiff-best-canadian-discovery.list.json"
+        }
+      ]
+    }
+  ]
+}

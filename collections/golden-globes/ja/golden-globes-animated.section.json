@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "ChatGPT",
+  "title": "ゴールデングローブ賞 — アニメーション映画賞",
+  "description": "2017年から2026年までのゴールデングローブ賞「アニメーション映画賞」受賞作品。",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "golden-globes-animated.list.json"
+    }
+  ]
+}

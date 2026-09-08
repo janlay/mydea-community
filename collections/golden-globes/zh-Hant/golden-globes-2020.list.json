@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "金球獎 2020",
+  "description": "2020 金球獎主要电影与电视作品类获奖名单。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "golden-globes-2020-drama-1917",
+      "mediaType": "movie",
+      "title": "1917",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt8579674"
+      },
+      "award": "最佳劇情片",
+      "awardYear": 2020,
+      "awardOrder": 1,
+      "winner": "1917"
+    },
+    {
+      "id": "golden-globes-2020-comedy-once-upon-a-time-in-hollywood",
+      "mediaType": "movie",
+      "title": "從前，有個好萊塢",
+      "englishTitle": "Once Upon a Time... in Hollywood",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt7131622"
+      },
+      "award": "最佳音樂或喜劇片",
+      "awardYear": 2020,
+      "awardOrder": 2,
+      "winner": "從前，有個好萊塢"
+    },
+    {
+      "id": "golden-globes-2020-animated-missing-link",
+      "mediaType": "movie",
+      "title": "Missing Link",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6348138"
+      },
+      "award": "最佳動畫片",
+      "awardYear": 2020,
+      "awardOrder": 3,
+      "winner": "Missing Link"
+    },
+    {
+      "id": "golden-globes-2020-foreign-parasite",
+      "mediaType": "movie",
+      "title": "寄生上流",
+      "englishTitle": "Parasite",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6751668"
+      },
+      "award": "最佳非英語片",
+      "awardYear": 2020,
+      "awardOrder": 4,
+      "winner": "寄生上流"
+    },
+    {
+      "id": "golden-globes-2020-tv_drama-succession",
+      "mediaType": "tv",
+      "title": "繼承之戰",
+      "englishTitle": "Succession",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7660850"
+      },
+      "award": "最佳劇情類影集",
+      "awardYear": 2020,
+      "awardOrder": 5,
+      "winner": "繼承之戰"
+    },
+    {
+      "id": "golden-globes-2020-tv_comedy-fleabag",
+      "mediaType": "tv",
+      "title": "Fleabag",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5687612"
+      },
+      "award": "最佳音樂或喜劇類影集",
+      "awardYear": 2020,
+      "awardOrder": 6,
+      "winner": "Fleabag"
+    },
+    {
+      "id": "golden-globes-2020-limited-chernobyl",
+      "mediaType": "tv",
+      "title": "核爆家園",
+      "englishTitle": "Chernobyl",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt7366338"
+      },
+      "award": "最佳有限影集、選集影集或電視電影",
+      "awardYear": 2020,
+      "awardOrder": 7,
+      "winner": "核爆家園"
+    }
+  ]
+}

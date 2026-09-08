@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T05:03:58Z",
+  "title": "Oscars — Best Picture",
+  "description": "Ten-year winner history for the Academy Award for Best Picture.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "oscars-best-picture-2017-moonlight",
+      "mediaType": "movie",
+      "title": "Moonlight",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4975722"
+      },
+      "awardYear": 2017,
+      "winner": "Dede Gardner, Jeremy Kleiner & Adele Romanski"
+    },
+    {
+      "id": "oscars-best-picture-2018-the-shape-of-water",
+      "mediaType": "movie",
+      "title": "The Shape of Water",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5580390"
+      },
+      "awardYear": 2018,
+      "winner": "Guillermo del Toro & J. Miles Dale"
+    },
+    {
+      "id": "oscars-best-picture-2019-green-book",
+      "mediaType": "movie",
+      "title": "Green Book",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt6966692"
+      },
+      "awardYear": 2019,
+      "winner": "Jim Burke, Charles B. Wessler, Brian Currie, Peter Farrelly & Nick Vallelonga"
+    },
+    {
+      "id": "oscars-best-picture-2020-parasite",
+      "mediaType": "movie",
+      "title": "Parasite",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6751668"
+      },
+      "awardYear": 2020,
+      "winner": "Kwak Sin-ae & Bong Joon Ho"
+    },
+    {
+      "id": "oscars-best-picture-2021-nomadland",
+      "mediaType": "movie",
+      "title": "Nomadland",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt9770150"
+      },
+      "awardYear": 2021,
+      "winner": "Frances McDormand, Peter Spears, Mollye Asher, Dan Janvey & Chloé Zhao"
+    },
+    {
+      "id": "oscars-best-picture-2022-coda",
+      "mediaType": "movie",
+      "title": "CODA",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt10366460"
+      },
+      "awardYear": 2022,
+      "winner": "Philippe Rousselet, Fabrice Gianfermi & Patrick Wachsberger"
+    },
+    {
+      "id": "oscars-best-picture-2023-everything-everywhere-all-at-once",
+      "mediaType": "movie",
+      "title": "Everything Everywhere All at Once",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt6710474"
+      },
+      "awardYear": 2023,
+      "winner": "Daniel Kwan, Daniel Scheinert & Jonathan Wang"
+    },
+    {
+      "id": "oscars-best-picture-2024-oppenheimer",
+      "mediaType": "movie",
+      "title": "Oppenheimer",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt15398776"
+      },
+      "awardYear": 2024,
+      "winner": "Emma Thomas, Charles Roven & Christopher Nolan"
+    },
+    {
+      "id": "oscars-best-picture-2025-anora",
+      "mediaType": "movie",
+      "title": "Anora",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt28607951"
+      },
+      "awardYear": 2025,
+      "winner": "Alex Coco, Samantha Quan & Sean Baker"
+    },
+    {
+      "id": "oscars-best-picture-2026-one-battle-after-another",
+      "mediaType": "movie",
+      "title": "One Battle after Another",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt30144839"
+      },
+      "awardYear": 2026,
+      "winner": "Adam Somner, Sara Murphy & Paul Thomas Anderson"
+    }
+  ]
+}

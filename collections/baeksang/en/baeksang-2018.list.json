@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-12T02:53:58Z",
+  "title": "Baeksang Arts Awards — 2018",
+  "description": "Major film and broadcast winners at the 2018 Baeksang Arts Awards.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "baeksang-2018-film-grand-1987",
+      "mediaType": "movie",
+      "title": "1987: When the Day Comes",
+      "originalTitle": "1987",
+      "award": "Film Grand Prize",
+      "awardYear": 2018,
+      "awardOrder": 1,
+      "winner": "1987: When the Day Comes",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6493286"
+      }
+    },
+    {
+      "id": "baeksang-2018-tv-grand-stranger",
+      "mediaType": "tv",
+      "title": "Stranger",
+      "originalTitle": "비밀의 숲",
+      "award": "Broadcast Grand Prize",
+      "awardYear": 2018,
+      "awardOrder": 2,
+      "winner": "Stranger",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6461346"
+      }
+    },
+    {
+      "id": "baeksang-2018-film-best-fortress",
+      "mediaType": "movie",
+      "title": "The Fortress",
+      "originalTitle": "남한산성",
+      "award": "Best Film",
+      "awardYear": 2018,
+      "awardOrder": 3,
+      "winner": "The Fortress",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7160176"
+      }
+    },
+    {
+      "id": "baeksang-2018-film-director-along-gods",
+      "mediaType": "movie",
+      "title": "Along with the Gods: The Two Worlds",
+      "originalTitle": "신과함께-죄와 벌",
+      "award": "Best Director Film",
+      "awardYear": 2018,
+      "awardOrder": 4,
+      "winner": "Kim Yong-hwa",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7160070"
+      }
+    },
+    {
+      "id": "baeksang-2018-film-actor-1987",
+      "mediaType": "movie",
+      "title": "1987: When the Day Comes",
+      "originalTitle": "1987",
+      "award": "Best Actor Film",
+      "awardYear": 2018,
+      "awardOrder": 5,
+      "winner": "Kim Yoon-seok",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6493286"
+      }
+    },
+    {
+      "id": "baeksang-2018-film-actress-i-can-speak",
+      "mediaType": "movie",
+      "title": "I Can Speak",
+      "originalTitle": "아이 캔 스피크",
+      "award": "Best Actress Film",
+      "awardYear": 2018,
+      "awardOrder": 6,
+      "winner": "Na Moon-hee",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7342204"
+      }
+    },
+    {
+      "id": "baeksang-2018-tv-best-mother",
+      "mediaType": "tv",
+      "title": "Mother",
+      "originalTitle": "마더",
+      "award": "Best Drama",
+      "awardYear": 2018,
+      "awardOrder": 7,
+      "winner": "Mother",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7795226"
+      }
+    },
+    {
+      "id": "baeksang-2018-tv-director-lady-dignity",
+      "mediaType": "tv",
+      "title": "The Lady in Dignity",
+      "originalTitle": "품위있는 그녀",
+      "award": "Best Director Broadcast",
+      "awardYear": 2018,
+      "awardOrder": 8,
+      "winner": "Kim Yun-cheol",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6898288"
+      }
+    },
+    {
+      "id": "baeksang-2018-tv-actor-stranger",
+      "mediaType": "tv",
+      "title": "Stranger",
+      "originalTitle": "비밀의 숲",
+      "award": "Best Actor Broadcast",
+      "awardYear": 2018,
+      "awardOrder": 9,
+      "winner": "Cho Seung-woo",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6461346"
+      }
+    },
+    {
+      "id": "baeksang-2018-tv-actress-misty",
+      "mediaType": "tv",
+      "title": "Misty",
+      "originalTitle": "미스티",
+      "award": "Best Actress Broadcast",
+      "awardYear": 2018,
+      "awardOrder": 10,
+      "winner": "Kim Nam-joo",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7890244"
+      }
+    }
+  ]
+}

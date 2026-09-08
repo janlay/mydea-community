@@ -1,0 +1,116 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:30:00Z",
+  "title": "Venice Film Festival 2021 Awards",
+  "description": "Main Competition official award-winning films at the 2021 Venice International Film Festival.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "venice-golden-lion-2021-happening-1",
+      "mediaType": "movie",
+      "title": "Happening",
+      "releaseDate": "2021",
+      "externalIds": {
+        "letterboxd": "happening"
+      },
+      "awardYear": 2021,
+      "winner": "Audrey Diwan",
+      "award": "Golden Lion"
+    },
+    {
+      "id": "venice-grand-jury-prize-2021-the-hand-of-god-2",
+      "mediaType": "movie",
+      "title": "The Hand of God",
+      "releaseDate": "2021",
+      "externalIds": {
+        "letterboxd": "the-hand-of-god"
+      },
+      "awardYear": 2021,
+      "winner": "Paolo Sorrentino",
+      "award": "Silver Lion – Grand Jury Prize"
+    },
+    {
+      "id": "venice-best-director-2021-the-power-of-the-dog-3",
+      "mediaType": "movie",
+      "title": "The Power of the Dog",
+      "releaseDate": "2021",
+      "externalIds": {
+        "letterboxd": "the-power-of-the-dog"
+      },
+      "awardYear": 2021,
+      "winner": "Jane Campion",
+      "award": "Silver Lion – Best Director"
+    },
+    {
+      "id": "venice-best-actress-2021-parallel-mothers-4",
+      "mediaType": "movie",
+      "title": "Parallel Mothers",
+      "releaseDate": "2021",
+      "externalIds": {
+        "letterboxd": "parallel-mothers"
+      },
+      "awardYear": 2021,
+      "winner": "Penélope Cruz",
+      "award": "Volpi Cup for Best Actress"
+    },
+    {
+      "id": "venice-best-actor-2021-on-the-job-the-missing-8-5",
+      "mediaType": "movie",
+      "title": "On the Job: The Missing 8",
+      "releaseDate": "2021",
+      "externalIds": {
+        "letterboxd": "on-the-job-the-missing-8"
+      },
+      "awardYear": 2021,
+      "winner": "John Arcilla",
+      "award": "Volpi Cup for Best Actor"
+    },
+    {
+      "id": "venice-best-screenplay-2021-the-lost-daughter-6",
+      "mediaType": "movie",
+      "title": "The Lost Daughter",
+      "releaseDate": "2021",
+      "externalIds": {
+        "letterboxd": "the-lost-daughter"
+      },
+      "awardYear": 2021,
+      "winner": "Maggie Gyllenhaal",
+      "award": "Best Screenplay"
+    },
+    {
+      "id": "venice-special-jury-prize-2021-il-buco-7",
+      "mediaType": "movie",
+      "title": "Il buco",
+      "releaseDate": "2021",
+      "externalIds": {
+        "letterboxd": "il-buco"
+      },
+      "awardYear": 2021,
+      "winner": "Michelangelo Frammartino",
+      "award": "Special Jury Prize"
+    },
+    {
+      "id": "venice-mastroianni-2021-the-hand-of-god-8",
+      "mediaType": "movie",
+      "title": "The Hand of God",
+      "releaseDate": "2021",
+      "externalIds": {
+        "letterboxd": "the-hand-of-god"
+      },
+      "awardYear": 2021,
+      "winner": "Filippo Scotti",
+      "award": "Marcello Mastroianni Award"
+    }
+  ]
+}

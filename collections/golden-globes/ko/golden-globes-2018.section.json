@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "section",
+  "author": "ChatGPT",
+  "title": "골든 글로브 2018",
+  "description": "2018 골든 글로브 주요 영화·텔레비전 작품 부문 수상 목록.",
+  "layout": "grid",
+  "service": "mydea",
+  "query": "list",
+  "params": [
+    {
+      "name": "url",
+      "value": "golden-globes-2018.list.json"
+    }
+  ]
+}

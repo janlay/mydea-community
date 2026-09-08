@@ -1,0 +1,132 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "title": "2017 홍콩 영화 금상장 수상작",
+  "description": "2017년 홍콩 영화 금상장 주요 부문 수상작과 수상자.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "hkfa-2017-best-film-4379800",
+      "mediaType": "movie",
+      "title": "트리비사",
+      "awardYear": 2017,
+      "winner": "《트리비사》",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4379800"
+      },
+      "award": "최우수 작품상",
+      "awardOrder": 1,
+      "originalTitle": "樹大招風"
+    },
+    {
+      "id": "hkfa-2017-best-director-4379800",
+      "mediaType": "movie",
+      "title": "트리비사",
+      "awardYear": 2017,
+      "winner": "許學文、歐文傑、黃偉傑",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4379800"
+      },
+      "award": "감독상",
+      "awardOrder": 2,
+      "originalTitle": "樹大招風"
+    },
+    {
+      "id": "hkfa-2017-best-screenplay-4379800",
+      "mediaType": "movie",
+      "title": "트리비사",
+      "awardYear": 2017,
+      "winner": "龍文康、伍奇偉、麥天樞",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4379800"
+      },
+      "award": "각본상",
+      "awardOrder": 3,
+      "originalTitle": "樹大招風"
+    },
+    {
+      "id": "hkfa-2017-best-actor-4379800",
+      "mediaType": "movie",
+      "title": "트리비사",
+      "awardYear": 2017,
+      "winner": "임가동",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4379800"
+      },
+      "award": "남우주연상",
+      "awardOrder": 4,
+      "originalTitle": "樹大招風"
+    },
+    {
+      "id": "hkfa-2017-best-actress-5805026",
+      "mediaType": "movie",
+      "title": "幸運是我",
+      "awardYear": 2017,
+      "winner": "혜영홍",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5805026"
+      },
+      "award": "여우주연상",
+      "awardOrder": 5
+    },
+    {
+      "id": "hkfa-2017-best-supporting-actor-6041030",
+      "mediaType": "movie",
+      "title": "一念無明",
+      "awardYear": 2017,
+      "winner": "증지위",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt6041030"
+      },
+      "award": "남우조연상",
+      "awardOrder": 6
+    },
+    {
+      "id": "hkfa-2017-best-supporting-actress-6041030",
+      "mediaType": "movie",
+      "title": "一念無明",
+      "awardYear": 2017,
+      "winner": "金燕玲",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt6041030"
+      },
+      "award": "여우조연상",
+      "awardOrder": 7
+    },
+    {
+      "id": "hkfa-2017-best-new-performer-5128712",
+      "mediaType": "movie",
+      "title": "點五步",
+      "awardYear": 2017,
+      "winner": "胡子彤",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5128712"
+      },
+      "award": "신인상",
+      "awardOrder": 8
+    }
+  ],
+  "updatedAt": "2026-09-12T02:57:20Z"
+}

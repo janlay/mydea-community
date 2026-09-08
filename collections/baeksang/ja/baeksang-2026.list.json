@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-12T02:58:14Z",
+  "title": "百想芸術大賞 — 2026",
+  "description": "2026年の百想芸術大賞における主要な映画・テレビ部門の受賞作品。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "baeksang-2026-film-grand-kings-warden",
+      "mediaType": "movie",
+      "title": "王と暮らす男",
+      "originalTitle": "왕과 사는 남자",
+      "award": "映画部門 大賞",
+      "awardYear": 2026,
+      "awardOrder": 1,
+      "winner": "ユ・ヘジン",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt38626703"
+      }
+    },
+    {
+      "id": "baeksang-2026-tv-grand-dream-kim",
+      "mediaType": "tv",
+      "title": "ソウルの持ち家で大企業に勤めるキム部長の物語",
+      "originalTitle": "서울 자가에 대기업 다니는 김 부장 이야기",
+      "award": "テレビ部門 大賞",
+      "awardYear": 2026,
+      "awardOrder": 2,
+      "winner": "リュ・スンリョン",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt38570528"
+      }
+    },
+    {
+      "id": "baeksang-2026-film-best-no-other-choice",
+      "mediaType": "movie",
+      "title": "しあわせな選択",
+      "originalTitle": "어쩔수가없다",
+      "award": "映画部門 作品賞",
+      "awardYear": 2026,
+      "awardOrder": 3,
+      "winner": "しあわせな選択",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt1527793"
+      }
+    },
+    {
+      "id": "baeksang-2026-film-director-world-love",
+      "mediaType": "movie",
+      "title": "世界の主人",
+      "originalTitle": "세계의 주인",
+      "award": "映画部門 監督賞",
+      "awardYear": 2026,
+      "awardOrder": 4,
+      "winner": "ユン・ガウン",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt37661885"
+      }
+    },
+    {
+      "id": "baeksang-2026-film-actor-ugly",
+      "mediaType": "movie",
+      "title": "顔",
+      "originalTitle": "얼굴",
+      "award": "映画部門 男性最優秀演技賞",
+      "awardYear": 2026,
+      "awardOrder": 5,
+      "winner": "パク・ジョンミン",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt33514451"
+      }
+    },
+    {
+      "id": "baeksang-2026-film-actress-once-us",
+      "mediaType": "movie",
+      "title": "もしも私たち",
+      "originalTitle": "만약에 우리",
+      "award": "映画部門 女性最優秀演技賞",
+      "awardYear": 2026,
+      "awardOrder": 6,
+      "winner": "ムン・ガヨン",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt37764737"
+      }
+    },
+    {
+      "id": "baeksang-2026-tv-best-you-everything",
+      "mediaType": "tv",
+      "title": "ウンジュンとサンヨン",
+      "originalTitle": "은중과 상연",
+      "award": "テレビ部門 作品賞",
+      "awardYear": 2026,
+      "awardOrder": 7,
+      "winner": "ウンジュンとサンヨン",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31014107"
+      }
+    },
+    {
+      "id": "baeksang-2026-tv-director-unwritten-seoul",
+      "mediaType": "tv",
+      "title": "未知のソウル",
+      "originalTitle": "미지의 서울",
+      "award": "テレビ部門 演出賞",
+      "awardYear": 2026,
+      "awardOrder": 8,
+      "winner": "パク・シヌ",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt36724865"
+      }
+    },
+    {
+      "id": "baeksang-2026-tv-actor-made-korea",
+      "mediaType": "tv",
+      "title": "メイド・イン・コリア",
+      "originalTitle": "메이드 인 코리아",
+      "award": "テレビ部門 男性最優秀演技賞",
+      "awardYear": 2026,
+      "awardOrder": 9,
+      "winner": "ヒョンビン",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt33298903"
+      }
+    },
+    {
+      "id": "baeksang-2026-tv-actress-unwritten-seoul",
+      "mediaType": "tv",
+      "title": "未知のソウル",
+      "originalTitle": "미지의 서울",
+      "award": "テレビ部門 女性最優秀演技賞",
+      "awardYear": 2026,
+      "awardOrder": 10,
+      "winner": "パク・ボヨン",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt36724865"
+      }
+    }
+  ]
+}

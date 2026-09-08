@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:30:00Z",
+  "title": "Berlinale 2025 Awards",
+  "description": "Major Competition International Jury award winners at the 2025 Berlin International Film Festival.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "berlinale-2025-golden-bear-dreams-sex-love",
+      "mediaType": "movie",
+      "title": "Dreams (Sex Love)",
+      "award": "Golden Bear for Best Film",
+      "awardYear": 2025,
+      "awardOrder": 1,
+      "winner": "Dag Johan Haugerud",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt30810787"
+      }
+    },
+    {
+      "id": "berlinale-2025-grand-jury-the-blue-trail",
+      "mediaType": "movie",
+      "title": "The Blue Trail",
+      "award": "Silver Bear Grand Jury Prize",
+      "awardYear": 2025,
+      "awardOrder": 2,
+      "winner": "Gabriel Mascaro",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt35340614"
+      }
+    },
+    {
+      "id": "berlinale-2025-jury-prize-the-message",
+      "mediaType": "movie",
+      "title": "The Message",
+      "award": "Silver Bear Jury Prize",
+      "awardYear": 2025,
+      "awardOrder": 3,
+      "winner": "Iván Fund",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt35499146"
+      }
+    },
+    {
+      "id": "berlinale-2025-best-director-living-the-land",
+      "mediaType": "movie",
+      "title": "Living the Land",
+      "award": "Silver Bear for Best Director",
+      "awardYear": 2025,
+      "awardOrder": 4,
+      "winner": "Huo Meng",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31079597"
+      }
+    },
+    {
+      "id": "berlinale-2025-leading-performance-if-i-had-legs-i-d-kick-you",
+      "mediaType": "movie",
+      "title": "If I Had Legs I'd Kick You",
+      "award": "Silver Bear for Best Leading Performance",
+      "awardYear": 2025,
+      "awardOrder": 5,
+      "winner": "Rose Byrne",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt18382850"
+      }
+    },
+    {
+      "id": "berlinale-2025-supporting-performance-blue-moon",
+      "mediaType": "movie",
+      "title": "Blue Moon",
+      "award": "Silver Bear for Best Supporting Performance",
+      "awardYear": 2025,
+      "awardOrder": 6,
+      "winner": "Andrew Scott",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt32536315"
+      }
+    },
+    {
+      "id": "berlinale-2025-best-screenplay-kontinental-25",
+      "mediaType": "movie",
+      "title": "Kontinental '25",
+      "award": "Silver Bear for Best Screenplay",
+      "awardYear": 2025,
+      "awardOrder": 7,
+      "winner": "Radu Jude",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt35492581"
+      }
+    },
+    {
+      "id": "berlinale-2025-artistic-contribution-the-ice-tower",
+      "mediaType": "movie",
+      "title": "The Ice Tower",
+      "award": "Silver Bear for Outstanding Artistic Contribution",
+      "awardYear": 2025,
+      "awardOrder": 8,
+      "winner": "Creative ensemble",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt28171985"
+      }
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:30:00Z",
+  "title": "Berlinale 2018 Awards",
+  "description": "Major Competition International Jury award winners at the 2018 Berlin International Film Festival.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "berlinale-2018-golden-bear-touch-me-not",
+      "mediaType": "movie",
+      "title": "Touch Me Not",
+      "award": "Golden Bear for Best Film",
+      "awardYear": 2018,
+      "awardOrder": 1,
+      "winner": "Adina Pintilie",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt4949112"
+      },
+      "backdropPath": "https://image.tmdb.org/t/p/w342/7JsBBGvikqWsvXhRrzRLzj3xFjX.jpg"
+    },
+    {
+      "id": "berlinale-2018-grand-jury-mug",
+      "mediaType": "movie",
+      "title": "Mug",
+      "award": "Silver Bear Grand Jury Prize",
+      "awardYear": 2018,
+      "awardOrder": 2,
+      "winner": "Małgorzata Szumowska",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt5311542"
+      }
+    },
+    {
+      "id": "berlinale-2018-alfred-bauer-the-heiresses",
+      "mediaType": "movie",
+      "title": "The Heiresses",
+      "award": "Alfred Bauer Prize",
+      "awardYear": 2018,
+      "awardOrder": 3,
+      "winner": "Marcelo Martinessi",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7875464"
+      }
+    },
+    {
+      "id": "berlinale-2018-best-director-isle-of-dogs",
+      "mediaType": "movie",
+      "title": "Isle of Dogs",
+      "award": "Silver Bear for Best Director",
+      "awardYear": 2018,
+      "awardOrder": 4,
+      "winner": "Wes Anderson",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt5104604"
+      },
+      "backdropPath": "https://image.tmdb.org/t/p/w342/6utVGu3wu8AV8x7jGo17M5RnrJN.jpg"
+    },
+    {
+      "id": "berlinale-2018-best-actress-the-heiresses",
+      "mediaType": "movie",
+      "title": "The Heiresses",
+      "award": "Silver Bear for Best Actress",
+      "awardYear": 2018,
+      "awardOrder": 5,
+      "winner": "Ana Brun",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7875464"
+      }
+    },
+    {
+      "id": "berlinale-2018-best-actor-the-prayer",
+      "mediaType": "movie",
+      "title": "The Prayer",
+      "award": "Silver Bear for Best Actor",
+      "awardYear": 2018,
+      "awardOrder": 6,
+      "winner": "Anthony Bajon",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt6055280"
+      }
+    },
+    {
+      "id": "berlinale-2018-best-screenplay-museo",
+      "mediaType": "movie",
+      "title": "Museo",
+      "award": "Silver Bear for Best Screenplay",
+      "awardYear": 2018,
+      "awardOrder": 7,
+      "winner": "Manuel Alcalá & Alonso Ruizpalacios",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt4958448"
+      }
+    },
+    {
+      "id": "berlinale-2018-artistic-contribution-dovlatov",
+      "mediaType": "movie",
+      "title": "Dovlatov",
+      "award": "Silver Bear for Outstanding Artistic Contribution",
+      "awardYear": 2018,
+      "awardOrder": 8,
+      "winner": "Elena Okopnaya",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7763020"
+      }
+    }
+  ]
+}

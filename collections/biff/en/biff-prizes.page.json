@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "title": "Busan International Film Festival Awards",
+  "description": "Core Busan International Film Festival competition awards and their historical winners.",
+  "tags": [
+    "award",
+    "prize"
+  ],
+  "icon": "ticket",
+  "sections": [
+    {
+      "title": "Busan International Film Festival — Busan Award Best Film",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "carousel",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "biff-busan-best-film.list.json"
+        }
+      ]
+    },
+    {
+      "title": "Busan International Film Festival — New Currents Award",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "biff-new-currents.list.json"
+        }
+      ]
+    },
+    {
+      "title": "Busan International Film Festival — KIM Jiseok Award",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "biff-kim-jiseok.list.json"
+        }
+      ]
+    },
+    {
+      "title": "Busan International Film Festival — BIFF Mecenat Award",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "biff-mecenat.list.json"
+        }
+      ]
+    },
+    {
+      "title": "Busan International Film Festival — Sonje Award",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "biff-sonje.list.json"
+        }
+      ]
+    }
+  ]
+}

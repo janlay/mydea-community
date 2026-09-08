@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T05:03:35Z",
+  "title": "プライムタイム・エミー賞 — 主演男優賞 コメディ・シリーズ部門",
+  "description": "プライムタイム・エミー賞「主演男優賞 コメディ・シリーズ部門」の受賞記録。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "emmys-2017-lead-actor-comedy-atlanta",
+      "mediaType": "tv",
+      "title": "アトランタ",
+      "originalTitle": "Atlanta",
+      "awardYear": 2017,
+      "winner": "Donald Glover",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4288182"
+      }
+    },
+    {
+      "id": "emmys-2018-lead-actor-comedy-barry",
+      "mediaType": "tv",
+      "title": "バリー",
+      "originalTitle": "Barry",
+      "awardYear": 2018,
+      "winner": "Bill Hader",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt5348176"
+      }
+    },
+    {
+      "id": "emmys-2019-lead-actor-comedy-barry",
+      "mediaType": "tv",
+      "title": "バリー",
+      "originalTitle": "Barry",
+      "awardYear": 2019,
+      "winner": "Bill Hader",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt5348176"
+      }
+    },
+    {
+      "id": "emmys-2020-lead-actor-comedy-schitt-s-creek",
+      "mediaType": "tv",
+      "title": "シッツ・クリーク",
+      "originalTitle": "Schitt's Creek",
+      "awardYear": 2020,
+      "winner": "Eugene Levy",
+      "releaseDate": "2015",
+      "externalIds": {
+        "imdb": "tt3526078"
+      }
+    },
+    {
+      "id": "emmys-2021-lead-actor-comedy-ted-lasso",
+      "mediaType": "tv",
+      "title": "テッド・ラッソ：破天荒コーチがゆく",
+      "originalTitle": "Ted Lasso",
+      "awardYear": 2021,
+      "winner": "Jason Sudeikis",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10986410"
+      }
+    },
+    {
+      "id": "emmys-2022-lead-actor-comedy-ted-lasso",
+      "mediaType": "tv",
+      "title": "テッド・ラッソ：破天荒コーチがゆく",
+      "originalTitle": "Ted Lasso",
+      "awardYear": 2022,
+      "winner": "Jason Sudeikis",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10986410"
+      }
+    },
+    {
+      "id": "emmys-2023-lead-actor-comedy-the-bear",
+      "mediaType": "tv",
+      "title": "一流シェフのファミリーレストラン",
+      "originalTitle": "The Bear",
+      "awardYear": 2023,
+      "winner": "Jeremy Allen White",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt14452776"
+      }
+    },
+    {
+      "id": "emmys-2024-lead-actor-comedy-the-bear",
+      "mediaType": "tv",
+      "title": "一流シェフのファミリーレストラン",
+      "originalTitle": "The Bear",
+      "awardYear": 2024,
+      "winner": "Jeremy Allen White",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt14452776"
+      }
+    },
+    {
+      "id": "emmys-2025-lead-actor-comedy-the-studio",
+      "mediaType": "tv",
+      "title": "ザ・スタジオ",
+      "originalTitle": "The Studio",
+      "awardYear": 2025,
+      "winner": "Seth Rogen",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt23649128"
+      }
+    },
+    {
+      "id": "emmys-2026-lead-actor-comedy-widow-s-bay",
+      "mediaType": "tv",
+      "title": "Widow's Bay",
+      "awardYear": 2026,
+      "winner": "Matthew Rhys",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt33332385"
+      }
+    }
+  ]
+}

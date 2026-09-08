@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:30:00Z",
+  "title": "柏林影展 2021 年獲獎名單",
+  "description": "柏林影展 2021 年主競賽國際評審團主要獎項獲獎影片。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "berlinale-2021-golden-bear-bad-luck-banging-or-loony-porn",
+      "mediaType": "movie",
+      "title": "倒黴性愛，發狂黃片",
+      "englishTitle": "Bad Luck Banging or Loony Porn",
+      "award": "金熊獎",
+      "awardYear": 2021,
+      "awardOrder": 1,
+      "winner": "Radu Jude",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14033502"
+      },
+      "backdropPath": "https://image.tmdb.org/t/p/w342/cq7ZThEzrW7TstuTh8gzRK0FpfM.jpg"
+    },
+    {
+      "id": "berlinale-2021-grand-jury-wheel-of-fortune-and-fantasy",
+      "mediaType": "movie",
+      "title": "偶然與想象",
+      "englishTitle": "Wheel of Fortune and Fantasy",
+      "award": "評審團大獎",
+      "awardYear": 2021,
+      "awardOrder": 2,
+      "winner": "Ryusuke Hamaguchi",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14034966"
+      }
+    },
+    {
+      "id": "berlinale-2021-jury-prize-mr-bachmann-and-his-class",
+      "mediaType": "movie",
+      "title": "巴赫曼先生和他的學生",
+      "englishTitle": "Mr Bachmann and His Class",
+      "award": "評審團獎",
+      "awardYear": 2021,
+      "awardOrder": 3,
+      "winner": "Maria Speth",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14035048"
+      }
+    },
+    {
+      "id": "berlinale-2021-best-director-natural-light",
+      "mediaType": "movie",
+      "title": "自然光線",
+      "englishTitle": "Natural Light",
+      "award": "最佳導演銀熊獎",
+      "awardYear": 2021,
+      "awardOrder": 4,
+      "winner": "Dénes Nagy",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt11681056"
+      }
+    },
+    {
+      "id": "berlinale-2021-leading-performance-i-m-your-man",
+      "mediaType": "movie",
+      "title": "我是你的人",
+      "englishTitle": "I'm Your Man",
+      "award": "最佳主角銀熊獎",
+      "awardYear": 2021,
+      "awardOrder": 5,
+      "winner": "Maren Eggert",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt13087796"
+      }
+    },
+    {
+      "id": "berlinale-2021-supporting-performance-forest-i-see-you-everywhere",
+      "mediaType": "movie",
+      "title": "森林隨處可見",
+      "englishTitle": "Forest – I See You Everywhere",
+      "award": "最佳配角銀熊獎",
+      "awardYear": 2021,
+      "awardOrder": 6,
+      "winner": "Lilla Kizlinger",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14033416"
+      }
+    },
+    {
+      "id": "berlinale-2021-best-screenplay-introduction",
+      "mediaType": "movie",
+      "title": "引見",
+      "englishTitle": "Introduction",
+      "award": "最佳編劇銀熊獎",
+      "awardYear": 2021,
+      "awardOrder": 7,
+      "winner": "Hong Sangsoo",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14035108"
+      }
+    },
+    {
+      "id": "berlinale-2021-artistic-contribution-a-cop-movie",
+      "mediaType": "movie",
+      "title": "一部警察電影",
+      "englishTitle": "A Cop Movie",
+      "award": "傑出藝術貢獻銀熊獎",
+      "awardYear": 2021,
+      "awardOrder": 8,
+      "winner": "Yibrán Asuad",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14035242"
+      }
+    }
+  ]
+}

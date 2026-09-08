@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:30:00Z",
+  "title": "威尼斯电影节 2020 年获奖名单",
+  "description": "第88届威尼斯电影节主竞赛主要官方奖项获奖影片。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "venice-golden-lion-2020-nomadland-1",
+      "mediaType": "movie",
+      "title": "无依之地",
+      "releaseDate": "2020",
+      "externalIds": {
+        "letterboxd": "nomadland"
+      },
+      "awardYear": 2020,
+      "winner": "Chloé Zhao",
+      "englishTitle": "Nomadland",
+      "award": "金狮奖"
+    },
+    {
+      "id": "venice-grand-jury-prize-2020-new-order-2",
+      "mediaType": "movie",
+      "title": "新秩序",
+      "releaseDate": "2020",
+      "externalIds": {
+        "letterboxd": "new-order"
+      },
+      "awardYear": 2020,
+      "winner": "Michel Franco",
+      "englishTitle": "New Order",
+      "award": "银狮奖·评审团大奖"
+    },
+    {
+      "id": "venice-best-director-2020-wife-of-a-spy-3",
+      "mediaType": "movie",
+      "title": "间谍之妻",
+      "releaseDate": "2020",
+      "externalIds": {
+        "letterboxd": "wife-of-a-spy"
+      },
+      "awardYear": 2020,
+      "winner": "Kiyoshi Kurosawa",
+      "englishTitle": "Wife of a Spy",
+      "award": "银狮奖·最佳导演"
+    },
+    {
+      "id": "venice-best-actress-2020-pieces-of-a-woman-4",
+      "mediaType": "movie",
+      "title": "女人的碎片",
+      "releaseDate": "2020",
+      "externalIds": {
+        "letterboxd": "pieces-of-a-woman"
+      },
+      "awardYear": 2020,
+      "winner": "Vanessa Kirby",
+      "englishTitle": "Pieces of a Woman",
+      "award": "沃尔皮杯·最佳女演员"
+    },
+    {
+      "id": "venice-best-actor-2020-padrenostro-5",
+      "mediaType": "movie",
+      "title": "我们的父亲",
+      "releaseDate": "2020",
+      "externalIds": {
+        "letterboxd": "padrenostro"
+      },
+      "awardYear": 2020,
+      "winner": "Pierfrancesco Favino",
+      "englishTitle": "Padrenostro",
+      "award": "沃尔皮杯·最佳男演员"
+    },
+    {
+      "id": "venice-best-screenplay-2020-the-disciple-6",
+      "mediaType": "movie",
+      "title": "The Disciple",
+      "releaseDate": "2020",
+      "externalIds": {
+        "letterboxd": "the-disciple"
+      },
+      "awardYear": 2020,
+      "winner": "Chaitanya Tamhane",
+      "award": "最佳编剧奖"
+    },
+    {
+      "id": "venice-special-jury-prize-2020-dear-comrades-7",
+      "mediaType": "movie",
+      "title": "亲爱的同志",
+      "releaseDate": "2020",
+      "externalIds": {
+        "letterboxd": "dear-comrades"
+      },
+      "awardYear": 2020,
+      "winner": "Andrei Konchalovsky",
+      "englishTitle": "Dear Comrades!",
+      "award": "评审团特别奖"
+    },
+    {
+      "id": "venice-mastroianni-2020-sun-children-8",
+      "mediaType": "movie",
+      "title": "太阳之子",
+      "releaseDate": "2020",
+      "externalIds": {
+        "letterboxd": "sun-children"
+      },
+      "awardYear": 2020,
+      "winner": "Rouhollah Zamani",
+      "englishTitle": "Sun Children",
+      "award": "马塞洛·马斯楚安尼奖"
+    }
+  ]
+}

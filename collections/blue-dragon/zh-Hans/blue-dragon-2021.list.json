@@ -1,0 +1,174 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-12T02:54:20Z",
+  "title": "青龙电影奖 — 2021",
+  "description": "2021年韩国青龙电影奖10个主要电影奖项获奖作品。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "blue-dragon-2021-best-film-mogadishu",
+      "mediaType": "movie",
+      "title": "摩加迪沙",
+      "originalTitle": "모가디슈",
+      "englishTitle": "Escape from Mogadishu",
+      "award": "最佳影片",
+      "awardYear": 2021,
+      "awardOrder": 1,
+      "winner": "Ryoo Seung-wan",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14810692"
+      }
+    },
+    {
+      "id": "blue-dragon-2021-best-director-mogadishu",
+      "mediaType": "movie",
+      "title": "摩加迪沙",
+      "originalTitle": "모가디슈",
+      "englishTitle": "Escape from Mogadishu",
+      "award": "最佳导演",
+      "awardYear": 2021,
+      "awardOrder": 2,
+      "winner": "Ryoo Seung-wan",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14810692"
+      }
+    },
+    {
+      "id": "blue-dragon-2021-best-actor-book-fish",
+      "mediaType": "movie",
+      "title": "兹山鱼谱",
+      "originalTitle": "자산어보",
+      "englishTitle": "The Book of Fish",
+      "award": "最佳男主角",
+      "awardYear": 2021,
+      "awardOrder": 3,
+      "winner": "Sul Kyung-gu",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14371900"
+      }
+    },
+    {
+      "id": "blue-dragon-2021-best-actress-three-sisters",
+      "mediaType": "movie",
+      "title": "三姐妹",
+      "originalTitle": "세 자매",
+      "englishTitle": "Three Sisters",
+      "award": "最佳女主角",
+      "awardYear": 2021,
+      "awardOrder": 4,
+      "winner": "Moon So-ri",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt12385956"
+      }
+    },
+    {
+      "id": "blue-dragon-2021-best-supporting-actor-mogadishu",
+      "mediaType": "movie",
+      "title": "摩加迪沙",
+      "originalTitle": "모가디슈",
+      "englishTitle": "Escape from Mogadishu",
+      "award": "最佳男配角",
+      "awardYear": 2021,
+      "awardOrder": 5,
+      "winner": "Huh Joon-ho",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14810692"
+      }
+    },
+    {
+      "id": "blue-dragon-2021-best-supporting-actress-three-sisters",
+      "mediaType": "movie",
+      "title": "三姐妹",
+      "originalTitle": "세 자매",
+      "englishTitle": "Three Sisters",
+      "award": "最佳女配角",
+      "awardYear": 2021,
+      "awardOrder": 6,
+      "winner": "Kim Sun-young",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt12385956"
+      }
+    },
+    {
+      "id": "blue-dragon-2021-best-new-director-day-i-died",
+      "mediaType": "movie",
+      "title": "我死之日",
+      "originalTitle": "내가 죽던 날",
+      "englishTitle": "The Day I Died: Unclosed Case",
+      "award": "最佳新人导演",
+      "awardYear": 2021,
+      "awardOrder": 7,
+      "winner": "Park Ji-wan",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt13423318"
+      }
+    },
+    {
+      "id": "blue-dragon-2021-best-new-actor-not-out",
+      "mediaType": "movie",
+      "title": "未出局",
+      "originalTitle": "낫아웃",
+      "englishTitle": "Not Out",
+      "award": "最佳新人男演员",
+      "awardYear": 2021,
+      "awardOrder": 8,
+      "winner": "Jeong Jae-kwang",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14627004"
+      }
+    },
+    {
+      "id": "blue-dragon-2021-best-new-actress-aloners",
+      "mediaType": "movie",
+      "title": "独自生活的人们",
+      "originalTitle": "혼자 사는 사람들",
+      "englishTitle": "Aloners",
+      "award": "最佳新人女演员",
+      "awardYear": 2021,
+      "awardOrder": 9,
+      "winner": "Gong Seung-yeon",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14598598"
+      }
+    },
+    {
+      "id": "blue-dragon-2021-best-screenplay-book-fish",
+      "mediaType": "movie",
+      "title": "兹山鱼谱",
+      "originalTitle": "자산어보",
+      "englishTitle": "The Book of Fish",
+      "award": "最佳剧本",
+      "awardYear": 2021,
+      "awardOrder": 10,
+      "winner": "Kim Se-gyeom",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14371900"
+      }
+    }
+  ]
+}

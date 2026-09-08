@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "釜山国际电影节 2018 年获奖名单",
+  "description": "釜山国际电影节 2018 年核心竞赛奖获奖影片。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "biff-2018-new-currents-savage",
+      "mediaType": "movie",
+      "title": "SAVAGE",
+      "award": "新浪潮奖",
+      "awardYear": 2018,
+      "awardOrder": 1,
+      "winner": "CUI Si Wei",
+      "releaseDate": "2018",
+      "externalIds": {
+        "letterboxd": "savage"
+      }
+    },
+    {
+      "id": "biff-2018-new-currents-clean-up",
+      "mediaType": "movie",
+      "title": "Clean Up",
+      "award": "新浪潮奖",
+      "awardYear": 2018,
+      "awardOrder": 2,
+      "winner": "KWON Man-ki",
+      "releaseDate": "2018",
+      "externalIds": {
+        "letterboxd": "clean-up"
+      }
+    },
+    {
+      "id": "biff-2018-kim-jiseok-rona-azims-mother",
+      "mediaType": "movie",
+      "title": "Rona, Azim's Mother",
+      "award": "金智奭奖",
+      "awardYear": 2018,
+      "awardOrder": 3,
+      "winner": "Jamshid MAHMOUDI",
+      "releaseDate": "2018",
+      "externalIds": {
+        "letterboxd": "rona-azims-mother"
+      }
+    },
+    {
+      "id": "biff-2018-kim-jiseok-the-rib",
+      "mediaType": "movie",
+      "title": "The Rib",
+      "award": "金智奭奖",
+      "awardYear": 2018,
+      "awardOrder": 4,
+      "winner": "ZHANG Wei",
+      "releaseDate": "2018",
+      "externalIds": {
+        "letterboxd": "the-rib"
+      }
+    },
+    {
+      "id": "biff-2018-mecenat-opening-closing-forgetting",
+      "mediaType": "movie",
+      "title": "Opening Closing Forgetting",
+      "award": "BIFF Mecenat奖",
+      "awardYear": 2018,
+      "awardOrder": 5,
+      "winner": "James T. HONG",
+      "releaseDate": "2018",
+      "externalIds": {
+        "letterboxd": "opening-closing-forgetting"
+      }
+    },
+    {
+      "id": "biff-2018-mecenat-army",
+      "mediaType": "movie",
+      "title": "ARMY",
+      "award": "BIFF Mecenat奖",
+      "awardYear": 2018,
+      "awardOrder": 6,
+      "winner": "Kelvin Kyungkun PARK",
+      "releaseDate": "2018",
+      "externalIds": {
+        "letterboxd": "army"
+      }
+    },
+    {
+      "id": "biff-2018-sonje-cat-day-afternoon",
+      "mediaType": "movie",
+      "title": "Cat Day Afternoon",
+      "award": "Sonje奖",
+      "awardYear": 2018,
+      "awardOrder": 7,
+      "winner": "KWON Sungmo",
+      "releaseDate": "2018",
+      "externalIds": {
+        "letterboxd": "cat-day-afternoon"
+      }
+    },
+    {
+      "id": "biff-2018-sonje-nooreh",
+      "mediaType": "movie",
+      "title": "NOOREH",
+      "award": "Sonje奖",
+      "awardYear": 2018,
+      "awardOrder": 8,
+      "winner": "Ashish PANDEY",
+      "releaseDate": "2018",
+      "externalIds": {
+        "letterboxd": "nooreh"
+      }
+    }
+  ]
+}
