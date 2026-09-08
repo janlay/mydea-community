@@ -1,0 +1,504 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:07:00Z",
+  "title": "香港電影金像獎 — 最佳電影",
+  "description": "香港電影金像獎歷屆最佳電影得獎記錄。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "hkfa-best-film-1982-hkfa-film",
+      "mediaType": "movie",
+      "title": "父子情",
+      "releaseDate": "1981",
+      "externalIds": {
+        "imdb": "tt0082428"
+      },
+      "awardYear": 1982,
+      "winner": "《父子情》"
+    },
+    {
+      "id": "hkfa-best-film-1983-hkfa-film",
+      "mediaType": "movie",
+      "title": "投奔怒海",
+      "releaseDate": "1982",
+      "externalIds": {
+        "imdb": "tt0084807"
+      },
+      "awardYear": 1983,
+      "winner": "《投奔怒海》"
+    },
+    {
+      "id": "hkfa-best-film-1984-hkfa-film",
+      "mediaType": "movie",
+      "title": "半邊人",
+      "releaseDate": "1983",
+      "externalIds": {
+        "imdb": "tt0085144"
+      },
+      "awardYear": 1984,
+      "winner": "《半邊人》"
+    },
+    {
+      "id": "hkfa-best-film-1985-hkfa-film",
+      "mediaType": "movie",
+      "title": "似水流年",
+      "releaseDate": "1984",
+      "externalIds": {
+        "imdb": "tt0088126"
+      },
+      "awardYear": 1985,
+      "winner": "《似水流年》"
+    },
+    {
+      "id": "hkfa-best-film-1986-hkfa-film",
+      "mediaType": "movie",
+      "title": "警察故事",
+      "releaseDate": "1985",
+      "externalIds": {
+        "imdb": "tt0089374"
+      },
+      "awardYear": 1986,
+      "winner": "《警察故事》"
+    },
+    {
+      "id": "hkfa-best-film-1987-hkfa-film",
+      "mediaType": "movie",
+      "title": "英雄本色",
+      "releaseDate": "1986",
+      "externalIds": {
+        "imdb": "tt0092263"
+      },
+      "awardYear": 1987,
+      "winner": "《英雄本色》"
+    },
+    {
+      "id": "hkfa-best-film-1988-hkfa-film",
+      "mediaType": "movie",
+      "title": "秋天的童話",
+      "releaseDate": "1987",
+      "externalIds": {
+        "imdb": "tt0093426"
+      },
+      "awardYear": 1988,
+      "winner": "《秋天的童話》"
+    },
+    {
+      "id": "hkfa-best-film-1989-hkfa-film",
+      "mediaType": "movie",
+      "title": "胭脂扣",
+      "releaseDate": "1988",
+      "externalIds": {
+        "imdb": "tt0093258"
+      },
+      "awardYear": 1989,
+      "winner": "《胭脂扣》"
+    },
+    {
+      "id": "hkfa-best-film-1990-hkfa-film",
+      "mediaType": "movie",
+      "title": "飛越黃昏",
+      "releaseDate": "1989",
+      "externalIds": {
+        "imdb": "tt0097344"
+      },
+      "awardYear": 1990,
+      "winner": "《飛越黃昏》"
+    },
+    {
+      "id": "hkfa-best-film-1991-hkfa-film",
+      "mediaType": "movie",
+      "title": "阿飛正傳",
+      "releaseDate": "1990",
+      "externalIds": {
+        "imdb": "tt0101258"
+      },
+      "awardYear": 1991,
+      "winner": "《阿飛正傳》"
+    },
+    {
+      "id": "hkfa-best-film-1992-hkfa-film",
+      "mediaType": "movie",
+      "title": "跛豪",
+      "releaseDate": "1991",
+      "externalIds": {
+        "imdb": "tt0100973"
+      },
+      "awardYear": 1992,
+      "winner": "《跛豪》"
+    },
+    {
+      "id": "hkfa-best-film-1993-hkfa-film",
+      "mediaType": "movie",
+      "title": "籠民",
+      "releaseDate": "1992",
+      "externalIds": {
+        "imdb": "tt0108656"
+      },
+      "awardYear": 1993,
+      "winner": "《籠民》"
+    },
+    {
+      "id": "hkfa-best-film-1994-hkfa-film",
+      "mediaType": "movie",
+      "title": "新不了情",
+      "releaseDate": "1993",
+      "externalIds": {
+        "imdb": "tt0111770"
+      },
+      "awardYear": 1994,
+      "winner": "《新不了情》"
+    },
+    {
+      "id": "hkfa-best-film-1995-hkfa-film",
+      "mediaType": "movie",
+      "title": "重慶森林",
+      "releaseDate": "1994",
+      "externalIds": {
+        "imdb": "tt0109424"
+      },
+      "awardYear": 1995,
+      "winner": "《重慶森林》"
+    },
+    {
+      "id": "hkfa-best-film-1996-hkfa-film",
+      "mediaType": "movie",
+      "title": "女人四十",
+      "releaseDate": "1995",
+      "externalIds": {
+        "imdb": "tt0111739"
+      },
+      "awardYear": 1996,
+      "winner": "《女人四十》"
+    },
+    {
+      "id": "hkfa-best-film-1997-hkfa-film",
+      "mediaType": "movie",
+      "title": "甜蜜蜜",
+      "releaseDate": "1996",
+      "externalIds": {
+        "imdb": "tt0117905"
+      },
+      "awardYear": 1997,
+      "winner": "《甜蜜蜜》"
+    },
+    {
+      "id": "hkfa-best-film-1998-hkfa-film",
+      "mediaType": "movie",
+      "title": "香港製造",
+      "releaseDate": "1997",
+      "externalIds": {
+        "imdb": "tt0118845"
+      },
+      "awardYear": 1998,
+      "winner": "《香港製造》"
+    },
+    {
+      "id": "hkfa-best-film-1999-hkfa-film",
+      "mediaType": "movie",
+      "title": "野獸刑警",
+      "releaseDate": "1998",
+      "externalIds": {
+        "imdb": "tt0157366"
+      },
+      "awardYear": 1999,
+      "winner": "《野獸刑警》"
+    },
+    {
+      "id": "hkfa-best-film-2000-hkfa-film",
+      "mediaType": "movie",
+      "title": "千言萬語",
+      "releaseDate": "1999",
+      "externalIds": {
+        "imdb": "tt0189954"
+      },
+      "awardYear": 2000,
+      "winner": "《千言萬語》"
+    },
+    {
+      "id": "hkfa-best-film-2001-hkfa-film",
+      "mediaType": "movie",
+      "title": "臥虎藏龍",
+      "releaseDate": "2000",
+      "externalIds": {
+        "imdb": "tt0190332"
+      },
+      "awardYear": 2001,
+      "winner": "《臥虎藏龍》"
+    },
+    {
+      "id": "hkfa-best-film-2002-hkfa-film",
+      "mediaType": "movie",
+      "title": "少林足球",
+      "releaseDate": "2001",
+      "externalIds": {
+        "imdb": "tt0286112"
+      },
+      "awardYear": 2002,
+      "winner": "《少林足球》"
+    },
+    {
+      "id": "hkfa-best-film-2003-hkfa-film",
+      "mediaType": "movie",
+      "title": "無間道",
+      "releaseDate": "2002",
+      "externalIds": {
+        "imdb": "tt0338564"
+      },
+      "awardYear": 2003,
+      "winner": "《無間道》"
+    },
+    {
+      "id": "hkfa-best-film-2004-hkfa-film",
+      "mediaType": "movie",
+      "title": "大隻佬",
+      "releaseDate": "2003",
+      "externalIds": {
+        "imdb": "tt0374184"
+      },
+      "awardYear": 2004,
+      "winner": "《大隻佬》"
+    },
+    {
+      "id": "hkfa-best-film-2005-hkfa-film",
+      "mediaType": "movie",
+      "title": "功夫",
+      "releaseDate": "2004",
+      "externalIds": {
+        "imdb": "tt0373074"
+      },
+      "awardYear": 2005,
+      "winner": "《功夫》"
+    },
+    {
+      "id": "hkfa-best-film-2006-hkfa-film",
+      "mediaType": "movie",
+      "title": "黑社會",
+      "releaseDate": "2005",
+      "externalIds": {
+        "imdb": "tt0434008"
+      },
+      "awardYear": 2006,
+      "winner": "《黑社會》"
+    },
+    {
+      "id": "hkfa-best-film-2007-hkfa-film",
+      "mediaType": "movie",
+      "title": "父子",
+      "releaseDate": "2006",
+      "externalIds": {
+        "imdb": "tt0768114"
+      },
+      "awardYear": 2007,
+      "winner": "《父子》"
+    },
+    {
+      "id": "hkfa-best-film-2008-hkfa-film",
+      "mediaType": "movie",
+      "title": "投名狀",
+      "releaseDate": "2007",
+      "externalIds": {
+        "imdb": "tt0913968"
+      },
+      "awardYear": 2008,
+      "winner": "《投名狀》"
+    },
+    {
+      "id": "hkfa-best-film-2009-hkfa-film",
+      "mediaType": "movie",
+      "title": "葉問",
+      "releaseDate": "2008",
+      "externalIds": {
+        "imdb": "tt1220719"
+      },
+      "awardYear": 2009,
+      "winner": "《葉問》"
+    },
+    {
+      "id": "hkfa-best-film-2010-hkfa-film",
+      "mediaType": "movie",
+      "title": "十月圍城",
+      "releaseDate": "2009",
+      "externalIds": {
+        "imdb": "tt1403130"
+      },
+      "awardYear": 2010,
+      "winner": "《十月圍城》"
+    },
+    {
+      "id": "hkfa-best-film-2011-hkfa-film",
+      "mediaType": "movie",
+      "title": "打擂台",
+      "releaseDate": "2010",
+      "externalIds": {
+        "imdb": "tt1611823"
+      },
+      "awardYear": 2011,
+      "winner": "《打擂台》"
+    },
+    {
+      "id": "hkfa-best-film-2012-hkfa-film",
+      "mediaType": "movie",
+      "title": "桃姐",
+      "releaseDate": "2011",
+      "externalIds": {
+        "imdb": "tt2008006"
+      },
+      "awardYear": 2012,
+      "winner": "《桃姐》"
+    },
+    {
+      "id": "hkfa-best-film-2013-hkfa-film",
+      "mediaType": "movie",
+      "title": "寒戰",
+      "releaseDate": "2012",
+      "externalIds": {
+        "imdb": "tt2186715"
+      },
+      "awardYear": 2013,
+      "winner": "《寒戰》"
+    },
+    {
+      "id": "hkfa-best-film-2014-hkfa-film",
+      "mediaType": "movie",
+      "title": "一代宗師",
+      "releaseDate": "2013",
+      "externalIds": {
+        "imdb": "tt1462900"
+      },
+      "awardYear": 2014,
+      "winner": "《一代宗師》"
+    },
+    {
+      "id": "hkfa-best-film-2015-hkfa-film",
+      "mediaType": "movie",
+      "title": "黃金時代",
+      "releaseDate": "2014",
+      "externalIds": {
+        "imdb": "tt2771800"
+      },
+      "awardYear": 2015,
+      "winner": "《黃金時代》"
+    },
+    {
+      "id": "hkfa-best-film-2016-hkfa-film",
+      "mediaType": "movie",
+      "title": "十年",
+      "releaseDate": "2015",
+      "externalIds": {
+        "imdb": "tt5269560"
+      },
+      "awardYear": 2016,
+      "winner": "《十年》"
+    },
+    {
+      "id": "hkfa-2017-best-film-4379800",
+      "mediaType": "movie",
+      "title": "樹大招風",
+      "awardYear": 2017,
+      "winner": "《樹大招風》",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4379800"
+      }
+    },
+    {
+      "id": "hkfa-2018-best-film-7075594",
+      "mediaType": "movie",
+      "title": "明月幾時有",
+      "awardYear": 2018,
+      "winner": "《明月幾時有》",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7075594"
+      }
+    },
+    {
+      "id": "hkfa-2019-best-film-7183578",
+      "mediaType": "movie",
+      "title": "無雙",
+      "awardYear": 2019,
+      "winner": "《無雙》",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7183578"
+      }
+    },
+    {
+      "id": "hkfa-2020-best-film-9586294",
+      "mediaType": "movie",
+      "title": "少年的你",
+      "awardYear": 2020,
+      "winner": "《少年的你》",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt9586294"
+      }
+    },
+    {
+      "id": "hkfa-2022-best-film-8165192",
+      "mediaType": "movie",
+      "title": "怒火",
+      "awardYear": 2022,
+      "winner": "《怒火》",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt8165192"
+      }
+    },
+    {
+      "id": "hkfa-2023-best-film-21867610",
+      "mediaType": "movie",
+      "title": "給十九歲的我",
+      "awardYear": 2023,
+      "winner": "《給十九歲的我》",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt21867610"
+      }
+    },
+    {
+      "id": "hkfa-2024-best-film-25377462",
+      "mediaType": "movie",
+      "title": "毒舌大狀",
+      "awardYear": 2024,
+      "winner": "《毒舌大狀》",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt25377462"
+      }
+    },
+    {
+      "id": "hkfa-2025-best-film-20316748",
+      "mediaType": "movie",
+      "title": "九龍城寨之圍城",
+      "awardYear": 2025,
+      "winner": "《九龍城寨之圍城》",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt20316748"
+      }
+    },
+    {
+      "id": "hkfa-2026-best-film-14241008",
+      "mediaType": "movie",
+      "title": "再見UFO",
+      "awardYear": 2026,
+      "winner": "《再見UFO》",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt14241008"
+      }
+    }
+  ]
+}

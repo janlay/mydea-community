@@ -1,0 +1,173 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:30:00Z",
+  "title": "威尼斯 — 评审团特别奖",
+  "description": "威尼斯国际电影节历届评审团特别奖获奖影片/表演记录；按该奖项现行或历史等价类别整理。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "venice-special-jury-prize-2013-the-police-officer-s-wife-1",
+      "mediaType": "movie",
+      "title": "The Police Officer's Wife",
+      "releaseDate": "2013",
+      "externalIds": {
+        "letterboxd": "the-police-officer-s-wife"
+      },
+      "awardYear": 2013,
+      "winner": "Philip Gröning"
+    },
+    {
+      "id": "venice-special-jury-prize-2014-sivas-2",
+      "mediaType": "movie",
+      "title": "Sivas",
+      "releaseDate": "2014",
+      "externalIds": {
+        "letterboxd": "sivas"
+      },
+      "awardYear": 2014,
+      "winner": "Kaan Müjdeci"
+    },
+    {
+      "id": "venice-special-jury-prize-2015-frenzy-3",
+      "mediaType": "movie",
+      "title": "Frenzy",
+      "releaseDate": "2015",
+      "externalIds": {
+        "letterboxd": "frenzy"
+      },
+      "awardYear": 2015,
+      "winner": "Emin Alper"
+    },
+    {
+      "id": "venice-special-jury-prize-2016-the-bad-batch-4",
+      "mediaType": "movie",
+      "title": "劣质爱情",
+      "releaseDate": "2016",
+      "externalIds": {
+        "letterboxd": "the-bad-batch"
+      },
+      "awardYear": 2016,
+      "winner": "Ana Lily Amirpour",
+      "englishTitle": "The Bad Batch"
+    },
+    {
+      "id": "venice-special-jury-prize-2017-sweet-country-5",
+      "mediaType": "movie",
+      "title": "甜蜜国度",
+      "releaseDate": "2017",
+      "externalIds": {
+        "letterboxd": "sweet-country"
+      },
+      "awardYear": 2017,
+      "winner": "Warwick Thornton",
+      "englishTitle": "Sweet Country"
+    },
+    {
+      "id": "venice-special-jury-prize-2018-the-nightingale-6",
+      "mediaType": "movie",
+      "title": "夜莺",
+      "releaseDate": "2018",
+      "externalIds": {
+        "letterboxd": "the-nightingale"
+      },
+      "awardYear": 2018,
+      "winner": "Jennifer Kent",
+      "englishTitle": "The Nightingale"
+    },
+    {
+      "id": "venice-special-jury-prize-2019-the-mafia-is-no-longer-what-it-used-to-be-7",
+      "mediaType": "movie",
+      "title": "黑手党不再是过去的样子",
+      "releaseDate": "2019",
+      "externalIds": {
+        "letterboxd": "the-mafia-is-no-longer-what-it-used-to-be"
+      },
+      "awardYear": 2019,
+      "winner": "Franco Maresco",
+      "englishTitle": "The Mafia Is No Longer What It Used to Be"
+    },
+    {
+      "id": "venice-special-jury-prize-2020-dear-comrades-8",
+      "mediaType": "movie",
+      "title": "亲爱的同志",
+      "releaseDate": "2020",
+      "externalIds": {
+        "letterboxd": "dear-comrades"
+      },
+      "awardYear": 2020,
+      "winner": "Andrei Konchalovsky",
+      "englishTitle": "Dear Comrades!"
+    },
+    {
+      "id": "venice-special-jury-prize-2021-il-buco-9",
+      "mediaType": "movie",
+      "title": "洞",
+      "releaseDate": "2021",
+      "externalIds": {
+        "letterboxd": "il-buco"
+      },
+      "awardYear": 2021,
+      "winner": "Michelangelo Frammartino",
+      "englishTitle": "Il buco"
+    },
+    {
+      "id": "venice-special-jury-prize-2022-no-bears-10",
+      "mediaType": "movie",
+      "title": "无熊之境",
+      "releaseDate": "2022",
+      "externalIds": {
+        "letterboxd": "no-bears"
+      },
+      "awardYear": 2022,
+      "winner": "Jafar Panahi",
+      "englishTitle": "No Bears"
+    },
+    {
+      "id": "venice-special-jury-prize-2023-green-border-11",
+      "mediaType": "movie",
+      "title": "绿色边境",
+      "releaseDate": "2023",
+      "externalIds": {
+        "letterboxd": "green-border"
+      },
+      "awardYear": 2023,
+      "winner": "Agnieszka Holland",
+      "englishTitle": "Green Border"
+    },
+    {
+      "id": "venice-special-jury-prize-2024-april-12",
+      "mediaType": "movie",
+      "title": "四月",
+      "releaseDate": "2024",
+      "externalIds": {
+        "letterboxd": "april"
+      },
+      "awardYear": 2024,
+      "winner": "Déa Kulumbegashvili",
+      "englishTitle": "April"
+    },
+    {
+      "id": "venice-special-jury-prize-2025-below-the-clouds-13",
+      "mediaType": "movie",
+      "title": "云下",
+      "releaseDate": "2025",
+      "externalIds": {
+        "letterboxd": "below-the-clouds"
+      },
+      "awardYear": 2025,
+      "winner": "Gianfranco Rosi",
+      "englishTitle": "Below the Clouds"
+    }
+  ]
+}

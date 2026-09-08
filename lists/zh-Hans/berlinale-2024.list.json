@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:30:00Z",
+  "title": "柏林电影节 2024 年获奖名单",
+  "description": "柏林国际电影节 2024 年主竞赛国际评审团主要奖项获奖影片。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "berlinale-2024-golden-bear-dahomey",
+      "mediaType": "movie",
+      "title": "达荷美",
+      "englishTitle": "Dahomey",
+      "award": "金熊奖",
+      "awardYear": 2024,
+      "awardOrder": 1,
+      "winner": "Mati Diop",
+      "releaseDate": "2024",
+      "externalIds": {
+        "tmdb": "1101256",
+        "imdb": "tt30057084"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/9d8KvJ3OjUq9rwuM743QPQO48aL.jpg"
+    },
+    {
+      "id": "berlinale-2024-grand-jury-a-traveler-s-needs",
+      "mediaType": "movie",
+      "title": "旅行者的需求",
+      "englishTitle": "A Traveler's Needs",
+      "award": "评审团大奖",
+      "awardYear": 2024,
+      "awardOrder": 2,
+      "winner": "Hong Sangsoo",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt31015344"
+      }
+    },
+    {
+      "id": "berlinale-2024-jury-prize-the-empire",
+      "mediaType": "movie",
+      "title": "帝国",
+      "englishTitle": "The Empire",
+      "award": "评审团奖",
+      "awardYear": 2024,
+      "awardOrder": 3,
+      "winner": "Bruno Dumont",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt17375596"
+      }
+    },
+    {
+      "id": "berlinale-2024-best-director-pepe",
+      "mediaType": "movie",
+      "title": "佩佩",
+      "englishTitle": "Pepe",
+      "award": "最佳导演银熊奖",
+      "awardYear": 2024,
+      "awardOrder": 4,
+      "winner": "Nelson Carlos De Los Santos Arias",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt10781034"
+      }
+    },
+    {
+      "id": "berlinale-2024-leading-performance-a-different-man",
+      "mediaType": "movie",
+      "title": "不同的男人",
+      "englishTitle": "A Different Man",
+      "award": "最佳主角银熊奖",
+      "awardYear": 2024,
+      "awardOrder": 5,
+      "winner": "Sebastian Stan",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt21097228"
+      }
+    },
+    {
+      "id": "berlinale-2024-supporting-performance-small-things-like-these",
+      "mediaType": "movie",
+      "title": "像这样的小事",
+      "englishTitle": "Small Things Like These",
+      "award": "最佳配角银熊奖",
+      "awardYear": 2024,
+      "awardOrder": 6,
+      "winner": "Emily Watson",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt27165281"
+      }
+    },
+    {
+      "id": "berlinale-2024-best-screenplay-dying",
+      "mediaType": "movie",
+      "title": "死亡乐章",
+      "englishTitle": "Dying",
+      "award": "最佳编剧银熊奖",
+      "awardYear": 2024,
+      "awardOrder": 7,
+      "winner": "Matthias Glasner",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt27196021"
+      }
+    },
+    {
+      "id": "berlinale-2024-artistic-contribution-the-devil-s-bath",
+      "mediaType": "movie",
+      "title": "恶魔之浴",
+      "englishTitle": "The Devil's Bath",
+      "award": "杰出艺术贡献银熊奖",
+      "awardYear": 2024,
+      "awardOrder": 8,
+      "winner": "Martin Gschlacht",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt29141112"
+      }
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:30:00Z",
+  "title": "Berlinale — Silver Bear for Best Supporting Performance",
+  "description": "Complete historical winners of the Berlinale Silver Bear for Best Supporting Performance.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "berlinale-best-supporting-performance-2021-forest-i-see-you-everywhere",
+      "mediaType": "movie",
+      "title": "Forest – I See You Everywhere",
+      "awardYear": 2021,
+      "winner": "Lilla Kizlinger",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14033416"
+      }
+    },
+    {
+      "id": "berlinale-best-supporting-performance-2022-before-now-and-then",
+      "mediaType": "movie",
+      "title": "Before, Now & Then",
+      "awardYear": 2022,
+      "winner": "Laura Basuki",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt15215918"
+      }
+    },
+    {
+      "id": "berlinale-best-supporting-performance-2023-till-the-end-of-the-night",
+      "mediaType": "movie",
+      "title": "Till the End of the Night",
+      "awardYear": 2023,
+      "winner": "Thea Ehre",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt23283892"
+      }
+    },
+    {
+      "id": "berlinale-best-supporting-performance-2024-small-things-like-these",
+      "mediaType": "movie",
+      "title": "Small Things Like These",
+      "awardYear": 2024,
+      "winner": "Emily Watson",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt27165281"
+      }
+    },
+    {
+      "id": "berlinale-best-supporting-performance-2025-blue-moon",
+      "mediaType": "movie",
+      "title": "Blue Moon",
+      "awardYear": 2025,
+      "winner": "Andrew Scott",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt32536315"
+      }
+    },
+    {
+      "id": "berlinale-best-supporting-performance-2026-queen-at-sea",
+      "mediaType": "movie",
+      "title": "Queen at Sea",
+      "awardYear": 2026,
+      "winner": "Tom Courtenay & Anna Calder-Marshall",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt27541205"
+      }
+    }
+  ]
+}

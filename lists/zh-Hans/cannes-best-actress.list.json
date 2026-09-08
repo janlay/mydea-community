@@ -1,0 +1,1084 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "OpenAI",
+  "server": "TMDB",
+  "updatedAt": "2026-09-06T16:01:44Z",
+  "description": "戛纳电影节最佳女演员奖获奖影片。",
+  "title": "戛纳 — 最佳女演员",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "title with Year"
+  ],
+  "items": [
+    {
+      "id": "cannes-best-actress-1946-pastoral-symphony",
+      "mediaType": "movie",
+      "title": "田园交响乐",
+      "awardYear": 1946,
+      "winner": "Michèle Morgan",
+      "releaseDate": "1946-09-26",
+      "externalIds": {
+        "tmdb": "117500"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/wsbIQxI69MNBFzzEmA7QLysHQQ9.jpg"
+    },
+    {
+      "id": "cannes-best-actress-1949-the-walls-of-malapaga",
+      "mediaType": "movie",
+      "title": "玛拉帕加之墙",
+      "awardYear": 1949,
+      "winner": "Isa Miranda",
+      "releaseDate": "1949-09-19",
+      "externalIds": {
+        "tmdb": "65718"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/iwiLJb8xzbh4JSwMxg990Rm7D3A.jpg"
+    },
+    {
+      "id": "cannes-best-actress-1951-all-about-eve",
+      "mediaType": "movie",
+      "title": "彗星美人",
+      "awardYear": 1951,
+      "winner": "Bette Davis",
+      "releaseDate": "1950-11-09",
+      "externalIds": {
+        "tmdb": "705"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/blBzZaatPWVuWpXEnPscMA4Xp6m.jpg"
+    },
+    {
+      "id": "cannes-best-actress-1952-detective-story",
+      "mediaType": "movie",
+      "title": "大侦探故事",
+      "awardYear": 1952,
+      "winner": "Lee Grant",
+      "releaseDate": "1951-10-19",
+      "externalIds": {
+        "tmdb": "20853"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/njivXWM3bO46lO7E4mvFh32TGlB.jpg"
+    },
+    {
+      "id": "cannes-best-actress-1955-a-big-family",
+      "mediaType": "movie",
+      "title": "大家庭",
+      "awardYear": 1955,
+      "winner": "Elena Dobronravova; Vera Kuznetsova; Klara Luchko; Ekaterina Savinova; Iya Arepina; Larisa Kronberg",
+      "releaseDate": "1954-11-05",
+      "externalIds": {
+        "tmdb": "199248"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/lv4RA52fbLTtTeTKV07sKnbUIVa.jpg"
+    },
+    {
+      "id": "cannes-best-actress-1956-i-ll-cry-tomorrow",
+      "mediaType": "movie",
+      "title": "伤心泪尽话当年",
+      "awardYear": 1956,
+      "winner": "Susan Hayward",
+      "releaseDate": "1955-12-25",
+      "externalIds": {
+        "tmdb": "28575"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/8UfnjpxvNa5nbckfE9EWdc38VRg.jpg"
+    },
+    {
+      "id": "cannes-best-actress-1957-nights-of-cabiria",
+      "mediaType": "movie",
+      "title": "卡比利亚之夜",
+      "awardYear": 1957,
+      "winner": "Giulietta Masina",
+      "releaseDate": "1957-10-03",
+      "externalIds": {
+        "tmdb": "19426"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/xF4oCG3PLNbcrtPZbqB3BtkIbKg.jpg"
+    },
+    {
+      "id": "cannes-best-actress-1958-brink-of-life",
+      "mediaType": "movie",
+      "title": "生命的门槛",
+      "awardYear": 1958,
+      "winner": "Bibi Andersson; Eva Dahlbeck; Barbro Hiort af Ornäs; Ingrid Thulin",
+      "releaseDate": "1958-03-31",
+      "externalIds": {
+        "tmdb": "60899"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/zEXjLCknAuml2e1aw2Gxh2eLxdV.jpg"
+    },
+    {
+      "id": "cannes-best-actress-1959-room-at-the-top",
+      "mediaType": "movie",
+      "title": "金屋泪",
+      "awardYear": 1959,
+      "winner": "Simone Signoret",
+      "releaseDate": "1958-12-29",
+      "externalIds": {
+        "tmdb": "43103"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/uuyruoqh7oBtjwN1mJyOF04CPjO.jpg"
+    },
+    {
+      "id": "cannes-best-actress-1960-never-on-sunday",
+      "mediaType": "movie",
+      "title": "痴汉艳娃",
+      "awardYear": 1960,
+      "winner": "Melina Mercouri",
+      "releaseDate": "1960-05-24",
+      "externalIds": {
+        "tmdb": "43039"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/t9zLlS5O5GB57BKjJCtzB21VKZB.jpg"
+    },
+    {
+      "id": "cannes-best-actress-1960-seven-days-seven-nights",
+      "mediaType": "movie",
+      "title": "琴声如诉",
+      "awardYear": 1960,
+      "winner": "Jeanne Moreau",
+      "releaseDate": "1960-05-25",
+      "externalIds": {
+        "tmdb": "83662"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/Gti1xNWrLOOefC1bmcK9ku0HqE.jpg"
+    },
+    {
+      "id": "cannes-best-actress-1961-two-women",
+      "mediaType": "movie",
+      "title": "烽火母女泪",
+      "awardYear": 1961,
+      "winner": "Sophia Loren",
+      "releaseDate": "1960-12-22",
+      "externalIds": {
+        "tmdb": "24167"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/biWDAUQD58enMEcyO2BqIVSycF4.jpg"
+    },
+    {
+      "id": "cannes-best-actress-1962-long-day-s-journey-into-night",
+      "mediaType": "movie",
+      "title": "长夜漫漫路迢迢",
+      "awardYear": 1962,
+      "winner": "Katharine Hepburn",
+      "releaseDate": "1962-10-09",
+      "externalIds": {
+        "tmdb": "43004"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/b7cu92b2sAJix1WFiLZiHSkZY1r.jpg"
+    },
+    {
+      "id": "cannes-best-actress-1962-a-taste-of-honey",
+      "mediaType": "movie",
+      "title": "蜜的滋味",
+      "awardYear": 1962,
+      "winner": "Rita Tushingham",
+      "releaseDate": "1961-10-01",
+      "externalIds": {
+        "tmdb": "25062"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/5psrZNVZ9E6Eck7OtpO47A8zTbQ.jpg"
+    },
+    {
+      "id": "cannes-best-actress-1963-the-conjugal-bed",
+      "mediaType": "movie",
+      "title": "女王蜂",
+      "awardYear": 1963,
+      "winner": "Marina Vlady",
+      "releaseDate": "1963-04-07",
+      "externalIds": {
+        "tmdb": "67378"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/2Tpl6sQJPR83uXANWnynfdWZP21.jpg"
+    },
+    {
+      "id": "cannes-best-actress-1964-the-pumpkin-eater",
+      "mediaType": "movie",
+      "title": "爱撒谎的人",
+      "awardYear": 1964,
+      "winner": "Anne Bancroft",
+      "releaseDate": "1964-07-16",
+      "externalIds": {
+        "tmdb": "69557"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/5llEDfwte6SnAd2grP065N95yeo.jpg"
+    },
+    {
+      "id": "cannes-best-actress-1964-one-potato-two-potato",
+      "mediaType": "movie",
+      "title": "天伦泪",
+      "awardYear": 1964,
+      "winner": "Barbara Barrie",
+      "releaseDate": "1964-07-29",
+      "externalIds": {
+        "tmdb": "143841"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/e11qlc4rPaYzIigaEfV8XuVtKo3.jpg"
+    },
+    {
+      "id": "cannes-best-actress-1965-the-collector",
+      "mediaType": "movie",
+      "title": "蝴蝶春梦",
+      "awardYear": 1965,
+      "winner": "Samantha Eggar",
+      "releaseDate": "1965-06-17",
+      "externalIds": {
+        "tmdb": "42740"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/iMiih5FGHwpUCAaJAIkYKl5Hffi.jpg"
+    },
+    {
+      "id": "cannes-best-actress-1966-morgan-a-suitable-case-for-treatment",
+      "mediaType": "movie",
+      "title": "摩根",
+      "awardYear": 1966,
+      "winner": "Vanessa Redgrave",
+      "releaseDate": "1966-04-03",
+      "externalIds": {
+        "tmdb": "42724"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/xu4awPUFmrFUaX2qk12Lv4QhJSF.jpg"
+    },
+    {
+      "id": "cannes-best-actress-1967-elvira-madigan",
+      "mediaType": "movie",
+      "title": "今生今世",
+      "awardYear": 1967,
+      "winner": "Pia Degermark",
+      "releaseDate": "1967-04-24",
+      "externalIds": {
+        "tmdb": "42692"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/odjkOW8BYVTj1q73Ad5KIHFfAge.jpg"
+    },
+    {
+      "id": "cannes-best-actress-1969-isadora",
+      "mediaType": "movie",
+      "title": "伊莎朵拉",
+      "awardYear": 1969,
+      "winner": "Vanessa Redgrave",
+      "releaseDate": "1968-09-14",
+      "externalIds": {
+        "tmdb": "42626"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/5NAjQxJgf4BJWz8m2Qj0fryG3bV.jpg"
+    },
+    {
+      "id": "cannes-best-actress-1970-metello",
+      "mediaType": "movie",
+      "title": "我的青春",
+      "awardYear": 1970,
+      "winner": "Ottavia Piccolo",
+      "releaseDate": "1970-03-10",
+      "externalIds": {
+        "tmdb": "198661"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/mf56O69waf4C3MdS6xKVpr9Ropn.jpg"
+    },
+    {
+      "id": "cannes-best-actress-1971-the-panic-in-needle-park",
+      "mediaType": "movie",
+      "title": "毒海鸳鸯",
+      "awardYear": 1971,
+      "winner": "Kitty Winn",
+      "releaseDate": "1971-06-01",
+      "externalIds": {
+        "tmdb": "27554"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/rhJ8Dnl6Z9KR9R2zskBKIfrFeFs.jpg"
+    },
+    {
+      "id": "cannes-best-actress-1972-images",
+      "mediaType": "movie",
+      "title": "幻象",
+      "awardYear": 1972,
+      "winner": "Susannah York",
+      "releaseDate": "1972-12-18",
+      "externalIds": {
+        "tmdb": "29449"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/d9EobHDOwYc1c59vgzEgtTDS1lM.jpg"
+    },
+    {
+      "id": "cannes-best-actress-1973-the-effect-of-gamma-rays-on-man-in-the-moon-marigolds",
+      "mediaType": "movie",
+      "title": "伽马射线效应",
+      "awardYear": 1973,
+      "winner": "Joanne Woodward",
+      "releaseDate": "1972-12-20",
+      "externalIds": {
+        "tmdb": "88875"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/hFGpoV5hDewXyBvjd44ajO58Sxw.jpg"
+    },
+    {
+      "id": "cannes-best-actress-1974-violins-at-the-ball",
+      "mediaType": "movie",
+      "title": "舞会上的小提琴",
+      "awardYear": 1974,
+      "winner": "Marie-José Nat",
+      "releaseDate": "1974-06-02",
+      "externalIds": {
+        "tmdb": "198537"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/cfS9dPrAJtIk9YYi7rmnoHbcjtR.jpg"
+    },
+    {
+      "id": "cannes-best-actress-1975-lenny",
+      "mediaType": "movie",
+      "title": "伦尼的故事",
+      "awardYear": 1975,
+      "winner": "Valérie Perrine",
+      "releaseDate": "1974-11-10",
+      "externalIds": {
+        "tmdb": "27094"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/Avhk4pGdz3YQrzqLU65icjnE6vn.jpg"
+    },
+    {
+      "id": "cannes-best-actress-1976-the-inheritance",
+      "mediaType": "movie",
+      "title": "遗产",
+      "awardYear": 1976,
+      "winner": "Dominique Sanda",
+      "releaseDate": "1976-08-11",
+      "externalIds": {
+        "tmdb": "106224"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/xSOOxYtUk1wLNYlaliSsa3vYngz.jpg"
+    },
+    {
+      "id": "cannes-best-actress-1976-mrs-dery-where-are-you",
+      "mediaType": "movie",
+      "title": "德里夫人您在哪",
+      "awardYear": 1976,
+      "winner": "Mari Törőcsik",
+      "releaseDate": "1975-06-02",
+      "externalIds": {
+        "tmdb": "198522"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/p8xz0kdfY3fGsJwRberWs9OCll7.jpg"
+    },
+    {
+      "id": "cannes-best-actress-1977-3-women",
+      "mediaType": "movie",
+      "title": "三女性",
+      "awardYear": 1977,
+      "winner": "Shelley Duvall",
+      "releaseDate": "1977-04-29",
+      "externalIds": {
+        "tmdb": "41662"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/uL5Yg8MEgHGXymTaJBYXn9g0xsH.jpg"
+    },
+    {
+      "id": "cannes-best-actress-1977-j-a-martin-photographer",
+      "mediaType": "movie",
+      "title": "摄影师马丁",
+      "awardYear": 1977,
+      "winner": "Monique Mercure",
+      "releaseDate": "1977-05-26",
+      "externalIds": {
+        "tmdb": "92799"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/hoFSncxhEvhHU04a3Msvt4D0gtk.jpg"
+    },
+    {
+      "id": "cannes-best-actress-1978-an-unmarried-woman",
+      "mediaType": "movie",
+      "title": "不结婚的女人",
+      "awardYear": 1978,
+      "winner": "Jill Clayburgh",
+      "releaseDate": "1978-05-24",
+      "externalIds": {
+        "tmdb": "38731"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/pJ6BLvNcLhNxvVCGgTynO5BJtQq.jpg"
+    },
+    {
+      "id": "cannes-best-actress-1978-violette-noziere",
+      "mediaType": "movie",
+      "title": "维奥莱特·诺齐埃尔",
+      "awardYear": 1978,
+      "winner": "Isabelle Huppert",
+      "releaseDate": "1978-05-24",
+      "externalIds": {
+        "tmdb": "2813"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/6I5SxAjsNSXtaZZ1M7clcRmhfgW.jpg"
+    },
+    {
+      "id": "cannes-best-actress-1979-norma-rae",
+      "mediaType": "movie",
+      "title": "诺玛·蕾",
+      "awardYear": 1979,
+      "winner": "Sally Field",
+      "releaseDate": "1979-03-02",
+      "externalIds": {
+        "tmdb": "40842"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/6au7WBVYoKhV1jORyFSIRszb46S.jpg"
+    },
+    {
+      "id": "cannes-best-actress-1979-woyzeck",
+      "mediaType": "movie",
+      "title": "沃伊采克",
+      "awardYear": 1979,
+      "winner": "Eva Mattes",
+      "releaseDate": "1979-05-25",
+      "externalIds": {
+        "tmdb": "10319"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/lxJThwhfqvyIRD6VszknCNCSokK.jpg"
+    },
+    {
+      "id": "cannes-best-actress-1980-a-leap-in-the-dark",
+      "mediaType": "movie",
+      "title": "虚无飘渺",
+      "awardYear": 1980,
+      "winner": "Anouk Aimée",
+      "releaseDate": "1980-02-14",
+      "externalIds": {
+        "tmdb": "51882"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/7ay1Z9W2byacCBDsZQJBa9pSMEK.jpg"
+    },
+    {
+      "id": "cannes-best-actress-1980-special-treatment",
+      "mediaType": "movie",
+      "title": "特殊待遇",
+      "awardYear": 1980,
+      "winner": "Milena Dravić",
+      "releaseDate": "1980-03-08",
+      "externalIds": {
+        "tmdb": "76711"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/mrre1UwGF1gEfVglpEkUf5XJD8A.jpg"
+    },
+    {
+      "id": "cannes-best-actress-1980-la-terrazza",
+      "mediaType": "movie",
+      "title": "露台",
+      "awardYear": 1980,
+      "winner": "Carla Gravina",
+      "releaseDate": "1980-02-08",
+      "externalIds": {
+        "tmdb": "77334"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/9VQpe6Olw355r0PmxmgBBs5BFSk.jpg"
+    },
+    {
+      "id": "cannes-best-actress-1981-possession",
+      "mediaType": "movie",
+      "title": "着魔",
+      "awardYear": 1981,
+      "winner": "Isabelle Adjani",
+      "releaseDate": "1981-05-27",
+      "externalIds": {
+        "tmdb": "21484"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/A9bnRn05riOKWftvQlLKa2gl51n.jpg"
+    },
+    {
+      "id": "cannes-best-actress-1981-quartet",
+      "mediaType": "movie",
+      "title": "四重奏",
+      "awardYear": 1981,
+      "winner": "Isabelle Adjani",
+      "releaseDate": "1981-10-25",
+      "externalIds": {
+        "tmdb": "67022"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/e6mAdf5RoWBxnPNbDA3zgTPl91Q.jpg"
+    },
+    {
+      "id": "cannes-best-actress-1981-faktas",
+      "mediaType": "movie",
+      "title": "真相",
+      "awardYear": 1981,
+      "winner": "Elena Solovey",
+      "releaseDate": "1981-06-04",
+      "externalIds": {
+        "tmdb": "198494"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/37TgNVegaw2EcyGc0QxsOJeS1qe.jpg"
+    },
+    {
+      "id": "cannes-best-actress-1982-another-way",
+      "mediaType": "movie",
+      "title": "另一个天堂",
+      "awardYear": 1982,
+      "winner": "Jadwiga Jankowska-Cieślak",
+      "releaseDate": "1982-05-01",
+      "externalIds": {
+        "tmdb": "100215"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/cxVeW6tr1Gso0QCttviPdYJ1m4w.jpg"
+    },
+    {
+      "id": "cannes-best-actress-1983-the-story-of-piera",
+      "mediaType": "movie",
+      "title": "庇亚娜的故事",
+      "awardYear": 1983,
+      "winner": "Hanna Schygulla",
+      "releaseDate": "1983-02-02",
+      "externalIds": {
+        "tmdb": "53914"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/5JOjkbiAZWDlhTGak3afhkbrkIr.jpg"
+    },
+    {
+      "id": "cannes-best-actress-1984-cal",
+      "mediaType": "movie",
+      "title": "恩怨情天",
+      "awardYear": 1984,
+      "winner": "Helen Mirren",
+      "releaseDate": "1984-08-24",
+      "externalIds": {
+        "tmdb": "42084"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/8fCYIX5CP8DP8VG0dwHuaeIM8nn.jpg"
+    },
+    {
+      "id": "cannes-best-actress-1985-the-official-story",
+      "mediaType": "movie",
+      "title": "烽火人间",
+      "awardYear": 1985,
+      "winner": "Norma Aleandro",
+      "releaseDate": "1985-04-03",
+      "externalIds": {
+        "tmdb": "29263"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/kkeUKaETggOrR0eW9nzPOIoZkZH.jpg"
+    },
+    {
+      "id": "cannes-best-actress-1985-mask",
+      "mediaType": "movie",
+      "title": "面具",
+      "awardYear": 1985,
+      "winner": "Cher",
+      "releaseDate": "1985-03-08",
+      "externalIds": {
+        "tmdb": "11177"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/dBYzEETDHNyt12VCD5owVW6bpEC.jpg"
+    },
+    {
+      "id": "cannes-best-actress-1986-rosa-luxemburg",
+      "mediaType": "movie",
+      "title": "罗莎·卢森堡",
+      "awardYear": 1986,
+      "winner": "Barbara Sukowa",
+      "releaseDate": "1986-04-10",
+      "externalIds": {
+        "tmdb": "55562"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/xsbuAzu2ZsZsV0hROoiarPTOsPv.jpg"
+    },
+    {
+      "id": "cannes-best-actress-1986-love-me-forever-or-never",
+      "mediaType": "movie",
+      "title": "永远爱我或不再爱我",
+      "awardYear": 1986,
+      "winner": "Fernanda Torres",
+      "releaseDate": "1986-04-17",
+      "externalIds": {
+        "tmdb": "74649"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/xPfTQ8fi8XrMxfHQ5JerhSnd2Ca.jpg"
+    },
+    {
+      "id": "cannes-best-actress-1987-shy-people",
+      "mediaType": "movie",
+      "title": "羞怯的女人",
+      "awardYear": 1987,
+      "winner": "Barbara Hershey",
+      "releaseDate": "1987-12-04",
+      "externalIds": {
+        "tmdb": "69040"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/6GWGbFWk6fB9FuYSF5c5EuR3Jfp.jpg"
+    },
+    {
+      "id": "cannes-best-actress-1988-a-world-apart",
+      "mediaType": "movie",
+      "title": "无声的岁月",
+      "awardYear": 1988,
+      "winner": "Barbara Hershey; Jodhi May; Linda Mvusi",
+      "releaseDate": "1988-06-17",
+      "externalIds": {
+        "tmdb": "41949"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/rLo4PwbuT3C7k2VxAGbMQU1aINp.jpg"
+    },
+    {
+      "id": "cannes-best-actress-1989-a-cry-in-the-dark",
+      "mediaType": "movie",
+      "title": "暗夜哭声",
+      "awardYear": 1989,
+      "winner": "Meryl Streep"
+    },
+    {
+      "id": "cannes-best-actress-1990-the-long-walk-home",
+      "mediaType": "movie",
+      "title": "长脚女佣",
+      "awardYear": 1990,
+      "winner": "Barbara Hershey",
+      "releaseDate": "1990-12-21",
+      "externalIds": {
+        "tmdb": "51763"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/7T2oVjLHHIDY6FQH9e04oOgPWQa.jpg"
+    },
+    {
+      "id": "cannes-best-actress-1991-the-double-life-of-veronique",
+      "mediaType": "movie",
+      "title": "两生花",
+      "awardYear": 1991,
+      "winner": "Irène Jacob",
+      "releaseDate": "1991-05-15",
+      "externalIds": {
+        "tmdb": "1600"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/oqRyO9xrNBRaxqF9pCHHgLuaATx.jpg"
+    },
+    {
+      "id": "cannes-best-actress-1992-a-cry-in-the-night",
+      "mediaType": "movie",
+      "title": "暗夜泪痕",
+      "awardYear": 1992,
+      "winner": "Pernilla August",
+      "releaseDate": "1992-09-17",
+      "externalIds": {
+        "tmdb": "189288"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/qbZmVAfmdRK50wrgMCJK2HGq3Ne.jpg"
+    },
+    {
+      "id": "cannes-best-actress-1993-the-piano",
+      "mediaType": "movie",
+      "title": "钢琴课",
+      "awardYear": 1993,
+      "winner": "Holly Hunter",
+      "releaseDate": "1993-05-18",
+      "externalIds": {
+        "tmdb": "713"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/rx8RKXn8OtuS6lqloYsjyrGOUp4.jpg"
+    },
+    {
+      "id": "cannes-best-actress-1994-la-reine-margot",
+      "mediaType": "movie",
+      "title": "玛戈王后",
+      "awardYear": 1994,
+      "winner": "Virna Lisi",
+      "releaseDate": "1994-05-13",
+      "externalIds": {
+        "tmdb": "10452"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/8uGkhBLiJMIkwohGPo3iB9AuwDg.jpg"
+    },
+    {
+      "id": "cannes-best-actress-1995-the-madness-of-king-george",
+      "mediaType": "movie",
+      "title": "疯狂的乔治王",
+      "awardYear": 1995,
+      "winner": "Helen Mirren",
+      "releaseDate": "1994-12-28",
+      "externalIds": {
+        "tmdb": "11318"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/1dTSY023ZyBbgVSKDRuA6JLGSnZ.jpg"
+    },
+    {
+      "id": "cannes-best-actress-1996-secrets-and-lies",
+      "mediaType": "movie",
+      "title": "秘密与谎言",
+      "awardYear": 1996,
+      "winner": "Brenda Blethyn",
+      "releaseDate": "1996-05-24",
+      "externalIds": {
+        "tmdb": "11159"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/zQBuRQ3hrLhkEsXcxteUxuxLrvs.jpg"
+    },
+    {
+      "id": "cannes-best-actress-1997-nil-by-mouth",
+      "mediaType": "movie",
+      "title": "切勿吞食",
+      "awardYear": 1997,
+      "winner": "Kathy Burke",
+      "releaseDate": "1997-10-10",
+      "externalIds": {
+        "tmdb": "21252"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/xRW2hoYmXgloWehdBQxAdbKu4Jn.jpg"
+    },
+    {
+      "id": "cannes-best-actress-1998-the-dreamlife-of-angels",
+      "mediaType": "movie",
+      "title": "两极天使",
+      "awardYear": 1998,
+      "winner": "Élodie Bouchez; Natacha Régnier",
+      "releaseDate": "1998-10-16",
+      "externalIds": {
+        "tmdb": "9840"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/1yxr5KJHJk5aPCbapJaBS8Znx8V.jpg"
+    },
+    {
+      "id": "cannes-best-actress-1999-humanite",
+      "mediaType": "movie",
+      "title": "人啊人",
+      "awardYear": 1999,
+      "winner": "Séverine Caneele",
+      "releaseDate": "1999-09-10",
+      "externalIds": {
+        "tmdb": "65296"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/fEEVsOpI21ZDY64tKMh4T3FZzCp.jpg"
+    },
+    {
+      "id": "cannes-best-actress-1999-rosetta",
+      "mediaType": "movie",
+      "title": "罗塞塔",
+      "awardYear": 1999,
+      "winner": "Émilie Dequenne",
+      "releaseDate": "1999-09-29",
+      "externalIds": {
+        "tmdb": "11489"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/buwLjQPPA9FaATvKzeAppLXiGMB.jpg"
+    },
+    {
+      "id": "cannes-best-actress-2000-dancer-in-the-dark",
+      "mediaType": "movie",
+      "title": "黑暗中的舞者",
+      "awardYear": 2000,
+      "winner": "Björk",
+      "releaseDate": "2000-09-01",
+      "externalIds": {
+        "tmdb": "16"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/pWzOfTJRZHPNO1VNrMnNFqRcJwg.jpg"
+    },
+    {
+      "id": "cannes-best-actress-2001-the-piano-teacher",
+      "mediaType": "movie",
+      "title": "钢琴教师",
+      "awardYear": 2001,
+      "winner": "Isabelle Huppert",
+      "releaseDate": "2001-09-05",
+      "externalIds": {
+        "tmdb": "1791"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/gNHKYQnP1RnqEhkivHJzBPb4MOP.jpg"
+    },
+    {
+      "id": "cannes-best-actress-2002-the-man-without-a-past",
+      "mediaType": "movie",
+      "title": "没有过去的男人",
+      "awardYear": 2002,
+      "winner": "Kati Outinen",
+      "releaseDate": "2002-03-01",
+      "externalIds": {
+        "tmdb": "7294"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/9tBepCujkyNg1qM52MsaJfDkIRw.jpg"
+    },
+    {
+      "id": "cannes-best-actress-2003-the-barbarian-invasions",
+      "mediaType": "movie",
+      "title": "野蛮入侵",
+      "awardYear": 2003,
+      "winner": "Marie-Josée Croze",
+      "releaseDate": "2003-05-01",
+      "externalIds": {
+        "tmdb": "11042"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/mqlgZiQHT3B5J8Q4mkgaCkt47uJ.jpg"
+    },
+    {
+      "id": "cannes-best-actress-2004-clean",
+      "mediaType": "movie",
+      "title": "清洁",
+      "awardYear": 2004,
+      "winner": "Maggie Cheung",
+      "releaseDate": "2004-09-01",
+      "externalIds": {
+        "tmdb": "39851"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/srenglG0ITLow4pR35IvJiAYuiX.jpg"
+    },
+    {
+      "id": "cannes-best-actress-2005-free-zone",
+      "mediaType": "movie",
+      "title": "自由地带",
+      "awardYear": 2005,
+      "winner": "Hanna Laslo",
+      "releaseDate": "2005-06-18",
+      "externalIds": {
+        "tmdb": "7483"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/ud4A2xRAa6j92dTuOy2B2Glv5xY.jpg"
+    },
+    {
+      "id": "cannes-best-actress-2006-volver",
+      "mediaType": "movie",
+      "title": "回归",
+      "awardYear": 2006,
+      "winner": "Penélope Cruz; Carmen Maura; Lola Dueñas; Blanca Portillo; Yohana Cobo; Chus Lampreave",
+      "releaseDate": "2006-03-17",
+      "externalIds": {
+        "tmdb": "219"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/ljRPzuI1xybiFUGU1uCRdx68h0K.jpg"
+    },
+    {
+      "id": "cannes-best-actress-2007-secret-sunshine",
+      "mediaType": "movie",
+      "title": "密阳",
+      "awardYear": 2007,
+      "winner": "Jeon Do-yeon",
+      "releaseDate": "2007-05-23",
+      "externalIds": {
+        "tmdb": "2015"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/vee1jyUrqUEmi5ZStWI1JJzLQJH.jpg"
+    },
+    {
+      "id": "cannes-best-actress-2008-linha-de-passe",
+      "mediaType": "movie",
+      "title": "超越",
+      "awardYear": 2008,
+      "winner": "Sandra Corveloni",
+      "releaseDate": "2008-09-05",
+      "externalIds": {
+        "tmdb": "8902"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/xKx5msZOhp71R7w9LPudDfrFQsz.jpg"
+    },
+    {
+      "id": "cannes-best-actress-2009-antichrist",
+      "mediaType": "movie",
+      "title": "反基督者",
+      "awardYear": 2009,
+      "winner": "Charlotte Gainsbourg",
+      "releaseDate": "2009-05-20",
+      "externalIds": {
+        "tmdb": "17609"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/ge7zbYvpfsDP3luKi0iSpzOgncM.jpg"
+    },
+    {
+      "id": "cannes-best-actress-2010-certified-copy",
+      "mediaType": "movie",
+      "title": "合法副本",
+      "awardYear": 2010,
+      "winner": "Juliette Binoche",
+      "releaseDate": "2010-05-19",
+      "externalIds": {
+        "tmdb": "48303"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/soBvtCR33Gv1j6gXwXOIc3JTlNc.jpg"
+    },
+    {
+      "id": "cannes-best-actress-2011-melancholia",
+      "mediaType": "movie",
+      "title": "忧郁症",
+      "awardYear": 2011,
+      "winner": "Kirsten Dunst",
+      "releaseDate": "2011-03-16",
+      "externalIds": {
+        "tmdb": "62215"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/fMneszMiQuTKY8JUXrGGB5vwqJf.jpg"
+    },
+    {
+      "id": "cannes-best-actress-2012-beyond-the-hills",
+      "mediaType": "movie",
+      "title": "山之外",
+      "awardYear": 2012,
+      "winner": "Cristina Flutur; Cosmina Stratan",
+      "releaseDate": "2012-10-25",
+      "externalIds": {
+        "tmdb": "103740"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/zV2v5jFXlN2We3GS2IkGQ6e2Bmm.jpg"
+    },
+    {
+      "id": "cannes-best-actress-2013-the-past",
+      "mediaType": "movie",
+      "title": "过往",
+      "awardYear": 2013,
+      "winner": "Bérénice Bejo",
+      "releaseDate": "2013-05-17",
+      "externalIds": {
+        "tmdb": "152780"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/8nff89qjYN3Hck5G33xeRPsM8TZ.jpg"
+    },
+    {
+      "id": "cannes-best-actress-2014-maps-to-the-stars",
+      "mediaType": "movie",
+      "title": "星图",
+      "awardYear": 2014,
+      "winner": "Julianne Moore",
+      "releaseDate": "2014-05-21",
+      "externalIds": {
+        "tmdb": "157851"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/aoMNfiaMmT7o7wY8oXWCLErZtah.jpg"
+    },
+    {
+      "id": "cannes-best-actress-2015-mon-roi",
+      "mediaType": "movie",
+      "title": "我的国王",
+      "awardYear": 2015,
+      "winner": "Emmanuelle Bercot",
+      "releaseDate": "2015-10-21",
+      "externalIds": {
+        "tmdb": "329805"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/kOhRkC7J3jpAgHGC0Uh3SoCqU4c.jpg"
+    },
+    {
+      "id": "cannes-best-actress-2015-carol",
+      "mediaType": "movie",
+      "title": "卡罗尔",
+      "awardYear": 2015,
+      "winner": "Rooney Mara",
+      "releaseDate": "2015-11-20",
+      "externalIds": {
+        "tmdb": "258480"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/cJeled7EyPdur6TnCA5GYg0UVna.jpg"
+    },
+    {
+      "id": "cannes-best-actress-2016-ma-rosa",
+      "mediaType": "movie",
+      "title": "罗莎妈妈",
+      "awardYear": 2016,
+      "winner": "Jaclyn Jose",
+      "releaseDate": "2016-11-09",
+      "externalIds": {
+        "tmdb": "392790"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/bKfnlEoZHewglGvNmWvnJ9X1Bt7.jpg"
+    },
+    {
+      "id": "cannes-best-actress-2017-in-the-fade",
+      "mediaType": "movie",
+      "title": "凭空而来",
+      "awardYear": 2017,
+      "winner": "Diane Kruger",
+      "releaseDate": "2017-11-23",
+      "externalIds": {
+        "tmdb": "423646"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/AdH8xoP2wAFZDMWiSoCGoLa0DUr.jpg"
+    },
+    {
+      "id": "cannes-best-actress-2018-ayka",
+      "mediaType": "movie",
+      "title": "小家伙",
+      "awardYear": 2018,
+      "winner": "Samal Yeslyamova",
+      "releaseDate": "2018-02-14",
+      "externalIds": {
+        "tmdb": "519185"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/7jdtAkYV5WO2zr27VZey52lxVh3.jpg"
+    },
+    {
+      "id": "cannes-best-actress-2019-little-joe",
+      "mediaType": "movie",
+      "title": "小小乔",
+      "awardYear": 2019,
+      "winner": "Emily Beecham",
+      "releaseDate": "2019-11-01",
+      "externalIds": {
+        "tmdb": "504585"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/q4VMyavCoXxN9U8AONE2YryQDVz.jpg"
+    },
+    {
+      "id": "cannes-best-actress-2021-the-worst-person-in-the-world",
+      "mediaType": "movie",
+      "title": "世界上最糟糕的人",
+      "awardYear": 2021,
+      "winner": "Renate Reinsve",
+      "releaseDate": "2021-10-13",
+      "externalIds": {
+        "tmdb": "660120"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/1NxGNQchGBTHXJ6RShLY1IlZqWn.jpg"
+    },
+    {
+      "id": "cannes-best-actress-2022-holy-spider",
+      "mediaType": "movie",
+      "title": "圣蛛",
+      "awardYear": 2022,
+      "winner": "Zar Amir Ebrahimi",
+      "releaseDate": "2022-07-13",
+      "externalIds": {
+        "tmdb": "889699"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/6ObJ4x7m1F5QRY06WzOxNJQHwGb.jpg"
+    },
+    {
+      "id": "cannes-best-actress-2023-about-dry-grasses",
+      "mediaType": "movie",
+      "title": "枯草",
+      "awardYear": 2023,
+      "winner": "Merve Dizdar",
+      "releaseDate": "2023-07-12",
+      "externalIds": {
+        "tmdb": "665733"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/mUFpdQSFAch1fMUb9MqHoESpmLS.jpg"
+    },
+    {
+      "id": "cannes-best-actress-2024-emilia-perez",
+      "mediaType": "movie",
+      "title": "艾米莉亚·佩雷斯",
+      "awardYear": 2024,
+      "winner": "Karla Sofía Gascón; Selena Gomez; Adriana Paz; Zoe Saldaña",
+      "releaseDate": "2024-08-21",
+      "externalIds": {
+        "tmdb": "974950"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/7seqaCaaXDNUHOx4DqwpoOH8pPa.jpg"
+    },
+    {
+      "id": "cannes-best-actress-2025-the-little-sister",
+      "mediaType": "movie",
+      "title": "最小的女儿",
+      "awardYear": 2025,
+      "winner": "Nadia Melliti",
+      "releaseDate": "2025-10-22",
+      "externalIds": {
+        "tmdb": "961077"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/gzTNITDGOjgrd3QPJfuqSYCjDls.jpg"
+    },
+    {
+      "id": "cannes-best-actress-2026-all-of-a-sudden",
+      "mediaType": "movie",
+      "title": "突如其来",
+      "awardYear": 2026,
+      "winner": "Tao Okamoto; Virginie Efira",
+      "releaseDate": "2026-06-19",
+      "externalIds": {
+        "tmdb": "1476614"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/uJkX6VUQbgoDO2LCt7X6wdAXvZj.jpg"
+    }
+  ]
+}

@@ -1,0 +1,375 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-08T11:52:00Z",
+  "title": "戛纳电影节 2019 年获奖名单",
+  "description": "第72届戛纳电影节官方影片相关奖项，涵盖主竞赛单元, 短片, 一种关注单元, 金摄影机奖, 电影基石单元 以及 CST 技术奖。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "cannes-2019-palme-d-or-parasite",
+      "mediaType": "movie",
+      "title": "寄生虫",
+      "award": "金棕榈奖",
+      "awardYear": 2019,
+      "awardOrder": 1,
+      "winner": "Bong Joon Ho",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6751668"
+      }
+    },
+    {
+      "id": "cannes-2019-grand-prix-atlantics",
+      "mediaType": "movie",
+      "title": "大西洋",
+      "award": "评审团大奖",
+      "awardYear": 2019,
+      "awardOrder": 2,
+      "winner": "Mati Diop",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10199586"
+      }
+    },
+    {
+      "id": "cannes-2019-best-director-prize-young-ahmed",
+      "mediaType": "movie",
+      "title": "年轻的阿迈德",
+      "award": "最佳导演奖",
+      "awardYear": 2019,
+      "awardOrder": 3,
+      "winner": "Jean-Pierre Dardenne & Luc Dardenne",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt8359822"
+      }
+    },
+    {
+      "id": "cannes-2019-jury-prize-ex-aequo-les-mis-rables",
+      "mediaType": "movie",
+      "title": "悲惨世界",
+      "award": "评审团奖 （并列）",
+      "awardYear": 2019,
+      "awardOrder": 4,
+      "winner": "Ladj Ly",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10199590"
+      }
+    },
+    {
+      "id": "cannes-2019-jury-prize-ex-aequo-bacurau",
+      "mediaType": "movie",
+      "title": "巴克劳",
+      "award": "评审团奖 （并列）",
+      "awardYear": 2019,
+      "awardOrder": 5,
+      "winner": "Kleber Mendonça Filho & Juliano Dornelles",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt2762506"
+      }
+    },
+    {
+      "id": "cannes-2019-best-performance-for-an-actor-pain-and-glory",
+      "mediaType": "movie",
+      "title": "痛苦与荣耀",
+      "award": "最佳男演员奖",
+      "awardYear": 2019,
+      "awardOrder": 6,
+      "winner": "Antonio Banderas",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt8291806"
+      }
+    },
+    {
+      "id": "cannes-2019-best-performance-for-an-actress-little-joe",
+      "mediaType": "movie",
+      "title": "小小乔",
+      "award": "最佳女演员奖",
+      "awardYear": 2019,
+      "awardOrder": 7,
+      "winner": "Emily Beecham",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt9204204"
+      }
+    },
+    {
+      "id": "cannes-2019-best-screenplay-portrait-of-a-lady-on-fire",
+      "mediaType": "movie",
+      "title": "燃烧女子的肖像",
+      "award": "最佳编剧",
+      "awardYear": 2019,
+      "awardOrder": 8,
+      "winner": "Céline Sciamma",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt8613070"
+      }
+    },
+    {
+      "id": "cannes-2019-special-mention-it-must-be-heaven",
+      "mediaType": "movie",
+      "title": "必是天堂",
+      "award": "特别提及",
+      "awardYear": 2019,
+      "awardOrder": 9,
+      "winner": "Elia Suleiman",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt8359842"
+      }
+    },
+    {
+      "id": "cannes-2019-short-film-palme-d-or-the-distance-between-us-and-the-sky",
+      "mediaType": "movie",
+      "title": "我们与天空之间的距离",
+      "award": "短片 金棕榈奖",
+      "awardYear": 2019,
+      "awardOrder": 10,
+      "winner": "Vasilis Kekatos",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10214916"
+      }
+    },
+    {
+      "id": "cannes-2019-short-film-special-distinction-monster-god",
+      "mediaType": "movie",
+      "title": "怪物之神",
+      "award": "短片 特别提及",
+      "awardYear": 2019,
+      "awardOrder": 11,
+      "winner": "Agustina San Martín",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10224954"
+      }
+    },
+    {
+      "id": "cannes-2019-un-certain-regard-prize-invisible-life",
+      "mediaType": "movie",
+      "title": "看不见的女人",
+      "award": "一种关注奖",
+      "awardYear": 2019,
+      "awardOrder": 12,
+      "winner": "Karim Aïnouz",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6390668"
+      }
+    },
+    {
+      "id": "cannes-2019-un-certain-regard-jury-prize-fire-will-come",
+      "mediaType": "movie",
+      "title": "火之夜",
+      "award": "一种关注 评审团奖",
+      "awardYear": 2019,
+      "awardOrder": 13,
+      "winner": "Oliver Laxe",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt8212958"
+      }
+    },
+    {
+      "id": "cannes-2019-un-certain-regard-best-performance-on-a-magical-night",
+      "mediaType": "movie",
+      "title": "魔力之夜",
+      "award": "一种关注 最佳表演",
+      "awardYear": 2019,
+      "awardOrder": 14,
+      "winner": "Chiara Mastroianni",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10115562"
+      }
+    },
+    {
+      "id": "cannes-2019-un-certain-regard-best-director-beanpole",
+      "mediaType": "movie",
+      "title": "高个儿",
+      "award": "一种关注 最佳导演",
+      "awardYear": 2019,
+      "awardOrder": 15,
+      "winner": "Kantemir Balagov",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10199640"
+      }
+    },
+    {
+      "id": "cannes-2019-un-certain-regard-special-jury-prize-libert",
+      "mediaType": "movie",
+      "title": "自由",
+      "award": "一种关注 特别评审团奖",
+      "awardYear": 2019,
+      "awardOrder": 16,
+      "winner": "Albert Serra",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10199670"
+      }
+    },
+    {
+      "id": "cannes-2019-un-certain-regard-jury-coup-de-c-ur-ex-aequo-a-brother-s-love",
+      "mediaType": "movie",
+      "title": "兄弟之爱",
+      "award": "一种关注 评审团心动奖 （并列）",
+      "awardYear": 2019,
+      "awardOrder": 17,
+      "winner": "Monia Chokri",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10155342"
+      }
+    },
+    {
+      "id": "cannes-2019-un-certain-regard-jury-coup-de-c-ur-ex-aequo-the-climb",
+      "mediaType": "movie",
+      "title": "攀登者",
+      "award": "一种关注 评审团心动奖 （并列）",
+      "awardYear": 2019,
+      "awardOrder": 18,
+      "winner": "Michael Angelo Covino",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt8637440"
+      }
+    },
+    {
+      "id": "cannes-2019-un-certain-regard-special-mention-joan-of-arc",
+      "mediaType": "movie",
+      "title": "圣女贞德",
+      "award": "一种关注 特别提及",
+      "awardYear": 2019,
+      "awardOrder": 19,
+      "winner": "Bruno Dumont",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt8669356"
+      }
+    },
+    {
+      "id": "cannes-2019-cam-ra-d-or-our-mothers",
+      "mediaType": "movie",
+      "title": "我们的母亲",
+      "award": "金摄影机奖",
+      "awardYear": 2019,
+      "awardOrder": 20,
+      "winner": "César Díaz",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt9206516"
+      }
+    },
+    {
+      "id": "cannes-2019-cin-fondation-first-prize-mano-a-mano",
+      "mediaType": "movie",
+      "title": "面对面",
+      "award": "电影基石 一等奖",
+      "awardYear": 2019,
+      "awardOrder": 21,
+      "winner": "Louise Courvoisier",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8336716"
+      }
+    },
+    {
+      "id": "cannes-2019-cin-fondation-second-prize-hi-u",
+      "mediaType": "movie",
+      "title": "孝",
+      "award": "电影基石 二等奖",
+      "awardYear": 2019,
+      "awardOrder": 22,
+      "winner": "Richard Van",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8530868"
+      }
+    },
+    {
+      "id": "cannes-2019-cin-fondation-third-prize-ex-aequo-ambience",
+      "mediaType": "movie",
+      "title": "氛围",
+      "award": "电影基石 三等奖 （并列）",
+      "awardYear": 2019,
+      "awardOrder": 23,
+      "winner": "Wisam Al Jafari",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10341630"
+      }
+    },
+    {
+      "id": "cannes-2019-cin-fondation-third-prize-ex-aequo-the-little-soul",
+      "mediaType": "movie",
+      "title": "小灵魂",
+      "award": "电影基石 三等奖 （并列）",
+      "awardYear": 2019,
+      "awardOrder": 24,
+      "winner": "Barbara Rupik",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10341888"
+      }
+    },
+    {
+      "id": "cannes-2019-cst-artist-technician-prize-les-mis-rables",
+      "mediaType": "movie",
+      "title": "悲惨世界",
+      "award": "CST艺术家技术奖",
+      "awardYear": 2019,
+      "awardOrder": 25,
+      "winner": "Flora Volpeliere & Julien Poupard",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10199590"
+      }
+    },
+    {
+      "id": "cannes-2019-cst-jury-special-mention-atlantics",
+      "mediaType": "movie",
+      "title": "大西洋",
+      "award": "CST评审团特别提及",
+      "awardYear": 2019,
+      "awardOrder": 26,
+      "winner": "Claire Mathon",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10199586"
+      }
+    },
+    {
+      "id": "cannes-2019-cst-jury-special-mention-portrait-of-a-lady-on-fire",
+      "mediaType": "movie",
+      "title": "燃烧女子的肖像",
+      "award": "CST评审团特别提及",
+      "awardYear": 2019,
+      "awardOrder": 27,
+      "winner": "Claire Mathon",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt8613070"
+      }
+    }
+  ]
+}

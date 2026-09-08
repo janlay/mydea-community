@@ -1,0 +1,166 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "title": "Hong Kong Film Awards",
+  "description": "Winners of every Hong Kong Film Awards category. 2021 was postponed and merged into 2022.",
+  "tags": [
+    "hong-kong",
+    "award",
+    "prize"
+  ],
+  "icon": "ticket",
+  "sections": [
+    {
+      "title": "Hong Kong Film Awards — Best Film",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "carousel",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "hkfa-best-film.list.json"
+        }
+      ]
+    },
+    {
+      "title": "Hong Kong Film Awards — Best Director",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "hkfa-best-director.list.json"
+        }
+      ]
+    },
+    {
+      "title": "Hong Kong Film Awards — Best Screenplay",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "hkfa-best-screenplay.list.json"
+        }
+      ]
+    },
+    {
+      "title": "Hong Kong Film Awards — Best Actor",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "hkfa-best-actor.list.json"
+        }
+      ]
+    },
+    {
+      "title": "Hong Kong Film Awards — Best Actress",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "hkfa-best-actress.list.json"
+        }
+      ]
+    },
+    {
+      "title": "Hong Kong Film Awards — Best Supporting Actor",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "hkfa-best-supporting-actor.list.json"
+        }
+      ]
+    },
+    {
+      "title": "Hong Kong Film Awards — Best Supporting Actress",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "hkfa-best-supporting-actress.list.json"
+        }
+      ]
+    },
+    {
+      "title": "Hong Kong Film Awards — Best New Performer",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "hkfa-best-new-performer.list.json"
+        }
+      ]
+    }
+  ]
+}

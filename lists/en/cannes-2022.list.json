@@ -1,0 +1,375 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-08T11:52:00Z",
+  "title": "Cannes Film Festival 2022 Awards",
+  "description": "Official film-linked awards from the 75th Festival de Cannes, covering Competition, Short Films, Un Certain Regard, Caméra d'Or, La Cinef and CST technical prizes.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "cannes-2022-palme-d-or-triangle-of-sadness",
+      "mediaType": "movie",
+      "title": "Triangle of Sadness",
+      "award": "Palme d'Or",
+      "awardYear": 2022,
+      "awardOrder": 1,
+      "winner": "Ruben Östlund",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt7322224"
+      }
+    },
+    {
+      "id": "cannes-2022-grand-prix-ex-aequo-close",
+      "mediaType": "movie",
+      "title": "Close",
+      "award": "Grand Prix (Ex-Aequo)",
+      "awardYear": 2022,
+      "awardOrder": 2,
+      "winner": "Lukas Dhont",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt9660502"
+      }
+    },
+    {
+      "id": "cannes-2022-grand-prix-ex-aequo-stars-at-noon",
+      "mediaType": "movie",
+      "title": "Stars at Noon",
+      "award": "Grand Prix (Ex-Aequo)",
+      "awardYear": 2022,
+      "awardOrder": 3,
+      "winner": "Claire Denis",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt10354106"
+      }
+    },
+    {
+      "id": "cannes-2022-best-director-prize-decision-to-leave",
+      "mediaType": "movie",
+      "title": "Decision to Leave",
+      "award": "Best Director Prize",
+      "awardYear": 2022,
+      "awardOrder": 4,
+      "winner": "Park Chan-wook",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt12477480"
+      }
+    },
+    {
+      "id": "cannes-2022-best-screenplay-boy-from-heaven",
+      "mediaType": "movie",
+      "title": "Boy from Heaven",
+      "award": "Best Screenplay",
+      "awardYear": 2022,
+      "awardOrder": 5,
+      "winner": "Tarik Saleh",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt15452062"
+      }
+    },
+    {
+      "id": "cannes-2022-jury-prize-ex-aequo-eo",
+      "mediaType": "movie",
+      "title": "EO",
+      "award": "Jury Prize (Ex-Aequo)",
+      "awardYear": 2022,
+      "awardOrder": 6,
+      "winner": "Jerzy Skolimowski",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt19652910"
+      }
+    },
+    {
+      "id": "cannes-2022-jury-prize-ex-aequo-the-eight-mountains",
+      "mediaType": "movie",
+      "title": "The Eight Mountains",
+      "award": "Jury Prize (Ex-Aequo)",
+      "awardYear": 2022,
+      "awardOrder": 7,
+      "winner": "Charlotte Vandermeersch & Felix van Groeningen",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt14641542"
+      }
+    },
+    {
+      "id": "cannes-2022-75th-anniversary-prize-tori-and-lokita",
+      "mediaType": "movie",
+      "title": "Tori and Lokita",
+      "award": "75th Anniversary Prize",
+      "awardYear": 2022,
+      "awardOrder": 8,
+      "winner": "Jean-Pierre Dardenne & Luc Dardenne",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt18317064"
+      }
+    },
+    {
+      "id": "cannes-2022-best-performance-for-an-actress-holy-spider",
+      "mediaType": "movie",
+      "title": "Holy Spider",
+      "award": "Best Performance for an Actress",
+      "awardYear": 2022,
+      "awardOrder": 9,
+      "winner": "Zar Amir Ebrahimi",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt18550140"
+      }
+    },
+    {
+      "id": "cannes-2022-best-performance-for-an-actor-broker",
+      "mediaType": "movie",
+      "title": "Broker",
+      "award": "Best Performance for an Actor",
+      "awardYear": 2022,
+      "awardOrder": 10,
+      "winner": "Song Kang-ho",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt13056052"
+      }
+    },
+    {
+      "id": "cannes-2022-cst-artist-technician-prize-triangle-of-sadness",
+      "mediaType": "movie",
+      "title": "Triangle of Sadness",
+      "award": "CST Artist-Technician Prize",
+      "awardYear": 2022,
+      "awardOrder": 11,
+      "winner": "Bent Holm, Andreas Franck, Jacob Ilgner & Jonas Rudels",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt7322224"
+      }
+    },
+    {
+      "id": "cannes-2022-cst-award-for-best-young-female-film-technician-mother-and-son",
+      "mediaType": "movie",
+      "title": "Mother and Son",
+      "award": "CST Award for Best Young Female Film Technician",
+      "awardYear": 2022,
+      "awardOrder": 12,
+      "winner": "Marion Burger",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt17014214"
+      }
+    },
+    {
+      "id": "cannes-2022-short-film-palme-d-or-the-water-murmurs",
+      "mediaType": "movie",
+      "title": "The Water Murmurs",
+      "award": "Short Film Palme d'Or",
+      "awardYear": 2022,
+      "awardOrder": 13,
+      "winner": "Jianying Chen",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt19844654"
+      }
+    },
+    {
+      "id": "cannes-2022-short-film-special-distinction-lori",
+      "mediaType": "movie",
+      "title": "Lori",
+      "award": "Short Film Special Distinction",
+      "awardYear": 2022,
+      "awardOrder": 14,
+      "winner": "Abinash Bikram Shah",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt19844646"
+      }
+    },
+    {
+      "id": "cannes-2022-un-certain-regard-prize-the-worst-ones",
+      "mediaType": "movie",
+      "title": "The Worst Ones",
+      "award": "Un Certain Regard Prize",
+      "awardYear": 2022,
+      "awardOrder": 15,
+      "winner": "Lise Akoka & Romane Gueret",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt19719862"
+      }
+    },
+    {
+      "id": "cannes-2022-un-certain-regard-jury-prize-joyland",
+      "mediaType": "movie",
+      "title": "Joyland",
+      "award": "Un Certain Regard Jury Prize",
+      "awardYear": 2022,
+      "awardOrder": 16,
+      "winner": "Saim Sadiq",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt19719976"
+      }
+    },
+    {
+      "id": "cannes-2022-un-certain-regard-best-director-metronom",
+      "mediaType": "movie",
+      "title": "Metronom",
+      "award": "Un Certain Regard Best Director",
+      "awardYear": 2022,
+      "awardOrder": 17,
+      "winner": "Alexandru Belc",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt12253164"
+      }
+    },
+    {
+      "id": "cannes-2022-un-certain-regard-best-performance-ex-aequo-corsage",
+      "mediaType": "movie",
+      "title": "Corsage",
+      "award": "Un Certain Regard Best Performance (Ex-Aequo)",
+      "awardYear": 2022,
+      "awardOrder": 18,
+      "winner": "Vicky Krieps",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt11992694"
+      }
+    },
+    {
+      "id": "cannes-2022-un-certain-regard-best-performance-ex-aequo-harka",
+      "mediaType": "movie",
+      "title": "Harka",
+      "award": "Un Certain Regard Best Performance (Ex-Aequo)",
+      "awardYear": 2022,
+      "awardOrder": 19,
+      "winner": "Adam Bessa",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt9317274"
+      }
+    },
+    {
+      "id": "cannes-2022-un-certain-regard-best-screenplay-mediterranean-fever",
+      "mediaType": "movie",
+      "title": "Mediterranean Fever",
+      "award": "Un Certain Regard Best Screenplay",
+      "awardYear": 2022,
+      "awardOrder": 20,
+      "winner": "Maha Haj",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt19785426"
+      }
+    },
+    {
+      "id": "cannes-2022-un-certain-regard-coup-de-c-ur-rodeo",
+      "mediaType": "movie",
+      "title": "Rodeo",
+      "award": "Un Certain Regard Coup de Cœur",
+      "awardYear": 2022,
+      "awardOrder": 21,
+      "winner": "Lola Quivoron",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt19719940"
+      }
+    },
+    {
+      "id": "cannes-2022-cam-ra-d-or-war-pony",
+      "mediaType": "movie",
+      "title": "War Pony",
+      "award": "Caméra d'Or",
+      "awardYear": 2022,
+      "awardOrder": 22,
+      "winner": "Riley Keough & Gina Gammell",
+      "releaseDate": "2022",
+      "externalIds": {
+        "letterboxd": "war-pony"
+      }
+    },
+    {
+      "id": "cannes-2022-cam-ra-d-or-special-mention-plan-75",
+      "mediaType": "movie",
+      "title": "Plan 75",
+      "award": "Caméra d'Or Special Mention",
+      "awardYear": 2022,
+      "awardOrder": 23,
+      "winner": "Chie Hayakawa",
+      "releaseDate": "2022",
+      "externalIds": {
+        "letterboxd": "plan-75"
+      }
+    },
+    {
+      "id": "cannes-2022-la-cinef-first-prize-a-conspiracy-man",
+      "mediaType": "movie",
+      "title": "A Conspiracy Man",
+      "award": "La Cinef First Prize",
+      "awardYear": 2022,
+      "awardOrder": 24,
+      "winner": "Valerio Ferrara",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt19815650"
+      }
+    },
+    {
+      "id": "cannes-2022-la-cinef-second-prize-somewhere",
+      "mediaType": "movie",
+      "title": "Somewhere",
+      "award": "La Cinef Second Prize",
+      "awardYear": 2022,
+      "awardOrder": 25,
+      "winner": "Li Jiahe",
+      "releaseDate": "2022",
+      "externalIds": {
+        "letterboxd": "somewhere-2022-1"
+      }
+    },
+    {
+      "id": "cannes-2022-la-cinef-third-prize-ex-aequo-glorious-revolution",
+      "mediaType": "movie",
+      "title": "Glorious Revolution",
+      "award": "La Cinef Third Prize (Ex-Aequo)",
+      "awardYear": 2022,
+      "awardOrder": 26,
+      "winner": "Masha Novikova",
+      "releaseDate": "2022",
+      "externalIds": {
+        "letterboxd": "glorious-revolution"
+      }
+    },
+    {
+      "id": "cannes-2022-la-cinef-third-prize-ex-aequo-humans-are-dumber-when-crammed-up-together",
+      "mediaType": "movie",
+      "title": "Humans Are Dumber When Crammed Up Together",
+      "award": "La Cinef Third Prize (Ex-Aequo)",
+      "awardYear": 2022,
+      "awardOrder": 27,
+      "winner": "Laurène Fernandez",
+      "releaseDate": "2022",
+      "externalIds": {
+        "letterboxd": "humans-are-dumber-when-crammed-up-together"
+      }
+    }
+  ]
+}

@@ -1,0 +1,728 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$comment": "Synced from mydea/Resources/OpenAPI/mydea-page-openapi.json; do not edit. Run .community/scripts/sync_schemas.py.",
+  "$ref": "#/components/schemas/PagePackage",
+  "components": {
+    "schemas": {
+      "PagePackage": {
+        "description": "A Page document: the shared top-level metadata and the Page's own fields, all at the root — there is no payload wrapper.",
+        "allOf": [
+          {
+            "$ref": "#/components/schemas/PackageMetadata"
+          },
+          {
+            "$ref": "#/components/schemas/PageExportPayload"
+          },
+          {
+            "type": "object",
+            "required": [
+              "title",
+              "sections"
+            ],
+            "properties": {
+              "kind": {
+                "const": "page"
+              }
+            }
+          }
+        ]
+      },
+      "PageExportPayload": {
+        "type": "object",
+        "required": [
+          "sections"
+        ],
+        "properties": {
+          "icon": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "showsSectionServiceIcons": {
+            "type": [
+              "boolean",
+              "null"
+            ],
+            "default": false
+          },
+          "contentRatingLimit": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "enum": [
+              "unrestricted",
+              "g",
+              "pg",
+              "pg13",
+              "r",
+              "nc17",
+              null
+            ]
+          },
+          "shortsVisibility": {
+            "type": [
+              "object",
+              "null"
+            ],
+            "required": [
+              "showsShorts",
+              "showsMusicShorts",
+              "showsAdvertShorts"
+            ],
+            "properties": {
+              "showsShorts": {
+                "type": "boolean"
+              },
+              "showsMusicShorts": {
+                "type": "boolean"
+              },
+              "showsAdvertShorts": {
+                "type": "boolean"
+              }
+            }
+          },
+          "originRegionFilter": {
+            "type": [
+              "object",
+              "null"
+            ],
+            "required": [
+              "hiddenRegion"
+            ],
+            "properties": {
+              "hiddenRegion": {
+                "type": "string",
+                "description": "ISO 3166-1 alpha-2 code; empty means no region is hidden."
+              }
+            }
+          },
+          "pageFilters": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Filter"
+            }
+          },
+          "sections": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/SectionExportPayload"
+            }
+          }
+        }
+      },
+      "PackageMetadata": {
+        "type": "object",
+        "description": "Top-level fields shared by Page, Section, List, Theme and Share documents. schemaVersion and kind are always required; Page / Section / List / Theme additionally require title. Everything else is optional and only shown in the import dialog when present. appVersion applies to Page / Section / Share packages.",
+        "required": [
+          "schemaVersion",
+          "kind"
+        ],
+        "properties": {
+          "schemaVersion": {
+            "type": "integer",
+            "const": 1,
+            "description": "Package format version. The current version is 1."
+          },
+          "kind": {
+            "type": "string",
+            "enum": [
+              "page",
+              "section",
+              "list",
+              "theme",
+              "mediaShare"
+            ],
+            "description": "Document type discriminator; required and case-sensitive."
+          },
+          "title": {
+            "type": "string",
+            "description": "Document title, shown and editable in the import dialog."
+          },
+          "author": {
+            "type": "string"
+          },
+          "server": {
+            "type": "string",
+            "description": "Service or server that published the document."
+          },
+          "updatedAt": {
+            "type": "string",
+            "description": "Publication time, ISO 8601. Exports never write it; publishers may."
+          },
+          "description": {
+            "type": "string"
+          },
+          "tags": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "uniqueItems": true,
+            "description": "Optional classification tags the publisher writes, e.g. [\"awards\", \"festival\"]. Free-form and case-sensitive; Mydea carries them through untouched."
+          },
+          "version": {
+            "type": "string",
+            "description": "Publisher's own version string."
+          },
+          "homepage": {
+            "type": "string"
+          },
+          "email": {
+            "type": "string"
+          },
+          "updateURL": {
+            "type": "string"
+          },
+          "appVersion": {
+            "type": "string",
+            "description": "Mydea version that wrote the file."
+          }
+        }
+      },
+      "SectionPackage": {
+        "description": "A Section document: the shared top-level metadata and the Section's own fields, all at the root — there is no payload wrapper.",
+        "allOf": [
+          {
+            "$ref": "#/components/schemas/PackageMetadata"
+          },
+          {
+            "$ref": "#/components/schemas/SectionExportPayload"
+          },
+          {
+            "type": "object",
+            "required": [
+              "title"
+            ],
+            "properties": {
+              "kind": {
+                "const": "section"
+              }
+            }
+          }
+        ]
+      },
+      "SectionExportPayload": {
+        "type": "object",
+        "required": [
+          "title",
+          "layout",
+          "service",
+          "query"
+        ],
+        "properties": {
+          "title": {
+            "type": "string",
+            "description": "Section title, also used when nested in a Page package."
+          },
+          "sectionType": {
+            "type": "string",
+            "enum": [
+              "query",
+              "container"
+            ]
+          },
+          "isEnabled": {
+            "type": "boolean"
+          },
+          "layout": {
+            "type": "string",
+            "enum": [
+              "grid",
+              "list",
+              "hero",
+              "carousel",
+              "itunes",
+              "library"
+            ]
+          },
+          "limit": {
+            "type": [
+              "integer",
+              "null"
+            ],
+            "minimum": 1
+          },
+          "filters": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Filter"
+            }
+          },
+          "filterMatchMode": {
+            "type": "string",
+            "enum": [
+              "all",
+              "any"
+            ]
+          },
+          "sortBy": {
+            "$ref": "#/components/schemas/SortBy"
+          },
+          "service": {
+            "type": "string"
+          },
+          "query": {
+            "type": "string"
+          },
+          "params": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/QueryParam"
+            },
+            "description": "Optional; omit or leave empty when the query takes no parameters.",
+            "default": []
+          },
+          "queryPageSize": {
+            "type": [
+              "integer",
+              "null"
+            ],
+            "minimum": 1
+          },
+          "cacheTtlInDays": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "designItems": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/SectionDesignItem"
+            }
+          },
+          "containerItems": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/ContainerItemExportPayload"
+            }
+          },
+          "shares": {
+            "type": [
+              "array",
+              "null"
+            ],
+            "items": {
+              "$ref": "#/components/schemas/MediaShareExportPayload"
+            }
+          }
+        }
+      },
+      "ContainerItemExportPayload": {
+        "type": "object",
+        "required": [
+          "itemType",
+          "title",
+          "service",
+          "query"
+        ],
+        "properties": {
+          "itemType": {
+            "type": "string",
+            "enum": [
+              "mediaQuery",
+              "profile",
+              "company"
+            ]
+          },
+          "title": {
+            "type": "string"
+          },
+          "service": {
+            "type": "string"
+          },
+          "query": {
+            "type": "string"
+          },
+          "params": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/QueryParam"
+            },
+            "description": "Optional; omit or leave empty when the query takes no parameters.",
+            "default": []
+          },
+          "filters": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Filter"
+            }
+          },
+          "filterMatchMode": {
+            "type": "string",
+            "enum": [
+              "all",
+              "any"
+            ]
+          },
+          "sortBy": {
+            "$ref": "#/components/schemas/SortBy"
+          },
+          "queryPageSize": {
+            "type": [
+              "integer",
+              "null"
+            ],
+            "minimum": 1
+          },
+          "cacheTtlInDays": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "person": {
+            "$ref": "#/components/schemas/MediaPerson"
+          },
+          "company": {
+            "$ref": "#/components/schemas/MediaCompany"
+          },
+          "worksContext": {
+            "$ref": "#/components/schemas/WorksSearchContext"
+          }
+        }
+      },
+      "QueryParam": {
+        "type": "object",
+        "required": [
+          "name",
+          "value"
+        ],
+        "properties": {
+          "name": {
+            "type": "string",
+            "description": "Parameter name declared by the query's schema."
+          },
+          "value": {
+            "type": "string",
+            "description": "Parameter value, always a string."
+          },
+          "title": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Display name of the selected value. Written only for lookup parameters (people); omit it for every other parameter type."
+          }
+        },
+        "description": "One query parameter binding. name and value are required; title only appears for lookup parameters (currently the people field), where value is an id and title is the resolved display name."
+      },
+      "Filter": {
+        "type": "object",
+        "required": [
+          "id",
+          "targetType",
+          "field",
+          "fieldType",
+          "operator",
+          "value",
+          "isNegated"
+        ],
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "targetType": {
+            "type": "string",
+            "description": "Media target type defined by the query service."
+          },
+          "field": {
+            "type": "string"
+          },
+          "fieldType": {
+            "type": "string"
+          },
+          "operator": {
+            "type": "string",
+            "enum": [
+              "contains",
+              "startsWith",
+              "endsWith",
+              "greaterThan",
+              "equals",
+              "lessThan",
+              "isTrue",
+              "isFalse"
+            ]
+          },
+          "value": {
+            "type": "string"
+          },
+          "isNegated": {
+            "type": "boolean"
+          }
+        }
+      },
+      "SortBy": {
+        "type": "array",
+        "description": "Ordered sort rules. Each entry is [field, direction].",
+        "items": {
+          "type": "array",
+          "prefixItems": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "string",
+              "enum": [
+                "asc",
+                "desc"
+              ]
+            }
+          ],
+          "items": false,
+          "minItems": 2,
+          "maxItems": 2
+        }
+      },
+      "SectionDesignItem": {
+        "type": "object",
+        "required": [
+          "row",
+          "kind",
+          "title"
+        ],
+        "properties": {
+          "row": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "kind": {
+            "type": "string",
+            "enum": [
+              "empty",
+              "titleWithYear",
+              "rating",
+              "resumeRest",
+              "watched",
+              "playable",
+              "quality",
+              "sources",
+              "field"
+            ]
+          },
+          "fieldKey": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "title": {
+            "type": "string"
+          }
+        }
+      },
+      "MediaPerson": {
+        "type": "object",
+        "required": [
+          "id",
+          "name",
+          "role"
+        ],
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "tmdbId": {
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "imdbId": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "name": {
+            "type": "string"
+          },
+          "role": {
+            "type": "string"
+          },
+          "profilePath": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "cachedProfilePath": {
+            "type": [
+              "string",
+              "null"
+            ]
+          }
+        }
+      },
+      "MediaCompany": {
+        "type": "object",
+        "required": [
+          "id",
+          "name"
+        ],
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "name": {
+            "type": "string"
+          },
+          "logoPath": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "cachedLogoPath": {
+            "type": [
+              "string",
+              "null"
+            ]
+          }
+        }
+      },
+      "WorksSearchContext": {
+        "type": "object",
+        "required": [
+          "workTypeFilter",
+          "roleFilter",
+          "scoreFilter",
+          "sortMode"
+        ],
+        "properties": {
+          "workTypeFilter": {
+            "type": "string"
+          },
+          "roleFilter": {
+            "type": "string"
+          },
+          "scoreFilter": {
+            "type": "string"
+          },
+          "sortMode": {
+            "type": "string"
+          }
+        }
+      },
+      "MediaShareExportPayload": {
+        "type": "object",
+        "required": [
+          "provider",
+          "displayName",
+          "serverURL",
+          "webURL",
+          "serverId",
+          "serverName",
+          "userId",
+          "username",
+          "token",
+          "fallbackServerURLs",
+          "selectedLibraries",
+          "isExperimental",
+          "isEnabled",
+          "isReadOnly",
+          "missingSecrets"
+        ],
+        "properties": {
+          "originalId": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "provider": {
+            "type": "string",
+            "enum": [
+              "plex",
+              "emby",
+              "jellyfin",
+              "radarr",
+              "sonarr",
+              "smb",
+              "webdav",
+              "localFolder"
+            ]
+          },
+          "displayName": {
+            "type": "string"
+          },
+          "serverURL": {
+            "type": "string",
+            "description": "Server address or local folder path, depending on provider; may be empty."
+          },
+          "webURL": {
+            "type": "string",
+            "description": "Optional web interface URL, or an empty string when unavailable."
+          },
+          "serverId": {
+            "type": "string"
+          },
+          "serverName": {
+            "type": "string"
+          },
+          "userId": {
+            "type": "string"
+          },
+          "username": {
+            "type": "string"
+          },
+          "token": {
+            "type": "string",
+            "description": "Credential. Written only by the single-Share export, which is the user's own backup; Page / Section packages never embed a Share, so it is an empty string there."
+          },
+          "fallbackServerURLs": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "format": "uri"
+            }
+          },
+          "selectedLibraries": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/PlexLibraryInfo"
+            }
+          },
+          "isExperimental": {
+            "type": "boolean"
+          },
+          "isEnabled": {
+            "type": "boolean"
+          },
+          "isReadOnly": {
+            "type": "boolean"
+          },
+          "missingSecrets": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        }
+      },
+      "PlexLibraryInfo": {
+        "type": "object",
+        "required": [
+          "key",
+          "title",
+          "type",
+          "mediaCount"
+        ],
+        "properties": {
+          "key": {
+            "type": "string"
+          },
+          "title": {
+            "type": "string"
+          },
+          "type": {
+            "type": "string"
+          },
+          "mediaCount": {
+            "type": "integer",
+            "minimum": 0
+          }
+        }
+      }
+    }
+  }
+}

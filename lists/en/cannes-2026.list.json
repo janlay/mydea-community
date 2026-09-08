@@ -1,0 +1,298 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-07T09:17:00Z",
+  "title": "Cannes Film Festival 2026 Awards",
+  "description": "Official film-linked awards from the 79th Festival de Cannes, covering Competition, Short Films, Un Certain Regard, Caméra d'Or, La Cinef and CST technical prizes.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "cannes-2026-palme-dor-fjord",
+      "mediaType": "movie",
+      "title": "Fjord",
+      "award": "Palme d'Or",
+      "awardYear": 2026,
+      "awardOrder": 1,
+      "winner": "Cristian Mungiu",
+      "releaseDate": "2026",
+      "externalIds": {
+        "tmdb": "1401459",
+        "imdb": "tt35410859"
+      }
+    },
+    {
+      "id": "cannes-2026-grand-prix-minotaur",
+      "mediaType": "movie",
+      "title": "Minotaur",
+      "award": "Grand Prix",
+      "awardYear": 2026,
+      "awardOrder": 2,
+      "winner": "Andrey Zvyagintsev",
+      "releaseDate": "2026-11-20",
+      "externalIds": {
+        "imdb": "tt37118301"
+      }
+    },
+    {
+      "id": "cannes-2026-best-director-la-bola-negra",
+      "mediaType": "movie",
+      "title": "La Bola Negra",
+      "award": "Best Director Prize (Ex-Aequo)",
+      "awardYear": 2026,
+      "awardOrder": 3,
+      "winner": "Javier Calvo & Javier Ambrossi",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt35511966"
+      }
+    },
+    {
+      "id": "cannes-2026-best-director-fatherland",
+      "mediaType": "movie",
+      "title": "Fatherland",
+      "award": "Best Director Prize (Ex-Aequo)",
+      "awardYear": 2026,
+      "awardOrder": 4,
+      "winner": "Paweł Pawlikowski",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt37304295"
+      }
+    },
+    {
+      "id": "cannes-2026-best-screenplay-notre-salut",
+      "mediaType": "movie",
+      "title": "Notre Salut",
+      "award": "Best Screenplay",
+      "awardYear": 2026,
+      "awardOrder": 5,
+      "winner": "Emmanuel Marre",
+      "releaseDate": "2026-09-30",
+      "externalIds": {
+        "imdb": "tt41593304"
+      }
+    },
+    {
+      "id": "cannes-2026-jury-prize-the-dreamed-adventure",
+      "mediaType": "movie",
+      "title": "The Dreamed Adventure",
+      "award": "Jury Prize",
+      "awardYear": 2026,
+      "awardOrder": 6,
+      "winner": "Valeska Grisebach",
+      "releaseDate": "2026-07-15",
+      "externalIds": {
+        "imdb": "tt21188986"
+      }
+    },
+    {
+      "id": "cannes-2026-best-actress-all-of-a-sudden",
+      "mediaType": "movie",
+      "title": "All of a Sudden",
+      "award": "Best Performance for an Actress",
+      "awardYear": 2026,
+      "awardOrder": 7,
+      "winner": "Virginie Efira & Tao Okamoto",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt36834996"
+      }
+    },
+    {
+      "id": "cannes-2026-best-actor-coward",
+      "mediaType": "movie",
+      "title": "Coward",
+      "award": "Best Performance for an Actor",
+      "awardYear": 2026,
+      "awardOrder": 8,
+      "winner": "Emmanuel Macchia & Valentin Campagne",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt39328391"
+      }
+    },
+    {
+      "id": "cannes-2026-short-film-palme-dor-for-the-opponents",
+      "mediaType": "movie",
+      "title": "For the Opponents",
+      "award": "Short Film Palme d'Or",
+      "awardYear": 2026,
+      "awardOrder": 9,
+      "winner": "Federico Luis",
+      "releaseDate": "2026-05-22",
+      "externalIds": {
+        "imdb": "tt42004508"
+      }
+    },
+    {
+      "id": "cannes-2026-un-certain-regard-everytime",
+      "mediaType": "movie",
+      "title": "Everytime",
+      "award": "Un Certain Regard Prize",
+      "awardYear": 2026,
+      "awardOrder": 10,
+      "winner": "Sandra Wollner",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt41592057"
+      }
+    },
+    {
+      "id": "cannes-2026-un-certain-regard-jury-prize-elephants-in-the-fog",
+      "mediaType": "movie",
+      "title": "Elephants in the Fog",
+      "award": "Un Certain Regard Jury Prize",
+      "awardYear": 2026,
+      "awardOrder": 11,
+      "winner": "Abinash Bikram Shah",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt29279937"
+      }
+    },
+    {
+      "id": "cannes-2026-un-certain-regard-special-jury-prize-iron-boy",
+      "mediaType": "movie",
+      "title": "Iron Boy",
+      "award": "Un Certain Regard Special Jury Prize",
+      "awardYear": 2026,
+      "awardOrder": 12,
+      "winner": "Louis Clichy",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt36639956"
+      }
+    },
+    {
+      "id": "cannes-2026-un-certain-regard-best-actor-congo-boy",
+      "mediaType": "movie",
+      "title": "Congo Boy",
+      "award": "Un Certain Regard Best Actor",
+      "awardYear": 2026,
+      "awardOrder": 13,
+      "winner": "Bradley Fiomona Dembeasset",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt41592086"
+      }
+    },
+    {
+      "id": "cannes-2026-un-certain-regard-best-actresses-forever-your-maternal-animal",
+      "mediaType": "movie",
+      "title": "Forever Your Maternal Animal",
+      "award": "Un Certain Regard Best Actresses",
+      "awardYear": 2026,
+      "awardOrder": 14,
+      "winner": "Marina de Tavira, Daniela Marín Navarro & Mariangel Villegas",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt41592077"
+      }
+    },
+    {
+      "id": "cannes-2026-camera-dor-benimana",
+      "mediaType": "movie",
+      "title": "Ben'imana",
+      "award": "Caméra d'Or Prize",
+      "awardYear": 2026,
+      "awardOrder": 15,
+      "winner": "Marie-Clémentine Dusabejambo",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt38820979"
+      }
+    },
+    {
+      "id": "cannes-2026-la-cinef-first-prize-laser-cat",
+      "mediaType": "movie",
+      "title": "Laser-Cat",
+      "award": "La Cinef First Prize",
+      "awardYear": 2026,
+      "awardOrder": 16,
+      "winner": "Lucas Acher",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt42006686"
+      }
+    },
+    {
+      "id": "cannes-2026-la-cinef-second-prize-silent-voices",
+      "mediaType": "movie",
+      "title": "Silent Voices",
+      "award": "La Cinef Second Prize",
+      "awardYear": 2026,
+      "awardOrder": 17,
+      "winner": "Nadine Misong Jin",
+      "releaseDate": "2026-05-19",
+      "externalIds": {
+        "imdb": "tt42029134"
+      }
+    },
+    {
+      "id": "cannes-2026-la-cinef-third-prize-never-enough",
+      "mediaType": "movie",
+      "title": "Never Enough",
+      "award": "La Cinef Third Prize (Ex-Aequo)",
+      "awardYear": 2026,
+      "awardOrder": 18,
+      "winner": "Julius Lagoutte Larsen",
+      "releaseDate": "2026-05-20",
+      "externalIds": {
+        "imdb": "tt42029714"
+      }
+    },
+    {
+      "id": "cannes-2026-la-cinef-third-prize-growing-stones-flying-papers",
+      "mediaType": "movie",
+      "title": "Growing Stones, Flying Papers",
+      "award": "La Cinef Third Prize (Ex-Aequo)",
+      "awardYear": 2026,
+      "awardOrder": 19,
+      "winner": "Roozbeh Gezerseh & Soraya Shamsi",
+      "releaseDate": "2026-05-20",
+      "externalIds": {
+        "imdb": "tt42006872"
+      }
+    },
+    {
+      "id": "cannes-2026-cst-artist-technician-notre-salut",
+      "mediaType": "movie",
+      "title": "Notre Salut",
+      "award": "CST Award for Best Artist-Technician",
+      "awardYear": 2026,
+      "awardOrder": 20,
+      "winner": "Nicolas Rumpl",
+      "releaseDate": "2026-09-30",
+      "externalIds": {
+        "imdb": "tt41593304"
+      }
+    },
+    {
+      "id": "cannes-2026-cst-young-female-technician-the-birthday-party",
+      "mediaType": "movie",
+      "title": "The Birthday Party",
+      "award": "CST Award for Best Young Female Film Technician",
+      "awardYear": 2026,
+      "awardOrder": 21,
+      "winner": "Esther Mysius",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt30495381"
+      }
+    }
+  ]
+}

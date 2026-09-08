@@ -1,0 +1,124 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:30:00Z",
+  "title": "威尼斯电影节 2025 年获奖名单",
+  "description": "第93届威尼斯电影节主竞赛主要官方奖项获奖影片。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "venice-golden-lion-2025-father-mother-sister-brother-1",
+      "mediaType": "movie",
+      "title": "父亲母亲妹妹哥哥",
+      "releaseDate": "2025",
+      "externalIds": {
+        "letterboxd": "father-mother-sister-brother"
+      },
+      "awardYear": 2025,
+      "winner": "Jim Jarmusch",
+      "englishTitle": "Father Mother Sister Brother",
+      "award": "金狮奖"
+    },
+    {
+      "id": "venice-grand-jury-prize-2025-the-voice-of-hind-rajab-2",
+      "mediaType": "movie",
+      "title": "欣德·拉贾布之声",
+      "releaseDate": "2025",
+      "externalIds": {
+        "letterboxd": "the-voice-of-hind-rajab"
+      },
+      "awardYear": 2025,
+      "winner": "Kaouther Ben Hania",
+      "englishTitle": "The Voice of Hind Rajab",
+      "award": "银狮奖·评审团大奖"
+    },
+    {
+      "id": "venice-best-director-2025-the-smashing-machine-3",
+      "mediaType": "movie",
+      "title": "粉碎机",
+      "releaseDate": "2025",
+      "externalIds": {
+        "letterboxd": "the-smashing-machine"
+      },
+      "awardYear": 2025,
+      "winner": "Benny Safdie",
+      "englishTitle": "The Smashing Machine",
+      "award": "银狮奖·最佳导演"
+    },
+    {
+      "id": "venice-best-actress-2025-the-sun-rises-on-us-all-4",
+      "mediaType": "movie",
+      "title": "日挂中天",
+      "releaseDate": "2025",
+      "externalIds": {
+        "letterboxd": "the-sun-rises-on-us-all"
+      },
+      "awardYear": 2025,
+      "winner": "Xin Zhilei",
+      "englishTitle": "The Sun Rises on Us All",
+      "award": "沃尔皮杯·最佳女演员"
+    },
+    {
+      "id": "venice-best-actor-2025-la-grazia-5",
+      "mediaType": "movie",
+      "title": "恩典",
+      "releaseDate": "2025",
+      "externalIds": {
+        "letterboxd": "la-grazia"
+      },
+      "awardYear": 2025,
+      "winner": "Toni Servillo",
+      "englishTitle": "La grazia",
+      "award": "沃尔皮杯·最佳男演员"
+    },
+    {
+      "id": "venice-best-screenplay-2025-at-work-6",
+      "mediaType": "movie",
+      "title": "工作中",
+      "releaseDate": "2025",
+      "externalIds": {
+        "letterboxd": "at-work"
+      },
+      "awardYear": 2025,
+      "winner": "Valérie Donzelli & Gilles Marchand",
+      "englishTitle": "At Work",
+      "award": "最佳编剧奖"
+    },
+    {
+      "id": "venice-special-jury-prize-2025-below-the-clouds-7",
+      "mediaType": "movie",
+      "title": "云下",
+      "releaseDate": "2025",
+      "externalIds": {
+        "letterboxd": "below-the-clouds"
+      },
+      "awardYear": 2025,
+      "winner": "Gianfranco Rosi",
+      "englishTitle": "Below the Clouds",
+      "award": "评审团特别奖"
+    },
+    {
+      "id": "venice-mastroianni-2025-silent-friend-8",
+      "mediaType": "movie",
+      "title": "沉默的朋友",
+      "releaseDate": "2025",
+      "externalIds": {
+        "letterboxd": "silent-friend"
+      },
+      "awardYear": 2025,
+      "winner": "Luna Wedler",
+      "englishTitle": "Silent Friend",
+      "award": "马塞洛·马斯楚安尼奖"
+    }
+  ]
+}

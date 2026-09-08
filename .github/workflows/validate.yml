@@ -1,0 +1,32 @@
+name: Community Validation
+
+on:
+  pull_request:
+    branches: [main]
+    types: [opened, synchronize, reopened]
+
+permissions:
+  contents: read
+  pull-requests: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+      - name: Install validator
+        run: python3 -m pip install --disable-pip-version-check jsonschema
+      - name: Protect infrastructure
+        env:
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+        run: |
+          set -eu
+          changed="$(git diff --name-only "$BASE_SHA" HEAD)"
+          if printf '%s\n' "$changed" | grep -Eq '^(\.github/|\.community/(schemas|scripts)/)'; then
+            echo 'Infrastructure files may only be changed by a Maintainer; CODEOWNERS review is required.'
+            exit 1
+          fi
+      - name: Validate resources
+        run: python3 .community/scripts/validate.py

@@ -1,0 +1,745 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:30:00Z",
+  "title": "威尼斯 — 银狮奖·评审团大奖",
+  "description": "威尼斯国际电影节历届银狮奖·评审团大奖获奖影片/表演记录；按该奖项现行或历史等价类别整理。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "venice-grand-jury-prize-1951-the-river-1",
+      "mediaType": "movie",
+      "title": "The River",
+      "releaseDate": "1951",
+      "externalIds": {
+        "letterboxd": "the-river"
+      },
+      "awardYear": 1951,
+      "winner": "Jean Renoir"
+    },
+    {
+      "id": "venice-grand-jury-prize-1952-the-overcoat-2",
+      "mediaType": "movie",
+      "title": "The Overcoat",
+      "releaseDate": "1952",
+      "externalIds": {
+        "letterboxd": "the-overcoat"
+      },
+      "awardYear": 1952,
+      "winner": "Alberto Lattuada"
+    },
+    {
+      "id": "venice-grand-jury-prize-1953-i-vitelloni-3",
+      "mediaType": "movie",
+      "title": "I Vitelloni",
+      "releaseDate": "1953",
+      "externalIds": {
+        "letterboxd": "i-vitelloni"
+      },
+      "awardYear": 1953,
+      "winner": "Federico Fellini"
+    },
+    {
+      "id": "venice-grand-jury-prize-1954-la-strada-4",
+      "mediaType": "movie",
+      "title": "La Strada",
+      "releaseDate": "1954",
+      "externalIds": {
+        "letterboxd": "la-strada"
+      },
+      "awardYear": 1954,
+      "winner": "Federico Fellini"
+    },
+    {
+      "id": "venice-grand-jury-prize-1955-the-big-knife-5",
+      "mediaType": "movie",
+      "title": "The Big Knife",
+      "releaseDate": "1955",
+      "externalIds": {
+        "letterboxd": "the-big-knife"
+      },
+      "awardYear": 1955,
+      "winner": "Robert Aldrich"
+    },
+    {
+      "id": "venice-grand-jury-prize-1957-white-nights-6",
+      "mediaType": "movie",
+      "title": "White Nights",
+      "releaseDate": "1957",
+      "externalIds": {
+        "letterboxd": "white-nights"
+      },
+      "awardYear": 1957,
+      "winner": "Luchino Visconti"
+    },
+    {
+      "id": "venice-grand-jury-prize-1958-the-lovers-7",
+      "mediaType": "movie",
+      "title": "The Lovers",
+      "releaseDate": "1958",
+      "externalIds": {
+        "letterboxd": "the-lovers"
+      },
+      "awardYear": 1958,
+      "winner": "Louis Malle"
+    },
+    {
+      "id": "venice-grand-jury-prize-1959-the-face-8",
+      "mediaType": "movie",
+      "title": "The Face",
+      "releaseDate": "1959",
+      "externalIds": {
+        "letterboxd": "the-face"
+      },
+      "awardYear": 1959,
+      "winner": "Ingmar Bergman"
+    },
+    {
+      "id": "venice-grand-jury-prize-1960-rocco-and-his-brothers-9",
+      "mediaType": "movie",
+      "title": "Rocco and His Brothers",
+      "releaseDate": "1960",
+      "externalIds": {
+        "letterboxd": "rocco-and-his-brothers"
+      },
+      "awardYear": 1960,
+      "winner": "Luchino Visconti"
+    },
+    {
+      "id": "venice-grand-jury-prize-1961-peace-to-him-who-enters-10",
+      "mediaType": "movie",
+      "title": "Peace to Him Who Enters",
+      "releaseDate": "1961",
+      "externalIds": {
+        "letterboxd": "peace-to-him-who-enters"
+      },
+      "awardYear": 1961,
+      "winner": "Aleksandr Alov & Vladimir Naumov"
+    },
+    {
+      "id": "venice-grand-jury-prize-1962-the-trial-of-joan-of-arc-11",
+      "mediaType": "movie",
+      "title": "The Trial of Joan of Arc",
+      "releaseDate": "1962",
+      "externalIds": {
+        "letterboxd": "the-trial-of-joan-of-arc"
+      },
+      "awardYear": 1962,
+      "winner": "Robert Bresson"
+    },
+    {
+      "id": "venice-grand-jury-prize-1963-the-fire-within-12",
+      "mediaType": "movie",
+      "title": "The Fire Within",
+      "releaseDate": "1963",
+      "externalIds": {
+        "letterboxd": "the-fire-within"
+      },
+      "awardYear": 1963,
+      "winner": "Louis Malle"
+    },
+    {
+      "id": "venice-grand-jury-prize-1964-the-gospel-according-to-st-matthew-13",
+      "mediaType": "movie",
+      "title": "The Gospel According to St. Matthew",
+      "releaseDate": "1964",
+      "externalIds": {
+        "letterboxd": "the-gospel-according-to-st-matthew"
+      },
+      "awardYear": 1964,
+      "winner": "Pier Paolo Pasolini"
+    },
+    {
+      "id": "venice-grand-jury-prize-1965-simon-of-the-desert-14",
+      "mediaType": "movie",
+      "title": "Simon of the Desert",
+      "releaseDate": "1965",
+      "externalIds": {
+        "letterboxd": "simon-of-the-desert"
+      },
+      "awardYear": 1965,
+      "winner": "Luis Buñuel"
+    },
+    {
+      "id": "venice-grand-jury-prize-1966-chappaqua-15",
+      "mediaType": "movie",
+      "title": "Chappaqua",
+      "releaseDate": "1966",
+      "externalIds": {
+        "letterboxd": "chappaqua"
+      },
+      "awardYear": 1966,
+      "winner": "Conrad Rooks"
+    },
+    {
+      "id": "venice-grand-jury-prize-1967-china-is-near-16",
+      "mediaType": "movie",
+      "title": "China Is Near",
+      "releaseDate": "1967",
+      "externalIds": {
+        "letterboxd": "china-is-near"
+      },
+      "awardYear": 1967,
+      "winner": "Marco Bellocchio"
+    },
+    {
+      "id": "venice-grand-jury-prize-1968-our-lady-of-the-turks-17",
+      "mediaType": "movie",
+      "title": "Our Lady of the Turks",
+      "releaseDate": "1968",
+      "externalIds": {
+        "letterboxd": "our-lady-of-the-turks"
+      },
+      "awardYear": 1968,
+      "winner": "Carmelo Bene"
+    },
+    {
+      "id": "venice-grand-jury-prize-1980-the-big-night-18",
+      "mediaType": "movie",
+      "title": "The Big Night",
+      "releaseDate": "1980",
+      "externalIds": {
+        "letterboxd": "the-big-night"
+      },
+      "awardYear": 1980,
+      "winner": "Paolo Taviani & Vittorio Taviani"
+    },
+    {
+      "id": "venice-grand-jury-prize-1981-they-don-t-wear-black-tie-19",
+      "mediaType": "movie",
+      "title": "They Don't Wear Black Tie",
+      "releaseDate": "1981",
+      "externalIds": {
+        "letterboxd": "they-don-t-wear-black-tie"
+      },
+      "awardYear": 1981,
+      "winner": "Leon Hirszman"
+    },
+    {
+      "id": "venice-grand-jury-prize-1982-imperative-20",
+      "mediaType": "movie",
+      "title": "Imperative",
+      "releaseDate": "1982",
+      "externalIds": {
+        "letterboxd": "imperative"
+      },
+      "awardYear": 1982,
+      "winner": "Krzysztof Zanussi"
+    },
+    {
+      "id": "venice-grand-jury-prize-1983-biquefarre-21",
+      "mediaType": "movie",
+      "title": "Biquefarre",
+      "releaseDate": "1983",
+      "externalIds": {
+        "letterboxd": "biquefarre"
+      },
+      "awardYear": 1983,
+      "winner": "Georges Rouquier"
+    },
+    {
+      "id": "venice-grand-jury-prize-1984-favorites-of-the-moon-22",
+      "mediaType": "movie",
+      "title": "Favorites of the Moon",
+      "releaseDate": "1984",
+      "externalIds": {
+        "letterboxd": "favorites-of-the-moon"
+      },
+      "awardYear": 1984,
+      "winner": "Otar Iosseliani"
+    },
+    {
+      "id": "venice-grand-jury-prize-1985-tangos-the-exile-of-gardel-23",
+      "mediaType": "movie",
+      "title": "Tangos, the Exile of Gardel",
+      "releaseDate": "1985",
+      "externalIds": {
+        "letterboxd": "tangos-the-exile-of-gardel"
+      },
+      "awardYear": 1985,
+      "winner": "Fernando E. Solanas"
+    },
+    {
+      "id": "venice-grand-jury-prize-1986-a-tale-of-love-24",
+      "mediaType": "movie",
+      "title": "A Tale of Love",
+      "releaseDate": "1986",
+      "externalIds": {
+        "letterboxd": "a-tale-of-love"
+      },
+      "awardYear": 1986,
+      "winner": "Francesco Maselli"
+    },
+    {
+      "id": "venice-grand-jury-prize-1986-wild-pigeon-25",
+      "mediaType": "movie",
+      "title": "Wild Pigeon",
+      "releaseDate": "1986",
+      "externalIds": {
+        "letterboxd": "wild-pigeon"
+      },
+      "awardYear": 1986,
+      "winner": "Sergei Solovyov"
+    },
+    {
+      "id": "venice-grand-jury-prize-1987-hip-hip-hurrah-26",
+      "mediaType": "movie",
+      "title": "Hip Hip Hurrah!",
+      "releaseDate": "1987",
+      "externalIds": {
+        "letterboxd": "hip-hip-hurrah"
+      },
+      "awardYear": 1987,
+      "winner": "Kjell Grede"
+    },
+    {
+      "id": "venice-grand-jury-prize-1988-camp-de-thiaroye-27",
+      "mediaType": "movie",
+      "title": "Camp de Thiaroye",
+      "releaseDate": "1988",
+      "externalIds": {
+        "letterboxd": "camp-de-thiaroye"
+      },
+      "awardYear": 1988,
+      "winner": "Ousmane Sembène & Thierno Faty Sow"
+    },
+    {
+      "id": "venice-grand-jury-prize-1989-and-then-there-was-light-28",
+      "mediaType": "movie",
+      "title": "And Then There Was Light",
+      "releaseDate": "1989",
+      "externalIds": {
+        "letterboxd": "and-then-there-was-light"
+      },
+      "awardYear": 1989,
+      "winner": "Otar Iosseliani"
+    },
+    {
+      "id": "venice-grand-jury-prize-1990-an-angel-at-my-table-29",
+      "mediaType": "movie",
+      "title": "An Angel at My Table",
+      "releaseDate": "1990",
+      "externalIds": {
+        "letterboxd": "an-angel-at-my-table"
+      },
+      "awardYear": 1990,
+      "winner": "Jane Campion"
+    },
+    {
+      "id": "venice-grand-jury-prize-1991-the-divine-comedy-30",
+      "mediaType": "movie",
+      "title": "The Divine Comedy",
+      "releaseDate": "1991",
+      "externalIds": {
+        "letterboxd": "the-divine-comedy"
+      },
+      "awardYear": 1991,
+      "winner": "Manoel de Oliveira"
+    },
+    {
+      "id": "venice-grand-jury-prize-1992-death-of-a-neapolitan-mathematician-31",
+      "mediaType": "movie",
+      "title": "Death of a Neapolitan Mathematician",
+      "releaseDate": "1992",
+      "externalIds": {
+        "letterboxd": "death-of-a-neapolitan-mathematician"
+      },
+      "awardYear": 1992,
+      "winner": "Mario Martone"
+    },
+    {
+      "id": "venice-grand-jury-prize-1993-bad-boy-bubby-32",
+      "mediaType": "movie",
+      "title": "Bad Boy Bubby",
+      "releaseDate": "1993",
+      "externalIds": {
+        "letterboxd": "bad-boy-bubby"
+      },
+      "awardYear": 1993,
+      "winner": "Rolf de Heer"
+    },
+    {
+      "id": "venice-grand-jury-prize-1994-natural-born-killers-33",
+      "mediaType": "movie",
+      "title": "Natural Born Killers",
+      "releaseDate": "1994",
+      "externalIds": {
+        "letterboxd": "natural-born-killers"
+      },
+      "awardYear": 1994,
+      "winner": "Oliver Stone"
+    },
+    {
+      "id": "venice-grand-jury-prize-1995-god-s-comedy-34",
+      "mediaType": "movie",
+      "title": "God's Comedy",
+      "releaseDate": "1995",
+      "externalIds": {
+        "letterboxd": "god-s-comedy"
+      },
+      "awardYear": 1995,
+      "winner": "João César Monteiro"
+    },
+    {
+      "id": "venice-grand-jury-prize-1995-the-star-maker-35",
+      "mediaType": "movie",
+      "title": "The Star Maker",
+      "releaseDate": "1995",
+      "externalIds": {
+        "letterboxd": "the-star-maker"
+      },
+      "awardYear": 1995,
+      "winner": "Giuseppe Tornatore"
+    },
+    {
+      "id": "venice-grand-jury-prize-1996-brigands-36",
+      "mediaType": "movie",
+      "title": "Brigands",
+      "releaseDate": "1996",
+      "externalIds": {
+        "letterboxd": "brigands"
+      },
+      "awardYear": 1996,
+      "winner": "Otar Iosseliani"
+    },
+    {
+      "id": "venice-grand-jury-prize-1997-ovosodo-37",
+      "mediaType": "movie",
+      "title": "Ovosodo",
+      "releaseDate": "1997",
+      "externalIds": {
+        "letterboxd": "ovosodo"
+      },
+      "awardYear": 1997,
+      "winner": "Paolo Virzì"
+    },
+    {
+      "id": "venice-grand-jury-prize-1998-next-stop-paradise-38",
+      "mediaType": "movie",
+      "title": "Next Stop Paradise",
+      "releaseDate": "1998",
+      "externalIds": {
+        "letterboxd": "next-stop-paradise"
+      },
+      "awardYear": 1998,
+      "winner": "Lucian Pintilie"
+    },
+    {
+      "id": "venice-grand-jury-prize-1999-the-wind-will-carry-us-39",
+      "mediaType": "movie",
+      "title": "The Wind Will Carry Us",
+      "releaseDate": "1999",
+      "externalIds": {
+        "letterboxd": "the-wind-will-carry-us"
+      },
+      "awardYear": 1999,
+      "winner": "Abbas Kiarostami"
+    },
+    {
+      "id": "venice-grand-jury-prize-2000-before-night-falls-40",
+      "mediaType": "movie",
+      "title": "Before Night Falls",
+      "releaseDate": "2000",
+      "externalIds": {
+        "letterboxd": "before-night-falls"
+      },
+      "awardYear": 2000,
+      "winner": "Julian Schnabel"
+    },
+    {
+      "id": "venice-grand-jury-prize-2001-dog-days-41",
+      "mediaType": "movie",
+      "title": "Dog Days",
+      "releaseDate": "2001",
+      "externalIds": {
+        "letterboxd": "dog-days"
+      },
+      "awardYear": 2001,
+      "winner": "Ulrich Seidl"
+    },
+    {
+      "id": "venice-grand-jury-prize-2002-house-of-fools-42",
+      "mediaType": "movie",
+      "title": "House of Fools",
+      "releaseDate": "2002",
+      "externalIds": {
+        "letterboxd": "house-of-fools"
+      },
+      "awardYear": 2002,
+      "winner": "Andrei Konchalovsky"
+    },
+    {
+      "id": "venice-grand-jury-prize-2003-the-kite-43",
+      "mediaType": "movie",
+      "title": "The Kite",
+      "releaseDate": "2003",
+      "externalIds": {
+        "letterboxd": "the-kite"
+      },
+      "awardYear": 2003,
+      "winner": "Randa Chahal"
+    },
+    {
+      "id": "venice-grand-jury-prize-2004-the-sea-inside-44",
+      "mediaType": "movie",
+      "title": "The Sea Inside",
+      "releaseDate": "2004",
+      "externalIds": {
+        "letterboxd": "the-sea-inside"
+      },
+      "awardYear": 2004,
+      "winner": "Alejandro Amenábar"
+    },
+    {
+      "id": "venice-grand-jury-prize-2005-mary-45",
+      "mediaType": "movie",
+      "title": "Mary",
+      "releaseDate": "2005",
+      "externalIds": {
+        "letterboxd": "mary"
+      },
+      "awardYear": 2005,
+      "winner": "Abel Ferrara"
+    },
+    {
+      "id": "venice-grand-jury-prize-2006-daratt-46",
+      "mediaType": "movie",
+      "title": "Daratt",
+      "releaseDate": "2006",
+      "externalIds": {
+        "letterboxd": "daratt"
+      },
+      "awardYear": 2006,
+      "winner": "Mahamat-Saleh Haroun"
+    },
+    {
+      "id": "venice-grand-jury-prize-2007-the-secret-of-the-grain-47",
+      "mediaType": "movie",
+      "title": "The Secret of the Grain",
+      "releaseDate": "2007",
+      "externalIds": {
+        "letterboxd": "the-secret-of-the-grain"
+      },
+      "awardYear": 2007,
+      "winner": "Abdellatif Kechiche"
+    },
+    {
+      "id": "venice-grand-jury-prize-2008-teza-48",
+      "mediaType": "movie",
+      "title": "Teza",
+      "releaseDate": "2008",
+      "externalIds": {
+        "letterboxd": "teza"
+      },
+      "awardYear": 2008,
+      "winner": "Haile Gerima"
+    },
+    {
+      "id": "venice-grand-jury-prize-2009-soul-kitchen-49",
+      "mediaType": "movie",
+      "title": "Soul Kitchen",
+      "releaseDate": "2009",
+      "externalIds": {
+        "letterboxd": "soul-kitchen"
+      },
+      "awardYear": 2009,
+      "winner": "Fatih Akin"
+    },
+    {
+      "id": "venice-grand-jury-prize-2010-essential-killing-50",
+      "mediaType": "movie",
+      "title": "Essential Killing",
+      "releaseDate": "2010",
+      "externalIds": {
+        "letterboxd": "essential-killing"
+      },
+      "awardYear": 2010,
+      "winner": "Jerzy Skolimowski"
+    },
+    {
+      "id": "venice-grand-jury-prize-2011-terraferma-51",
+      "mediaType": "movie",
+      "title": "Terraferma",
+      "releaseDate": "2011",
+      "externalIds": {
+        "letterboxd": "terraferma"
+      },
+      "awardYear": 2011,
+      "winner": "Emanuele Crialese"
+    },
+    {
+      "id": "venice-grand-jury-prize-2012-paradise-faith-52",
+      "mediaType": "movie",
+      "title": "Paradise: Faith",
+      "releaseDate": "2012",
+      "externalIds": {
+        "letterboxd": "paradise-faith"
+      },
+      "awardYear": 2012,
+      "winner": "Ulrich Seidl"
+    },
+    {
+      "id": "venice-grand-jury-prize-2013-stray-dogs-53",
+      "mediaType": "movie",
+      "title": "Stray Dogs",
+      "releaseDate": "2013",
+      "externalIds": {
+        "letterboxd": "stray-dogs"
+      },
+      "awardYear": 2013,
+      "winner": "Tsai Ming-liang"
+    },
+    {
+      "id": "venice-grand-jury-prize-2014-the-look-of-silence-54",
+      "mediaType": "movie",
+      "title": "The Look of Silence",
+      "releaseDate": "2014",
+      "externalIds": {
+        "letterboxd": "the-look-of-silence"
+      },
+      "awardYear": 2014,
+      "winner": "Joshua Oppenheimer"
+    },
+    {
+      "id": "venice-grand-jury-prize-2015-anomalisa-55",
+      "mediaType": "movie",
+      "title": "Anomalisa",
+      "releaseDate": "2015",
+      "externalIds": {
+        "letterboxd": "anomalisa"
+      },
+      "awardYear": 2015,
+      "winner": "Charlie Kaufman & Duke Johnson"
+    },
+    {
+      "id": "venice-grand-jury-prize-2016-nocturnal-animals-56",
+      "mediaType": "movie",
+      "title": "夜行动物",
+      "releaseDate": "2016",
+      "externalIds": {
+        "letterboxd": "nocturnal-animals"
+      },
+      "awardYear": 2016,
+      "winner": "Tom Ford",
+      "englishTitle": "Nocturnal Animals"
+    },
+    {
+      "id": "venice-grand-jury-prize-2017-foxtrot-57",
+      "mediaType": "movie",
+      "title": "狐步舞",
+      "releaseDate": "2017",
+      "externalIds": {
+        "letterboxd": "foxtrot"
+      },
+      "awardYear": 2017,
+      "winner": "Samuel Maoz",
+      "englishTitle": "Foxtrot"
+    },
+    {
+      "id": "venice-grand-jury-prize-2018-the-favourite-58",
+      "mediaType": "movie",
+      "title": "宠儿",
+      "releaseDate": "2018",
+      "externalIds": {
+        "letterboxd": "the-favourite"
+      },
+      "awardYear": 2018,
+      "winner": "Yorgos Lanthimos",
+      "englishTitle": "The Favourite"
+    },
+    {
+      "id": "venice-grand-jury-prize-2019-an-officer-and-a-spy-59",
+      "mediaType": "movie",
+      "title": "我控诉",
+      "releaseDate": "2019",
+      "externalIds": {
+        "letterboxd": "an-officer-and-a-spy"
+      },
+      "awardYear": 2019,
+      "winner": "Roman Polanski",
+      "englishTitle": "An Officer and a Spy"
+    },
+    {
+      "id": "venice-grand-jury-prize-2020-new-order-60",
+      "mediaType": "movie",
+      "title": "新秩序",
+      "releaseDate": "2020",
+      "externalIds": {
+        "letterboxd": "new-order"
+      },
+      "awardYear": 2020,
+      "winner": "Michel Franco",
+      "englishTitle": "New Order"
+    },
+    {
+      "id": "venice-grand-jury-prize-2021-the-hand-of-god-61",
+      "mediaType": "movie",
+      "title": "上帝之手",
+      "releaseDate": "2021",
+      "externalIds": {
+        "letterboxd": "the-hand-of-god"
+      },
+      "awardYear": 2021,
+      "winner": "Paolo Sorrentino",
+      "englishTitle": "The Hand of God"
+    },
+    {
+      "id": "venice-grand-jury-prize-2022-saint-omer-62",
+      "mediaType": "movie",
+      "title": "圣奥梅尔",
+      "releaseDate": "2022",
+      "externalIds": {
+        "letterboxd": "saint-omer"
+      },
+      "awardYear": 2022,
+      "winner": "Alice Diop",
+      "englishTitle": "Saint Omer"
+    },
+    {
+      "id": "venice-grand-jury-prize-2023-evil-does-not-exist-63",
+      "mediaType": "movie",
+      "title": "邪恶不存在",
+      "releaseDate": "2023",
+      "externalIds": {
+        "letterboxd": "evil-does-not-exist"
+      },
+      "awardYear": 2023,
+      "winner": "Ryusuke Hamaguchi",
+      "englishTitle": "Evil Does Not Exist"
+    },
+    {
+      "id": "venice-grand-jury-prize-2024-vermiglio-64",
+      "mediaType": "movie",
+      "title": "山区新娘",
+      "releaseDate": "2024",
+      "externalIds": {
+        "letterboxd": "vermiglio"
+      },
+      "awardYear": 2024,
+      "winner": "Maura Delpero",
+      "englishTitle": "Vermiglio"
+    },
+    {
+      "id": "venice-grand-jury-prize-2025-the-voice-of-hind-rajab-65",
+      "mediaType": "movie",
+      "title": "欣德·拉贾布之声",
+      "releaseDate": "2025",
+      "externalIds": {
+        "letterboxd": "the-voice-of-hind-rajab"
+      },
+      "awardYear": 2025,
+      "winner": "Kaouther Ben Hania",
+      "englishTitle": "The Voice of Hind Rajab"
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "title": "威尼斯奖项",
+  "description": "威尼斯电影节各奖项完整获奖名单。1969–1979 年停颁竞赛奖项。",
+  "tags": [
+    "venice",
+    "award",
+    "prize"
+  ],
+  "icon": "ticket",
+  "sections": [
+    {
+      "title": "威尼斯 — 金狮奖",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "carousel",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "venice-golden-lion.list.json"
+        }
+      ],
+      "limit": 10
+    },
+    {
+      "title": "威尼斯 — 银狮奖·评审团大奖",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "venice-grand-jury-prize.list.json"
+        }
+      ],
+      "limit": 10
+    },
+    {
+      "title": "威尼斯 — 银狮奖·最佳导演",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "venice-best-director.list.json"
+        }
+      ],
+      "limit": 10
+    },
+    {
+      "title": "威尼斯 — 沃尔皮杯·最佳女演员",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "venice-best-actress.list.json"
+        }
+      ],
+      "limit": 10
+    },
+    {
+      "title": "威尼斯 — 沃尔皮杯·最佳男演员",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "venice-best-actor.list.json"
+        }
+      ],
+      "limit": 10
+    },
+    {
+      "title": "威尼斯 — 最佳编剧奖",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "venice-best-screenplay.list.json"
+        }
+      ],
+      "limit": 10
+    },
+    {
+      "title": "威尼斯 — 评审团特别奖",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "venice-special-jury-prize.list.json"
+        }
+      ],
+      "limit": 10
+    },
+    {
+      "title": "威尼斯 — 马塞洛·马斯楚安尼奖",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "venice-mastroianni.list.json"
+        }
+      ],
+      "limit": 10
+    }
+  ]
+}

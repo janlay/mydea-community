@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "title": "香港電影金像獎 2026 年得獎名單",
+  "description": "第44屆香港電影金像獎主要獎項得獎作品。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "hkfa-2026-best-film-14241008",
+      "mediaType": "movie",
+      "title": "再見UFO",
+      "awardYear": 2026,
+      "winner": "《再見UFO》",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt14241008"
+      },
+      "award": "最佳電影",
+      "awardOrder": 1
+    },
+    {
+      "id": "hkfa-2026-best-director-14241008",
+      "mediaType": "movie",
+      "title": "再見UFO",
+      "awardYear": 2026,
+      "winner": "梁栢堅",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt14241008"
+      },
+      "award": "最佳導演",
+      "awardOrder": 2
+    },
+    {
+      "id": "hkfa-2026-best-screenplay-14241008",
+      "mediaType": "movie",
+      "title": "再見UFO",
+      "awardYear": 2026,
+      "winner": "江皓昕、錢小蕙",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt14241008"
+      },
+      "award": "最佳編劇",
+      "awardOrder": 3
+    },
+    {
+      "id": "hkfa-2026-best-actor-34610311",
+      "mediaType": "movie",
+      "title": "捕風追影",
+      "awardYear": 2026,
+      "winner": "梁家輝",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt34610311"
+      },
+      "award": "最佳男主角",
+      "awardOrder": 4
+    },
+    {
+      "id": "hkfa-2026-best-actress-36217308",
+      "mediaType": "movie",
+      "title": "像我這樣的愛情",
+      "awardYear": 2026,
+      "winner": "廖子妤",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt36217308"
+      },
+      "award": "最佳女主角",
+      "awardOrder": 5
+    },
+    {
+      "id": "hkfa-2026-best-supporting-actor-4968738",
+      "mediaType": "movie",
+      "title": "風林火山",
+      "awardYear": 2026,
+      "winner": "杜德偉",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt4968738"
+      },
+      "award": "最佳男配角",
+      "awardOrder": 6
+    },
+    {
+      "id": "hkfa-2026-best-supporting-actress-14241008",
+      "mediaType": "movie",
+      "title": "再見UFO",
+      "awardYear": 2026,
+      "winner": "衛詩雅",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt14241008"
+      },
+      "award": "最佳女配角",
+      "awardOrder": 7
+    },
+    {
+      "id": "hkfa-2026-best-new-performer-35683790",
+      "mediaType": "movie",
+      "title": "女孩不平凡",
+      "awardYear": 2026,
+      "winner": "鄧濤",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt35683790"
+      },
+      "award": "最佳新演員",
+      "awardOrder": 8
+    }
+  ]
+}

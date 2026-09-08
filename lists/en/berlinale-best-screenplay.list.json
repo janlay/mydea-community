@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:30:00Z",
+  "title": "Berlinale — Silver Bear for Best Screenplay",
+  "description": "Complete historical winners of the Berlinale Silver Bear for Best Screenplay.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "berlinale-best-screenplay-2008-in-love-we-trust",
+      "mediaType": "movie",
+      "title": "In Love We Trust",
+      "awardYear": 2008,
+      "winner": "Wang Xiaoshuai",
+      "releaseDate": "2008",
+      "externalIds": {
+        "letterboxd": "in-love-we-trust"
+      }
+    },
+    {
+      "id": "berlinale-best-screenplay-2009-the-messenger",
+      "mediaType": "movie",
+      "title": "The Messenger",
+      "awardYear": 2009,
+      "winner": "Oren Moverman & Alessandro Camon",
+      "releaseDate": "2009",
+      "externalIds": {
+        "letterboxd": "the-messenger"
+      }
+    },
+    {
+      "id": "berlinale-best-screenplay-2010-apart-together",
+      "mediaType": "movie",
+      "title": "Apart Together",
+      "awardYear": 2010,
+      "winner": "Wang Quan'an & Jin Na",
+      "releaseDate": "2010",
+      "externalIds": {
+        "letterboxd": "apart-together"
+      }
+    },
+    {
+      "id": "berlinale-best-screenplay-2011-the-forgiveness-of-blood",
+      "mediaType": "movie",
+      "title": "The Forgiveness of Blood",
+      "awardYear": 2011,
+      "winner": "Joshua Marston & Andamion Murataj",
+      "releaseDate": "2011",
+      "externalIds": {
+        "letterboxd": "the-forgiveness-of-blood"
+      }
+    },
+    {
+      "id": "berlinale-best-screenplay-2012-a-royal-affair",
+      "mediaType": "movie",
+      "title": "A Royal Affair",
+      "awardYear": 2012,
+      "winner": "Nikolaj Arcel & Rasmus Heisterberg",
+      "releaseDate": "2012",
+      "externalIds": {
+        "letterboxd": "a-royal-affair"
+      }
+    },
+    {
+      "id": "berlinale-best-screenplay-2013-closed-curtain",
+      "mediaType": "movie",
+      "title": "Closed Curtain",
+      "awardYear": 2013,
+      "winner": "Jafar Panahi",
+      "releaseDate": "2013",
+      "externalIds": {
+        "letterboxd": "closed-curtain"
+      }
+    },
+    {
+      "id": "berlinale-best-screenplay-2014-stations-of-the-cross",
+      "mediaType": "movie",
+      "title": "Stations of the Cross",
+      "awardYear": 2014,
+      "winner": "Dietrich Brüggemann & Anna Brüggemann",
+      "releaseDate": "2014",
+      "externalIds": {
+        "letterboxd": "stations-of-the-cross"
+      }
+    },
+    {
+      "id": "berlinale-best-screenplay-2015-the-pearl-button",
+      "mediaType": "movie",
+      "title": "The Pearl Button",
+      "awardYear": 2015,
+      "winner": "Patricio Guzmán",
+      "releaseDate": "2015",
+      "externalIds": {
+        "letterboxd": "the-pearl-button"
+      }
+    },
+    {
+      "id": "berlinale-best-screenplay-2016-united-states-of-love",
+      "mediaType": "movie",
+      "title": "United States of Love",
+      "awardYear": 2016,
+      "winner": "Tomasz Wasilewski",
+      "releaseDate": "2016",
+      "externalIds": {
+        "letterboxd": "united-states-of-love"
+      }
+    },
+    {
+      "id": "berlinale-best-screenplay-2017-a-fantastic-woman",
+      "mediaType": "movie",
+      "title": "A Fantastic Woman",
+      "awardYear": 2017,
+      "winner": "Sebastián Lelio & Gonzalo Maza",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5639354"
+      },
+      "backdropPath": "https://image.tmdb.org/t/p/w342/A3RYhmb5TUlZlaIOzpkcP1VwRGl.jpg"
+    },
+    {
+      "id": "berlinale-best-screenplay-2018-museum",
+      "mediaType": "movie",
+      "title": "Museo",
+      "awardYear": 2018,
+      "winner": "Manuel Alcalá & Alonso Ruizpalacios",
+      "releaseDate": "2018",
+      "externalIds": {
+        "letterboxd": "museum"
+      }
+    },
+    {
+      "id": "berlinale-best-screenplay-2019-piranhas",
+      "mediaType": "movie",
+      "title": "Piranhas",
+      "awardYear": 2019,
+      "winner": "Maurizio Braucci, Claudio Giovannesi & Roberto Saviano",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt8740778"
+      }
+    },
+    {
+      "id": "berlinale-best-screenplay-2020-bad-tales",
+      "mediaType": "movie",
+      "title": "Bad Tales",
+      "awardYear": 2020,
+      "winner": "Damiano D'Innocenzo & Fabio D'Innocenzo",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt8526370"
+      }
+    },
+    {
+      "id": "berlinale-best-screenplay-2021-introduction",
+      "mediaType": "movie",
+      "title": "Introduction",
+      "awardYear": 2021,
+      "winner": "Hong Sangsoo",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14035108"
+      }
+    },
+    {
+      "id": "berlinale-best-screenplay-2022-rabiye-kurnaz-vs-george-w-bush",
+      "mediaType": "movie",
+      "title": "Rabiye Kurnaz vs. George W. Bush",
+      "awardYear": 2022,
+      "winner": "Laila Stieler",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt13471738"
+      }
+    },
+    {
+      "id": "berlinale-best-screenplay-2023-music",
+      "mediaType": "movie",
+      "title": "Music",
+      "awardYear": 2023,
+      "winner": "Angela Schanelec",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt15547924"
+      }
+    },
+    {
+      "id": "berlinale-best-screenplay-2024-dying",
+      "mediaType": "movie",
+      "title": "Dying",
+      "awardYear": 2024,
+      "winner": "Matthias Glasner",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt27196021"
+      }
+    },
+    {
+      "id": "berlinale-best-screenplay-2025-kontinental-25",
+      "mediaType": "movie",
+      "title": "Kontinental '25",
+      "awardYear": 2025,
+      "winner": "Radu Jude",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt35492581"
+      }
+    },
+    {
+      "id": "berlinale-best-screenplay-2026-nina-roza",
+      "mediaType": "movie",
+      "title": "Nina Roza",
+      "awardYear": 2026,
+      "winner": "Geneviève Dulude-De Celles",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt29271639"
+      }
+    }
+  ]
+}

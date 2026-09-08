@@ -1,0 +1,166 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "title": "金像獎項",
+  "description": "香港電影金像獎各獎項完整得獎名單。2021 年順延併入 2022 年舉行。",
+  "tags": [
+    "hong-kong",
+    "award",
+    "prize"
+  ],
+  "icon": "ticket",
+  "sections": [
+    {
+      "title": "香港電影金像獎 — 最佳電影",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "carousel",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "hkfa-best-film.list.json"
+        }
+      ]
+    },
+    {
+      "title": "香港電影金像獎 — 最佳導演",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "hkfa-best-director.list.json"
+        }
+      ]
+    },
+    {
+      "title": "香港電影金像獎 — 最佳編劇",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "hkfa-best-screenplay.list.json"
+        }
+      ]
+    },
+    {
+      "title": "香港電影金像獎 — 最佳男主角",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "hkfa-best-actor.list.json"
+        }
+      ]
+    },
+    {
+      "title": "香港電影金像獎 — 最佳女主角",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "hkfa-best-actress.list.json"
+        }
+      ]
+    },
+    {
+      "title": "香港電影金像獎 — 最佳男配角",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "hkfa-best-supporting-actor.list.json"
+        }
+      ]
+    },
+    {
+      "title": "香港電影金像獎 — 最佳女配角",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "hkfa-best-supporting-actress.list.json"
+        }
+      ]
+    },
+    {
+      "title": "香港電影金像獎 — 最佳新演員",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "hkfa-best-new-performer.list.json"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "title": "Venice Prizes",
+  "description": "Winners of every Venice competition award. No awards were given from 1969 to 1979.",
+  "tags": [
+    "venice",
+    "award",
+    "prize"
+  ],
+  "icon": "ticket",
+  "sections": [
+    {
+      "title": "Venice — Golden Lion",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "carousel",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "venice-golden-lion.list.json"
+        }
+      ],
+      "limit": 10
+    },
+    {
+      "title": "Venice — Silver Lion – Grand Jury Prize",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "venice-grand-jury-prize.list.json"
+        }
+      ],
+      "limit": 10
+    },
+    {
+      "title": "Venice — Silver Lion – Best Director",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "venice-best-director.list.json"
+        }
+      ],
+      "limit": 10
+    },
+    {
+      "title": "Venice — Volpi Cup for Best Actress",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "venice-best-actress.list.json"
+        }
+      ],
+      "limit": 10
+    },
+    {
+      "title": "Venice — Volpi Cup for Best Actor",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "venice-best-actor.list.json"
+        }
+      ],
+      "limit": 10
+    },
+    {
+      "title": "Venice — Best Screenplay",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "venice-best-screenplay.list.json"
+        }
+      ],
+      "limit": 10
+    },
+    {
+      "title": "Venice — Special Jury Prize",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "venice-special-jury-prize.list.json"
+        }
+      ],
+      "limit": 10
+    },
+    {
+      "title": "Venice — Marcello Mastroianni Award",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "venice-mastroianni.list.json"
+        }
+      ],
+      "limit": 10
+    }
+  ]
+}

@@ -1,0 +1,297 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-08T11:52:00Z",
+  "title": "Cannes Film Festival 2023 Awards",
+  "description": "Official film-linked awards from the 76th Festival de Cannes, covering Competition, Short Films, Un Certain Regard, Caméra d'Or, La Cinef and CST technical prizes.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "cannes-2023-palme-d-or-anatomy-of-a-fall",
+      "mediaType": "movie",
+      "title": "Anatomy of a Fall",
+      "award": "Palme d'Or",
+      "awardYear": 2023,
+      "awardOrder": 1,
+      "winner": "Justine Triet",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt17009710"
+      }
+    },
+    {
+      "id": "cannes-2023-grand-prix-the-zone-of-interest",
+      "mediaType": "movie",
+      "title": "The Zone of Interest",
+      "award": "Grand Prix",
+      "awardYear": 2023,
+      "awardOrder": 2,
+      "winner": "Jonathan Glazer",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt7160372"
+      }
+    },
+    {
+      "id": "cannes-2023-best-director-prize-the-taste-of-things",
+      "mediaType": "movie",
+      "title": "The Taste of Things",
+      "award": "Best Director Prize",
+      "awardYear": 2023,
+      "awardOrder": 3,
+      "winner": "Trần Anh Hùng",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt19760052"
+      }
+    },
+    {
+      "id": "cannes-2023-jury-prize-fallen-leaves",
+      "mediaType": "movie",
+      "title": "Fallen Leaves",
+      "award": "Jury Prize",
+      "awardYear": 2023,
+      "awardOrder": 4,
+      "winner": "Aki Kaurismäki",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt21027780"
+      }
+    },
+    {
+      "id": "cannes-2023-best-screenplay-monster",
+      "mediaType": "movie",
+      "title": "Monster",
+      "award": "Best Screenplay",
+      "awardYear": 2023,
+      "awardOrder": 5,
+      "winner": "Yuji Sakamoto",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt23736044"
+      }
+    },
+    {
+      "id": "cannes-2023-best-performance-for-an-actress-about-dry-grasses",
+      "mediaType": "movie",
+      "title": "About Dry Grasses",
+      "award": "Best Performance for an Actress",
+      "awardYear": 2023,
+      "awardOrder": 6,
+      "winner": "Merve Dizdar",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt13231544"
+      }
+    },
+    {
+      "id": "cannes-2023-best-performance-for-an-actor-perfect-days",
+      "mediaType": "movie",
+      "title": "Perfect Days",
+      "award": "Best Performance for an Actor",
+      "awardYear": 2023,
+      "awardOrder": 7,
+      "winner": "Koji Yakusho",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt27503384"
+      }
+    },
+    {
+      "id": "cannes-2023-cst-artist-technician-prize-the-zone-of-interest",
+      "mediaType": "movie",
+      "title": "The Zone of Interest",
+      "award": "CST Artist-Technician Prize",
+      "awardYear": 2023,
+      "awardOrder": 8,
+      "winner": "Johnnie Burn",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt7160372"
+      }
+    },
+    {
+      "id": "cannes-2023-cst-award-for-best-young-female-film-technician-marguerite-s-theorem",
+      "mediaType": "movie",
+      "title": "Marguerite's Theorem",
+      "award": "CST Award for Best Young Female Film Technician",
+      "awardYear": 2023,
+      "awardOrder": 9,
+      "winner": "Anne-Sophie Delseries",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt26699529"
+      }
+    },
+    {
+      "id": "cannes-2023-short-film-palme-d-or-27",
+      "mediaType": "movie",
+      "title": "27",
+      "award": "Short Film Palme d'Or",
+      "awardYear": 2023,
+      "awardOrder": 10,
+      "winner": "Flóra Anna Buda",
+      "releaseDate": "2023",
+      "externalIds": {
+        "letterboxd": "27-2023"
+      }
+    },
+    {
+      "id": "cannes-2023-short-film-special-distinction-f-r",
+      "mediaType": "movie",
+      "title": "Fár",
+      "award": "Short Film Special Distinction",
+      "awardYear": 2023,
+      "awardOrder": 11,
+      "winner": "Gunnur Martinsdóttir Schlüter",
+      "releaseDate": "2023",
+      "externalIds": {
+        "letterboxd": "far-2023"
+      }
+    },
+    {
+      "id": "cannes-2023-un-certain-regard-prize-how-to-have-sex",
+      "mediaType": "movie",
+      "title": "How to Have Sex",
+      "award": "Un Certain Regard Prize",
+      "awardYear": 2023,
+      "awardOrder": 12,
+      "winner": "Molly Manning Walker",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt22890246"
+      }
+    },
+    {
+      "id": "cannes-2023-un-certain-regard-new-voice-prize-omen",
+      "mediaType": "movie",
+      "title": "Omen",
+      "award": "Un Certain Regard New Voice Prize",
+      "awardYear": 2023,
+      "awardOrder": 13,
+      "winner": "Baloji",
+      "releaseDate": "2023",
+      "externalIds": {
+        "letterboxd": "omen-2023"
+      }
+    },
+    {
+      "id": "cannes-2023-un-certain-regard-ensemble-prize-the-buriti-flower",
+      "mediaType": "movie",
+      "title": "The Buriti Flower",
+      "award": "Un Certain Regard Ensemble Prize",
+      "awardYear": 2023,
+      "awardOrder": 14,
+      "winner": "João Salaviza & Renée Nader Messora",
+      "releaseDate": "2023",
+      "externalIds": {
+        "letterboxd": "the-buriti-flower"
+      }
+    },
+    {
+      "id": "cannes-2023-un-certain-regard-freedom-prize-goodbye-julia",
+      "mediaType": "movie",
+      "title": "Goodbye Julia",
+      "award": "Un Certain Regard Freedom Prize",
+      "awardYear": 2023,
+      "awardOrder": 15,
+      "winner": "Mohamed Kordofani",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt14330672"
+      }
+    },
+    {
+      "id": "cannes-2023-un-certain-regard-best-directing-the-mother-of-all-lies",
+      "mediaType": "movie",
+      "title": "The Mother of All Lies",
+      "award": "Un Certain Regard Best Directing",
+      "awardYear": 2023,
+      "awardOrder": 16,
+      "winner": "Asmae El Moudir",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt15307068"
+      }
+    },
+    {
+      "id": "cannes-2023-un-certain-regard-jury-prize-hounds",
+      "mediaType": "movie",
+      "title": "Hounds",
+      "award": "Un Certain Regard Jury Prize",
+      "awardYear": 2023,
+      "awardOrder": 17,
+      "winner": "Kamal Lazraq",
+      "releaseDate": "2023",
+      "externalIds": {
+        "letterboxd": "hounds-2023"
+      }
+    },
+    {
+      "id": "cannes-2023-cam-ra-d-or-inside-the-yellow-cocoon-shell",
+      "mediaType": "movie",
+      "title": "Inside the Yellow Cocoon Shell",
+      "award": "Caméra d'Or",
+      "awardYear": 2023,
+      "awardOrder": 18,
+      "winner": "Phạm Thiên Ân",
+      "releaseDate": "2023",
+      "externalIds": {
+        "letterboxd": "inside-the-yellow-cocoon-shell"
+      }
+    },
+    {
+      "id": "cannes-2023-la-cinef-first-prize-norwegian-offspring",
+      "mediaType": "movie",
+      "title": "Norwegian Offspring",
+      "award": "La Cinef First Prize",
+      "awardYear": 2023,
+      "awardOrder": 19,
+      "winner": "Marlene Emilie Lyngstad",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt27604407"
+      }
+    },
+    {
+      "id": "cannes-2023-la-cinef-second-prize-hole",
+      "mediaType": "movie",
+      "title": "Hole",
+      "award": "La Cinef Second Prize",
+      "awardYear": 2023,
+      "awardOrder": 20,
+      "winner": "Hwang Hyein",
+      "releaseDate": "2023",
+      "externalIds": {
+        "letterboxd": "hole-2023"
+      }
+    },
+    {
+      "id": "cannes-2023-la-cinef-third-prize-ayyur",
+      "mediaType": "movie",
+      "title": "Ayyur",
+      "award": "La Cinef Third Prize",
+      "awardYear": 2023,
+      "awardOrder": 21,
+      "winner": "Zineb Wakrim",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt27683614"
+      }
+    }
+  ]
+}

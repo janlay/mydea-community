@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "title": "柏林奖项",
+  "description": "柏林电影节各奖项完整获奖名单。1970 年未颁奖。",
+  "tags": [
+    "berlin",
+    "award",
+    "prize"
+  ],
+  "icon": "ticket",
+  "sections": [
+    {
+      "title": "柏林 — 金熊奖",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "berlinale-golden-bear.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "carousel"
+    },
+    {
+      "title": "柏林 — 评审团大奖",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "berlinale-grand-jury-prize.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid"
+    },
+    {
+      "title": "柏林 — 评审团奖",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "berlinale-jury-prize.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid"
+    },
+    {
+      "title": "柏林 — 最佳导演银熊奖",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "berlinale-best-director.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid"
+    },
+    {
+      "title": "柏林 — 最佳编剧银熊奖",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "berlinale-best-screenplay.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid"
+    },
+    {
+      "title": "柏林 — 杰出艺术贡献银熊奖",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "berlinale-outstanding-artistic-contribution.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid"
+    },
+    {
+      "title": "柏林 — 最佳主角银熊奖",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "berlinale-best-leading-performance.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid"
+    },
+    {
+      "title": "柏林 — 最佳配角银熊奖",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "berlinale-best-supporting-performance.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid"
+    },
+    {
+      "title": "柏林 — 最佳女演员银熊奖（历史）",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "berlinale-best-actress.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid"
+    },
+    {
+      "title": "柏林 — 最佳男演员银熊奖（历史）",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "berlinale-best-actor.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid"
+    },
+    {
+      "title": "柏林 — 阿尔弗雷德·鲍尔奖（历史）",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "berlinale-alfred-bauer-prize.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid"
+    },
+    {
+      "title": "柏林 — 第70届柏林电影节银熊奖",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "berlinale-70th-silver-bear.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid"
+    }
+  ]
+}

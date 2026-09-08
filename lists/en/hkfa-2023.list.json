@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "title": "Hong Kong Film Awards 2023 Winners",
+  "description": "Winning films and filmmakers of the 2023 Hong Kong Film Awards.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "hkfa-2023-best-film-21867610",
+      "mediaType": "movie",
+      "title": "To My Nineteen-Year-Old Self",
+      "awardYear": 2023,
+      "winner": "To My Nineteen-Year-Old Self",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt21867610"
+      },
+      "award": "Best Film",
+      "awardOrder": 1,
+      "originalTitle": "給十九歲的我"
+    },
+    {
+      "id": "hkfa-2023-best-director-10283270",
+      "mediaType": "movie",
+      "title": "神探大戰",
+      "awardYear": 2023,
+      "winner": "韋家輝",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt10283270"
+      },
+      "award": "Best Director",
+      "awardOrder": 2
+    },
+    {
+      "id": "hkfa-2023-best-screenplay-10283270",
+      "mediaType": "movie",
+      "title": "神探大戰",
+      "awardYear": 2023,
+      "winner": "韋家輝、陳偉斌、麥天樞",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt10283270"
+      },
+      "award": "Best Screenplay",
+      "awardOrder": 3
+    },
+    {
+      "id": "hkfa-2023-best-actor-10283270",
+      "mediaType": "movie",
+      "title": "神探大戰",
+      "awardYear": 2023,
+      "winner": "劉青雲",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt10283270"
+      },
+      "award": "Best Actor",
+      "awardOrder": 4
+    },
+    {
+      "id": "hkfa-2023-best-actress-22397894",
+      "mediaType": "movie",
+      "title": "流水落花",
+      "awardYear": 2023,
+      "winner": "鄭秀文",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt22397894"
+      },
+      "award": "Best Actress",
+      "awardOrder": 5
+    },
+    {
+      "id": "hkfa-2023-best-supporting-actor-6902394",
+      "mediaType": "movie",
+      "title": "風再起時",
+      "awardYear": 2023,
+      "winner": "許冠文",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt6902394"
+      },
+      "award": "Best Supporting Actor",
+      "awardOrder": 6
+    },
+    {
+      "id": "hkfa-2023-best-supporting-actress-21187542",
+      "mediaType": "movie",
+      "title": "飯戲攻心",
+      "awardYear": 2023,
+      "winner": "王菀之",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt21187542"
+      },
+      "award": "Best Supporting Actress",
+      "awardOrder": 7
+    },
+    {
+      "id": "hkfa-2023-best-new-performer-18280126",
+      "mediaType": "movie",
+      "title": "白日青春",
+      "awardYear": 2023,
+      "winner": "林諾",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt18280126"
+      },
+      "award": "Best New Performer",
+      "awardOrder": 8
+    }
+  ]
+}

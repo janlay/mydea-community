@@ -1,0 +1,20 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://mydea.app/community/catalog.schema.json",
+  "title": "Mydea Community Catalog",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["id", "title", "description", "digest", "path"],
+    "properties": {
+      "id": {"type": "string", "pattern": "^[a-z0-9][a-z0-9-]*$"},
+      "title": {"type": "string"}, "description": {"type": "string"},
+      "tags": {"type": "array", "items": {"type": "string"}, "uniqueItems": true},
+      "digest": {"type": "string", "pattern": "^sha256:[0-9a-f]{64}$", "description": "Change token: the SHA-256 of the file's UTF-8 bytes. Consumers compare it to decide what to re-download; it pins nothing."},
+      "featured": {"type": "boolean"},
+      "path": {"type": "string"},
+      "pullRequest": {"type": "integer", "minimum": 1}
+    },
+    "additionalProperties": false
+  }
+}

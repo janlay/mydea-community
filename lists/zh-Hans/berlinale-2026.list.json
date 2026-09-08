@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:30:00Z",
+  "title": "柏林电影节 2026 年获奖名单",
+  "description": "柏林国际电影节 2026 年主竞赛国际评审团主要奖项获奖影片。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "berlinale-2026-golden-bear-yellow-letters",
+      "mediaType": "movie",
+      "title": "Yellow Letters",
+      "award": "金熊奖",
+      "awardYear": 2026,
+      "awardOrder": 1,
+      "winner": "İlker Çatak",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt32888226"
+      }
+    },
+    {
+      "id": "berlinale-2026-grand-jury-salvation",
+      "mediaType": "movie",
+      "title": "Salvation",
+      "award": "评审团大奖",
+      "awardYear": 2026,
+      "awardOrder": 2,
+      "winner": "Emin Alper",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt36472181"
+      }
+    },
+    {
+      "id": "berlinale-2026-jury-prize-queen-at-sea",
+      "mediaType": "movie",
+      "title": "Queen at Sea",
+      "award": "评审团奖",
+      "awardYear": 2026,
+      "awardOrder": 3,
+      "winner": "Lance Hammer",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt27541205"
+      }
+    },
+    {
+      "id": "berlinale-2026-best-director-everybody-digs-bill-evans",
+      "mediaType": "movie",
+      "title": "Everybody Digs Bill Evans",
+      "award": "最佳导演银熊奖",
+      "awardYear": 2026,
+      "awardOrder": 4,
+      "winner": "Grant Gee",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt34347792"
+      }
+    },
+    {
+      "id": "berlinale-2026-leading-performance-rose",
+      "mediaType": "movie",
+      "title": "Rose",
+      "award": "最佳主角银熊奖",
+      "awardYear": 2026,
+      "awardOrder": 5,
+      "winner": "Sandra Hüller",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt25399154"
+      }
+    },
+    {
+      "id": "berlinale-2026-supporting-performance-queen-at-sea",
+      "mediaType": "movie",
+      "title": "Queen at Sea",
+      "award": "最佳配角银熊奖",
+      "awardYear": 2026,
+      "awardOrder": 6,
+      "winner": "Anna Calder-Marshall & Tom Courtenay",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt27541205"
+      }
+    },
+    {
+      "id": "berlinale-2026-best-screenplay-nina-roza",
+      "mediaType": "movie",
+      "title": "Nina Roza",
+      "award": "最佳编剧银熊奖",
+      "awardYear": 2026,
+      "awardOrder": 7,
+      "winner": "Geneviève Dulude-de Celles",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt29271639"
+      }
+    },
+    {
+      "id": "berlinale-2026-artistic-contribution-yo-love-is-a-rebellious-bird",
+      "mediaType": "movie",
+      "title": "Yo (Love Is a Rebellious Bird)",
+      "award": "杰出艺术贡献银熊奖",
+      "awardYear": 2026,
+      "awardOrder": 8,
+      "winner": "Anna Fitch & Banker White",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt39382829"
+      }
+    }
+  ]
+}

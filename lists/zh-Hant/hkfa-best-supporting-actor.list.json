@@ -1,0 +1,471 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:07:00Z",
+  "title": "香港電影金像獎 — 最佳男配角",
+  "description": "香港電影金像獎歷屆最佳男配角得獎記錄。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "hkfa-best-supporting-actor-1985-hkfa-film",
+      "mediaType": "movie",
+      "title": "省港旗兵",
+      "releaseDate": "1984",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 1985,
+      "winner": "沈威"
+    },
+    {
+      "id": "hkfa-best-supporting-actor-1986-hkfa-film",
+      "mediaType": "movie",
+      "title": "皇家師姐",
+      "releaseDate": "1985",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 1986,
+      "winner": "孟海"
+    },
+    {
+      "id": "hkfa-best-supporting-actor-1987-hkfa-film",
+      "mediaType": "movie",
+      "title": "癲佬正傳",
+      "releaseDate": "1986",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 1987,
+      "winner": "秦沛"
+    },
+    {
+      "id": "hkfa-best-supporting-actor-1988-hkfa-film",
+      "mediaType": "movie",
+      "title": "人民英雄",
+      "releaseDate": "1987",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 1988,
+      "winner": "梁朝偉"
+    },
+    {
+      "id": "hkfa-best-supporting-actor-1989-hkfa-film",
+      "mediaType": "movie",
+      "title": "旺角卡門",
+      "releaseDate": "1988",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 1989,
+      "winner": "張學友"
+    },
+    {
+      "id": "hkfa-best-supporting-actor-1990-hkfa-film",
+      "mediaType": "movie",
+      "title": "殺手蝴蝶夢",
+      "releaseDate": "1989",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 1990,
+      "winner": "梁朝偉"
+    },
+    {
+      "id": "hkfa-best-supporting-actor-1991-hkfa-film",
+      "mediaType": "movie",
+      "title": "天若有情",
+      "releaseDate": "1990",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 1991,
+      "winner": "吳孟達"
+    },
+    {
+      "id": "hkfa-best-supporting-actor-1992-hkfa-film",
+      "mediaType": "movie",
+      "title": "五億探長雷洛傳",
+      "releaseDate": "1991",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 1992,
+      "winner": "關海山"
+    },
+    {
+      "id": "hkfa-best-supporting-actor-1993-hkfa-film",
+      "mediaType": "movie",
+      "title": "籠民",
+      "releaseDate": "1992",
+      "externalIds": {
+        "imdb": "tt0108656"
+      },
+      "awardYear": 1993,
+      "winner": "廖啟智"
+    },
+    {
+      "id": "hkfa-best-supporting-actor-1994-hkfa-film",
+      "mediaType": "movie",
+      "title": "新不了情",
+      "releaseDate": "1993",
+      "externalIds": {
+        "imdb": "tt0111770"
+      },
+      "awardYear": 1994,
+      "winner": "秦沛"
+    },
+    {
+      "id": "hkfa-best-supporting-actor-1995-hkfa-film",
+      "mediaType": "movie",
+      "title": "晚九朝五",
+      "releaseDate": "1994",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 1995,
+      "winner": "陳小春"
+    },
+    {
+      "id": "hkfa-best-supporting-actor-1996-hkfa-film",
+      "mediaType": "movie",
+      "title": "女人四十",
+      "releaseDate": "1995",
+      "externalIds": {
+        "imdb": "tt0111739"
+      },
+      "awardYear": 1996,
+      "winner": "羅家英"
+    },
+    {
+      "id": "hkfa-best-supporting-actor-1997-hkfa-film",
+      "mediaType": "movie",
+      "title": "甜蜜蜜",
+      "releaseDate": "1996",
+      "externalIds": {
+        "imdb": "tt0117905"
+      },
+      "awardYear": 1997,
+      "winner": "曾志偉"
+    },
+    {
+      "id": "hkfa-best-supporting-actor-1998-hkfa-film",
+      "mediaType": "movie",
+      "title": "宋家皇朝",
+      "releaseDate": "1997",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 1998,
+      "winner": "姜文"
+    },
+    {
+      "id": "hkfa-best-supporting-actor-1999-hkfa-film",
+      "mediaType": "movie",
+      "title": "野獸刑警",
+      "releaseDate": "1998",
+      "externalIds": {
+        "imdb": "tt0157366"
+      },
+      "awardYear": 1999,
+      "winner": "譚耀文"
+    },
+    {
+      "id": "hkfa-best-supporting-actor-2000-hkfa-film",
+      "mediaType": "movie",
+      "title": "流星語",
+      "releaseDate": "1999",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 2000,
+      "winner": "狄龍"
+    },
+    {
+      "id": "hkfa-best-supporting-actor-2001-2000",
+      "mediaType": "movie",
+      "title": "公元2000",
+      "releaseDate": "2000",
+      "externalIds": {
+        "letterboxd": "2000"
+      },
+      "awardYear": 2001,
+      "winner": "吳鎮宇"
+    },
+    {
+      "id": "hkfa-best-supporting-actor-2002-hkfa-film",
+      "mediaType": "movie",
+      "title": "少林足球",
+      "releaseDate": "2001",
+      "externalIds": {
+        "imdb": "tt0286112"
+      },
+      "awardYear": 2002,
+      "winner": "黃一飛"
+    },
+    {
+      "id": "hkfa-best-supporting-actor-2003-hkfa-film",
+      "mediaType": "movie",
+      "title": "無間道",
+      "releaseDate": "2002",
+      "externalIds": {
+        "imdb": "tt0338564"
+      },
+      "awardYear": 2003,
+      "winner": "黃秋生"
+    },
+    {
+      "id": "hkfa-best-supporting-actor-2004-hkfa-film",
+      "mediaType": "movie",
+      "title": "大丈夫",
+      "releaseDate": "2003",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 2004,
+      "winner": "梁家輝"
+    },
+    {
+      "id": "hkfa-best-supporting-actor-2005-hkfa-film",
+      "mediaType": "movie",
+      "title": "功夫",
+      "releaseDate": "2004",
+      "externalIds": {
+        "imdb": "tt0373074"
+      },
+      "awardYear": 2005,
+      "winner": "元華"
+    },
+    {
+      "id": "hkfa-best-supporting-actor-2006-d",
+      "mediaType": "movie",
+      "title": "頭文字D",
+      "releaseDate": "2005",
+      "externalIds": {
+        "letterboxd": "d"
+      },
+      "awardYear": 2006,
+      "winner": "黃秋生"
+    },
+    {
+      "id": "hkfa-best-supporting-actor-2007-hkfa-film",
+      "mediaType": "movie",
+      "title": "父子",
+      "releaseDate": "2006",
+      "externalIds": {
+        "imdb": "tt0768114"
+      },
+      "awardYear": 2007,
+      "winner": "吳澋滔"
+    },
+    {
+      "id": "hkfa-best-supporting-actor-2008-hkfa-film",
+      "mediaType": "movie",
+      "title": "門徒",
+      "releaseDate": "2007",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 2008,
+      "winner": "劉德華"
+    },
+    {
+      "id": "hkfa-best-supporting-actor-2009-hkfa-film",
+      "mediaType": "movie",
+      "title": "証人",
+      "releaseDate": "2008",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 2009,
+      "winner": "廖啟智"
+    },
+    {
+      "id": "hkfa-best-supporting-actor-2010-hkfa-film",
+      "mediaType": "movie",
+      "title": "十月圍城",
+      "releaseDate": "2009",
+      "externalIds": {
+        "imdb": "tt1403130"
+      },
+      "awardYear": 2010,
+      "winner": "謝霆鋒"
+    },
+    {
+      "id": "hkfa-best-supporting-actor-2011-hkfa-film",
+      "mediaType": "movie",
+      "title": "打擂台",
+      "releaseDate": "2010",
+      "externalIds": {
+        "imdb": "tt1611823"
+      },
+      "awardYear": 2011,
+      "winner": "泰迪羅賓"
+    },
+    {
+      "id": "hkfa-best-supporting-actor-2012-hkfa-film",
+      "mediaType": "movie",
+      "title": "奪命金",
+      "releaseDate": "2011",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 2012,
+      "winner": "盧海鵬"
+    },
+    {
+      "id": "hkfa-best-supporting-actor-2013-hkfa-film",
+      "mediaType": "movie",
+      "title": "低俗喜劇",
+      "releaseDate": "2012",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 2013,
+      "winner": "鄭中基"
+    },
+    {
+      "id": "hkfa-best-supporting-actor-2014-hkfa-film",
+      "mediaType": "movie",
+      "title": "一代宗師",
+      "releaseDate": "2013",
+      "externalIds": {
+        "imdb": "tt1462900"
+      },
+      "awardYear": 2014,
+      "winner": "張晉"
+    },
+    {
+      "id": "hkfa-best-supporting-actor-2015-3",
+      "mediaType": "movie",
+      "title": "竊聽風雲3",
+      "releaseDate": "2014",
+      "externalIds": {
+        "letterboxd": "3"
+      },
+      "awardYear": 2015,
+      "winner": "曾江"
+    },
+    {
+      "id": "hkfa-best-supporting-actor-2016-hkfa-film",
+      "mediaType": "movie",
+      "title": "踏血尋梅",
+      "releaseDate": "2015",
+      "externalIds": {
+        "imdb": "tt5148932"
+      },
+      "awardYear": 2016,
+      "winner": "白只"
+    },
+    {
+      "id": "hkfa-2017-best-supporting-actor-6041030",
+      "mediaType": "movie",
+      "title": "一念無明",
+      "awardYear": 2017,
+      "winner": "曾志偉",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt6041030"
+      }
+    },
+    {
+      "id": "hkfa-2018-best-supporting-actor-5847286",
+      "mediaType": "movie",
+      "title": "拆彈專家",
+      "awardYear": 2018,
+      "winner": "姜皓文",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5847286"
+      }
+    },
+    {
+      "id": "hkfa-2019-best-supporting-actor-7762748",
+      "mediaType": "movie",
+      "title": "翠絲",
+      "awardYear": 2019,
+      "winner": "袁富華",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7762748"
+      }
+    },
+    {
+      "id": "hkfa-2020-best-supporting-actor-10117402",
+      "mediaType": "movie",
+      "title": "麥路人",
+      "awardYear": 2020,
+      "winner": "張達明",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10117402"
+      }
+    },
+    {
+      "id": "hkfa-2022-best-supporting-actor-14892216",
+      "mediaType": "movie",
+      "title": "媽媽的神奇小子",
+      "awardYear": 2022,
+      "winner": "馮皓揚",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14892216"
+      }
+    },
+    {
+      "id": "hkfa-2023-best-supporting-actor-6902394",
+      "mediaType": "movie",
+      "title": "風再起時",
+      "awardYear": 2023,
+      "winner": "許冠文",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt6902394"
+      }
+    },
+    {
+      "id": "hkfa-2024-best-supporting-actor-27881515",
+      "mediaType": "movie",
+      "title": "白日之下",
+      "awardYear": 2024,
+      "winner": "姜大衞",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt27881515"
+      }
+    },
+    {
+      "id": "hkfa-2025-best-supporting-actor-31648020",
+      "mediaType": "movie",
+      "title": "破·地獄",
+      "awardYear": 2025,
+      "winner": "朱栢康",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt31648020"
+      }
+    },
+    {
+      "id": "hkfa-2026-best-supporting-actor-4968738",
+      "mediaType": "movie",
+      "title": "風林火山",
+      "awardYear": 2026,
+      "winner": "杜德偉",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt4968738"
+      }
+    }
+  ]
+}

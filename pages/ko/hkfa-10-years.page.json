@@ -1,0 +1,180 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "title": "홍콩 영화 금상장 — 최근 10년",
+  "description": "홍콩 영화 금상장 최근 10년 수상작. 2021년은 2022년으로 통합되어 열리지 않았습니다.",
+  "tags": [
+    "hong-kong",
+    "award",
+    "decade"
+  ],
+  "icon": "ticket",
+  "sections": [
+    {
+      "title": "홍콩 영화 금상장 — 2026",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "carousel",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "hkfa-2026.list.json"
+        }
+      ]
+    },
+    {
+      "title": "홍콩 영화 금상장 — 2025",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "hkfa-2025.list.json"
+        }
+      ]
+    },
+    {
+      "title": "홍콩 영화 금상장 — 2024",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "hkfa-2024.list.json"
+        }
+      ]
+    },
+    {
+      "title": "홍콩 영화 금상장 — 2023",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "hkfa-2023.list.json"
+        }
+      ]
+    },
+    {
+      "title": "홍콩 영화 금상장 — 2022",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "hkfa-2022.list.json"
+        }
+      ]
+    },
+    {
+      "title": "홍콩 영화 금상장 — 2020",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "hkfa-2020.list.json"
+        }
+      ]
+    },
+    {
+      "title": "홍콩 영화 금상장 — 2019",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "hkfa-2019.list.json"
+        }
+      ]
+    },
+    {
+      "title": "홍콩 영화 금상장 — 2018",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "hkfa-2018.list.json"
+        }
+      ]
+    },
+    {
+      "title": "홍콩 영화 금상장 — 2017",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "hkfa-2017.list.json"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "author": "ChatGPT",
+    "description": "홍콩 영화 금상장 수상 데이터."
+  }
+}

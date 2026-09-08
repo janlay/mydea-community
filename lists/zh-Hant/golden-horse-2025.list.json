@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:00:00Z",
+  "title": "金馬獎 2025 年核心獎項得獎名單",
+  "description": "第62屆金馬獎核心常設獎項得獎作品，收錄最佳劇情片、導演、男女主角、男女配角、新導演與新演員。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "golden-horse-2025-best-feature-tt32080855",
+      "mediaType": "movie",
+      "title": "大濛",
+      "award": "最佳劇情片",
+      "awardYear": 2025,
+      "winner": "陳玉勳",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt32080855"
+      },
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-horse-2025-best-director-tt35453155",
+      "mediaType": "movie",
+      "title": "眾生相",
+      "award": "最佳導演",
+      "awardYear": 2025,
+      "winner": "李駿碩",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt35453155"
+      },
+      "awardOrder": 2
+    },
+    {
+      "id": "golden-horse-2025-best-actor-tt34000545",
+      "mediaType": "movie",
+      "title": "幸福之路",
+      "award": "最佳男主角",
+      "awardYear": 2025,
+      "winner": "張震",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt34000545"
+      },
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-horse-2025-best-actress-tt33708662",
+      "mediaType": "movie",
+      "title": "地母",
+      "award": "最佳女主角",
+      "awardYear": 2025,
+      "winner": "范冰冰",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt33708662"
+      },
+      "awardOrder": 4
+    },
+    {
+      "id": "golden-horse-2025-best-supporting-actor-tt35834522",
+      "mediaType": "movie",
+      "title": "我家的事",
+      "award": "最佳男配角",
+      "awardYear": 2025,
+      "winner": "曾敬驊",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt35834522"
+      },
+      "awardOrder": 5
+    },
+    {
+      "id": "golden-horse-2025-best-supporting-actress-tt38589615",
+      "mediaType": "movie",
+      "title": "人生海海",
+      "award": "最佳女配角",
+      "awardYear": 2025,
+      "winner": "陳雪甄",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt38589615"
+      },
+      "awardOrder": 6
+    },
+    {
+      "id": "golden-horse-2025-best-new-director-tt34000545",
+      "mediaType": "movie",
+      "title": "幸福之路",
+      "award": "最佳新導演",
+      "awardYear": 2025,
+      "winner": "Lloyd Lee CHOI",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt34000545"
+      },
+      "awardOrder": 7
+    },
+    {
+      "id": "golden-horse-2025-best-new-performer-tt27722618",
+      "mediaType": "movie",
+      "title": "左撇子女孩",
+      "award": "最佳新演員",
+      "awardYear": 2025,
+      "winner": "馬士媛",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt27722618"
+      },
+      "awardOrder": 8
+    }
+  ]
+}

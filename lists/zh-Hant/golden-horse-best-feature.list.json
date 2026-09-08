@@ -1,0 +1,618 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:45:00Z",
+  "title": "金馬獎 — 最佳劇情片",
+  "description": "金馬獎最佳劇情片歷屆全部實際得獎作品。1964年及1974年停辦不列入。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "golden-horse-1962-best-feature-tt0211753",
+      "mediaType": "movie",
+      "title": "星星月亮太陽",
+      "awardYear": 1962,
+      "winner": "易文",
+      "releaseDate": "1962",
+      "externalIds": {
+        "imdb": "tt0211753"
+      }
+    },
+    {
+      "id": "golden-horse-1963-best-feature-tt0057248",
+      "mediaType": "movie",
+      "title": "梁山伯與祝英台",
+      "awardYear": 1963,
+      "winner": "李翰祥",
+      "releaseDate": "1963",
+      "externalIds": {
+        "imdb": "tt0057248"
+      }
+    },
+    {
+      "id": "golden-horse-1965-best-feature-tt1345532",
+      "mediaType": "movie",
+      "title": "養鴨人家",
+      "awardYear": 1965,
+      "winner": "李行",
+      "releaseDate": "1965",
+      "externalIds": {
+        "imdb": "tt1345532"
+      }
+    },
+    {
+      "id": "golden-horse-1966-best-feature-tt0311305",
+      "mediaType": "movie",
+      "title": "西施",
+      "awardYear": 1966,
+      "winner": "李翰祥",
+      "releaseDate": "1966",
+      "externalIds": {
+        "imdb": "tt0311305"
+      }
+    },
+    {
+      "id": "golden-horse-1967-best-feature-tt0185582",
+      "mediaType": "movie",
+      "title": "我女若蘭",
+      "awardYear": 1967,
+      "winner": "李嘉",
+      "releaseDate": "1967",
+      "externalIds": {
+        "imdb": "tt0185582"
+      }
+    },
+    {
+      "id": "golden-horse-1968-best-feature-tt7176712",
+      "mediaType": "movie",
+      "title": "路",
+      "awardYear": 1968,
+      "winner": "李行",
+      "releaseDate": "1968",
+      "externalIds": {
+        "imdb": "tt7176712"
+      }
+    },
+    {
+      "id": "golden-horse-1969-best-feature-item-7",
+      "mediaType": "movie",
+      "title": "小鎮春回",
+      "awardYear": 1969,
+      "winner": "楊文淦",
+      "releaseDate": "1969"
+    },
+    {
+      "id": "golden-horse-1970-best-feature-tt0978620",
+      "mediaType": "movie",
+      "title": "家在台北",
+      "awardYear": 1970,
+      "winner": "白景瑞",
+      "releaseDate": "1970",
+      "externalIds": {
+        "imdb": "tt0978620"
+      }
+    },
+    {
+      "id": "golden-horse-1971-best-feature-tt0067797",
+      "mediaType": "movie",
+      "title": "緹縈",
+      "awardYear": 1971,
+      "winner": "李翰祥",
+      "releaseDate": "1971",
+      "externalIds": {
+        "imdb": "tt0067797"
+      }
+    },
+    {
+      "id": "golden-horse-1972-best-feature-item-10",
+      "mediaType": "movie",
+      "title": "秋決",
+      "awardYear": 1972,
+      "winner": "李行",
+      "releaseDate": "1972"
+    },
+    {
+      "id": "golden-horse-1973-best-feature-item-11",
+      "mediaType": "movie",
+      "title": "忍",
+      "awardYear": 1973,
+      "winner": "巫敏雄",
+      "releaseDate": "1973"
+    },
+    {
+      "id": "golden-horse-1975-best-feature-tt0314902",
+      "mediaType": "movie",
+      "title": "吾土吾民",
+      "awardYear": 1975,
+      "winner": "李行",
+      "releaseDate": "1975",
+      "externalIds": {
+        "imdb": "tt0314902"
+      }
+    },
+    {
+      "id": "golden-horse-1976-best-feature-tt0195050",
+      "mediaType": "movie",
+      "title": "梅花",
+      "awardYear": 1976,
+      "winner": "劉家昌",
+      "releaseDate": "1976",
+      "externalIds": {
+        "imdb": "tt0195050"
+      }
+    },
+    {
+      "id": "golden-horse-1977-best-feature-tt0184567",
+      "mediaType": "movie",
+      "title": "筧橋英烈傳",
+      "awardYear": 1977,
+      "winner": "張曾澤",
+      "releaseDate": "1977",
+      "externalIds": {
+        "imdb": "tt0184567"
+      }
+    },
+    {
+      "id": "golden-horse-1978-best-feature-tt0079277",
+      "mediaType": "movie",
+      "title": "汪洋中的一條船",
+      "awardYear": 1978,
+      "winner": "李行",
+      "releaseDate": "1978",
+      "externalIds": {
+        "imdb": "tt0079277"
+      }
+    },
+    {
+      "id": "golden-horse-1979-best-feature-tt0314907",
+      "mediaType": "movie",
+      "title": "小城故事",
+      "awardYear": 1979,
+      "winner": "李行",
+      "releaseDate": "1979",
+      "externalIds": {
+        "imdb": "tt0314907"
+      }
+    },
+    {
+      "id": "golden-horse-1980-best-feature-tt0314939",
+      "mediaType": "movie",
+      "title": "早安台北",
+      "awardYear": 1980,
+      "winner": "李行",
+      "releaseDate": "1980",
+      "externalIds": {
+        "imdb": "tt0314939"
+      }
+    },
+    {
+      "id": "golden-horse-1981-best-feature-tt0289112",
+      "mediaType": "movie",
+      "title": "假如我是真的",
+      "awardYear": 1981,
+      "winner": "王童",
+      "releaseDate": "1981",
+      "externalIds": {
+        "imdb": "tt0289112"
+      }
+    },
+    {
+      "id": "golden-horse-1982-best-feature-tt0083346",
+      "mediaType": "movie",
+      "title": "辛亥雙十",
+      "awardYear": 1982,
+      "winner": "丁善璽",
+      "releaseDate": "1982",
+      "externalIds": {
+        "imdb": "tt0083346"
+      }
+    },
+    {
+      "id": "golden-horse-1983-best-feature-item-20",
+      "mediaType": "movie",
+      "title": "小畢的故事",
+      "awardYear": 1983,
+      "winner": "陳坤厚",
+      "releaseDate": "1983"
+    },
+    {
+      "id": "golden-horse-1984-best-feature-item-21",
+      "mediaType": "movie",
+      "title": "老莫的第二個春天",
+      "awardYear": 1984,
+      "winner": "李祐寧",
+      "releaseDate": "1984"
+    },
+    {
+      "id": "golden-horse-1985-best-feature-item-22",
+      "mediaType": "movie",
+      "title": "我這樣過了一生",
+      "awardYear": 1985,
+      "winner": "張毅",
+      "releaseDate": "1985"
+    },
+    {
+      "id": "golden-horse-1986-best-feature-tt0091355",
+      "mediaType": "movie",
+      "title": "恐怖分子",
+      "awardYear": 1986,
+      "winner": "楊德昌",
+      "releaseDate": "1986",
+      "externalIds": {
+        "imdb": "tt0091355"
+      }
+    },
+    {
+      "id": "golden-horse-1987-best-feature-tt0092829",
+      "mediaType": "movie",
+      "title": "稻草人",
+      "awardYear": 1987,
+      "winner": "王童",
+      "releaseDate": "1987",
+      "externalIds": {
+        "imdb": "tt0092829"
+      }
+    },
+    {
+      "id": "golden-horse-1988-best-feature-tt0095937",
+      "mediaType": "movie",
+      "title": "七小福",
+      "awardYear": 1988,
+      "winner": "羅啟銳",
+      "releaseDate": "1988",
+      "externalIds": {
+        "imdb": "tt0095937"
+      }
+    },
+    {
+      "id": "golden-horse-1989-best-feature-item-26",
+      "mediaType": "movie",
+      "title": "三個女人的故事",
+      "awardYear": 1989,
+      "winner": "張婉婷",
+      "releaseDate": "1989"
+    },
+    {
+      "id": "golden-horse-1990-best-feature-tt0099719",
+      "mediaType": "movie",
+      "title": "滾滾紅塵",
+      "awardYear": 1990,
+      "winner": "嚴浩",
+      "releaseDate": "1990",
+      "externalIds": {
+        "imdb": "tt0099719"
+      }
+    },
+    {
+      "id": "golden-horse-1991-best-feature-item-28",
+      "mediaType": "movie",
+      "title": "牯嶺街少年殺人事件",
+      "awardYear": 1991,
+      "winner": "楊德昌",
+      "releaseDate": "1991"
+    },
+    {
+      "id": "golden-horse-1992-best-feature-item-29",
+      "mediaType": "movie",
+      "title": "無言的山丘",
+      "awardYear": 1992,
+      "winner": "王童",
+      "releaseDate": "1992"
+    },
+    {
+      "id": "golden-horse-1993-best-feature-item-30",
+      "mediaType": "movie",
+      "title": "囍宴",
+      "awardYear": 1993,
+      "winner": "李安",
+      "releaseDate": "1993"
+    },
+    {
+      "id": "golden-horse-1994-best-feature-item-31",
+      "mediaType": "movie",
+      "title": "愛情萬歲",
+      "awardYear": 1994,
+      "winner": "蔡明亮",
+      "releaseDate": "1994"
+    },
+    {
+      "id": "golden-horse-1995-best-feature-item-32",
+      "mediaType": "movie",
+      "title": "女人四十",
+      "awardYear": 1995,
+      "winner": "許鞍華",
+      "releaseDate": "1995"
+    },
+    {
+      "id": "golden-horse-1996-best-feature-item-33",
+      "mediaType": "movie",
+      "title": "陽光燦爛的日子",
+      "awardYear": 1996,
+      "winner": "姜文",
+      "releaseDate": "1996"
+    },
+    {
+      "id": "golden-horse-1997-best-feature-tt0117905",
+      "mediaType": "movie",
+      "title": "甜蜜蜜",
+      "awardYear": 1997,
+      "winner": "陳可辛",
+      "releaseDate": "1997",
+      "externalIds": {
+        "imdb": "tt0117905"
+      }
+    },
+    {
+      "id": "golden-horse-1998-best-feature-tt0115005",
+      "mediaType": "movie",
+      "title": "天浴",
+      "awardYear": 1998,
+      "winner": "陳冲",
+      "releaseDate": "1998",
+      "externalIds": {
+        "imdb": "tt0115005"
+      }
+    },
+    {
+      "id": "golden-horse-1999-best-feature-item-36",
+      "mediaType": "movie",
+      "title": "千言萬語",
+      "awardYear": 1999,
+      "winner": "許鞍華",
+      "releaseDate": "1999"
+    },
+    {
+      "id": "golden-horse-2000-best-feature-item-37",
+      "mediaType": "movie",
+      "title": "臥虎藏龍",
+      "awardYear": 2000,
+      "winner": "李安",
+      "releaseDate": "2000"
+    },
+    {
+      "id": "golden-horse-2001-best-feature-tt0255327",
+      "mediaType": "movie",
+      "title": "榴槤飄飄",
+      "awardYear": 2001,
+      "winner": "陳果",
+      "releaseDate": "2001",
+      "externalIds": {
+        "imdb": "tt0255327"
+      }
+    },
+    {
+      "id": "golden-horse-2002-best-feature-tt0333902",
+      "mediaType": "movie",
+      "title": "美麗時光",
+      "awardYear": 2002,
+      "winner": "張作驥",
+      "releaseDate": "2002",
+      "externalIds": {
+        "imdb": "tt0333902"
+      }
+    },
+    {
+      "id": "golden-horse-2003-best-feature-item-40",
+      "mediaType": "movie",
+      "title": "無間道",
+      "awardYear": 2003,
+      "winner": "劉偉強、麥兆輝",
+      "releaseDate": "2003"
+    },
+    {
+      "id": "golden-horse-2004-best-feature-item-41",
+      "mediaType": "movie",
+      "title": "可可西里",
+      "awardYear": 2004,
+      "winner": "陸川",
+      "releaseDate": "2004"
+    },
+    {
+      "id": "golden-horse-2005-best-feature-item-42",
+      "mediaType": "movie",
+      "title": "功夫",
+      "awardYear": 2005,
+      "winner": "周星馳",
+      "releaseDate": "2005"
+    },
+    {
+      "id": "golden-horse-2006-best-feature-item-43",
+      "mediaType": "movie",
+      "title": "父子",
+      "awardYear": 2006,
+      "winner": "譚家明",
+      "releaseDate": "2006"
+    },
+    {
+      "id": "golden-horse-2007-best-feature-item-44",
+      "mediaType": "movie",
+      "title": "色，戒",
+      "awardYear": 2007,
+      "winner": "李安",
+      "releaseDate": "2007"
+    },
+    {
+      "id": "golden-horse-2008-best-feature-item-45",
+      "mediaType": "movie",
+      "title": "投名狀",
+      "awardYear": 2008,
+      "winner": "陳可辛",
+      "releaseDate": "2008"
+    },
+    {
+      "id": "golden-horse-2009-best-feature-item-46",
+      "mediaType": "movie",
+      "title": "不能沒有你",
+      "awardYear": 2009,
+      "winner": "戴立忍",
+      "releaseDate": "2009"
+    },
+    {
+      "id": "golden-horse-2010-best-feature-item-47",
+      "mediaType": "movie",
+      "title": "當愛來的時候",
+      "awardYear": 2010,
+      "winner": "張作驥",
+      "releaseDate": "2010"
+    },
+    {
+      "id": "golden-horse-2011-best-feature-item-48",
+      "mediaType": "movie",
+      "title": "賽德克·巴萊",
+      "awardYear": 2011,
+      "winner": "魏德聖",
+      "releaseDate": "2011"
+    },
+    {
+      "id": "golden-horse-2012-best-feature-item-49",
+      "mediaType": "movie",
+      "title": "神探亨特張",
+      "awardYear": 2012,
+      "winner": "高群書",
+      "releaseDate": "2012"
+    },
+    {
+      "id": "golden-horse-2013-best-feature-item-50",
+      "mediaType": "movie",
+      "title": "爸媽不在家",
+      "awardYear": 2013,
+      "winner": "陳哲藝",
+      "releaseDate": "2013"
+    },
+    {
+      "id": "golden-horse-2014-best-feature-item-51",
+      "mediaType": "movie",
+      "title": "推拿",
+      "awardYear": 2014,
+      "winner": "婁燁",
+      "releaseDate": "2014"
+    },
+    {
+      "id": "golden-horse-2015-best-feature-item-52",
+      "mediaType": "movie",
+      "title": "刺客聶隱娘",
+      "awardYear": 2015,
+      "winner": "侯孝賢",
+      "releaseDate": "2015"
+    },
+    {
+      "id": "golden-horse-2016-best-feature-tt6118258",
+      "mediaType": "movie",
+      "title": "八月",
+      "awardYear": 2016,
+      "winner": "張大磊",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt6118258"
+      }
+    },
+    {
+      "id": "golden-horse-2017-best-feature-tt7479784",
+      "mediaType": "movie",
+      "title": "血觀音",
+      "awardYear": 2017,
+      "winner": "楊雅喆",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7479784"
+      }
+    },
+    {
+      "id": "golden-horse-2018-best-feature-tt8020896",
+      "mediaType": "movie",
+      "title": "大象席地而坐",
+      "awardYear": 2018,
+      "winner": "胡波",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8020896"
+      }
+    },
+    {
+      "id": "golden-horse-2019-best-feature-tt10883506",
+      "mediaType": "movie",
+      "title": "陽光普照",
+      "awardYear": 2019,
+      "winner": "鍾孟宏",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10883506"
+      }
+    },
+    {
+      "id": "golden-horse-2020-best-feature-tt13105824",
+      "mediaType": "movie",
+      "title": "消失的情人節",
+      "awardYear": 2020,
+      "winner": "陳玉勳",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt13105824"
+      }
+    },
+    {
+      "id": "golden-horse-2021-best-feature-tt15119668",
+      "mediaType": "movie",
+      "title": "瀑布",
+      "awardYear": 2021,
+      "winner": "鍾孟宏",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt15119668"
+      }
+    },
+    {
+      "id": "golden-horse-2022-best-feature-tt22335454",
+      "mediaType": "movie",
+      "title": "一家子兒咕咕叫",
+      "awardYear": 2022,
+      "winner": "詹京霖",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt22335454"
+      }
+    },
+    {
+      "id": "golden-horse-2023-best-feature-tt14071684",
+      "mediaType": "movie",
+      "title": "石門",
+      "awardYear": 2023,
+      "winner": "黃驥、大塚龍治",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt14071684"
+      }
+    },
+    {
+      "id": "golden-horse-2024-best-feature-tt32186579",
+      "mediaType": "movie",
+      "title": "一部未完成的電影",
+      "awardYear": 2024,
+      "winner": "婁燁",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt32186579"
+      }
+    },
+    {
+      "id": "golden-horse-2025-best-feature-tt32080855",
+      "mediaType": "movie",
+      "title": "大濛",
+      "awardYear": 2025,
+      "winner": "陳玉勳",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt32080855"
+      }
+    }
+  ]
+}

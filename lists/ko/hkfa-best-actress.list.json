@@ -1,0 +1,515 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-12T02:57:20Z",
+  "title": "홍콩 영화 금상장 — 여우주연상",
+  "description": "홍콩 영화 금상장 역대 여우주연상 수상 기록.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "hkfa-best-actress-1982-hkfa-film",
+      "mediaType": "movie",
+      "title": "長輩",
+      "releaseDate": "1981",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 1982,
+      "winner": "혜영홍"
+    },
+    {
+      "id": "hkfa-best-actress-1983-hkfa-film",
+      "mediaType": "movie",
+      "title": "靚妹仔",
+      "releaseDate": "1982",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 1983,
+      "winner": "林碧琪"
+    },
+    {
+      "id": "hkfa-best-actress-1984-hkfa-film",
+      "mediaType": "movie",
+      "title": "表錯七日情",
+      "releaseDate": "1983",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 1984,
+      "winner": "葉童"
+    },
+    {
+      "id": "hkfa-best-actress-1985-hkfa-film",
+      "mediaType": "movie",
+      "title": "似水流年",
+      "releaseDate": "1984",
+      "externalIds": {
+        "imdb": "tt0088126"
+      },
+      "awardYear": 1985,
+      "winner": "斯琴高娃"
+    },
+    {
+      "id": "hkfa-best-actress-1986-hkfa-film",
+      "mediaType": "movie",
+      "title": "錯點鴛鴦",
+      "releaseDate": "1985",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 1986,
+      "winner": "王小鳳"
+    },
+    {
+      "id": "hkfa-best-actress-1987-hkfa-film",
+      "mediaType": "movie",
+      "title": "最愛",
+      "releaseDate": "1986",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 1987,
+      "winner": "張艾嘉"
+    },
+    {
+      "id": "hkfa-best-actress-1988-hkfa-film",
+      "mediaType": "movie",
+      "title": "不是冤家不聚頭",
+      "releaseDate": "1987",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 1988,
+      "winner": "蕭芳芳"
+    },
+    {
+      "id": "hkfa-best-actress-1989-hkfa-film",
+      "mediaType": "movie",
+      "title": "연지구",
+      "releaseDate": "1988",
+      "externalIds": {
+        "imdb": "tt0093258"
+      },
+      "awardYear": 1989,
+      "winner": "매염방",
+      "originalTitle": "胭脂扣"
+    },
+    {
+      "id": "hkfa-best-actress-1990-hkfa-film",
+      "mediaType": "movie",
+      "title": "不脫襪的人",
+      "releaseDate": "1989",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 1990,
+      "winner": "장만옥"
+    },
+    {
+      "id": "hkfa-best-actress-1991-hkfa-film",
+      "mediaType": "movie",
+      "title": "表姐，你好嘢！",
+      "releaseDate": "1990",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 1991,
+      "winner": "鄭裕玲"
+    },
+    {
+      "id": "hkfa-best-actress-1992-hkfa-film",
+      "mediaType": "movie",
+      "title": "婚姻勿語",
+      "releaseDate": "1991",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 1992,
+      "winner": "葉童"
+    },
+    {
+      "id": "hkfa-best-actress-1993-hkfa-film",
+      "mediaType": "movie",
+      "title": "阮玲玉",
+      "releaseDate": "1992",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 1993,
+      "winner": "장만옥"
+    },
+    {
+      "id": "hkfa-best-actress-1994-hkfa-film",
+      "mediaType": "movie",
+      "title": "新不了情",
+      "releaseDate": "1993",
+      "externalIds": {
+        "imdb": "tt0111770"
+      },
+      "awardYear": 1994,
+      "winner": "袁詠儀"
+    },
+    {
+      "id": "hkfa-best-actress-1995-hkfa-film",
+      "mediaType": "movie",
+      "title": "金枝玉葉",
+      "releaseDate": "1994",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 1995,
+      "winner": "袁詠儀"
+    },
+    {
+      "id": "hkfa-best-actress-1996-hkfa-film",
+      "mediaType": "movie",
+      "title": "여인사십",
+      "releaseDate": "1995",
+      "externalIds": {
+        "imdb": "tt0111739"
+      },
+      "awardYear": 1996,
+      "winner": "蕭芳芳",
+      "originalTitle": "女人四十"
+    },
+    {
+      "id": "hkfa-best-actress-1997-hkfa-film",
+      "mediaType": "movie",
+      "title": "첨밀밀",
+      "releaseDate": "1996",
+      "externalIds": {
+        "imdb": "tt0117905"
+      },
+      "awardYear": 1997,
+      "winner": "장만옥",
+      "originalTitle": "甜蜜蜜"
+    },
+    {
+      "id": "hkfa-best-actress-1998-hkfa-film",
+      "mediaType": "movie",
+      "title": "宋家皇朝",
+      "releaseDate": "1997",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 1998,
+      "winner": "장만옥"
+    },
+    {
+      "id": "hkfa-best-actress-1999-hkfa-film",
+      "mediaType": "movie",
+      "title": "古惑仔情義篇之洪興十三妹",
+      "releaseDate": "1998",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 1999,
+      "winner": "吳君如"
+    },
+    {
+      "id": "hkfa-best-actress-2000-hkfa-film",
+      "mediaType": "movie",
+      "title": "爆裂刑警",
+      "releaseDate": "1999",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 2000,
+      "winner": "羅蘭"
+    },
+    {
+      "id": "hkfa-best-actress-2001-hkfa-film",
+      "mediaType": "movie",
+      "title": "화양연화",
+      "releaseDate": "2000",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 2001,
+      "winner": "장만옥",
+      "originalTitle": "花樣年華"
+    },
+    {
+      "id": "hkfa-best-actress-2002-hkfa-film",
+      "mediaType": "movie",
+      "title": "地久天長",
+      "releaseDate": "2001",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 2002,
+      "winner": "張艾嘉"
+    },
+    {
+      "id": "hkfa-best-actress-2003-hkfa-film",
+      "mediaType": "movie",
+      "title": "見鬼",
+      "releaseDate": "2002",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 2003,
+      "winner": "李心潔"
+    },
+    {
+      "id": "hkfa-best-actress-2004-hkfa-film",
+      "mediaType": "movie",
+      "title": "忘不了",
+      "releaseDate": "2003",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 2004,
+      "winner": "張柏芝"
+    },
+    {
+      "id": "hkfa-best-actress-2005-2046",
+      "mediaType": "movie",
+      "title": "2046",
+      "releaseDate": "2004",
+      "externalIds": {
+        "letterboxd": "2046"
+      },
+      "awardYear": 2005,
+      "winner": "장쯔이"
+    },
+    {
+      "id": "hkfa-best-actress-2006-hkfa-film",
+      "mediaType": "movie",
+      "title": "如果‧愛",
+      "releaseDate": "2005",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 2006,
+      "winner": "저우쉰"
+    },
+    {
+      "id": "hkfa-best-actress-2007-hkfa-film",
+      "mediaType": "movie",
+      "title": "滿城盡帶黃金甲",
+      "releaseDate": "2006",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 2007,
+      "winner": "鞏俐"
+    },
+    {
+      "id": "hkfa-best-actress-2008-hkfa-film",
+      "mediaType": "movie",
+      "title": "姨媽的後現代生活",
+      "releaseDate": "2007",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 2008,
+      "winner": "斯琴高娃"
+    },
+    {
+      "id": "hkfa-best-actress-2009-hkfa-film",
+      "mediaType": "movie",
+      "title": "天水圍的日與夜",
+      "releaseDate": "2008",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 2009,
+      "winner": "鮑起靜"
+    },
+    {
+      "id": "hkfa-best-actress-2010-hkfa-film",
+      "mediaType": "movie",
+      "title": "心魔",
+      "releaseDate": "2009",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 2010,
+      "winner": "혜영홍"
+    },
+    {
+      "id": "hkfa-best-actress-2011-hkfa-film",
+      "mediaType": "movie",
+      "title": "狄仁傑之通天帝國",
+      "releaseDate": "2010",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 2011,
+      "winner": "유가령"
+    },
+    {
+      "id": "hkfa-best-actress-2012-hkfa-film",
+      "mediaType": "movie",
+      "title": "심플 라이프",
+      "releaseDate": "2011",
+      "externalIds": {
+        "imdb": "tt2008006"
+      },
+      "awardYear": 2012,
+      "winner": "엽덕한",
+      "originalTitle": "桃姐"
+    },
+    {
+      "id": "hkfa-best-actress-2013-hkfa-film",
+      "mediaType": "movie",
+      "title": "春嬌與志明",
+      "releaseDate": "2012",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 2013,
+      "winner": "楊千嬅"
+    },
+    {
+      "id": "hkfa-best-actress-2014-hkfa-film",
+      "mediaType": "movie",
+      "title": "일대종사",
+      "releaseDate": "2013",
+      "externalIds": {
+        "imdb": "tt1462900"
+      },
+      "awardYear": 2014,
+      "winner": "장쯔이",
+      "originalTitle": "一代宗師"
+    },
+    {
+      "id": "hkfa-best-actress-2015-hkfa-film",
+      "mediaType": "movie",
+      "title": "親愛的",
+      "releaseDate": "2014",
+      "externalIds": {
+        "letterboxd": "hkfa-film"
+      },
+      "awardYear": 2015,
+      "winner": "趙薇"
+    },
+    {
+      "id": "hkfa-best-actress-2016-hkfa-film",
+      "mediaType": "movie",
+      "title": "답혈심매",
+      "releaseDate": "2015",
+      "externalIds": {
+        "imdb": "tt5148932"
+      },
+      "awardYear": 2016,
+      "winner": "춘샤",
+      "originalTitle": "踏血尋梅"
+    },
+    {
+      "id": "hkfa-2017-best-actress-5805026",
+      "mediaType": "movie",
+      "title": "幸運是我",
+      "awardYear": 2017,
+      "winner": "혜영홍",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5805026"
+      }
+    },
+    {
+      "id": "hkfa-2018-best-actress-7875604",
+      "mediaType": "movie",
+      "title": "黃金花",
+      "awardYear": 2018,
+      "winner": "모순균",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7875604"
+      }
+    },
+    {
+      "id": "hkfa-2019-best-actress-9076570",
+      "mediaType": "movie",
+      "title": "三夫",
+      "awardYear": 2019,
+      "winner": "증미혜자",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt9076570"
+      }
+    },
+    {
+      "id": "hkfa-2020-best-actress-9586294",
+      "mediaType": "movie",
+      "title": "소년시절의 너",
+      "awardYear": 2020,
+      "winner": "저우둥위",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt9586294"
+      },
+      "originalTitle": "少年的你"
+    },
+    {
+      "id": "hkfa-2022-best-actress-14032696",
+      "mediaType": "movie",
+      "title": "림보",
+      "awardYear": 2022,
+      "winner": "류야써",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14032696"
+      },
+      "originalTitle": "智齒"
+    },
+    {
+      "id": "hkfa-2023-best-actress-22397894",
+      "mediaType": "movie",
+      "title": "流水落花",
+      "awardYear": 2023,
+      "winner": "정수문",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt22397894"
+      }
+    },
+    {
+      "id": "hkfa-2024-best-actress-27881515",
+      "mediaType": "movie",
+      "title": "백일지하",
+      "awardYear": 2024,
+      "winner": "余香凝",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt27881515"
+      },
+      "originalTitle": "白日之下"
+    },
+    {
+      "id": "hkfa-2025-best-actress-31648020",
+      "mediaType": "movie",
+      "title": "라스트 댄스",
+      "awardYear": 2025,
+      "winner": "웨이시야",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt31648020"
+      },
+      "originalTitle": "破·地獄"
+    },
+    {
+      "id": "hkfa-2026-best-actress-36217308",
+      "mediaType": "movie",
+      "title": "像我這樣的愛情",
+      "awardYear": 2026,
+      "winner": "랴오쯔위",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt36217308"
+      }
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "title": "Ten Years in Cannes",
+  "description": "Ten years of the Festival de Cannes. 2020 is absent: the festival was cancelled.",
+  "tags": [
+    "cannes",
+    "award",
+    "decade"
+  ],
+  "icon": "ticket",
+  "sections": [
+    {
+      "title": "Cannes — 2026",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "carousel",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "cannes-2026.list.json"
+        }
+      ]
+    },
+    {
+      "title": "Cannes — 2025",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "cannes-2025.list.json"
+        }
+      ],
+      "layout": "grid"
+    },
+    {
+      "title": "Cannes — 2024",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "cannes-2024.list.json"
+        }
+      ],
+      "layout": "grid"
+    },
+    {
+      "title": "Cannes — 2023",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "cannes-2023.list.json"
+        }
+      ],
+      "layout": "grid"
+    },
+    {
+      "title": "Cannes — 2022",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "cannes-2022.list.json"
+        }
+      ],
+      "layout": "grid"
+    },
+    {
+      "title": "Cannes — 2021",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "cannes-2021.list.json"
+        }
+      ],
+      "layout": "grid"
+    },
+    {
+      "title": "Cannes — 2019",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "cannes-2019.list.json"
+        }
+      ],
+      "layout": "grid"
+    },
+    {
+      "title": "Cannes — 2018",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "cannes-2018.list.json"
+        }
+      ],
+      "layout": "grid"
+    },
+    {
+      "title": "Cannes — 2017",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "cannes-2017.list.json"
+        }
+      ],
+      "layout": "grid"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:30:00Z",
+  "title": "柏林 — 评审团奖",
+  "description": "柏林国际电影节 评审团奖 全部获奖记录。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "berlinale-jury-prize-2021-mr-bachmann-and-his-class",
+      "mediaType": "movie",
+      "title": "巴赫曼先生和他的学生",
+      "englishTitle": "Mr Bachmann and His Class",
+      "awardYear": 2021,
+      "winner": "Maria Speth",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14035048"
+      }
+    },
+    {
+      "id": "berlinale-jury-prize-2022-robe-of-gems",
+      "mediaType": "movie",
+      "title": "宝石长袍",
+      "englishTitle": "Robe of Gems",
+      "awardYear": 2022,
+      "winner": "Natalia López Gallardo",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt17280362"
+      }
+    },
+    {
+      "id": "berlinale-jury-prize-2023-bad-living",
+      "mediaType": "movie",
+      "title": "恶劣生活",
+      "englishTitle": "Bad Living",
+      "awardYear": 2023,
+      "winner": "João Canijo",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt14007288"
+      }
+    },
+    {
+      "id": "berlinale-jury-prize-2024-the-empire",
+      "mediaType": "movie",
+      "title": "帝国",
+      "englishTitle": "The Empire",
+      "awardYear": 2024,
+      "winner": "Bruno Dumont",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt17375596"
+      }
+    },
+    {
+      "id": "berlinale-jury-prize-2025-the-message",
+      "mediaType": "movie",
+      "title": "消息",
+      "englishTitle": "The Message",
+      "awardYear": 2025,
+      "winner": "Iván Fund",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt35499146"
+      }
+    },
+    {
+      "id": "berlinale-jury-prize-2026-queen-at-sea",
+      "mediaType": "movie",
+      "title": "Queen at Sea",
+      "awardYear": 2026,
+      "winner": "Lance Hammer",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt27541205"
+      }
+    }
+  ]
+}

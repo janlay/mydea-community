@@ -1,0 +1,349 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-08T11:52:00Z",
+  "title": "Cannes Film Festival 2025 Awards",
+  "description": "Official film-linked awards from the 78th Festival de Cannes, covering Competition, Short Films, Un Certain Regard, Caméra d'Or, La Cinef and CST technical prizes.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "cannes-2025-palme-d-or-it-was-just-an-accident",
+      "mediaType": "movie",
+      "title": "It Was Just an Accident",
+      "award": "Palme d'Or",
+      "awardYear": 2025,
+      "awardOrder": 1,
+      "winner": "Jafar Panahi",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt36491653"
+      }
+    },
+    {
+      "id": "cannes-2025-grand-prix-sentimental-value",
+      "mediaType": "movie",
+      "title": "Sentimental Value",
+      "award": "Grand Prix",
+      "awardYear": 2025,
+      "awardOrder": 2,
+      "winner": "Joachim Trier",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt27714581"
+      }
+    },
+    {
+      "id": "cannes-2025-jury-prize-ex-aequo-sir-t",
+      "mediaType": "movie",
+      "title": "Sirāt",
+      "award": "Jury Prize (Ex-Aequo)",
+      "awardYear": 2025,
+      "awardOrder": 3,
+      "winner": "Oliver Laxe",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt32298285"
+      }
+    },
+    {
+      "id": "cannes-2025-jury-prize-ex-aequo-sound-of-falling",
+      "mediaType": "movie",
+      "title": "Sound of Falling",
+      "award": "Jury Prize (Ex-Aequo)",
+      "awardYear": 2025,
+      "awardOrder": 4,
+      "winner": "Mascha Schilinski",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt28690468"
+      }
+    },
+    {
+      "id": "cannes-2025-best-director-prize-the-secret-agent",
+      "mediaType": "movie",
+      "title": "The Secret Agent",
+      "award": "Best Director Prize",
+      "awardYear": 2025,
+      "awardOrder": 5,
+      "winner": "Kleber Mendonça Filho",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt27847051"
+      }
+    },
+    {
+      "id": "cannes-2025-best-performance-for-an-actress-the-little-sister",
+      "mediaType": "movie",
+      "title": "The Little Sister",
+      "award": "Best Performance for an Actress",
+      "awardYear": 2025,
+      "awardOrder": 6,
+      "winner": "Nadia Melliti",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt28326501"
+      }
+    },
+    {
+      "id": "cannes-2025-best-performance-for-an-actor-the-secret-agent",
+      "mediaType": "movie",
+      "title": "The Secret Agent",
+      "award": "Best Performance for an Actor",
+      "awardYear": 2025,
+      "awardOrder": 7,
+      "winner": "Wagner Moura",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt27847051"
+      }
+    },
+    {
+      "id": "cannes-2025-best-screenplay-young-mothers",
+      "mediaType": "movie",
+      "title": "Young Mothers",
+      "award": "Best Screenplay",
+      "awardYear": 2025,
+      "awardOrder": 8,
+      "winner": "Jean-Pierre Dardenne & Luc Dardenne",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt32909489"
+      }
+    },
+    {
+      "id": "cannes-2025-special-prize-resurrection",
+      "mediaType": "movie",
+      "title": "Resurrection",
+      "award": "Special Prize",
+      "awardYear": 2025,
+      "awardOrder": 9,
+      "winner": "Bi Gan",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt29002950"
+      }
+    },
+    {
+      "id": "cannes-2025-cst-award-for-best-artist-technician-alpha",
+      "mediaType": "movie",
+      "title": "Alpha",
+      "award": "CST Award for Best Artist-Technician",
+      "awardYear": 2025,
+      "awardOrder": 10,
+      "winner": "Ruben Impens & Stéphane Thiébaut",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt32275943"
+      }
+    },
+    {
+      "id": "cannes-2025-cst-award-for-best-young-female-film-technician-connemara",
+      "mediaType": "movie",
+      "title": "Connemara",
+      "award": "CST Award for Best Young Female Film Technician",
+      "awardYear": 2025,
+      "awardOrder": 11,
+      "winner": "Éponine Momenceau",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt35512832"
+      }
+    },
+    {
+      "id": "cannes-2025-short-film-palme-d-or-i-m-glad-you-re-dead-now",
+      "mediaType": "movie",
+      "title": "I'm Glad You're Dead Now",
+      "award": "Short Film Palme d'Or",
+      "awardYear": 2025,
+      "awardOrder": 12,
+      "winner": "Tawfeek Barhom",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt36724190"
+      }
+    },
+    {
+      "id": "cannes-2025-short-film-special-distinction-ali",
+      "mediaType": "movie",
+      "title": "Ali",
+      "award": "Short Film Special Distinction",
+      "awardYear": 2025,
+      "awardOrder": 13,
+      "winner": "Adnan Al Rajeev",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt36724188"
+      }
+    },
+    {
+      "id": "cannes-2025-un-certain-regard-prize-the-mysterious-gaze-of-the-flamingo",
+      "mediaType": "movie",
+      "title": "The Mysterious Gaze of the Flamingo",
+      "award": "Un Certain Regard Prize",
+      "awardYear": 2025,
+      "awardOrder": 14,
+      "winner": "Diego Céspedes",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt22237964"
+      }
+    },
+    {
+      "id": "cannes-2025-un-certain-regard-jury-prize-a-poet",
+      "mediaType": "movie",
+      "title": "A Poet",
+      "award": "Un Certain Regard Jury Prize",
+      "awardYear": 2025,
+      "awardOrder": 15,
+      "winner": "Simón Mesa Soto",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt36544524"
+      }
+    },
+    {
+      "id": "cannes-2025-un-certain-regard-best-directing-once-upon-a-time-in-gaza",
+      "mediaType": "movie",
+      "title": "Once Upon a Time in Gaza",
+      "award": "Un Certain Regard Best Directing",
+      "awardYear": 2025,
+      "awardOrder": 16,
+      "winner": "Arab Nasser & Tarzan Nasser",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt34734841"
+      }
+    },
+    {
+      "id": "cannes-2025-un-certain-regard-best-actor-urchin",
+      "mediaType": "movie",
+      "title": "Urchin",
+      "award": "Un Certain Regard Best Actor",
+      "awardYear": 2025,
+      "awardOrder": 17,
+      "winner": "Frank Dillane",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt35715953"
+      }
+    },
+    {
+      "id": "cannes-2025-un-certain-regard-best-actress-i-only-rest-in-the-storm",
+      "mediaType": "movie",
+      "title": "I Only Rest in the Storm",
+      "award": "Un Certain Regard Best Actress",
+      "awardYear": 2025,
+      "awardOrder": 18,
+      "winner": "Cleo Diára",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt36642485"
+      }
+    },
+    {
+      "id": "cannes-2025-un-certain-regard-best-screenplay-pillion",
+      "mediaType": "movie",
+      "title": "Pillion",
+      "award": "Un Certain Regard Best Screenplay",
+      "awardYear": 2025,
+      "awardOrder": 19,
+      "winner": "Harry Lighton",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt32321317"
+      }
+    },
+    {
+      "id": "cannes-2025-cam-ra-d-or-the-president-s-cake",
+      "mediaType": "movie",
+      "title": "The President's Cake",
+      "award": "Caméra d'Or",
+      "awardYear": 2025,
+      "awardOrder": 20,
+      "winner": "Hasan Hadi",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt36580119"
+      }
+    },
+    {
+      "id": "cannes-2025-cam-ra-d-or-special-mention-my-father-s-shadow",
+      "mediaType": "movie",
+      "title": "My Father's Shadow",
+      "award": "Caméra d'Or Special Mention",
+      "awardYear": 2025,
+      "awardOrder": 21,
+      "winner": "Akinola Davies Jr.",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt35695538"
+      }
+    },
+    {
+      "id": "cannes-2025-la-cinef-first-prize-first-summer",
+      "mediaType": "movie",
+      "title": "First Summer",
+      "award": "La Cinef First Prize",
+      "awardYear": 2025,
+      "awardOrder": 22,
+      "winner": "Heo Gayoung",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt36724208"
+      }
+    },
+    {
+      "id": "cannes-2025-la-cinef-second-prize-12-moments-before-the-flag-raising-ceremony",
+      "mediaType": "movie",
+      "title": "12 Moments Before the Flag-Raising Ceremony",
+      "award": "La Cinef Second Prize",
+      "awardYear": 2025,
+      "awardOrder": 23,
+      "winner": "Qu Zhizheng",
+      "releaseDate": "2025",
+      "externalIds": {
+        "letterboxd": "12-moments-before-the-flag-raising-ceremony"
+      }
+    },
+    {
+      "id": "cannes-2025-la-cinef-third-prize-ex-aequo-ginger-boy",
+      "mediaType": "movie",
+      "title": "Ginger Boy",
+      "award": "La Cinef Third Prize (Ex-Aequo)",
+      "awardYear": 2025,
+      "awardOrder": 24,
+      "winner": "Miki Tanaka",
+      "releaseDate": "2025",
+      "externalIds": {
+        "letterboxd": "ginger-boy"
+      }
+    },
+    {
+      "id": "cannes-2025-la-cinef-third-prize-ex-aequo-winter-in-march",
+      "mediaType": "movie",
+      "title": "Winter in March",
+      "award": "La Cinef Third Prize (Ex-Aequo)",
+      "awardYear": 2025,
+      "awardOrder": 25,
+      "winner": "Natalia Mirzoyan",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt36724209"
+      }
+    }
+  ]
+}

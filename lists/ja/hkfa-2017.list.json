@@ -1,0 +1,132 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "title": "香港電影金像奨 2017 受賞一覧",
+  "description": "2017年香港電影金像奨の主要部門受賞作品・受賞者。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "hkfa-2017-best-film-4379800",
+      "mediaType": "movie",
+      "title": "大樹は風を招く",
+      "awardYear": 2017,
+      "winner": "『大樹は風を招く』",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4379800"
+      },
+      "award": "最優秀作品賞",
+      "awardOrder": 1,
+      "originalTitle": "樹大招風"
+    },
+    {
+      "id": "hkfa-2017-best-director-4379800",
+      "mediaType": "movie",
+      "title": "大樹は風を招く",
+      "awardYear": 2017,
+      "winner": "許學文、歐文傑、黃偉傑",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4379800"
+      },
+      "award": "最優秀監督賞",
+      "awardOrder": 2,
+      "originalTitle": "樹大招風"
+    },
+    {
+      "id": "hkfa-2017-best-screenplay-4379800",
+      "mediaType": "movie",
+      "title": "大樹は風を招く",
+      "awardYear": 2017,
+      "winner": "龍文康、伍奇偉、麥天樞",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4379800"
+      },
+      "award": "最優秀脚本賞",
+      "awardOrder": 3,
+      "originalTitle": "樹大招風"
+    },
+    {
+      "id": "hkfa-2017-best-actor-4379800",
+      "mediaType": "movie",
+      "title": "大樹は風を招く",
+      "awardYear": 2017,
+      "winner": "林家棟",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4379800"
+      },
+      "award": "最優秀主演男優賞",
+      "awardOrder": 4,
+      "originalTitle": "樹大招風"
+    },
+    {
+      "id": "hkfa-2017-best-actress-5805026",
+      "mediaType": "movie",
+      "title": "幸運是我",
+      "awardYear": 2017,
+      "winner": "惠英紅",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5805026"
+      },
+      "award": "最優秀主演女優賞",
+      "awardOrder": 5
+    },
+    {
+      "id": "hkfa-2017-best-supporting-actor-6041030",
+      "mediaType": "movie",
+      "title": "一念無明",
+      "awardYear": 2017,
+      "winner": "曾志偉",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt6041030"
+      },
+      "award": "最優秀助演男優賞",
+      "awardOrder": 6
+    },
+    {
+      "id": "hkfa-2017-best-supporting-actress-6041030",
+      "mediaType": "movie",
+      "title": "一念無明",
+      "awardYear": 2017,
+      "winner": "金燕玲",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt6041030"
+      },
+      "award": "最優秀助演女優賞",
+      "awardOrder": 7
+    },
+    {
+      "id": "hkfa-2017-best-new-performer-5128712",
+      "mediaType": "movie",
+      "title": "點五步",
+      "awardYear": 2017,
+      "winner": "胡子彤",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5128712"
+      },
+      "award": "最優秀新人賞",
+      "awardOrder": 8
+    }
+  ],
+  "updatedAt": "2026-09-12T02:57:20Z"
+}

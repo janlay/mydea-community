@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:00:00Z",
+  "title": "金馬獎 2023 年核心獎項得獎名單",
+  "description": "第60屆金馬獎核心常設獎項得獎作品，收錄最佳劇情片、導演、男女主角、男女配角、新導演與新演員。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "golden-horse-2023-best-feature-tt14071684",
+      "mediaType": "movie",
+      "title": "石門",
+      "award": "最佳劇情片",
+      "awardYear": 2023,
+      "winner": "黃驥、大塚龍治",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt14071684"
+      },
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-horse-2023-best-director-tt29452517",
+      "mediaType": "movie",
+      "title": "老狐狸",
+      "award": "最佳導演",
+      "awardYear": 2023,
+      "winner": "蕭雅全",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt29452517"
+      },
+      "awardOrder": 2
+    },
+    {
+      "id": "golden-horse-2023-best-actor-tt27445004",
+      "mediaType": "movie",
+      "title": "富都青年",
+      "award": "最佳男主角",
+      "awardYear": 2023,
+      "winner": "吳慷仁",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt27445004"
+      },
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-horse-2023-best-actress-tt29566160",
+      "mediaType": "movie",
+      "title": "小曉",
+      "award": "最佳女主角",
+      "awardYear": 2023,
+      "winner": "林品彤",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt29566160"
+      },
+      "awardOrder": 4
+    },
+    {
+      "id": "golden-horse-2023-best-supporting-actor-tt29452517",
+      "mediaType": "movie",
+      "title": "老狐狸",
+      "award": "最佳男配角",
+      "awardYear": 2023,
+      "winner": "陳慕義",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt29452517"
+      },
+      "awardOrder": 5
+    },
+    {
+      "id": "golden-horse-2023-best-supporting-actress-tt26686277",
+      "mediaType": "movie",
+      "title": "本日公休",
+      "award": "最佳女配角",
+      "awardYear": 2023,
+      "winner": "方志友",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt26686277"
+      },
+      "awardOrder": 6
+    },
+    {
+      "id": "golden-horse-2023-best-new-director-tt27881474",
+      "mediaType": "movie",
+      "title": "年少日記",
+      "award": "最佳新導演",
+      "awardYear": 2023,
+      "winner": "卓亦謙",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt27881474"
+      },
+      "awardOrder": 7
+    },
+    {
+      "id": "golden-horse-2023-best-new-performer-tt27139786",
+      "mediaType": "movie",
+      "title": "但願人長久",
+      "award": "最佳新演員",
+      "awardYear": 2023,
+      "winner": "謝咏欣",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt27139786"
+      },
+      "awardOrder": 8
+    }
+  ]
+}

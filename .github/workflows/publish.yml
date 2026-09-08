@@ -1,0 +1,45 @@
+name: Build Registry
+
+on:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: community-registry
+  cancel-in-progress: true
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+      - name: Install validator
+        run: python3 -m pip install --disable-pip-version-check jsonschema
+      - name: Validate main
+        run: python3 .community/scripts/validate.py
+      - name: Build catalogs
+        env:
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          GH_TOKEN: ${{ github.token }}
+        run: python3 .community/scripts/build_registry.py --output "$RUNNER_TEMP/registry-output"
+      - name: Publish registry branch
+        env:
+          OUTPUT: ${{ runner.temp }}/registry-output
+        run: |
+          set -eu
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git switch --orphan registry-build
+          cp -R "$OUTPUT"/. .
+          git add themes.json
+          for locale_dir in "$OUTPUT"/*/; do
+            locale_name="$(basename "$locale_dir")"
+            git add "$locale_name"
+          done
+          git commit -m "Build registry"
+          git push --force origin registry-build:registry

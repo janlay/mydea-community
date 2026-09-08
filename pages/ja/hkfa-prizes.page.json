@@ -1,0 +1,170 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "title": "香港電影金像奨 — 部門別",
+  "description": "香港電影金像奨の各部門の全受賞記録。2021年は2022年に統合され、開催なし。",
+  "tags": [
+    "hong-kong",
+    "award",
+    "prize"
+  ],
+  "icon": "ticket",
+  "sections": [
+    {
+      "title": "香港電影金像奨 — 最優秀作品賞",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "carousel",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "hkfa-best-film.list.json"
+        }
+      ]
+    },
+    {
+      "title": "香港電影金像奨 — 最優秀監督賞",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "hkfa-best-director.list.json"
+        }
+      ]
+    },
+    {
+      "title": "香港電影金像奨 — 最優秀脚本賞",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "hkfa-best-screenplay.list.json"
+        }
+      ]
+    },
+    {
+      "title": "香港電影金像奨 — 最優秀主演男優賞",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "hkfa-best-actor.list.json"
+        }
+      ]
+    },
+    {
+      "title": "香港電影金像奨 — 最優秀主演女優賞",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "hkfa-best-actress.list.json"
+        }
+      ]
+    },
+    {
+      "title": "香港電影金像奨 — 最優秀助演男優賞",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "hkfa-best-supporting-actor.list.json"
+        }
+      ]
+    },
+    {
+      "title": "香港電影金像奨 — 最優秀助演女優賞",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "hkfa-best-supporting-actress.list.json"
+        }
+      ]
+    },
+    {
+      "title": "香港電影金像奨 — 最優秀新人賞",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "hkfa-best-new-performer.list.json"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "author": "ChatGPT",
+    "description": "香港電影金像奨の受賞データ。"
+  }
+}

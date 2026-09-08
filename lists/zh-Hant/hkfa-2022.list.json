@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "title": "香港電影金像獎 2022 年得獎名單",
+  "description": "第40屆香港電影金像獎主要獎項得獎作品。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "hkfa-2022-best-film-8165192",
+      "mediaType": "movie",
+      "title": "怒火",
+      "awardYear": 2022,
+      "winner": "《怒火》",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt8165192"
+      },
+      "award": "最佳電影",
+      "awardOrder": 1
+    },
+    {
+      "id": "hkfa-2022-best-director-8165192",
+      "mediaType": "movie",
+      "title": "怒火",
+      "awardYear": 2022,
+      "winner": "陳木勝",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt8165192"
+      },
+      "award": "最佳導演",
+      "awardOrder": 2
+    },
+    {
+      "id": "hkfa-2022-best-screenplay-14032696",
+      "mediaType": "movie",
+      "title": "智齒",
+      "awardYear": 2022,
+      "winner": "歐健兒、岑君茜",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14032696"
+      },
+      "award": "最佳編劇",
+      "awardOrder": 3
+    },
+    {
+      "id": "hkfa-2022-best-actor-14713814",
+      "mediaType": "movie",
+      "title": "殺出個黃昏",
+      "awardYear": 2022,
+      "winner": "謝賢",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14713814"
+      },
+      "award": "最佳男主角",
+      "awardOrder": 4
+    },
+    {
+      "id": "hkfa-2022-best-actress-14032696",
+      "mediaType": "movie",
+      "title": "智齒",
+      "awardYear": 2022,
+      "winner": "劉雅瑟",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14032696"
+      },
+      "award": "最佳女主角",
+      "awardOrder": 5
+    },
+    {
+      "id": "hkfa-2022-best-supporting-actor-14892216",
+      "mediaType": "movie",
+      "title": "媽媽的神奇小子",
+      "awardYear": 2022,
+      "winner": "馮皓揚",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14892216"
+      },
+      "award": "最佳男配角",
+      "awardOrder": 6
+    },
+    {
+      "id": "hkfa-2022-best-supporting-actress-15010590",
+      "mediaType": "movie",
+      "title": "梅艷芳",
+      "awardYear": 2022,
+      "winner": "廖子妤",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt15010590"
+      },
+      "award": "最佳女配角",
+      "awardOrder": 7
+    },
+    {
+      "id": "hkfa-2022-best-new-performer-15010590",
+      "mediaType": "movie",
+      "title": "梅艷芳",
+      "awardYear": 2022,
+      "winner": "王丹妮",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt15010590"
+      },
+      "award": "最佳新演員",
+      "awardOrder": 8
+    }
+  ]
+}

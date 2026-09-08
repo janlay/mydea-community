@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:00:00Z",
+  "title": "金馬獎 2020 年核心獎項得獎名單",
+  "description": "第57屆金馬獎核心常設獎項得獎作品，收錄最佳劇情片、導演、男女主角、男女配角、新導演與新演員。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "golden-horse-2020-best-feature-tt13105824",
+      "mediaType": "movie",
+      "title": "消失的情人節",
+      "award": "最佳劇情片",
+      "awardYear": 2020,
+      "winner": "陳玉勳",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt13105824"
+      },
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-horse-2020-best-director-tt13105824",
+      "mediaType": "movie",
+      "title": "消失的情人節",
+      "award": "最佳導演",
+      "awardYear": 2020,
+      "winner": "陳玉勳",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt13105824"
+      },
+      "awardOrder": 2
+    },
+    {
+      "id": "golden-horse-2020-best-actor-tt12359272",
+      "mediaType": "movie",
+      "title": "親愛的房客",
+      "award": "最佳男主角",
+      "awardYear": 2020,
+      "winner": "莫子儀",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt12359272"
+      },
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-horse-2020-best-actress-tt12397078",
+      "mediaType": "movie",
+      "title": "孤味",
+      "award": "最佳女主角",
+      "awardYear": 2020,
+      "winner": "陳淑芳",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt12397078"
+      },
+      "awardOrder": 4
+    },
+    {
+      "id": "golden-horse-2020-best-supporting-actor-tt12899858",
+      "mediaType": "movie",
+      "title": "同學麥娜絲",
+      "award": "最佳男配角",
+      "awardYear": 2020,
+      "winner": "納豆",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt12899858"
+      },
+      "awardOrder": 5
+    },
+    {
+      "id": "golden-horse-2020-best-supporting-actress-tt12359272",
+      "mediaType": "movie",
+      "title": "親愛的房客",
+      "award": "最佳女配角",
+      "awardYear": 2020,
+      "winner": "陳淑芳",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt12359272"
+      },
+      "awardOrder": 6
+    },
+    {
+      "id": "golden-horse-2020-best-new-director-tt13212046",
+      "mediaType": "movie",
+      "title": "南巫",
+      "award": "最佳新導演",
+      "awardYear": 2020,
+      "winner": "張吉安",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt13212046"
+      },
+      "awardOrder": 7
+    },
+    {
+      "id": "golden-horse-2020-best-new-performer-tt12396992",
+      "mediaType": "movie",
+      "title": "無聲",
+      "award": "最佳新演員",
+      "awardYear": 2020,
+      "winner": "陳姸霏",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt12396992"
+      },
+      "awardOrder": 8
+    }
+  ]
+}

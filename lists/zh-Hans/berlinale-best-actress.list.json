@@ -1,0 +1,740 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:30:00Z",
+  "title": "柏林 — 最佳女演员银熊奖（历史）",
+  "description": "柏林国际电影节 最佳女演员银熊奖（历史） 全部获奖记录。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "berlinale-best-actress-1956-donatella",
+      "mediaType": "movie",
+      "title": "Donatella",
+      "awardYear": 1956,
+      "winner": "Elsa Martinelli",
+      "releaseDate": "1956",
+      "externalIds": {
+        "imdb": "tt0049153"
+      }
+    },
+    {
+      "id": "berlinale-best-actress-1957-woman-in-a-dressing-gown",
+      "mediaType": "movie",
+      "title": "Woman in a Dressing Gown",
+      "awardYear": 1957,
+      "winner": "Yvonne Mitchell",
+      "releaseDate": "1957",
+      "externalIds": {
+        "imdb": "tt0051204"
+      }
+    },
+    {
+      "id": "berlinale-best-actress-1958-wild-is-the-wind",
+      "mediaType": "movie",
+      "title": "Wild Is the Wind",
+      "awardYear": 1958,
+      "winner": "Anna Magnani",
+      "releaseDate": "1958",
+      "externalIds": {
+        "imdb": "tt0051193"
+      }
+    },
+    {
+      "id": "berlinale-best-actress-1959-ask-any-girl",
+      "mediaType": "movie",
+      "title": "Ask Any Girl",
+      "awardYear": 1959,
+      "winner": "Shirley MacLaine",
+      "releaseDate": "1959",
+      "externalIds": {
+        "imdb": "tt0052583"
+      }
+    },
+    {
+      "id": "berlinale-best-actress-1960-the-fair",
+      "mediaType": "movie",
+      "title": "The Fair",
+      "awardYear": 1960,
+      "winner": "Juliette Mayniel",
+      "releaseDate": "1960",
+      "externalIds": {
+        "imdb": "tt0053996"
+      }
+    },
+    {
+      "id": "berlinale-best-actress-1961-a-woman-is-a-woman",
+      "mediaType": "movie",
+      "title": "A Woman Is a Woman",
+      "awardYear": 1961,
+      "winner": "Anna Karina",
+      "releaseDate": "1961",
+      "externalIds": {
+        "imdb": "tt0055572"
+      }
+    },
+    {
+      "id": "berlinale-best-actress-1962-no-exit",
+      "mediaType": "movie",
+      "title": "No Exit",
+      "awardYear": 1962,
+      "winner": "Rita Gam & Viveca Lindfors",
+      "releaseDate": "1962",
+      "externalIds": {
+        "imdb": "tt0056282"
+      }
+    },
+    {
+      "id": "berlinale-best-actress-1963-the-mistress",
+      "mediaType": "movie",
+      "title": "The Mistress",
+      "awardYear": 1963,
+      "winner": "Bibi Andersson",
+      "releaseDate": "1963",
+      "externalIds": {
+        "imdb": "tt0056733"
+      }
+    },
+    {
+      "id": "berlinale-best-actress-1964-the-insect-woman",
+      "mediaType": "movie",
+      "title": "The Insect Woman",
+      "awardYear": 1964,
+      "winner": "Sachiko Hidari",
+      "releaseDate": "1964",
+      "externalIds": {
+        "imdb": "tt0057363"
+      }
+    },
+    {
+      "id": "berlinale-best-actress-1964-she-and-he",
+      "mediaType": "movie",
+      "title": "She and He",
+      "awardYear": 1964,
+      "winner": "Sachiko Hidari",
+      "releaseDate": "1964",
+      "externalIds": {
+        "imdb": "tt0057218"
+      }
+    },
+    {
+      "id": "berlinale-best-actress-1965-shakespeare-wallah",
+      "mediaType": "movie",
+      "title": "Shakespeare Wallah",
+      "awardYear": 1965,
+      "winner": "Madhur Jaffrey",
+      "releaseDate": "1965",
+      "externalIds": {
+        "imdb": "tt0059709"
+      }
+    },
+    {
+      "id": "berlinale-best-actress-1966-lord-love-a-duck",
+      "mediaType": "movie",
+      "title": "Lord Love a Duck",
+      "awardYear": 1966,
+      "winner": "Lola Albright",
+      "releaseDate": "1966",
+      "externalIds": {
+        "imdb": "tt0060636"
+      }
+    },
+    {
+      "id": "berlinale-best-actress-1967-the-whisperers",
+      "mediaType": "movie",
+      "title": "The Whisperers",
+      "awardYear": 1967,
+      "winner": "Edith Evans",
+      "releaseDate": "1967",
+      "externalIds": {
+        "letterboxd": "the-whisperers"
+      }
+    },
+    {
+      "id": "berlinale-best-actress-1968-les-biches",
+      "mediaType": "movie",
+      "title": "Les Biches",
+      "awardYear": 1968,
+      "winner": "Stéphane Audran",
+      "releaseDate": "1968",
+      "externalIds": {
+        "letterboxd": "les-biches"
+      }
+    },
+    {
+      "id": "berlinale-best-actress-1971-desperate-characters",
+      "mediaType": "movie",
+      "title": "Desperate Characters",
+      "awardYear": 1971,
+      "winner": "Shirley MacLaine",
+      "releaseDate": "1971",
+      "externalIds": {
+        "letterboxd": "desperate-characters"
+      }
+    },
+    {
+      "id": "berlinale-best-actress-1971-le-chat",
+      "mediaType": "movie",
+      "title": "Le Chat",
+      "awardYear": 1971,
+      "winner": "Simone Signoret",
+      "releaseDate": "1971",
+      "externalIds": {
+        "imdb": "tt0066906"
+      }
+    },
+    {
+      "id": "berlinale-best-actress-1972-hammersmith-is-out",
+      "mediaType": "movie",
+      "title": "Hammersmith Is Out",
+      "awardYear": 1972,
+      "winner": "Elizabeth Taylor",
+      "releaseDate": "1972",
+      "externalIds": {
+        "letterboxd": "hammersmith-is-out"
+      }
+    },
+    {
+      "id": "berlinale-best-actress-1975-sandakan-no-8",
+      "mediaType": "movie",
+      "title": "Sandakan No. 8",
+      "awardYear": 1975,
+      "winner": "Kinuyo Tanaka",
+      "releaseDate": "1975",
+      "externalIds": {
+        "letterboxd": "sandakan-no-8"
+      }
+    },
+    {
+      "id": "berlinale-best-actress-1976-nights-and-days",
+      "mediaType": "movie",
+      "title": "Nights and Days",
+      "awardYear": 1976,
+      "winner": "Jadwiga Barańska",
+      "releaseDate": "1976",
+      "externalIds": {
+        "imdb": "tt0076301"
+      }
+    },
+    {
+      "id": "berlinale-best-actress-1977-the-late-show",
+      "mediaType": "movie",
+      "title": "The Late Show",
+      "awardYear": 1977,
+      "winner": "Lily Tomlin",
+      "releaseDate": "1977",
+      "externalIds": {
+        "imdb": "tt0079672"
+      }
+    },
+    {
+      "id": "berlinale-best-actress-1978-opening-night",
+      "mediaType": "movie",
+      "title": "Opening Night",
+      "awardYear": 1978,
+      "winner": "Gena Rowlands",
+      "releaseDate": "1978",
+      "externalIds": {
+        "letterboxd": "opening-night"
+      }
+    },
+    {
+      "id": "berlinale-best-actress-1979-the-marriage-of-maria-braun",
+      "mediaType": "movie",
+      "title": "The Marriage of Maria Braun",
+      "awardYear": 1979,
+      "winner": "Hanna Schygulla",
+      "releaseDate": "1979",
+      "externalIds": {
+        "imdb": "tt0079095"
+      }
+    },
+    {
+      "id": "berlinale-best-actress-1980-solo-sunny",
+      "mediaType": "movie",
+      "title": "Solo Sunny",
+      "awardYear": 1980,
+      "winner": "Renate Krößner",
+      "releaseDate": "1980",
+      "externalIds": {
+        "imdb": "tt0079924"
+      }
+    },
+    {
+      "id": "berlinale-best-actress-1981-fever",
+      "mediaType": "movie",
+      "title": "Fever",
+      "awardYear": 1981,
+      "winner": "Barbara Grabowska",
+      "releaseDate": "1981",
+      "externalIds": {
+        "imdb": "tt0082374"
+      }
+    },
+    {
+      "id": "berlinale-best-actress-1982-burgschaft-fur-ein-jahr",
+      "mediaType": "movie",
+      "title": "Bürgschaft für ein Jahr",
+      "awardYear": 1982,
+      "winner": "Katrin Sass",
+      "releaseDate": "1982",
+      "externalIds": {
+        "letterboxd": "burgschaft-fur-ein-jahr"
+      }
+    },
+    {
+      "id": "berlinale-best-actress-1983-love-by-request",
+      "mediaType": "movie",
+      "title": "Love by Request",
+      "awardYear": 1983,
+      "winner": "Yevgeniya Glushenko",
+      "releaseDate": "1983",
+      "externalIds": {
+        "letterboxd": "love-by-request"
+      }
+    },
+    {
+      "id": "berlinale-best-actress-1984-wartime-romance",
+      "mediaType": "movie",
+      "title": "Wartime Romance",
+      "awardYear": 1984,
+      "winner": "Inna Churikova",
+      "releaseDate": "1984",
+      "externalIds": {
+        "letterboxd": "wartime-romance"
+      }
+    },
+    {
+      "id": "berlinale-best-actress-1985-wrong-world",
+      "mediaType": "movie",
+      "title": "Wrong World",
+      "awardYear": 1985,
+      "winner": "Jo Kennedy",
+      "releaseDate": "1985",
+      "externalIds": {
+        "letterboxd": "wrong-world"
+      }
+    },
+    {
+      "id": "berlinale-best-actress-1986-hour-of-the-star",
+      "mediaType": "movie",
+      "title": "Hour of the Star",
+      "awardYear": 1986,
+      "winner": "Marcélia Cartaxo",
+      "releaseDate": "1986",
+      "externalIds": {
+        "letterboxd": "hour-of-the-star"
+      }
+    },
+    {
+      "id": "berlinale-best-actress-1986-red-kiss",
+      "mediaType": "movie",
+      "title": "Red Kiss",
+      "awardYear": 1986,
+      "winner": "Charlotte Valandrey",
+      "releaseDate": "1986",
+      "externalIds": {
+        "letterboxd": "red-kiss"
+      }
+    },
+    {
+      "id": "berlinale-best-actress-1987-vera",
+      "mediaType": "movie",
+      "title": "Vera",
+      "awardYear": 1987,
+      "winner": "Ana Beatriz Nogueira",
+      "releaseDate": "1987",
+      "externalIds": {
+        "letterboxd": "vera"
+      }
+    },
+    {
+      "id": "berlinale-best-actress-1988-broadcast-news",
+      "mediaType": "movie",
+      "title": "Broadcast News",
+      "awardYear": 1988,
+      "winner": "Holly Hunter",
+      "releaseDate": "1988",
+      "externalIds": {
+        "letterboxd": "broadcast-news"
+      }
+    },
+    {
+      "id": "berlinale-best-actress-1989-camille-claudel",
+      "mediaType": "movie",
+      "title": "Camille Claudel",
+      "awardYear": 1989,
+      "winner": "Isabelle Adjani",
+      "releaseDate": "1989",
+      "externalIds": {
+        "letterboxd": "camille-claudel"
+      }
+    },
+    {
+      "id": "berlinale-best-actress-1991-lovers",
+      "mediaType": "movie",
+      "title": "Lovers",
+      "awardYear": 1991,
+      "winner": "Victoria Abril",
+      "releaseDate": "1991",
+      "externalIds": {
+        "letterboxd": "lovers"
+      }
+    },
+    {
+      "id": "berlinale-best-actress-1992-center-stage",
+      "mediaType": "movie",
+      "title": "Center Stage",
+      "awardYear": 1992,
+      "winner": "Maggie Cheung",
+      "releaseDate": "1992",
+      "externalIds": {
+        "imdb": "tt0102816"
+      }
+    },
+    {
+      "id": "berlinale-best-actress-1993-love-field",
+      "mediaType": "movie",
+      "title": "Love Field",
+      "awardYear": 1993,
+      "winner": "Michelle Pfeiffer",
+      "releaseDate": "1993",
+      "externalIds": {
+        "imdb": "tt0104765"
+      }
+    },
+    {
+      "id": "berlinale-best-actress-1994-ladybird-ladybird",
+      "mediaType": "movie",
+      "title": "Ladybird, Ladybird",
+      "awardYear": 1994,
+      "winner": "Crissy Rock",
+      "releaseDate": "1994",
+      "externalIds": {
+        "letterboxd": "ladybird-ladybird"
+      }
+    },
+    {
+      "id": "berlinale-best-actress-1995-summer-snow",
+      "mediaType": "movie",
+      "title": "Summer Snow",
+      "awardYear": 1995,
+      "winner": "Josephine Siao",
+      "releaseDate": "1995",
+      "externalIds": {
+        "letterboxd": "summer-snow"
+      }
+    },
+    {
+      "id": "berlinale-best-actress-1996-my-man",
+      "mediaType": "movie",
+      "title": "My Man",
+      "awardYear": 1996,
+      "winner": "Anouk Grinberg",
+      "releaseDate": "1996",
+      "externalIds": {
+        "letterboxd": "my-man"
+      }
+    },
+    {
+      "id": "berlinale-best-actress-1997-the-english-patient",
+      "mediaType": "movie",
+      "title": "英国病人",
+      "englishTitle": "The English Patient",
+      "awardYear": 1997,
+      "winner": "Juliette Binoche",
+      "releaseDate": "1997",
+      "externalIds": {
+        "letterboxd": "the-english-patient"
+      }
+    },
+    {
+      "id": "berlinale-best-actress-1998-central-station",
+      "mediaType": "movie",
+      "title": "中央车站",
+      "englishTitle": "Central Station",
+      "awardYear": 1998,
+      "winner": "Fernanda Montenegro",
+      "releaseDate": "1998",
+      "externalIds": {
+        "letterboxd": "central-station"
+      }
+    },
+    {
+      "id": "berlinale-best-actress-1999-aimee-and-jaguar",
+      "mediaType": "movie",
+      "title": "Aimée & Jaguar",
+      "awardYear": 1999,
+      "winner": "Juliane Köhler & Maria Schrader",
+      "releaseDate": "1999",
+      "externalIds": {
+        "letterboxd": "aimee-and-jaguar"
+      }
+    },
+    {
+      "id": "berlinale-best-actress-2000-the-legend-of-rita",
+      "mediaType": "movie",
+      "title": "The Legend of Rita",
+      "awardYear": 2000,
+      "winner": "Bibiana Beglau & Nadja Uhl",
+      "releaseDate": "2000",
+      "externalIds": {
+        "letterboxd": "the-legend-of-rita"
+      }
+    },
+    {
+      "id": "berlinale-best-actress-2001-intimacy",
+      "mediaType": "movie",
+      "title": "Intimacy",
+      "awardYear": 2001,
+      "winner": "Kerry Fox",
+      "releaseDate": "2001",
+      "externalIds": {
+        "letterboxd": "intimacy"
+      }
+    },
+    {
+      "id": "berlinale-best-actress-2002-monster-s-ball",
+      "mediaType": "movie",
+      "title": "死囚之舞",
+      "englishTitle": "Monster's Ball",
+      "awardYear": 2002,
+      "winner": "Halle Berry",
+      "releaseDate": "2002",
+      "externalIds": {
+        "letterboxd": "monster-s-ball"
+      }
+    },
+    {
+      "id": "berlinale-best-actress-2003-the-hours",
+      "mediaType": "movie",
+      "title": "时时刻刻",
+      "englishTitle": "The Hours",
+      "awardYear": 2003,
+      "winner": "Nicole Kidman, Julianne Moore & Meryl Streep",
+      "releaseDate": "2003",
+      "externalIds": {
+        "letterboxd": "the-hours"
+      }
+    },
+    {
+      "id": "berlinale-best-actress-2004-maria-full-of-grace",
+      "mediaType": "movie",
+      "title": "Maria Full of Grace",
+      "awardYear": 2004,
+      "winner": "Catalina Sandino Moreno",
+      "releaseDate": "2004",
+      "externalIds": {
+        "letterboxd": "maria-full-of-grace"
+      }
+    },
+    {
+      "id": "berlinale-best-actress-2004-monster",
+      "mediaType": "movie",
+      "title": "女魔头",
+      "englishTitle": "Monster",
+      "awardYear": 2004,
+      "winner": "Charlize Theron",
+      "releaseDate": "2004",
+      "externalIds": {
+        "letterboxd": "monster"
+      }
+    },
+    {
+      "id": "berlinale-best-actress-2005-sophie-scholl-the-final-days",
+      "mediaType": "movie",
+      "title": "Sophie Scholl – The Final Days",
+      "awardYear": 2005,
+      "winner": "Julia Jentsch",
+      "releaseDate": "2005",
+      "externalIds": {
+        "letterboxd": "sophie-scholl-the-final-days"
+      }
+    },
+    {
+      "id": "berlinale-best-actress-2006-requiem",
+      "mediaType": "movie",
+      "title": "安魂曲",
+      "englishTitle": "Requiem",
+      "awardYear": 2006,
+      "winner": "Sandra Hüller",
+      "releaseDate": "2006",
+      "externalIds": {
+        "letterboxd": "requiem"
+      }
+    },
+    {
+      "id": "berlinale-best-actress-2007-yella",
+      "mediaType": "movie",
+      "title": "Yella",
+      "awardYear": 2007,
+      "winner": "Nina Hoss",
+      "releaseDate": "2007",
+      "externalIds": {
+        "letterboxd": "yella"
+      }
+    },
+    {
+      "id": "berlinale-best-actress-2008-happy-go-lucky",
+      "mediaType": "movie",
+      "title": "无忧无虑",
+      "englishTitle": "Happy-Go-Lucky",
+      "awardYear": 2008,
+      "winner": "Sally Hawkins",
+      "releaseDate": "2008",
+      "externalIds": {
+        "letterboxd": "happy-go-lucky"
+      }
+    },
+    {
+      "id": "berlinale-best-actress-2009-everyone-else",
+      "mediaType": "movie",
+      "title": "Everyone Else",
+      "awardYear": 2009,
+      "winner": "Birgit Minichmayr",
+      "releaseDate": "2009",
+      "externalIds": {
+        "letterboxd": "everyone-else"
+      }
+    },
+    {
+      "id": "berlinale-best-actress-2010-caterpillar",
+      "mediaType": "movie",
+      "title": "芋虫",
+      "englishTitle": "Caterpillar",
+      "awardYear": 2010,
+      "winner": "Shinobu Terajima",
+      "releaseDate": "2010",
+      "externalIds": {
+        "letterboxd": "caterpillar"
+      }
+    },
+    {
+      "id": "berlinale-best-actress-2011-a-separation",
+      "mediaType": "movie",
+      "title": "一次别离",
+      "englishTitle": "A Separation",
+      "awardYear": 2011,
+      "winner": "Leila Hatami, Sareh Bayat, Sarina Farhadi & Kimia Hosseini",
+      "releaseDate": "2011",
+      "externalIds": {
+        "letterboxd": "a-separation"
+      }
+    },
+    {
+      "id": "berlinale-best-actress-2012-war-witch",
+      "mediaType": "movie",
+      "title": "War Witch",
+      "awardYear": 2012,
+      "winner": "Rachel Mwanza",
+      "releaseDate": "2012",
+      "externalIds": {
+        "letterboxd": "war-witch"
+      }
+    },
+    {
+      "id": "berlinale-best-actress-2013-gloria",
+      "mediaType": "movie",
+      "title": "Gloria",
+      "awardYear": 2013,
+      "winner": "Paulina García",
+      "releaseDate": "2013",
+      "externalIds": {
+        "letterboxd": "gloria"
+      }
+    },
+    {
+      "id": "berlinale-best-actress-2014-the-little-house",
+      "mediaType": "movie",
+      "title": "The Little House",
+      "awardYear": 2014,
+      "winner": "Haru Kuroki",
+      "releaseDate": "2014",
+      "externalIds": {
+        "letterboxd": "the-little-house"
+      }
+    },
+    {
+      "id": "berlinale-best-actress-2015-45-years",
+      "mediaType": "movie",
+      "title": "四十五周年",
+      "englishTitle": "45 Years",
+      "awardYear": 2015,
+      "winner": "Charlotte Rampling",
+      "releaseDate": "2015",
+      "externalIds": {
+        "letterboxd": "45-years"
+      }
+    },
+    {
+      "id": "berlinale-best-actress-2016-the-commune",
+      "mediaType": "movie",
+      "title": "公社",
+      "englishTitle": "The Commune",
+      "awardYear": 2016,
+      "winner": "Trine Dyrholm",
+      "releaseDate": "2016",
+      "externalIds": {
+        "letterboxd": "the-commune"
+      }
+    },
+    {
+      "id": "berlinale-best-actress-2017-on-the-beach-at-night-alone",
+      "mediaType": "movie",
+      "title": "独自在夜晚的海边",
+      "englishTitle": "On the Beach at Night Alone",
+      "awardYear": 2017,
+      "winner": "Kim Min-hee",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6462506"
+      }
+    },
+    {
+      "id": "berlinale-best-actress-2018-the-heiresses",
+      "mediaType": "movie",
+      "title": "女继承者",
+      "englishTitle": "The Heiresses",
+      "awardYear": 2018,
+      "winner": "Ana Brun",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7875464"
+      }
+    },
+    {
+      "id": "berlinale-best-actress-2019-so-long-my-son",
+      "mediaType": "movie",
+      "title": "地久天长",
+      "englishTitle": "So Long, My Son",
+      "awardYear": 2019,
+      "winner": "Yong Mei",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt9581076"
+      },
+      "backdropPath": "https://image.tmdb.org/t/p/w342/zxaZENMHp9tw7YSy6NAPfMmhjKh.jpg"
+    },
+    {
+      "id": "berlinale-best-actress-2020-undine",
+      "mediaType": "movie",
+      "title": "温蒂妮",
+      "englishTitle": "Undine",
+      "awardYear": 2020,
+      "winner": "Paula Beer",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt11617052"
+      }
+    }
+  ]
+}

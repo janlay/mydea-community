@@ -1,0 +1,546 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:45:00Z",
+  "title": "金馬獎 — 最佳男配角",
+  "description": "金馬獎最佳男配角歷屆全部實際得獎記錄。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "golden-horse-1962-best-supporting-actor-item-1",
+      "mediaType": "movie",
+      "title": "宜室宜家",
+      "awardYear": 1962,
+      "winner": "矮仔財",
+      "releaseDate": "1962"
+    },
+    {
+      "id": "golden-horse-1963-best-supporting-actor-item-2",
+      "mediaType": "movie",
+      "title": "白雲故鄉",
+      "awardYear": 1963,
+      "winner": "馬驥",
+      "releaseDate": "1963"
+    },
+    {
+      "id": "golden-horse-1965-best-supporting-actor-item-3",
+      "mediaType": "movie",
+      "title": "故都春夢",
+      "awardYear": 1965,
+      "winner": "井淼",
+      "releaseDate": "1965"
+    },
+    {
+      "id": "golden-horse-1966-best-supporting-actor-item-4",
+      "mediaType": "movie",
+      "title": "金玉奴",
+      "awardYear": 1966,
+      "winner": "吳家驤",
+      "releaseDate": "1966"
+    },
+    {
+      "id": "golden-horse-1967-best-supporting-actor-item-5",
+      "mediaType": "movie",
+      "title": "貞節牌坊",
+      "awardYear": 1967,
+      "winner": "崔福生",
+      "releaseDate": "1967"
+    },
+    {
+      "id": "golden-horse-1968-best-supporting-actor-item-6",
+      "mediaType": "movie",
+      "title": "烽火萬里情",
+      "awardYear": 1968,
+      "winner": "井淼",
+      "releaseDate": "1968"
+    },
+    {
+      "id": "golden-horse-1969-best-supporting-actor-item-7",
+      "mediaType": "movie",
+      "title": "揚子江風雲",
+      "awardYear": 1969,
+      "winner": "孫越",
+      "releaseDate": "1969"
+    },
+    {
+      "id": "golden-horse-1970-best-supporting-actor-item-8",
+      "mediaType": "movie",
+      "title": "歌聲魅影",
+      "awardYear": 1970,
+      "winner": "儀銘",
+      "releaseDate": "1970"
+    },
+    {
+      "id": "golden-horse-1971-best-supporting-actor-item-9",
+      "mediaType": "movie",
+      "title": "庭院深深",
+      "awardYear": 1971,
+      "winner": "王戎",
+      "releaseDate": "1971"
+    },
+    {
+      "id": "golden-horse-1972-best-supporting-actor-item-10",
+      "mediaType": "movie",
+      "title": "大地春雷",
+      "awardYear": 1972,
+      "winner": "魏蘇",
+      "releaseDate": "1972"
+    },
+    {
+      "id": "golden-horse-1973-best-supporting-actor-item-11",
+      "mediaType": "movie",
+      "title": "突破國際死亡線",
+      "awardYear": 1973,
+      "winner": "王宇",
+      "releaseDate": "1973"
+    },
+    {
+      "id": "golden-horse-1975-best-supporting-actor-item-12",
+      "mediaType": "movie",
+      "title": "雲深不知處",
+      "awardYear": 1975,
+      "winner": "儀銘",
+      "releaseDate": "1975"
+    },
+    {
+      "id": "golden-horse-1976-best-supporting-actor-item-13",
+      "mediaType": "movie",
+      "title": "狼牙口",
+      "awardYear": 1976,
+      "winner": "郎雄",
+      "releaseDate": "1976"
+    },
+    {
+      "id": "golden-horse-1977-best-supporting-actor-item-14",
+      "mediaType": "movie",
+      "title": "千刀萬里追",
+      "awardYear": 1977,
+      "winner": "白鷹",
+      "releaseDate": "1977"
+    },
+    {
+      "id": "golden-horse-1978-best-supporting-actor-item-15",
+      "mediaType": "movie",
+      "title": "日落北京城",
+      "awardYear": 1978,
+      "winner": "谷名倫",
+      "releaseDate": "1978"
+    },
+    {
+      "id": "golden-horse-1979-best-supporting-actor-item-16",
+      "mediaType": "movie",
+      "title": "歡顏",
+      "awardYear": 1979,
+      "winner": "韓甦",
+      "releaseDate": "1979"
+    },
+    {
+      "id": "golden-horse-1980-best-supporting-actor-item-17",
+      "mediaType": "movie",
+      "title": "鄉野人",
+      "awardYear": 1980,
+      "winner": "向雲鵬",
+      "releaseDate": "1980"
+    },
+    {
+      "id": "golden-horse-1981-best-supporting-actor-item-18",
+      "mediaType": "movie",
+      "title": "皇天后土",
+      "awardYear": 1981,
+      "winner": "王玨",
+      "releaseDate": "1981"
+    },
+    {
+      "id": "golden-horse-1982-best-supporting-actor-item-19",
+      "mediaType": "movie",
+      "title": "武松",
+      "awardYear": 1982,
+      "winner": "谷峰",
+      "releaseDate": "1982"
+    },
+    {
+      "id": "golden-horse-1983-best-supporting-actor-item-20",
+      "mediaType": "movie",
+      "title": "待罪的女孩",
+      "awardYear": 1983,
+      "winner": "谷峰",
+      "releaseDate": "1983"
+    },
+    {
+      "id": "golden-horse-1984-best-supporting-actor-item-21",
+      "mediaType": "movie",
+      "title": "頤園飄香",
+      "awardYear": 1984,
+      "winner": "常楓",
+      "releaseDate": "1984"
+    },
+    {
+      "id": "golden-horse-1985-best-supporting-actor-item-22",
+      "mediaType": "movie",
+      "title": "超級市民",
+      "awardYear": 1985,
+      "winner": "陳博正",
+      "releaseDate": "1985"
+    },
+    {
+      "id": "golden-horse-1986-best-supporting-actor-item-23",
+      "mediaType": "movie",
+      "title": "癲佬正傳",
+      "awardYear": 1986,
+      "winner": "秦沛",
+      "releaseDate": "1986"
+    },
+    {
+      "id": "golden-horse-1987-best-supporting-actor-item-24",
+      "mediaType": "movie",
+      "title": "倩女幽魂",
+      "awardYear": 1987,
+      "winner": "午馬",
+      "releaseDate": "1987"
+    },
+    {
+      "id": "golden-horse-1988-best-supporting-actor-item-25",
+      "mediaType": "movie",
+      "title": "霹靂先鋒",
+      "awardYear": 1988,
+      "winner": "周星馳",
+      "releaseDate": "1988"
+    },
+    {
+      "id": "golden-horse-1989-best-supporting-actor-item-26",
+      "mediaType": "movie",
+      "title": "香蕉天堂",
+      "awardYear": 1989,
+      "winner": "張世",
+      "releaseDate": "1989"
+    },
+    {
+      "id": "golden-horse-1990-best-supporting-actor-item-27",
+      "mediaType": "movie",
+      "title": "笑傲江湖",
+      "awardYear": 1990,
+      "winner": "張學友",
+      "releaseDate": "1990"
+    },
+    {
+      "id": "golden-horse-1991-best-supporting-actor-item-28",
+      "mediaType": "movie",
+      "title": "五億探長雷洛傳",
+      "awardYear": 1991,
+      "winner": "關海山",
+      "releaseDate": "1991"
+    },
+    {
+      "id": "golden-horse-1992-best-supporting-actor-item-29",
+      "mediaType": "movie",
+      "title": "暗戀桃花源",
+      "awardYear": 1992,
+      "winner": "顧寶明",
+      "releaseDate": "1992"
+    },
+    {
+      "id": "golden-horse-1993-best-supporting-actor-item-30",
+      "mediaType": "movie",
+      "title": "囍宴",
+      "awardYear": 1993,
+      "winner": "郎雄",
+      "releaseDate": "1993"
+    },
+    {
+      "id": "golden-horse-1994-best-supporting-actor-item-31",
+      "mediaType": "movie",
+      "title": "獨立時代",
+      "awardYear": 1994,
+      "winner": "王柏森",
+      "releaseDate": "1994"
+    },
+    {
+      "id": "golden-horse-1995-best-supporting-actor-item-32",
+      "mediaType": "movie",
+      "title": "女人四十",
+      "awardYear": 1995,
+      "winner": "羅家英",
+      "releaseDate": "1995"
+    },
+    {
+      "id": "golden-horse-1996-best-supporting-actor-item-33",
+      "mediaType": "movie",
+      "title": "麻將",
+      "awardYear": 1996,
+      "winner": "王啟讚",
+      "releaseDate": "1996"
+    },
+    {
+      "id": "golden-horse-1997-best-supporting-actor-item-34",
+      "mediaType": "movie",
+      "title": "愛情來了",
+      "awardYear": 1997,
+      "winner": "陳進興",
+      "releaseDate": "1997"
+    },
+    {
+      "id": "golden-horse-1998-best-supporting-actor-item-35",
+      "mediaType": "movie",
+      "title": "愈快樂愈墮落",
+      "awardYear": 1998,
+      "winner": "曾志偉",
+      "releaseDate": "1998"
+    },
+    {
+      "id": "golden-horse-1999-best-supporting-actor-item-36",
+      "mediaType": "movie",
+      "title": "想死趁現在",
+      "awardYear": 1999,
+      "winner": "戴立忍",
+      "releaseDate": "1999"
+    },
+    {
+      "id": "golden-horse-2000-best-supporting-actor-item-37",
+      "mediaType": "movie",
+      "title": "運轉手之戀",
+      "awardYear": 2000,
+      "winner": "太保",
+      "releaseDate": "2000"
+    },
+    {
+      "id": "golden-horse-2001-best-supporting-actor-item-38",
+      "mediaType": "movie",
+      "title": "野獸之瞳",
+      "awardYear": 2001,
+      "winner": "譚耀文",
+      "releaseDate": "2001"
+    },
+    {
+      "id": "golden-horse-2002-best-supporting-actor-item-39",
+      "mediaType": "movie",
+      "title": "想飛",
+      "awardYear": 2002,
+      "winner": "黃秋生",
+      "releaseDate": "2002"
+    },
+    {
+      "id": "golden-horse-2003-best-supporting-actor-item-40",
+      "mediaType": "movie",
+      "title": "無間道",
+      "awardYear": 2003,
+      "winner": "黃秋生",
+      "releaseDate": "2003"
+    },
+    {
+      "id": "golden-horse-2004-best-supporting-actor-item-41",
+      "mediaType": "movie",
+      "title": "新警察故事",
+      "awardYear": 2004,
+      "winner": "吳彥祖",
+      "releaseDate": "2004"
+    },
+    {
+      "id": "golden-horse-2005-best-supporting-actor-item-42",
+      "mediaType": "movie",
+      "title": "頭文字D",
+      "awardYear": 2005,
+      "winner": "黃秋生",
+      "releaseDate": "2005"
+    },
+    {
+      "id": "golden-horse-2006-best-supporting-actor-item-43",
+      "mediaType": "movie",
+      "title": "父子",
+      "awardYear": 2006,
+      "winner": "吳澋滔",
+      "releaseDate": "2006"
+    },
+    {
+      "id": "golden-horse-2007-best-supporting-actor-item-44",
+      "mediaType": "movie",
+      "title": "戰·鼓",
+      "awardYear": 2007,
+      "winner": "梁家輝",
+      "releaseDate": "2007"
+    },
+    {
+      "id": "golden-horse-2008-best-supporting-actor-item-45",
+      "mediaType": "movie",
+      "title": "海角七號",
+      "awardYear": 2008,
+      "winner": "馬如龍",
+      "releaseDate": "2008"
+    },
+    {
+      "id": "golden-horse-2009-best-supporting-actor-item-46",
+      "mediaType": "movie",
+      "title": "梅蘭芳",
+      "awardYear": 2009,
+      "winner": "王學圻",
+      "releaseDate": "2009"
+    },
+    {
+      "id": "golden-horse-2010-best-supporting-actor-item-47",
+      "mediaType": "movie",
+      "title": "父後七日",
+      "awardYear": 2010,
+      "winner": "吳朋奉",
+      "releaseDate": "2010"
+    },
+    {
+      "id": "golden-horse-2011-best-supporting-actor-item-48",
+      "mediaType": "movie",
+      "title": "賽德克·巴萊",
+      "awardYear": 2011,
+      "winner": "徐詣帆",
+      "releaseDate": "2011"
+    },
+    {
+      "id": "golden-horse-2012-best-supporting-actor-item-49",
+      "mediaType": "movie",
+      "title": "低俗喜劇",
+      "awardYear": 2012,
+      "winner": "鄭中基",
+      "releaseDate": "2012"
+    },
+    {
+      "id": "golden-horse-2013-best-supporting-actor-item-50",
+      "mediaType": "movie",
+      "title": "一九四二",
+      "awardYear": 2013,
+      "winner": "李雪健",
+      "releaseDate": "2013"
+    },
+    {
+      "id": "golden-horse-2014-best-supporting-actor-item-51",
+      "mediaType": "movie",
+      "title": "軍中樂園",
+      "awardYear": 2014,
+      "winner": "陳建斌",
+      "releaseDate": "2014"
+    },
+    {
+      "id": "golden-horse-2015-best-supporting-actor-item-52",
+      "mediaType": "movie",
+      "title": "踏血尋梅",
+      "awardYear": 2015,
+      "winner": "白只",
+      "releaseDate": "2015"
+    },
+    {
+      "id": "golden-horse-2016-best-supporting-actor-tt5827496",
+      "mediaType": "movie",
+      "title": "六弄咖啡館",
+      "awardYear": 2016,
+      "winner": "林柏宏",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5827496"
+      }
+    },
+    {
+      "id": "golden-horse-2017-best-supporting-actor-tt7491398",
+      "mediaType": "movie",
+      "title": "阿莉芙",
+      "awardYear": 2017,
+      "winner": "陳竹昇",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7491398"
+      }
+    },
+    {
+      "id": "golden-horse-2018-best-supporting-actor-tt7762748",
+      "mediaType": "movie",
+      "title": "翠絲",
+      "awardYear": 2018,
+      "winner": "袁富華",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7762748"
+      }
+    },
+    {
+      "id": "golden-horse-2019-best-supporting-actor-tt10883506",
+      "mediaType": "movie",
+      "title": "陽光普照",
+      "awardYear": 2019,
+      "winner": "劉冠廷",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10883506"
+      }
+    },
+    {
+      "id": "golden-horse-2020-best-supporting-actor-tt12899858",
+      "mediaType": "movie",
+      "title": "同學麥娜絲",
+      "awardYear": 2020,
+      "winner": "納豆",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt12899858"
+      }
+    },
+    {
+      "id": "golden-horse-2021-best-supporting-actor-tt15445440",
+      "mediaType": "movie",
+      "title": "詭扯",
+      "awardYear": 2021,
+      "winner": "劉冠廷",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt15445440"
+      }
+    },
+    {
+      "id": "golden-horse-2022-best-supporting-actor-tt22476934",
+      "mediaType": "movie",
+      "title": "黑的教育",
+      "awardYear": 2022,
+      "winner": "朱軒洋",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt22476934"
+      }
+    },
+    {
+      "id": "golden-horse-2023-best-supporting-actor-tt29452517",
+      "mediaType": "movie",
+      "title": "老狐狸",
+      "awardYear": 2023,
+      "winner": "陳慕義",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt29452517"
+      }
+    },
+    {
+      "id": "golden-horse-2024-best-supporting-actor-tt32915791",
+      "mediaType": "movie",
+      "title": "角頭－大橋頭",
+      "awardYear": 2024,
+      "winner": "施名帥",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt32915791"
+      }
+    },
+    {
+      "id": "golden-horse-2025-best-supporting-actor-tt35834522",
+      "mediaType": "movie",
+      "title": "我家的事",
+      "awardYear": 2025,
+      "winner": "曾敬驊",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt35834522"
+      }
+    }
+  ]
+}

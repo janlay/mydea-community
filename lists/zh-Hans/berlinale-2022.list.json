@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:30:00Z",
+  "title": "柏林电影节 2022 年获奖名单",
+  "description": "柏林国际电影节 2022 年主竞赛国际评审团主要奖项获奖影片。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "berlinale-2022-golden-bear-alcarras",
+      "mediaType": "movie",
+      "title": "阿尔卡拉斯",
+      "englishTitle": "Alcarràs",
+      "award": "金熊奖",
+      "awardYear": 2022,
+      "awardOrder": 1,
+      "winner": "Carla Simón",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt11930126"
+      }
+    },
+    {
+      "id": "berlinale-2022-grand-jury-the-novelist-s-film",
+      "mediaType": "movie",
+      "title": "小说家的电影",
+      "englishTitle": "The Novelist's Film",
+      "award": "评审团大奖",
+      "awardYear": 2022,
+      "awardOrder": 2,
+      "winner": "Hong Sangsoo",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt17146978"
+      }
+    },
+    {
+      "id": "berlinale-2022-jury-prize-robe-of-gems",
+      "mediaType": "movie",
+      "title": "宝石长袍",
+      "englishTitle": "Robe of Gems",
+      "award": "评审团奖",
+      "awardYear": 2022,
+      "awardOrder": 3,
+      "winner": "Natalia López Gallardo",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt17280362"
+      }
+    },
+    {
+      "id": "berlinale-2022-best-director-both-sides-of-the-blade",
+      "mediaType": "movie",
+      "title": "双刃剑",
+      "englishTitle": "Both Sides of the Blade",
+      "award": "最佳导演银熊奖",
+      "awardYear": 2022,
+      "awardOrder": 4,
+      "winner": "Claire Denis",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt13535920"
+      }
+    },
+    {
+      "id": "berlinale-2022-leading-performance-rabiye-kurnaz-vs-george-w-bush",
+      "mediaType": "movie",
+      "title": "拉比耶·库尔纳兹大战小布什",
+      "englishTitle": "Rabiye Kurnaz vs. George W. Bush",
+      "award": "最佳主角银熊奖",
+      "awardYear": 2022,
+      "awardOrder": 5,
+      "winner": "Meltem Kaptan",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt13471738"
+      }
+    },
+    {
+      "id": "berlinale-2022-supporting-performance-before-now-and-then",
+      "mediaType": "movie",
+      "title": "娜娜",
+      "englishTitle": "Before, Now & Then",
+      "award": "最佳配角银熊奖",
+      "awardYear": 2022,
+      "awardOrder": 6,
+      "winner": "Laura Basuki",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt15215918"
+      }
+    },
+    {
+      "id": "berlinale-2022-best-screenplay-rabiye-kurnaz-vs-george-w-bush",
+      "mediaType": "movie",
+      "title": "拉比耶·库尔纳兹大战小布什",
+      "englishTitle": "Rabiye Kurnaz vs. George W. Bush",
+      "award": "最佳编剧银熊奖",
+      "awardYear": 2022,
+      "awardOrder": 7,
+      "winner": "Laila Stieler",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt13471738"
+      }
+    },
+    {
+      "id": "berlinale-2022-artistic-contribution-everything-will-be-ok",
+      "mediaType": "movie",
+      "title": "一切都会好的",
+      "englishTitle": "Everything Will Be Ok",
+      "award": "杰出艺术贡献银熊奖",
+      "awardYear": 2022,
+      "awardOrder": 8,
+      "winner": "Rithy Panh & Sarit Mang",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt15386518"
+      }
+    }
+  ]
+}

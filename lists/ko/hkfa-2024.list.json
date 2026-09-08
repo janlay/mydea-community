@@ -1,0 +1,132 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "title": "2024 홍콩 영화 금상장 수상작",
+  "description": "2024년 홍콩 영화 금상장 주요 부문 수상작과 수상자.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "hkfa-2024-best-film-25377462",
+      "mediaType": "movie",
+      "title": "독설대장",
+      "awardYear": 2024,
+      "winner": "《독설대장》",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt25377462"
+      },
+      "award": "최우수 작품상",
+      "awardOrder": 1,
+      "originalTitle": "毒舌大狀"
+    },
+    {
+      "id": "hkfa-2024-best-director-19856688",
+      "mediaType": "movie",
+      "title": "命案",
+      "awardYear": 2024,
+      "winner": "정바오루이",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt19856688"
+      },
+      "award": "감독상",
+      "awardOrder": 2
+    },
+    {
+      "id": "hkfa-2024-best-screenplay-19856688",
+      "mediaType": "movie",
+      "title": "命案",
+      "awardYear": 2024,
+      "winner": "游乃海、李春暉",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt19856688"
+      },
+      "award": "각본상",
+      "awardOrder": 3
+    },
+    {
+      "id": "hkfa-2024-best-actor-14099796",
+      "mediaType": "movie",
+      "title": "金手指",
+      "awardYear": 2024,
+      "winner": "양조위",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt14099796"
+      },
+      "award": "남우주연상",
+      "awardOrder": 4
+    },
+    {
+      "id": "hkfa-2024-best-actress-27881515",
+      "mediaType": "movie",
+      "title": "백일지하",
+      "awardYear": 2024,
+      "winner": "余香凝",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt27881515"
+      },
+      "award": "여우주연상",
+      "awardOrder": 5,
+      "originalTitle": "白日之下"
+    },
+    {
+      "id": "hkfa-2024-best-supporting-actor-27881515",
+      "mediaType": "movie",
+      "title": "백일지하",
+      "awardYear": 2024,
+      "winner": "姜大衞",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt27881515"
+      },
+      "award": "남우조연상",
+      "awardOrder": 6,
+      "originalTitle": "白日之下"
+    },
+    {
+      "id": "hkfa-2024-best-supporting-actress-27881515",
+      "mediaType": "movie",
+      "title": "백일지하",
+      "awardYear": 2024,
+      "winner": "梁雍婷",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt27881515"
+      },
+      "award": "여우조연상",
+      "awardOrder": 7,
+      "originalTitle": "白日之下"
+    },
+    {
+      "id": "hkfa-2024-best-new-performer-27139786",
+      "mediaType": "movie",
+      "title": "但願人長久",
+      "awardYear": 2024,
+      "winner": "謝咏欣",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt27139786"
+      },
+      "award": "신인상",
+      "awardOrder": 8
+    }
+  ],
+  "updatedAt": "2026-09-12T02:57:20Z"
+}

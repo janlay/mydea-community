@@ -1,0 +1,580 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "OpenAI",
+  "server": "TMDB",
+  "updatedAt": "2026-09-06T16:01:44Z",
+  "description": "Films associated with Cannes Film Festival Best Screenplay winners.",
+  "title": "Cannes — Best Screenplay",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "title with Year"
+  ],
+  "items": [
+    {
+      "id": "cannes-best-screenplay-1949-lost-boundaries",
+      "mediaType": "movie",
+      "title": "Lost Boundaries",
+      "awardYear": 1949,
+      "winner": "Alfred L. Werker; Eugene Ling; Virginia Shaler",
+      "releaseDate": "1949-07-02",
+      "externalIds": {
+        "tmdb": "113237"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/g2SsOErhrmOBtAbKIFEJQeQuFOj.jpg"
+    },
+    {
+      "id": "cannes-best-screenplay-1951-the-browning-version",
+      "mediaType": "movie",
+      "title": "The Browning Version",
+      "awardYear": 1951,
+      "winner": "Terence Rattigan",
+      "releaseDate": "1951-04-06",
+      "externalIds": {
+        "tmdb": "39946"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/fRlXkYgQc6QfwYMAlv2neKhRswl.jpg"
+    },
+    {
+      "id": "cannes-best-screenplay-1952-cops-and-robbers",
+      "mediaType": "movie",
+      "title": "Cops and Robbers",
+      "awardYear": 1952,
+      "winner": "Piero Tellini",
+      "releaseDate": "1951-11-29",
+      "externalIds": {
+        "tmdb": "45099"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/pUKGjrHk3zwPGu6gwaXqlf8x4Oe.jpg"
+    },
+    {
+      "id": "cannes-best-screenplay-1958-young-husbands",
+      "mediaType": "movie",
+      "title": "Young Husbands",
+      "awardYear": 1958,
+      "winner": "Pier Paolo Pasolini; Massimo Franciosa; Pasquale Festa Campanile",
+      "releaseDate": "1958-03-13",
+      "externalIds": {
+        "tmdb": "199184"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/yvixysF9OFN4FqO9TD91lFUD1KP.jpg"
+    },
+    {
+      "id": "cannes-best-screenplay-1963-codine",
+      "mediaType": "movie",
+      "title": "Codine",
+      "awardYear": 1963,
+      "winner": "Dumitru Carabat; Henri Colpi; Yves Jamiaque",
+      "releaseDate": "1963-05-15",
+      "externalIds": {
+        "tmdb": "198835"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/o4uCSH90j1Gkt0CpUDbHSHFcB3K.jpg"
+    },
+    {
+      "id": "cannes-best-screenplay-1965-the-hill",
+      "mediaType": "movie",
+      "title": "The Hill",
+      "awardYear": 1965,
+      "winner": "Ray Rigby",
+      "releaseDate": "1965-06-11",
+      "externalIds": {
+        "tmdb": "24395"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/cmBpImAjHJnuHXMVByzqnxtDcae.jpg"
+    },
+    {
+      "id": "cannes-best-screenplay-1965-the-317th-platoon",
+      "mediaType": "movie",
+      "title": "The 317th Platoon",
+      "awardYear": 1965,
+      "winner": "Pierre Schoendoerffer",
+      "releaseDate": "1965-03-31",
+      "externalIds": {
+        "tmdb": "31344"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/h4IzUHwC9IqfO6TNwHkwtDVcAke.jpg"
+    },
+    {
+      "id": "cannes-best-screenplay-1967-the-killing-game",
+      "mediaType": "movie",
+      "title": "The Killing Game",
+      "awardYear": 1967,
+      "winner": "Alain Jessua",
+      "releaseDate": "1967-04-29",
+      "externalIds": {
+        "tmdb": "78815"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/cbyaemesm1y4Q0c4mI6EEf4vVXV.jpg"
+    },
+    {
+      "id": "cannes-best-screenplay-1967-we-still-kill-the-old-way",
+      "mediaType": "movie",
+      "title": "We Still Kill the Old Way",
+      "awardYear": 1967,
+      "winner": "Elio Petri",
+      "releaseDate": "1967-02-24",
+      "externalIds": {
+        "tmdb": "80441"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/tBRjeDnVLWIrtMmNq25hKBzGEQ4.jpg"
+    },
+    {
+      "id": "cannes-best-screenplay-1974-the-sugarland-express",
+      "mediaType": "movie",
+      "title": "The Sugarland Express",
+      "awardYear": 1974,
+      "winner": "Steven Spielberg; Hal Barwood; Matthew Robbins",
+      "releaseDate": "1974-03-31",
+      "externalIds": {
+        "tmdb": "5121"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/csahjHhtJ9NzFKcxVcw7S4Pyfj.jpg"
+    },
+    {
+      "id": "cannes-best-screenplay-1980-la-terrazza",
+      "mediaType": "movie",
+      "title": "La Terrazza",
+      "awardYear": 1980,
+      "winner": "Furio Scarpelli; Agenore Incrocci; Ettore Scola",
+      "releaseDate": "1980-02-08",
+      "externalIds": {
+        "tmdb": "77334"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/9VQpe6Olw355r0PmxmgBBs5BFSk.jpg"
+    },
+    {
+      "id": "cannes-best-screenplay-1981-mephisto",
+      "mediaType": "movie",
+      "title": "Mephisto",
+      "awardYear": 1981,
+      "winner": "István Szabó",
+      "releaseDate": "1981-02-11",
+      "externalIds": {
+        "tmdb": "11911"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/SNJoUTU8PSxQlj3RkrwYGOQPyj.jpg"
+    },
+    {
+      "id": "cannes-best-screenplay-1982-moonlighting",
+      "mediaType": "movie",
+      "title": "Moonlighting",
+      "awardYear": 1982,
+      "winner": "Jerzy Skolimowski",
+      "releaseDate": "1982-09-26",
+      "externalIds": {
+        "tmdb": "42134"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/bCYuIZAVCLVrjmTrSX6NETgIvUT.jpg"
+    },
+    {
+      "id": "cannes-best-screenplay-1984-voyage-to-cythera",
+      "mediaType": "movie",
+      "title": "Voyage to Cythera",
+      "awardYear": 1984,
+      "winner": "Thanassis Valtinos; Theo Angelopoulos; Tonino Guerra",
+      "releaseDate": "1984-04-21",
+      "externalIds": {
+        "tmdb": "47792"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/nAcvV1WnZ7xk5gvvSOt2eyhGdjz.jpg"
+    },
+    {
+      "id": "cannes-best-screenplay-1994-grosse-fatigue",
+      "mediaType": "movie",
+      "title": "Grosse fatigue",
+      "awardYear": 1994,
+      "winner": "Michel Blanc",
+      "releaseDate": "1994-05-18",
+      "externalIds": {
+        "tmdb": "64567"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/tD8zVuSpIfUSjmEZ0UXBeOU9Va8.jpg"
+    },
+    {
+      "id": "cannes-best-screenplay-1996-a-self-made-hero",
+      "mediaType": "movie",
+      "title": "A Self Made Hero",
+      "awardYear": 1996,
+      "winner": "Jacques Audiard; Alain Le Henry",
+      "releaseDate": "1996-05-15",
+      "externalIds": {
+        "tmdb": "48580"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/gXB4G4UTwJCBKLdFLNKA8fWYdeQ.jpg"
+    },
+    {
+      "id": "cannes-best-screenplay-1997-the-ice-storm",
+      "mediaType": "movie",
+      "title": "The Ice Storm",
+      "awardYear": 1997,
+      "winner": "James Schamus",
+      "releaseDate": "1997-09-27",
+      "externalIds": {
+        "tmdb": "68924"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/3a6uLta7K8Dzojps4RoJAPHD0km.jpg"
+    },
+    {
+      "id": "cannes-best-screenplay-1998-henry-fool",
+      "mediaType": "movie",
+      "title": "Henry Fool",
+      "awardYear": 1998,
+      "winner": "Hal Hartley",
+      "releaseDate": "1998-06-19",
+      "externalIds": {
+        "tmdb": "37410"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/1Uun13GJi5U0gs303e7BnER6SpG.jpg"
+    },
+    {
+      "id": "cannes-best-screenplay-1999-moloch",
+      "mediaType": "movie",
+      "title": "Moloch",
+      "awardYear": 1999,
+      "winner": "Yuri Arabov",
+      "releaseDate": "1999-02-01",
+      "externalIds": {
+        "tmdb": "55971"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/jCXFOLTtOwErAvZdLG4X7MhDQnJ.jpg"
+    },
+    {
+      "id": "cannes-best-screenplay-2000-nurse-betty",
+      "mediaType": "movie",
+      "title": "Nurse Betty",
+      "awardYear": 2000,
+      "winner": "James Flamberg; John C. Richards",
+      "releaseDate": "2000-08-30",
+      "externalIds": {
+        "tmdb": "10480"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/1OCHR9z9k7go669AsShOkTj4CFb.jpg"
+    },
+    {
+      "id": "cannes-best-screenplay-2001-no-man-s-land",
+      "mediaType": "movie",
+      "title": "No Man's Land",
+      "awardYear": 2001,
+      "winner": "Danis Tanović",
+      "releaseDate": "2001-05-12",
+      "externalIds": {
+        "tmdb": "8342"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/oTEmaYRKqWig5lhmwEQE0ZU3SRl.jpg"
+    },
+    {
+      "id": "cannes-best-screenplay-2002-sweet-sixteen",
+      "mediaType": "movie",
+      "title": "Sweet Sixteen",
+      "awardYear": 2002,
+      "winner": "Paul Laverty",
+      "releaseDate": "2002-09-07",
+      "externalIds": {
+        "tmdb": "1376"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/p5h50WEZQ4pRFffnSULqL4cEuLp.jpg"
+    },
+    {
+      "id": "cannes-best-screenplay-2003-the-barbarian-invasions",
+      "mediaType": "movie",
+      "title": "The Barbarian Invasions",
+      "awardYear": 2003,
+      "winner": "Denys Arcand",
+      "releaseDate": "2003-05-01",
+      "externalIds": {
+        "tmdb": "11042"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/mqlgZiQHT3B5J8Q4mkgaCkt47uJ.jpg"
+    },
+    {
+      "id": "cannes-best-screenplay-2004-look-at-me",
+      "mediaType": "movie",
+      "title": "Look at Me",
+      "awardYear": 2004,
+      "winner": "Agnès Jaoui; Jean-Pierre Bacri",
+      "releaseDate": "2004-11-18",
+      "externalIds": {
+        "tmdb": "11399"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/kRtLMLdf6PkOjWCvhTpa811aMZy.jpg"
+    },
+    {
+      "id": "cannes-best-screenplay-2005-the-three-burials-of-melquiades-estrada",
+      "mediaType": "movie",
+      "title": "The Three Burials of Melquiades Estrada",
+      "awardYear": 2005,
+      "winner": "Guillermo Arriaga",
+      "releaseDate": "2005-11-17",
+      "externalIds": {
+        "tmdb": "8053"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/uHOEb6mo45qMSJaZqbkVa7oW1Y7.jpg"
+    },
+    {
+      "id": "cannes-best-screenplay-2006-volver",
+      "mediaType": "movie",
+      "title": "Volver",
+      "awardYear": 2006,
+      "winner": "Pedro Almodóvar",
+      "releaseDate": "2006-03-17",
+      "externalIds": {
+        "tmdb": "219"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/ljRPzuI1xybiFUGU1uCRdx68h0K.jpg"
+    },
+    {
+      "id": "cannes-best-screenplay-2007-the-edge-of-heaven",
+      "mediaType": "movie",
+      "title": "The Edge of Heaven",
+      "awardYear": 2007,
+      "winner": "Fatih Akin",
+      "releaseDate": "2007-09-27",
+      "externalIds": {
+        "tmdb": "2014"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/kqhVVpXFtOotSlK0npVaBHXUqxV.jpg"
+    },
+    {
+      "id": "cannes-best-screenplay-2008-lorna-s-silence",
+      "mediaType": "movie",
+      "title": "Lorna's Silence",
+      "awardYear": 2008,
+      "winner": "Jean-Pierre Dardenne; Luc Dardenne",
+      "releaseDate": "2008-08-27",
+      "externalIds": {
+        "tmdb": "8899"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/rwQPg2DgFygbZjdupJcedPEm0JN.jpg"
+    },
+    {
+      "id": "cannes-best-screenplay-2009-spring-fever",
+      "mediaType": "movie",
+      "title": "Spring Fever",
+      "awardYear": 2009,
+      "winner": "Mei Feng",
+      "releaseDate": "2009-05-13",
+      "externalIds": {
+        "tmdb": "117646"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/9OLJx4JHimNTsRIw7Y0ObzJouP9.jpg"
+    },
+    {
+      "id": "cannes-best-screenplay-2010-poetry",
+      "mediaType": "movie",
+      "title": "Poetry",
+      "awardYear": 2010,
+      "winner": "Lee Chang-dong",
+      "releaseDate": "2010-05-13",
+      "externalIds": {
+        "tmdb": "47909"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/5RS3zovYbHdpZqLqyEOr24qWKwf.jpg"
+    },
+    {
+      "id": "cannes-best-screenplay-2011-footnote",
+      "mediaType": "movie",
+      "title": "Footnote",
+      "awardYear": 2011,
+      "winner": "Joseph Cedar",
+      "releaseDate": "2011-05-25",
+      "externalIds": {
+        "tmdb": "72551"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/qy0W1KssDhGbtisBGKZHlcuuYqn.jpg"
+    },
+    {
+      "id": "cannes-best-screenplay-2012-beyond-the-hills",
+      "mediaType": "movie",
+      "title": "Beyond the Hills",
+      "awardYear": 2012,
+      "winner": "Cristian Mungiu; Tatiana Niculescu Bran",
+      "releaseDate": "2012-10-25",
+      "externalIds": {
+        "tmdb": "103740"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/zV2v5jFXlN2We3GS2IkGQ6e2Bmm.jpg"
+    },
+    {
+      "id": "cannes-best-screenplay-2013-a-touch-of-sin",
+      "mediaType": "movie",
+      "title": "A Touch of Sin",
+      "awardYear": 2013,
+      "winner": "Jia Zhangke",
+      "releaseDate": "2013-10-04",
+      "externalIds": {
+        "tmdb": "187022"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/yZKem3DGUiM3664otaSfuGacjiz.jpg"
+    },
+    {
+      "id": "cannes-best-screenplay-2014-leviathan",
+      "mediaType": "movie",
+      "title": "Leviathan",
+      "awardYear": 2014,
+      "winner": "Andrey Zvyagintsev; Oleg Negin",
+      "releaseDate": "2014-09-24",
+      "externalIds": {
+        "tmdb": "265180"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/dwmHSBBiu2ow271zrQ33rPKZDSC.jpg"
+    },
+    {
+      "id": "cannes-best-screenplay-2015-chronic",
+      "mediaType": "movie",
+      "title": "Chronic",
+      "awardYear": 2015,
+      "winner": "Michel Franco",
+      "releaseDate": "2015-10-21",
+      "externalIds": {
+        "tmdb": "337104"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/4ba59xT5lZ5AXApL6xPhGqn7LUq.jpg"
+    },
+    {
+      "id": "cannes-best-screenplay-2016-the-salesman",
+      "mediaType": "movie",
+      "title": "The Salesman",
+      "awardYear": 2016,
+      "winner": "Asghar Farhadi",
+      "releaseDate": "2016-06-24",
+      "externalIds": {
+        "tmdb": "375315"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/x4PIuYU5ZMMXiTrheNR8vCTYPBf.jpg"
+    },
+    {
+      "id": "cannes-best-screenplay-2017-the-killing-of-a-sacred-deer",
+      "mediaType": "movie",
+      "title": "The Killing of a Sacred Deer",
+      "awardYear": 2017,
+      "winner": "Yorgos Lanthimos; Efthymis Filippou",
+      "releaseDate": "2017-10-20",
+      "externalIds": {
+        "tmdb": "399057"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/e4DGlsc9g0h5AyoyvvAuIRnofN7.jpg"
+    },
+    {
+      "id": "cannes-best-screenplay-2017-you-were-never-really-here",
+      "mediaType": "movie",
+      "title": "You Were Never Really Here",
+      "awardYear": 2017,
+      "winner": "Lynne Ramsay",
+      "releaseDate": "2017-11-08",
+      "externalIds": {
+        "tmdb": "398181"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/nx4lUyQNEzJowcF55VAP0TQEaX0.jpg"
+    },
+    {
+      "id": "cannes-best-screenplay-2018-3-faces",
+      "mediaType": "movie",
+      "title": "3 Faces",
+      "awardYear": 2018,
+      "winner": "Jafar Panahi; Nader Saeivar",
+      "releaseDate": "2018-06-06",
+      "externalIds": {
+        "tmdb": "517731"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/clpmeXLRg65zGGP1zoyYOLIakQG.jpg"
+    },
+    {
+      "id": "cannes-best-screenplay-2018-happy-as-lazzaro",
+      "mediaType": "movie",
+      "title": "Happy as Lazzaro",
+      "awardYear": 2018,
+      "winner": "Alice Rohrwacher",
+      "releaseDate": "2018-05-31",
+      "externalIds": {
+        "tmdb": "481432"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/j4x1O6G0cbchHQwNsEZ0DntOJMJ.jpg"
+    },
+    {
+      "id": "cannes-best-screenplay-2019-portrait-of-a-lady-on-fire",
+      "mediaType": "movie",
+      "title": "Portrait of a Lady on Fire",
+      "awardYear": 2019,
+      "winner": "Céline Sciamma",
+      "releaseDate": "2019-09-06",
+      "externalIds": {
+        "tmdb": "531428"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/rUDuOKpkKBHxx41BScqKej72iT3.jpg"
+    },
+    {
+      "id": "cannes-best-screenplay-2021-drive-my-car",
+      "mediaType": "movie",
+      "title": "Drive My Car",
+      "awardYear": 2021,
+      "winner": "Ryusuke Hamaguchi; Takamasa Oe",
+      "releaseDate": "2021-08-18",
+      "externalIds": {
+        "tmdb": "758866"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/znXps7wPyYq8UDCfeyO2vfEIeRS.jpg"
+    },
+    {
+      "id": "cannes-best-screenplay-2022-boy-from-heaven",
+      "mediaType": "movie",
+      "title": "Boy from Heaven",
+      "awardYear": 2022,
+      "winner": "Tarik Saleh"
+    },
+    {
+      "id": "cannes-best-screenplay-2023-monster",
+      "mediaType": "movie",
+      "title": "Monster",
+      "awardYear": 2023,
+      "winner": "Yuji Sakamoto",
+      "releaseDate": "2023-06-02",
+      "externalIds": {
+        "tmdb": "1050035"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/kvUJUyUGOhEoiWWNH04IXoExPE2.jpg"
+    },
+    {
+      "id": "cannes-best-screenplay-2024-the-substance",
+      "mediaType": "movie",
+      "title": "The Substance",
+      "awardYear": 2024,
+      "winner": "Coralie Fargeat",
+      "releaseDate": "2024-09-07",
+      "externalIds": {
+        "tmdb": "933260"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/lqoMzCcZYEFK729d6qzt349fB4o.jpg"
+    },
+    {
+      "id": "cannes-best-screenplay-2025-young-mothers",
+      "mediaType": "movie",
+      "title": "Young Mothers",
+      "awardYear": 2025,
+      "winner": "Jean-Pierre Dardenne; Luc Dardenne",
+      "releaseDate": "2025-05-23",
+      "externalIds": {
+        "tmdb": "1242015"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/okfaa71H1P0WC1uzYliOgYS2gte.jpg"
+    },
+    {
+      "id": "cannes-best-screenplay-2026-a-man-of-his-time",
+      "mediaType": "movie",
+      "title": "A Man of His Time",
+      "awardYear": 2026,
+      "winner": "Emmanuel Marre",
+      "releaseDate": "2026-09-30",
+      "externalIds": {
+        "tmdb": "1318864"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/6nhUrNotsIM2c9ByoAeveh2N5WK.jpg"
+    }
+  ]
+}

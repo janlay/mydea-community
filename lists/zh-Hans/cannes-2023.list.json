@@ -1,0 +1,297 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-08T11:52:00Z",
+  "title": "戛纳电影节 2023 年获奖名单",
+  "description": "第76届戛纳电影节官方影片相关奖项，涵盖主竞赛单元, 短片, 一种关注单元, 金摄影机奖, 电影基石单元 以及 CST 技术奖。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "cannes-2023-palme-d-or-anatomy-of-a-fall",
+      "mediaType": "movie",
+      "title": "坠落的审判",
+      "award": "金棕榈奖",
+      "awardYear": 2023,
+      "awardOrder": 1,
+      "winner": "Justine Triet",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt17009710"
+      }
+    },
+    {
+      "id": "cannes-2023-grand-prix-the-zone-of-interest",
+      "mediaType": "movie",
+      "title": "利益区域",
+      "award": "评审团大奖",
+      "awardYear": 2023,
+      "awardOrder": 2,
+      "winner": "Jonathan Glazer",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt7160372"
+      }
+    },
+    {
+      "id": "cannes-2023-best-director-prize-the-taste-of-things",
+      "mediaType": "movie",
+      "title": "法式火锅",
+      "award": "最佳导演奖",
+      "awardYear": 2023,
+      "awardOrder": 3,
+      "winner": "Trần Anh Hùng",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt19760052"
+      }
+    },
+    {
+      "id": "cannes-2023-jury-prize-fallen-leaves",
+      "mediaType": "movie",
+      "title": "枯叶",
+      "award": "评审团奖",
+      "awardYear": 2023,
+      "awardOrder": 4,
+      "winner": "Aki Kaurismäki",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt21027780"
+      }
+    },
+    {
+      "id": "cannes-2023-best-screenplay-monster",
+      "mediaType": "movie",
+      "title": "怪物",
+      "award": "最佳编剧",
+      "awardYear": 2023,
+      "awardOrder": 5,
+      "winner": "Yuji Sakamoto",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt23736044"
+      }
+    },
+    {
+      "id": "cannes-2023-best-performance-for-an-actress-about-dry-grasses",
+      "mediaType": "movie",
+      "title": "干燥的草地",
+      "award": "最佳女演员奖",
+      "awardYear": 2023,
+      "awardOrder": 6,
+      "winner": "Merve Dizdar",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt13231544"
+      }
+    },
+    {
+      "id": "cannes-2023-best-performance-for-an-actor-perfect-days",
+      "mediaType": "movie",
+      "title": "完美的日子",
+      "award": "最佳男演员奖",
+      "awardYear": 2023,
+      "awardOrder": 7,
+      "winner": "Koji Yakusho",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt27503384"
+      }
+    },
+    {
+      "id": "cannes-2023-cst-artist-technician-prize-the-zone-of-interest",
+      "mediaType": "movie",
+      "title": "利益区域",
+      "award": "CST艺术家技术奖",
+      "awardYear": 2023,
+      "awardOrder": 8,
+      "winner": "Johnnie Burn",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt7160372"
+      }
+    },
+    {
+      "id": "cannes-2023-cst-award-for-best-young-female-film-technician-marguerite-s-theorem",
+      "mediaType": "movie",
+      "title": "玛格丽特定理",
+      "award": "CST最佳青年女性电影技术奖",
+      "awardYear": 2023,
+      "awardOrder": 9,
+      "winner": "Anne-Sophie Delseries",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt26699529"
+      }
+    },
+    {
+      "id": "cannes-2023-short-film-palme-d-or-27",
+      "mediaType": "movie",
+      "title": "27",
+      "award": "短片 金棕榈奖",
+      "awardYear": 2023,
+      "awardOrder": 10,
+      "winner": "Flóra Anna Buda",
+      "releaseDate": "2023",
+      "externalIds": {
+        "letterboxd": "27-2023"
+      }
+    },
+    {
+      "id": "cannes-2023-short-film-special-distinction-f-r",
+      "mediaType": "movie",
+      "title": "远方",
+      "award": "短片 特别提及",
+      "awardYear": 2023,
+      "awardOrder": 11,
+      "winner": "Gunnur Martinsdóttir Schlüter",
+      "releaseDate": "2023",
+      "externalIds": {
+        "letterboxd": "far-2023"
+      }
+    },
+    {
+      "id": "cannes-2023-un-certain-regard-prize-how-to-have-sex",
+      "mediaType": "movie",
+      "title": "如何做爱",
+      "award": "一种关注奖",
+      "awardYear": 2023,
+      "awardOrder": 12,
+      "winner": "Molly Manning Walker",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt22890246"
+      }
+    },
+    {
+      "id": "cannes-2023-un-certain-regard-new-voice-prize-omen",
+      "mediaType": "movie",
+      "title": "预兆",
+      "award": "一种关注 新声音奖",
+      "awardYear": 2023,
+      "awardOrder": 13,
+      "winner": "Baloji",
+      "releaseDate": "2023",
+      "externalIds": {
+        "letterboxd": "omen-2023"
+      }
+    },
+    {
+      "id": "cannes-2023-un-certain-regard-ensemble-prize-the-buriti-flower",
+      "mediaType": "movie",
+      "title": "布里蒂之花",
+      "award": "一种关注 集体奖",
+      "awardYear": 2023,
+      "awardOrder": 14,
+      "winner": "João Salaviza & Renée Nader Messora",
+      "releaseDate": "2023",
+      "externalIds": {
+        "letterboxd": "the-buriti-flower"
+      }
+    },
+    {
+      "id": "cannes-2023-un-certain-regard-freedom-prize-goodbye-julia",
+      "mediaType": "movie",
+      "title": "再见朱莉娅",
+      "award": "一种关注 自由奖",
+      "awardYear": 2023,
+      "awardOrder": 15,
+      "winner": "Mohamed Kordofani",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt14330672"
+      }
+    },
+    {
+      "id": "cannes-2023-un-certain-regard-best-directing-the-mother-of-all-lies",
+      "mediaType": "movie",
+      "title": "谎言之母",
+      "award": "一种关注 最佳导演",
+      "awardYear": 2023,
+      "awardOrder": 16,
+      "winner": "Asmae El Moudir",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt15307068"
+      }
+    },
+    {
+      "id": "cannes-2023-un-certain-regard-jury-prize-hounds",
+      "mediaType": "movie",
+      "title": "猎犬",
+      "award": "一种关注 评审团奖",
+      "awardYear": 2023,
+      "awardOrder": 17,
+      "winner": "Kamal Lazraq",
+      "releaseDate": "2023",
+      "externalIds": {
+        "letterboxd": "hounds-2023"
+      }
+    },
+    {
+      "id": "cannes-2023-cam-ra-d-or-inside-the-yellow-cocoon-shell",
+      "mediaType": "movie",
+      "title": "黄色茧壳里的回忆",
+      "award": "金摄影机奖",
+      "awardYear": 2023,
+      "awardOrder": 18,
+      "winner": "Phạm Thiên Ân",
+      "releaseDate": "2023",
+      "externalIds": {
+        "letterboxd": "inside-the-yellow-cocoon-shell"
+      }
+    },
+    {
+      "id": "cannes-2023-la-cinef-first-prize-norwegian-offspring",
+      "mediaType": "movie",
+      "title": "挪威后代",
+      "award": "电影基石 一等奖",
+      "awardYear": 2023,
+      "awardOrder": 19,
+      "winner": "Marlene Emilie Lyngstad",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt27604407"
+      }
+    },
+    {
+      "id": "cannes-2023-la-cinef-second-prize-hole",
+      "mediaType": "movie",
+      "title": "洞",
+      "award": "电影基石 二等奖",
+      "awardYear": 2023,
+      "awardOrder": 20,
+      "winner": "Hwang Hyein",
+      "releaseDate": "2023",
+      "externalIds": {
+        "letterboxd": "hole-2023"
+      }
+    },
+    {
+      "id": "cannes-2023-la-cinef-third-prize-ayyur",
+      "mediaType": "movie",
+      "title": "阿尤尔",
+      "award": "电影基石 三等奖",
+      "awardYear": 2023,
+      "awardOrder": 21,
+      "winner": "Zineb Wakrim",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt27683614"
+      }
+    }
+  ]
+}

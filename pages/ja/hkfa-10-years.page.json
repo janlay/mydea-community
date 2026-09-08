@@ -1,0 +1,180 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "title": "香港電影金像奨 — 直近10年",
+  "description": "香港電影金像奨の直近10年の受賞作。2021年は2022年に統合され、開催なし。",
+  "tags": [
+    "hong-kong",
+    "award",
+    "decade"
+  ],
+  "icon": "ticket",
+  "sections": [
+    {
+      "title": "香港電影金像奨 — 2026",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "carousel",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "hkfa-2026.list.json"
+        }
+      ]
+    },
+    {
+      "title": "香港電影金像奨 — 2025",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "hkfa-2025.list.json"
+        }
+      ]
+    },
+    {
+      "title": "香港電影金像奨 — 2024",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "hkfa-2024.list.json"
+        }
+      ]
+    },
+    {
+      "title": "香港電影金像奨 — 2023",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "hkfa-2023.list.json"
+        }
+      ]
+    },
+    {
+      "title": "香港電影金像奨 — 2022",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "hkfa-2022.list.json"
+        }
+      ]
+    },
+    {
+      "title": "香港電影金像奨 — 2020",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "hkfa-2020.list.json"
+        }
+      ]
+    },
+    {
+      "title": "香港電影金像奨 — 2019",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "hkfa-2019.list.json"
+        }
+      ]
+    },
+    {
+      "title": "香港電影金像奨 — 2018",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "hkfa-2018.list.json"
+        }
+      ]
+    },
+    {
+      "title": "香港電影金像奨 — 2017",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "hkfa-2017.list.json"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "author": "ChatGPT",
+    "description": "香港電影金像奨の受賞データ。"
+  }
+}

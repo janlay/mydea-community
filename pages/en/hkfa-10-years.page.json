@@ -1,0 +1,176 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "title": "Ten Years in Hong Kong",
+  "description": "Ten years of the Hong Kong Film Awards. 2021 is absent: it was merged into 2022.",
+  "tags": [
+    "hong-kong",
+    "award",
+    "decade"
+  ],
+  "icon": "ticket",
+  "sections": [
+    {
+      "title": "Hong Kong Film Awards — 2026",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "carousel",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "hkfa-2026.list.json"
+        }
+      ]
+    },
+    {
+      "title": "Hong Kong Film Awards — 2025",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "hkfa-2025.list.json"
+        }
+      ]
+    },
+    {
+      "title": "Hong Kong Film Awards — 2024",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "hkfa-2024.list.json"
+        }
+      ]
+    },
+    {
+      "title": "Hong Kong Film Awards — 2023",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "hkfa-2023.list.json"
+        }
+      ]
+    },
+    {
+      "title": "Hong Kong Film Awards — 2022",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "hkfa-2022.list.json"
+        }
+      ]
+    },
+    {
+      "title": "Hong Kong Film Awards — 2020",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "hkfa-2020.list.json"
+        }
+      ]
+    },
+    {
+      "title": "Hong Kong Film Awards — 2019",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "hkfa-2019.list.json"
+        }
+      ]
+    },
+    {
+      "title": "Hong Kong Film Awards — 2018",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "hkfa-2018.list.json"
+        }
+      ]
+    },
+    {
+      "title": "Hong Kong Film Awards — 2017",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "hkfa-2017.list.json"
+        }
+      ]
+    }
+  ]
+}

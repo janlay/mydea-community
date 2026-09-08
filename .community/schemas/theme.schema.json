@@ -1,0 +1,168 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$comment": "Synced from mydea/Resources/OpenAPI/mydea-theme-openapi.json; do not edit. Run .community/scripts/sync_schemas.py.",
+  "$ref": "#/components/schemas/ThemeDocument",
+  "components": {
+    "schemas": {
+      "ThemeDocument": {
+        "type": "object",
+        "properties": {
+          "schemaVersion": {
+            "type": "integer",
+            "const": 1,
+            "description": "Package format version, shared with Page / Section / List documents."
+          },
+          "kind": {
+            "type": "string",
+            "const": "theme",
+            "description": "Required, strictly case-sensitive discriminator; must be theme."
+          },
+          "title": {
+            "type": "string",
+            "description": "Theme display name. Required, editable in the import dialog."
+          },
+          "author": {
+            "type": "string"
+          },
+          "server": {
+            "type": "string"
+          },
+          "updatedAt": {
+            "type": "string",
+            "description": "Publication time, ISO 8601."
+          },
+          "description": {
+            "type": "string"
+          },
+          "tags": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "uniqueItems": true,
+            "description": "Optional classification tags the publisher writes, e.g. [\"awards\", \"festival\"]. Free-form and case-sensitive; Mydea carries them through untouched."
+          },
+          "version": {
+            "type": "string",
+            "description": "Theme author's own version string."
+          },
+          "homepage": {
+            "type": "string"
+          },
+          "email": {
+            "type": "string"
+          },
+          "updateURL": {
+            "type": "string"
+          },
+          "global": {
+            "$ref": "#/components/schemas/ThemeGlobal"
+          },
+          "page": {
+            "$ref": "#/components/schemas/ThemePage"
+          },
+          "section": {
+            "$ref": "#/components/schemas/ThemeSection"
+          }
+        },
+        "additionalProperties": true,
+        "required": [
+          "schemaVersion",
+          "kind",
+          "title"
+        ]
+      },
+      "ThemeGlobal": {
+        "type": "object",
+        "properties": {
+          "platforms": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "description": "Optional platform allowlist. macOS import accepts omitted platforms or an array containing all or macOS."
+          },
+          "appTintColorHex": {
+            "type": "string",
+            "description": "Hexadecimal color, for example #596FF2.",
+            "default": "#596FF2"
+          }
+        },
+        "additionalProperties": true
+      },
+      "ThemePage": {
+        "type": "object",
+        "properties": {
+          "pageBackgroundHex": {
+            "type": "string",
+            "description": "Hexadecimal color, for example #596FF2.",
+            "default": "#0D0D1A"
+          },
+          "carouselFadeRange": {
+            "type": "number",
+            "description": "Carousel fade fraction; Appearance UI range 0.1–1.0. Export rounded to two decimal places.",
+            "default": 0.4
+          }
+        },
+        "additionalProperties": true
+      },
+      "ThemeSection": {
+        "type": "object",
+        "properties": {
+          "sectionIconDisplayMode": {
+            "type": "string",
+            "enum": [
+              "always",
+              "onHover"
+            ],
+            "default": "always"
+          },
+          "sectionIconColorHex": {
+            "type": "string",
+            "description": "Hexadecimal color, for example #596FF2.",
+            "default": "#FFFFFF"
+          },
+          "sectionTitleFontFamily": {
+            "type": "string",
+            "description": "Font family name.",
+            "default": ""
+          },
+          "sectionTitleFontSize": {
+            "type": "number",
+            "description": "Font size in points; UI range 10–30.",
+            "default": 16.0
+          },
+          "sectionTitleFontBold": {
+            "type": "boolean",
+            "default": true
+          },
+          "sectionTitleFontItalic": {
+            "type": "boolean",
+            "default": false
+          },
+          "sectionVerticalSpacing": {
+            "type": "number",
+            "description": "Vertical spacing in points; UI range 0–60.",
+            "default": 30.0
+          },
+          "sectionItemHorizontalSpacing": {
+            "type": "number",
+            "description": "Horizontal spacing in points; UI range 10–60.",
+            "default": 40.0
+          },
+          "sectionCardScale": {
+            "type": "number",
+            "description": "Card scale factor; UI range 0.6–1.4.",
+            "default": 1.0
+          },
+          "sectionTextScale": {
+            "type": "number",
+            "description": "Text scale factor; UI range 0.8–1.3.",
+            "default": 1.0
+          }
+        },
+        "additionalProperties": true
+      }
+    }
+  }
+}

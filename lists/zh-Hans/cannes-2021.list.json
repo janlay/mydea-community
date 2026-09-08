@@ -1,0 +1,336 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-08T11:52:00Z",
+  "title": "戛纳电影节 2021 年获奖名单",
+  "description": "第74届戛纳电影节官方影片相关奖项，涵盖主竞赛单元, 短片, 一种关注单元, 金摄影机奖, 电影基石单元 以及 CST 技术奖。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "cannes-2021-palme-d-or-titane",
+      "mediaType": "movie",
+      "title": "钛",
+      "award": "金棕榈奖",
+      "awardYear": 2021,
+      "awardOrder": 1,
+      "winner": "Julia Ducournau",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt10944760"
+      }
+    },
+    {
+      "id": "cannes-2021-grand-prix-ex-aequo-a-hero",
+      "mediaType": "movie",
+      "title": "英雄",
+      "award": "评审团大奖 （并列）",
+      "awardYear": 2021,
+      "awardOrder": 2,
+      "winner": "Asghar Farhadi",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt11777738"
+      }
+    },
+    {
+      "id": "cannes-2021-grand-prix-ex-aequo-compartment-no-6",
+      "mediaType": "movie",
+      "title": "六号车厢",
+      "award": "评审团大奖 （并列）",
+      "awardYear": 2021,
+      "awardOrder": 3,
+      "winner": "Juho Kuosmanen",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt10262648"
+      }
+    },
+    {
+      "id": "cannes-2021-best-director-prize-annette",
+      "mediaType": "movie",
+      "title": "安妮特",
+      "award": "最佳导演奖",
+      "awardYear": 2021,
+      "awardOrder": 4,
+      "winner": "Leos Carax",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt6217926"
+      }
+    },
+    {
+      "id": "cannes-2021-best-screenplay-drive-my-car",
+      "mediaType": "movie",
+      "title": "驾驶我的车",
+      "award": "最佳编剧",
+      "awardYear": 2021,
+      "awardOrder": 5,
+      "winner": "Ryusuke Hamaguchi & Takamasa Oe",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14039582"
+      }
+    },
+    {
+      "id": "cannes-2021-jury-prize-ex-aequo-memoria",
+      "mediaType": "movie",
+      "title": "记忆",
+      "award": "评审团奖 （并列）",
+      "awardYear": 2021,
+      "awardOrder": 6,
+      "winner": "Apichatpong Weerasethakul",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt8399288"
+      }
+    },
+    {
+      "id": "cannes-2021-jury-prize-ex-aequo-ahed-s-knee",
+      "mediaType": "movie",
+      "title": "阿赫德的膝盖",
+      "award": "评审团奖 （并列）",
+      "awardYear": 2021,
+      "awardOrder": 7,
+      "winner": "Nadav Lapid",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt12494638"
+      }
+    },
+    {
+      "id": "cannes-2021-best-performance-for-an-actress-the-worst-person-in-the-world",
+      "mediaType": "movie",
+      "title": "世界上最糟糕的人",
+      "award": "最佳女演员奖",
+      "awardYear": 2021,
+      "awardOrder": 8,
+      "winner": "Renate Reinsve",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt10370710"
+      }
+    },
+    {
+      "id": "cannes-2021-best-performance-for-an-actor-nitram",
+      "mediaType": "movie",
+      "title": "尼特拉姆",
+      "award": "最佳男演员奖",
+      "awardYear": 2021,
+      "awardOrder": 9,
+      "winner": "Caleb Landry Jones",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt13694628"
+      }
+    },
+    {
+      "id": "cannes-2021-vulcain-prize-for-an-artist-technician-petrov-s-flu",
+      "mediaType": "movie",
+      "title": "彼得罗夫的流感",
+      "award": "艺术家技术奖",
+      "awardYear": 2021,
+      "awardOrder": 10,
+      "winner": "Vladislav Opelyants",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt10380900"
+      }
+    },
+    {
+      "id": "cannes-2021-cst-award-for-best-young-female-film-technician-mi-iubita-mon-amour",
+      "mediaType": "movie",
+      "title": "亲爱的，我的爱",
+      "award": "CST最佳青年女性电影技术奖",
+      "awardYear": 2021,
+      "awardOrder": 11,
+      "winner": "Armance Durix",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14821328"
+      }
+    },
+    {
+      "id": "cannes-2021-short-film-palme-d-or-all-the-crows-in-the-world",
+      "mediaType": "movie",
+      "title": "世上的所有乌鸦",
+      "award": "短片 金棕榈奖",
+      "awardYear": 2021,
+      "awardOrder": 12,
+      "winner": "Tang Yi",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14994868"
+      }
+    },
+    {
+      "id": "cannes-2021-short-film-special-distinction-august-sky",
+      "mediaType": "movie",
+      "title": "八月的天空",
+      "award": "短片 特别提及",
+      "awardYear": 2021,
+      "awardOrder": 13,
+      "winner": "Jasmin Tenucci",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14354724"
+      }
+    },
+    {
+      "id": "cannes-2021-un-certain-regard-prize-unclenching-the-fists",
+      "mediaType": "movie",
+      "title": "松开拳头",
+      "award": "一种关注奖",
+      "awardYear": 2021,
+      "awardOrder": 14,
+      "winner": "Kira Kovalenko",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14775666"
+      }
+    },
+    {
+      "id": "cannes-2021-un-certain-regard-ensemble-prize-good-mother",
+      "mediaType": "movie",
+      "title": "好母亲",
+      "award": "一种关注 集体奖",
+      "awardYear": 2021,
+      "awardOrder": 15,
+      "winner": "Hafsia Herzi",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt13006574"
+      }
+    },
+    {
+      "id": "cannes-2021-un-certain-regard-jury-prize-great-freedom",
+      "mediaType": "movie",
+      "title": "大自由",
+      "award": "一种关注 评审团奖",
+      "awardYear": 2021,
+      "awardOrder": 16,
+      "winner": "Sebastian Meise",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14775784"
+      }
+    },
+    {
+      "id": "cannes-2021-un-certain-regard-special-mention-prayers-for-the-stolen",
+      "mediaType": "movie",
+      "title": "被偷走的祈祷",
+      "award": "一种关注 特别提及",
+      "awardYear": 2021,
+      "awardOrder": 17,
+      "winner": "Tatiana Huezo",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt10366574"
+      }
+    },
+    {
+      "id": "cannes-2021-un-certain-regard-courage-prize-la-civil",
+      "mediaType": "movie",
+      "title": "小公民",
+      "award": "一种关注 勇气奖",
+      "awardYear": 2021,
+      "awardOrder": 18,
+      "winner": "Teodora Ana Mihai",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt13827606"
+      }
+    },
+    {
+      "id": "cannes-2021-un-certain-regard-prize-of-originality-lamb",
+      "mediaType": "movie",
+      "title": "羊崽",
+      "award": "一种关注 奖 原创性奖",
+      "awardYear": 2021,
+      "awardOrder": 19,
+      "winner": "Valdimar Jóhannsson",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt9812474"
+      }
+    },
+    {
+      "id": "cannes-2021-cam-ra-d-or-murina",
+      "mediaType": "movie",
+      "title": "鳗鱼",
+      "award": "金摄影机奖",
+      "awardYear": 2021,
+      "awardOrder": 20,
+      "winner": "Antoneta Alamat Kusijanović",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt8434110"
+      }
+    },
+    {
+      "id": "cannes-2021-cin-fondation-first-prize-the-salamander-child",
+      "mediaType": "movie",
+      "title": "蝾螈之子",
+      "award": "电影基石 一等奖",
+      "awardYear": 2021,
+      "awardOrder": 21,
+      "winner": "Théo Degen",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt15018628"
+      }
+    },
+    {
+      "id": "cannes-2021-cin-fondation-second-prize-cicada",
+      "mediaType": "movie",
+      "title": "蝉",
+      "award": "电影基石 二等奖",
+      "awardYear": 2021,
+      "awardOrder": 22,
+      "winner": "Daewoen Yoon",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt15017380"
+      }
+    },
+    {
+      "id": "cannes-2021-cin-fondation-third-prize-ex-aequo-love-stories-on-the-move",
+      "mediaType": "movie",
+      "title": "流动的爱情故事",
+      "award": "电影基石 三等奖 （并列）",
+      "awardYear": 2021,
+      "awardOrder": 23,
+      "winner": "Carina-Gabriela Dașoveanu",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14923382"
+      }
+    },
+    {
+      "id": "cannes-2021-cin-fondation-third-prize-ex-aequo-cantareira",
+      "mediaType": "movie",
+      "title": "坎塔雷拉",
+      "award": "电影基石 三等奖 （并列）",
+      "awardYear": 2021,
+      "awardOrder": 24,
+      "winner": "Rodrigo Ribeyro",
+      "releaseDate": "2021",
+      "externalIds": {
+        "letterboxd": "cantareira"
+      }
+    }
+  ]
+}

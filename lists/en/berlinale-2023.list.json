@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:30:00Z",
+  "title": "Berlinale 2023 Awards",
+  "description": "Major Competition International Jury award winners at the 2023 Berlin International Film Festival.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "berlinale-2023-golden-bear-on-the-adamant",
+      "mediaType": "movie",
+      "title": "On the Adamant",
+      "award": "Golden Bear for Best Film",
+      "awardYear": 2023,
+      "awardOrder": 1,
+      "winner": "Nicolas Philibert",
+      "releaseDate": "2023",
+      "externalIds": {
+        "tmdb": "1070449",
+        "imdb": "tt26448811"
+      }
+    },
+    {
+      "id": "berlinale-2023-grand-jury-afire",
+      "mediaType": "movie",
+      "title": "Afire",
+      "award": "Silver Bear Grand Jury Prize",
+      "awardYear": 2023,
+      "awardOrder": 2,
+      "winner": "Christian Petzold",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt26440619"
+      }
+    },
+    {
+      "id": "berlinale-2023-jury-prize-bad-living",
+      "mediaType": "movie",
+      "title": "Bad Living",
+      "award": "Silver Bear Jury Prize",
+      "awardYear": 2023,
+      "awardOrder": 3,
+      "winner": "João Canijo",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt14007288"
+      }
+    },
+    {
+      "id": "berlinale-2023-best-director-the-plough",
+      "mediaType": "movie",
+      "title": "The Plough",
+      "award": "Silver Bear for Best Director",
+      "awardYear": 2023,
+      "awardOrder": 4,
+      "winner": "Philippe Garrel",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt15531718"
+      }
+    },
+    {
+      "id": "berlinale-2023-leading-performance-20-000-species-of-bees",
+      "mediaType": "movie",
+      "title": "20,000 Species of Bees",
+      "award": "Silver Bear for Best Leading Performance",
+      "awardYear": 2023,
+      "awardOrder": 5,
+      "winner": "Sofía Otero",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt21113962"
+      }
+    },
+    {
+      "id": "berlinale-2023-supporting-performance-till-the-end-of-the-night",
+      "mediaType": "movie",
+      "title": "Till the End of the Night",
+      "award": "Silver Bear for Best Supporting Performance",
+      "awardYear": 2023,
+      "awardOrder": 6,
+      "winner": "Thea Ehre",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt23283892"
+      }
+    },
+    {
+      "id": "berlinale-2023-best-screenplay-music",
+      "mediaType": "movie",
+      "title": "Music",
+      "award": "Silver Bear for Best Screenplay",
+      "awardYear": 2023,
+      "awardOrder": 7,
+      "winner": "Angela Schanelec",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt15547924"
+      }
+    },
+    {
+      "id": "berlinale-2023-artistic-contribution-disco-boy",
+      "mediaType": "movie",
+      "title": "Disco Boy",
+      "award": "Silver Bear for Outstanding Artistic Contribution",
+      "awardYear": 2023,
+      "awardOrder": 8,
+      "winner": "Hélène Louvart",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt22180518"
+      }
+    }
+  ]
+}

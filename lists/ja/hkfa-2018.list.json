@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "title": "香港電影金像奨 2018 受賞一覧",
+  "description": "2018年香港電影金像奨の主要部門受賞作品・受賞者。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "hkfa-2018-best-film-7075594",
+      "mediaType": "movie",
+      "title": "Our Time Will Come",
+      "awardYear": 2018,
+      "winner": "『明月幾時有 Our Time Will Come』",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7075594"
+      },
+      "award": "最優秀作品賞",
+      "awardOrder": 1,
+      "originalTitle": "明月幾時有"
+    },
+    {
+      "id": "hkfa-2018-best-director-7075594",
+      "mediaType": "movie",
+      "title": "明月幾時有 Our Time Will Come",
+      "awardYear": 2018,
+      "winner": "許鞍華",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7075594"
+      },
+      "award": "最優秀監督賞",
+      "awardOrder": 2,
+      "originalTitle": "明月幾時有"
+    },
+    {
+      "id": "hkfa-2018-best-screenplay-7479718",
+      "mediaType": "movie",
+      "title": "相愛相親",
+      "awardYear": 2018,
+      "winner": "張艾嘉、游曉穎",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7479718"
+      },
+      "award": "最優秀脚本賞",
+      "awardOrder": 3
+    },
+    {
+      "id": "hkfa-2018-best-actor-7245176",
+      "mediaType": "movie",
+      "title": "殺破狼·貪狼",
+      "awardYear": 2018,
+      "winner": "古天樂",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7245176"
+      },
+      "award": "最優秀主演男優賞",
+      "awardOrder": 4
+    },
+    {
+      "id": "hkfa-2018-best-actress-7875604",
+      "mediaType": "movie",
+      "title": "黃金花",
+      "awardYear": 2018,
+      "winner": "毛舜筠",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7875604"
+      },
+      "award": "最優秀主演女優賞",
+      "awardOrder": 5
+    },
+    {
+      "id": "hkfa-2018-best-supporting-actor-5847286",
+      "mediaType": "movie",
+      "title": "拆彈專家",
+      "awardYear": 2018,
+      "winner": "姜皓文",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5847286"
+      },
+      "award": "最優秀助演男優賞",
+      "awardOrder": 6
+    },
+    {
+      "id": "hkfa-2018-best-supporting-actress-7075594",
+      "mediaType": "movie",
+      "title": "明月幾時有 Our Time Will Come",
+      "awardYear": 2018,
+      "winner": "葉德嫻",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7075594"
+      },
+      "award": "最優秀助演女優賞",
+      "awardOrder": 7,
+      "originalTitle": "明月幾時有"
+    },
+    {
+      "id": "hkfa-2018-best-new-performer-7875604",
+      "mediaType": "movie",
+      "title": "黃金花",
+      "awardYear": 2018,
+      "winner": "凌文龍",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7875604"
+      },
+      "award": "最優秀新人賞",
+      "awardOrder": 8
+    }
+  ],
+  "updatedAt": "2026-09-12T02:57:20Z"
+}

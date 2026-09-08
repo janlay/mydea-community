@@ -1,0 +1,844 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:30:00Z",
+  "title": "威尼斯 — 沃尔皮杯·最佳女演员",
+  "description": "威尼斯国际电影节历届沃尔皮杯·最佳女演员获奖影片/表演记录；按该奖项现行或历史等价类别整理。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "venice-best-actress-1932-the-sin-of-madelon-claudet-1",
+      "mediaType": "movie",
+      "title": "The Sin of Madelon Claudet",
+      "releaseDate": "1932",
+      "externalIds": {
+        "letterboxd": "the-sin-of-madelon-claudet"
+      },
+      "awardYear": 1932,
+      "winner": "Helen Hayes"
+    },
+    {
+      "id": "venice-best-actress-1934-little-women-2",
+      "mediaType": "movie",
+      "title": "Little Women",
+      "releaseDate": "1934",
+      "externalIds": {
+        "letterboxd": "little-women"
+      },
+      "awardYear": 1934,
+      "winner": "Katharine Hepburn"
+    },
+    {
+      "id": "venice-best-actress-1935-episode-3",
+      "mediaType": "movie",
+      "title": "Episode",
+      "releaseDate": "1935",
+      "externalIds": {
+        "letterboxd": "episode"
+      },
+      "awardYear": 1935,
+      "winner": "Paula Wessely"
+    },
+    {
+      "id": "venice-best-actress-1936-veille-d-armes-4",
+      "mediaType": "movie",
+      "title": "Veille d'armes",
+      "releaseDate": "1936",
+      "externalIds": {
+        "letterboxd": "veille-d-armes"
+      },
+      "awardYear": 1936,
+      "winner": "Annabella"
+    },
+    {
+      "id": "venice-best-actress-1937-marked-woman-kid-galahad-5",
+      "mediaType": "movie",
+      "title": "Marked Woman / Kid Galahad",
+      "releaseDate": "1937",
+      "externalIds": {
+        "letterboxd": "marked-woman-kid-galahad"
+      },
+      "awardYear": 1937,
+      "winner": "Bette Davis"
+    },
+    {
+      "id": "venice-best-actress-1938-marie-antoinette-6",
+      "mediaType": "movie",
+      "title": "Marie Antoinette",
+      "releaseDate": "1938",
+      "externalIds": {
+        "letterboxd": "marie-antoinette"
+      },
+      "awardYear": 1938,
+      "winner": "Norma Shearer"
+    },
+    {
+      "id": "venice-best-actress-1941-annelie-7",
+      "mediaType": "movie",
+      "title": "Annelie",
+      "releaseDate": "1941",
+      "externalIds": {
+        "letterboxd": "annelie"
+      },
+      "awardYear": 1941,
+      "winner": "Luise Ullrich"
+    },
+    {
+      "id": "venice-best-actress-1942-the-golden-city-8",
+      "mediaType": "movie",
+      "title": "The Golden City",
+      "releaseDate": "1942",
+      "externalIds": {
+        "letterboxd": "the-golden-city"
+      },
+      "awardYear": 1942,
+      "winner": "Kristina Söderbaum"
+    },
+    {
+      "id": "venice-best-actress-1947-angelina-9",
+      "mediaType": "movie",
+      "title": "Angelina",
+      "releaseDate": "1947",
+      "externalIds": {
+        "letterboxd": "angelina"
+      },
+      "awardYear": 1947,
+      "winner": "Anna Magnani"
+    },
+    {
+      "id": "venice-best-actress-1948-the-snake-pit-10",
+      "mediaType": "movie",
+      "title": "The Snake Pit",
+      "releaseDate": "1948",
+      "externalIds": {
+        "letterboxd": "the-snake-pit"
+      },
+      "awardYear": 1948,
+      "winner": "Olivia de Havilland"
+    },
+    {
+      "id": "venice-best-actress-1949-the-heiress-11",
+      "mediaType": "movie",
+      "title": "The Heiress",
+      "releaseDate": "1949",
+      "externalIds": {
+        "letterboxd": "the-heiress"
+      },
+      "awardYear": 1949,
+      "winner": "Olivia de Havilland"
+    },
+    {
+      "id": "venice-best-actress-1950-the-glass-menagerie-12",
+      "mediaType": "movie",
+      "title": "The Glass Menagerie",
+      "releaseDate": "1950",
+      "externalIds": {
+        "letterboxd": "the-glass-menagerie"
+      },
+      "awardYear": 1950,
+      "winner": "Eleanor Parker"
+    },
+    {
+      "id": "venice-best-actress-1951-a-place-in-the-sun-13",
+      "mediaType": "movie",
+      "title": "A Place in the Sun",
+      "releaseDate": "1951",
+      "externalIds": {
+        "letterboxd": "a-place-in-the-sun"
+      },
+      "awardYear": 1951,
+      "winner": "Vivien Leigh"
+    },
+    {
+      "id": "venice-best-actress-1952-europe-51-14",
+      "mediaType": "movie",
+      "title": "Europe '51",
+      "releaseDate": "1952",
+      "externalIds": {
+        "letterboxd": "europe-51"
+      },
+      "awardYear": 1952,
+      "winner": "Ingrid Bergman"
+    },
+    {
+      "id": "venice-best-actress-1953-therese-raquin-15",
+      "mediaType": "movie",
+      "title": "Therese Raquin",
+      "releaseDate": "1953",
+      "externalIds": {
+        "letterboxd": "therese-raquin"
+      },
+      "awardYear": 1953,
+      "winner": "Lilli Palmer"
+    },
+    {
+      "id": "venice-best-actress-1954-the-gold-of-naples-16",
+      "mediaType": "movie",
+      "title": "The Gold of Naples",
+      "releaseDate": "1954",
+      "externalIds": {
+        "letterboxd": "the-gold-of-naples"
+      },
+      "awardYear": 1954,
+      "winner": "Sophia Loren"
+    },
+    {
+      "id": "venice-best-actress-1955-the-rose-tattoo-17",
+      "mediaType": "movie",
+      "title": "The Rose Tattoo",
+      "releaseDate": "1955",
+      "externalIds": {
+        "letterboxd": "the-rose-tattoo"
+      },
+      "awardYear": 1955,
+      "winner": "Anna Magnani"
+    },
+    {
+      "id": "venice-best-actress-1956-gervaise-18",
+      "mediaType": "movie",
+      "title": "Gervaise",
+      "releaseDate": "1956",
+      "externalIds": {
+        "letterboxd": "gervaise"
+      },
+      "awardYear": 1956,
+      "winner": "Maria Schell"
+    },
+    {
+      "id": "venice-best-actress-1957-malva-19",
+      "mediaType": "movie",
+      "title": "Malva",
+      "releaseDate": "1957",
+      "externalIds": {
+        "letterboxd": "malva"
+      },
+      "awardYear": 1957,
+      "winner": "Dzidra Ritenberga"
+    },
+    {
+      "id": "venice-best-actress-1958-the-black-orchid-20",
+      "mediaType": "movie",
+      "title": "The Black Orchid",
+      "releaseDate": "1958",
+      "externalIds": {
+        "letterboxd": "the-black-orchid"
+      },
+      "awardYear": 1958,
+      "winner": "Sophia Loren"
+    },
+    {
+      "id": "venice-best-actress-1959-web-of-passion-21",
+      "mediaType": "movie",
+      "title": "Web of Passion",
+      "releaseDate": "1959",
+      "externalIds": {
+        "letterboxd": "web-of-passion"
+      },
+      "awardYear": 1959,
+      "winner": "Madeleine Robinson"
+    },
+    {
+      "id": "venice-best-actress-1960-the-apartment-22",
+      "mediaType": "movie",
+      "title": "The Apartment",
+      "releaseDate": "1960",
+      "externalIds": {
+        "letterboxd": "the-apartment"
+      },
+      "awardYear": 1960,
+      "winner": "Shirley MacLaine"
+    },
+    {
+      "id": "venice-best-actress-1961-thou-shalt-not-kill-23",
+      "mediaType": "movie",
+      "title": "Thou Shalt Not Kill",
+      "releaseDate": "1961",
+      "externalIds": {
+        "letterboxd": "thou-shalt-not-kill"
+      },
+      "awardYear": 1961,
+      "winner": "Suzanne Flon"
+    },
+    {
+      "id": "venice-best-actress-1962-therese-desqueyroux-24",
+      "mediaType": "movie",
+      "title": "Thérèse Desqueyroux",
+      "releaseDate": "1962",
+      "externalIds": {
+        "letterboxd": "therese-desqueyroux"
+      },
+      "awardYear": 1962,
+      "winner": "Emmanuelle Riva"
+    },
+    {
+      "id": "venice-best-actress-1963-muriel-25",
+      "mediaType": "movie",
+      "title": "Muriel",
+      "releaseDate": "1963",
+      "externalIds": {
+        "letterboxd": "muriel"
+      },
+      "awardYear": 1963,
+      "winner": "Delphine Seyrig"
+    },
+    {
+      "id": "venice-best-actress-1964-to-love-26",
+      "mediaType": "movie",
+      "title": "To Love",
+      "releaseDate": "1964",
+      "externalIds": {
+        "letterboxd": "to-love"
+      },
+      "awardYear": 1964,
+      "winner": "Harriet Andersson"
+    },
+    {
+      "id": "venice-best-actress-1965-three-rooms-in-manhattan-27",
+      "mediaType": "movie",
+      "title": "Three Rooms in Manhattan",
+      "releaseDate": "1965",
+      "externalIds": {
+        "letterboxd": "three-rooms-in-manhattan"
+      },
+      "awardYear": 1965,
+      "winner": "Annie Girardot"
+    },
+    {
+      "id": "venice-best-actress-1966-the-first-teacher-28",
+      "mediaType": "movie",
+      "title": "The First Teacher",
+      "releaseDate": "1966",
+      "externalIds": {
+        "letterboxd": "the-first-teacher"
+      },
+      "awardYear": 1966,
+      "winner": "Natalya Arinbasarova"
+    },
+    {
+      "id": "venice-best-actress-1967-dutchman-29",
+      "mediaType": "movie",
+      "title": "Dutchman",
+      "releaseDate": "1967",
+      "externalIds": {
+        "letterboxd": "dutchman"
+      },
+      "awardYear": 1967,
+      "winner": "Shirley Knight"
+    },
+    {
+      "id": "venice-best-actress-1968-teorema-30",
+      "mediaType": "movie",
+      "title": "Teorema",
+      "releaseDate": "1968",
+      "externalIds": {
+        "letterboxd": "teorema"
+      },
+      "awardYear": 1968,
+      "winner": "Laura Betti"
+    },
+    {
+      "id": "venice-best-actress-1981-the-german-sisters-31",
+      "mediaType": "movie",
+      "title": "The German Sisters",
+      "releaseDate": "1981",
+      "externalIds": {
+        "letterboxd": "the-german-sisters"
+      },
+      "awardYear": 1981,
+      "winner": "Barbara Sukowa"
+    },
+    {
+      "id": "venice-best-actress-1982-tempest-32",
+      "mediaType": "movie",
+      "title": "Tempest",
+      "releaseDate": "1982",
+      "externalIds": {
+        "letterboxd": "tempest"
+      },
+      "awardYear": 1982,
+      "winner": "Susan Sarandon"
+    },
+    {
+      "id": "venice-best-actress-1983-a-flash-of-green-33",
+      "mediaType": "movie",
+      "title": "A Flash of Green",
+      "releaseDate": "1983",
+      "externalIds": {
+        "letterboxd": "a-flash-of-green"
+      },
+      "awardYear": 1983,
+      "winner": "Darling Légitimus"
+    },
+    {
+      "id": "venice-best-actress-1984-full-moon-in-paris-34",
+      "mediaType": "movie",
+      "title": "Full Moon in Paris",
+      "releaseDate": "1984",
+      "externalIds": {
+        "letterboxd": "full-moon-in-paris"
+      },
+      "awardYear": 1984,
+      "winner": "Pascale Ogier"
+    },
+    {
+      "id": "venice-best-actress-1986-a-tale-of-love-35",
+      "mediaType": "movie",
+      "title": "A Tale of Love",
+      "releaseDate": "1986",
+      "externalIds": {
+        "letterboxd": "a-tale-of-love"
+      },
+      "awardYear": 1986,
+      "winner": "Valeria Golino"
+    },
+    {
+      "id": "venice-best-actress-1987-the-surrogate-woman-36",
+      "mediaType": "movie",
+      "title": "The Surrogate Woman",
+      "releaseDate": "1987",
+      "externalIds": {
+        "letterboxd": "the-surrogate-woman"
+      },
+      "awardYear": 1987,
+      "winner": "Kang Soo-yeon"
+    },
+    {
+      "id": "venice-best-actress-1988-story-of-women-madame-sousatzka-37",
+      "mediaType": "movie",
+      "title": "Story of Women / Madame Sousatzka",
+      "releaseDate": "1988",
+      "externalIds": {
+        "letterboxd": "story-of-women-madame-sousatzka"
+      },
+      "awardYear": 1988,
+      "winner": "Isabelle Huppert & Shirley MacLaine"
+    },
+    {
+      "id": "venice-best-actress-1989-she-s-been-away-38",
+      "mediaType": "movie",
+      "title": "She's Been Away",
+      "releaseDate": "1989",
+      "externalIds": {
+        "letterboxd": "she-s-been-away"
+      },
+      "awardYear": 1989,
+      "winner": "Peggy Ashcroft & Geraldine James"
+    },
+    {
+      "id": "venice-best-actress-1990-the-moon-in-the-mirror-39",
+      "mediaType": "movie",
+      "title": "The Moon in the Mirror",
+      "releaseDate": "1990",
+      "externalIds": {
+        "letterboxd": "the-moon-in-the-mirror"
+      },
+      "awardYear": 1990,
+      "winner": "Gloria Münchmeyer"
+    },
+    {
+      "id": "venice-best-actress-1991-edward-ii-40",
+      "mediaType": "movie",
+      "title": "Edward II",
+      "releaseDate": "1991",
+      "externalIds": {
+        "letterboxd": "edward-ii"
+      },
+      "awardYear": 1991,
+      "winner": "Tilda Swinton"
+    },
+    {
+      "id": "venice-best-actress-1992-the-story-of-qiu-ju-41",
+      "mediaType": "movie",
+      "title": "The Story of Qiu Ju",
+      "releaseDate": "1992",
+      "externalIds": {
+        "letterboxd": "the-story-of-qiu-ju"
+      },
+      "awardYear": 1992,
+      "winner": "Gong Li"
+    },
+    {
+      "id": "venice-best-actress-1993-three-colours-blue-42",
+      "mediaType": "movie",
+      "title": "Three Colours: Blue",
+      "releaseDate": "1993",
+      "externalIds": {
+        "letterboxd": "three-colours-blue"
+      },
+      "awardYear": 1993,
+      "winner": "Juliette Binoche"
+    },
+    {
+      "id": "venice-best-actress-1994-two-brothers-my-sister-little-odessa-43",
+      "mediaType": "movie",
+      "title": "Two Brothers, My Sister / Little Odessa",
+      "releaseDate": "1994",
+      "externalIds": {
+        "letterboxd": "two-brothers-my-sister-little-odessa"
+      },
+      "awardYear": 1994,
+      "winner": "Maria de Medeiros & Vanessa Redgrave"
+    },
+    {
+      "id": "venice-best-actress-1995-la-ceremonie-44",
+      "mediaType": "movie",
+      "title": "La Cérémonie",
+      "releaseDate": "1995",
+      "externalIds": {
+        "letterboxd": "la-ceremonie"
+      },
+      "awardYear": 1995,
+      "winner": "Sandrine Bonnaire & Isabelle Huppert"
+    },
+    {
+      "id": "venice-best-actress-1996-ponette-45",
+      "mediaType": "movie",
+      "title": "Ponette",
+      "releaseDate": "1996",
+      "externalIds": {
+        "letterboxd": "ponette"
+      },
+      "awardYear": 1996,
+      "winner": "Victoire Thivisol"
+    },
+    {
+      "id": "venice-best-actress-1997-niagara-niagara-46",
+      "mediaType": "movie",
+      "title": "Niagara, Niagara",
+      "releaseDate": "1997",
+      "externalIds": {
+        "letterboxd": "niagara-niagara"
+      },
+      "awardYear": 1997,
+      "winner": "Robin Tunney"
+    },
+    {
+      "id": "venice-best-actress-1998-place-vendome-47",
+      "mediaType": "movie",
+      "title": "Place Vendôme",
+      "releaseDate": "1998",
+      "externalIds": {
+        "letterboxd": "place-vendome"
+      },
+      "awardYear": 1998,
+      "winner": "Catherine Deneuve"
+    },
+    {
+      "id": "venice-best-actress-1999-an-affair-of-love-48",
+      "mediaType": "movie",
+      "title": "An Affair of Love",
+      "releaseDate": "1999",
+      "externalIds": {
+        "letterboxd": "an-affair-of-love"
+      },
+      "awardYear": 1999,
+      "winner": "Nathalie Baye"
+    },
+    {
+      "id": "venice-best-actress-2000-the-goddess-of-1967-49",
+      "mediaType": "movie",
+      "title": "The Goddess of 1967",
+      "releaseDate": "2000",
+      "externalIds": {
+        "letterboxd": "the-goddess-of-1967"
+      },
+      "awardYear": 2000,
+      "winner": "Rose Byrne"
+    },
+    {
+      "id": "venice-best-actress-2001-light-of-my-eyes-50",
+      "mediaType": "movie",
+      "title": "Light of My Eyes",
+      "releaseDate": "2001",
+      "externalIds": {
+        "letterboxd": "light-of-my-eyes"
+      },
+      "awardYear": 2001,
+      "winner": "Sandra Ceccarelli"
+    },
+    {
+      "id": "venice-best-actress-2002-far-from-heaven-51",
+      "mediaType": "movie",
+      "title": "Far from Heaven",
+      "releaseDate": "2002",
+      "externalIds": {
+        "letterboxd": "far-from-heaven"
+      },
+      "awardYear": 2002,
+      "winner": "Julianne Moore"
+    },
+    {
+      "id": "venice-best-actress-2003-rosenstrasse-52",
+      "mediaType": "movie",
+      "title": "Rosenstrasse",
+      "releaseDate": "2003",
+      "externalIds": {
+        "letterboxd": "rosenstrasse"
+      },
+      "awardYear": 2003,
+      "winner": "Katja Riemann"
+    },
+    {
+      "id": "venice-best-actress-2004-vera-drake-53",
+      "mediaType": "movie",
+      "title": "Vera Drake",
+      "releaseDate": "2004",
+      "externalIds": {
+        "letterboxd": "vera-drake"
+      },
+      "awardYear": 2004,
+      "winner": "Imelda Staunton"
+    },
+    {
+      "id": "venice-best-actress-2005-don-t-tell-54",
+      "mediaType": "movie",
+      "title": "Don't Tell",
+      "releaseDate": "2005",
+      "externalIds": {
+        "letterboxd": "don-t-tell"
+      },
+      "awardYear": 2005,
+      "winner": "Giovanna Mezzogiorno"
+    },
+    {
+      "id": "venice-best-actress-2006-the-queen-55",
+      "mediaType": "movie",
+      "title": "The Queen",
+      "releaseDate": "2006",
+      "externalIds": {
+        "letterboxd": "the-queen"
+      },
+      "awardYear": 2006,
+      "winner": "Helen Mirren"
+    },
+    {
+      "id": "venice-best-actress-2007-i-m-not-there-56",
+      "mediaType": "movie",
+      "title": "I'm Not There",
+      "releaseDate": "2007",
+      "externalIds": {
+        "letterboxd": "i-m-not-there"
+      },
+      "awardYear": 2007,
+      "winner": "Cate Blanchett"
+    },
+    {
+      "id": "venice-best-actress-2008-the-other-one-57",
+      "mediaType": "movie",
+      "title": "The Other One",
+      "releaseDate": "2008",
+      "externalIds": {
+        "letterboxd": "the-other-one"
+      },
+      "awardYear": 2008,
+      "winner": "Dominique Blanc"
+    },
+    {
+      "id": "venice-best-actress-2009-la-doppia-ora-58",
+      "mediaType": "movie",
+      "title": "La doppia ora",
+      "releaseDate": "2009",
+      "externalIds": {
+        "letterboxd": "la-doppia-ora"
+      },
+      "awardYear": 2009,
+      "winner": "Ksenia Rappoport"
+    },
+    {
+      "id": "venice-best-actress-2010-black-swan-59",
+      "mediaType": "movie",
+      "title": "Black Swan",
+      "releaseDate": "2010",
+      "externalIds": {
+        "letterboxd": "black-swan"
+      },
+      "awardYear": 2010,
+      "winner": "Ariane Labed"
+    },
+    {
+      "id": "venice-best-actress-2011-a-simple-life-60",
+      "mediaType": "movie",
+      "title": "A Simple Life",
+      "releaseDate": "2011",
+      "externalIds": {
+        "letterboxd": "a-simple-life"
+      },
+      "awardYear": 2011,
+      "winner": "Deanie Ip"
+    },
+    {
+      "id": "venice-best-actress-2012-fill-the-void-61",
+      "mediaType": "movie",
+      "title": "Fill the Void",
+      "releaseDate": "2012",
+      "externalIds": {
+        "letterboxd": "fill-the-void"
+      },
+      "awardYear": 2012,
+      "winner": "Hadas Yaron"
+    },
+    {
+      "id": "venice-best-actress-2013-a-street-in-palermo-62",
+      "mediaType": "movie",
+      "title": "A Street in Palermo",
+      "releaseDate": "2013",
+      "externalIds": {
+        "letterboxd": "a-street-in-palermo"
+      },
+      "awardYear": 2013,
+      "winner": "Elena Cotta"
+    },
+    {
+      "id": "venice-best-actress-2014-hungry-hearts-63",
+      "mediaType": "movie",
+      "title": "Hungry Hearts",
+      "releaseDate": "2014",
+      "externalIds": {
+        "letterboxd": "hungry-hearts"
+      },
+      "awardYear": 2014,
+      "winner": "Alba Rohrwacher"
+    },
+    {
+      "id": "venice-best-actress-2015-for-your-love-64",
+      "mediaType": "movie",
+      "title": "For Your Love",
+      "releaseDate": "2015",
+      "externalIds": {
+        "letterboxd": "for-your-love"
+      },
+      "awardYear": 2015,
+      "winner": "Valeria Golino"
+    },
+    {
+      "id": "venice-best-actress-2016-la-la-land-65",
+      "mediaType": "movie",
+      "title": "爱乐之城",
+      "releaseDate": "2016",
+      "externalIds": {
+        "letterboxd": "la-la-land"
+      },
+      "awardYear": 2016,
+      "winner": "Emma Stone",
+      "englishTitle": "La La Land"
+    },
+    {
+      "id": "venice-best-actress-2017-hannah-66",
+      "mediaType": "movie",
+      "title": "汉娜",
+      "releaseDate": "2017",
+      "externalIds": {
+        "letterboxd": "hannah"
+      },
+      "awardYear": 2017,
+      "winner": "Charlotte Rampling",
+      "englishTitle": "Hannah"
+    },
+    {
+      "id": "venice-best-actress-2018-the-favourite-67",
+      "mediaType": "movie",
+      "title": "宠儿",
+      "releaseDate": "2018",
+      "externalIds": {
+        "letterboxd": "the-favourite"
+      },
+      "awardYear": 2018,
+      "winner": "Olivia Colman",
+      "englishTitle": "The Favourite"
+    },
+    {
+      "id": "venice-best-actress-2019-gloria-mundi-68",
+      "mediaType": "movie",
+      "title": "世界的胜利",
+      "releaseDate": "2019",
+      "externalIds": {
+        "letterboxd": "gloria-mundi"
+      },
+      "awardYear": 2019,
+      "winner": "Ariane Ascaride",
+      "englishTitle": "Gloria Mundi"
+    },
+    {
+      "id": "venice-best-actress-2020-pieces-of-a-woman-69",
+      "mediaType": "movie",
+      "title": "女人的碎片",
+      "releaseDate": "2020",
+      "externalIds": {
+        "letterboxd": "pieces-of-a-woman"
+      },
+      "awardYear": 2020,
+      "winner": "Vanessa Kirby",
+      "englishTitle": "Pieces of a Woman"
+    },
+    {
+      "id": "venice-best-actress-2021-parallel-mothers-70",
+      "mediaType": "movie",
+      "title": "平行母亲",
+      "releaseDate": "2021",
+      "externalIds": {
+        "letterboxd": "parallel-mothers"
+      },
+      "awardYear": 2021,
+      "winner": "Penélope Cruz",
+      "englishTitle": "Parallel Mothers"
+    },
+    {
+      "id": "venice-best-actress-2022-tar-71",
+      "mediaType": "movie",
+      "title": "塔尔",
+      "releaseDate": "2022",
+      "externalIds": {
+        "letterboxd": "tar"
+      },
+      "awardYear": 2022,
+      "winner": "Cate Blanchett",
+      "englishTitle": "Tár"
+    },
+    {
+      "id": "venice-best-actress-2023-priscilla-72",
+      "mediaType": "movie",
+      "title": "普瑞希拉",
+      "releaseDate": "2023",
+      "externalIds": {
+        "letterboxd": "priscilla"
+      },
+      "awardYear": 2023,
+      "winner": "Cailee Spaeny",
+      "englishTitle": "Priscilla"
+    },
+    {
+      "id": "venice-best-actress-2024-babygirl-73",
+      "mediaType": "movie",
+      "title": "小心肝儿",
+      "releaseDate": "2024",
+      "externalIds": {
+        "letterboxd": "babygirl"
+      },
+      "awardYear": 2024,
+      "winner": "Nicole Kidman",
+      "englishTitle": "Babygirl"
+    },
+    {
+      "id": "venice-best-actress-2025-the-sun-rises-on-us-all-74",
+      "mediaType": "movie",
+      "title": "日挂中天",
+      "releaseDate": "2025",
+      "externalIds": {
+        "letterboxd": "the-sun-rises-on-us-all"
+      },
+      "awardYear": 2025,
+      "winner": "Xin Zhilei",
+      "englishTitle": "The Sun Rises on Us All"
+    }
+  ]
+}

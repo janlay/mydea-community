@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:00:00Z",
+  "title": "金馬獎 2016 年核心獎項得獎名單",
+  "description": "第53屆金馬獎核心常設獎項得獎作品，收錄最佳劇情片、導演、男女主角、男女配角、新導演與新演員。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "golden-horse-2016-best-feature-tt6118258",
+      "mediaType": "movie",
+      "title": "八月",
+      "award": "最佳劇情片",
+      "awardYear": 2016,
+      "winner": "張大磊",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt6118258"
+      },
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-horse-2016-best-director-tt5918090",
+      "mediaType": "movie",
+      "title": "我不是潘金蓮",
+      "award": "最佳導演",
+      "awardYear": 2016,
+      "winner": "馮小剛",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5918090"
+      },
+      "awardOrder": 2
+    },
+    {
+      "id": "golden-horse-2016-best-actor-tt6128782",
+      "mediaType": "movie",
+      "title": "不成問題的問題",
+      "award": "最佳男主角",
+      "awardYear": 2016,
+      "winner": "范偉",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt6128782"
+      },
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-horse-2016-best-actress-tt6054290",
+      "mediaType": "movie",
+      "title": "七月與安生",
+      "award": "最佳女主角",
+      "awardYear": 2016,
+      "winner": "周冬雨、馬思純",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt6054290"
+      },
+      "awardOrder": 4
+    },
+    {
+      "id": "golden-horse-2016-best-supporting-actor-tt5827496",
+      "mediaType": "movie",
+      "title": "六弄咖啡館",
+      "award": "最佳男配角",
+      "awardYear": 2016,
+      "winner": "林柏宏",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5827496"
+      },
+      "awardOrder": 5
+    },
+    {
+      "id": "golden-horse-2016-best-supporting-actress-tt6041030",
+      "mediaType": "movie",
+      "title": "一念無明",
+      "award": "最佳女配角",
+      "awardYear": 2016,
+      "winner": "金燕玲",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt6041030"
+      },
+      "awardOrder": 6
+    },
+    {
+      "id": "golden-horse-2016-best-new-director-tt6041030",
+      "mediaType": "movie",
+      "title": "一念無明",
+      "award": "最佳新導演",
+      "awardYear": 2016,
+      "winner": "黃進",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt6041030"
+      },
+      "awardOrder": 7
+    },
+    {
+      "id": "golden-horse-2016-best-new-performer-tt6118258",
+      "mediaType": "movie",
+      "title": "八月",
+      "award": "最佳新演員",
+      "awardYear": 2016,
+      "winner": "孔維一",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt6118258"
+      },
+      "awardOrder": 8
+    }
+  ]
+}

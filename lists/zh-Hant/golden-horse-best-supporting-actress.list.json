@@ -1,0 +1,557 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:45:00Z",
+  "title": "金馬獎 — 最佳女配角",
+  "description": "金馬獎最佳女配角歷屆全部實際得獎記錄；並列得獎分別保留。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "golden-horse-1962-best-supporting-actress-item-1",
+      "mediaType": "movie",
+      "title": "颱風",
+      "awardYear": 1962,
+      "winner": "唐寶雲",
+      "releaseDate": "1962"
+    },
+    {
+      "id": "golden-horse-1963-best-supporting-actress-item-2",
+      "mediaType": "movie",
+      "title": "巫山春回",
+      "awardYear": 1963,
+      "winner": "杜娟",
+      "releaseDate": "1963"
+    },
+    {
+      "id": "golden-horse-1965-best-supporting-actress-item-3",
+      "mediaType": "movie",
+      "title": "人之初",
+      "awardYear": 1965,
+      "winner": "王萊",
+      "releaseDate": "1965"
+    },
+    {
+      "id": "golden-horse-1966-best-supporting-actress-item-4",
+      "mediaType": "movie",
+      "title": "煙雨濛濛",
+      "awardYear": 1966,
+      "winner": "盧碧雲",
+      "releaseDate": "1966"
+    },
+    {
+      "id": "golden-horse-1967-best-supporting-actress-item-5",
+      "mediaType": "movie",
+      "title": "藍與黑",
+      "awardYear": 1967,
+      "winner": "于倩",
+      "releaseDate": "1967"
+    },
+    {
+      "id": "golden-horse-1968-best-supporting-actress-item-6",
+      "mediaType": "movie",
+      "title": "烽火萬里情",
+      "awardYear": 1968,
+      "winner": "歐陽莎菲",
+      "releaseDate": "1968"
+    },
+    {
+      "id": "golden-horse-1969-best-supporting-actress-item-7",
+      "mediaType": "movie",
+      "title": "小鎮春回",
+      "awardYear": 1969,
+      "winner": "張冰玉",
+      "releaseDate": "1969"
+    },
+    {
+      "id": "golden-horse-1970-best-supporting-actress-item-8",
+      "mediaType": "movie",
+      "title": "歌聲魅影",
+      "awardYear": 1970,
+      "winner": "夏台鳳",
+      "releaseDate": "1970"
+    },
+    {
+      "id": "golden-horse-1971-best-supporting-actress-item-9",
+      "mediaType": "movie",
+      "title": "落鷹峽",
+      "awardYear": 1971,
+      "winner": "陳莎莉",
+      "releaseDate": "1971"
+    },
+    {
+      "id": "golden-horse-1972-best-supporting-actress-item-10",
+      "mediaType": "movie",
+      "title": "秋決",
+      "awardYear": 1972,
+      "winner": "傅碧輝",
+      "releaseDate": "1972"
+    },
+    {
+      "id": "golden-horse-1973-best-supporting-actress-item-11",
+      "mediaType": "movie",
+      "title": "十四女英豪",
+      "awardYear": 1973,
+      "winner": "盧燕",
+      "releaseDate": "1973"
+    },
+    {
+      "id": "golden-horse-1975-best-supporting-actress-item-12",
+      "mediaType": "movie",
+      "title": "女朋友",
+      "awardYear": 1975,
+      "winner": "蕭芳芳",
+      "releaseDate": "1975"
+    },
+    {
+      "id": "golden-horse-1976-best-supporting-actress-item-13",
+      "mediaType": "movie",
+      "title": "碧雲天",
+      "awardYear": 1976,
+      "winner": "張艾嘉",
+      "releaseDate": "1976"
+    },
+    {
+      "id": "golden-horse-1977-best-supporting-actress-item-14",
+      "mediaType": "movie",
+      "title": "人在天涯",
+      "awardYear": 1977,
+      "winner": "胡茵夢",
+      "releaseDate": "1977"
+    },
+    {
+      "id": "golden-horse-1978-best-supporting-actress-item-15",
+      "mediaType": "movie",
+      "title": "蒂蒂日記",
+      "awardYear": 1978,
+      "winner": "歸亞蕾",
+      "releaseDate": "1978"
+    },
+    {
+      "id": "golden-horse-1979-best-supporting-actress-item-16",
+      "mediaType": "movie",
+      "title": "一個女工的故事",
+      "awardYear": 1979,
+      "winner": "沈時華",
+      "releaseDate": "1979"
+    },
+    {
+      "id": "golden-horse-1980-best-supporting-actress-item-17",
+      "mediaType": "movie",
+      "title": "茉莉花",
+      "awardYear": 1980,
+      "winner": "邵佩玲",
+      "releaseDate": "1980"
+    },
+    {
+      "id": "golden-horse-1981-best-supporting-actress-item-18",
+      "mediaType": "movie",
+      "title": "小葫蘆",
+      "awardYear": 1981,
+      "winner": "王萊",
+      "releaseDate": "1981"
+    },
+    {
+      "id": "golden-horse-1982-best-supporting-actress-item-19",
+      "mediaType": "movie",
+      "title": "汽水加牛奶",
+      "awardYear": 1982,
+      "winner": "葉德嫻",
+      "releaseDate": "1982"
+    },
+    {
+      "id": "golden-horse-1983-best-supporting-actress-item-20",
+      "mediaType": "movie",
+      "title": "看海的日子",
+      "awardYear": 1983,
+      "winner": "英英",
+      "releaseDate": "1983"
+    },
+    {
+      "id": "golden-horse-1984-best-supporting-actress-item-21",
+      "mediaType": "movie",
+      "title": "油麻菜籽",
+      "awardYear": 1984,
+      "winner": "陳秋燕",
+      "releaseDate": "1984"
+    },
+    {
+      "id": "golden-horse-1985-best-supporting-actress-item-22",
+      "mediaType": "movie",
+      "title": "童年往事",
+      "awardYear": 1985,
+      "winner": "唐如韞",
+      "releaseDate": "1985"
+    },
+    {
+      "id": "golden-horse-1986-best-supporting-actress-item-23",
+      "mediaType": "movie",
+      "title": "最愛",
+      "awardYear": 1986,
+      "winner": "繆騫人",
+      "releaseDate": "1986"
+    },
+    {
+      "id": "golden-horse-1987-best-supporting-actress-item-24",
+      "mediaType": "movie",
+      "title": "期待你長大",
+      "awardYear": 1987,
+      "winner": "林珊如",
+      "releaseDate": "1987"
+    },
+    {
+      "id": "golden-horse-1988-best-supporting-actress-item-25",
+      "mediaType": "movie",
+      "title": "海峽兩岸",
+      "awardYear": 1988,
+      "winner": "王萊",
+      "releaseDate": "1988"
+    },
+    {
+      "id": "golden-horse-1989-best-supporting-actress-item-26",
+      "mediaType": "movie",
+      "title": "魯冰花",
+      "awardYear": 1989,
+      "winner": "李淑楨",
+      "releaseDate": "1989"
+    },
+    {
+      "id": "golden-horse-1990-best-supporting-actress-tt0099719",
+      "mediaType": "movie",
+      "title": "滾滾紅塵",
+      "awardYear": 1990,
+      "winner": "張曼玉",
+      "releaseDate": "1990",
+      "externalIds": {
+        "imdb": "tt0099719"
+      }
+    },
+    {
+      "id": "golden-horse-1991-best-supporting-actress-item-28",
+      "mediaType": "movie",
+      "title": "推手",
+      "awardYear": 1991,
+      "winner": "王萊",
+      "releaseDate": "1991"
+    },
+    {
+      "id": "golden-horse-1991-best-supporting-actress-item-29",
+      "mediaType": "movie",
+      "title": "阿飛正傳",
+      "awardYear": 1991,
+      "winner": "潘迪華",
+      "releaseDate": "1991"
+    },
+    {
+      "id": "golden-horse-1992-best-supporting-actress-item-30",
+      "mediaType": "movie",
+      "title": "浮世戀曲",
+      "awardYear": 1992,
+      "winner": "顧美華",
+      "releaseDate": "1992"
+    },
+    {
+      "id": "golden-horse-1993-best-supporting-actress-item-31",
+      "mediaType": "movie",
+      "title": "囍宴",
+      "awardYear": 1993,
+      "winner": "歸亞蕾",
+      "releaseDate": "1993"
+    },
+    {
+      "id": "golden-horse-1994-best-supporting-actress-item-32",
+      "mediaType": "movie",
+      "title": "獨立時代",
+      "awardYear": 1994,
+      "winner": "金燕玲",
+      "releaseDate": "1994"
+    },
+    {
+      "id": "golden-horse-1995-best-supporting-actress-item-33",
+      "mediaType": "movie",
+      "title": "熱帶魚",
+      "awardYear": 1995,
+      "winner": "文英",
+      "releaseDate": "1995"
+    },
+    {
+      "id": "golden-horse-1996-best-supporting-actress-item-34",
+      "mediaType": "movie",
+      "title": "忠仔",
+      "awardYear": 1996,
+      "winner": "邱秀敏",
+      "releaseDate": "1996"
+    },
+    {
+      "id": "golden-horse-1997-best-supporting-actress-item-35",
+      "mediaType": "movie",
+      "title": "愛情來了",
+      "awardYear": 1997,
+      "winner": "廖慧珍",
+      "releaseDate": "1997"
+    },
+    {
+      "id": "golden-horse-1998-best-supporting-actress-item-36",
+      "mediaType": "movie",
+      "title": "洪興十三妹",
+      "awardYear": 1998,
+      "winner": "舒淇",
+      "releaseDate": "1998"
+    },
+    {
+      "id": "golden-horse-1999-best-supporting-actress-item-37",
+      "mediaType": "movie",
+      "title": "笨小孩",
+      "awardYear": 1999,
+      "winner": "葉德嫻",
+      "releaseDate": "1999"
+    },
+    {
+      "id": "golden-horse-2000-best-supporting-actress-item-38",
+      "mediaType": "movie",
+      "title": "沙河悲歌",
+      "awardYear": 2000,
+      "winner": "趙美齡",
+      "releaseDate": "2000"
+    },
+    {
+      "id": "golden-horse-2001-best-supporting-actress-item-39",
+      "mediaType": "movie",
+      "title": "愛上我吧",
+      "awardYear": 2001,
+      "winner": "羅慧英",
+      "releaseDate": "2001"
+    },
+    {
+      "id": "golden-horse-2002-best-supporting-actress-item-40",
+      "mediaType": "movie",
+      "title": "男人四十",
+      "awardYear": 2002,
+      "winner": "林嘉欣",
+      "releaseDate": "2002"
+    },
+    {
+      "id": "golden-horse-2003-best-supporting-actress-item-41",
+      "mediaType": "movie",
+      "title": "黑狗來了",
+      "awardYear": 2003,
+      "winner": "林美秀",
+      "releaseDate": "2003"
+    },
+    {
+      "id": "golden-horse-2004-best-supporting-actress-item-42",
+      "mediaType": "movie",
+      "title": "三更2之餃子",
+      "awardYear": 2004,
+      "winner": "白靈",
+      "releaseDate": "2004"
+    },
+    {
+      "id": "golden-horse-2005-best-supporting-actress-item-43",
+      "mediaType": "movie",
+      "title": "功夫",
+      "awardYear": 2005,
+      "winner": "元秋",
+      "releaseDate": "2005"
+    },
+    {
+      "id": "golden-horse-2006-best-supporting-actress-item-44",
+      "mediaType": "movie",
+      "title": "愛麗絲的鏡子",
+      "awardYear": 2006,
+      "winner": "謝欣穎",
+      "releaseDate": "2006"
+    },
+    {
+      "id": "golden-horse-2007-best-supporting-actress-item-45",
+      "mediaType": "movie",
+      "title": "心中有鬼",
+      "awardYear": 2007,
+      "winner": "范冰冰",
+      "releaseDate": "2007"
+    },
+    {
+      "id": "golden-horse-2008-best-supporting-actress-item-46",
+      "mediaType": "movie",
+      "title": "囧男孩",
+      "awardYear": 2008,
+      "winner": "梅芳",
+      "releaseDate": "2008"
+    },
+    {
+      "id": "golden-horse-2009-best-supporting-actress-item-47",
+      "mediaType": "movie",
+      "title": "心魔",
+      "awardYear": 2009,
+      "winner": "惠英紅",
+      "releaseDate": "2009"
+    },
+    {
+      "id": "golden-horse-2010-best-supporting-actress-item-48",
+      "mediaType": "movie",
+      "title": "第四張畫",
+      "awardYear": 2010,
+      "winner": "郝蕾",
+      "releaseDate": "2010"
+    },
+    {
+      "id": "golden-horse-2011-best-supporting-actress-item-49",
+      "mediaType": "movie",
+      "title": "到阜陽六百里",
+      "awardYear": 2011,
+      "winner": "唐群",
+      "releaseDate": "2011"
+    },
+    {
+      "id": "golden-horse-2012-best-supporting-actress-item-50",
+      "mediaType": "movie",
+      "title": "殺生",
+      "awardYear": 2012,
+      "winner": "梁靜",
+      "releaseDate": "2012"
+    },
+    {
+      "id": "golden-horse-2013-best-supporting-actress-item-51",
+      "mediaType": "movie",
+      "title": "爸媽不在家",
+      "awardYear": 2013,
+      "winner": "楊雁雁",
+      "releaseDate": "2013"
+    },
+    {
+      "id": "golden-horse-2014-best-supporting-actress-item-52",
+      "mediaType": "movie",
+      "title": "軍中樂園",
+      "awardYear": 2014,
+      "winner": "萬茜",
+      "releaseDate": "2014"
+    },
+    {
+      "id": "golden-horse-2015-best-supporting-actress-item-53",
+      "mediaType": "movie",
+      "title": "醉·生夢死",
+      "awardYear": 2015,
+      "winner": "呂雪鳳",
+      "releaseDate": "2015"
+    },
+    {
+      "id": "golden-horse-2016-best-supporting-actress-tt6041030",
+      "mediaType": "movie",
+      "title": "一念無明",
+      "awardYear": 2016,
+      "winner": "金燕玲",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt6041030"
+      }
+    },
+    {
+      "id": "golden-horse-2017-best-supporting-actress-tt7479784",
+      "mediaType": "movie",
+      "title": "血觀音",
+      "awardYear": 2017,
+      "winner": "文淇",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7479784"
+      }
+    },
+    {
+      "id": "golden-horse-2018-best-supporting-actress-tt4397342",
+      "mediaType": "movie",
+      "title": "幸福城市",
+      "awardYear": 2018,
+      "winner": "丁寧",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt4397342"
+      }
+    },
+    {
+      "id": "golden-horse-2019-best-supporting-actress-tt11070412",
+      "mediaType": "movie",
+      "title": "我的靈魂是愛做的",
+      "awardYear": 2019,
+      "winner": "張詩盈",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt11070412"
+      }
+    },
+    {
+      "id": "golden-horse-2020-best-supporting-actress-tt12359272",
+      "mediaType": "movie",
+      "title": "親愛的房客",
+      "awardYear": 2020,
+      "winner": "陳淑芳",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt12359272"
+      }
+    },
+    {
+      "id": "golden-horse-2021-best-supporting-actress-tt15742308",
+      "mediaType": "movie",
+      "title": "該死的阿修羅",
+      "awardYear": 2021,
+      "winner": "王渝萱",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt15742308"
+      }
+    },
+    {
+      "id": "golden-horse-2022-best-supporting-actress-tt22370990",
+      "mediaType": "movie",
+      "title": "哈勇家",
+      "awardYear": 2022,
+      "winner": "林詹珍妹",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt22370990"
+      }
+    },
+    {
+      "id": "golden-horse-2023-best-supporting-actress-tt26686277",
+      "mediaType": "movie",
+      "title": "本日公休",
+      "awardYear": 2023,
+      "winner": "方志友",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt26686277"
+      }
+    },
+    {
+      "id": "golden-horse-2024-best-supporting-actress-tt33290581",
+      "mediaType": "movie",
+      "title": "小雁與吳愛麗",
+      "awardYear": 2024,
+      "winner": "楊貴媚",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt33290581"
+      }
+    },
+    {
+      "id": "golden-horse-2025-best-supporting-actress-tt38589615",
+      "mediaType": "movie",
+      "title": "人生海海",
+      "awardYear": 2025,
+      "winner": "陳雪甄",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt38589615"
+      }
+    }
+  ]
+}

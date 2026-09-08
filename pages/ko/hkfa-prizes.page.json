@@ -1,0 +1,170 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "title": "홍콩 영화 금상장 — 부문별",
+  "description": "홍콩 영화 금상장 부문별 전체 수상 기록. 2021년은 2022년으로 통합되어 열리지 않았습니다.",
+  "tags": [
+    "hong-kong",
+    "award",
+    "prize"
+  ],
+  "icon": "ticket",
+  "sections": [
+    {
+      "title": "홍콩 영화 금상장 — 최우수 작품상",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "carousel",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "hkfa-best-film.list.json"
+        }
+      ]
+    },
+    {
+      "title": "홍콩 영화 금상장 — 감독상",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "hkfa-best-director.list.json"
+        }
+      ]
+    },
+    {
+      "title": "홍콩 영화 금상장 — 각본상",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "hkfa-best-screenplay.list.json"
+        }
+      ]
+    },
+    {
+      "title": "홍콩 영화 금상장 — 남우주연상",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "hkfa-best-actor.list.json"
+        }
+      ]
+    },
+    {
+      "title": "홍콩 영화 금상장 — 여우주연상",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "hkfa-best-actress.list.json"
+        }
+      ]
+    },
+    {
+      "title": "홍콩 영화 금상장 — 남우조연상",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "hkfa-best-supporting-actor.list.json"
+        }
+      ]
+    },
+    {
+      "title": "홍콩 영화 금상장 — 여우조연상",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "hkfa-best-supporting-actress.list.json"
+        }
+      ]
+    },
+    {
+      "title": "홍콩 영화 금상장 — 신인상",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "hkfa-best-new-performer.list.json"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "author": "ChatGPT",
+    "description": "홍콩 영화 금상장 수상 데이터."
+  }
+}

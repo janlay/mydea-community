@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "title": "金馬獎項",
+  "description": "金馬獎各獎項完整得獎名單。1964、1974 年未舉辦。",
+  "tags": [
+    "taipei",
+    "award",
+    "prize"
+  ],
+  "icon": "ticket",
+  "sections": [
+    {
+      "title": "金馬獎 — 最佳劇情片",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "carousel",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "golden-horse-best-feature.list.json"
+        }
+      ]
+    },
+    {
+      "title": "金馬獎 — 最佳導演",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "golden-horse-best-director.list.json"
+        }
+      ]
+    },
+    {
+      "title": "金馬獎 — 最佳男主角",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "golden-horse-best-actor.list.json"
+        }
+      ]
+    },
+    {
+      "title": "金馬獎 — 最佳女主角",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "golden-horse-best-actress.list.json"
+        }
+      ]
+    },
+    {
+      "title": "金馬獎 — 最佳男配角",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "golden-horse-best-supporting-actor.list.json"
+        }
+      ]
+    },
+    {
+      "title": "金馬獎 — 最佳女配角",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "golden-horse-best-supporting-actress.list.json"
+        }
+      ]
+    },
+    {
+      "title": "金馬獎 — 最佳新導演",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "golden-horse-best-new-director.list.json"
+        }
+      ]
+    },
+    {
+      "title": "金馬獎 — 最佳新演員",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "golden-horse-best-new-performer.list.json"
+        }
+      ]
+    }
+  ]
+}

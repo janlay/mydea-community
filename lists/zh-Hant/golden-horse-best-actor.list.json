@@ -1,0 +1,581 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:45:00Z",
+  "title": "金馬獎 — 最佳男主角",
+  "description": "金馬獎最佳男主角歷屆全部實際得獎記錄；並列得獎分別保留。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "golden-horse-1962-best-actor-item-1",
+      "mediaType": "movie",
+      "title": "手槍",
+      "awardYear": 1962,
+      "winner": "王引",
+      "releaseDate": "1962"
+    },
+    {
+      "id": "golden-horse-1963-best-actor-item-2",
+      "mediaType": "movie",
+      "title": "黑夜到黎明",
+      "awardYear": 1963,
+      "winner": "唐菁",
+      "releaseDate": "1963"
+    },
+    {
+      "id": "golden-horse-1965-best-actor-tt1345532",
+      "mediaType": "movie",
+      "title": "養鴨人家",
+      "awardYear": 1965,
+      "winner": "葛香亭",
+      "releaseDate": "1965",
+      "externalIds": {
+        "imdb": "tt1345532"
+      }
+    },
+    {
+      "id": "golden-horse-1966-best-actor-tt0311305",
+      "mediaType": "movie",
+      "title": "西施",
+      "awardYear": 1966,
+      "winner": "趙雷",
+      "releaseDate": "1966",
+      "externalIds": {
+        "imdb": "tt0311305"
+      }
+    },
+    {
+      "id": "golden-horse-1967-best-actor-item-5",
+      "mediaType": "movie",
+      "title": "故鄉劫",
+      "awardYear": 1967,
+      "winner": "歐威",
+      "releaseDate": "1967"
+    },
+    {
+      "id": "golden-horse-1968-best-actor-tt7176712",
+      "mediaType": "movie",
+      "title": "路",
+      "awardYear": 1968,
+      "winner": "崔福生",
+      "releaseDate": "1968",
+      "externalIds": {
+        "imdb": "tt7176712"
+      }
+    },
+    {
+      "id": "golden-horse-1969-best-actor-item-7",
+      "mediaType": "movie",
+      "title": "揚子江風雲",
+      "awardYear": 1969,
+      "winner": "楊群",
+      "releaseDate": "1969"
+    },
+    {
+      "id": "golden-horse-1970-best-actor-item-8",
+      "mediaType": "movie",
+      "title": "高山青",
+      "awardYear": 1970,
+      "winner": "葛香亭",
+      "releaseDate": "1970"
+    },
+    {
+      "id": "golden-horse-1971-best-actor-tt0067797",
+      "mediaType": "movie",
+      "title": "緹縈",
+      "awardYear": 1971,
+      "winner": "王引",
+      "releaseDate": "1971",
+      "externalIds": {
+        "imdb": "tt0067797"
+      }
+    },
+    {
+      "id": "golden-horse-1972-best-actor-item-10",
+      "mediaType": "movie",
+      "title": "秋決",
+      "awardYear": 1972,
+      "winner": "歐威",
+      "releaseDate": "1972"
+    },
+    {
+      "id": "golden-horse-1973-best-actor-item-11",
+      "mediaType": "movie",
+      "title": "忍",
+      "awardYear": 1973,
+      "winner": "楊群",
+      "releaseDate": "1973"
+    },
+    {
+      "id": "golden-horse-1975-best-actor-item-12",
+      "mediaType": "movie",
+      "title": "長情萬縷",
+      "awardYear": 1975,
+      "winner": "秦祥林",
+      "releaseDate": "1975"
+    },
+    {
+      "id": "golden-horse-1976-best-actor-item-13",
+      "mediaType": "movie",
+      "title": "香花與毒草",
+      "awardYear": 1976,
+      "winner": "常楓",
+      "releaseDate": "1976"
+    },
+    {
+      "id": "golden-horse-1977-best-actor-item-14",
+      "mediaType": "movie",
+      "title": "人在天涯",
+      "awardYear": 1977,
+      "winner": "秦祥林",
+      "releaseDate": "1977"
+    },
+    {
+      "id": "golden-horse-1978-best-actor-tt0079277",
+      "mediaType": "movie",
+      "title": "汪洋中的一條船",
+      "awardYear": 1978,
+      "winner": "秦漢",
+      "releaseDate": "1978",
+      "externalIds": {
+        "imdb": "tt0079277"
+      }
+    },
+    {
+      "id": "golden-horse-1979-best-actor-item-16",
+      "mediaType": "movie",
+      "title": "黃埔軍魂",
+      "awardYear": 1979,
+      "winner": "柯俊雄",
+      "releaseDate": "1979"
+    },
+    {
+      "id": "golden-horse-1980-best-actor-item-17",
+      "mediaType": "movie",
+      "title": "茉莉花",
+      "awardYear": 1980,
+      "winner": "王冠雄",
+      "releaseDate": "1980"
+    },
+    {
+      "id": "golden-horse-1981-best-actor-tt0289112",
+      "mediaType": "movie",
+      "title": "假如我是真的",
+      "awardYear": 1981,
+      "winner": "譚詠麟",
+      "releaseDate": "1981",
+      "externalIds": {
+        "imdb": "tt0289112"
+      }
+    },
+    {
+      "id": "golden-horse-1982-best-actor-tt0185188",
+      "mediaType": "movie",
+      "title": "邊緣人",
+      "awardYear": 1982,
+      "winner": "艾迪",
+      "releaseDate": "1982",
+      "externalIds": {
+        "imdb": "tt0185188"
+      }
+    },
+    {
+      "id": "golden-horse-1983-best-actor-item-20",
+      "mediaType": "movie",
+      "title": "搭錯車",
+      "awardYear": 1983,
+      "winner": "孫越",
+      "releaseDate": "1983"
+    },
+    {
+      "id": "golden-horse-1984-best-actor-item-21",
+      "mediaType": "movie",
+      "title": "公僕",
+      "awardYear": 1984,
+      "winner": "李修賢",
+      "releaseDate": "1984"
+    },
+    {
+      "id": "golden-horse-1985-best-actor-item-22",
+      "mediaType": "movie",
+      "title": "等待黎明",
+      "awardYear": 1985,
+      "winner": "周潤發",
+      "releaseDate": "1985"
+    },
+    {
+      "id": "golden-horse-1986-best-actor-item-23",
+      "mediaType": "movie",
+      "title": "英雄本色",
+      "awardYear": 1986,
+      "winner": "狄龍",
+      "releaseDate": "1986"
+    },
+    {
+      "id": "golden-horse-1987-best-actor-item-24",
+      "mediaType": "movie",
+      "title": "秋天的童話",
+      "awardYear": 1987,
+      "winner": "周潤發",
+      "releaseDate": "1987"
+    },
+    {
+      "id": "golden-horse-1988-best-actor-item-25",
+      "mediaType": "movie",
+      "title": "大頭仔",
+      "awardYear": 1988,
+      "winner": "萬梓良",
+      "releaseDate": "1988"
+    },
+    {
+      "id": "golden-horse-1989-best-actor-item-26",
+      "mediaType": "movie",
+      "title": "悲情城市",
+      "awardYear": 1989,
+      "winner": "陳松勇",
+      "releaseDate": "1989"
+    },
+    {
+      "id": "golden-horse-1990-best-actor-item-27",
+      "mediaType": "movie",
+      "title": "愛在他鄉的季節",
+      "awardYear": 1990,
+      "winner": "梁家輝",
+      "releaseDate": "1990"
+    },
+    {
+      "id": "golden-horse-1991-best-actor-item-28",
+      "mediaType": "movie",
+      "title": "推手",
+      "awardYear": 1991,
+      "winner": "郎雄",
+      "releaseDate": "1991"
+    },
+    {
+      "id": "golden-horse-1992-best-actor-item-29",
+      "mediaType": "movie",
+      "title": "警察故事III超級警察",
+      "awardYear": 1992,
+      "winner": "成龍",
+      "releaseDate": "1992"
+    },
+    {
+      "id": "golden-horse-1993-best-actor-item-30",
+      "mediaType": "movie",
+      "title": "重案組",
+      "awardYear": 1993,
+      "winner": "成龍",
+      "releaseDate": "1993"
+    },
+    {
+      "id": "golden-horse-1994-best-actor-item-31",
+      "mediaType": "movie",
+      "title": "重慶森林",
+      "awardYear": 1994,
+      "winner": "梁朝偉",
+      "releaseDate": "1994"
+    },
+    {
+      "id": "golden-horse-1995-best-actor-item-32",
+      "mediaType": "movie",
+      "title": "超級大國民",
+      "awardYear": 1995,
+      "winner": "林揚",
+      "releaseDate": "1995"
+    },
+    {
+      "id": "golden-horse-1996-best-actor-item-33",
+      "mediaType": "movie",
+      "title": "陽光燦爛的日子",
+      "awardYear": 1996,
+      "winner": "夏雨",
+      "releaseDate": "1996"
+    },
+    {
+      "id": "golden-horse-1997-best-actor-item-34",
+      "mediaType": "movie",
+      "title": "南海十三郎",
+      "awardYear": 1997,
+      "winner": "謝君豪",
+      "releaseDate": "1997"
+    },
+    {
+      "id": "golden-horse-1998-best-actor-tt0115005",
+      "mediaType": "movie",
+      "title": "天浴",
+      "awardYear": 1998,
+      "winner": "洛桑群培",
+      "releaseDate": "1998",
+      "externalIds": {
+        "imdb": "tt0115005"
+      }
+    },
+    {
+      "id": "golden-horse-1999-best-actor-item-36",
+      "mediaType": "movie",
+      "title": "一代梟雄曹操",
+      "awardYear": 1999,
+      "winner": "柯俊雄",
+      "releaseDate": "1999"
+    },
+    {
+      "id": "golden-horse-2000-best-actor-tt0220644",
+      "mediaType": "movie",
+      "title": "鎗火",
+      "awardYear": 2000,
+      "winner": "吳鎮宇",
+      "releaseDate": "2000",
+      "externalIds": {
+        "imdb": "tt0220644"
+      }
+    },
+    {
+      "id": "golden-horse-2001-best-actor-item-38",
+      "mediaType": "movie",
+      "title": "藍宇",
+      "awardYear": 2001,
+      "winner": "劉燁",
+      "releaseDate": "2001"
+    },
+    {
+      "id": "golden-horse-2002-best-actor-item-39",
+      "mediaType": "movie",
+      "title": "三更之回家",
+      "awardYear": 2002,
+      "winner": "黎明",
+      "releaseDate": "2002"
+    },
+    {
+      "id": "golden-horse-2003-best-actor-item-40",
+      "mediaType": "movie",
+      "title": "無間道",
+      "awardYear": 2003,
+      "winner": "梁朝偉",
+      "releaseDate": "2003"
+    },
+    {
+      "id": "golden-horse-2004-best-actor-item-41",
+      "mediaType": "movie",
+      "title": "無間道III：終極無間",
+      "awardYear": 2004,
+      "winner": "劉德華",
+      "releaseDate": "2004"
+    },
+    {
+      "id": "golden-horse-2005-best-actor-item-42",
+      "mediaType": "movie",
+      "title": "三岔口",
+      "awardYear": 2005,
+      "winner": "郭富城",
+      "releaseDate": "2005"
+    },
+    {
+      "id": "golden-horse-2006-best-actor-item-43",
+      "mediaType": "movie",
+      "title": "父子",
+      "awardYear": 2006,
+      "winner": "郭富城",
+      "releaseDate": "2006"
+    },
+    {
+      "id": "golden-horse-2007-best-actor-item-44",
+      "mediaType": "movie",
+      "title": "色，戒",
+      "awardYear": 2007,
+      "winner": "梁朝偉",
+      "releaseDate": "2007"
+    },
+    {
+      "id": "golden-horse-2008-best-actor-item-45",
+      "mediaType": "movie",
+      "title": "集結號",
+      "awardYear": 2008,
+      "winner": "張涵予",
+      "releaseDate": "2008"
+    },
+    {
+      "id": "golden-horse-2009-best-actor-item-46",
+      "mediaType": "movie",
+      "title": "証人",
+      "awardYear": 2009,
+      "winner": "張家輝",
+      "releaseDate": "2009"
+    },
+    {
+      "id": "golden-horse-2009-best-actor-item-47",
+      "mediaType": "movie",
+      "title": "鬥牛",
+      "awardYear": 2009,
+      "winner": "黃渤",
+      "releaseDate": "2009"
+    },
+    {
+      "id": "golden-horse-2010-best-actor-item-48",
+      "mediaType": "movie",
+      "title": "艋舺",
+      "awardYear": 2010,
+      "winner": "阮經天",
+      "releaseDate": "2010"
+    },
+    {
+      "id": "golden-horse-2011-best-actor-item-49",
+      "mediaType": "movie",
+      "title": "桃姐",
+      "awardYear": 2011,
+      "winner": "劉德華",
+      "releaseDate": "2011"
+    },
+    {
+      "id": "golden-horse-2012-best-actor-item-50",
+      "mediaType": "movie",
+      "title": "奪命金",
+      "awardYear": 2012,
+      "winner": "劉青雲",
+      "releaseDate": "2012"
+    },
+    {
+      "id": "golden-horse-2013-best-actor-item-51",
+      "mediaType": "movie",
+      "title": "郊遊",
+      "awardYear": 2013,
+      "winner": "李康生",
+      "releaseDate": "2013"
+    },
+    {
+      "id": "golden-horse-2014-best-actor-item-52",
+      "mediaType": "movie",
+      "title": "一個勺子",
+      "awardYear": 2014,
+      "winner": "陳建斌",
+      "releaseDate": "2014"
+    },
+    {
+      "id": "golden-horse-2015-best-actor-item-53",
+      "mediaType": "movie",
+      "title": "老炮兒",
+      "awardYear": 2015,
+      "winner": "馮小剛",
+      "releaseDate": "2015"
+    },
+    {
+      "id": "golden-horse-2016-best-actor-tt6128782",
+      "mediaType": "movie",
+      "title": "不成問題的問題",
+      "awardYear": 2016,
+      "winner": "范偉",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt6128782"
+      }
+    },
+    {
+      "id": "golden-horse-2017-best-actor-tt7481246",
+      "mediaType": "movie",
+      "title": "老獸",
+      "awardYear": 2017,
+      "winner": "涂們",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7481246"
+      }
+    },
+    {
+      "id": "golden-horse-2018-best-actor-tt7362036",
+      "mediaType": "movie",
+      "title": "我不是藥神",
+      "awardYear": 2018,
+      "winner": "徐崢",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7362036"
+      }
+    },
+    {
+      "id": "golden-horse-2019-best-actor-tt10883506",
+      "mediaType": "movie",
+      "title": "陽光普照",
+      "awardYear": 2019,
+      "winner": "陳以文",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10883506"
+      }
+    },
+    {
+      "id": "golden-horse-2020-best-actor-tt12359272",
+      "mediaType": "movie",
+      "title": "親愛的房客",
+      "awardYear": 2020,
+      "winner": "莫子儀",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt12359272"
+      }
+    },
+    {
+      "id": "golden-horse-2021-best-actor-tt13598976",
+      "mediaType": "movie",
+      "title": "緝魂",
+      "awardYear": 2021,
+      "winner": "張震",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt13598976"
+      }
+    },
+    {
+      "id": "golden-horse-2022-best-actor-tt18280126",
+      "mediaType": "movie",
+      "title": "白日青春",
+      "awardYear": 2022,
+      "winner": "黃秋生",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt18280126"
+      }
+    },
+    {
+      "id": "golden-horse-2023-best-actor-tt27445004",
+      "mediaType": "movie",
+      "title": "富都青年",
+      "awardYear": 2023,
+      "winner": "吳慷仁",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt27445004"
+      }
+    },
+    {
+      "id": "golden-horse-2024-best-actor-tt33616511",
+      "mediaType": "movie",
+      "title": "漂亮朋友",
+      "awardYear": 2024,
+      "winner": "張志勇",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt33616511"
+      }
+    },
+    {
+      "id": "golden-horse-2025-best-actor-tt34000545",
+      "mediaType": "movie",
+      "title": "幸福之路",
+      "awardYear": 2025,
+      "winner": "張震",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt34000545"
+      }
+    }
+  ]
+}

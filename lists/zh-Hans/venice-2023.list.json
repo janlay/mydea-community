@@ -1,0 +1,124 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:30:00Z",
+  "title": "威尼斯电影节 2023 年获奖名单",
+  "description": "第91届威尼斯电影节主竞赛主要官方奖项获奖影片。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "venice-golden-lion-2023-poor-things-1",
+      "mediaType": "movie",
+      "title": "可怜的东西",
+      "releaseDate": "2023",
+      "externalIds": {
+        "letterboxd": "poor-things"
+      },
+      "awardYear": 2023,
+      "winner": "Yorgos Lanthimos",
+      "englishTitle": "Poor Things",
+      "award": "金狮奖"
+    },
+    {
+      "id": "venice-grand-jury-prize-2023-evil-does-not-exist-2",
+      "mediaType": "movie",
+      "title": "邪恶不存在",
+      "releaseDate": "2023",
+      "externalIds": {
+        "letterboxd": "evil-does-not-exist"
+      },
+      "awardYear": 2023,
+      "winner": "Ryusuke Hamaguchi",
+      "englishTitle": "Evil Does Not Exist",
+      "award": "银狮奖·评审团大奖"
+    },
+    {
+      "id": "venice-best-director-2023-io-capitano-3",
+      "mediaType": "movie",
+      "title": "我是船长",
+      "releaseDate": "2023",
+      "externalIds": {
+        "letterboxd": "io-capitano"
+      },
+      "awardYear": 2023,
+      "winner": "Matteo Garrone",
+      "englishTitle": "Io Capitano",
+      "award": "银狮奖·最佳导演"
+    },
+    {
+      "id": "venice-best-actress-2023-priscilla-4",
+      "mediaType": "movie",
+      "title": "普瑞希拉",
+      "releaseDate": "2023",
+      "externalIds": {
+        "letterboxd": "priscilla"
+      },
+      "awardYear": 2023,
+      "winner": "Cailee Spaeny",
+      "englishTitle": "Priscilla",
+      "award": "沃尔皮杯·最佳女演员"
+    },
+    {
+      "id": "venice-best-actor-2023-memory-5",
+      "mediaType": "movie",
+      "title": "记忆",
+      "releaseDate": "2023",
+      "externalIds": {
+        "letterboxd": "memory"
+      },
+      "awardYear": 2023,
+      "winner": "Peter Sarsgaard",
+      "englishTitle": "Memory",
+      "award": "沃尔皮杯·最佳男演员"
+    },
+    {
+      "id": "venice-best-screenplay-2023-el-conde-6",
+      "mediaType": "movie",
+      "title": "伯爵",
+      "releaseDate": "2023",
+      "externalIds": {
+        "letterboxd": "el-conde"
+      },
+      "awardYear": 2023,
+      "winner": "Guillermo Calderón & Pablo Larraín",
+      "englishTitle": "El Conde",
+      "award": "最佳编剧奖"
+    },
+    {
+      "id": "venice-special-jury-prize-2023-green-border-7",
+      "mediaType": "movie",
+      "title": "绿色边境",
+      "releaseDate": "2023",
+      "externalIds": {
+        "letterboxd": "green-border"
+      },
+      "awardYear": 2023,
+      "winner": "Agnieszka Holland",
+      "englishTitle": "Green Border",
+      "award": "评审团特别奖"
+    },
+    {
+      "id": "venice-mastroianni-2023-io-capitano-8",
+      "mediaType": "movie",
+      "title": "我是船长",
+      "releaseDate": "2023",
+      "externalIds": {
+        "letterboxd": "io-capitano"
+      },
+      "awardYear": 2023,
+      "winner": "Seydou Sarr",
+      "englishTitle": "Io Capitano",
+      "award": "马塞洛·马斯楚安尼奖"
+    }
+  ]
+}

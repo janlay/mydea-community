@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:30:00Z",
+  "title": "柏林 — 最佳主角银熊奖",
+  "description": "柏林国际电影节 最佳主角银熊奖 全部获奖记录。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "berlinale-best-leading-performance-2021-i-m-your-man",
+      "mediaType": "movie",
+      "title": "我是你的人",
+      "englishTitle": "I'm Your Man",
+      "awardYear": 2021,
+      "winner": "Maren Eggert",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt13087796"
+      }
+    },
+    {
+      "id": "berlinale-best-leading-performance-2022-rabiye-kurnaz-vs-george-w-bush",
+      "mediaType": "movie",
+      "title": "拉比耶·库尔纳兹大战小布什",
+      "englishTitle": "Rabiye Kurnaz vs. George W. Bush",
+      "awardYear": 2022,
+      "winner": "Meltem Kaptan",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt13471738"
+      }
+    },
+    {
+      "id": "berlinale-best-leading-performance-2023-20-000-species-of-bees",
+      "mediaType": "movie",
+      "title": "两万种蜜蜂",
+      "englishTitle": "20,000 Species of Bees",
+      "awardYear": 2023,
+      "winner": "Sofía Otero",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt21113962"
+      }
+    },
+    {
+      "id": "berlinale-best-leading-performance-2024-a-different-man",
+      "mediaType": "movie",
+      "title": "不同的男人",
+      "englishTitle": "A Different Man",
+      "awardYear": 2024,
+      "winner": "Sebastian Stan",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt21097228"
+      }
+    },
+    {
+      "id": "berlinale-best-leading-performance-2025-if-i-had-legs-i-d-kick-you",
+      "mediaType": "movie",
+      "title": "如果我有腿，我会踢你",
+      "englishTitle": "If I Had Legs I'd Kick You",
+      "awardYear": 2025,
+      "winner": "Rose Byrne",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt18382850"
+      }
+    },
+    {
+      "id": "berlinale-best-leading-performance-2026-rose",
+      "mediaType": "movie",
+      "title": "Rose",
+      "awardYear": 2026,
+      "winner": "Sandra Hüller",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt25399154"
+      }
+    }
+  ]
+}

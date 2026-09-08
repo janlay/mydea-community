@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "title": "Berlinale Prizes",
+  "description": "Winners of every Berlinale competition award. No awards were given in 1970.",
+  "tags": [
+    "berlin",
+    "award",
+    "prize"
+  ],
+  "icon": "ticket",
+  "sections": [
+    {
+      "title": "Berlinale — Golden Bear for Best Film",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "berlinale-golden-bear.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "carousel"
+    },
+    {
+      "title": "Berlinale — Silver Bear Grand Jury Prize",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "berlinale-grand-jury-prize.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid"
+    },
+    {
+      "title": "Berlinale — Silver Bear Jury Prize",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "berlinale-jury-prize.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid"
+    },
+    {
+      "title": "Berlinale — Silver Bear for Best Director",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "berlinale-best-director.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid"
+    },
+    {
+      "title": "Berlinale — Silver Bear for Best Screenplay",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "berlinale-best-screenplay.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid"
+    },
+    {
+      "title": "Berlinale — Silver Bear for Outstanding Artistic Contribution",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "berlinale-outstanding-artistic-contribution.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid"
+    },
+    {
+      "title": "Berlinale — Silver Bear for Best Leading Performance",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "berlinale-best-leading-performance.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid"
+    },
+    {
+      "title": "Berlinale — Silver Bear for Best Supporting Performance",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "berlinale-best-supporting-performance.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid"
+    },
+    {
+      "title": "Berlinale — Silver Bear for Best Actress (Historical)",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "berlinale-best-actress.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid"
+    },
+    {
+      "title": "Berlinale — Silver Bear for Best Actor (Historical)",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "berlinale-best-actor.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid"
+    },
+    {
+      "title": "Berlinale — Alfred Bauer Prize (Historical)",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "berlinale-alfred-bauer-prize.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid"
+    },
+    {
+      "title": "Berlinale — Silver Bear – 70th Berlinale",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "berlinale-70th-silver-bear.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid"
+    }
+  ]
+}

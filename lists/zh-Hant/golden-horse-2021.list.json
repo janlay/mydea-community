@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:00:00Z",
+  "title": "金馬獎 2021 年核心獎項得獎名單",
+  "description": "第58屆金馬獎核心常設獎項得獎作品，收錄最佳劇情片、導演、男女主角、男女配角、新導演與新演員。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "golden-horse-2021-best-feature-tt15119668",
+      "mediaType": "movie",
+      "title": "瀑布",
+      "award": "最佳劇情片",
+      "awardYear": 2021,
+      "winner": "鍾孟宏",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt15119668"
+      },
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-horse-2021-best-director-tt15575176",
+      "mediaType": "movie",
+      "title": "花果飄零",
+      "award": "最佳導演",
+      "awardYear": 2021,
+      "winner": "羅卓瑤",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt15575176"
+      },
+      "awardOrder": 2
+    },
+    {
+      "id": "golden-horse-2021-best-actor-tt13598976",
+      "mediaType": "movie",
+      "title": "緝魂",
+      "award": "最佳男主角",
+      "awardYear": 2021,
+      "winner": "張震",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt13598976"
+      },
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-horse-2021-best-actress-tt15119668",
+      "mediaType": "movie",
+      "title": "瀑布",
+      "award": "最佳女主角",
+      "awardYear": 2021,
+      "winner": "賈靜雯",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt15119668"
+      },
+      "awardOrder": 4
+    },
+    {
+      "id": "golden-horse-2021-best-supporting-actor-tt15445440",
+      "mediaType": "movie",
+      "title": "詭扯",
+      "award": "最佳男配角",
+      "awardYear": 2021,
+      "winner": "劉冠廷",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt15445440"
+      },
+      "awardOrder": 5
+    },
+    {
+      "id": "golden-horse-2021-best-supporting-actress-tt15742308",
+      "mediaType": "movie",
+      "title": "該死的阿修羅",
+      "award": "最佳女配角",
+      "awardYear": 2021,
+      "winner": "王渝萱",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt15742308"
+      },
+      "awardOrder": 6
+    },
+    {
+      "id": "golden-horse-2021-best-new-director-tt15620158",
+      "mediaType": "movie",
+      "title": "美國女孩",
+      "award": "最佳新導演",
+      "awardYear": 2021,
+      "winner": "阮鳳儀",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt15620158"
+      },
+      "awardOrder": 7
+    },
+    {
+      "id": "golden-horse-2021-best-new-performer-tt15620158",
+      "mediaType": "movie",
+      "title": "美國女孩",
+      "award": "最佳新演員",
+      "awardYear": 2021,
+      "winner": "方郁婷",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt15620158"
+      },
+      "awardOrder": 8
+    }
+  ]
+}

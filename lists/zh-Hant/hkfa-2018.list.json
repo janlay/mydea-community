@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "title": "香港電影金像獎 2018 年得獎名單",
+  "description": "第37屆香港電影金像獎主要獎項得獎作品。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "hkfa-2018-best-film-7075594",
+      "mediaType": "movie",
+      "title": "明月幾時有",
+      "awardYear": 2018,
+      "winner": "《明月幾時有》",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7075594"
+      },
+      "award": "最佳電影",
+      "awardOrder": 1
+    },
+    {
+      "id": "hkfa-2018-best-director-7075594",
+      "mediaType": "movie",
+      "title": "明月幾時有",
+      "awardYear": 2018,
+      "winner": "許鞍華",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7075594"
+      },
+      "award": "最佳導演",
+      "awardOrder": 2
+    },
+    {
+      "id": "hkfa-2018-best-screenplay-7479718",
+      "mediaType": "movie",
+      "title": "相愛相親",
+      "awardYear": 2018,
+      "winner": "張艾嘉、游曉穎",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7479718"
+      },
+      "award": "最佳編劇",
+      "awardOrder": 3
+    },
+    {
+      "id": "hkfa-2018-best-actor-7245176",
+      "mediaType": "movie",
+      "title": "殺破狼·貪狼",
+      "awardYear": 2018,
+      "winner": "古天樂",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7245176"
+      },
+      "award": "最佳男主角",
+      "awardOrder": 4
+    },
+    {
+      "id": "hkfa-2018-best-actress-7875604",
+      "mediaType": "movie",
+      "title": "黃金花",
+      "awardYear": 2018,
+      "winner": "毛舜筠",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7875604"
+      },
+      "award": "最佳女主角",
+      "awardOrder": 5
+    },
+    {
+      "id": "hkfa-2018-best-supporting-actor-5847286",
+      "mediaType": "movie",
+      "title": "拆彈專家",
+      "awardYear": 2018,
+      "winner": "姜皓文",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5847286"
+      },
+      "award": "最佳男配角",
+      "awardOrder": 6
+    },
+    {
+      "id": "hkfa-2018-best-supporting-actress-7075594",
+      "mediaType": "movie",
+      "title": "明月幾時有",
+      "awardYear": 2018,
+      "winner": "葉德嫻",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7075594"
+      },
+      "award": "最佳女配角",
+      "awardOrder": 7
+    },
+    {
+      "id": "hkfa-2018-best-new-performer-7875604",
+      "mediaType": "movie",
+      "title": "黃金花",
+      "awardYear": 2018,
+      "winner": "凌文龍",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7875604"
+      },
+      "award": "最佳新演員",
+      "awardOrder": 8
+    }
+  ]
+}

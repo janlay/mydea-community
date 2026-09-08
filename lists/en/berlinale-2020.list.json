@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:30:00Z",
+  "title": "Berlinale 2020 Awards",
+  "description": "Major Competition International Jury award winners at the 2020 Berlin International Film Festival.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "berlinale-2020-golden-bear-there-is-no-evil",
+      "mediaType": "movie",
+      "title": "There Is No Evil",
+      "award": "Golden Bear for Best Film",
+      "awardYear": 2020,
+      "awardOrder": 1,
+      "winner": "Mohammad Rasoulof",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt11697844"
+      },
+      "backdropPath": "https://image.tmdb.org/t/p/w342/59vPeo5aylXS5uEo5uS46cjGKRz.jpg"
+    },
+    {
+      "id": "berlinale-2020-grand-jury-never-rarely-sometimes-always",
+      "mediaType": "movie",
+      "title": "Never Rarely Sometimes Always",
+      "award": "Silver Bear Grand Jury Prize",
+      "awardYear": 2020,
+      "awardOrder": 2,
+      "winner": "Eliza Hittman",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt7772582"
+      }
+    },
+    {
+      "id": "berlinale-2020-70th-silver-bear-delete-history",
+      "mediaType": "movie",
+      "title": "Delete History",
+      "award": "Silver Bear – 70th Berlinale",
+      "awardYear": 2020,
+      "awardOrder": 3,
+      "winner": "Benoît Delépine & Gustave Kervern",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10627352"
+      }
+    },
+    {
+      "id": "berlinale-2020-best-director-the-woman-who-ran",
+      "mediaType": "movie",
+      "title": "The Woman Who Ran",
+      "award": "Silver Bear for Best Director",
+      "awardYear": 2020,
+      "awardOrder": 4,
+      "winner": "Hong Sangsoo",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt11738830"
+      }
+    },
+    {
+      "id": "berlinale-2020-best-actress-undine",
+      "mediaType": "movie",
+      "title": "Undine",
+      "award": "Silver Bear for Best Actress",
+      "awardYear": 2020,
+      "awardOrder": 5,
+      "winner": "Paula Beer",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt11617052"
+      }
+    },
+    {
+      "id": "berlinale-2020-best-actor-hidden-away",
+      "mediaType": "movie",
+      "title": "Hidden Away",
+      "award": "Silver Bear for Best Actor",
+      "awardYear": 2020,
+      "awardOrder": 6,
+      "winner": "Elio Germano",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt8478554"
+      }
+    },
+    {
+      "id": "berlinale-2020-best-screenplay-bad-tales",
+      "mediaType": "movie",
+      "title": "Bad Tales",
+      "award": "Silver Bear for Best Screenplay",
+      "awardYear": 2020,
+      "awardOrder": 7,
+      "winner": "Fabio D'Innocenzo & Damiano D'Innocenzo",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt8526370"
+      }
+    },
+    {
+      "id": "berlinale-2020-artistic-contribution-dau-natasha",
+      "mediaType": "movie",
+      "title": "DAU. Natasha",
+      "award": "Silver Bear for Outstanding Artistic Contribution",
+      "awardYear": 2020,
+      "awardOrder": 8,
+      "winner": "Jürgen Jürges",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt11905962"
+      }
+    }
+  ]
+}

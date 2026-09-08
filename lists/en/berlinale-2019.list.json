@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:30:00Z",
+  "title": "Berlinale 2019 Awards",
+  "description": "Major Competition International Jury award winners at the 2019 Berlin International Film Festival.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "berlinale-2019-golden-bear-synonyms",
+      "mediaType": "movie",
+      "title": "Synonyms",
+      "award": "Golden Bear for Best Film",
+      "awardYear": 2019,
+      "awardOrder": 1,
+      "winner": "Nadav Lapid",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt7019942"
+      }
+    },
+    {
+      "id": "berlinale-2019-grand-jury-by-the-grace-of-god",
+      "mediaType": "movie",
+      "title": "By the Grace of God",
+      "award": "Silver Bear Grand Jury Prize",
+      "awardYear": 2019,
+      "awardOrder": 2,
+      "winner": "François Ozon",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt8095860"
+      }
+    },
+    {
+      "id": "berlinale-2019-alfred-bauer-system-crasher",
+      "mediaType": "movie",
+      "title": "System Crasher",
+      "award": "Alfred Bauer Prize",
+      "awardYear": 2019,
+      "awardOrder": 3,
+      "winner": "Nora Fingscheidt",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt8535968"
+      },
+      "backdropPath": "https://image.tmdb.org/t/p/w342/bTRgchpjedlfCKL2TbQPIdvWDtp.jpg"
+    },
+    {
+      "id": "berlinale-2019-best-director-i-was-at-home-but",
+      "mediaType": "movie",
+      "title": "I Was at Home, But",
+      "award": "Silver Bear for Best Director",
+      "awardYear": 2019,
+      "awardOrder": 4,
+      "winner": "Angela Schanelec",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt7760890"
+      }
+    },
+    {
+      "id": "berlinale-2019-best-actress-so-long-my-son",
+      "mediaType": "movie",
+      "title": "So Long, My Son",
+      "award": "Silver Bear for Best Actress",
+      "awardYear": 2019,
+      "awardOrder": 5,
+      "winner": "Yong Mei",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt9581076"
+      },
+      "backdropPath": "https://image.tmdb.org/t/p/w342/zxaZENMHp9tw7YSy6NAPfMmhjKh.jpg"
+    },
+    {
+      "id": "berlinale-2019-best-actor-so-long-my-son",
+      "mediaType": "movie",
+      "title": "So Long, My Son",
+      "award": "Silver Bear for Best Actor",
+      "awardYear": 2019,
+      "awardOrder": 6,
+      "winner": "Wang Jingchun",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt9581076"
+      },
+      "backdropPath": "https://image.tmdb.org/t/p/w342/zxaZENMHp9tw7YSy6NAPfMmhjKh.jpg"
+    },
+    {
+      "id": "berlinale-2019-best-screenplay-piranhas",
+      "mediaType": "movie",
+      "title": "Piranhas",
+      "award": "Silver Bear for Best Screenplay",
+      "awardYear": 2019,
+      "awardOrder": 7,
+      "winner": "Maurizio Braucci, Claudio Giovannesi & Roberto Saviano",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt8740778"
+      }
+    },
+    {
+      "id": "berlinale-2019-artistic-contribution-out-stealing-horses",
+      "mediaType": "movie",
+      "title": "Out Stealing Horses",
+      "award": "Silver Bear for Outstanding Artistic Contribution",
+      "awardYear": 2019,
+      "awardOrder": 8,
+      "winner": "Rasmus Videbæk",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt8000908"
+      }
+    }
+  ]
+}

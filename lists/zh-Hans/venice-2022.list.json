@@ -1,0 +1,124 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:30:00Z",
+  "title": "威尼斯电影节 2022 年获奖名单",
+  "description": "第90届威尼斯电影节主竞赛主要官方奖项获奖影片。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "venice-golden-lion-2022-all-the-beauty-and-the-bloodshed-1",
+      "mediaType": "movie",
+      "title": "所有的美丽与血泪",
+      "releaseDate": "2022",
+      "externalIds": {
+        "letterboxd": "all-the-beauty-and-the-bloodshed"
+      },
+      "awardYear": 2022,
+      "winner": "Laura Poitras",
+      "englishTitle": "All the Beauty and the Bloodshed",
+      "award": "金狮奖"
+    },
+    {
+      "id": "venice-grand-jury-prize-2022-saint-omer-2",
+      "mediaType": "movie",
+      "title": "圣奥梅尔",
+      "releaseDate": "2022",
+      "externalIds": {
+        "letterboxd": "saint-omer"
+      },
+      "awardYear": 2022,
+      "winner": "Alice Diop",
+      "englishTitle": "Saint Omer",
+      "award": "银狮奖·评审团大奖"
+    },
+    {
+      "id": "venice-best-director-2022-bones-and-all-3",
+      "mediaType": "movie",
+      "title": "骨及所有",
+      "releaseDate": "2022",
+      "externalIds": {
+        "letterboxd": "bones-and-all"
+      },
+      "awardYear": 2022,
+      "winner": "Luca Guadagnino",
+      "englishTitle": "Bones and All",
+      "award": "银狮奖·最佳导演"
+    },
+    {
+      "id": "venice-best-actress-2022-tar-4",
+      "mediaType": "movie",
+      "title": "塔尔",
+      "releaseDate": "2022",
+      "externalIds": {
+        "letterboxd": "tar"
+      },
+      "awardYear": 2022,
+      "winner": "Cate Blanchett",
+      "englishTitle": "Tár",
+      "award": "沃尔皮杯·最佳女演员"
+    },
+    {
+      "id": "venice-best-actor-2022-the-banshees-of-inisherin-5",
+      "mediaType": "movie",
+      "title": "伊尼舍林的报丧女妖",
+      "releaseDate": "2022",
+      "externalIds": {
+        "letterboxd": "the-banshees-of-inisherin"
+      },
+      "awardYear": 2022,
+      "winner": "Colin Farrell",
+      "englishTitle": "The Banshees of Inisherin",
+      "award": "沃尔皮杯·最佳男演员"
+    },
+    {
+      "id": "venice-best-screenplay-2022-the-banshees-of-inisherin-6",
+      "mediaType": "movie",
+      "title": "伊尼舍林的报丧女妖",
+      "releaseDate": "2022",
+      "externalIds": {
+        "letterboxd": "the-banshees-of-inisherin"
+      },
+      "awardYear": 2022,
+      "winner": "Martin McDonagh",
+      "englishTitle": "The Banshees of Inisherin",
+      "award": "最佳编剧奖"
+    },
+    {
+      "id": "venice-special-jury-prize-2022-no-bears-7",
+      "mediaType": "movie",
+      "title": "无熊之境",
+      "releaseDate": "2022",
+      "externalIds": {
+        "letterboxd": "no-bears"
+      },
+      "awardYear": 2022,
+      "winner": "Jafar Panahi",
+      "englishTitle": "No Bears",
+      "award": "评审团特别奖"
+    },
+    {
+      "id": "venice-mastroianni-2022-bones-and-all-8",
+      "mediaType": "movie",
+      "title": "骨及所有",
+      "releaseDate": "2022",
+      "externalIds": {
+        "letterboxd": "bones-and-all"
+      },
+      "awardYear": 2022,
+      "winner": "Taylor Russell",
+      "englishTitle": "Bones and All",
+      "award": "马塞洛·马斯楚安尼奖"
+    }
+  ]
+}

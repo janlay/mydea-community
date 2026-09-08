@@ -1,0 +1,310 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-08T11:52:00Z",
+  "title": "Cannes Film Festival 2018 Awards",
+  "description": "Official film-linked awards from the 71th Festival de Cannes, covering Competition, Short Films, Un Certain Regard, Caméra d'Or, Cinéfondation and CST technical prizes.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "cannes-2018-palme-d-or-shoplifters",
+      "mediaType": "movie",
+      "title": "Shoplifters",
+      "award": "Palme d'Or",
+      "awardYear": 2018,
+      "awardOrder": 1,
+      "winner": "Hirokazu Kore-eda",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8075192"
+      }
+    },
+    {
+      "id": "cannes-2018-special-palme-d-or-the-image-book",
+      "mediaType": "movie",
+      "title": "The Image Book",
+      "award": "Special Palme d'Or",
+      "awardYear": 2018,
+      "awardOrder": 2,
+      "winner": "Jean-Luc Godard",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt5749596"
+      }
+    },
+    {
+      "id": "cannes-2018-grand-prix-blackkklansman",
+      "mediaType": "movie",
+      "title": "BlacKkKlansman",
+      "award": "Grand Prix",
+      "awardYear": 2018,
+      "awardOrder": 3,
+      "winner": "Spike Lee",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7349662"
+      }
+    },
+    {
+      "id": "cannes-2018-best-director-prize-cold-war",
+      "mediaType": "movie",
+      "title": "Cold War",
+      "award": "Best Director Prize",
+      "awardYear": 2018,
+      "awardOrder": 4,
+      "winner": "Paweł Pawlikowski",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt6543652"
+      }
+    },
+    {
+      "id": "cannes-2018-best-screenplay-ex-aequo-happy-as-lazzaro",
+      "mediaType": "movie",
+      "title": "Happy as Lazzaro",
+      "award": "Best Screenplay (Ex-Aequo)",
+      "awardYear": 2018,
+      "awardOrder": 5,
+      "winner": "Alice Rohrwacher",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt6752992"
+      }
+    },
+    {
+      "id": "cannes-2018-best-screenplay-ex-aequo-3-faces",
+      "mediaType": "movie",
+      "title": "3 Faces",
+      "award": "Best Screenplay (Ex-Aequo)",
+      "awardYear": 2018,
+      "awardOrder": 6,
+      "winner": "Jafar Panahi",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8269552"
+      }
+    },
+    {
+      "id": "cannes-2018-jury-prize-capernaum",
+      "mediaType": "movie",
+      "title": "Capernaum",
+      "award": "Jury Prize",
+      "awardYear": 2018,
+      "awardOrder": 7,
+      "winner": "Nadine Labaki",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8267604"
+      }
+    },
+    {
+      "id": "cannes-2018-best-performance-for-an-actress-ayka",
+      "mediaType": "movie",
+      "title": "Ayka",
+      "award": "Best Performance for an Actress",
+      "awardYear": 2018,
+      "awardOrder": 8,
+      "winner": "Samal Yeslyamova",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8305116"
+      }
+    },
+    {
+      "id": "cannes-2018-best-performance-for-an-actor-dogman",
+      "mediaType": "movie",
+      "title": "Dogman",
+      "award": "Best Performance for an Actor",
+      "awardYear": 2018,
+      "awardOrder": 9,
+      "winner": "Marcello Fonte",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt6768578"
+      }
+    },
+    {
+      "id": "cannes-2018-vulcain-prize-for-an-artist-technician-burning",
+      "mediaType": "movie",
+      "title": "Burning",
+      "award": "Vulcain Prize for an Artist Technician",
+      "awardYear": 2018,
+      "awardOrder": 10,
+      "winner": "Shin Jeom-hui",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7282468"
+      }
+    },
+    {
+      "id": "cannes-2018-short-film-palme-d-or-all-these-creatures",
+      "mediaType": "movie",
+      "title": "All These Creatures",
+      "award": "Short Film Palme d'Or",
+      "awardYear": 2018,
+      "awardOrder": 11,
+      "winner": "Charles Williams",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8296622"
+      }
+    },
+    {
+      "id": "cannes-2018-short-film-special-jury-distinction-on-the-border",
+      "mediaType": "movie",
+      "title": "On the Border",
+      "award": "Short Film Special Jury Distinction",
+      "awardYear": 2018,
+      "awardOrder": 12,
+      "winner": "Wei Shujun",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8296620"
+      }
+    },
+    {
+      "id": "cannes-2018-un-certain-regard-prize-border",
+      "mediaType": "movie",
+      "title": "Border",
+      "award": "Un Certain Regard Prize",
+      "awardYear": 2018,
+      "awardOrder": 13,
+      "winner": "Ali Abbasi",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt5501104"
+      }
+    },
+    {
+      "id": "cannes-2018-un-certain-regard-jury-prize-the-dead-and-the-others",
+      "mediaType": "movie",
+      "title": "The Dead and the Others",
+      "award": "Un Certain Regard Jury Prize",
+      "awardYear": 2018,
+      "awardOrder": 14,
+      "winner": "João Salaviza & Renée Nader Messora",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8423962"
+      }
+    },
+    {
+      "id": "cannes-2018-un-certain-regard-best-directing-donbass",
+      "mediaType": "movie",
+      "title": "Donbass",
+      "award": "Un Certain Regard Best Directing",
+      "awardYear": 2018,
+      "awardOrder": 15,
+      "winner": "Sergei Loznitsa",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8282042"
+      }
+    },
+    {
+      "id": "cannes-2018-un-certain-regard-best-screenplay-sofia",
+      "mediaType": "movie",
+      "title": "Sofia",
+      "award": "Un Certain Regard Best Screenplay",
+      "awardYear": 2018,
+      "awardOrder": 16,
+      "winner": "Meryem Benm'Barek",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8296592"
+      }
+    },
+    {
+      "id": "cannes-2018-un-certain-regard-best-actor-girl",
+      "mediaType": "movie",
+      "title": "Girl",
+      "award": "Un Certain Regard Best Actor",
+      "awardYear": 2018,
+      "awardOrder": 17,
+      "winner": "Victor Polster",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8254556"
+      }
+    },
+    {
+      "id": "cannes-2018-cam-ra-d-or-girl",
+      "mediaType": "movie",
+      "title": "Girl",
+      "award": "Caméra d'Or",
+      "awardYear": 2018,
+      "awardOrder": 18,
+      "winner": "Lukas Dhont",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8254556"
+      }
+    },
+    {
+      "id": "cannes-2018-cin-fondation-first-prize-the-summer-of-the-electric-lion",
+      "mediaType": "movie",
+      "title": "The Summer of the Electric Lion",
+      "award": "Cinéfondation First Prize",
+      "awardYear": 2018,
+      "awardOrder": 19,
+      "winner": "Diego Céspedes",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8517672"
+      }
+    },
+    {
+      "id": "cannes-2018-cin-fondation-second-prize-ex-aequo-calendar",
+      "mediaType": "movie",
+      "title": "Calendar",
+      "award": "Cinéfondation Second Prize (Ex-Aequo)",
+      "awardYear": 2018,
+      "awardOrder": 20,
+      "winner": "Igor Poplauhin",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8517728"
+      }
+    },
+    {
+      "id": "cannes-2018-cin-fondation-second-prize-ex-aequo-the-storms-in-our-blood",
+      "mediaType": "movie",
+      "title": "The Storms in Our Blood",
+      "award": "Cinéfondation Second Prize (Ex-Aequo)",
+      "awardYear": 2018,
+      "awardOrder": 21,
+      "winner": "Shen Di",
+      "releaseDate": "2018",
+      "externalIds": {
+        "letterboxd": "the-storms-in-our-blood"
+      }
+    },
+    {
+      "id": "cannes-2018-cin-fondation-third-prize-inanimate",
+      "mediaType": "movie",
+      "title": "Inanimate",
+      "award": "Cinéfondation Third Prize",
+      "awardYear": 2018,
+      "awardOrder": 22,
+      "winner": "Lucia Bulgheroni",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8358616"
+      }
+    }
+  ]
+}

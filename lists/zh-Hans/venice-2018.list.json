@@ -1,0 +1,124 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:30:00Z",
+  "title": "威尼斯电影节 2018 年获奖名单",
+  "description": "第86届威尼斯电影节主竞赛主要官方奖项获奖影片。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "venice-golden-lion-2018-roma-1",
+      "mediaType": "movie",
+      "title": "罗马",
+      "releaseDate": "2018",
+      "externalIds": {
+        "letterboxd": "roma"
+      },
+      "awardYear": 2018,
+      "winner": "Alfonso Cuarón",
+      "englishTitle": "Roma",
+      "award": "金狮奖"
+    },
+    {
+      "id": "venice-grand-jury-prize-2018-the-favourite-2",
+      "mediaType": "movie",
+      "title": "宠儿",
+      "releaseDate": "2018",
+      "externalIds": {
+        "letterboxd": "the-favourite"
+      },
+      "awardYear": 2018,
+      "winner": "Yorgos Lanthimos",
+      "englishTitle": "The Favourite",
+      "award": "银狮奖·评审团大奖"
+    },
+    {
+      "id": "venice-best-director-2018-the-sisters-brothers-3",
+      "mediaType": "movie",
+      "title": "希斯特斯兄弟",
+      "releaseDate": "2018",
+      "externalIds": {
+        "letterboxd": "the-sisters-brothers"
+      },
+      "awardYear": 2018,
+      "winner": "Jacques Audiard",
+      "englishTitle": "The Sisters Brothers",
+      "award": "银狮奖·最佳导演"
+    },
+    {
+      "id": "venice-best-actress-2018-the-favourite-4",
+      "mediaType": "movie",
+      "title": "宠儿",
+      "releaseDate": "2018",
+      "externalIds": {
+        "letterboxd": "the-favourite"
+      },
+      "awardYear": 2018,
+      "winner": "Olivia Colman",
+      "englishTitle": "The Favourite",
+      "award": "沃尔皮杯·最佳女演员"
+    },
+    {
+      "id": "venice-best-actor-2018-at-eternity-s-gate-5",
+      "mediaType": "movie",
+      "title": "永恒之门",
+      "releaseDate": "2018",
+      "externalIds": {
+        "letterboxd": "at-eternity-s-gate"
+      },
+      "awardYear": 2018,
+      "winner": "Willem Dafoe",
+      "englishTitle": "At Eternity's Gate",
+      "award": "沃尔皮杯·最佳男演员"
+    },
+    {
+      "id": "venice-best-screenplay-2018-the-ballad-of-buster-scruggs-6",
+      "mediaType": "movie",
+      "title": "巴斯特·斯克鲁格斯的歌谣",
+      "releaseDate": "2018",
+      "externalIds": {
+        "letterboxd": "the-ballad-of-buster-scruggs"
+      },
+      "awardYear": 2018,
+      "winner": "Joel Coen & Ethan Coen",
+      "englishTitle": "The Ballad of Buster Scruggs",
+      "award": "最佳编剧奖"
+    },
+    {
+      "id": "venice-special-jury-prize-2018-the-nightingale-7",
+      "mediaType": "movie",
+      "title": "夜莺",
+      "releaseDate": "2018",
+      "externalIds": {
+        "letterboxd": "the-nightingale"
+      },
+      "awardYear": 2018,
+      "winner": "Jennifer Kent",
+      "englishTitle": "The Nightingale",
+      "award": "评审团特别奖"
+    },
+    {
+      "id": "venice-mastroianni-2018-the-nightingale-8",
+      "mediaType": "movie",
+      "title": "夜莺",
+      "releaseDate": "2018",
+      "externalIds": {
+        "letterboxd": "the-nightingale"
+      },
+      "awardYear": 2018,
+      "winner": "Baykali Ganambarr",
+      "englishTitle": "The Nightingale",
+      "award": "马塞洛·马斯楚安尼奖"
+    }
+  ]
+}

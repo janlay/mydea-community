@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:00:00Z",
+  "title": "金馬獎 2022 年核心獎項得獎名單",
+  "description": "第59屆金馬獎核心常設獎項得獎作品，收錄最佳劇情片、導演、男女主角、男女配角、新導演與新演員。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ],
+    [
+      "awardOrder",
+      "asc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "golden-horse-2022-best-feature-tt22335454",
+      "mediaType": "movie",
+      "title": "一家子兒咕咕叫",
+      "award": "最佳劇情片",
+      "awardYear": 2022,
+      "winner": "詹京霖",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt22335454"
+      },
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-horse-2022-best-director-tt22370990",
+      "mediaType": "movie",
+      "title": "哈勇家",
+      "award": "最佳導演",
+      "awardYear": 2022,
+      "winner": "陳潔瑤",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt22370990"
+      },
+      "awardOrder": 2
+    },
+    {
+      "id": "golden-horse-2022-best-actor-tt18280126",
+      "mediaType": "movie",
+      "title": "白日青春",
+      "award": "最佳男主角",
+      "awardYear": 2022,
+      "winner": "黃秋生",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt18280126"
+      },
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-horse-2022-best-actress-tt14071600",
+      "mediaType": "movie",
+      "title": "燈火闌珊",
+      "award": "最佳女主角",
+      "awardYear": 2022,
+      "winner": "張艾嘉",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt14071600"
+      },
+      "awardOrder": 4
+    },
+    {
+      "id": "golden-horse-2022-best-supporting-actor-tt22476934",
+      "mediaType": "movie",
+      "title": "黑的教育",
+      "award": "最佳男配角",
+      "awardYear": 2022,
+      "winner": "朱軒洋",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt22476934"
+      },
+      "awardOrder": 5
+    },
+    {
+      "id": "golden-horse-2022-best-supporting-actress-tt22370990",
+      "mediaType": "movie",
+      "title": "哈勇家",
+      "award": "最佳女配角",
+      "awardYear": 2022,
+      "winner": "林詹珍妹",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt22370990"
+      },
+      "awardOrder": 6
+    },
+    {
+      "id": "golden-horse-2022-best-new-director-tt18280126",
+      "mediaType": "movie",
+      "title": "白日青春",
+      "award": "最佳新導演",
+      "awardYear": 2022,
+      "winner": "劉國瑞",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt18280126"
+      },
+      "awardOrder": 7
+    },
+    {
+      "id": "golden-horse-2022-best-new-performer-tt22335454",
+      "mediaType": "movie",
+      "title": "一家子兒咕咕叫",
+      "award": "最佳新演員",
+      "awardYear": 2022,
+      "winner": "胡智強",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt22335454"
+      },
+      "awardOrder": 8
+    }
+  ]
+}

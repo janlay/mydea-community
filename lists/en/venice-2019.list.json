@@ -1,0 +1,116 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:30:00Z",
+  "title": "Venice Film Festival 2019 Awards",
+  "description": "Main Competition official award-winning films at the 2019 Venice International Film Festival.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "venice-golden-lion-2019-joker-1",
+      "mediaType": "movie",
+      "title": "Joker",
+      "releaseDate": "2019",
+      "externalIds": {
+        "letterboxd": "joker"
+      },
+      "awardYear": 2019,
+      "winner": "Todd Phillips",
+      "award": "Golden Lion"
+    },
+    {
+      "id": "venice-grand-jury-prize-2019-an-officer-and-a-spy-2",
+      "mediaType": "movie",
+      "title": "An Officer and a Spy",
+      "releaseDate": "2019",
+      "externalIds": {
+        "letterboxd": "an-officer-and-a-spy"
+      },
+      "awardYear": 2019,
+      "winner": "Roman Polanski",
+      "award": "Silver Lion – Grand Jury Prize"
+    },
+    {
+      "id": "venice-best-director-2019-about-endlessness-3",
+      "mediaType": "movie",
+      "title": "About Endlessness",
+      "releaseDate": "2019",
+      "externalIds": {
+        "letterboxd": "about-endlessness"
+      },
+      "awardYear": 2019,
+      "winner": "Roy Andersson",
+      "award": "Silver Lion – Best Director"
+    },
+    {
+      "id": "venice-best-actress-2019-gloria-mundi-4",
+      "mediaType": "movie",
+      "title": "Gloria Mundi",
+      "releaseDate": "2019",
+      "externalIds": {
+        "letterboxd": "gloria-mundi"
+      },
+      "awardYear": 2019,
+      "winner": "Ariane Ascaride",
+      "award": "Volpi Cup for Best Actress"
+    },
+    {
+      "id": "venice-best-actor-2019-martin-eden-5",
+      "mediaType": "movie",
+      "title": "Martin Eden",
+      "releaseDate": "2019",
+      "externalIds": {
+        "letterboxd": "martin-eden"
+      },
+      "awardYear": 2019,
+      "winner": "Luca Marinelli",
+      "award": "Volpi Cup for Best Actor"
+    },
+    {
+      "id": "venice-best-screenplay-2019-no-7-cherry-lane-6",
+      "mediaType": "movie",
+      "title": "No. 7 Cherry Lane",
+      "releaseDate": "2019",
+      "externalIds": {
+        "letterboxd": "no-7-cherry-lane"
+      },
+      "awardYear": 2019,
+      "winner": "Yonfan",
+      "award": "Best Screenplay"
+    },
+    {
+      "id": "venice-special-jury-prize-2019-the-mafia-is-no-longer-what-it-used-to-be-7",
+      "mediaType": "movie",
+      "title": "The Mafia Is No Longer What It Used to Be",
+      "releaseDate": "2019",
+      "externalIds": {
+        "letterboxd": "the-mafia-is-no-longer-what-it-used-to-be"
+      },
+      "awardYear": 2019,
+      "winner": "Franco Maresco",
+      "award": "Special Jury Prize"
+    },
+    {
+      "id": "venice-mastroianni-2019-babyteeth-8",
+      "mediaType": "movie",
+      "title": "Babyteeth",
+      "releaseDate": "2019",
+      "externalIds": {
+        "letterboxd": "babyteeth"
+      },
+      "awardYear": 2019,
+      "winner": "Toby Wallace",
+      "award": "Marcello Mastroianni Award"
+    }
+  ]
+}

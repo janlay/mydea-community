@@ -1,0 +1,314 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$comment": "Synced from mydea/Resources/OpenAPI/mydea-list-openapi.json; do not edit. Run .community/scripts/sync_schemas.py.",
+  "$ref": "#/components/schemas/ListDocument",
+  "components": {
+    "schemas": {
+      "ListDocument": {
+        "type": "object",
+        "required": [
+          "schemaVersion",
+          "kind",
+          "title",
+          "items"
+        ],
+        "properties": {
+          "schemaVersion": {
+            "type": "integer",
+            "const": 1,
+            "description": "Package format version, shared with Page / Section / Theme documents. The current version is 1."
+          },
+          "kind": {
+            "type": "string",
+            "const": "list",
+            "description": "Required, strictly case-sensitive discriminator; must be list."
+          },
+          "title": {
+            "type": "string",
+            "description": "List title. Required, and used as the suggested Section title after a successful Load."
+          },
+          "author": {
+            "type": "string",
+            "description": "Optional creator or publisher of the list."
+          },
+          "server": {
+            "type": "string",
+            "description": "Optional service or server that provides the list."
+          },
+          "updatedAt": {
+            "type": "string",
+            "format": "date-time",
+            "description": "Optional timestamp of the last list update."
+          },
+          "description": {
+            "type": "string",
+            "description": "Optional description of the list."
+          },
+          "tags": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "uniqueItems": true,
+            "description": "Optional classification tags the publisher writes, e.g. [\"awards\", \"festival\"]. Free-form and case-sensitive; Mydea carries them through untouched."
+          },
+          "cacheTtlInDays": {
+            "type": "integer",
+            "minimum": 1,
+            "description": "Optional suggested Section cache duration in days. The configuration editor fills it after a successful Load."
+          },
+          "sortBy": {
+            "type": "array",
+            "description": "Optional default sorting. Each entry is an array containing an item field name and an optional asc or desc direction; when omitted, the direction defaults to asc. Field matching is case-insensitive. Explicit Section sorts override these defaults.",
+            "items": {
+              "type": "array",
+              "minItems": 1,
+              "maxItems": 2,
+              "prefixItems": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string",
+                  "pattern": "^([aA][sS][cC]|[dD][eE][sS][cC])$"
+                }
+              ],
+              "items": false
+            },
+            "minItems": 1
+          },
+          "bindings": {
+            "type": "array",
+            "description": "Optional default bindings for the two text rows below Mydea artwork. Values match item fields case-insensitively, or the built-in fields Title with Year and Rating. The first two valid values are used.",
+            "items": {
+              "type": "string"
+            }
+          },
+          "items": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/ListItem"
+            }
+          }
+        },
+        "additionalProperties": true
+      },
+      "ListItem": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "description": "Stable source identifier, recommended. Supported external identities may also identify an item."
+          },
+          "type": {
+            "type": "string",
+            "description": "Source type identifier. Mydea uses mydea when omitted."
+          },
+          "mediaType": {
+            "type": "string",
+            "enum": [
+              "movie",
+              "tv",
+              "season",
+              "episode"
+            ],
+            "description": "Media type. If omitted, Mydea may infer it during identification."
+          },
+          "title": {
+            "type": "string"
+          },
+          "name": {
+            "type": "string",
+            "description": "Parent show title for an episode item."
+          },
+          "originalTitle": {
+            "type": "string"
+          },
+          "englishTitle": {
+            "type": "string"
+          },
+          "overview": {
+            "type": "string"
+          },
+          "description": {
+            "type": "string",
+            "description": "Alias for overview."
+          },
+          "tagline": {
+            "type": "string",
+            "description": "Optional tagline. Available for filtering and card customization bindings."
+          },
+          "releaseDate": {
+            "type": "string",
+            "description": "Release date or year. Used to generate the Title with Year card field."
+          },
+          "watched": {
+            "type": "boolean",
+            "description": "Whether the item is watched. Used to display the watched indicator."
+          },
+          "addedDate": {
+            "type": "string",
+            "format": "date-time",
+            "description": "When the item was added. Available for sorting, filtering, and card customization bindings."
+          },
+          "airDate": {
+            "type": "string"
+          },
+          "duration": {
+            "type": "integer",
+            "minimum": 0,
+            "description": "Duration in seconds."
+          },
+          "contentRating": {
+            "type": "string"
+          },
+          "genreTitle": {
+            "type": "string",
+            "description": "Comma-separated genre names."
+          },
+          "rating": {
+            "type": [
+              "number",
+              "string"
+            ]
+          },
+          "ratingSource": {
+            "type": "string"
+          },
+          "externalIds": {
+            "$ref": "#/components/schemas/ExternalIds",
+            "description": "External identities. Providing any supported identity allows the item to be stored in Mydea's catalog."
+          },
+          "tmdbId": {
+            "type": "integer"
+          },
+          "imdbId": {
+            "type": "string"
+          },
+          "tvdbId": {
+            "type": "string"
+          },
+          "posterPath": {
+            "type": "string",
+            "format": "uri",
+            "description": "Artwork URL used as poster artwork."
+          },
+          "backdropPath": {
+            "type": "string",
+            "format": "uri",
+            "description": "Artwork URL used as backdrop artwork."
+          },
+          "titleLogoPath": {
+            "type": "string",
+            "format": "uri"
+          },
+          "videoUrl": {
+            "type": "string",
+            "format": "uri",
+            "description": "Direct video URL. When present, the item can be played directly."
+          },
+          "directPlaybackURL": {
+            "type": "string",
+            "format": "uri",
+            "description": "Optional external-player URL fallback."
+          },
+          "playerType": {
+            "type": "string",
+            "enum": [
+              "system",
+              "app"
+            ]
+          },
+          "season": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "episode": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "people": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Person"
+            }
+          }
+        },
+        "additionalProperties": {
+          "description": "Custom source property. Custom properties are available to filter and card customization bindings.",
+          "type": [
+            "string",
+            "number",
+            "boolean",
+            "object",
+            "array",
+            "null"
+          ]
+        },
+        "description": "Source object. Parsing accepts arbitrary item objects; provide a title and stable identity for useful rendering and identification."
+      },
+      "ExternalIds": {
+        "type": "object",
+        "description": "Map of Mydea-supported external identity providers to their identifiers. At least one entry is sufficient for catalog storage.",
+        "properties": {
+          "plex": {
+            "type": "string"
+          },
+          "tmdb": {
+            "type": "string"
+          },
+          "imdb": {
+            "type": "string"
+          },
+          "tvdb": {
+            "type": "string"
+          },
+          "trakt": {
+            "type": "string"
+          },
+          "douban": {
+            "type": "string"
+          },
+          "letterboxd": {
+            "type": "string"
+          },
+          "rottentomatoes": {
+            "type": "string"
+          }
+        },
+        "additionalProperties": false,
+        "minProperties": 1
+      },
+      "Person": {
+        "type": "object",
+        "required": [
+          "id",
+          "name",
+          "role"
+        ],
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "tmdbId": {
+            "type": "integer"
+          },
+          "imdbId": {
+            "type": "string"
+          },
+          "name": {
+            "type": "string"
+          },
+          "role": {
+            "type": "string"
+          },
+          "profilePath": {
+            "type": "string",
+            "format": "uri"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}
