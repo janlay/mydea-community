@@ -1,0 +1,314 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "title": "黃金時段艾美獎",
+  "description": "黃金時段艾美獎按獎項與按屆整理的獲獎記錄。",
+  "tags": [
+    "award",
+    "tv"
+  ],
+  "icon": "ticket",
+  "collections": [
+    {
+      "title": "黃金時段艾美獎 — 最佳劇情類影集",
+      "description": "黃金時段艾美獎「最佳劇情類影集」獲獎記錄。",
+      "layout": "carousel",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/zh-Hant/emmys.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "emmys-drama-series-award",
+          "targetType": "show",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "最佳劇情類影集",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "黃金時段艾美獎 — 最佳喜劇類影集",
+      "description": "黃金時段艾美獎「最佳喜劇類影集」獲獎記錄。",
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/zh-Hant/emmys.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "emmys-comedy-series-award",
+          "targetType": "show",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "最佳喜劇類影集",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "黃金時段艾美獎 — 最佳有限影集或詩選影集",
+      "description": "黃金時段艾美獎「最佳有限影集或詩選影集」獲獎記錄。",
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/zh-Hant/emmys.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "emmys-limited-series-award",
+          "targetType": "show",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "最佳有限影集或詩選影集",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "黃金時段艾美獎 — 劇情類最佳男主角",
+      "description": "黃金時段艾美獎「劇情類最佳男主角」獲獎記錄。",
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/zh-Hant/emmys.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "emmys-lead-actor-drama-award",
+          "targetType": "show",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "劇情類最佳男主角",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "黃金時段艾美獎 — 劇情類最佳女主角",
+      "description": "黃金時段艾美獎「劇情類最佳女主角」獲獎記錄。",
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/zh-Hant/emmys.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "emmys-lead-actress-drama-award",
+          "targetType": "show",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "劇情類最佳女主角",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "黃金時段艾美獎 — 喜劇類最佳男主角",
+      "description": "黃金時段艾美獎「喜劇類最佳男主角」獲獎記錄。",
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/zh-Hant/emmys.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "emmys-lead-actor-comedy-award",
+          "targetType": "show",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "喜劇類最佳男主角",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "黃金時段艾美獎 — 喜劇類最佳女主角",
+      "description": "黃金時段艾美獎「喜劇類最佳女主角」獲獎記錄。",
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/zh-Hant/emmys.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "emmys-lead-actress-comedy-award",
+          "targetType": "show",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "喜劇類最佳女主角",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "黃金時段艾美獎 2017–2026",
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/zh-Hant/emmys.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "years-from",
+          "targetType": "show",
+          "field": "awardYear",
+          "fieldType": "number",
+          "operator": "greaterThan",
+          "value": "2016",
+          "isNegated": false
+        },
+        {
+          "id": "years-to",
+          "targetType": "show",
+          "field": "awardYear",
+          "fieldType": "number",
+          "operator": "lessThan",
+          "value": "2027",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all",
+      "grouping": {
+        "field": "awardYear",
+        "buckets": "2026,2025,,2017",
+        "label": "{start}"
+      }
+    }
+  ]
+}

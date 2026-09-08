@@ -1,0 +1,268 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "title": "Cannes — Feature Films",
+  "author": "Mydea",
+  "updatedAt": "2026-09-16T04:43:24Z",
+  "description": "Historical Cannes Feature Film awards.",
+  "tags": [
+    "award",
+    "cannes",
+    "prize"
+  ],
+  "icon": "ticket",
+  "collections": [
+    {
+      "title": "Cannes — Palme d’Or",
+      "description": "Cannes Film Festival Palme d'Or and historical top-prize winning films.",
+      "layout": "carousel",
+      "limit": 10,
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/en/cannes.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "title with Year"
+      ],
+      "filters": [
+        {
+          "id": "cannes-palme-dor-award",
+          "targetType": "movie",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "Palme d'Or",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "Cannes — Grand Prix",
+      "description": "Cannes Film Festival Grand Prix winning films.",
+      "layout": "grid",
+      "limit": 10,
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/en/cannes.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "title with Year"
+      ],
+      "filters": [
+        {
+          "id": "cannes-grand-prix-award",
+          "targetType": "movie",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "Grand Prix",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "Cannes — Jury Prize",
+      "description": "Cannes Film Festival Jury Prize winning films.",
+      "layout": "grid",
+      "limit": 10,
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/en/cannes.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "title with Year"
+      ],
+      "filters": [
+        {
+          "id": "cannes-jury-prize-award",
+          "targetType": "movie",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "Jury Prize",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "Cannes — Best Director",
+      "description": "Films associated with Cannes Film Festival Best Director winners.",
+      "layout": "grid",
+      "limit": 10,
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/en/cannes.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "title with Year"
+      ],
+      "filters": [
+        {
+          "id": "cannes-best-director-award",
+          "targetType": "movie",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "Best Director",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "Cannes — Best Screenplay",
+      "description": "Films associated with Cannes Film Festival Best Screenplay winners.",
+      "layout": "grid",
+      "limit": 10,
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/en/cannes.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "title with Year"
+      ],
+      "filters": [
+        {
+          "id": "cannes-best-screenplay-award",
+          "targetType": "movie",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "Best Screenplay",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "Cannes — Best Actress",
+      "description": "Films associated with Cannes Film Festival Best Actress winners.",
+      "layout": "grid",
+      "limit": 10,
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/en/cannes.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "title with Year"
+      ],
+      "filters": [
+        {
+          "id": "cannes-best-actress-award",
+          "targetType": "movie",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "Best Actress",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "Cannes — Best Actor",
+      "description": "Films associated with Cannes Film Festival Best Actor winners.",
+      "layout": "grid",
+      "limit": 10,
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/en/cannes.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "title with Year"
+      ],
+      "filters": [
+        {
+          "id": "cannes-best-actor-award",
+          "targetType": "movie",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "Best Actor",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    }
+  ]
+}

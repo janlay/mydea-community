@@ -1,0 +1,353 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "icon": "trophy",
+  "title": "2026 頒獎季",
+  "collections": [
+    {
+      "title": "奧斯卡金像獎",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/zh-Hant/oscars.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardOrder",
+          "asc"
+        ]
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ],
+      "filters": [
+        {
+          "id": "oscars-year-movie",
+          "targetType": "movie",
+          "field": "awardYear",
+          "fieldType": "number",
+          "operator": "equals",
+          "value": "2026",
+          "isNegated": false
+        },
+        {
+          "id": "oscars-year-show",
+          "targetType": "show",
+          "field": "awardYear",
+          "fieldType": "number",
+          "operator": "equals",
+          "value": "2026",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "any",
+      "layout": "carousel"
+    },
+    {
+      "title": "金球獎",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/zh-Hant/golden-globes.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardOrder",
+          "asc"
+        ]
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ],
+      "filters": [
+        {
+          "id": "golden-globes-year-movie",
+          "targetType": "movie",
+          "field": "awardYear",
+          "fieldType": "number",
+          "operator": "equals",
+          "value": "2026",
+          "isNegated": false
+        },
+        {
+          "id": "golden-globes-year-show",
+          "targetType": "show",
+          "field": "awardYear",
+          "fieldType": "number",
+          "operator": "equals",
+          "value": "2026",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "any",
+      "layout": "grid"
+    },
+    {
+      "title": "坎城影展",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/zh-Hant/cannes.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardOrder",
+          "asc"
+        ]
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ],
+      "filters": [
+        {
+          "id": "cannes-year-movie",
+          "targetType": "movie",
+          "field": "awardYear",
+          "fieldType": "number",
+          "operator": "equals",
+          "value": "2026",
+          "isNegated": false
+        },
+        {
+          "id": "cannes-year-show",
+          "targetType": "show",
+          "field": "awardYear",
+          "fieldType": "number",
+          "operator": "equals",
+          "value": "2026",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "any",
+      "layout": "grid"
+    },
+    {
+      "title": "柏林影展",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/zh-Hant/berlinale.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardOrder",
+          "asc"
+        ]
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ],
+      "filters": [
+        {
+          "id": "berlinale-year-movie",
+          "targetType": "movie",
+          "field": "awardYear",
+          "fieldType": "number",
+          "operator": "equals",
+          "value": "2026",
+          "isNegated": false
+        },
+        {
+          "id": "berlinale-year-show",
+          "targetType": "show",
+          "field": "awardYear",
+          "fieldType": "number",
+          "operator": "equals",
+          "value": "2026",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "any",
+      "layout": "grid"
+    },
+    {
+      "title": "黃金時段艾美獎",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/zh-Hant/emmys.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardOrder",
+          "asc"
+        ]
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ],
+      "filters": [
+        {
+          "id": "emmys-year-movie",
+          "targetType": "movie",
+          "field": "awardYear",
+          "fieldType": "number",
+          "operator": "equals",
+          "value": "2026",
+          "isNegated": false
+        },
+        {
+          "id": "emmys-year-show",
+          "targetType": "show",
+          "field": "awardYear",
+          "fieldType": "number",
+          "operator": "equals",
+          "value": "2026",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "any",
+      "layout": "grid"
+    },
+    {
+      "title": "百想藝術大賞",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/zh-Hant/baeksang.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardOrder",
+          "asc"
+        ]
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ],
+      "filters": [
+        {
+          "id": "baeksang-year-movie",
+          "targetType": "movie",
+          "field": "awardYear",
+          "fieldType": "number",
+          "operator": "equals",
+          "value": "2026",
+          "isNegated": false
+        },
+        {
+          "id": "baeksang-year-show",
+          "targetType": "show",
+          "field": "awardYear",
+          "fieldType": "number",
+          "operator": "equals",
+          "value": "2026",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "any",
+      "layout": "grid"
+    },
+    {
+      "title": "香港電影金像獎",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/zh/hkfa.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardOrder",
+          "asc"
+        ]
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ],
+      "filters": [
+        {
+          "id": "hkfa-year-movie",
+          "targetType": "movie",
+          "field": "awardYear",
+          "fieldType": "number",
+          "operator": "equals",
+          "value": "2026",
+          "isNegated": false
+        },
+        {
+          "id": "hkfa-year-show",
+          "targetType": "show",
+          "field": "awardYear",
+          "fieldType": "number",
+          "operator": "equals",
+          "value": "2026",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "any",
+      "layout": "grid"
+    },
+    {
+      "title": "日舞影展",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/zh-Hant/sundance.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardOrder",
+          "asc"
+        ]
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ],
+      "filters": [
+        {
+          "id": "sundance-year-movie",
+          "targetType": "movie",
+          "field": "awardYear",
+          "fieldType": "number",
+          "operator": "equals",
+          "value": "2026",
+          "isNegated": false
+        },
+        {
+          "id": "sundance-year-show",
+          "targetType": "show",
+          "field": "awardYear",
+          "fieldType": "number",
+          "operator": "equals",
+          "value": "2026",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "any",
+      "layout": "grid"
+    }
+  ]
+}

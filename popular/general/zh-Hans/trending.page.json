@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "icon": "flame",
+  "title": "热门",
+  "collections": [
+    {
+      "title": "实时热门",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "movie_real_time_hotest"
+        }
+      ],
+      "layout": "carousel",
+      "cacheTtlInDays": 1
+    },
+    {
+      "title": "影院上映",
+      "service": "douban",
+      "query": "theaters",
+      "params": [
+        {
+          "name": "theaters_region",
+          "value": "{{region}}"
+        }
+      ],
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "layout": "film"
+    },
+    {
+      "title": "近期高分电影",
+      "service": "douban",
+      "query": "explore",
+      "params": [
+        {
+          "name": "explore_kind",
+          "value": "movie"
+        },
+        {
+          "name": "explore_region",
+          "value": "{{region}}"
+        },
+        {
+          "name": "explore_sort",
+          "value": "S"
+        },
+        {
+          "name": "explore_min_rating",
+          "value": "7"
+        },
+        {
+          "name": "explore_period",
+          "value": "recent"
+        }
+      ],
+      "layout": "itunes"
+    },
+    {
+      "title": "近期高分剧集",
+      "service": "douban",
+      "query": "explore",
+      "params": [
+        {
+          "name": "explore_kind",
+          "value": "tv"
+        },
+        {
+          "name": "explore_region",
+          "value": "{{region}}"
+        },
+        {
+          "name": "explore_sort",
+          "value": "S"
+        },
+        {
+          "name": "explore_min_rating",
+          "value": "7"
+        },
+        {
+          "name": "explore_period",
+          "value": "recent"
+        }
+      ],
+      "layout": "grid"
+    },
+    {
+      "title": "一周口碑",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "movie_weekly_best"
+        }
+      ],
+      "layout": "grid"
+    },
+    {
+      "title": "热门新片",
+      "service": "douban",
+      "query": "new_movies",
+      "layout": "grid"
+    },
+    {
+      "title": "豆瓣 Top 250",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "movie_top250"
+        },
+        {
+          "name": "page_size",
+          "value": "100"
+        }
+      ],
+      "layout": "hive",
+      "cacheTtlInDays": 30
+    }
+  ]
+}

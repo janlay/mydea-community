@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "updatedAt": "2026-09-16T04:39:02Z",
+  "title": "圣丹斯十年",
+  "description": "圣丹斯电影节最近十届的四项核心长片评审团大奖获奖作品。",
+  "tags": [
+    "award",
+    "park-city",
+    "decade"
+  ],
+  "icon": "ticket",
+  "collections": [
+    {
+      "title": "圣丹斯 — 2026",
+      "description": "2026 年圣丹斯电影节四项核心长片评审团大奖获奖作品。",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ],
+        [
+          "awardOrder",
+          "asc"
+        ]
+      ],
+      "layout": "carousel",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/zh-Hans/sundance.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ],
+      "filters": [
+        {
+          "id": "sundance-2026-year",
+          "targetType": "movie",
+          "field": "awardYear",
+          "fieldType": "number",
+          "operator": "equals",
+          "value": "2026",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "圣丹斯 2017–2025",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ],
+        [
+          "awardOrder",
+          "asc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/zh-Hans/sundance.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ],
+      "filters": [
+        {
+          "id": "older-years-from",
+          "targetType": "movie",
+          "field": "awardYear",
+          "fieldType": "number",
+          "operator": "greaterThan",
+          "value": "2016",
+          "isNegated": false
+        },
+        {
+          "id": "older-years-to",
+          "targetType": "movie",
+          "field": "awardYear",
+          "fieldType": "number",
+          "operator": "lessThan",
+          "value": "2026",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all",
+      "grouping": {
+        "field": "awardYear",
+        "buckets": "2025,2024,,2017",
+        "label": "{start}"
+      }
+    }
+  ]
+}

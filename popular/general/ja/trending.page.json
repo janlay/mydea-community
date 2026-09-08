@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "icon": "flame",
+  "title": "トレンド",
+  "collections": [
+    {
+      "title": "配信ランキング",
+      "service": "mdblistsimulated",
+      "query": "mdblist_simulated_official",
+      "params": [
+        {
+          "name": "official_slug",
+          "value": "streaming-charts"
+        },
+        {
+          "name": "official_mediatype",
+          "value": "movies"
+        },
+        {
+          "name": "page_size",
+          "value": "20"
+        }
+      ],
+      "excludedRegions": [
+        "CN"
+      ],
+      "layout": "carousel"
+    },
+    {
+      "title": "人気ドラマ",
+      "service": "nuvio",
+      "query": "nuvio_catalog",
+      "params": [
+        {
+          "name": "catalog_shortcut",
+          "value": "https://v3-cinemeta.strem.io/catalog/series/top.json"
+        },
+        {
+          "name": "catalog_url",
+          "value": "https://v3-cinemeta.strem.io/catalog/series/top.json"
+        }
+      ],
+      "layout": "grid"
+    },
+    {
+      "title": "上映中の人気映画",
+      "service": "rottentomatoes",
+      "query": "rotten_tomatoes_custom_list",
+      "params": [
+        {
+          "name": "list_shortcut",
+          "value": "https://www.rottentomatoes.com/browse/movies_in_theaters/sort:popular"
+        },
+        {
+          "name": "list_url",
+          "value": "https://www.rottentomatoes.com/browse/movies_in_theaters/sort:popular"
+        }
+      ],
+      "layout": "grid"
+    },
+    {
+      "title": "今週の人気映画",
+      "service": "letterboxd",
+      "query": "letterboxd_custom_list",
+      "params": [
+        {
+          "name": "list_shortcut",
+          "value": "this/week"
+        },
+        {
+          "name": "list_url",
+          "value": "this/week"
+        }
+      ],
+      "layout": "grid"
+    },
+    {
+      "title": "人気映画ランキング",
+      "service": "imdb",
+      "query": "imdb_custom_list",
+      "params": [
+        {
+          "name": "chart_shortcut",
+          "value": "moviemeter"
+        },
+        {
+          "name": "list_url",
+          "value": "moviemeter"
+        }
+      ],
+      "layout": "grid"
+    }
+  ],
+  "showsCollectionServiceIcons": true
+}

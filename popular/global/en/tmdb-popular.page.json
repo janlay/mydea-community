@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "icon": "chart.line.uptrend.xyaxis",
+  "title": "TMDB Popular",
+  "collections": [
+    {
+      "title": "Trending This Week",
+      "service": "tmdb",
+      "query": "tmdb_trending",
+      "params": [
+        {
+          "name": "media_type",
+          "value": ""
+        }
+      ],
+      "layout": "carousel"
+    },
+    {
+      "title": "Now Playing",
+      "service": "tmdb",
+      "query": "tmdb_now_playing",
+      "params": [
+        {
+          "name": "region",
+          "value": "{{region}}"
+        }
+      ],
+      "layout": "grid"
+    },
+    {
+      "title": "Popular TV Shows",
+      "service": "tmdb",
+      "query": "tmdb_regional",
+      "params": [
+        {
+          "name": "media_type",
+          "value": "tv"
+        },
+        {
+          "name": "region",
+          "value": "{{region}}"
+        },
+        {
+          "name": "regional_scope",
+          "value": "origin"
+        }
+      ],
+      "layout": "grid"
+    },
+    {
+      "title": "Popular on Streaming",
+      "service": "tmdb",
+      "query": "tmdb_regional",
+      "params": [
+        {
+          "name": "media_type",
+          "value": ""
+        },
+        {
+          "name": "region",
+          "value": "{{region}}"
+        },
+        {
+          "name": "regional_scope",
+          "value": "streaming"
+        }
+      ],
+      "layout": "grid"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "updatedAt": "2026-09-16T04:39:02Z",
+  "title": "Sundance Prizes",
+  "description": "Historical winners of the four core Sundance Film Festival feature Grand Jury Prizes.",
+  "tags": [
+    "award",
+    "park-city",
+    "prize"
+  ],
+  "icon": "ticket",
+  "collections": [
+    {
+      "title": "Sundance — U.S. Grand Jury Prize: Dramatic",
+      "description": "Historical Sundance Film Festival winners of U.S. Grand Jury Prize: Dramatic, with complete records from 1985 onward and co-winners retained as separate entries.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "carousel",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/en/sundance.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "sundance-us-grand-jury-dramatic-award",
+          "targetType": "movie",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "U.S. Grand Jury Prize: Dramatic",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "Sundance — U.S. Grand Jury Prize: Documentary",
+      "description": "Historical Sundance Film Festival winners of U.S. Grand Jury Prize: Documentary, with complete records from 1985 onward and co-winners retained as separate entries.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/en/sundance.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "sundance-us-grand-jury-documentary-award",
+          "targetType": "movie",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "U.S. Grand Jury Prize: Documentary",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "Sundance — World Cinema Grand Jury Prize: Dramatic",
+      "description": "Historical Sundance Film Festival winners of World Cinema Grand Jury Prize: Dramatic, with complete records from 2005 onward and co-winners retained as separate entries.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/en/sundance.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "sundance-world-cinema-grand-jury-dramatic-award",
+          "targetType": "movie",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "World Cinema Grand Jury Prize: Dramatic",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "Sundance — World Cinema Grand Jury Prize: Documentary",
+      "description": "Historical Sundance Film Festival winners of World Cinema Grand Jury Prize: Documentary, with complete records from 2005 onward and co-winners retained as separate entries.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/en/sundance.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "sundance-world-cinema-grand-jury-documentary-award",
+          "targetType": "movie",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "World Cinema Grand Jury Prize: Documentary",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    }
+  ]
+}

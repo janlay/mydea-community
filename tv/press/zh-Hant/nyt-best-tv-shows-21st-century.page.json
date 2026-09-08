@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "updatedAt": "2026-09-26T01:59:06Z",
+  "title": "紐約時報 — 21世紀最佳100部電視劇",
+  "description": "《紐約時報》評選的21世紀最佳100部電視劇：先列 Top 10，再按首播年代由新到舊展示全部入選作品。",
+  "tags": [
+    "press",
+    "tv",
+    "nytimes"
+  ],
+  "icon": "tv",
+  "collections": [
+    {
+      "title": "Top 10",
+      "layout": "carousel",
+      "limit": 10,
+      "filters": [
+        {
+          "id": "top10-rank-lt-11",
+          "targetType": "show",
+          "field": "rank",
+          "fieldType": "number",
+          "operator": "lessThan",
+          "value": "11",
+          "isNegated": false
+        }
+      ],
+      "sortBy": [
+        [
+          "rank",
+          "asc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/press/zh-Hant/nyt-best-tv-shows-21st-century.list.json"
+        }
+      ],
+      "bindings": [
+        "Title with Year",
+        "ranking"
+      ]
+    },
+    {
+      "title": "各年代首播",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rank",
+          "asc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/press/zh-Hant/nyt-best-tv-shows-21st-century.list.json"
+        }
+      ],
+      "bindings": [
+        "Title with Year",
+        "ranking"
+      ],
+      "grouping": {
+        "field": "startYear",
+        "buckets": "2020,2010,,2000",
+        "label": "{start} 年代"
+      }
+    }
+  ]
+}
