@@ -1,0 +1,268 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "title": "坎城 — 長片獎項",
+  "author": "Mydea",
+  "updatedAt": "2026-09-16T04:43:24Z",
+  "description": "坎城影展長片競賽歷屆獎項。",
+  "tags": [
+    "award",
+    "cannes",
+    "prize"
+  ],
+  "icon": "ticket",
+  "sections": [
+    {
+      "title": "坎城 — 金棕櫚獎",
+      "description": "坎城影展金棕櫚獎及歷屆最高獎獲獎影片。",
+      "layout": "carousel",
+      "limit": 10,
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/zh-Hant/cannes.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "title with Year"
+      ],
+      "filters": [
+        {
+          "id": "cannes-palme-dor-award",
+          "targetType": "movie",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "金棕櫚獎",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "坎城 — 評審團大獎",
+      "description": "坎城影展評審團大獎獲獎影片。",
+      "layout": "grid",
+      "limit": 10,
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/zh-Hant/cannes.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "title with Year"
+      ],
+      "filters": [
+        {
+          "id": "cannes-grand-prix-award",
+          "targetType": "movie",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "評審團大獎",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "坎城 — 評審團獎",
+      "description": "坎城影展評審團獎獲獎影片。",
+      "layout": "grid",
+      "limit": 10,
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/zh-Hant/cannes.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "title with Year"
+      ],
+      "filters": [
+        {
+          "id": "cannes-jury-prize-award",
+          "targetType": "movie",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "評審團獎",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "坎城 — 最佳導演",
+      "description": "坎城影展最佳導演獎獲獎影片。",
+      "layout": "grid",
+      "limit": 10,
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/zh-Hant/cannes.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "title with Year"
+      ],
+      "filters": [
+        {
+          "id": "cannes-best-director-award",
+          "targetType": "movie",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "最佳導演",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "坎城 — 最佳編劇",
+      "description": "坎城影展最佳編劇獎獲獎影片。",
+      "layout": "grid",
+      "limit": 10,
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/zh-Hant/cannes.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "title with Year"
+      ],
+      "filters": [
+        {
+          "id": "cannes-best-screenplay-award",
+          "targetType": "movie",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "最佳編劇",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "坎城 — 最佳女演員",
+      "description": "坎城影展最佳女演員獎獲獎影片。",
+      "layout": "grid",
+      "limit": 10,
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/zh-Hant/cannes.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "title with Year"
+      ],
+      "filters": [
+        {
+          "id": "cannes-best-actress-award",
+          "targetType": "movie",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "最佳女演員",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "坎城 — 最佳男演員",
+      "description": "坎城影展最佳男演員獎獲獎影片。",
+      "layout": "grid",
+      "limit": 10,
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/zh-Hant/cannes.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "title with Year"
+      ],
+      "filters": [
+        {
+          "id": "cannes-best-actor-award",
+          "targetType": "movie",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "最佳男演員",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    }
+  ]
+}

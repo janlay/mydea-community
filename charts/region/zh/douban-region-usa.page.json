@@ -1,0 +1,244 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "icon": "chart.bar",
+  "title": "豆瓣美国类型片",
+  "description": "豆瓣美国各类型片榜单，涵盖 19 个类型。",
+  "tags": [
+    "douban",
+    "chart",
+    "region",
+    "usa"
+  ],
+  "sections": [
+    {
+      "title": "美国动作片",
+      "layout": "carousel",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECPMPC7JA"
+        }
+      ]
+    },
+    {
+      "title": "美国冒险片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECOMON43Q"
+        }
+      ]
+    },
+    {
+      "title": "美国动画片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "EC4IPDWYI"
+        }
+      ]
+    },
+    {
+      "title": "美国传记片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECE4OHQQY"
+        }
+      ]
+    },
+    {
+      "title": "美国喜剧片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECGUO62ZA"
+        }
+      ]
+    },
+    {
+      "title": "美国犯罪片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECEAPADKY"
+        }
+      ]
+    },
+    {
+      "title": "美国灾难片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "EC4IOWGKA"
+        }
+      ]
+    },
+    {
+      "title": "美国情色片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECTQOQ6XQ"
+        }
+      ]
+    },
+    {
+      "title": "美国奇幻片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECVIOIPDI"
+        }
+      ]
+    },
+    {
+      "title": "美国历史片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECK4OGBSA"
+        }
+      ]
+    },
+    {
+      "title": "美国恐怖片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECGMORRUY"
+        }
+      ]
+    },
+    {
+      "title": "美国音乐片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECUAOV5NA"
+        }
+      ]
+    },
+    {
+      "title": "美国歌舞片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECYQOXMSA"
+        }
+      ]
+    },
+    {
+      "title": "美国悬疑片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECJUO3L7I"
+        }
+      ]
+    },
+    {
+      "title": "美国爱情片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "EC4EOSAQA"
+        }
+      ]
+    },
+    {
+      "title": "美国科幻片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECDAO6XZI"
+        }
+      ]
+    },
+    {
+      "title": "美国惊悚片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECSYO3JKQ"
+        }
+      ]
+    },
+    {
+      "title": "美国战争片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECDYONLLI"
+        }
+      ]
+    },
+    {
+      "title": "美国西部片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECU4ORYVI"
+        }
+      ]
+    }
+  ]
+}

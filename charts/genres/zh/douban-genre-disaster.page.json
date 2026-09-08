@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "icon": "chart.bar",
+  "title": "灾难片榜单",
+  "description": "豆瓣灾难片榜单，涵盖 2 个国家和地区。",
+  "tags": [
+    "douban",
+    "chart",
+    "genre",
+    "disaster"
+  ],
+  "sections": [
+    {
+      "title": "欧洲灾难片",
+      "layout": "carousel",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "EC5IOQ75I"
+        }
+      ]
+    },
+    {
+      "title": "美国灾难片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "EC4IOWGKA"
+        }
+      ]
+    }
+  ]
+}

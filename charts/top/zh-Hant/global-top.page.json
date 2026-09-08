@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "icon": "chart.bar",
+  "title": "全球 Top 電影",
+  "description": "基於長年評分與觀看資料沉澱的穩定長期榜單，不追逐每日熱度波動。收錄 IMDb、豆瓣、TMDB、Letterboxd、Trakt、爛番茄與 MDBList。",
+  "tags": [
+    "chart",
+    "top",
+    "global"
+  ],
+  "sections": [
+    {
+      "title": "IMDb Top 250",
+      "description": "IMDb 歷史悠久的 Top 250 榜單，按加權用戶評分排序。",
+      "layout": "carousel",
+      "service": "imdb",
+      "query": "imdb_custom_list",
+      "params": [
+        {
+          "name": "chart_shortcut",
+          "value": "top"
+        },
+        {
+          "name": "list_url",
+          "value": "top"
+        }
+      ]
+    },
+    {
+      "title": "豆瓣電影 Top 250",
+      "description": "豆瓣歷史悠久的 Top250 榜單，由用戶評分長期沉澱而成的經典片單。",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "classic_shortcut",
+          "value": "movie_top250"
+        },
+        {
+          "name": "collection",
+          "value": "movie_top250"
+        }
+      ]
+    },
+    {
+      "title": "IMDb 英語電影 Top",
+      "description": "IMDb 評分最高的英語電影。",
+      "layout": "grid",
+      "service": "imdb",
+      "query": "imdb_custom_list",
+      "params": [
+        {
+          "name": "chart_shortcut",
+          "value": "top-english-movies"
+        },
+        {
+          "name": "list_url",
+          "value": "top-english-movies"
+        }
+      ]
+    },
+    {
+      "title": "TMDB — 高分電影",
+      "description": "TMDB 社群投票評出的歷來最高分電影。",
+      "layout": "grid",
+      "service": "tmdb",
+      "query": "tmdb_top_rated",
+      "params": [
+        {
+          "name": "media_type",
+          "value": "movie"
+        }
+      ]
+    },
+    {
+      "title": "Letterboxd — 歷來最受歡迎",
+      "description": "Letterboxd 用戶歷來記錄最多的電影。",
+      "layout": "grid",
+      "service": "letterboxd",
+      "query": "letterboxd_custom_list",
+      "params": [
+        {
+          "name": "list_shortcut",
+          "value": "/"
+        },
+        {
+          "name": "list_url",
+          "value": "/"
+        }
+      ]
+    },
+    {
+      "title": "Trakt — 歷來觀看最多",
+      "description": "Trakt 用戶歷來觀看人數最多的電影。",
+      "layout": "grid",
+      "service": "trakt",
+      "query": "trakt_most_watched",
+      "params": [
+        {
+          "name": "media_type",
+          "value": "movies"
+        },
+        {
+          "name": "period",
+          "value": "all"
+        },
+        {
+          "name": "genre",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "title": "爛番茄 — 影評人高分",
+      "description": "可在家觀看的電影，按新鮮度評分從高到低排序。",
+      "layout": "grid",
+      "service": "rottentomatoes",
+      "query": "rotten_tomatoes_custom_list",
+      "params": [
+        {
+          "name": "list_shortcut",
+          "value": "https://www.rottentomatoes.com/browse/movies_at_home/sort:critic_highest"
+        },
+        {
+          "name": "list_url",
+          "value": "https://www.rottentomatoes.com/browse/movies_at_home/sort:critic_highest"
+        }
+      ]
+    },
+    {
+      "title": "MDBList — 爛番茄 Top 300",
+      "description": "爛番茄評選的影史最佳 300 部電影。需在服務設定中配置 MDBList API Key。",
+      "layout": "grid",
+      "service": "mdblist",
+      "query": "mdblist_list",
+      "params": [
+        {
+          "name": "award_shortcut",
+          "value": "tbotcotw/rotten-tomatoes-300-best-movies-of-all-time"
+        },
+        {
+          "name": "list",
+          "value": "tbotcotw/rotten-tomatoes-300-best-movies-of-all-time"
+        }
+      ]
+    }
+  ]
+}

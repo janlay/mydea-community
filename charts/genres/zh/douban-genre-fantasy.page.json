@@ -1,0 +1,124 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "icon": "chart.bar",
+  "title": "奇幻片榜单",
+  "description": "豆瓣奇幻片榜单，涵盖 9 个国家和地区。",
+  "tags": [
+    "douban",
+    "chart",
+    "genre",
+    "fantasy"
+  ],
+  "sections": [
+    {
+      "title": "华语奇幻片",
+      "layout": "carousel",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "EC5MOJAZY"
+        }
+      ]
+    },
+    {
+      "title": "欧洲奇幻片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECUMOLXQY"
+        }
+      ]
+    },
+    {
+      "title": "美国奇幻片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECVIOIPDI"
+        }
+      ]
+    },
+    {
+      "title": "中国香港奇幻片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECUUOJIFA"
+        }
+      ]
+    },
+    {
+      "title": "日本奇幻片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECEIOJZTQ"
+        }
+      ]
+    },
+    {
+      "title": "韩国奇幻片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECDAOLOSI"
+        }
+      ]
+    },
+    {
+      "title": "英国奇幻片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECRAOGHZY"
+        }
+      ]
+    },
+    {
+      "title": "法国奇幻片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "EC6QOILRA"
+        }
+      ]
+    },
+    {
+      "title": "德国奇幻片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "EC4YOCBLQ"
+        }
+      ]
+    }
+  ]
+}

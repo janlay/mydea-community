@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "icon": "chart.bar",
+  "title": "动画片榜单",
+  "description": "豆瓣动画片榜单，涵盖 7 个国家和地区。",
+  "tags": [
+    "douban",
+    "chart",
+    "genre",
+    "animation"
+  ],
+  "sections": [
+    {
+      "title": "华语动画片",
+      "layout": "carousel",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECFMOYMKA"
+        }
+      ]
+    },
+    {
+      "title": "欧洲动画片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECLYO57HA"
+        }
+      ]
+    },
+    {
+      "title": "美国动画片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "EC4IPDWYI"
+        }
+      ]
+    },
+    {
+      "title": "日本动画片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECLYO6JQQ"
+        }
+      ]
+    },
+    {
+      "title": "英国动画片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECWUO3RJA"
+        }
+      ]
+    },
+    {
+      "title": "法国动画片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECIQPF7NY"
+        }
+      ]
+    },
+    {
+      "title": "加拿大动画片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "EC3YPB7WQ"
+        }
+      ]
+    }
+  ]
+}

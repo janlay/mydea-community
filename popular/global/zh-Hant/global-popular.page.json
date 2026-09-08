@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "icon": "flame",
+  "title": "全球熱門",
+  "description": "匯聚 TMDB、Trakt、Letterboxd、Rotten Tomatoes、MDBList 五大平台各自的短期流行榜，一頁看當下風向。",
+  "tags": [
+    "chart",
+    "popular",
+    "global"
+  ],
+  "sections": [
+    {
+      "title": "TMDB · 即時熱門",
+      "description": "TMDB 全球即時熱門榜，電影與劇集混合排列。",
+      "layout": "carousel",
+      "service": "tmdb",
+      "query": "tmdb_trending",
+      "params": [
+        {
+          "name": "media_type",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "title": "Trakt · 熱門電影",
+      "description": "Trakt 用戶社群正在觀看最多的電影。",
+      "layout": "grid",
+      "service": "trakt",
+      "query": "trakt_trending",
+      "params": [
+        {
+          "name": "media_type",
+          "value": "movies"
+        }
+      ]
+    },
+    {
+      "title": "Letterboxd · 本週熱門",
+      "description": "本週 Letterboxd 用戶記錄與評分最多的電影。",
+      "layout": "grid",
+      "service": "letterboxd",
+      "query": "letterboxd_custom_list",
+      "params": [
+        {
+          "name": "list_shortcut",
+          "value": "this/week"
+        },
+        {
+          "name": "list_url",
+          "value": "this/week"
+        }
+      ]
+    },
+    {
+      "title": "Rotten Tomatoes · 新鮮認證 · 居家觀影",
+      "description": "影評人「新鮮認證」中目前可在家觀看的電影，按熱度排序。",
+      "layout": "grid",
+      "service": "rottentomatoes",
+      "query": "rotten_tomatoes_custom_list",
+      "params": [
+        {
+          "name": "list_shortcut",
+          "value": "https://www.rottentomatoes.com/browse/movies_at_home/critics:certified_fresh~sort:popular"
+        },
+        {
+          "name": "list_url",
+          "value": "https://www.rottentomatoes.com/browse/movies_at_home/critics:certified_fresh~sort:popular"
+        }
+      ]
+    },
+    {
+      "title": "MDBList · 熱門榜",
+      "description": "MDBList 官方「熱門」榜單，聚合多方資料來源。需要在服務設定中配置 MDBList API Key。",
+      "layout": "grid",
+      "service": "mdblist",
+      "query": "mdblist_official",
+      "params": [
+        {
+          "name": "official_shortcut",
+          "value": "popular"
+        },
+        {
+          "name": "official_slug",
+          "value": "popular"
+        },
+        {
+          "name": "official_mediatype",
+          "value": "movies"
+        }
+      ]
+    }
+  ]
+}

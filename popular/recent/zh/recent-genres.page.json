@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "icon": "flame",
+  "title": "热门类型片",
+  "description": "豆瓣各类型片的近期热门榜，共 12 个类型。",
+  "tags": [
+    "douban",
+    "popular",
+    "genre"
+  ],
+  "sections": [
+    {
+      "title": "近期热门动作片",
+      "layout": "carousel",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECBUOLQGY"
+        }
+      ]
+    },
+    {
+      "title": "近期热门冒险片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECDYOE7WY"
+        }
+      ]
+    },
+    {
+      "title": "近期热门动画片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "EC3UOBDQY"
+        }
+      ]
+    },
+    {
+      "title": "近期热门传记片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "EC3EOHEYY"
+        }
+      ]
+    },
+    {
+      "title": "近期热门喜剧片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECAYN54KI"
+        }
+      ]
+    },
+    {
+      "title": "近期热门犯罪片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECLAN6LHQ"
+        }
+      ]
+    },
+    {
+      "title": "近期热门恐怖片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECV4N4FBI"
+        }
+      ]
+    },
+    {
+      "title": "近期热门悬疑片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECPQOJP5Q"
+        }
+      ]
+    },
+    {
+      "title": "近期热门爱情片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECSAOJFTA"
+        }
+      ]
+    },
+    {
+      "title": "近期热门科幻片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECZYOJPLI"
+        }
+      ]
+    },
+    {
+      "title": "近期热门惊悚片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECBUOL2DA"
+        }
+      ]
+    },
+    {
+      "title": "近期热门战争片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "EC6MOCTVQ"
+        }
+      ]
+    }
+  ]
+}

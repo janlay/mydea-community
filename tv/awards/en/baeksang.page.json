@@ -1,0 +1,194 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "title": "Baeksang Arts Awards",
+  "description": "Baeksang Arts Awards broadcast category winners from 2017 to 2026.",
+  "tags": [
+    "award",
+    "tv"
+  ],
+  "icon": "ticket",
+  "sections": [
+    {
+      "title": "Baeksang Arts Awards — Broadcast Grand Prize",
+      "description": "Baeksang Arts Awards Broadcast Grand Prize winners from 2017 to 2026.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "carousel",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/en/baeksang.list.json"
+        }
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "baeksang-tv-grand-award",
+          "targetType": "show",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "Broadcast Grand Prize",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "Baeksang Arts Awards — Best Drama",
+      "description": "Baeksang Arts Awards Best Drama winners from 2017 to 2026.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/en/baeksang.list.json"
+        }
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "baeksang-tv-best-award",
+          "targetType": "show",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "Best Drama",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "Baeksang Arts Awards — Best Director Broadcast",
+      "description": "Baeksang Arts Awards Best Director Broadcast winners from 2017 to 2026.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/en/baeksang.list.json"
+        }
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "baeksang-tv-director-award",
+          "targetType": "show",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "Best Director Broadcast",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "Baeksang Arts Awards — Best Actor Broadcast",
+      "description": "Baeksang Arts Awards Best Actor Broadcast winners from 2017 to 2026.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/en/baeksang.list.json"
+        }
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "baeksang-tv-actor-award",
+          "targetType": "show",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "Best Actor Broadcast",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "Baeksang Arts Awards — Best Actress Broadcast",
+      "description": "Baeksang Arts Awards Best Actress Broadcast winners from 2017 to 2026.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/en/baeksang.list.json"
+        }
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "baeksang-tv-actress-award",
+          "targetType": "show",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "Best Actress Broadcast",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    }
+  ]
+}

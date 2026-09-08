@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "icon": "chart.bar",
+  "title": "豆瓣印度类型片",
+  "description": "豆瓣印度各类型片榜单，涵盖 4 个类型。",
+  "tags": [
+    "douban",
+    "chart",
+    "region",
+    "india"
+  ],
+  "sections": [
+    {
+      "title": "印度动作片",
+      "layout": "carousel",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECMQO4F2I"
+        }
+      ]
+    },
+    {
+      "title": "印度喜剧片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECTIOYBOY"
+        }
+      ]
+    },
+    {
+      "title": "印度爱情片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECLUOQWVY"
+        }
+      ]
+    },
+    {
+      "title": "印度惊悚片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECRQPBSYI"
+        }
+      ]
+    }
+  ]
+}

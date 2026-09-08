@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "icon": "chart.bar",
+  "title": "豆瓣中国大陆类型片",
+  "description": "豆瓣中国大陆各类型片榜单，涵盖 4 个类型。",
+  "tags": [
+    "douban",
+    "chart",
+    "region",
+    "mainland-china"
+  ],
+  "sections": [
+    {
+      "title": "中国大陆喜剧片",
+      "layout": "carousel",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECKIO6SXI"
+        }
+      ]
+    },
+    {
+      "title": "中国大陆犯罪片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECWAPHUIA"
+        }
+      ]
+    },
+    {
+      "title": "中国大陆爱情片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "EC64OQVEQ"
+        }
+      ]
+    },
+    {
+      "title": "中国大陆武侠片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "EC6YOLGQQ"
+        }
+      ]
+    }
+  ]
+}

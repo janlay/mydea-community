@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "icon": "chart.bar",
+  "title": "豆瓣韩国类型片",
+  "description": "豆瓣韩国各类型片榜单，涵盖 11 个类型。",
+  "tags": [
+    "douban",
+    "chart",
+    "region",
+    "korea"
+  ],
+  "sections": [
+    {
+      "title": "韩国动作片",
+      "layout": "carousel",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECWQOU2HI"
+        }
+      ]
+    },
+    {
+      "title": "韩国喜剧片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECOIOVQPY"
+        }
+      ]
+    },
+    {
+      "title": "韩国犯罪片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECGYO2SPA"
+        }
+      ]
+    },
+    {
+      "title": "韩国情色片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECDMOZMVI"
+        }
+      ]
+    },
+    {
+      "title": "韩国奇幻片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECDAOLOSI"
+        }
+      ]
+    },
+    {
+      "title": "韩国历史片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECMAOINLA"
+        }
+      ]
+    },
+    {
+      "title": "韩国恐怖片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECFEOMHIQ"
+        }
+      ]
+    },
+    {
+      "title": "韩国悬疑片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECSYOYZWI"
+        }
+      ]
+    },
+    {
+      "title": "韩国爱情片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECHIOXXIQ"
+        }
+      ]
+    },
+    {
+      "title": "韩国惊悚片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECTMPDECI"
+        }
+      ]
+    },
+    {
+      "title": "韩国战争片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "EC2UOS6AQ"
+        }
+      ]
+    }
+  ]
+}

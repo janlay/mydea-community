@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "icon": "chart.bar",
+  "title": "豆瓣爱尔兰类型片",
+  "description": "豆瓣爱尔兰各类型片榜单，涵盖 2 个类型。",
+  "tags": [
+    "douban",
+    "chart",
+    "region",
+    "ireland"
+  ],
+  "sections": [
+    {
+      "title": "爱尔兰喜剧片",
+      "layout": "carousel",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECOAOZY7Y"
+        }
+      ]
+    },
+    {
+      "title": "爱尔兰爱情片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECJMO2O5Y"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "icon": "flame",
+  "title": "글로벌 최신 인기",
+  "description": "매주 바뀌는 단기 순위 — 박스오피스, 현재 상영작, 이번 주 최다 시청 등. IMDb, TMDB, Trakt, Letterboxd, Rotten Tomatoes, MDBList를 수록합니다.",
+  "tags": [
+    "chart",
+    "popular",
+    "recent",
+    "global"
+  ],
+  "sections": [
+    {
+      "title": "IMDb — 인기 영화",
+      "description": "IMDb MovieMeter: 이번 주 가장 주목받는 영화.",
+      "layout": "carousel",
+      "service": "imdb",
+      "query": "imdb_custom_list",
+      "params": [
+        {
+          "name": "chart_shortcut",
+          "value": "moviemeter"
+        },
+        {
+          "name": "list_url",
+          "value": "moviemeter"
+        }
+      ]
+    },
+    {
+      "title": "IMDb — 박스오피스 (미국)",
+      "description": "이번 주말 미국 극장 흥행 상위 영화.",
+      "layout": "grid",
+      "service": "imdb",
+      "query": "imdb_custom_list",
+      "params": [
+        {
+          "name": "chart_shortcut",
+          "value": "boxoffice"
+        },
+        {
+          "name": "list_url",
+          "value": "boxoffice"
+        }
+      ]
+    },
+    {
+      "title": "TMDB — 인기 영화",
+      "description": "현재 TMDB 인기도가 가장 높은 영화.",
+      "layout": "grid",
+      "service": "tmdb",
+      "query": "tmdb_popular",
+      "params": [
+        {
+          "name": "media_type",
+          "value": "movie"
+        }
+      ]
+    },
+    {
+      "title": "TMDB — 현재 상영작",
+      "description": "현재 미국 극장에서 상영 중인 영화.",
+      "layout": "grid",
+      "service": "tmdb",
+      "query": "tmdb_now_playing",
+      "params": [
+        {
+          "name": "region_shortcut",
+          "value": "US"
+        },
+        {
+          "name": "region",
+          "value": "US"
+        }
+      ]
+    },
+    {
+      "title": "Trakt — 이번 주 최다 시청",
+      "description": "이번 주 Trakt 사용자가 가장 많이 시청한 영화.",
+      "layout": "grid",
+      "service": "trakt",
+      "query": "trakt_most_watched",
+      "params": [
+        {
+          "name": "media_type",
+          "value": "movies"
+        },
+        {
+          "name": "period",
+          "value": "weekly"
+        },
+        {
+          "name": "genre",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "title": "Trakt — 기대작",
+      "description": "Trakt 사용자가 가장 기다리는 개봉 예정 영화.",
+      "layout": "grid",
+      "service": "trakt",
+      "query": "trakt_anticipated",
+      "params": [
+        {
+          "name": "media_type",
+          "value": "movies"
+        },
+        {
+          "name": "genre",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "title": "Letterboxd — 이번 달 인기",
+      "description": "이번 달 Letterboxd 커뮤니티가 가장 많이 기록한 영화.",
+      "layout": "grid",
+      "service": "letterboxd",
+      "query": "letterboxd_custom_list",
+      "params": [
+        {
+          "name": "list_shortcut",
+          "value": "this/month"
+        },
+        {
+          "name": "list_url",
+          "value": "this/month"
+        }
+      ]
+    },
+    {
+      "title": "Rotten Tomatoes — 극장 상영작",
+      "description": "현재 극장 상영 영화를 인기순으로.",
+      "layout": "grid",
+      "service": "rottentomatoes",
+      "query": "rotten_tomatoes_custom_list",
+      "params": [
+        {
+          "name": "list_shortcut",
+          "value": "https://www.rottentomatoes.com/browse/movies_in_theaters/sort:popular"
+        },
+        {
+          "name": "list_url",
+          "value": "https://www.rottentomatoes.com/browse/movies_in_theaters/sort:popular"
+        }
+      ]
+    },
+    {
+      "title": "MDBList — 스트리밍 차트",
+      "description": "현재 스트리밍 플랫폼 전반의 인기 영화. 서비스 설정에서 MDBList API 키가 필요합니다.",
+      "layout": "grid",
+      "service": "mdblist",
+      "query": "mdblist_official",
+      "params": [
+        {
+          "name": "official_shortcut",
+          "value": "streaming-charts"
+        },
+        {
+          "name": "official_slug",
+          "value": "streaming-charts"
+        },
+        {
+          "name": "official_mediatype",
+          "value": "movies"
+        }
+      ]
+    }
+  ]
+}

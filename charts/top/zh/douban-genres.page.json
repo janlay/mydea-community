@@ -1,0 +1,327 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "icon": "chart.bar",
+  "title": "豆瓣高分类型片",
+  "description": "豆瓣各类型片的高分经典榜。共 26 个类型。",
+  "tags": [
+    "douban",
+    "top",
+    "genre"
+  ],
+  "sections": [
+    {
+      "title": "剧情片",
+      "layout": "carousel",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "film_genre_27"
+        }
+      ]
+    },
+    {
+      "title": "喜剧片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "movie_comedy"
+        }
+      ]
+    },
+    {
+      "title": "爱情片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "movie_love"
+        }
+      ]
+    },
+    {
+      "title": "动作片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "movie_action"
+        }
+      ]
+    },
+    {
+      "title": "科幻片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "movie_scifi"
+        }
+      ]
+    },
+    {
+      "title": "动画片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "film_genre_31"
+        }
+      ]
+    },
+    {
+      "title": "悬疑片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "film_genre_32"
+        }
+      ]
+    },
+    {
+      "title": "犯罪片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "film_genre_46"
+        }
+      ]
+    },
+    {
+      "title": "惊悚片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "film_genre_33"
+        }
+      ]
+    },
+    {
+      "title": "冒险片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "film_genre_49"
+        }
+      ]
+    },
+    {
+      "title": "家庭片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "film_genre_41"
+        }
+      ]
+    },
+    {
+      "title": "儿童片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "film_genre_42"
+        }
+      ]
+    },
+    {
+      "title": "音乐片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "film_genre_39"
+        }
+      ]
+    },
+    {
+      "title": "历史片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "film_genre_44"
+        }
+      ]
+    },
+    {
+      "title": "奇幻片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "film_genre_48"
+        }
+      ]
+    },
+    {
+      "title": "恐怖片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "film_genre_34"
+        }
+      ]
+    },
+    {
+      "title": "战争片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "film_genre_45"
+        }
+      ]
+    },
+    {
+      "title": "传记片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "film_genre_43"
+        }
+      ]
+    },
+    {
+      "title": "歌舞片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "film_genre_40"
+        }
+      ]
+    },
+    {
+      "title": "武侠片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "film_genre_50"
+        }
+      ]
+    },
+    {
+      "title": "情色片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "film_genre_37"
+        }
+      ]
+    },
+    {
+      "title": "灾难片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "natural_disasters"
+        }
+      ]
+    },
+    {
+      "title": "西部片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "film_genre_47"
+        }
+      ]
+    },
+    {
+      "title": "古装片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "film_genre_51"
+        }
+      ]
+    },
+    {
+      "title": "运动片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECCEPGM4Y"
+        }
+      ]
+    },
+    {
+      "title": "短片片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "film_genre_36"
+        }
+      ]
+    }
+  ]
+}

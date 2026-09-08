@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "updatedAt": "2026-09-26T13:23:00Z",
+  "title": "纽约时报 — 21世纪100佳影片",
+  "description": "基于《纽约时报》“21世纪100佳影片”评选制作。第一个 section 展示 Top 10，第二个 section 按榜单标示的影片年份分年代展示，由新到旧。",
+  "tags": [
+    "press",
+    "movie",
+    "nytimes"
+  ],
+  "icon": "film",
+  "sections": [
+    {
+      "title": "Top 10",
+      "layout": "carousel",
+      "limit": 10,
+      "filters": [
+        {
+          "id": "top10-rank-lt-11",
+          "targetType": "movie",
+          "field": "rank",
+          "fieldType": "number",
+          "operator": "lessThan",
+          "value": "11",
+          "isNegated": false
+        }
+      ],
+      "sortBy": [
+        [
+          "rank",
+          "asc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/press/zh-Hans/nyt-best-movies-21st-century.list.json"
+        }
+      ],
+      "bindings": [
+        "Title with Year",
+        "ranking"
+      ]
+    },
+    {
+      "title": "各年代影片",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rank",
+          "asc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/press/zh-Hans/nyt-best-movies-21st-century.list.json"
+        }
+      ],
+      "bindings": [
+        "Title with Year",
+        "ranking"
+      ],
+      "grouping": {
+        "field": "releaseYear",
+        "buckets": "2020,2010,,2000",
+        "label": "{start} 年代"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "icon": "chart.bar",
+  "title": "西部片榜单",
+  "description": "豆瓣西部片榜单，涵盖 2 个国家和地区。",
+  "tags": [
+    "douban",
+    "chart",
+    "genre",
+    "western"
+  ],
+  "sections": [
+    {
+      "title": "欧洲西部片",
+      "layout": "carousel",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECM4OWDGI"
+        }
+      ]
+    },
+    {
+      "title": "美国西部片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECU4ORYVI"
+        }
+      ]
+    }
+  ]
+}

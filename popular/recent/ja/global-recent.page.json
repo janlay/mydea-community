@@ -1,0 +1,173 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "icon": "flame",
+  "title": "グローバル最新ヒット",
+  "description": "週ごとに入れ替わる短期ランキング——興行収入、上映中、今週の最多視聴など。IMDb、TMDB、Trakt、Letterboxd、Rotten Tomatoes、MDBList を収録。",
+  "tags": [
+    "chart",
+    "popular",
+    "recent",
+    "global"
+  ],
+  "sections": [
+    {
+      "title": "IMDb — 人気映画",
+      "description": "IMDb MovieMeter：今週最も注目を集める映画。",
+      "layout": "carousel",
+      "service": "imdb",
+      "query": "imdb_custom_list",
+      "params": [
+        {
+          "name": "chart_shortcut",
+          "value": "moviemeter"
+        },
+        {
+          "name": "list_url",
+          "value": "moviemeter"
+        }
+      ]
+    },
+    {
+      "title": "IMDb — 興行収入（米国）",
+      "description": "今週末の米国劇場興行収入上位の映画。",
+      "layout": "grid",
+      "service": "imdb",
+      "query": "imdb_custom_list",
+      "params": [
+        {
+          "name": "chart_shortcut",
+          "value": "boxoffice"
+        },
+        {
+          "name": "list_url",
+          "value": "boxoffice"
+        }
+      ]
+    },
+    {
+      "title": "TMDB — 人気映画",
+      "description": "現在 TMDB で人気度が最も高い映画。",
+      "layout": "grid",
+      "service": "tmdb",
+      "query": "tmdb_popular",
+      "params": [
+        {
+          "name": "media_type",
+          "value": "movie"
+        }
+      ]
+    },
+    {
+      "title": "TMDB — 上映中",
+      "description": "現在米国で劇場公開中の映画。",
+      "layout": "grid",
+      "service": "tmdb",
+      "query": "tmdb_now_playing",
+      "params": [
+        {
+          "name": "region_shortcut",
+          "value": "US"
+        },
+        {
+          "name": "region",
+          "value": "US"
+        }
+      ]
+    },
+    {
+      "title": "Trakt — 今週の最多視聴",
+      "description": "今週 Trakt で最も多く視聴された映画。",
+      "layout": "grid",
+      "service": "trakt",
+      "query": "trakt_most_watched",
+      "params": [
+        {
+          "name": "media_type",
+          "value": "movies"
+        },
+        {
+          "name": "period",
+          "value": "weekly"
+        },
+        {
+          "name": "genre",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "title": "Trakt — 期待作",
+      "description": "Trakt ユーザーが最も待ち望む公開予定の映画。",
+      "layout": "grid",
+      "service": "trakt",
+      "query": "trakt_anticipated",
+      "params": [
+        {
+          "name": "media_type",
+          "value": "movies"
+        },
+        {
+          "name": "genre",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "title": "Letterboxd — 今月の人気",
+      "description": "今月 Letterboxd コミュニティで最も記録された映画。",
+      "layout": "grid",
+      "service": "letterboxd",
+      "query": "letterboxd_custom_list",
+      "params": [
+        {
+          "name": "list_shortcut",
+          "value": "this/month"
+        },
+        {
+          "name": "list_url",
+          "value": "this/month"
+        }
+      ]
+    },
+    {
+      "title": "Rotten Tomatoes — 劇場公開中",
+      "description": "劇場公開中の映画を人気順に。",
+      "layout": "grid",
+      "service": "rottentomatoes",
+      "query": "rotten_tomatoes_custom_list",
+      "params": [
+        {
+          "name": "list_shortcut",
+          "value": "https://www.rottentomatoes.com/browse/movies_in_theaters/sort:popular"
+        },
+        {
+          "name": "list_url",
+          "value": "https://www.rottentomatoes.com/browse/movies_in_theaters/sort:popular"
+        }
+      ]
+    },
+    {
+      "title": "MDBList — 配信チャート",
+      "description": "現在の配信プラットフォーム横断の人気映画。サービス設定で MDBList API キーが必要です。",
+      "layout": "grid",
+      "service": "mdblist",
+      "query": "mdblist_official",
+      "params": [
+        {
+          "name": "official_shortcut",
+          "value": "streaming-charts"
+        },
+        {
+          "name": "official_slug",
+          "value": "streaming-charts"
+        },
+        {
+          "name": "official_mediatype",
+          "value": "movies"
+        }
+      ]
+    }
+  ]
+}

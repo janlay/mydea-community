@@ -1,0 +1,173 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "icon": "flame",
+  "title": "全球近期熱門",
+  "description": "逐週變化的短期榜單——票房、正在上映、本週觀看最多等，收錄 IMDb、TMDB、Trakt、Letterboxd、爛番茄與 MDBList。",
+  "tags": [
+    "chart",
+    "popular",
+    "recent",
+    "global"
+  ],
+  "sections": [
+    {
+      "title": "IMDb — 熱門電影",
+      "description": "IMDb MovieMeter：本週最受關注的電影。",
+      "layout": "carousel",
+      "service": "imdb",
+      "query": "imdb_custom_list",
+      "params": [
+        {
+          "name": "chart_shortcut",
+          "value": "moviemeter"
+        },
+        {
+          "name": "list_url",
+          "value": "moviemeter"
+        }
+      ]
+    },
+    {
+      "title": "IMDb — 北美票房",
+      "description": "本週末北美院線票房最高的電影。",
+      "layout": "grid",
+      "service": "imdb",
+      "query": "imdb_custom_list",
+      "params": [
+        {
+          "name": "chart_shortcut",
+          "value": "boxoffice"
+        },
+        {
+          "name": "list_url",
+          "value": "boxoffice"
+        }
+      ]
+    },
+    {
+      "title": "TMDB — 熱門電影",
+      "description": "當前 TMDB 熱度最高的電影。",
+      "layout": "grid",
+      "service": "tmdb",
+      "query": "tmdb_popular",
+      "params": [
+        {
+          "name": "media_type",
+          "value": "movie"
+        }
+      ]
+    },
+    {
+      "title": "TMDB — 正在上映",
+      "description": "當前在美國院線上映的電影。",
+      "layout": "grid",
+      "service": "tmdb",
+      "query": "tmdb_now_playing",
+      "params": [
+        {
+          "name": "region_shortcut",
+          "value": "US"
+        },
+        {
+          "name": "region",
+          "value": "US"
+        }
+      ]
+    },
+    {
+      "title": "Trakt — 本週觀看最多",
+      "description": "本週 Trakt 用戶觀看人數最多的電影。",
+      "layout": "grid",
+      "service": "trakt",
+      "query": "trakt_most_watched",
+      "params": [
+        {
+          "name": "media_type",
+          "value": "movies"
+        },
+        {
+          "name": "period",
+          "value": "weekly"
+        },
+        {
+          "name": "genre",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "title": "Trakt — 最受期待",
+      "description": "Trakt 用戶最期待的即將上映電影。",
+      "layout": "grid",
+      "service": "trakt",
+      "query": "trakt_anticipated",
+      "params": [
+        {
+          "name": "media_type",
+          "value": "movies"
+        },
+        {
+          "name": "genre",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "title": "Letterboxd — 本月熱門",
+      "description": "本月 Letterboxd 社群記錄最多的電影。",
+      "layout": "grid",
+      "service": "letterboxd",
+      "query": "letterboxd_custom_list",
+      "params": [
+        {
+          "name": "list_shortcut",
+          "value": "this/month"
+        },
+        {
+          "name": "list_url",
+          "value": "this/month"
+        }
+      ]
+    },
+    {
+      "title": "爛番茄 — 院線熱映",
+      "description": "正在院線上映的電影，按熱度排序。",
+      "layout": "grid",
+      "service": "rottentomatoes",
+      "query": "rotten_tomatoes_custom_list",
+      "params": [
+        {
+          "name": "list_shortcut",
+          "value": "https://www.rottentomatoes.com/browse/movies_in_theaters/sort:popular"
+        },
+        {
+          "name": "list_url",
+          "value": "https://www.rottentomatoes.com/browse/movies_in_theaters/sort:popular"
+        }
+      ]
+    },
+    {
+      "title": "MDBList — 串流榜",
+      "description": "當前各串流平台的熱門電影。需在服務設定中配置 MDBList API Key。",
+      "layout": "grid",
+      "service": "mdblist",
+      "query": "mdblist_official",
+      "params": [
+        {
+          "name": "official_shortcut",
+          "value": "streaming-charts"
+        },
+        {
+          "name": "official_slug",
+          "value": "streaming-charts"
+        },
+        {
+          "name": "official_mediatype",
+          "value": "movies"
+        }
+      ]
+    }
+  ]
+}

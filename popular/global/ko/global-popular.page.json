@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "icon": "flame",
+  "title": "글로벌 인기",
+  "description": "TMDB, Trakt, Letterboxd, Rotten Tomatoes, MDBList 5대 플랫폼의 단기 인기 차트를 한 페이지에 모았습니다.",
+  "tags": [
+    "chart",
+    "popular",
+    "global"
+  ],
+  "sections": [
+    {
+      "title": "TMDB · 실시간 인기",
+      "description": "TMDB의 전 세계 실시간 인기 차트로 영화와 드라마가 함께 섞여 있습니다.",
+      "layout": "carousel",
+      "service": "tmdb",
+      "query": "tmdb_trending",
+      "params": [
+        {
+          "name": "media_type",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "title": "Trakt · 인기 영화",
+      "description": "Trakt 커뮤니티가 지금 가장 많이 시청 중인 영화입니다.",
+      "layout": "grid",
+      "service": "trakt",
+      "query": "trakt_trending",
+      "params": [
+        {
+          "name": "media_type",
+          "value": "movies"
+        }
+      ]
+    },
+    {
+      "title": "Letterboxd · 이번 주 인기작",
+      "description": "이번 주 Letterboxd 커뮤니티가 가장 많이 기록·평가한 영화입니다.",
+      "layout": "grid",
+      "service": "letterboxd",
+      "query": "letterboxd_custom_list",
+      "params": [
+        {
+          "name": "list_shortcut",
+          "value": "this/week"
+        },
+        {
+          "name": "list_url",
+          "value": "this/week"
+        }
+      ]
+    },
+    {
+      "title": "Rotten Tomatoes · 신선함 인증 · 집에서 보기",
+      "description": "평론가의 '신선함 인증'을 받아 현재 집에서 볼 수 있는 영화를 인기순으로 정렬했습니다.",
+      "layout": "grid",
+      "service": "rottentomatoes",
+      "query": "rotten_tomatoes_custom_list",
+      "params": [
+        {
+          "name": "list_shortcut",
+          "value": "https://www.rottentomatoes.com/browse/movies_at_home/critics:certified_fresh~sort:popular"
+        },
+        {
+          "name": "list_url",
+          "value": "https://www.rottentomatoes.com/browse/movies_at_home/critics:certified_fresh~sort:popular"
+        }
+      ]
+    },
+    {
+      "title": "MDBList · 인기 차트",
+      "description": "MDBList 공식 '인기' 차트로 여러 소스를 집계합니다. 서비스 설정에서 MDBList API 키 구성이 필요합니다.",
+      "layout": "grid",
+      "service": "mdblist",
+      "query": "mdblist_official",
+      "params": [
+        {
+          "name": "official_shortcut",
+          "value": "popular"
+        },
+        {
+          "name": "official_slug",
+          "value": "popular"
+        },
+        {
+          "name": "official_mediatype",
+          "value": "movies"
+        }
+      ]
+    }
+  ]
+}

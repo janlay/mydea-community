@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "icon": "chart.bar",
+  "title": "グローバル Top 映画",
+  "description": "日々の人気の変動ではなく、長年の評価・視聴データに基づく安定した長期ランキング。IMDb、TMDB、Letterboxd、Trakt、Rotten Tomatoes、MDBList を収録。",
+  "tags": [
+    "chart",
+    "top",
+    "global"
+  ],
+  "sections": [
+    {
+      "title": "IMDb Top 250",
+      "description": "長年続く IMDb の Top 250。加重ユーザー評価で順位付け。",
+      "layout": "carousel",
+      "service": "imdb",
+      "query": "imdb_custom_list",
+      "params": [
+        {
+          "name": "chart_shortcut",
+          "value": "top"
+        },
+        {
+          "name": "list_url",
+          "value": "top"
+        }
+      ]
+    },
+    {
+      "title": "IMDb 英語映画トップ",
+      "description": "IMDb の英語映画を高評価順に。",
+      "layout": "grid",
+      "service": "imdb",
+      "query": "imdb_custom_list",
+      "params": [
+        {
+          "name": "chart_shortcut",
+          "value": "top-english-movies"
+        },
+        {
+          "name": "list_url",
+          "value": "top-english-movies"
+        }
+      ]
+    },
+    {
+      "title": "TMDB — 高評価",
+      "description": "TMDB コミュニティ投票による歴代最高評価の映画。",
+      "layout": "grid",
+      "service": "tmdb",
+      "query": "tmdb_top_rated",
+      "params": [
+        {
+          "name": "media_type",
+          "value": "movie"
+        }
+      ]
+    },
+    {
+      "title": "Letterboxd — 歴代人気",
+      "description": "Letterboxd で歴代最も記録された映画。",
+      "layout": "grid",
+      "service": "letterboxd",
+      "query": "letterboxd_custom_list",
+      "params": [
+        {
+          "name": "list_shortcut",
+          "value": "/"
+        },
+        {
+          "name": "list_url",
+          "value": "/"
+        }
+      ]
+    },
+    {
+      "title": "Trakt — 歴代最多視聴",
+      "description": "Trakt で歴代最も多く視聴された映画。",
+      "layout": "grid",
+      "service": "trakt",
+      "query": "trakt_most_watched",
+      "params": [
+        {
+          "name": "media_type",
+          "value": "movies"
+        },
+        {
+          "name": "period",
+          "value": "all"
+        },
+        {
+          "name": "genre",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "title": "Rotten Tomatoes — 批評家高評価",
+      "description": "配信中の映画をトマトメーターの高い順に。",
+      "layout": "grid",
+      "service": "rottentomatoes",
+      "query": "rotten_tomatoes_custom_list",
+      "params": [
+        {
+          "name": "list_shortcut",
+          "value": "https://www.rottentomatoes.com/browse/movies_at_home/sort:critic_highest"
+        },
+        {
+          "name": "list_url",
+          "value": "https://www.rottentomatoes.com/browse/movies_at_home/sort:critic_highest"
+        }
+      ]
+    },
+    {
+      "title": "MDBList — RT Top 300",
+      "description": "Rotten Tomatoes が選ぶ歴代ベスト映画 300 本。サービス設定で MDBList API キーが必要です。",
+      "layout": "grid",
+      "service": "mdblist",
+      "query": "mdblist_list",
+      "params": [
+        {
+          "name": "award_shortcut",
+          "value": "tbotcotw/rotten-tomatoes-300-best-movies-of-all-time"
+        },
+        {
+          "name": "list",
+          "value": "tbotcotw/rotten-tomatoes-300-best-movies-of-all-time"
+        }
+      ]
+    }
+  ]
+}

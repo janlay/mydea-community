@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "icon": "chart.bar",
+  "title": "글로벌 Top 드라마",
+  "description": "일간 인기 변동이 아닌, 오랜 기간의 평점과 시청 데이터로 쌓인 안정적인 장기 드라마 차트입니다.",
+  "tags": [
+    "chart",
+    "top",
+    "global",
+    "tv"
+  ],
+  "sections": [
+    {
+      "title": "IMDb Top 250 TV 프로그램",
+      "description": "IMDb Top 250 TV 프로그램, 가중 사용자 평점순.",
+      "layout": "carousel",
+      "service": "imdb",
+      "query": "imdb_custom_list",
+      "params": [
+        {
+          "name": "chart_shortcut",
+          "value": "toptv"
+        },
+        {
+          "name": "list_url",
+          "value": "toptv"
+        }
+      ]
+    }
+  ]
+}

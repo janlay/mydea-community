@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "icon": "chart.bar",
+  "title": "グローバル Top ドラマ",
+  "description": "日々の人気の変動ではなく、長年の評価・視聴データに基づく安定した長期ドラマランキング。",
+  "tags": [
+    "chart",
+    "top",
+    "global",
+    "tv"
+  ],
+  "sections": [
+    {
+      "title": "IMDb Top 250 TV番組",
+      "description": "IMDb の Top 250 TV番組。加重ユーザー評価で順位付け。",
+      "layout": "carousel",
+      "service": "imdb",
+      "query": "imdb_custom_list",
+      "params": [
+        {
+          "name": "chart_shortcut",
+          "value": "toptv"
+        },
+        {
+          "name": "list_url",
+          "value": "toptv"
+        }
+      ]
+    }
+  ]
+}

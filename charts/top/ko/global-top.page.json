@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "icon": "chart.bar",
+  "title": "글로벌 Top 영화",
+  "description": "매일 바뀌는 인기 변동이 아니라 오랜 평점·시청 데이터에 기반한 안정적인 장기 순위입니다. IMDb, TMDB, Letterboxd, Trakt, Rotten Tomatoes, MDBList를 수록합니다.",
+  "tags": [
+    "chart",
+    "top",
+    "global"
+  ],
+  "sections": [
+    {
+      "title": "IMDb Top 250",
+      "description": "오랜 역사의 IMDb Top 250, 가중 사용자 평점 순으로 정렬됩니다.",
+      "layout": "carousel",
+      "service": "imdb",
+      "query": "imdb_custom_list",
+      "params": [
+        {
+          "name": "chart_shortcut",
+          "value": "top"
+        },
+        {
+          "name": "list_url",
+          "value": "top"
+        }
+      ]
+    },
+    {
+      "title": "IMDb 영어 영화 Top",
+      "description": "IMDb 영어 영화 고평점 순위.",
+      "layout": "grid",
+      "service": "imdb",
+      "query": "imdb_custom_list",
+      "params": [
+        {
+          "name": "chart_shortcut",
+          "value": "top-english-movies"
+        },
+        {
+          "name": "list_url",
+          "value": "top-english-movies"
+        }
+      ]
+    },
+    {
+      "title": "TMDB — 최고 평점",
+      "description": "TMDB 커뮤니티 투표 기준 역대 최고 평점 영화.",
+      "layout": "grid",
+      "service": "tmdb",
+      "query": "tmdb_top_rated",
+      "params": [
+        {
+          "name": "media_type",
+          "value": "movie"
+        }
+      ]
+    },
+    {
+      "title": "Letterboxd — 역대 인기",
+      "description": "Letterboxd 회원들이 역대 가장 많이 기록한 영화.",
+      "layout": "grid",
+      "service": "letterboxd",
+      "query": "letterboxd_custom_list",
+      "params": [
+        {
+          "name": "list_shortcut",
+          "value": "/"
+        },
+        {
+          "name": "list_url",
+          "value": "/"
+        }
+      ]
+    },
+    {
+      "title": "Trakt — 역대 최다 시청",
+      "description": "Trakt 사용자가 역대 가장 많이 시청한 영화.",
+      "layout": "grid",
+      "service": "trakt",
+      "query": "trakt_most_watched",
+      "params": [
+        {
+          "name": "media_type",
+          "value": "movies"
+        },
+        {
+          "name": "period",
+          "value": "all"
+        },
+        {
+          "name": "genre",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "title": "Rotten Tomatoes — 평론가 최고 평점",
+      "description": "홈 시청 가능 영화를 토마토미터 점수 순으로.",
+      "layout": "grid",
+      "service": "rottentomatoes",
+      "query": "rotten_tomatoes_custom_list",
+      "params": [
+        {
+          "name": "list_shortcut",
+          "value": "https://www.rottentomatoes.com/browse/movies_at_home/sort:critic_highest"
+        },
+        {
+          "name": "list_url",
+          "value": "https://www.rottentomatoes.com/browse/movies_at_home/sort:critic_highest"
+        }
+      ]
+    },
+    {
+      "title": "MDBList — RT Top 300",
+      "description": "Rotten Tomatoes 선정 역대 최고의 영화 300편. 서비스 설정에서 MDBList API 키가 필요합니다.",
+      "layout": "grid",
+      "service": "mdblist",
+      "query": "mdblist_list",
+      "params": [
+        {
+          "name": "award_shortcut",
+          "value": "tbotcotw/rotten-tomatoes-300-best-movies-of-all-time"
+        },
+        {
+          "name": "list",
+          "value": "tbotcotw/rotten-tomatoes-300-best-movies-of-all-time"
+        }
+      ]
+    }
+  ]
+}

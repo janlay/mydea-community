@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "icon": "chart.bar",
+  "title": "恐怖片榜单",
+  "description": "豆瓣恐怖片榜单，涵盖 11 个国家和地区。",
+  "tags": [
+    "douban",
+    "chart",
+    "genre",
+    "horror"
+  ],
+  "sections": [
+    {
+      "title": "华语恐怖片",
+      "layout": "carousel",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "EC54OE5HA"
+        }
+      ]
+    },
+    {
+      "title": "欧洲恐怖片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECFAOK5WQ"
+        }
+      ]
+    },
+    {
+      "title": "美国恐怖片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECGMORRUY"
+        }
+      ]
+    },
+    {
+      "title": "日本恐怖片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "EC6QOMMWY"
+        }
+      ]
+    },
+    {
+      "title": "韩国恐怖片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECFEOMHIQ"
+        }
+      ]
+    },
+    {
+      "title": "英国恐怖片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECFUOGJDQ"
+        }
+      ]
+    },
+    {
+      "title": "法国恐怖片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECHIOLPXA"
+        }
+      ]
+    },
+    {
+      "title": "西班牙恐怖片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECWUOILKA"
+        }
+      ]
+    },
+    {
+      "title": "泰国恐怖片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "EC2AOMMKY"
+        }
+      ]
+    },
+    {
+      "title": "加拿大恐怖片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECVYODZIA"
+        }
+      ]
+    },
+    {
+      "title": "澳大利亚恐怖片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECFYOIWBQ"
+        }
+      ]
+    }
+  ]
+}

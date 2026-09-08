@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "icon": "chart.bar",
+  "title": "犯罪片榜单",
+  "description": "豆瓣犯罪片榜单，涵盖 14 个国家和地区。",
+  "tags": [
+    "douban",
+    "chart",
+    "genre",
+    "crime"
+  ],
+  "sections": [
+    {
+      "title": "华语犯罪片",
+      "layout": "carousel",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECVUO4O4Q"
+        }
+      ]
+    },
+    {
+      "title": "欧洲犯罪片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "EC5QO2HUI"
+        }
+      ]
+    },
+    {
+      "title": "中国大陆犯罪片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECWAPHUIA"
+        }
+      ]
+    },
+    {
+      "title": "美国犯罪片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECEAPADKY"
+        }
+      ]
+    },
+    {
+      "title": "中国香港犯罪片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "EC3AOZZUY"
+        }
+      ]
+    },
+    {
+      "title": "日本犯罪片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECVUO43DY"
+        }
+      ]
+    },
+    {
+      "title": "韩国犯罪片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECGYO2SPA"
+        }
+      ]
+    },
+    {
+      "title": "英国犯罪片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECVYOZNAI"
+        }
+      ]
+    },
+    {
+      "title": "法国犯罪片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECFEPCR2A"
+        }
+      ]
+    },
+    {
+      "title": "德国犯罪片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECVAPBWRI"
+        }
+      ]
+    },
+    {
+      "title": "意大利犯罪片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECRMO4X7I"
+        }
+      ]
+    },
+    {
+      "title": "西班牙犯罪片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECPAPDKZA"
+        }
+      ]
+    },
+    {
+      "title": "加拿大犯罪片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "EC2MPBOOI"
+        }
+      ]
+    },
+    {
+      "title": "澳大利亚犯罪片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECEMOZ6DI"
+        }
+      ]
+    }
+  ]
+}

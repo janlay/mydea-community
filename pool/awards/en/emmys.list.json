@@ -1,0 +1,921 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "title": "Primetime Emmy Awards",
+  "author": "Mydea",
+  "server": "TMDB",
+  "updatedAt": "2026-09-15T05:03:35Z",
+  "description": "Primetime Emmy Awards",
+  "items": [
+    {
+      "id": "emmys-2026-comedy-series-widow-s-bay",
+      "mediaType": "tv",
+      "title": "Widow's Bay",
+      "awardYear": 2026,
+      "winner": "Widow's Bay",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt33332385"
+      },
+      "award": "Outstanding Comedy Series",
+      "awardOrder": 2
+    },
+    {
+      "id": "emmys-2026-drama-series-the-pitt",
+      "mediaType": "tv",
+      "title": "The Pitt",
+      "awardYear": 2026,
+      "winner": "The Pitt",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31938062"
+      },
+      "award": "Outstanding Drama Series",
+      "awardOrder": 1
+    },
+    {
+      "id": "emmys-2026-lead-actor-comedy-widow-s-bay",
+      "mediaType": "tv",
+      "title": "Widow's Bay",
+      "awardYear": 2026,
+      "winner": "Matthew Rhys",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt33332385"
+      },
+      "award": "Outstanding Lead Actor in a Comedy Series",
+      "awardOrder": 6
+    },
+    {
+      "id": "emmys-2026-lead-actor-drama-the-pitt",
+      "mediaType": "tv",
+      "title": "The Pitt",
+      "awardYear": 2026,
+      "winner": "Noah Wyle",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31938062"
+      },
+      "award": "Outstanding Lead Actor in a Drama Series",
+      "awardOrder": 4
+    },
+    {
+      "id": "emmys-2026-lead-actress-comedy-hacks",
+      "mediaType": "tv",
+      "title": "Hacks",
+      "awardYear": 2026,
+      "winner": "Jean Smart",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt11815682"
+      },
+      "award": "Outstanding Lead Actress in a Comedy Series",
+      "awardOrder": 7
+    },
+    {
+      "id": "emmys-2026-lead-actress-drama-pluribus",
+      "mediaType": "tv",
+      "title": "Pluribus",
+      "awardYear": 2026,
+      "winner": "Rhea Seehorn",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt22202452"
+      },
+      "award": "Outstanding Lead Actress in a Drama Series",
+      "awardOrder": 5
+    },
+    {
+      "id": "emmys-2026-limited-series-dtf-st-louis",
+      "mediaType": "tv",
+      "title": "DTF St. Louis",
+      "awardYear": 2026,
+      "winner": "DTF St. Louis",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt34385331"
+      },
+      "award": "Outstanding Limited or Anthology Series",
+      "awardOrder": 3
+    },
+    {
+      "id": "emmys-2025-comedy-series-the-studio",
+      "mediaType": "tv",
+      "title": "The Studio",
+      "awardYear": 2025,
+      "winner": "The Studio",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt23649128"
+      },
+      "award": "Outstanding Comedy Series",
+      "awardOrder": 2
+    },
+    {
+      "id": "emmys-2025-drama-series-the-pitt",
+      "mediaType": "tv",
+      "title": "The Pitt",
+      "awardYear": 2025,
+      "winner": "The Pitt",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31938062"
+      },
+      "award": "Outstanding Drama Series",
+      "awardOrder": 1
+    },
+    {
+      "id": "emmys-2025-lead-actor-comedy-the-studio",
+      "mediaType": "tv",
+      "title": "The Studio",
+      "awardYear": 2025,
+      "winner": "Seth Rogen",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt23649128"
+      },
+      "award": "Outstanding Lead Actor in a Comedy Series",
+      "awardOrder": 6
+    },
+    {
+      "id": "emmys-2025-lead-actor-drama-the-pitt",
+      "mediaType": "tv",
+      "title": "The Pitt",
+      "awardYear": 2025,
+      "winner": "Noah Wyle",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31938062"
+      },
+      "award": "Outstanding Lead Actor in a Drama Series",
+      "awardOrder": 4
+    },
+    {
+      "id": "emmys-2025-lead-actress-comedy-hacks",
+      "mediaType": "tv",
+      "title": "Hacks",
+      "awardYear": 2025,
+      "winner": "Jean Smart",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt11815682"
+      },
+      "award": "Outstanding Lead Actress in a Comedy Series",
+      "awardOrder": 7
+    },
+    {
+      "id": "emmys-2025-lead-actress-drama-severance",
+      "mediaType": "tv",
+      "title": "Severance",
+      "awardYear": 2025,
+      "winner": "Britt Lower",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt11280740"
+      },
+      "award": "Outstanding Lead Actress in a Drama Series",
+      "awardOrder": 5
+    },
+    {
+      "id": "emmys-2025-limited-series-adolescence",
+      "mediaType": "tv",
+      "title": "Adolescence",
+      "awardYear": 2025,
+      "winner": "Adolescence",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31806037"
+      },
+      "award": "Outstanding Limited or Anthology Series",
+      "awardOrder": 3
+    },
+    {
+      "id": "emmys-2024-comedy-series-hacks",
+      "mediaType": "tv",
+      "title": "Hacks",
+      "awardYear": 2024,
+      "winner": "Hacks",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt11815682"
+      },
+      "award": "Outstanding Comedy Series",
+      "awardOrder": 2
+    },
+    {
+      "id": "emmys-2024-drama-series-shogun",
+      "mediaType": "tv",
+      "title": "Shōgun",
+      "awardYear": 2024,
+      "winner": "Shōgun",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt2788316"
+      },
+      "award": "Outstanding Drama Series",
+      "awardOrder": 1
+    },
+    {
+      "id": "emmys-2024-lead-actor-comedy-the-bear",
+      "mediaType": "tv",
+      "title": "The Bear",
+      "awardYear": 2024,
+      "winner": "Jeremy Allen White",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt14452776"
+      },
+      "award": "Outstanding Lead Actor in a Comedy Series",
+      "awardOrder": 6
+    },
+    {
+      "id": "emmys-2024-lead-actor-drama-shogun",
+      "mediaType": "tv",
+      "title": "Shōgun",
+      "awardYear": 2024,
+      "winner": "Hiroyuki Sanada",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt2788316"
+      },
+      "award": "Outstanding Lead Actor in a Drama Series",
+      "awardOrder": 4
+    },
+    {
+      "id": "emmys-2024-lead-actress-comedy-hacks",
+      "mediaType": "tv",
+      "title": "Hacks",
+      "awardYear": 2024,
+      "winner": "Jean Smart",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt11815682"
+      },
+      "award": "Outstanding Lead Actress in a Comedy Series",
+      "awardOrder": 7
+    },
+    {
+      "id": "emmys-2024-lead-actress-drama-shogun",
+      "mediaType": "tv",
+      "title": "Shōgun",
+      "awardYear": 2024,
+      "winner": "Anna Sawai",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt2788316"
+      },
+      "award": "Outstanding Lead Actress in a Drama Series",
+      "awardOrder": 5
+    },
+    {
+      "id": "emmys-2024-limited-series-baby-reindeer",
+      "mediaType": "tv",
+      "title": "Baby Reindeer",
+      "awardYear": 2024,
+      "winner": "Baby Reindeer",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt13649112"
+      },
+      "award": "Outstanding Limited or Anthology Series",
+      "awardOrder": 3
+    },
+    {
+      "id": "emmys-2023-comedy-series-the-bear",
+      "mediaType": "tv",
+      "title": "The Bear",
+      "awardYear": 2023,
+      "winner": "The Bear",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt14452776"
+      },
+      "award": "Outstanding Comedy Series",
+      "awardOrder": 2
+    },
+    {
+      "id": "emmys-2023-drama-series-succession",
+      "mediaType": "tv",
+      "title": "Succession",
+      "awardYear": 2023,
+      "winner": "Succession",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7660850"
+      },
+      "award": "Outstanding Drama Series",
+      "awardOrder": 1
+    },
+    {
+      "id": "emmys-2023-lead-actor-comedy-the-bear",
+      "mediaType": "tv",
+      "title": "The Bear",
+      "awardYear": 2023,
+      "winner": "Jeremy Allen White",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt14452776"
+      },
+      "award": "Outstanding Lead Actor in a Comedy Series",
+      "awardOrder": 6
+    },
+    {
+      "id": "emmys-2023-lead-actor-drama-succession",
+      "mediaType": "tv",
+      "title": "Succession",
+      "awardYear": 2023,
+      "winner": "Kieran Culkin",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7660850"
+      },
+      "award": "Outstanding Lead Actor in a Drama Series",
+      "awardOrder": 4
+    },
+    {
+      "id": "emmys-2023-lead-actress-comedy-abbott-elementary",
+      "mediaType": "tv",
+      "title": "Abbott Elementary",
+      "awardYear": 2023,
+      "winner": "Quinta Brunson",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14218830"
+      },
+      "award": "Outstanding Lead Actress in a Comedy Series",
+      "awardOrder": 7
+    },
+    {
+      "id": "emmys-2023-lead-actress-drama-succession",
+      "mediaType": "tv",
+      "title": "Succession",
+      "awardYear": 2023,
+      "winner": "Sarah Snook",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7660850"
+      },
+      "award": "Outstanding Lead Actress in a Drama Series",
+      "awardOrder": 5
+    },
+    {
+      "id": "emmys-2023-limited-series-beef",
+      "mediaType": "tv",
+      "title": "Beef",
+      "awardYear": 2023,
+      "winner": "Beef",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt14403178"
+      },
+      "award": "Outstanding Limited or Anthology Series",
+      "awardOrder": 3
+    },
+    {
+      "id": "emmys-2022-comedy-series-ted-lasso",
+      "mediaType": "tv",
+      "title": "Ted Lasso",
+      "awardYear": 2022,
+      "winner": "Ted Lasso",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10986410"
+      },
+      "award": "Outstanding Comedy Series",
+      "awardOrder": 2
+    },
+    {
+      "id": "emmys-2022-drama-series-succession",
+      "mediaType": "tv",
+      "title": "Succession",
+      "awardYear": 2022,
+      "winner": "Succession",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7660850"
+      },
+      "award": "Outstanding Drama Series",
+      "awardOrder": 1
+    },
+    {
+      "id": "emmys-2022-lead-actor-comedy-ted-lasso",
+      "mediaType": "tv",
+      "title": "Ted Lasso",
+      "awardYear": 2022,
+      "winner": "Jason Sudeikis",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10986410"
+      },
+      "award": "Outstanding Lead Actor in a Comedy Series",
+      "awardOrder": 6
+    },
+    {
+      "id": "emmys-2022-lead-actor-drama-squid-game",
+      "mediaType": "tv",
+      "title": "Squid Game",
+      "awardYear": 2022,
+      "winner": "Lee Jung-jae",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt10919420"
+      },
+      "award": "Outstanding Lead Actor in a Drama Series",
+      "awardOrder": 4
+    },
+    {
+      "id": "emmys-2022-lead-actress-comedy-hacks",
+      "mediaType": "tv",
+      "title": "Hacks",
+      "awardYear": 2022,
+      "winner": "Jean Smart",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt11815682"
+      },
+      "award": "Outstanding Lead Actress in a Comedy Series",
+      "awardOrder": 7
+    },
+    {
+      "id": "emmys-2022-lead-actress-drama-euphoria",
+      "mediaType": "tv",
+      "title": "Euphoria",
+      "awardYear": 2022,
+      "winner": "Zendaya",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt8772296"
+      },
+      "award": "Outstanding Lead Actress in a Drama Series",
+      "awardOrder": 5
+    },
+    {
+      "id": "emmys-2022-limited-series-the-white-lotus",
+      "mediaType": "tv",
+      "title": "The White Lotus",
+      "awardYear": 2022,
+      "winner": "The White Lotus",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt13406094"
+      },
+      "award": "Outstanding Limited or Anthology Series",
+      "awardOrder": 3
+    },
+    {
+      "id": "emmys-2021-comedy-series-ted-lasso",
+      "mediaType": "tv",
+      "title": "Ted Lasso",
+      "awardYear": 2021,
+      "winner": "Ted Lasso",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10986410"
+      },
+      "award": "Outstanding Comedy Series",
+      "awardOrder": 2
+    },
+    {
+      "id": "emmys-2021-drama-series-the-crown",
+      "mediaType": "tv",
+      "title": "The Crown",
+      "awardYear": 2021,
+      "winner": "The Crown",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4786824"
+      },
+      "award": "Outstanding Drama Series",
+      "awardOrder": 1
+    },
+    {
+      "id": "emmys-2021-lead-actor-comedy-ted-lasso",
+      "mediaType": "tv",
+      "title": "Ted Lasso",
+      "awardYear": 2021,
+      "winner": "Jason Sudeikis",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10986410"
+      },
+      "award": "Outstanding Lead Actor in a Comedy Series",
+      "awardOrder": 6
+    },
+    {
+      "id": "emmys-2021-lead-actor-drama-the-crown",
+      "mediaType": "tv",
+      "title": "The Crown",
+      "awardYear": 2021,
+      "winner": "Josh O'Connor",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4786824"
+      },
+      "award": "Outstanding Lead Actor in a Drama Series",
+      "awardOrder": 4
+    },
+    {
+      "id": "emmys-2021-lead-actress-comedy-hacks",
+      "mediaType": "tv",
+      "title": "Hacks",
+      "awardYear": 2021,
+      "winner": "Jean Smart",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt11815682"
+      },
+      "award": "Outstanding Lead Actress in a Comedy Series",
+      "awardOrder": 7
+    },
+    {
+      "id": "emmys-2021-lead-actress-drama-the-crown",
+      "mediaType": "tv",
+      "title": "The Crown",
+      "awardYear": 2021,
+      "winner": "Olivia Colman",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4786824"
+      },
+      "award": "Outstanding Lead Actress in a Drama Series",
+      "awardOrder": 5
+    },
+    {
+      "id": "emmys-2021-limited-series-the-queen-s-gambit",
+      "mediaType": "tv",
+      "title": "The Queen's Gambit",
+      "awardYear": 2021,
+      "winner": "The Queen's Gambit",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10048342"
+      },
+      "award": "Outstanding Limited or Anthology Series",
+      "awardOrder": 3
+    },
+    {
+      "id": "emmys-2020-comedy-series-schitt-s-creek",
+      "mediaType": "tv",
+      "title": "Schitt's Creek",
+      "awardYear": 2020,
+      "winner": "Schitt's Creek",
+      "releaseDate": "2015",
+      "externalIds": {
+        "imdb": "tt3526078"
+      },
+      "award": "Outstanding Comedy Series",
+      "awardOrder": 2
+    },
+    {
+      "id": "emmys-2020-drama-series-succession",
+      "mediaType": "tv",
+      "title": "Succession",
+      "awardYear": 2020,
+      "winner": "Succession",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7660850"
+      },
+      "award": "Outstanding Drama Series",
+      "awardOrder": 1
+    },
+    {
+      "id": "emmys-2020-lead-actor-comedy-schitt-s-creek",
+      "mediaType": "tv",
+      "title": "Schitt's Creek",
+      "awardYear": 2020,
+      "winner": "Eugene Levy",
+      "releaseDate": "2015",
+      "externalIds": {
+        "imdb": "tt3526078"
+      },
+      "award": "Outstanding Lead Actor in a Comedy Series",
+      "awardOrder": 6
+    },
+    {
+      "id": "emmys-2020-lead-actor-drama-succession",
+      "mediaType": "tv",
+      "title": "Succession",
+      "awardYear": 2020,
+      "winner": "Jeremy Strong",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7660850"
+      },
+      "award": "Outstanding Lead Actor in a Drama Series",
+      "awardOrder": 4
+    },
+    {
+      "id": "emmys-2020-lead-actress-comedy-schitt-s-creek",
+      "mediaType": "tv",
+      "title": "Schitt's Creek",
+      "awardYear": 2020,
+      "winner": "Catherine O'Hara",
+      "releaseDate": "2015",
+      "externalIds": {
+        "imdb": "tt3526078"
+      },
+      "award": "Outstanding Lead Actress in a Comedy Series",
+      "awardOrder": 7
+    },
+    {
+      "id": "emmys-2020-lead-actress-drama-euphoria",
+      "mediaType": "tv",
+      "title": "Euphoria",
+      "awardYear": 2020,
+      "winner": "Zendaya",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt8772296"
+      },
+      "award": "Outstanding Lead Actress in a Drama Series",
+      "awardOrder": 5
+    },
+    {
+      "id": "emmys-2020-limited-series-watchmen",
+      "mediaType": "tv",
+      "title": "Watchmen",
+      "awardYear": 2020,
+      "winner": "Watchmen",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt7049682"
+      },
+      "award": "Outstanding Limited or Anthology Series",
+      "awardOrder": 3
+    },
+    {
+      "id": "emmys-2019-comedy-series-fleabag",
+      "mediaType": "tv",
+      "title": "Fleabag",
+      "awardYear": 2019,
+      "winner": "Fleabag",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5687612"
+      },
+      "award": "Outstanding Comedy Series",
+      "awardOrder": 2
+    },
+    {
+      "id": "emmys-2019-drama-series-game-of-thrones",
+      "mediaType": "tv",
+      "title": "Game of Thrones",
+      "awardYear": 2019,
+      "winner": "Game of Thrones",
+      "releaseDate": "2011",
+      "externalIds": {
+        "imdb": "tt0944947"
+      },
+      "award": "Outstanding Drama Series",
+      "awardOrder": 1
+    },
+    {
+      "id": "emmys-2019-lead-actor-comedy-barry",
+      "mediaType": "tv",
+      "title": "Barry",
+      "awardYear": 2019,
+      "winner": "Bill Hader",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt5348176"
+      },
+      "award": "Outstanding Lead Actor in a Comedy Series",
+      "awardOrder": 6
+    },
+    {
+      "id": "emmys-2019-lead-actor-drama-pose",
+      "mediaType": "tv",
+      "title": "Pose",
+      "awardYear": 2019,
+      "winner": "Billy Porter",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7562112"
+      },
+      "award": "Outstanding Lead Actor in a Drama Series",
+      "awardOrder": 4
+    },
+    {
+      "id": "emmys-2019-lead-actress-comedy-fleabag",
+      "mediaType": "tv",
+      "title": "Fleabag",
+      "awardYear": 2019,
+      "winner": "Phoebe Waller-Bridge",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5687612"
+      },
+      "award": "Outstanding Lead Actress in a Comedy Series",
+      "awardOrder": 7
+    },
+    {
+      "id": "emmys-2019-lead-actress-drama-killing-eve",
+      "mediaType": "tv",
+      "title": "Killing Eve",
+      "awardYear": 2019,
+      "winner": "Jodie Comer",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7016936"
+      },
+      "award": "Outstanding Lead Actress in a Drama Series",
+      "awardOrder": 5
+    },
+    {
+      "id": "emmys-2019-limited-series-chernobyl",
+      "mediaType": "tv",
+      "title": "Chernobyl",
+      "awardYear": 2019,
+      "winner": "Chernobyl",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt7366338"
+      },
+      "award": "Outstanding Limited or Anthology Series",
+      "awardOrder": 3
+    },
+    {
+      "id": "emmys-2018-comedy-series-the-marvelous-mrs-maisel",
+      "mediaType": "tv",
+      "title": "The Marvelous Mrs. Maisel",
+      "awardYear": 2018,
+      "winner": "The Marvelous Mrs. Maisel",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5788792"
+      },
+      "award": "Outstanding Comedy Series",
+      "awardOrder": 2
+    },
+    {
+      "id": "emmys-2018-drama-series-game-of-thrones",
+      "mediaType": "tv",
+      "title": "Game of Thrones",
+      "awardYear": 2018,
+      "winner": "Game of Thrones",
+      "releaseDate": "2011",
+      "externalIds": {
+        "imdb": "tt0944947"
+      },
+      "award": "Outstanding Drama Series",
+      "awardOrder": 1
+    },
+    {
+      "id": "emmys-2018-lead-actor-comedy-barry",
+      "mediaType": "tv",
+      "title": "Barry",
+      "awardYear": 2018,
+      "winner": "Bill Hader",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt5348176"
+      },
+      "award": "Outstanding Lead Actor in a Comedy Series",
+      "awardOrder": 6
+    },
+    {
+      "id": "emmys-2018-lead-actor-drama-the-americans",
+      "mediaType": "tv",
+      "title": "The Americans",
+      "awardYear": 2018,
+      "winner": "Matthew Rhys",
+      "releaseDate": "2013",
+      "externalIds": {
+        "imdb": "tt2149175"
+      },
+      "award": "Outstanding Lead Actor in a Drama Series",
+      "awardOrder": 4
+    },
+    {
+      "id": "emmys-2018-lead-actress-comedy-the-marvelous-mrs-maisel",
+      "mediaType": "tv",
+      "title": "The Marvelous Mrs. Maisel",
+      "awardYear": 2018,
+      "winner": "Rachel Brosnahan",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5788792"
+      },
+      "award": "Outstanding Lead Actress in a Comedy Series",
+      "awardOrder": 7
+    },
+    {
+      "id": "emmys-2018-lead-actress-drama-the-crown",
+      "mediaType": "tv",
+      "title": "The Crown",
+      "awardYear": 2018,
+      "winner": "Claire Foy",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4786824"
+      },
+      "award": "Outstanding Lead Actress in a Drama Series",
+      "awardOrder": 5
+    },
+    {
+      "id": "emmys-2018-limited-series-the-assassination-of-gianni-versace-american-crime-story",
+      "mediaType": "tv",
+      "title": "American Crime Story",
+      "awardYear": 2018,
+      "winner": "The Assassination of Gianni Versace: American Crime Story",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt2788432"
+      },
+      "award": "Outstanding Limited or Anthology Series",
+      "awardOrder": 3
+    },
+    {
+      "id": "emmys-2017-comedy-series-veep",
+      "mediaType": "tv",
+      "title": "Veep",
+      "awardYear": 2017,
+      "winner": "Veep",
+      "releaseDate": "2012",
+      "externalIds": {
+        "imdb": "tt1759761"
+      },
+      "award": "Outstanding Comedy Series",
+      "awardOrder": 2
+    },
+    {
+      "id": "emmys-2017-drama-series-the-handmaid-s-tale",
+      "mediaType": "tv",
+      "title": "The Handmaid's Tale",
+      "awardYear": 2017,
+      "winner": "The Handmaid's Tale",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5834204"
+      },
+      "award": "Outstanding Drama Series",
+      "awardOrder": 1
+    },
+    {
+      "id": "emmys-2017-lead-actor-comedy-atlanta",
+      "mediaType": "tv",
+      "title": "Atlanta",
+      "awardYear": 2017,
+      "winner": "Donald Glover",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4288182"
+      },
+      "award": "Outstanding Lead Actor in a Comedy Series",
+      "awardOrder": 6
+    },
+    {
+      "id": "emmys-2017-lead-actor-drama-this-is-us",
+      "mediaType": "tv",
+      "title": "This Is Us",
+      "awardYear": 2017,
+      "winner": "Sterling K. Brown",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5555260"
+      },
+      "award": "Outstanding Lead Actor in a Drama Series",
+      "awardOrder": 4
+    },
+    {
+      "id": "emmys-2017-lead-actress-comedy-veep",
+      "mediaType": "tv",
+      "title": "Veep",
+      "awardYear": 2017,
+      "winner": "Julia Louis-Dreyfus",
+      "releaseDate": "2012",
+      "externalIds": {
+        "imdb": "tt1759761"
+      },
+      "award": "Outstanding Lead Actress in a Comedy Series",
+      "awardOrder": 7
+    },
+    {
+      "id": "emmys-2017-lead-actress-drama-the-handmaid-s-tale",
+      "mediaType": "tv",
+      "title": "The Handmaid's Tale",
+      "awardYear": 2017,
+      "winner": "Elisabeth Moss",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5834204"
+      },
+      "award": "Outstanding Lead Actress in a Drama Series",
+      "awardOrder": 5
+    },
+    {
+      "id": "emmys-2017-limited-series-big-little-lies",
+      "mediaType": "tv",
+      "title": "Big Little Lies",
+      "awardYear": 2017,
+      "winner": "Big Little Lies",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt3920596"
+      },
+      "award": "Outstanding Limited or Anthology Series",
+      "awardOrder": 3
+    }
+  ]
+}

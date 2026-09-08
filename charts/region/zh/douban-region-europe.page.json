@@ -1,0 +1,244 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "icon": "chart.bar",
+  "title": "豆瓣欧洲类型片",
+  "description": "豆瓣欧洲各类型片榜单，涵盖 19 个类型。",
+  "tags": [
+    "douban",
+    "chart",
+    "region",
+    "europe"
+  ],
+  "sections": [
+    {
+      "title": "欧洲动作片",
+      "layout": "carousel",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECHUOXOUA"
+        }
+      ]
+    },
+    {
+      "title": "欧洲冒险片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECW4O3GHY"
+        }
+      ]
+    },
+    {
+      "title": "欧洲动画片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECLYO57HA"
+        }
+      ]
+    },
+    {
+      "title": "欧洲传记片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECZIOQ6LY"
+        }
+      ]
+    },
+    {
+      "title": "欧洲喜剧片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECPQO4BPA"
+        }
+      ]
+    },
+    {
+      "title": "欧洲犯罪片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "EC5QO2HUI"
+        }
+      ]
+    },
+    {
+      "title": "欧洲灾难片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "EC5IOQ75I"
+        }
+      ]
+    },
+    {
+      "title": "欧洲情色片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECVUONKTI"
+        }
+      ]
+    },
+    {
+      "title": "欧洲奇幻片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECUMOLXQY"
+        }
+      ]
+    },
+    {
+      "title": "欧洲历史片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECIAOE4OY"
+        }
+      ]
+    },
+    {
+      "title": "欧洲恐怖片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECFAOK5WQ"
+        }
+      ]
+    },
+    {
+      "title": "欧洲音乐片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECAQO25QI"
+        }
+      ]
+    },
+    {
+      "title": "欧洲歌舞片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "EC3QOS5MA"
+        }
+      ]
+    },
+    {
+      "title": "欧洲悬疑片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECUMPB7SA"
+        }
+      ]
+    },
+    {
+      "title": "欧洲爱情片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECUAOYUCA"
+        }
+      ]
+    },
+    {
+      "title": "欧洲科幻片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECX4O7JAA"
+        }
+      ]
+    },
+    {
+      "title": "欧洲惊悚片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECTMPCZTY"
+        }
+      ]
+    },
+    {
+      "title": "欧洲战争片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECUIOKO6I"
+        }
+      ]
+    },
+    {
+      "title": "欧洲西部片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECM4OWDGI"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "icon": "chart.bar",
+  "title": "豆瓣英国类型片",
+  "description": "豆瓣英国各类型片榜单，涵盖 16 个类型。",
+  "tags": [
+    "douban",
+    "chart",
+    "region",
+    "uk"
+  ],
+  "sections": [
+    {
+      "title": "英国动作片",
+      "layout": "carousel",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECCUPDBHQ"
+        }
+      ]
+    },
+    {
+      "title": "英国冒险片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECFUORHLY"
+        }
+      ]
+    },
+    {
+      "title": "英国动画片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECWUO3RJA"
+        }
+      ]
+    },
+    {
+      "title": "英国传记片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECNMONJTQ"
+        }
+      ]
+    },
+    {
+      "title": "英国喜剧片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "EC6IOYROI"
+        }
+      ]
+    },
+    {
+      "title": "英国犯罪片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECVYOZNAI"
+        }
+      ]
+    },
+    {
+      "title": "英国情色片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECA4OSUNA"
+        }
+      ]
+    },
+    {
+      "title": "英国奇幻片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECRAOGHZY"
+        }
+      ]
+    },
+    {
+      "title": "英国历史片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECSEOEISY"
+        }
+      ]
+    },
+    {
+      "title": "英国恐怖片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECFUOGJDQ"
+        }
+      ]
+    },
+    {
+      "title": "英国音乐片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECAQO3LYY"
+        }
+      ]
+    },
+    {
+      "title": "英国悬疑片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "EC5YPE3OI"
+        }
+      ]
+    },
+    {
+      "title": "英国爱情片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECHAO4AAQ"
+        }
+      ]
+    },
+    {
+      "title": "英国科幻片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "EC4UOZQ4Y"
+        }
+      ]
+    },
+    {
+      "title": "英国惊悚片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECU4O6QYQ"
+        }
+      ]
+    },
+    {
+      "title": "英国战争片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECVIOP57A"
+        }
+      ]
+    }
+  ]
+}

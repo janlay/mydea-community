@@ -1,0 +1,1027 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "title": "골든 글로브상",
+  "author": "Mydea",
+  "server": "TMDB",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "description": "골든 글로브상",
+  "items": [
+    {
+      "id": "golden-globes-foreign-2026-the-secret-agent",
+      "mediaType": "movie",
+      "title": "시크릿 에이전트",
+      "englishTitle": "The Secret Agent",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt27847051"
+      },
+      "awardYear": 2026,
+      "winner": "시크릿 에이전트",
+      "award": "비영어권 영화상",
+      "awardOrder": 4
+    },
+    {
+      "id": "golden-globes-boxoffice-2026-sinners",
+      "mediaType": "movie",
+      "title": "씨너스: 죄인들",
+      "englishTitle": "Sinners",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31193180"
+      },
+      "awardYear": 2026,
+      "winner": "씨너스: 죄인들",
+      "award": "시네마틱 및 박스오피스 성취상",
+      "awardOrder": 5
+    },
+    {
+      "id": "golden-globes-animated-2026-kpop-demon-hunters",
+      "mediaType": "movie",
+      "title": "케이팝 데몬 헌터스",
+      "englishTitle": "KPop Demon Hunters",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt14205554"
+      },
+      "awardYear": 2026,
+      "winner": "케이팝 데몬 헌터스",
+      "award": "애니메이션 영화상",
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-globes-drama-2026-hamnet",
+      "mediaType": "movie",
+      "title": "햄넷",
+      "englishTitle": "Hamnet",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt14905854"
+      },
+      "awardYear": 2026,
+      "winner": "햄넷",
+      "award": "작품상 드라마",
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-globes-comedy-2026-one-battle-after-another",
+      "mediaType": "movie",
+      "title": "원 배틀 애프터 어나더",
+      "englishTitle": "One Battle After Another",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt30144839"
+      },
+      "awardYear": 2026,
+      "winner": "원 배틀 애프터 어나더",
+      "award": "작품상 뮤지컬·코미디",
+      "awardOrder": 2
+    },
+    {
+      "id": "golden-globes-foreign-2025-emilia-perez",
+      "mediaType": "movie",
+      "title": "에밀리아 페레즈",
+      "englishTitle": "Emilia Pérez",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt20221436"
+      },
+      "awardYear": 2025,
+      "winner": "에밀리아 페레즈",
+      "award": "비영어권 영화상",
+      "awardOrder": 4
+    },
+    {
+      "id": "golden-globes-boxoffice-2025-wicked",
+      "mediaType": "movie",
+      "title": "위키드",
+      "englishTitle": "Wicked",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt1262426"
+      },
+      "awardYear": 2025,
+      "winner": "위키드",
+      "award": "시네마틱 및 박스오피스 성취상",
+      "awardOrder": 5
+    },
+    {
+      "id": "golden-globes-animated-2025-flow",
+      "mediaType": "movie",
+      "title": "플로우",
+      "englishTitle": "Flow",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt4772188"
+      },
+      "awardYear": 2025,
+      "winner": "플로우",
+      "award": "애니메이션 영화상",
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-globes-drama-2025-the-brutalist",
+      "mediaType": "movie",
+      "title": "브루탈리스트",
+      "englishTitle": "The Brutalist",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt8999762"
+      },
+      "awardYear": 2025,
+      "winner": "브루탈리스트",
+      "award": "작품상 드라마",
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-globes-comedy-2025-emilia-perez",
+      "mediaType": "movie",
+      "title": "에밀리아 페레즈",
+      "englishTitle": "Emilia Pérez",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt20221436"
+      },
+      "awardYear": 2025,
+      "winner": "에밀리아 페레즈",
+      "award": "작품상 뮤지컬·코미디",
+      "awardOrder": 2
+    },
+    {
+      "id": "golden-globes-foreign-2024-anatomy-of-a-fall",
+      "mediaType": "movie",
+      "title": "추락의 해부",
+      "englishTitle": "Anatomy of a Fall",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt17009710"
+      },
+      "awardYear": 2024,
+      "winner": "추락의 해부",
+      "award": "비영어권 영화상",
+      "awardOrder": 4
+    },
+    {
+      "id": "golden-globes-boxoffice-2024-barbie",
+      "mediaType": "movie",
+      "title": "바비",
+      "englishTitle": "Barbie",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt1517268"
+      },
+      "awardYear": 2024,
+      "winner": "바비",
+      "award": "시네마틱 및 박스오피스 성취상",
+      "awardOrder": 5
+    },
+    {
+      "id": "golden-globes-animated-2024-the-boy-and-the-heron",
+      "mediaType": "movie",
+      "title": "그대들은 어떻게 살 것인가",
+      "englishTitle": "The Boy and the Heron",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt6587046"
+      },
+      "awardYear": 2024,
+      "winner": "그대들은 어떻게 살 것인가",
+      "award": "애니메이션 영화상",
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-globes-drama-2024-oppenheimer",
+      "mediaType": "movie",
+      "title": "오펜하이머",
+      "englishTitle": "Oppenheimer",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt15398776"
+      },
+      "awardYear": 2024,
+      "winner": "오펜하이머",
+      "award": "작품상 드라마",
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-globes-comedy-2024-poor-things",
+      "mediaType": "movie",
+      "title": "가여운 것들",
+      "englishTitle": "Poor Things",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt14230458"
+      },
+      "awardYear": 2024,
+      "winner": "가여운 것들",
+      "award": "작품상 뮤지컬·코미디",
+      "awardOrder": 2
+    },
+    {
+      "id": "golden-globes-foreign-2023-argentina-1985",
+      "mediaType": "movie",
+      "title": "아르헨티나, 1985",
+      "englishTitle": "Argentina, 1985",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt15301048"
+      },
+      "awardYear": 2023,
+      "winner": "아르헨티나, 1985",
+      "award": "비영어권 영화상",
+      "awardOrder": 4
+    },
+    {
+      "id": "golden-globes-animated-2023-guillermo-del-toro-s-pinocchio",
+      "mediaType": "movie",
+      "title": "기예르모 델토로의 피노키오",
+      "englishTitle": "Guillermo del Toro's Pinocchio",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt1488589"
+      },
+      "awardYear": 2023,
+      "winner": "기예르모 델토로의 피노키오",
+      "award": "애니메이션 영화상",
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-globes-drama-2023-the-fabelmans",
+      "mediaType": "movie",
+      "title": "파벨만스",
+      "englishTitle": "The Fabelmans",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt14208870"
+      },
+      "awardYear": 2023,
+      "winner": "파벨만스",
+      "award": "작품상 드라마",
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-globes-comedy-2023-the-banshees-of-inisherin",
+      "mediaType": "movie",
+      "title": "이니셰린의 밴시",
+      "englishTitle": "The Banshees of Inisherin",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt11813216"
+      },
+      "awardYear": 2023,
+      "winner": "이니셰린의 밴시",
+      "award": "작품상 뮤지컬·코미디",
+      "awardOrder": 2
+    },
+    {
+      "id": "golden-globes-foreign-2022-drive-my-car",
+      "mediaType": "movie",
+      "title": "드라이브 마이 카",
+      "englishTitle": "Drive My Car",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14039582"
+      },
+      "awardYear": 2022,
+      "winner": "드라이브 마이 카",
+      "award": "비영어권 영화상",
+      "awardOrder": 4
+    },
+    {
+      "id": "golden-globes-animated-2022-encanto",
+      "mediaType": "movie",
+      "title": "엔칸토: 마법의 세계",
+      "englishTitle": "Encanto",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt2953050"
+      },
+      "awardYear": 2022,
+      "winner": "엔칸토: 마법의 세계",
+      "award": "애니메이션 영화상",
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-globes-drama-2022-the-power-of-the-dog",
+      "mediaType": "movie",
+      "title": "파워 오브 도그",
+      "englishTitle": "The Power of the Dog",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt10293406"
+      },
+      "awardYear": 2022,
+      "winner": "파워 오브 도그",
+      "award": "작품상 드라마",
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-globes-comedy-2022-west-side-story",
+      "mediaType": "movie",
+      "title": "웨스트 사이드 스토리",
+      "englishTitle": "West Side Story",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt3581652"
+      },
+      "awardYear": 2022,
+      "winner": "웨스트 사이드 스토리",
+      "award": "작품상 뮤지컬·코미디",
+      "awardOrder": 2
+    },
+    {
+      "id": "golden-globes-foreign-2021-minari",
+      "mediaType": "movie",
+      "title": "미나리",
+      "englishTitle": "Minari",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10633456"
+      },
+      "awardYear": 2021,
+      "winner": "미나리",
+      "award": "비영어권 영화상",
+      "awardOrder": 4
+    },
+    {
+      "id": "golden-globes-animated-2021-soul",
+      "mediaType": "movie",
+      "title": "소울",
+      "englishTitle": "Soul",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt2948372"
+      },
+      "awardYear": 2021,
+      "winner": "소울",
+      "award": "애니메이션 영화상",
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-globes-drama-2021-nomadland",
+      "mediaType": "movie",
+      "title": "노매드랜드",
+      "englishTitle": "Nomadland",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt9770150"
+      },
+      "awardYear": 2021,
+      "winner": "노매드랜드",
+      "award": "작품상 드라마",
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-globes-comedy-2021-borat-subsequent-moviefilm",
+      "mediaType": "movie",
+      "title": "Borat Subsequent Moviefilm",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt13143964"
+      },
+      "awardYear": 2021,
+      "winner": "Borat Subsequent Moviefilm",
+      "award": "작품상 뮤지컬·코미디",
+      "awardOrder": 2
+    },
+    {
+      "id": "golden-globes-foreign-2020-parasite",
+      "mediaType": "movie",
+      "title": "기생충",
+      "englishTitle": "Parasite",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6751668"
+      },
+      "awardYear": 2020,
+      "winner": "기생충",
+      "award": "비영어권 영화상",
+      "awardOrder": 4
+    },
+    {
+      "id": "golden-globes-animated-2020-missing-link",
+      "mediaType": "movie",
+      "title": "Missing Link",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6348138"
+      },
+      "awardYear": 2020,
+      "winner": "Missing Link",
+      "award": "애니메이션 영화상",
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-globes-drama-2020-1917",
+      "mediaType": "movie",
+      "title": "1917",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt8579674"
+      },
+      "awardYear": 2020,
+      "winner": "1917",
+      "award": "작품상 드라마",
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-globes-comedy-2020-once-upon-a-time-in-hollywood",
+      "mediaType": "movie",
+      "title": "원스 어폰 어 타임 인… 할리우드",
+      "englishTitle": "Once Upon a Time... in Hollywood",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt7131622"
+      },
+      "awardYear": 2020,
+      "winner": "원스 어폰 어 타임... 인 할리우드",
+      "award": "작품상 뮤지컬·코미디",
+      "awardOrder": 2
+    },
+    {
+      "id": "golden-globes-foreign-2019-roma",
+      "mediaType": "movie",
+      "title": "로마",
+      "englishTitle": "Roma",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt6155172"
+      },
+      "awardYear": 2019,
+      "winner": "로마",
+      "award": "비영어권 영화상",
+      "awardOrder": 4
+    },
+    {
+      "id": "golden-globes-animated-2019-spider-man-into-the-spider-verse",
+      "mediaType": "movie",
+      "title": "스파이더맨: 뉴 유니버스",
+      "englishTitle": "Spider-Man: Into the Spider-Verse",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt4633694"
+      },
+      "awardYear": 2019,
+      "winner": "스파이더맨: 뉴 유니버스",
+      "award": "애니메이션 영화상",
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-globes-drama-2019-bohemian-rhapsody",
+      "mediaType": "movie",
+      "title": "보헤미안 랩소디",
+      "englishTitle": "Bohemian Rhapsody",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt1727824"
+      },
+      "awardYear": 2019,
+      "winner": "보헤미안 랩소디",
+      "award": "작품상 드라마",
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-globes-comedy-2019-green-book",
+      "mediaType": "movie",
+      "title": "그린 북",
+      "englishTitle": "Green Book",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt6966692"
+      },
+      "awardYear": 2019,
+      "winner": "그린 북",
+      "award": "작품상 뮤지컬·코미디",
+      "awardOrder": 2
+    },
+    {
+      "id": "golden-globes-foreign-2018-in-the-fade",
+      "mediaType": "movie",
+      "title": "심판",
+      "englishTitle": "In the Fade",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5723272"
+      },
+      "awardYear": 2018,
+      "winner": "인 더 페이드",
+      "award": "비영어권 영화상",
+      "awardOrder": 4
+    },
+    {
+      "id": "golden-globes-animated-2018-coco",
+      "mediaType": "movie",
+      "title": "코코",
+      "englishTitle": "Coco",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt2380307"
+      },
+      "awardYear": 2018,
+      "winner": "코코",
+      "award": "애니메이션 영화상",
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-globes-drama-2018-three-billboards-outside-ebbing-missouri",
+      "mediaType": "movie",
+      "title": "쓰리 빌보드",
+      "englishTitle": "Three Billboards Outside Ebbing, Missouri",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5027774"
+      },
+      "awardYear": 2018,
+      "winner": "쓰리 빌보드",
+      "award": "작품상 드라마",
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-globes-comedy-2018-lady-bird",
+      "mediaType": "movie",
+      "title": "레이디 버드",
+      "englishTitle": "Lady Bird",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt4925292"
+      },
+      "awardYear": 2018,
+      "winner": "레이디 버드",
+      "award": "작품상 뮤지컬·코미디",
+      "awardOrder": 2
+    },
+    {
+      "id": "golden-globes-foreign-2017-elle",
+      "mediaType": "movie",
+      "title": "엘르",
+      "englishTitle": "Elle",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt3716530"
+      },
+      "awardYear": 2017,
+      "winner": "엘르",
+      "award": "비영어권 영화상",
+      "awardOrder": 4
+    },
+    {
+      "id": "golden-globes-animated-2017-zootopia",
+      "mediaType": "movie",
+      "title": "주토피아",
+      "englishTitle": "Zootopia",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt2948356"
+      },
+      "awardYear": 2017,
+      "winner": "주토피아",
+      "award": "애니메이션 영화상",
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-globes-drama-2017-moonlight",
+      "mediaType": "movie",
+      "title": "문라이트",
+      "englishTitle": "Moonlight",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4975722"
+      },
+      "awardYear": 2017,
+      "winner": "문라이트",
+      "award": "작품상 드라마",
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-globes-comedy-2017-la-la-land",
+      "mediaType": "movie",
+      "title": "라라랜드",
+      "englishTitle": "La La Land",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt3783958"
+      },
+      "awardYear": 2017,
+      "winner": "라라랜드",
+      "award": "작품상 뮤지컬·코미디",
+      "awardOrder": 2
+    },
+    {
+      "id": "golden-globes-tv_drama-2026-the-pitt",
+      "mediaType": "tv",
+      "title": "더 피트",
+      "englishTitle": "The Pitt",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31938062"
+      },
+      "awardYear": 2026,
+      "winner": "더 피트",
+      "award": "TV 드라마 작품상",
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-globes-tv_comedy-2026-the-studio",
+      "mediaType": "tv",
+      "title": "더 스튜디오",
+      "englishTitle": "The Studio",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt23649128"
+      },
+      "awardYear": 2026,
+      "winner": "더 스튜디오",
+      "award": "TV 뮤지컬·코미디 작품상",
+      "awardOrder": 2
+    },
+    {
+      "id": "golden-globes-limited-2026-adolescence",
+      "mediaType": "tv",
+      "title": "소년의 시간",
+      "englishTitle": "Adolescence",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31806037"
+      },
+      "awardYear": 2026,
+      "winner": "소년의 시간",
+      "award": "리미티드 시리즈·앤솔러지·TV 영화상",
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-globes-tv_drama-2025-shogun",
+      "mediaType": "tv",
+      "title": "쇼군",
+      "englishTitle": "Shōgun",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt2788316"
+      },
+      "awardYear": 2025,
+      "winner": "쇼군",
+      "award": "TV 드라마 작품상",
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-globes-tv_comedy-2025-hacks",
+      "mediaType": "tv",
+      "title": "나의 직장상사는 코미디언",
+      "englishTitle": "Hacks",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt11815682"
+      },
+      "awardYear": 2025,
+      "winner": "핵스",
+      "award": "TV 뮤지컬·코미디 작품상",
+      "awardOrder": 2
+    },
+    {
+      "id": "golden-globes-limited-2025-baby-reindeer",
+      "mediaType": "tv",
+      "title": "베이비 레인디어",
+      "englishTitle": "Baby Reindeer",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt13649112"
+      },
+      "awardYear": 2025,
+      "winner": "베이비 레인디어",
+      "award": "리미티드 시리즈·앤솔러지·TV 영화상",
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-globes-tv_drama-2024-succession",
+      "mediaType": "tv",
+      "title": "석세션",
+      "englishTitle": "Succession",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7660850"
+      },
+      "awardYear": 2024,
+      "winner": "석세션",
+      "award": "TV 드라마 작품상",
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-globes-tv_comedy-2024-the-bear",
+      "mediaType": "tv",
+      "title": "더 베어",
+      "englishTitle": "The Bear",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt14452776"
+      },
+      "awardYear": 2024,
+      "winner": "더 베어",
+      "award": "TV 뮤지컬·코미디 작품상",
+      "awardOrder": 2
+    },
+    {
+      "id": "golden-globes-limited-2024-beef",
+      "mediaType": "tv",
+      "title": "성난 사람들",
+      "englishTitle": "Beef",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt14403178"
+      },
+      "awardYear": 2024,
+      "winner": "성난 사람들",
+      "award": "리미티드 시리즈·앤솔러지·TV 영화상",
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-globes-tv_drama-2023-house-of-the-dragon",
+      "mediaType": "tv",
+      "title": "하우스 오브 드래곤",
+      "englishTitle": "House of the Dragon",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt11198330"
+      },
+      "awardYear": 2023,
+      "winner": "하우스 오브 드래곤",
+      "award": "TV 드라마 작품상",
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-globes-tv_comedy-2023-abbott-elementary",
+      "mediaType": "tv",
+      "title": "애봇 초등학교",
+      "englishTitle": "Abbott Elementary",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14218830"
+      },
+      "awardYear": 2023,
+      "winner": "애봇 초등학교",
+      "award": "TV 뮤지컬·코미디 작품상",
+      "awardOrder": 2
+    },
+    {
+      "id": "golden-globes-limited-2023-the-white-lotus",
+      "mediaType": "tv",
+      "title": "화이트 로투스",
+      "englishTitle": "The White Lotus",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt13406094"
+      },
+      "awardYear": 2023,
+      "winner": "화이트 로투스",
+      "award": "리미티드 시리즈·앤솔러지·TV 영화상",
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-globes-tv_drama-2022-succession",
+      "mediaType": "tv",
+      "title": "석세션",
+      "englishTitle": "Succession",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7660850"
+      },
+      "awardYear": 2022,
+      "winner": "석세션",
+      "award": "TV 드라마 작품상",
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-globes-tv_comedy-2022-hacks",
+      "mediaType": "tv",
+      "title": "나의 직장상사는 코미디언",
+      "englishTitle": "Hacks",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt11815682"
+      },
+      "awardYear": 2022,
+      "winner": "핵스",
+      "award": "TV 뮤지컬·코미디 작품상",
+      "awardOrder": 2
+    },
+    {
+      "id": "golden-globes-limited-2022-the-underground-railroad",
+      "mediaType": "tv",
+      "title": "The Underground Railroad",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt6704972"
+      },
+      "awardYear": 2022,
+      "winner": "The Underground Railroad",
+      "award": "리미티드 시리즈·앤솔러지·TV 영화상",
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-globes-tv_drama-2021-the-crown",
+      "mediaType": "tv",
+      "title": "더 크라운",
+      "englishTitle": "The Crown",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4786824"
+      },
+      "awardYear": 2021,
+      "winner": "더 크라운",
+      "award": "TV 드라마 작품상",
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-globes-tv_comedy-2021-schitt-s-creek",
+      "mediaType": "tv",
+      "title": "시트 크릭 패밀리",
+      "englishTitle": "Schitt's Creek",
+      "releaseDate": "2015",
+      "externalIds": {
+        "imdb": "tt3526078"
+      },
+      "awardYear": 2021,
+      "winner": "시트 크릭 패밀리",
+      "award": "TV 뮤지컬·코미디 작품상",
+      "awardOrder": 2
+    },
+    {
+      "id": "golden-globes-limited-2021-the-queen-s-gambit",
+      "mediaType": "tv",
+      "title": "퀸스 갬빗",
+      "englishTitle": "The Queen's Gambit",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10048342"
+      },
+      "awardYear": 2021,
+      "winner": "퀸스 갬빗",
+      "award": "리미티드 시리즈·앤솔러지·TV 영화상",
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-globes-tv_drama-2020-succession",
+      "mediaType": "tv",
+      "title": "석세션",
+      "englishTitle": "Succession",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7660850"
+      },
+      "awardYear": 2020,
+      "winner": "석세션",
+      "award": "TV 드라마 작품상",
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-globes-tv_comedy-2020-fleabag",
+      "mediaType": "tv",
+      "title": "플리백",
+      "englishTitle": "Fleabag",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5687612"
+      },
+      "awardYear": 2020,
+      "winner": "플리백",
+      "award": "TV 뮤지컬·코미디 작품상",
+      "awardOrder": 2
+    },
+    {
+      "id": "golden-globes-limited-2020-chernobyl",
+      "mediaType": "tv",
+      "title": "체르노빌",
+      "englishTitle": "Chernobyl",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt7366338"
+      },
+      "awardYear": 2020,
+      "winner": "체르노빌",
+      "award": "리미티드 시리즈·앤솔러지·TV 영화상",
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-globes-tv_drama-2019-bodyguard",
+      "mediaType": "tv",
+      "title": "보디가드",
+      "englishTitle": "Bodyguard",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7493974"
+      },
+      "awardYear": 2019,
+      "winner": "보디가드",
+      "award": "TV 드라마 작품상",
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-globes-tv_comedy-2019-the-kominsky-method",
+      "mediaType": "tv",
+      "title": "코민스키 메소드",
+      "englishTitle": "The Kominsky Method",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7255502"
+      },
+      "awardYear": 2019,
+      "winner": "코민스키 메소드",
+      "award": "TV 뮤지컬·코미디 작품상",
+      "awardOrder": 2
+    },
+    {
+      "id": "golden-globes-limited-2019-the-assassination-of-gianni-versace-american-crime-story",
+      "mediaType": "tv",
+      "title": "아메리칸 크라임 스토리",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt2788432"
+      },
+      "awardYear": 2019,
+      "winner": "The Assassination of Gianni Versace: American Crime Story",
+      "award": "리미티드 시리즈·앤솔러지·TV 영화상",
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-globes-tv_drama-2018-the-handmaid-s-tale",
+      "mediaType": "tv",
+      "title": "핸드메이즈 테일",
+      "englishTitle": "The Handmaid's Tale",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5834204"
+      },
+      "awardYear": 2018,
+      "winner": "핸드메이즈 테일",
+      "award": "TV 드라마 작품상",
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-globes-tv_comedy-2018-the-marvelous-mrs-maisel",
+      "mediaType": "tv",
+      "title": "마블러스 미세스 메이즐",
+      "englishTitle": "The Marvelous Mrs. Maisel",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5788792"
+      },
+      "awardYear": 2018,
+      "winner": "마블러스 미세스 메이즐",
+      "award": "TV 뮤지컬·코미디 작품상",
+      "awardOrder": 2
+    },
+    {
+      "id": "golden-globes-limited-2018-big-little-lies",
+      "mediaType": "tv",
+      "title": "빅 리틀 라이즈",
+      "englishTitle": "Big Little Lies",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt3920596"
+      },
+      "awardYear": 2018,
+      "winner": "빅 리틀 라이즈",
+      "award": "리미티드 시리즈·앤솔러지·TV 영화상",
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-globes-tv_drama-2017-the-crown",
+      "mediaType": "tv",
+      "title": "더 크라운",
+      "englishTitle": "The Crown",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4786824"
+      },
+      "awardYear": 2017,
+      "winner": "더 크라운",
+      "award": "TV 드라마 작품상",
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-globes-tv_comedy-2017-atlanta",
+      "mediaType": "tv",
+      "title": "애틀랜타",
+      "englishTitle": "Atlanta",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4288182"
+      },
+      "awardYear": 2017,
+      "winner": "애틀랜타",
+      "award": "TV 뮤지컬·코미디 작품상",
+      "awardOrder": 2
+    },
+    {
+      "id": "golden-globes-limited-2017-the-people-v-o-j-simpson-american-crime-story",
+      "mediaType": "tv",
+      "title": "아메리칸 크라임 스토리",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt2788432"
+      },
+      "awardYear": 2017,
+      "winner": "The People v. O. J. Simpson: American Crime Story",
+      "award": "리미티드 시리즈·앤솔러지·TV 영화상",
+      "awardOrder": 3
+    }
+  ]
+}

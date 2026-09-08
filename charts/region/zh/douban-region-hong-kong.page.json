@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "icon": "chart.bar",
+  "title": "豆瓣中国香港类型片",
+  "description": "豆瓣中国香港各类型片榜单，涵盖 6 个类型。",
+  "tags": [
+    "douban",
+    "chart",
+    "region",
+    "hong-kong"
+  ],
+  "sections": [
+    {
+      "title": "中国香港喜剧片",
+      "layout": "carousel",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECOYO2QPA"
+        }
+      ]
+    },
+    {
+      "title": "中国香港犯罪片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "EC3AOZZUY"
+        }
+      ]
+    },
+    {
+      "title": "中国香港奇幻片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECUUOJIFA"
+        }
+      ]
+    },
+    {
+      "title": "中国香港历史片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECPYOEZNY"
+        }
+      ]
+    },
+    {
+      "title": "中国香港悬疑片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECV4OU2WA"
+        }
+      ]
+    },
+    {
+      "title": "中国香港战争片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECO4OUYWI"
+        }
+      ]
+    }
+  ]
+}

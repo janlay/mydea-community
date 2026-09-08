@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "icon": "chart.bar",
+  "title": "音乐片榜单",
+  "description": "豆瓣音乐片榜单，涵盖 5 个国家和地区。",
+  "tags": [
+    "douban",
+    "chart",
+    "genre",
+    "music"
+  ],
+  "sections": [
+    {
+      "title": "欧洲音乐片",
+      "layout": "carousel",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECAQO25QI"
+        }
+      ]
+    },
+    {
+      "title": "美国音乐片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECUAOV5NA"
+        }
+      ]
+    },
+    {
+      "title": "日本音乐片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECFYORPYQ"
+        }
+      ]
+    },
+    {
+      "title": "英国音乐片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECAQO3LYY"
+        }
+      ]
+    },
+    {
+      "title": "法国音乐片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECYAORESI"
+        }
+      ]
+    }
+  ]
+}

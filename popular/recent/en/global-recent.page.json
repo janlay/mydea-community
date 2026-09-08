@@ -1,0 +1,173 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "icon": "flame",
+  "title": "Global Recent Hits",
+  "description": "Short-term charts that change week to week — box office, now playing, and this week's most-watched — from IMDb, TMDB, Trakt, Letterboxd, Rotten Tomatoes, and MDBList.",
+  "tags": [
+    "chart",
+    "popular",
+    "recent",
+    "global"
+  ],
+  "sections": [
+    {
+      "title": "IMDb — Most Popular Movies",
+      "description": "IMDb's MovieMeter: the movies drawing the most attention this week.",
+      "layout": "carousel",
+      "service": "imdb",
+      "query": "imdb_custom_list",
+      "params": [
+        {
+          "name": "chart_shortcut",
+          "value": "moviemeter"
+        },
+        {
+          "name": "list_url",
+          "value": "moviemeter"
+        }
+      ]
+    },
+    {
+      "title": "IMDb — Box Office (US)",
+      "description": "This weekend's top-grossing movies in US theaters.",
+      "layout": "grid",
+      "service": "imdb",
+      "query": "imdb_custom_list",
+      "params": [
+        {
+          "name": "chart_shortcut",
+          "value": "boxoffice"
+        },
+        {
+          "name": "list_url",
+          "value": "boxoffice"
+        }
+      ]
+    },
+    {
+      "title": "TMDB — Popular Movies",
+      "description": "Movies with the highest TMDB popularity right now.",
+      "layout": "grid",
+      "service": "tmdb",
+      "query": "tmdb_popular",
+      "params": [
+        {
+          "name": "media_type",
+          "value": "movie"
+        }
+      ]
+    },
+    {
+      "title": "TMDB — Now Playing",
+      "description": "Movies currently in US theaters.",
+      "layout": "grid",
+      "service": "tmdb",
+      "query": "tmdb_now_playing",
+      "params": [
+        {
+          "name": "region_shortcut",
+          "value": "US"
+        },
+        {
+          "name": "region",
+          "value": "US"
+        }
+      ]
+    },
+    {
+      "title": "Trakt — Most Watched This Week",
+      "description": "Movies watched by the most Trakt users this week.",
+      "layout": "grid",
+      "service": "trakt",
+      "query": "trakt_most_watched",
+      "params": [
+        {
+          "name": "media_type",
+          "value": "movies"
+        },
+        {
+          "name": "period",
+          "value": "weekly"
+        },
+        {
+          "name": "genre",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "title": "Trakt — Most Anticipated",
+      "description": "Upcoming movies the most Trakt users are waiting for.",
+      "layout": "grid",
+      "service": "trakt",
+      "query": "trakt_anticipated",
+      "params": [
+        {
+          "name": "media_type",
+          "value": "movies"
+        },
+        {
+          "name": "genre",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "title": "Letterboxd — Popular This Month",
+      "description": "Films logged most by the Letterboxd community this month.",
+      "layout": "grid",
+      "service": "letterboxd",
+      "query": "letterboxd_custom_list",
+      "params": [
+        {
+          "name": "list_shortcut",
+          "value": "this/month"
+        },
+        {
+          "name": "list_url",
+          "value": "this/month"
+        }
+      ]
+    },
+    {
+      "title": "Rotten Tomatoes — In Theaters",
+      "description": "Movies in theaters now, sorted by popularity.",
+      "layout": "grid",
+      "service": "rottentomatoes",
+      "query": "rotten_tomatoes_custom_list",
+      "params": [
+        {
+          "name": "list_shortcut",
+          "value": "https://www.rottentomatoes.com/browse/movies_in_theaters/sort:popular"
+        },
+        {
+          "name": "list_url",
+          "value": "https://www.rottentomatoes.com/browse/movies_in_theaters/sort:popular"
+        }
+      ]
+    },
+    {
+      "title": "MDBList — Streaming Charts",
+      "description": "Top movies across streaming platforms right now. Requires an MDBList API key configured in the service settings.",
+      "layout": "grid",
+      "service": "mdblist",
+      "query": "mdblist_official",
+      "params": [
+        {
+          "name": "official_shortcut",
+          "value": "streaming-charts"
+        },
+        {
+          "name": "official_slug",
+          "value": "streaming-charts"
+        },
+        {
+          "name": "official_mediatype",
+          "value": "movies"
+        }
+      ]
+    }
+  ]
+}

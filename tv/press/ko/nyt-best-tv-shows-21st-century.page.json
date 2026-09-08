@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "updatedAt": "2026-09-26T01:59:06Z",
+  "title": "뉴욕 타임스 — 21세기 최고의 TV 프로그램 100선",
+  "description": "뉴욕 타임스가 선정한 21세기 최고의 TV 프로그램 100선. Top 10에 이어 전체 작품을 첫 방영 연대별로 최신순으로 묶었습니다.",
+  "tags": [
+    "press",
+    "tv",
+    "nytimes"
+  ],
+  "icon": "tv",
+  "sections": [
+    {
+      "title": "Top 10",
+      "layout": "carousel",
+      "limit": 10,
+      "filters": [
+        {
+          "id": "top10-rank-lt-11",
+          "targetType": "show",
+          "field": "rank",
+          "fieldType": "number",
+          "operator": "lessThan",
+          "value": "11",
+          "isNegated": false
+        }
+      ],
+      "sortBy": [
+        [
+          "rank",
+          "asc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/press/ko/nyt-best-tv-shows-21st-century.list.json"
+        }
+      ],
+      "bindings": [
+        "Title with Year",
+        "ranking"
+      ]
+    },
+    {
+      "title": "첫 방영 연대별",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rank",
+          "asc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/press/ko/nyt-best-tv-shows-21st-century.list.json"
+        }
+      ],
+      "bindings": [
+        "Title with Year",
+        "ranking"
+      ],
+      "grouping": {
+        "field": "startYear",
+        "buckets": "2020,2010,,2000",
+        "label": "{start}년대"
+      }
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "icon": "chart.bar",
+  "title": "豆瓣澳大利亚类型片",
+  "description": "豆瓣澳大利亚各类型片榜单，涵盖 9 个类型。",
+  "tags": [
+    "douban",
+    "chart",
+    "region",
+    "australia"
+  ],
+  "sections": [
+    {
+      "title": "澳大利亚动作片",
+      "layout": "carousel",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "EC4QPALEI"
+        }
+      ]
+    },
+    {
+      "title": "澳大利亚冒险片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECFIOR3MY"
+        }
+      ]
+    },
+    {
+      "title": "澳大利亚喜剧片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECKMOXL6Q"
+        }
+      ]
+    },
+    {
+      "title": "澳大利亚犯罪片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECEMOZ6DI"
+        }
+      ]
+    },
+    {
+      "title": "澳大利亚恐怖片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECFYOIWBQ"
+        }
+      ]
+    },
+    {
+      "title": "澳大利亚悬疑片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECIMOWR2I"
+        }
+      ]
+    },
+    {
+      "title": "澳大利亚爱情片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECOUOXYUA"
+        }
+      ]
+    },
+    {
+      "title": "澳大利亚科幻片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECTAOXLWQ"
+        }
+      ]
+    },
+    {
+      "title": "澳大利亚惊悚片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "EC7QPFMYA"
+        }
+      ]
+    }
+  ]
+}

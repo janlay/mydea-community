@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "icon": "chart.bar",
+  "title": "歌舞片榜单",
+  "description": "豆瓣歌舞片榜单，涵盖 2 个国家和地区。",
+  "tags": [
+    "douban",
+    "chart",
+    "genre",
+    "musical"
+  ],
+  "sections": [
+    {
+      "title": "欧洲歌舞片",
+      "layout": "carousel",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "EC3QOS5MA"
+        }
+      ]
+    },
+    {
+      "title": "美国歌舞片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECYQOXMSA"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "icon": "chart.bar",
+  "title": "Global Top TV Shows",
+  "description": "Long-running, stable TV rankings built from years of ratings and viewing data — not day-to-day popularity swings.",
+  "tags": [
+    "chart",
+    "top",
+    "global",
+    "tv"
+  ],
+  "sections": [
+    {
+      "title": "IMDb Top 250 TV Shows",
+      "description": "IMDb's Top 250 TV shows, ranked by weighted user rating.",
+      "layout": "carousel",
+      "service": "imdb",
+      "query": "imdb_custom_list",
+      "params": [
+        {
+          "name": "chart_shortcut",
+          "value": "toptv"
+        },
+        {
+          "name": "list_url",
+          "value": "toptv"
+        }
+      ]
+    }
+  ]
+}

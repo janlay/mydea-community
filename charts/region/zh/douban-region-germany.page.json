@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "icon": "chart.bar",
+  "title": "豆瓣德国类型片",
+  "description": "豆瓣德国各类型片榜单，涵盖 12 个类型。",
+  "tags": [
+    "douban",
+    "chart",
+    "region",
+    "germany"
+  ],
+  "sections": [
+    {
+      "title": "德国动作片",
+      "layout": "carousel",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "EC7AOW57Q"
+        }
+      ]
+    },
+    {
+      "title": "德国冒险片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECMYOXC2Y"
+        }
+      ]
+    },
+    {
+      "title": "德国传记片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECAYOFADY"
+        }
+      ]
+    },
+    {
+      "title": "德国喜剧片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECFQO5B4A"
+        }
+      ]
+    },
+    {
+      "title": "德国犯罪片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECVAPBWRI"
+        }
+      ]
+    },
+    {
+      "title": "德国奇幻片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "EC4YOCBLQ"
+        }
+      ]
+    },
+    {
+      "title": "德国历史片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECNQODGKI"
+        }
+      ]
+    },
+    {
+      "title": "德国悬疑片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECZQO7KSQ"
+        }
+      ]
+    },
+    {
+      "title": "德国爱情片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECNIOS7EQ"
+        }
+      ]
+    },
+    {
+      "title": "德国科幻片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECOUO2ETY"
+        }
+      ]
+    },
+    {
+      "title": "德国惊悚片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECJIPH4JA"
+        }
+      ]
+    },
+    {
+      "title": "德国战争片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECV4OGCIA"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "icon": "chart.bar",
+  "title": "豆瓣日本类型片",
+  "description": "豆瓣日本各类型片榜单，涵盖 15 个类型。",
+  "tags": [
+    "douban",
+    "chart",
+    "region",
+    "japan"
+  ],
+  "sections": [
+    {
+      "title": "日本动作片",
+      "layout": "carousel",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECBAPBW2Y"
+        }
+      ]
+    },
+    {
+      "title": "日本冒险片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECOUOVT2Q"
+        }
+      ]
+    },
+    {
+      "title": "日本动画片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECLYO6JQQ"
+        }
+      ]
+    },
+    {
+      "title": "日本喜剧片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECFIOT7JA"
+        }
+      ]
+    },
+    {
+      "title": "日本犯罪片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECVUO43DY"
+        }
+      ]
+    },
+    {
+      "title": "日本情色片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECLUOK4TA"
+        }
+      ]
+    },
+    {
+      "title": "日本奇幻片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECEIOJZTQ"
+        }
+      ]
+    },
+    {
+      "title": "日本历史片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "EC54OCODY"
+        }
+      ]
+    },
+    {
+      "title": "日本恐怖片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "EC6QOMMWY"
+        }
+      ]
+    },
+    {
+      "title": "日本音乐片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECFYORPYQ"
+        }
+      ]
+    },
+    {
+      "title": "日本悬疑片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECVYOVDIA"
+        }
+      ]
+    },
+    {
+      "title": "日本爱情片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECKMOVF3Y"
+        }
+      ]
+    },
+    {
+      "title": "日本科幻片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECSYOV6GY"
+        }
+      ]
+    },
+    {
+      "title": "日本惊悚片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECFUO25PI"
+        }
+      ]
+    },
+    {
+      "title": "日本战争片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECFYOK3AQ"
+        }
+      ]
+    }
+  ]
+}

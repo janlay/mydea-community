@@ -1,0 +1,124 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "icon": "chart.bar",
+  "title": "豆瓣意大利类型片",
+  "description": "豆瓣意大利各类型片榜单，涵盖 9 个类型。",
+  "tags": [
+    "douban",
+    "chart",
+    "region",
+    "italy"
+  ],
+  "sections": [
+    {
+      "title": "意大利传记片",
+      "layout": "carousel",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECLEOKFFQ"
+        }
+      ]
+    },
+    {
+      "title": "意大利喜剧片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECREOTSEI"
+        }
+      ]
+    },
+    {
+      "title": "意大利犯罪片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECRMO4X7I"
+        }
+      ]
+    },
+    {
+      "title": "意大利情色片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECM4OVMRY"
+        }
+      ]
+    },
+    {
+      "title": "意大利历史片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECL4OLRCY"
+        }
+      ]
+    },
+    {
+      "title": "意大利悬疑片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECVEO7MPI"
+        }
+      ]
+    },
+    {
+      "title": "意大利爱情片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "EC3UOSWUY"
+        }
+      ]
+    },
+    {
+      "title": "意大利惊悚片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "EC2QPBTHY"
+        }
+      ]
+    },
+    {
+      "title": "意大利战争片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECYUOU5TA"
+        }
+      ]
+    }
+  ]
+}
