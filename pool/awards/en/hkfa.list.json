@@ -1,0 +1,4268 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "title": "Hong Kong Film Awards",
+  "author": "Mydea",
+  "server": "TMDB",
+  "updatedAt": "2026-09-10T15:07:00Z",
+  "description": "Hong Kong Film Awards",
+  "items": [
+    {
+      "id": "hkfa-2026-best-actor-34610311",
+      "mediaType": "movie",
+      "title": "The Shadow's Edge",
+      "awardYear": 2026,
+      "winner": "梁家輝",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt34610311"
+      },
+      "award": "Best Actor",
+      "awardOrder": 4
+    },
+    {
+      "id": "hkfa-2026-best-actress-36217308",
+      "mediaType": "movie",
+      "title": "Someone Like Me",
+      "awardYear": 2026,
+      "winner": "廖子妤",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt36217308"
+      },
+      "award": "Best Actress",
+      "awardOrder": 5
+    },
+    {
+      "id": "hkfa-2026-best-director-14241008",
+      "mediaType": "movie",
+      "title": "Ciao UFO",
+      "awardYear": 2026,
+      "winner": "梁栢堅",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt14241008"
+      },
+      "award": "Best Director",
+      "awardOrder": 2
+    },
+    {
+      "id": "hkfa-2026-best-film-14241008",
+      "mediaType": "movie",
+      "title": "Ciao UFO",
+      "awardYear": 2026,
+      "winner": "Ciao UFO",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt14241008"
+      },
+      "originalTitle": "再見UFO",
+      "award": "Best Film",
+      "awardOrder": 1
+    },
+    {
+      "id": "hkfa-2026-best-new-performer-35683790",
+      "mediaType": "movie",
+      "title": "Girlfriends",
+      "awardYear": 2026,
+      "winner": "鄧濤",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt35683790"
+      },
+      "award": "Best New Performer",
+      "awardOrder": 8
+    },
+    {
+      "id": "hkfa-2026-best-screenplay-14241008",
+      "mediaType": "movie",
+      "title": "Ciao UFO",
+      "awardYear": 2026,
+      "winner": "江皓昕、錢小蕙",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt14241008"
+      },
+      "award": "Best Screenplay",
+      "awardOrder": 3
+    },
+    {
+      "id": "hkfa-2026-best-supporting-actor-4968738",
+      "mediaType": "movie",
+      "title": "Sons of the Neon Night",
+      "awardYear": 2026,
+      "winner": "杜德偉",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt4968738"
+      },
+      "award": "Best Supporting Actor",
+      "awardOrder": 6
+    },
+    {
+      "id": "hkfa-2026-best-supporting-actress-14241008",
+      "mediaType": "movie",
+      "title": "Ciao UFO",
+      "awardYear": 2026,
+      "winner": "衛詩雅",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt14241008"
+      },
+      "award": "Best Supporting Actress",
+      "awardOrder": 7
+    },
+    {
+      "id": "hkfa-2025-best-actor-33499985",
+      "mediaType": "movie",
+      "title": "Papa",
+      "awardYear": 2025,
+      "winner": "劉青雲",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt33499985"
+      },
+      "award": "Best Actor",
+      "awardOrder": 4
+    },
+    {
+      "id": "hkfa-2025-best-actress-31648020",
+      "mediaType": "movie",
+      "title": "The Last Dance",
+      "awardYear": 2025,
+      "winner": "衛詩雅",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt31648020"
+      },
+      "award": "Best Actress",
+      "awardOrder": 5
+    },
+    {
+      "id": "hkfa-2025-best-director-20316748",
+      "mediaType": "movie",
+      "title": "Twilight of the Warriors: Walled In",
+      "awardYear": 2025,
+      "winner": "鄭保瑞",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt20316748"
+      },
+      "award": "Best Director",
+      "awardOrder": 2
+    },
+    {
+      "id": "hkfa-2025-best-film-20316748",
+      "mediaType": "movie",
+      "title": "Twilight of the Warriors: Walled In",
+      "awardYear": 2025,
+      "winner": "Twilight of the Warriors: Walled In",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt20316748"
+      },
+      "originalTitle": "九龍城寨之圍城",
+      "award": "Best Film",
+      "awardOrder": 1
+    },
+    {
+      "id": "hkfa-2025-best-new-performer-33499985",
+      "mediaType": "movie",
+      "title": "Papa",
+      "awardYear": 2025,
+      "winner": "蘇文濤",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt33499985"
+      },
+      "award": "Best New Performer",
+      "awardOrder": 8
+    },
+    {
+      "id": "hkfa-2025-best-screenplay-31648020",
+      "mediaType": "movie",
+      "title": "The Last Dance",
+      "awardYear": 2025,
+      "winner": "陳茂賢、鄭緯機",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt31648020"
+      },
+      "award": "Best Screenplay",
+      "awardOrder": 3
+    },
+    {
+      "id": "hkfa-2025-best-supporting-actor-31648020",
+      "mediaType": "movie",
+      "title": "The Last Dance",
+      "awardYear": 2025,
+      "winner": "朱栢康",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt31648020"
+      },
+      "award": "Best Supporting Actor",
+      "awardOrder": 6
+    },
+    {
+      "id": "hkfa-2025-best-supporting-actress-33499985",
+      "mediaType": "movie",
+      "title": "Papa",
+      "awardYear": 2025,
+      "winner": "谷祖琳",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt33499985"
+      },
+      "award": "Best Supporting Actress",
+      "awardOrder": 7
+    },
+    {
+      "id": "hkfa-2024-best-actor-14099796",
+      "mediaType": "movie",
+      "title": "The Goldfinger",
+      "awardYear": 2024,
+      "winner": "梁朝偉",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt14099796"
+      },
+      "award": "Best Actor",
+      "awardOrder": 4
+    },
+    {
+      "id": "hkfa-2024-best-actress-27881515",
+      "mediaType": "movie",
+      "title": "In Broad Daylight",
+      "awardYear": 2024,
+      "winner": "余香凝",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt27881515"
+      },
+      "award": "Best Actress",
+      "awardOrder": 5
+    },
+    {
+      "id": "hkfa-2024-best-director-19856688",
+      "mediaType": "movie",
+      "title": "Mad Fate",
+      "awardYear": 2024,
+      "winner": "鄭保瑞",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt19856688"
+      },
+      "award": "Best Director",
+      "awardOrder": 2
+    },
+    {
+      "id": "hkfa-2024-best-film-25377462",
+      "mediaType": "movie",
+      "title": "A Guilty Conscience",
+      "awardYear": 2024,
+      "winner": "A Guilty Conscience",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt25377462"
+      },
+      "originalTitle": "毒舌大狀",
+      "award": "Best Film",
+      "awardOrder": 1
+    },
+    {
+      "id": "hkfa-2024-best-new-performer-27139786",
+      "mediaType": "movie",
+      "title": "Fly Me to the Moon",
+      "awardYear": 2024,
+      "winner": "謝咏欣",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt27139786"
+      },
+      "award": "Best New Performer",
+      "awardOrder": 8
+    },
+    {
+      "id": "hkfa-2024-best-screenplay-19856688",
+      "mediaType": "movie",
+      "title": "Mad Fate",
+      "awardYear": 2024,
+      "winner": "游乃海、李春暉",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt19856688"
+      },
+      "award": "Best Screenplay",
+      "awardOrder": 3
+    },
+    {
+      "id": "hkfa-2024-best-supporting-actor-27881515",
+      "mediaType": "movie",
+      "title": "In Broad Daylight",
+      "awardYear": 2024,
+      "winner": "姜大衞",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt27881515"
+      },
+      "award": "Best Supporting Actor",
+      "awardOrder": 6
+    },
+    {
+      "id": "hkfa-2024-best-supporting-actress-27881515",
+      "mediaType": "movie",
+      "title": "In Broad Daylight",
+      "awardYear": 2024,
+      "winner": "梁雍婷",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt27881515"
+      },
+      "award": "Best Supporting Actress",
+      "awardOrder": 7
+    },
+    {
+      "id": "hkfa-2023-best-actor-10283270",
+      "mediaType": "movie",
+      "title": "Detective vs. Sleuths",
+      "awardYear": 2023,
+      "winner": "劉青雲",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt10283270"
+      },
+      "award": "Best Actor",
+      "awardOrder": 4
+    },
+    {
+      "id": "hkfa-2023-best-actress-22397894",
+      "mediaType": "movie",
+      "title": "Lost Love",
+      "awardYear": 2023,
+      "winner": "鄭秀文",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt22397894"
+      },
+      "award": "Best Actress",
+      "awardOrder": 5
+    },
+    {
+      "id": "hkfa-2023-best-director-10283270",
+      "mediaType": "movie",
+      "title": "Detective vs. Sleuths",
+      "awardYear": 2023,
+      "winner": "韋家輝",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt10283270"
+      },
+      "award": "Best Director",
+      "awardOrder": 2
+    },
+    {
+      "id": "hkfa-2023-best-film-21867610",
+      "mediaType": "movie",
+      "title": "To My Nineteen-Year-Old Self",
+      "awardYear": 2023,
+      "winner": "To My Nineteen-Year-Old Self",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt21867610"
+      },
+      "originalTitle": "給十九歲的我",
+      "award": "Best Film",
+      "awardOrder": 1
+    },
+    {
+      "id": "hkfa-2023-best-new-performer-18280126",
+      "mediaType": "movie",
+      "title": "The Sunny Side of the Street",
+      "awardYear": 2023,
+      "winner": "林諾",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt18280126"
+      },
+      "award": "Best New Performer",
+      "awardOrder": 8
+    },
+    {
+      "id": "hkfa-2023-best-screenplay-10283270",
+      "mediaType": "movie",
+      "title": "Detective vs. Sleuths",
+      "awardYear": 2023,
+      "winner": "韋家輝、陳偉斌、麥天樞",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt10283270"
+      },
+      "award": "Best Screenplay",
+      "awardOrder": 3
+    },
+    {
+      "id": "hkfa-2023-best-supporting-actor-6902394",
+      "mediaType": "movie",
+      "title": "Where the Wind Blows",
+      "awardYear": 2023,
+      "winner": "許冠文",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt6902394"
+      },
+      "award": "Best Supporting Actor",
+      "awardOrder": 6
+    },
+    {
+      "id": "hkfa-2023-best-supporting-actress-21187542",
+      "mediaType": "movie",
+      "title": "Table for Six",
+      "awardYear": 2023,
+      "winner": "王菀之",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt21187542"
+      },
+      "award": "Best Supporting Actress",
+      "awardOrder": 7
+    },
+    {
+      "id": "hkfa-2022-best-actor-14713814",
+      "mediaType": "movie",
+      "title": "Time",
+      "awardYear": 2022,
+      "winner": "謝賢",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14713814"
+      },
+      "award": "Best Actor",
+      "awardOrder": 4
+    },
+    {
+      "id": "hkfa-2022-best-actress-14032696",
+      "mediaType": "movie",
+      "title": "Limbo",
+      "awardYear": 2022,
+      "winner": "劉雅瑟",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14032696"
+      },
+      "award": "Best Actress",
+      "awardOrder": 5
+    },
+    {
+      "id": "hkfa-2022-best-director-8165192",
+      "mediaType": "movie",
+      "title": "Raging Fire",
+      "awardYear": 2022,
+      "winner": "陳木勝",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt8165192"
+      },
+      "award": "Best Director",
+      "awardOrder": 2
+    },
+    {
+      "id": "hkfa-2022-best-film-8165192",
+      "mediaType": "movie",
+      "title": "Raging Fire",
+      "awardYear": 2022,
+      "winner": "Raging Fire",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt8165192"
+      },
+      "originalTitle": "怒火",
+      "award": "Best Film",
+      "awardOrder": 1
+    },
+    {
+      "id": "hkfa-2022-best-new-performer-15010590",
+      "mediaType": "movie",
+      "title": "Anita",
+      "awardYear": 2022,
+      "winner": "王丹妮",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt15010590"
+      },
+      "award": "Best New Performer",
+      "awardOrder": 8
+    },
+    {
+      "id": "hkfa-2022-best-screenplay-14032696",
+      "mediaType": "movie",
+      "title": "Limbo",
+      "awardYear": 2022,
+      "winner": "歐健兒、岑君茜",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14032696"
+      },
+      "award": "Best Screenplay",
+      "awardOrder": 3
+    },
+    {
+      "id": "hkfa-2022-best-supporting-actor-14892216",
+      "mediaType": "movie",
+      "title": "Zero to Hero",
+      "awardYear": 2022,
+      "winner": "馮皓揚",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14892216"
+      },
+      "award": "Best Supporting Actor",
+      "awardOrder": 6
+    },
+    {
+      "id": "hkfa-2022-best-supporting-actress-15010590",
+      "mediaType": "movie",
+      "title": "Anita",
+      "awardYear": 2022,
+      "winner": "廖子妤",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt15010590"
+      },
+      "award": "Best Supporting Actress",
+      "awardOrder": 7
+    },
+    {
+      "id": "hkfa-2020-best-actor-10975520",
+      "mediaType": "movie",
+      "title": "Twilight's Kiss",
+      "awardYear": 2020,
+      "winner": "太保",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10975520"
+      },
+      "award": "Best Actor",
+      "awardOrder": 4
+    },
+    {
+      "id": "hkfa-2020-best-actress-9586294",
+      "mediaType": "movie",
+      "title": "Better Days",
+      "awardYear": 2020,
+      "winner": "周冬雨",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt9586294"
+      },
+      "award": "Best Actress",
+      "awardOrder": 5
+    },
+    {
+      "id": "hkfa-2020-best-director-9586294",
+      "mediaType": "movie",
+      "title": "Better Days",
+      "awardYear": 2020,
+      "winner": "曾國祥",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt9586294"
+      },
+      "award": "Best Director",
+      "awardOrder": 2
+    },
+    {
+      "id": "hkfa-2020-best-film-9586294",
+      "mediaType": "movie",
+      "title": "Better Days",
+      "awardYear": 2020,
+      "winner": "Better Days",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt9586294"
+      },
+      "originalTitle": "少年的你",
+      "award": "Best Film",
+      "awardOrder": 1
+    },
+    {
+      "id": "hkfa-2020-best-new-performer-9586294",
+      "mediaType": "movie",
+      "title": "Better Days",
+      "awardYear": 2020,
+      "winner": "易烊千璽",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt9586294"
+      },
+      "award": "Best New Performer",
+      "awardOrder": 8
+    },
+    {
+      "id": "hkfa-2020-best-screenplay-9586294",
+      "mediaType": "movie",
+      "title": "Better Days",
+      "awardYear": 2020,
+      "winner": "林詠琛、李媛、許伊萌",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt9586294"
+      },
+      "award": "Best Screenplay",
+      "awardOrder": 3
+    },
+    {
+      "id": "hkfa-2020-best-supporting-actor-10117402",
+      "mediaType": "movie",
+      "title": "I'm Livin' It",
+      "awardYear": 2020,
+      "winner": "張達明",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10117402"
+      },
+      "award": "Best Supporting Actor",
+      "awardOrder": 6
+    },
+    {
+      "id": "hkfa-2020-best-supporting-actress-10975520",
+      "mediaType": "movie",
+      "title": "Twilight's Kiss",
+      "awardYear": 2020,
+      "winner": "區嘉雯",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10975520"
+      },
+      "award": "Best Supporting Actress",
+      "awardOrder": 7
+    },
+    {
+      "id": "hkfa-2019-best-actor-8497794",
+      "mediaType": "movie",
+      "title": "Still Human",
+      "awardYear": 2019,
+      "winner": "黃秋生",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8497794"
+      },
+      "award": "Best Actor",
+      "awardOrder": 4
+    },
+    {
+      "id": "hkfa-2019-best-actress-9076570",
+      "mediaType": "movie",
+      "title": "Three Husbands",
+      "awardYear": 2019,
+      "winner": "曾美慧孜",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt9076570"
+      },
+      "award": "Best Actress",
+      "awardOrder": 5
+    },
+    {
+      "id": "hkfa-2019-best-director-7183578",
+      "mediaType": "movie",
+      "title": "Project Gutenberg",
+      "awardYear": 2019,
+      "winner": "莊文強",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7183578"
+      },
+      "award": "Best Director",
+      "awardOrder": 2
+    },
+    {
+      "id": "hkfa-2019-best-film-7183578",
+      "mediaType": "movie",
+      "title": "Project Gutenberg",
+      "awardYear": 2019,
+      "winner": "Project Gutenberg",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7183578"
+      },
+      "originalTitle": "無雙",
+      "award": "Best Film",
+      "awardOrder": 1
+    },
+    {
+      "id": "hkfa-2019-best-new-performer-8497794",
+      "mediaType": "movie",
+      "title": "Still Human",
+      "awardYear": 2019,
+      "winner": "姬素·孔尚治",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8497794"
+      },
+      "award": "Best New Performer",
+      "awardOrder": 8
+    },
+    {
+      "id": "hkfa-2019-best-screenplay-7183578",
+      "mediaType": "movie",
+      "title": "Project Gutenberg",
+      "awardYear": 2019,
+      "winner": "莊文強",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7183578"
+      },
+      "award": "Best Screenplay",
+      "awardOrder": 3
+    },
+    {
+      "id": "hkfa-2019-best-supporting-actor-7762748",
+      "mediaType": "movie",
+      "title": "Tracey",
+      "awardYear": 2019,
+      "winner": "袁富華",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7762748"
+      },
+      "award": "Best Supporting Actor",
+      "awardOrder": 6
+    },
+    {
+      "id": "hkfa-2019-best-supporting-actress-7762748",
+      "mediaType": "movie",
+      "title": "Tracey",
+      "awardYear": 2019,
+      "winner": "惠英紅",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7762748"
+      },
+      "award": "Best Supporting Actress",
+      "awardOrder": 7
+    },
+    {
+      "id": "hkfa-2018-best-actor-7245176",
+      "mediaType": "movie",
+      "title": "Paradox",
+      "awardYear": 2018,
+      "winner": "古天樂",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7245176"
+      },
+      "award": "Best Actor",
+      "awardOrder": 4
+    },
+    {
+      "id": "hkfa-2018-best-actress-7875604",
+      "mediaType": "movie",
+      "title": "Tomorrow is Another Day",
+      "awardYear": 2018,
+      "winner": "毛舜筠",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7875604"
+      },
+      "award": "Best Actress",
+      "awardOrder": 5
+    },
+    {
+      "id": "hkfa-2018-best-director-7075594",
+      "mediaType": "movie",
+      "title": "Our Time Will Come",
+      "awardYear": 2018,
+      "winner": "許鞍華",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7075594"
+      },
+      "award": "Best Director",
+      "awardOrder": 2
+    },
+    {
+      "id": "hkfa-2018-best-film-7075594",
+      "mediaType": "movie",
+      "title": "Our Time Will Come",
+      "awardYear": 2018,
+      "winner": "Our Time Will Come",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7075594"
+      },
+      "originalTitle": "明月幾時有",
+      "award": "Best Film",
+      "awardOrder": 1
+    },
+    {
+      "id": "hkfa-2018-best-new-performer-7875604",
+      "mediaType": "movie",
+      "title": "Tomorrow is Another Day",
+      "awardYear": 2018,
+      "winner": "凌文龍",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7875604"
+      },
+      "award": "Best New Performer",
+      "awardOrder": 8
+    },
+    {
+      "id": "hkfa-2018-best-screenplay-7479718",
+      "mediaType": "movie",
+      "title": "Love Education",
+      "awardYear": 2018,
+      "winner": "張艾嘉、游曉穎",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7479718"
+      },
+      "award": "Best Screenplay",
+      "awardOrder": 3
+    },
+    {
+      "id": "hkfa-2018-best-supporting-actor-5847286",
+      "mediaType": "movie",
+      "title": "Shock Wave",
+      "awardYear": 2018,
+      "winner": "姜皓文",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5847286"
+      },
+      "award": "Best Supporting Actor",
+      "awardOrder": 6
+    },
+    {
+      "id": "hkfa-2018-best-supporting-actress-7075594",
+      "mediaType": "movie",
+      "title": "Our Time Will Come",
+      "awardYear": 2018,
+      "winner": "葉德嫻",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7075594"
+      },
+      "award": "Best Supporting Actress",
+      "awardOrder": 7
+    },
+    {
+      "id": "hkfa-2017-best-actor-4379800",
+      "mediaType": "movie",
+      "title": "Trivisa",
+      "awardYear": 2017,
+      "winner": "林家棟",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4379800"
+      },
+      "award": "Best Actor",
+      "awardOrder": 4
+    },
+    {
+      "id": "hkfa-2017-best-actress-5805026",
+      "mediaType": "movie",
+      "title": "Happiness",
+      "awardYear": 2017,
+      "winner": "惠英紅",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5805026"
+      },
+      "award": "Best Actress",
+      "awardOrder": 5
+    },
+    {
+      "id": "hkfa-2017-best-director-4379800",
+      "mediaType": "movie",
+      "title": "Trivisa",
+      "awardYear": 2017,
+      "winner": "許學文、歐文傑、黃偉傑",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4379800"
+      },
+      "award": "Best Director",
+      "awardOrder": 2
+    },
+    {
+      "id": "hkfa-2017-best-film-4379800",
+      "mediaType": "movie",
+      "title": "Trivisa",
+      "awardYear": 2017,
+      "winner": "Trivisa",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4379800"
+      },
+      "originalTitle": "樹大招風",
+      "award": "Best Film",
+      "awardOrder": 1
+    },
+    {
+      "id": "hkfa-2017-best-new-performer-5128712",
+      "mediaType": "movie",
+      "title": "Weeds on Fire",
+      "awardYear": 2017,
+      "winner": "胡子彤",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5128712"
+      },
+      "award": "Best New Performer",
+      "awardOrder": 8
+    },
+    {
+      "id": "hkfa-2017-best-screenplay-4379800",
+      "mediaType": "movie",
+      "title": "Trivisa",
+      "awardYear": 2017,
+      "winner": "龍文康、伍奇偉、麥天樞",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4379800"
+      },
+      "award": "Best Screenplay",
+      "awardOrder": 3
+    },
+    {
+      "id": "hkfa-2017-best-supporting-actor-6041030",
+      "mediaType": "movie",
+      "title": "Mad World",
+      "awardYear": 2017,
+      "winner": "曾志偉",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt6041030"
+      },
+      "award": "Best Supporting Actor",
+      "awardOrder": 6
+    },
+    {
+      "id": "hkfa-2017-best-supporting-actress-6041030",
+      "mediaType": "movie",
+      "title": "Mad World",
+      "awardYear": 2017,
+      "winner": "金燕玲",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt6041030"
+      },
+      "award": "Best Supporting Actress",
+      "awardOrder": 7
+    },
+    {
+      "id": "hkfa-best-actor-2016-hkfa-film",
+      "mediaType": "movie",
+      "title": "Port of Call",
+      "releaseDate": "2015",
+      "externalIds": {
+        "imdb": "tt4417522"
+      },
+      "awardYear": 2016,
+      "winner": "郭富城",
+      "award": "Best Actor"
+    },
+    {
+      "id": "hkfa-best-actress-2016-hkfa-film",
+      "mediaType": "movie",
+      "title": "Port of Call",
+      "releaseDate": "2015",
+      "externalIds": {
+        "imdb": "tt4417522"
+      },
+      "awardYear": 2016,
+      "winner": "春夏",
+      "award": "Best Actress"
+    },
+    {
+      "id": "hkfa-best-director-2016-hkfa-film",
+      "mediaType": "movie",
+      "title": "The Taking of Tiger Mountain",
+      "releaseDate": "2015",
+      "externalIds": {
+        "imdb": "tt3950078"
+      },
+      "awardYear": 2016,
+      "winner": "徐克",
+      "award": "Best Director"
+    },
+    {
+      "id": "hkfa-best-film-2016-hkfa-film",
+      "mediaType": "movie",
+      "title": "Ten Years",
+      "releaseDate": "2015",
+      "externalIds": {
+        "imdb": "tt5269560"
+      },
+      "awardYear": 2016,
+      "winner": "Ten Years",
+      "originalTitle": "十年",
+      "award": "Best Film"
+    },
+    {
+      "id": "hkfa-best-new-performer-2016-hkfa-film",
+      "mediaType": "movie",
+      "title": "Port of Call",
+      "releaseDate": "2015",
+      "externalIds": {
+        "imdb": "tt4417522"
+      },
+      "awardYear": 2016,
+      "winner": "白只",
+      "award": "Best New Performer"
+    },
+    {
+      "id": "hkfa-best-screenplay-2016-hkfa-film",
+      "mediaType": "movie",
+      "title": "Port of Call",
+      "releaseDate": "2015",
+      "externalIds": {
+        "imdb": "tt4417522"
+      },
+      "awardYear": 2016,
+      "winner": "翁子光",
+      "award": "Best Screenplay"
+    },
+    {
+      "id": "hkfa-best-supporting-actor-2016-hkfa-film",
+      "mediaType": "movie",
+      "title": "Port of Call",
+      "releaseDate": "2015",
+      "externalIds": {
+        "imdb": "tt4417522"
+      },
+      "awardYear": 2016,
+      "winner": "白只",
+      "award": "Best Supporting Actor"
+    },
+    {
+      "id": "hkfa-best-supporting-actress-2016-hkfa-film",
+      "mediaType": "movie",
+      "title": "Port of Call",
+      "releaseDate": "2015",
+      "externalIds": {
+        "imdb": "tt4417522"
+      },
+      "awardYear": 2016,
+      "winner": "金燕玲",
+      "award": "Best Supporting Actress"
+    },
+    {
+      "id": "hkfa-best-actor-2015-3",
+      "mediaType": "movie",
+      "title": "竊聽風雲3",
+      "releaseDate": "2014",
+      "externalIds": {
+        "letterboxd": "3"
+      },
+      "awardYear": 2015,
+      "winner": "劉青雲",
+      "award": "Best Actor"
+    },
+    {
+      "id": "hkfa-best-actress-2015-hkfa-film",
+      "mediaType": "movie",
+      "title": "Dearest",
+      "releaseDate": "2014",
+      "externalIds": {
+        "imdb": "tt3752930"
+      },
+      "awardYear": 2015,
+      "winner": "趙薇",
+      "award": "Best Actress"
+    },
+    {
+      "id": "hkfa-best-director-2015-hkfa-film",
+      "mediaType": "movie",
+      "title": "The Golden Era",
+      "releaseDate": "2014",
+      "externalIds": {
+        "imdb": "tt3696086"
+      },
+      "awardYear": 2015,
+      "winner": "許鞍華",
+      "award": "Best Director"
+    },
+    {
+      "id": "hkfa-best-film-2015-hkfa-film",
+      "mediaType": "movie",
+      "title": "The Golden Era",
+      "releaseDate": "2014",
+      "externalIds": {
+        "imdb": "tt3696086"
+      },
+      "awardYear": 2015,
+      "winner": "The Golden Era",
+      "originalTitle": "黃金時代",
+      "award": "Best Film"
+    },
+    {
+      "id": "hkfa-best-new-performer-2015-sss",
+      "mediaType": "movie",
+      "title": "金雞SSS",
+      "releaseDate": "2014",
+      "externalIds": {
+        "letterboxd": "sss"
+      },
+      "awardYear": 2015,
+      "winner": "王菀之",
+      "award": "Best New Performer"
+    },
+    {
+      "id": "hkfa-best-screenplay-2015-3",
+      "mediaType": "movie",
+      "title": "竊聽風雲3",
+      "releaseDate": "2014",
+      "externalIds": {
+        "letterboxd": "3"
+      },
+      "awardYear": 2015,
+      "winner": "麥兆輝、莊文強",
+      "award": "Best Screenplay"
+    },
+    {
+      "id": "hkfa-best-supporting-actor-2015-3",
+      "mediaType": "movie",
+      "title": "竊聽風雲3",
+      "releaseDate": "2014",
+      "externalIds": {
+        "letterboxd": "3"
+      },
+      "awardYear": 2015,
+      "winner": "曾江",
+      "award": "Best Supporting Actor"
+    },
+    {
+      "id": "hkfa-best-supporting-actress-2015-sss",
+      "mediaType": "movie",
+      "title": "金雞SSS",
+      "releaseDate": "2014",
+      "externalIds": {
+        "letterboxd": "sss"
+      },
+      "awardYear": 2015,
+      "winner": "王菀之",
+      "award": "Best Supporting Actress"
+    },
+    {
+      "id": "hkfa-best-actor-2014-hkfa-film",
+      "mediaType": "movie",
+      "title": "Unbeatable",
+      "releaseDate": "2013",
+      "externalIds": {
+        "imdb": "tt3003668"
+      },
+      "awardYear": 2014,
+      "winner": "張家輝",
+      "award": "Best Actor"
+    },
+    {
+      "id": "hkfa-best-actress-2014-hkfa-film",
+      "mediaType": "movie",
+      "title": "The Grandmaster",
+      "releaseDate": "2013",
+      "externalIds": {
+        "imdb": "tt1462900"
+      },
+      "awardYear": 2014,
+      "winner": "章子怡",
+      "award": "Best Actress"
+    },
+    {
+      "id": "hkfa-best-director-2014-hkfa-film",
+      "mediaType": "movie",
+      "title": "The Grandmaster",
+      "releaseDate": "2013",
+      "externalIds": {
+        "imdb": "tt1462900"
+      },
+      "awardYear": 2014,
+      "winner": "王家衛",
+      "award": "Best Director"
+    },
+    {
+      "id": "hkfa-best-film-2014-hkfa-film",
+      "mediaType": "movie",
+      "title": "The Grandmaster",
+      "releaseDate": "2013",
+      "externalIds": {
+        "imdb": "tt1462900"
+      },
+      "awardYear": 2014,
+      "winner": "The Grandmaster",
+      "originalTitle": "一代宗師",
+      "award": "Best Film"
+    },
+    {
+      "id": "hkfa-best-new-performer-2014-hkfa-film",
+      "mediaType": "movie",
+      "title": "The Way We Dance",
+      "releaseDate": "2013",
+      "externalIds": {
+        "imdb": "tt3003996"
+      },
+      "awardYear": 2014,
+      "winner": "蔡瀚億",
+      "award": "Best New Performer"
+    },
+    {
+      "id": "hkfa-best-screenplay-2014-hkfa-film",
+      "mediaType": "movie",
+      "title": "The Grandmaster",
+      "releaseDate": "2013",
+      "externalIds": {
+        "imdb": "tt1462900"
+      },
+      "awardYear": 2014,
+      "winner": "鄒靜之、徐皓峰、王家衛",
+      "award": "Best Screenplay"
+    },
+    {
+      "id": "hkfa-best-supporting-actor-2014-hkfa-film",
+      "mediaType": "movie",
+      "title": "The Grandmaster",
+      "releaseDate": "2013",
+      "externalIds": {
+        "imdb": "tt1462900"
+      },
+      "awardYear": 2014,
+      "winner": "張晉",
+      "award": "Best Supporting Actor"
+    },
+    {
+      "id": "hkfa-best-supporting-actress-2014-hkfa-film",
+      "mediaType": "movie",
+      "title": "Rigor Mortis",
+      "releaseDate": "2013",
+      "externalIds": {
+        "imdb": "tt2771800"
+      },
+      "awardYear": 2014,
+      "winner": "惠英紅",
+      "award": "Best Supporting Actress"
+    },
+    {
+      "id": "hkfa-best-actor-2013-hkfa-film",
+      "mediaType": "movie",
+      "title": "Cold War",
+      "releaseDate": "2012",
+      "externalIds": {
+        "imdb": "tt2186715"
+      },
+      "awardYear": 2013,
+      "winner": "梁家輝",
+      "award": "Best Actor"
+    },
+    {
+      "id": "hkfa-best-actress-2013-hkfa-film",
+      "mediaType": "movie",
+      "title": "Love in the Buff",
+      "releaseDate": "2012",
+      "externalIds": {
+        "imdb": "tt2238839"
+      },
+      "awardYear": 2013,
+      "winner": "楊千嬅",
+      "award": "Best Actress"
+    },
+    {
+      "id": "hkfa-best-director-2013-hkfa-film",
+      "mediaType": "movie",
+      "title": "Cold War",
+      "releaseDate": "2012",
+      "externalIds": {
+        "imdb": "tt2186715"
+      },
+      "awardYear": 2013,
+      "winner": "梁樂民、陸劍青",
+      "award": "Best Director"
+    },
+    {
+      "id": "hkfa-best-film-2013-hkfa-film",
+      "mediaType": "movie",
+      "title": "Cold War",
+      "releaseDate": "2012",
+      "externalIds": {
+        "imdb": "tt2186715"
+      },
+      "awardYear": 2013,
+      "winner": "Cold War",
+      "originalTitle": "寒戰",
+      "award": "Best Film"
+    },
+    {
+      "id": "hkfa-best-new-performer-2013-hkfa-film",
+      "mediaType": "movie",
+      "title": "Cold War",
+      "releaseDate": "2012",
+      "externalIds": {
+        "imdb": "tt2186715"
+      },
+      "awardYear": 2013,
+      "winner": "徐家傑",
+      "award": "Best New Performer"
+    },
+    {
+      "id": "hkfa-best-screenplay-2013-hkfa-film",
+      "mediaType": "movie",
+      "title": "Cold War",
+      "releaseDate": "2012",
+      "externalIds": {
+        "imdb": "tt2186715"
+      },
+      "awardYear": 2013,
+      "winner": "梁樂民、陸劍青",
+      "award": "Best Screenplay"
+    },
+    {
+      "id": "hkfa-best-supporting-actor-2013-hkfa-film",
+      "mediaType": "movie",
+      "title": "Vulgaria",
+      "releaseDate": "2012",
+      "externalIds": {
+        "imdb": "tt2266938"
+      },
+      "awardYear": 2013,
+      "winner": "鄭中基",
+      "award": "Best Supporting Actor"
+    },
+    {
+      "id": "hkfa-best-supporting-actress-2013-hkfa-film",
+      "mediaType": "movie",
+      "title": "Vulgaria",
+      "releaseDate": "2012",
+      "externalIds": {
+        "imdb": "tt2266938"
+      },
+      "awardYear": 2013,
+      "winner": "陳靜",
+      "award": "Best Supporting Actress"
+    },
+    {
+      "id": "hkfa-best-actor-2012-hkfa-film",
+      "mediaType": "movie",
+      "title": "A Simple Life",
+      "releaseDate": "2011",
+      "externalIds": {
+        "imdb": "tt2008006"
+      },
+      "awardYear": 2012,
+      "winner": "劉德華",
+      "award": "Best Actor"
+    },
+    {
+      "id": "hkfa-best-actress-2012-hkfa-film",
+      "mediaType": "movie",
+      "title": "A Simple Life",
+      "releaseDate": "2011",
+      "externalIds": {
+        "imdb": "tt2008006"
+      },
+      "awardYear": 2012,
+      "winner": "葉德嫻",
+      "award": "Best Actress"
+    },
+    {
+      "id": "hkfa-best-director-2012-hkfa-film",
+      "mediaType": "movie",
+      "title": "A Simple Life",
+      "releaseDate": "2011",
+      "externalIds": {
+        "imdb": "tt2008006"
+      },
+      "awardYear": 2012,
+      "winner": "許鞍華",
+      "award": "Best Director"
+    },
+    {
+      "id": "hkfa-best-film-2012-hkfa-film",
+      "mediaType": "movie",
+      "title": "A Simple Life",
+      "releaseDate": "2011",
+      "externalIds": {
+        "imdb": "tt2008006"
+      },
+      "awardYear": 2012,
+      "winner": "A Simple Life",
+      "originalTitle": "桃姐",
+      "award": "Best Film"
+    },
+    {
+      "id": "hkfa-best-new-performer-2012-hkfa-film",
+      "mediaType": "movie",
+      "title": "The Killer Who Never Kills",
+      "releaseDate": "2011",
+      "externalIds": {
+        "imdb": "tt2231605"
+      },
+      "awardYear": 2012,
+      "winner": "蕭敬騰",
+      "award": "Best New Performer"
+    },
+    {
+      "id": "hkfa-best-screenplay-2012-hkfa-film",
+      "mediaType": "movie",
+      "title": "A Simple Life",
+      "releaseDate": "2011",
+      "externalIds": {
+        "imdb": "tt2008006"
+      },
+      "awardYear": 2012,
+      "winner": "陳淑賢",
+      "award": "Best Screenplay"
+    },
+    {
+      "id": "hkfa-best-supporting-actor-2012-hkfa-film",
+      "mediaType": "movie",
+      "title": "Life Without Principle",
+      "releaseDate": "2011",
+      "externalIds": {
+        "imdb": "tt1371585"
+      },
+      "awardYear": 2012,
+      "winner": "盧海鵬",
+      "award": "Best Supporting Actor"
+    },
+    {
+      "id": "hkfa-best-supporting-actress-2012-hkfa-film",
+      "mediaType": "movie",
+      "title": "Life Without Principle",
+      "releaseDate": "2011",
+      "externalIds": {
+        "imdb": "tt1371585"
+      },
+      "awardYear": 2012,
+      "winner": "蘇杏璇",
+      "award": "Best Supporting Actress"
+    },
+    {
+      "id": "hkfa-best-actor-2011-hkfa-film",
+      "mediaType": "movie",
+      "title": "The Stool Pigeon",
+      "releaseDate": "2010",
+      "externalIds": {
+        "imdb": "tt1535492"
+      },
+      "awardYear": 2011,
+      "winner": "謝霆鋒",
+      "award": "Best Actor"
+    },
+    {
+      "id": "hkfa-best-actress-2011-hkfa-film",
+      "mediaType": "movie",
+      "title": "Detective Dee and the Mystery of the Phantom Flame",
+      "releaseDate": "2010",
+      "externalIds": {
+        "imdb": "tt1123373"
+      },
+      "awardYear": 2011,
+      "winner": "劉嘉玲",
+      "award": "Best Actress"
+    },
+    {
+      "id": "hkfa-best-director-2011-hkfa-film",
+      "mediaType": "movie",
+      "title": "Detective Dee and the Mystery of the Phantom Flame",
+      "releaseDate": "2010",
+      "externalIds": {
+        "imdb": "tt1123373"
+      },
+      "awardYear": 2011,
+      "winner": "徐克",
+      "award": "Best Director"
+    },
+    {
+      "id": "hkfa-best-film-2011-hkfa-film",
+      "mediaType": "movie",
+      "title": "Gallants",
+      "releaseDate": "2010",
+      "externalIds": {
+        "imdb": "tt1611823"
+      },
+      "awardYear": 2011,
+      "winner": "Gallants",
+      "originalTitle": "打擂台",
+      "award": "Best Film"
+    },
+    {
+      "id": "hkfa-best-new-performer-2011-hkfa-film",
+      "mediaType": "movie",
+      "title": "Bruce Lee, My Brother",
+      "releaseDate": "2010",
+      "externalIds": {
+        "imdb": "tt1482989"
+      },
+      "awardYear": 2011,
+      "winner": "陳奐仁",
+      "award": "Best New Performer"
+    },
+    {
+      "id": "hkfa-best-screenplay-2011-hkfa-film",
+      "mediaType": "movie",
+      "title": "Love in a Puff",
+      "releaseDate": "2010",
+      "externalIds": {
+        "imdb": "tt1602479"
+      },
+      "awardYear": 2011,
+      "winner": "彭浩翔、麥曦茵",
+      "award": "Best Screenplay"
+    },
+    {
+      "id": "hkfa-best-supporting-actor-2011-hkfa-film",
+      "mediaType": "movie",
+      "title": "Gallants",
+      "releaseDate": "2010",
+      "externalIds": {
+        "imdb": "tt1611823"
+      },
+      "awardYear": 2011,
+      "winner": "泰迪羅賓",
+      "award": "Best Supporting Actor"
+    },
+    {
+      "id": "hkfa-best-supporting-actress-2011-hkfa-film",
+      "mediaType": "movie",
+      "title": "Gallants",
+      "releaseDate": "2010",
+      "externalIds": {
+        "imdb": "tt1611823"
+      },
+      "awardYear": 2011,
+      "winner": "邵音音",
+      "award": "Best Supporting Actress"
+    },
+    {
+      "id": "hkfa-best-actor-2010-hkfa-film",
+      "mediaType": "movie",
+      "title": "Echoes of the Rainbow",
+      "releaseDate": "2009",
+      "externalIds": {
+        "imdb": "tt1602572"
+      },
+      "awardYear": 2010,
+      "winner": "任達華",
+      "award": "Best Actor"
+    },
+    {
+      "id": "hkfa-best-actress-2010-hkfa-film",
+      "mediaType": "movie",
+      "title": "At the End of Daybreak",
+      "releaseDate": "2009",
+      "externalIds": {
+        "imdb": "tt1483799"
+      },
+      "awardYear": 2010,
+      "winner": "惠英紅",
+      "award": "Best Actress"
+    },
+    {
+      "id": "hkfa-best-director-2010-hkfa-film",
+      "mediaType": "movie",
+      "title": "Bodyguards and Assassins",
+      "releaseDate": "2009",
+      "externalIds": {
+        "imdb": "tt1403130"
+      },
+      "awardYear": 2010,
+      "winner": "陳德森",
+      "award": "Best Director"
+    },
+    {
+      "id": "hkfa-best-film-2010-hkfa-film",
+      "mediaType": "movie",
+      "title": "Bodyguards and Assassins",
+      "releaseDate": "2009",
+      "externalIds": {
+        "imdb": "tt1403130"
+      },
+      "awardYear": 2010,
+      "winner": "Bodyguards and Assassins",
+      "originalTitle": "十月圍城",
+      "award": "Best Film"
+    },
+    {
+      "id": "hkfa-best-new-performer-2010-hkfa-film",
+      "mediaType": "movie",
+      "title": "Echoes of the Rainbow",
+      "releaseDate": "2009",
+      "externalIds": {
+        "imdb": "tt1602572"
+      },
+      "awardYear": 2010,
+      "winner": "李治廷",
+      "award": "Best New Performer"
+    },
+    {
+      "id": "hkfa-best-screenplay-2010-hkfa-film",
+      "mediaType": "movie",
+      "title": "Echoes of the Rainbow",
+      "releaseDate": "2009",
+      "externalIds": {
+        "imdb": "tt1602572"
+      },
+      "awardYear": 2010,
+      "winner": "羅啟銳",
+      "award": "Best Screenplay"
+    },
+    {
+      "id": "hkfa-best-supporting-actor-2010-hkfa-film",
+      "mediaType": "movie",
+      "title": "Bodyguards and Assassins",
+      "releaseDate": "2009",
+      "externalIds": {
+        "imdb": "tt1403130"
+      },
+      "awardYear": 2010,
+      "winner": "謝霆鋒",
+      "award": "Best Supporting Actor"
+    },
+    {
+      "id": "hkfa-best-supporting-actress-2010-hkfa-film",
+      "mediaType": "movie",
+      "title": "Accident",
+      "releaseDate": "2009",
+      "externalIds": {
+        "imdb": "tt1202514"
+      },
+      "awardYear": 2010,
+      "winner": "葉璇",
+      "award": "Best Supporting Actress"
+    },
+    {
+      "id": "hkfa-best-actor-2009-hkfa-film",
+      "mediaType": "movie",
+      "title": "Beast Stalker",
+      "releaseDate": "2008",
+      "externalIds": {
+        "imdb": "tt1330525"
+      },
+      "awardYear": 2009,
+      "winner": "張家輝",
+      "award": "Best Actor"
+    },
+    {
+      "id": "hkfa-best-actress-2009-hkfa-film",
+      "mediaType": "movie",
+      "title": "The Way We Are",
+      "releaseDate": "2008",
+      "externalIds": {
+        "imdb": "tt1233499"
+      },
+      "awardYear": 2009,
+      "winner": "鮑起靜",
+      "award": "Best Actress"
+    },
+    {
+      "id": "hkfa-best-director-2009-hkfa-film",
+      "mediaType": "movie",
+      "title": "The Way We Are",
+      "releaseDate": "2008",
+      "externalIds": {
+        "imdb": "tt1233499"
+      },
+      "awardYear": 2009,
+      "winner": "許鞍華",
+      "award": "Best Director"
+    },
+    {
+      "id": "hkfa-best-film-2009-hkfa-film",
+      "mediaType": "movie",
+      "title": "Ip Man",
+      "releaseDate": "2008",
+      "externalIds": {
+        "imdb": "tt1220719"
+      },
+      "awardYear": 2009,
+      "winner": "Ip Man",
+      "originalTitle": "葉問",
+      "award": "Best Film"
+    },
+    {
+      "id": "hkfa-best-new-performer-2009-7",
+      "mediaType": "movie",
+      "title": "長江7號",
+      "releaseDate": "2008",
+      "externalIds": {
+        "letterboxd": "7"
+      },
+      "awardYear": 2009,
+      "winner": "徐嬌",
+      "award": "Best New Performer"
+    },
+    {
+      "id": "hkfa-best-screenplay-2009-hkfa-film",
+      "mediaType": "movie",
+      "title": "The Way We Are",
+      "releaseDate": "2008",
+      "externalIds": {
+        "imdb": "tt1233499"
+      },
+      "awardYear": 2009,
+      "winner": "呂筱華",
+      "award": "Best Screenplay"
+    },
+    {
+      "id": "hkfa-best-supporting-actor-2009-hkfa-film",
+      "mediaType": "movie",
+      "title": "Beast Stalker",
+      "releaseDate": "2008",
+      "externalIds": {
+        "imdb": "tt1330525"
+      },
+      "awardYear": 2009,
+      "winner": "廖啟智",
+      "award": "Best Supporting Actor"
+    },
+    {
+      "id": "hkfa-best-supporting-actress-2009-hkfa-film",
+      "mediaType": "movie",
+      "title": "The Way We Are",
+      "releaseDate": "2008",
+      "externalIds": {
+        "imdb": "tt1233499"
+      },
+      "awardYear": 2009,
+      "winner": "陳麗雲",
+      "award": "Best Supporting Actress"
+    },
+    {
+      "id": "hkfa-best-actor-2008-hkfa-film",
+      "mediaType": "movie",
+      "title": "The Warlords",
+      "releaseDate": "2007",
+      "externalIds": {
+        "imdb": "tt0913968"
+      },
+      "awardYear": 2008,
+      "winner": "李連杰",
+      "award": "Best Actor"
+    },
+    {
+      "id": "hkfa-best-actress-2008-hkfa-film",
+      "mediaType": "movie",
+      "title": "The Postmodern Life of My Aunt",
+      "releaseDate": "2007",
+      "externalIds": {
+        "imdb": "tt0470984"
+      },
+      "awardYear": 2008,
+      "winner": "斯琴高娃",
+      "award": "Best Actress"
+    },
+    {
+      "id": "hkfa-best-director-2008-hkfa-film",
+      "mediaType": "movie",
+      "title": "The Warlords",
+      "releaseDate": "2007",
+      "externalIds": {
+        "imdb": "tt0913968"
+      },
+      "awardYear": 2008,
+      "winner": "陳可辛",
+      "award": "Best Director"
+    },
+    {
+      "id": "hkfa-best-film-2008-hkfa-film",
+      "mediaType": "movie",
+      "title": "The Warlords",
+      "releaseDate": "2007",
+      "externalIds": {
+        "imdb": "tt0913968"
+      },
+      "awardYear": 2008,
+      "winner": "The Warlords",
+      "originalTitle": "投名狀",
+      "award": "Best Film"
+    },
+    {
+      "id": "hkfa-best-new-performer-2008-hkfa-film",
+      "mediaType": "movie",
+      "title": "Eye in the Sky",
+      "releaseDate": "2007",
+      "externalIds": {
+        "imdb": "tt0901488"
+      },
+      "awardYear": 2008,
+      "winner": "徐子珊",
+      "award": "Best New Performer"
+    },
+    {
+      "id": "hkfa-best-screenplay-2008-hkfa-film",
+      "mediaType": "movie",
+      "title": "Mad Detective",
+      "releaseDate": "2007",
+      "externalIds": {
+        "imdb": "tt0969269"
+      },
+      "awardYear": 2008,
+      "winner": "韋家輝、歐健兒",
+      "award": "Best Screenplay"
+    },
+    {
+      "id": "hkfa-best-supporting-actor-2008-hkfa-film",
+      "mediaType": "movie",
+      "title": "Protégé",
+      "releaseDate": "2007",
+      "externalIds": {
+        "imdb": "tt0841150"
+      },
+      "awardYear": 2008,
+      "winner": "劉德華",
+      "award": "Best Supporting Actor"
+    },
+    {
+      "id": "hkfa-best-supporting-actress-2008-hkfa-film",
+      "mediaType": "movie",
+      "title": "The Pye-Dog",
+      "releaseDate": "2007",
+      "externalIds": {
+        "imdb": "tt1018809"
+      },
+      "awardYear": 2008,
+      "winner": "邵音音",
+      "award": "Best Supporting Actress"
+    },
+    {
+      "id": "hkfa-best-actor-2007-hkfa-film",
+      "mediaType": "movie",
+      "title": "My Name Is Fame",
+      "releaseDate": "2006",
+      "externalIds": {
+        "imdb": "tt0843287"
+      },
+      "awardYear": 2007,
+      "winner": "劉青雲",
+      "award": "Best Actor"
+    },
+    {
+      "id": "hkfa-best-actress-2007-hkfa-film",
+      "mediaType": "movie",
+      "title": "Curse of the Golden Flower",
+      "releaseDate": "2006",
+      "externalIds": {
+        "imdb": "tt0473444"
+      },
+      "awardYear": 2007,
+      "winner": "鞏俐",
+      "award": "Best Actress"
+    },
+    {
+      "id": "hkfa-best-director-2007-hkfa-film",
+      "mediaType": "movie",
+      "title": "After This Our Exile",
+      "releaseDate": "2006",
+      "externalIds": {
+        "imdb": "tt0768114"
+      },
+      "awardYear": 2007,
+      "winner": "譚家明",
+      "award": "Best Director"
+    },
+    {
+      "id": "hkfa-best-film-2007-hkfa-film",
+      "mediaType": "movie",
+      "title": "After This Our Exile",
+      "releaseDate": "2006",
+      "externalIds": {
+        "imdb": "tt0768114"
+      },
+      "awardYear": 2007,
+      "winner": "After This Our Exile",
+      "originalTitle": "父子",
+      "award": "Best Film"
+    },
+    {
+      "id": "hkfa-best-new-performer-2007-hkfa-film",
+      "mediaType": "movie",
+      "title": "After This Our Exile",
+      "releaseDate": "2006",
+      "externalIds": {
+        "imdb": "tt0768114"
+      },
+      "awardYear": 2007,
+      "winner": "吳澋滔",
+      "award": "Best New Performer"
+    },
+    {
+      "id": "hkfa-best-screenplay-2007-hkfa-film",
+      "mediaType": "movie",
+      "title": "After This Our Exile",
+      "releaseDate": "2006",
+      "externalIds": {
+        "imdb": "tt0768114"
+      },
+      "awardYear": 2007,
+      "winner": "譚家明、田開良",
+      "award": "Best Screenplay"
+    },
+    {
+      "id": "hkfa-best-supporting-actor-2007-hkfa-film",
+      "mediaType": "movie",
+      "title": "After This Our Exile",
+      "releaseDate": "2006",
+      "externalIds": {
+        "imdb": "tt0768114"
+      },
+      "awardYear": 2007,
+      "winner": "吳澋滔",
+      "award": "Best Supporting Actor"
+    },
+    {
+      "id": "hkfa-best-supporting-actress-2007-hkfa-film",
+      "mediaType": "movie",
+      "title": "The Banquet",
+      "releaseDate": "2006",
+      "externalIds": {
+        "imdb": "tt0465676"
+      },
+      "awardYear": 2007,
+      "winner": "周迅",
+      "award": "Best Supporting Actress"
+    },
+    {
+      "id": "hkfa-best-actor-2006-hkfa-film",
+      "mediaType": "movie",
+      "title": "Election",
+      "releaseDate": "2005",
+      "externalIds": {
+        "imdb": "tt0434008"
+      },
+      "awardYear": 2006,
+      "winner": "梁家輝",
+      "award": "Best Actor"
+    },
+    {
+      "id": "hkfa-best-actress-2006-hkfa-film",
+      "mediaType": "movie",
+      "title": "Perhaps Love",
+      "releaseDate": "2005",
+      "externalIds": {
+        "imdb": "tt0454914"
+      },
+      "awardYear": 2006,
+      "winner": "周迅",
+      "award": "Best Actress"
+    },
+    {
+      "id": "hkfa-best-director-2006-hkfa-film",
+      "mediaType": "movie",
+      "title": "Election",
+      "releaseDate": "2005",
+      "externalIds": {
+        "imdb": "tt0434008"
+      },
+      "awardYear": 2006,
+      "winner": "杜琪峰",
+      "award": "Best Director"
+    },
+    {
+      "id": "hkfa-best-film-2006-hkfa-film",
+      "mediaType": "movie",
+      "title": "Election",
+      "releaseDate": "2005",
+      "externalIds": {
+        "imdb": "tt0434008"
+      },
+      "awardYear": 2006,
+      "winner": "Election",
+      "originalTitle": "黑社會",
+      "award": "Best Film"
+    },
+    {
+      "id": "hkfa-best-new-performer-2006-d",
+      "mediaType": "movie",
+      "title": "頭文字D",
+      "releaseDate": "2005",
+      "externalIds": {
+        "letterboxd": "d"
+      },
+      "awardYear": 2006,
+      "winner": "周杰倫",
+      "award": "Best New Performer"
+    },
+    {
+      "id": "hkfa-best-screenplay-2006-hkfa-film",
+      "mediaType": "movie",
+      "title": "Election",
+      "releaseDate": "2005",
+      "externalIds": {
+        "imdb": "tt0434008"
+      },
+      "awardYear": 2006,
+      "winner": "游乃海、葉天成",
+      "award": "Best Screenplay"
+    },
+    {
+      "id": "hkfa-best-supporting-actor-2006-d",
+      "mediaType": "movie",
+      "title": "頭文字D",
+      "releaseDate": "2005",
+      "externalIds": {
+        "letterboxd": "d"
+      },
+      "awardYear": 2006,
+      "winner": "黃秋生",
+      "award": "Best Supporting Actor"
+    },
+    {
+      "id": "hkfa-best-supporting-actress-2006-hkfa-film",
+      "mediaType": "movie",
+      "title": "2 Young",
+      "releaseDate": "2005",
+      "externalIds": {
+        "imdb": "tt0457004"
+      },
+      "awardYear": 2006,
+      "winner": "毛舜筠",
+      "award": "Best Supporting Actress"
+    },
+    {
+      "id": "hkfa-best-actor-2005-2046",
+      "mediaType": "movie",
+      "title": "2046",
+      "releaseDate": "2004",
+      "externalIds": {
+        "letterboxd": "2046"
+      },
+      "awardYear": 2005,
+      "winner": "梁朝偉",
+      "award": "Best Actor"
+    },
+    {
+      "id": "hkfa-best-actress-2005-2046",
+      "mediaType": "movie",
+      "title": "2046",
+      "releaseDate": "2004",
+      "externalIds": {
+        "letterboxd": "2046"
+      },
+      "awardYear": 2005,
+      "winner": "章子怡",
+      "award": "Best Actress"
+    },
+    {
+      "id": "hkfa-best-director-2005-hkfa-film",
+      "mediaType": "movie",
+      "title": "One Nite in Mongkok",
+      "releaseDate": "2004",
+      "externalIds": {
+        "imdb": "tt0430772"
+      },
+      "awardYear": 2005,
+      "winner": "爾冬陞",
+      "award": "Best Director"
+    },
+    {
+      "id": "hkfa-best-film-2005-hkfa-film",
+      "mediaType": "movie",
+      "title": "Kung Fu Hustle",
+      "releaseDate": "2004",
+      "externalIds": {
+        "imdb": "tt0373074"
+      },
+      "awardYear": 2005,
+      "winner": "Kung Fu Hustle",
+      "originalTitle": "功夫",
+      "award": "Best Film"
+    },
+    {
+      "id": "hkfa-best-new-performer-2005-hkfa-film",
+      "mediaType": "movie",
+      "title": "Butterfly",
+      "releaseDate": "2004",
+      "externalIds": {
+        "imdb": "tt0440939"
+      },
+      "awardYear": 2005,
+      "winner": "田原",
+      "award": "Best New Performer"
+    },
+    {
+      "id": "hkfa-best-screenplay-2005-hkfa-film",
+      "mediaType": "movie",
+      "title": "Kung Fu Hustle",
+      "releaseDate": "2004",
+      "externalIds": {
+        "imdb": "tt0373074"
+      },
+      "awardYear": 2005,
+      "winner": "曾瑾昌、陳文強、周星馳、霍昕",
+      "award": "Best Screenplay"
+    },
+    {
+      "id": "hkfa-best-supporting-actor-2005-hkfa-film",
+      "mediaType": "movie",
+      "title": "Kung Fu Hustle",
+      "releaseDate": "2004",
+      "externalIds": {
+        "imdb": "tt0373074"
+      },
+      "awardYear": 2005,
+      "winner": "元華",
+      "award": "Best Supporting Actor"
+    },
+    {
+      "id": "hkfa-best-supporting-actress-2005-2",
+      "mediaType": "movie",
+      "title": "三更2之餃子",
+      "releaseDate": "2004",
+      "externalIds": {
+        "letterboxd": "2"
+      },
+      "awardYear": 2005,
+      "winner": "白靈",
+      "award": "Best Supporting Actress"
+    },
+    {
+      "id": "hkfa-best-actor-2004-hkfa-film",
+      "mediaType": "movie",
+      "title": "Running on Karma",
+      "releaseDate": "2003",
+      "externalIds": {
+        "imdb": "tt0374184"
+      },
+      "awardYear": 2004,
+      "winner": "劉德華",
+      "award": "Best Actor"
+    },
+    {
+      "id": "hkfa-best-actress-2004-hkfa-film",
+      "mediaType": "movie",
+      "title": "Lost in Time",
+      "releaseDate": "2003",
+      "externalIds": {
+        "imdb": "tt0390272"
+      },
+      "awardYear": 2004,
+      "winner": "張柏芝",
+      "award": "Best Actress"
+    },
+    {
+      "id": "hkfa-best-director-2004-ptu",
+      "mediaType": "movie",
+      "title": "PTU",
+      "releaseDate": "2003",
+      "externalIds": {
+        "letterboxd": "ptu"
+      },
+      "awardYear": 2004,
+      "winner": "杜琪峰",
+      "award": "Best Director"
+    },
+    {
+      "id": "hkfa-best-film-2004-hkfa-film",
+      "mediaType": "movie",
+      "title": "Running on Karma",
+      "releaseDate": "2003",
+      "externalIds": {
+        "imdb": "tt0374184"
+      },
+      "awardYear": 2004,
+      "winner": "Running on Karma",
+      "originalTitle": "大隻佬",
+      "award": "Best Film"
+    },
+    {
+      "id": "hkfa-best-new-performer-2004-hkfa-film",
+      "mediaType": "movie",
+      "title": "Star Runner",
+      "releaseDate": "2003",
+      "externalIds": {
+        "imdb": "tt0378773"
+      },
+      "awardYear": 2004,
+      "winner": "安志杰",
+      "award": "Best New Performer"
+    },
+    {
+      "id": "hkfa-best-screenplay-2004-hkfa-film",
+      "mediaType": "movie",
+      "title": "Running on Karma",
+      "releaseDate": "2003",
+      "externalIds": {
+        "imdb": "tt0374184"
+      },
+      "awardYear": 2004,
+      "winner": "韋家輝、游乃海、歐健兒、葉天成",
+      "award": "Best Screenplay"
+    },
+    {
+      "id": "hkfa-best-supporting-actor-2004-hkfa-film",
+      "mediaType": "movie",
+      "title": "Men Suddenly in Black",
+      "releaseDate": "2003",
+      "externalIds": {
+        "imdb": "tt0380291"
+      },
+      "awardYear": 2004,
+      "winner": "梁家輝",
+      "award": "Best Supporting Actor"
+    },
+    {
+      "id": "hkfa-best-supporting-actress-2004-hkfa-film",
+      "mediaType": "movie",
+      "title": "Naked Ambition",
+      "releaseDate": "2003",
+      "externalIds": {
+        "imdb": "tt0385754"
+      },
+      "awardYear": 2004,
+      "winner": "何超儀",
+      "award": "Best Supporting Actress"
+    },
+    {
+      "id": "hkfa-best-actor-2003-hkfa-film",
+      "mediaType": "movie",
+      "title": "Infernal Affairs",
+      "releaseDate": "2002",
+      "externalIds": {
+        "imdb": "tt0338564"
+      },
+      "awardYear": 2003,
+      "winner": "梁朝偉",
+      "award": "Best Actor"
+    },
+    {
+      "id": "hkfa-best-actress-2003-hkfa-film",
+      "mediaType": "movie",
+      "title": "The Eye",
+      "releaseDate": "2002",
+      "externalIds": {
+        "imdb": "tt0325655"
+      },
+      "awardYear": 2003,
+      "winner": "李心潔",
+      "award": "Best Actress"
+    },
+    {
+      "id": "hkfa-best-director-2003-hkfa-film",
+      "mediaType": "movie",
+      "title": "Infernal Affairs",
+      "releaseDate": "2002",
+      "externalIds": {
+        "imdb": "tt0338564"
+      },
+      "awardYear": 2003,
+      "winner": "劉偉強、麥兆輝",
+      "award": "Best Director"
+    },
+    {
+      "id": "hkfa-best-film-2003-hkfa-film",
+      "mediaType": "movie",
+      "title": "Infernal Affairs",
+      "releaseDate": "2002",
+      "externalIds": {
+        "imdb": "tt0338564"
+      },
+      "awardYear": 2003,
+      "winner": "Infernal Affairs",
+      "originalTitle": "無間道",
+      "award": "Best Film"
+    },
+    {
+      "id": "hkfa-best-new-performer-2003-hkfa-film",
+      "mediaType": "movie",
+      "title": "Three",
+      "releaseDate": "2002",
+      "externalIds": {
+        "imdb": "tt0324242"
+      },
+      "awardYear": 2003,
+      "winner": "原麗淇",
+      "award": "Best New Performer"
+    },
+    {
+      "id": "hkfa-best-screenplay-2003-hkfa-film",
+      "mediaType": "movie",
+      "title": "Infernal Affairs",
+      "releaseDate": "2002",
+      "externalIds": {
+        "imdb": "tt0338564"
+      },
+      "awardYear": 2003,
+      "winner": "麥兆輝、莊文強",
+      "award": "Best Screenplay"
+    },
+    {
+      "id": "hkfa-best-supporting-actor-2003-hkfa-film",
+      "mediaType": "movie",
+      "title": "Infernal Affairs",
+      "releaseDate": "2002",
+      "externalIds": {
+        "imdb": "tt0338564"
+      },
+      "awardYear": 2003,
+      "winner": "黃秋生",
+      "award": "Best Supporting Actor"
+    },
+    {
+      "id": "hkfa-best-supporting-actress-2003-hkfa-film",
+      "mediaType": "movie",
+      "title": "Double Vision",
+      "releaseDate": "2002",
+      "externalIds": {
+        "imdb": "tt0284066"
+      },
+      "awardYear": 2003,
+      "winner": "劉若英",
+      "award": "Best Supporting Actress"
+    },
+    {
+      "id": "hkfa-best-actor-2002-hkfa-film",
+      "mediaType": "movie",
+      "title": "Shaolin Soccer",
+      "releaseDate": "2001",
+      "externalIds": {
+        "imdb": "tt0286112"
+      },
+      "awardYear": 2002,
+      "winner": "周星馳",
+      "award": "Best Actor"
+    },
+    {
+      "id": "hkfa-best-actress-2002-hkfa-film",
+      "mediaType": "movie",
+      "title": "Forever and Ever",
+      "releaseDate": "2001",
+      "externalIds": {
+        "tmdb": "425848",
+        "imdb": "tt0277674"
+      },
+      "awardYear": 2002,
+      "winner": "張艾嘉",
+      "award": "Best Actress"
+    },
+    {
+      "id": "hkfa-best-director-2002-hkfa-film",
+      "mediaType": "movie",
+      "title": "Shaolin Soccer",
+      "releaseDate": "2001",
+      "externalIds": {
+        "imdb": "tt0286112"
+      },
+      "awardYear": 2002,
+      "winner": "周星馳",
+      "award": "Best Director"
+    },
+    {
+      "id": "hkfa-best-film-2002-hkfa-film",
+      "mediaType": "movie",
+      "title": "Shaolin Soccer",
+      "releaseDate": "2001",
+      "externalIds": {
+        "imdb": "tt0286112"
+      },
+      "awardYear": 2002,
+      "winner": "Shaolin Soccer",
+      "originalTitle": "少林足球",
+      "award": "Best Film"
+    },
+    {
+      "id": "hkfa-best-new-performer-2002-hkfa-film",
+      "mediaType": "movie",
+      "title": "July Rhapsody",
+      "releaseDate": "2001",
+      "externalIds": {
+        "imdb": "tt0312886"
+      },
+      "awardYear": 2002,
+      "winner": "林嘉欣",
+      "award": "Best New Performer"
+    },
+    {
+      "id": "hkfa-best-screenplay-2002-hkfa-film",
+      "mediaType": "movie",
+      "title": "July Rhapsody",
+      "releaseDate": "2001",
+      "externalIds": {
+        "imdb": "tt0312886"
+      },
+      "awardYear": 2002,
+      "winner": "岸西",
+      "award": "Best Screenplay"
+    },
+    {
+      "id": "hkfa-best-supporting-actor-2002-hkfa-film",
+      "mediaType": "movie",
+      "title": "Shaolin Soccer",
+      "releaseDate": "2001",
+      "externalIds": {
+        "imdb": "tt0286112"
+      },
+      "awardYear": 2002,
+      "winner": "黃一飛",
+      "award": "Best Supporting Actor"
+    },
+    {
+      "id": "hkfa-best-supporting-actress-2002-hkfa-film",
+      "mediaType": "movie",
+      "title": "July Rhapsody",
+      "releaseDate": "2001",
+      "externalIds": {
+        "imdb": "tt0312886"
+      },
+      "awardYear": 2002,
+      "winner": "林嘉欣",
+      "award": "Best Supporting Actress"
+    },
+    {
+      "id": "hkfa-best-actor-2001-hkfa-film",
+      "mediaType": "movie",
+      "title": "In the Mood for Love",
+      "releaseDate": "2000",
+      "externalIds": {
+        "imdb": "tt0118694"
+      },
+      "awardYear": 2001,
+      "winner": "梁朝偉",
+      "award": "Best Actor"
+    },
+    {
+      "id": "hkfa-best-actress-2001-hkfa-film",
+      "mediaType": "movie",
+      "title": "In the Mood for Love",
+      "releaseDate": "2000",
+      "externalIds": {
+        "imdb": "tt0118694"
+      },
+      "awardYear": 2001,
+      "winner": "張曼玉",
+      "award": "Best Actress"
+    },
+    {
+      "id": "hkfa-best-director-2001-hkfa-film",
+      "mediaType": "movie",
+      "title": "Crouching Tiger, Hidden Dragon",
+      "releaseDate": "2000",
+      "externalIds": {
+        "imdb": "tt0190332"
+      },
+      "awardYear": 2001,
+      "winner": "李安",
+      "award": "Best Director"
+    },
+    {
+      "id": "hkfa-best-film-2001-hkfa-film",
+      "mediaType": "movie",
+      "title": "Crouching Tiger, Hidden Dragon",
+      "releaseDate": "2000",
+      "externalIds": {
+        "imdb": "tt0190332"
+      },
+      "awardYear": 2001,
+      "winner": "Crouching Tiger, Hidden Dragon",
+      "originalTitle": "臥虎藏龍",
+      "award": "Best Film"
+    },
+    {
+      "id": "hkfa-best-new-performer-2001-hkfa-film",
+      "mediaType": "movie",
+      "title": "Durian Durian",
+      "releaseDate": "2000",
+      "externalIds": {
+        "imdb": "tt0255327"
+      },
+      "awardYear": 2001,
+      "winner": "秦海璐",
+      "award": "Best New Performer"
+    },
+    {
+      "id": "hkfa-best-screenplay-2001-hkfa-film",
+      "mediaType": "movie",
+      "title": "Durian Durian",
+      "releaseDate": "2000",
+      "externalIds": {
+        "imdb": "tt0255327"
+      },
+      "awardYear": 2001,
+      "winner": "陳果",
+      "award": "Best Screenplay"
+    },
+    {
+      "id": "hkfa-best-supporting-actor-2001-2000",
+      "mediaType": "movie",
+      "title": "公元2000",
+      "releaseDate": "2000",
+      "externalIds": {
+        "letterboxd": "2000"
+      },
+      "awardYear": 2001,
+      "winner": "吳鎮宇",
+      "award": "Best Supporting Actor"
+    },
+    {
+      "id": "hkfa-best-supporting-actress-2001-hkfa-film",
+      "mediaType": "movie",
+      "title": "Crouching Tiger, Hidden Dragon",
+      "releaseDate": "2000",
+      "externalIds": {
+        "imdb": "tt0190332"
+      },
+      "awardYear": 2001,
+      "winner": "鄭佩佩",
+      "award": "Best Supporting Actress"
+    },
+    {
+      "id": "hkfa-best-actor-2000-hkfa-film",
+      "mediaType": "movie",
+      "title": "Running Out of Time",
+      "releaseDate": "1999",
+      "externalIds": {
+        "imdb": "tt0216165"
+      },
+      "awardYear": 2000,
+      "winner": "劉德華",
+      "award": "Best Actor"
+    },
+    {
+      "id": "hkfa-best-actress-2000-hkfa-film",
+      "mediaType": "movie",
+      "title": "Bullets Over Summer",
+      "releaseDate": "1999",
+      "externalIds": {
+        "imdb": "tt0214555"
+      },
+      "awardYear": 2000,
+      "winner": "羅蘭",
+      "award": "Best Actress"
+    },
+    {
+      "id": "hkfa-best-director-2000-hkfa-film",
+      "mediaType": "movie",
+      "title": "The Mission",
+      "releaseDate": "1999",
+      "externalIds": {
+        "imdb": "tt0220644"
+      },
+      "awardYear": 2000,
+      "winner": "杜琪峰",
+      "award": "Best Director"
+    },
+    {
+      "id": "hkfa-best-film-2000-hkfa-film",
+      "mediaType": "movie",
+      "title": "Ordinary Heroes",
+      "releaseDate": "1999",
+      "externalIds": {
+        "imdb": "tt0189954"
+      },
+      "awardYear": 2000,
+      "winner": "Ordinary Heroes",
+      "originalTitle": "千言萬語",
+      "award": "Best Film"
+    },
+    {
+      "id": "hkfa-best-new-performer-2000-hkfa-film",
+      "mediaType": "movie",
+      "title": "Fly Me to Polaris",
+      "releaseDate": "1999",
+      "externalIds": {
+        "imdb": "tt0213314"
+      },
+      "awardYear": 2000,
+      "winner": "張柏芝",
+      "award": "Best New Performer"
+    },
+    {
+      "id": "hkfa-best-screenplay-2000-hkfa-film",
+      "mediaType": "movie",
+      "title": "Tempting Heart",
+      "releaseDate": "1999",
+      "externalIds": {
+        "imdb": "tt0215240"
+      },
+      "awardYear": 2000,
+      "winner": "張艾嘉、關皓月",
+      "award": "Best Screenplay"
+    },
+    {
+      "id": "hkfa-best-supporting-actor-2000-hkfa-film",
+      "mediaType": "movie",
+      "title": "The Kid",
+      "releaseDate": "1999",
+      "externalIds": {
+        "imdb": "tt0223603"
+      },
+      "awardYear": 2000,
+      "winner": "狄龍",
+      "award": "Best Supporting Actor"
+    },
+    {
+      "id": "hkfa-best-supporting-actress-2000-hkfa-film",
+      "mediaType": "movie",
+      "title": "The Kid",
+      "releaseDate": "1999",
+      "externalIds": {
+        "imdb": "tt0223603"
+      },
+      "awardYear": 2000,
+      "winner": "吳家麗",
+      "award": "Best Supporting Actress"
+    },
+    {
+      "id": "hkfa-best-actor-1999-hkfa-film",
+      "mediaType": "movie",
+      "title": "Beast Cops",
+      "releaseDate": "1998",
+      "externalIds": {
+        "imdb": "tt0157366"
+      },
+      "awardYear": 1999,
+      "winner": "黃秋生",
+      "award": "Best Actor"
+    },
+    {
+      "id": "hkfa-best-actress-1999-hkfa-film",
+      "mediaType": "movie",
+      "title": "Portland Street Blues",
+      "releaseDate": "1998",
+      "externalIds": {
+        "imdb": "tt0148631"
+      },
+      "awardYear": 1999,
+      "winner": "吳君如",
+      "award": "Best Actress"
+    },
+    {
+      "id": "hkfa-best-director-1999-hkfa-film",
+      "mediaType": "movie",
+      "title": "Beast Cops",
+      "releaseDate": "1998",
+      "externalIds": {
+        "imdb": "tt0157366"
+      },
+      "awardYear": 1999,
+      "winner": "陳嘉上、林超賢",
+      "award": "Best Director"
+    },
+    {
+      "id": "hkfa-best-film-1999-hkfa-film",
+      "mediaType": "movie",
+      "title": "Beast Cops",
+      "releaseDate": "1998",
+      "externalIds": {
+        "imdb": "tt0157366"
+      },
+      "awardYear": 1999,
+      "winner": "Beast Cops",
+      "originalTitle": "野獸刑警",
+      "award": "Best Film"
+    },
+    {
+      "id": "hkfa-best-new-performer-1999-hkfa-film",
+      "mediaType": "movie",
+      "title": "Young and Dangerous: The Prequel",
+      "releaseDate": "1998",
+      "externalIds": {
+        "imdb": "tt0168264"
+      },
+      "awardYear": 1999,
+      "winner": "謝霆鋒",
+      "award": "Best New Performer"
+    },
+    {
+      "id": "hkfa-best-screenplay-1999-hkfa-film",
+      "mediaType": "movie",
+      "title": "Beast Cops",
+      "releaseDate": "1998",
+      "externalIds": {
+        "imdb": "tt0157366"
+      },
+      "awardYear": 1999,
+      "winner": "陳慶嘉、陳嘉上",
+      "award": "Best Screenplay"
+    },
+    {
+      "id": "hkfa-best-supporting-actor-1999-hkfa-film",
+      "mediaType": "movie",
+      "title": "Beast Cops",
+      "releaseDate": "1998",
+      "externalIds": {
+        "imdb": "tt0157366"
+      },
+      "awardYear": 1999,
+      "winner": "譚耀文",
+      "award": "Best Supporting Actor"
+    },
+    {
+      "id": "hkfa-best-supporting-actress-1999-hkfa-film",
+      "mediaType": "movie",
+      "title": "Portland Street Blues",
+      "releaseDate": "1998",
+      "externalIds": {
+        "imdb": "tt0148631"
+      },
+      "awardYear": 1999,
+      "winner": "舒淇",
+      "award": "Best Supporting Actress"
+    },
+    {
+      "id": "hkfa-best-actor-1998-hkfa-film",
+      "mediaType": "movie",
+      "title": "Happy Together",
+      "releaseDate": "1997",
+      "externalIds": {
+        "imdb": "tt0118845"
+      },
+      "awardYear": 1998,
+      "winner": "梁朝偉",
+      "award": "Best Actor"
+    },
+    {
+      "id": "hkfa-best-actress-1998-hkfa-film",
+      "mediaType": "movie",
+      "title": "The Soong Sisters",
+      "releaseDate": "1997",
+      "externalIds": {
+        "imdb": "tt0120164"
+      },
+      "awardYear": 1998,
+      "winner": "張曼玉",
+      "award": "Best Actress"
+    },
+    {
+      "id": "hkfa-best-director-1998-hkfa-film",
+      "mediaType": "movie",
+      "title": "Made in Hong Kong",
+      "releaseDate": "1997",
+      "externalIds": {
+        "imdb": "tt0123328"
+      },
+      "awardYear": 1998,
+      "winner": "陳果",
+      "award": "Best Director"
+    },
+    {
+      "id": "hkfa-best-film-1998-hkfa-film",
+      "mediaType": "movie",
+      "title": "Made in Hong Kong",
+      "releaseDate": "1997",
+      "externalIds": {
+        "imdb": "tt0123328"
+      },
+      "awardYear": 1998,
+      "winner": "Made in Hong Kong",
+      "originalTitle": "香港製造",
+      "award": "Best Film"
+    },
+    {
+      "id": "hkfa-best-new-performer-1998-hkfa-film",
+      "mediaType": "movie",
+      "title": "Made in Hong Kong",
+      "releaseDate": "1997",
+      "externalIds": {
+        "imdb": "tt0123328"
+      },
+      "awardYear": 1998,
+      "winner": "李燦森",
+      "award": "Best New Performer"
+    },
+    {
+      "id": "hkfa-best-screenplay-1998-hkfa-film",
+      "mediaType": "movie",
+      "title": "The Mad Phoenix",
+      "releaseDate": "1997",
+      "externalIds": {
+        "imdb": "tt0134836"
+      },
+      "awardYear": 1998,
+      "winner": "杜國威",
+      "award": "Best Screenplay"
+    },
+    {
+      "id": "hkfa-best-supporting-actor-1998-hkfa-film",
+      "mediaType": "movie",
+      "title": "The Soong Sisters",
+      "releaseDate": "1997",
+      "externalIds": {
+        "imdb": "tt0120164"
+      },
+      "awardYear": 1998,
+      "winner": "姜文",
+      "award": "Best Supporting Actor"
+    },
+    {
+      "id": "hkfa-best-supporting-actress-1998-hkfa-film",
+      "mediaType": "movie",
+      "title": "Eighteen Springs",
+      "releaseDate": "1997",
+      "externalIds": {
+        "imdb": "tt0127468"
+      },
+      "awardYear": 1998,
+      "winner": "梅艷芳",
+      "award": "Best Supporting Actress"
+    },
+    {
+      "id": "hkfa-best-actor-1997-hkfa-film",
+      "mediaType": "movie",
+      "title": "The Log",
+      "releaseDate": "1996",
+      "externalIds": {
+        "imdb": "tt0116902"
+      },
+      "awardYear": 1997,
+      "winner": "鄭則仕",
+      "award": "Best Actor"
+    },
+    {
+      "id": "hkfa-best-actress-1997-hkfa-film",
+      "mediaType": "movie",
+      "title": "Comrades, Almost a Love Story",
+      "releaseDate": "1996",
+      "externalIds": {
+        "imdb": "tt0117905"
+      },
+      "awardYear": 1997,
+      "winner": "張曼玉",
+      "award": "Best Actress"
+    },
+    {
+      "id": "hkfa-best-director-1997-hkfa-film",
+      "mediaType": "movie",
+      "title": "Comrades, Almost a Love Story",
+      "releaseDate": "1996",
+      "externalIds": {
+        "imdb": "tt0117905"
+      },
+      "awardYear": 1997,
+      "winner": "陳可辛",
+      "award": "Best Director"
+    },
+    {
+      "id": "hkfa-best-film-1997-hkfa-film",
+      "mediaType": "movie",
+      "title": "Comrades, Almost a Love Story",
+      "releaseDate": "1996",
+      "externalIds": {
+        "imdb": "tt0117905"
+      },
+      "awardYear": 1997,
+      "winner": "Comrades: Almost a Love Story",
+      "originalTitle": "甜蜜蜜",
+      "award": "Best Film"
+    },
+    {
+      "id": "hkfa-best-new-performer-1997-hkfa-film",
+      "mediaType": "movie",
+      "title": "Viva Erotica",
+      "releaseDate": "1996",
+      "externalIds": {
+        "imdb": "tt0117575"
+      },
+      "awardYear": 1997,
+      "winner": "舒淇",
+      "award": "Best New Performer"
+    },
+    {
+      "id": "hkfa-best-screenplay-1997-hkfa-film",
+      "mediaType": "movie",
+      "title": "Comrades, Almost a Love Story",
+      "releaseDate": "1996",
+      "externalIds": {
+        "imdb": "tt0117905"
+      },
+      "awardYear": 1997,
+      "winner": "岸西",
+      "award": "Best Screenplay"
+    },
+    {
+      "id": "hkfa-best-supporting-actor-1997-hkfa-film",
+      "mediaType": "movie",
+      "title": "Comrades, Almost a Love Story",
+      "releaseDate": "1996",
+      "externalIds": {
+        "imdb": "tt0117905"
+      },
+      "awardYear": 1997,
+      "winner": "曾志偉",
+      "award": "Best Supporting Actor"
+    },
+    {
+      "id": "hkfa-best-supporting-actress-1997-hkfa-film",
+      "mediaType": "movie",
+      "title": "Viva Erotica",
+      "releaseDate": "1996",
+      "externalIds": {
+        "imdb": "tt0117575"
+      },
+      "awardYear": 1997,
+      "winner": "舒淇",
+      "award": "Best Supporting Actress"
+    },
+    {
+      "id": "hkfa-best-actor-1996-hkfa-film",
+      "mediaType": "movie",
+      "title": "Summer Snow",
+      "releaseDate": "1995",
+      "externalIds": {
+        "imdb": "tt0111767"
+      },
+      "awardYear": 1996,
+      "winner": "喬宏",
+      "award": "Best Actor"
+    },
+    {
+      "id": "hkfa-best-actress-1996-hkfa-film",
+      "mediaType": "movie",
+      "title": "Summer Snow",
+      "releaseDate": "1995",
+      "externalIds": {
+        "imdb": "tt0111767"
+      },
+      "awardYear": 1996,
+      "winner": "蕭芳芳",
+      "award": "Best Actress"
+    },
+    {
+      "id": "hkfa-best-director-1996-hkfa-film",
+      "mediaType": "movie",
+      "title": "Summer Snow",
+      "releaseDate": "1995",
+      "externalIds": {
+        "imdb": "tt0111767"
+      },
+      "awardYear": 1996,
+      "winner": "許鞍華",
+      "award": "Best Director"
+    },
+    {
+      "id": "hkfa-best-film-1996-hkfa-film",
+      "mediaType": "movie",
+      "title": "Summer Snow",
+      "releaseDate": "1995",
+      "externalIds": {
+        "imdb": "tt0111767"
+      },
+      "awardYear": 1996,
+      "winner": "Summer Snow",
+      "originalTitle": "女人四十",
+      "award": "Best Film"
+    },
+    {
+      "id": "hkfa-best-new-performer-1996-hkfa-film",
+      "mediaType": "movie",
+      "title": "Those Were the Days...",
+      "releaseDate": "1995",
+      "externalIds": {
+        "imdb": "tt0112673"
+      },
+      "awardYear": 1996,
+      "winner": "巫啟賢",
+      "award": "Best New Performer"
+    },
+    {
+      "id": "hkfa-best-screenplay-1996-hkfa-film",
+      "mediaType": "movie",
+      "title": "Summer Snow",
+      "releaseDate": "1995",
+      "externalIds": {
+        "imdb": "tt0111767"
+      },
+      "awardYear": 1996,
+      "winner": "陳文強",
+      "award": "Best Screenplay"
+    },
+    {
+      "id": "hkfa-best-supporting-actor-1996-hkfa-film",
+      "mediaType": "movie",
+      "title": "Summer Snow",
+      "releaseDate": "1995",
+      "externalIds": {
+        "imdb": "tt0111767"
+      },
+      "awardYear": 1996,
+      "winner": "羅家英",
+      "award": "Best Supporting Actor"
+    },
+    {
+      "id": "hkfa-best-supporting-actress-1996-hkfa-film",
+      "mediaType": "movie",
+      "title": "Fallen Angels",
+      "releaseDate": "1995",
+      "externalIds": {
+        "imdb": "tt0112913"
+      },
+      "awardYear": 1996,
+      "winner": "莫文蔚",
+      "award": "Best Supporting Actress"
+    },
+    {
+      "id": "hkfa-best-actor-1995-hkfa-film",
+      "mediaType": "movie",
+      "title": "Chungking Express",
+      "releaseDate": "1994",
+      "externalIds": {
+        "imdb": "tt0109424"
+      },
+      "awardYear": 1995,
+      "winner": "梁朝偉",
+      "award": "Best Actor"
+    },
+    {
+      "id": "hkfa-best-actress-1995-hkfa-film",
+      "mediaType": "movie",
+      "title": "He's a Woman, She's a Man",
+      "releaseDate": "1994",
+      "externalIds": {
+        "imdb": "tt0109958"
+      },
+      "awardYear": 1995,
+      "winner": "袁詠儀",
+      "award": "Best Actress"
+    },
+    {
+      "id": "hkfa-best-director-1995-hkfa-film",
+      "mediaType": "movie",
+      "title": "Chungking Express",
+      "releaseDate": "1994",
+      "externalIds": {
+        "imdb": "tt0109424"
+      },
+      "awardYear": 1995,
+      "winner": "王家衛",
+      "award": "Best Director"
+    },
+    {
+      "id": "hkfa-best-film-1995-hkfa-film",
+      "mediaType": "movie",
+      "title": "Chungking Express",
+      "releaseDate": "1994",
+      "externalIds": {
+        "imdb": "tt0109424"
+      },
+      "awardYear": 1995,
+      "winner": "Chungking Express",
+      "originalTitle": "重慶森林",
+      "award": "Best Film"
+    },
+    {
+      "id": "hkfa-best-new-performer-1995-hkfa-film",
+      "mediaType": "movie",
+      "title": "I Have a Date with Spring",
+      "releaseDate": "1994",
+      "externalIds": {
+        "imdb": "tt0111739"
+      },
+      "awardYear": 1995,
+      "winner": "劉雅麗",
+      "award": "Best New Performer"
+    },
+    {
+      "id": "hkfa-best-screenplay-1995-hkfa-film",
+      "mediaType": "movie",
+      "title": "I Have a Date with Spring",
+      "releaseDate": "1994",
+      "externalIds": {
+        "imdb": "tt0111739"
+      },
+      "awardYear": 1995,
+      "winner": "杜國威",
+      "award": "Best Screenplay"
+    },
+    {
+      "id": "hkfa-best-supporting-actor-1995-hkfa-film",
+      "mediaType": "movie",
+      "title": "Twenty Something",
+      "releaseDate": "1994",
+      "externalIds": {
+        "imdb": "tt0111661"
+      },
+      "awardYear": 1995,
+      "winner": "陳小春",
+      "award": "Best Supporting Actor"
+    },
+    {
+      "id": "hkfa-best-supporting-actress-1995-hkfa-film",
+      "mediaType": "movie",
+      "title": "I Have a Date with Spring",
+      "releaseDate": "1994",
+      "externalIds": {
+        "imdb": "tt0111739"
+      },
+      "awardYear": 1995,
+      "winner": "羅冠蘭",
+      "award": "Best Supporting Actress"
+    },
+    {
+      "id": "hkfa-best-actor-1994-hkfa-film",
+      "mediaType": "movie",
+      "title": "The Untold Story",
+      "releaseDate": "1993",
+      "externalIds": {
+        "imdb": "tt0103743"
+      },
+      "awardYear": 1994,
+      "winner": "黃秋生",
+      "award": "Best Actor"
+    },
+    {
+      "id": "hkfa-best-actress-1994-hkfa-film",
+      "mediaType": "movie",
+      "title": "C'est La Vie Mon Cheri",
+      "releaseDate": "1993",
+      "externalIds": {
+        "imdb": "tt0111770"
+      },
+      "awardYear": 1994,
+      "winner": "袁詠儀",
+      "award": "Best Actress"
+    },
+    {
+      "id": "hkfa-best-director-1994-hkfa-film",
+      "mediaType": "movie",
+      "title": "C'est La Vie Mon Cheri",
+      "releaseDate": "1993",
+      "externalIds": {
+        "imdb": "tt0111770"
+      },
+      "awardYear": 1994,
+      "winner": "爾冬陞",
+      "award": "Best Director"
+    },
+    {
+      "id": "hkfa-best-film-1994-hkfa-film",
+      "mediaType": "movie",
+      "title": "C'est La Vie Mon Cheri",
+      "releaseDate": "1993",
+      "externalIds": {
+        "imdb": "tt0111770"
+      },
+      "awardYear": 1994,
+      "winner": "C'est la vie, mon chéri",
+      "originalTitle": "新不了情",
+      "award": "Best Film"
+    },
+    {
+      "id": "hkfa-best-new-performer-1994-hkfa-film",
+      "mediaType": "movie",
+      "title": "Temptation of a Monk",
+      "releaseDate": "1993",
+      "externalIds": {
+        "imdb": "tt0108630"
+      },
+      "awardYear": 1994,
+      "winner": "吳興國",
+      "award": "Best New Performer"
+    },
+    {
+      "id": "hkfa-best-screenplay-1994-hkfa-film",
+      "mediaType": "movie",
+      "title": "C'est La Vie Mon Cheri",
+      "releaseDate": "1993",
+      "externalIds": {
+        "imdb": "tt0111770"
+      },
+      "awardYear": 1994,
+      "winner": "爾冬陞",
+      "award": "Best Screenplay"
+    },
+    {
+      "id": "hkfa-best-supporting-actor-1994-hkfa-film",
+      "mediaType": "movie",
+      "title": "C'est La Vie Mon Cheri",
+      "releaseDate": "1993",
+      "externalIds": {
+        "imdb": "tt0111770"
+      },
+      "awardYear": 1994,
+      "winner": "秦沛",
+      "award": "Best Supporting Actor"
+    },
+    {
+      "id": "hkfa-best-supporting-actress-1994-hkfa-film",
+      "mediaType": "movie",
+      "title": "C'est La Vie Mon Cheri",
+      "releaseDate": "1993",
+      "externalIds": {
+        "imdb": "tt0111770"
+      },
+      "awardYear": 1994,
+      "winner": "馮寶寶",
+      "award": "Best Supporting Actress"
+    },
+    {
+      "id": "hkfa-best-actor-1993-92",
+      "mediaType": "movie",
+      "title": "92黑玫瑰對黑玫瑰",
+      "releaseDate": "1992",
+      "externalIds": {
+        "letterboxd": "92"
+      },
+      "awardYear": 1993,
+      "winner": "梁家輝",
+      "award": "Best Actor"
+    },
+    {
+      "id": "hkfa-best-actress-1993-hkfa-film",
+      "mediaType": "movie",
+      "title": "Center Stage",
+      "releaseDate": "1992",
+      "externalIds": {
+        "imdb": "tt0102816"
+      },
+      "awardYear": 1993,
+      "winner": "張曼玉",
+      "award": "Best Actress"
+    },
+    {
+      "id": "hkfa-best-director-1993-hkfa-film",
+      "mediaType": "movie",
+      "title": "Cageman",
+      "releaseDate": "1992",
+      "externalIds": {
+        "imdb": "tt0107461"
+      },
+      "awardYear": 1993,
+      "winner": "張之亮",
+      "award": "Best Director"
+    },
+    {
+      "id": "hkfa-best-film-1993-hkfa-film",
+      "mediaType": "movie",
+      "title": "Cageman",
+      "releaseDate": "1992",
+      "externalIds": {
+        "imdb": "tt0107461"
+      },
+      "awardYear": 1993,
+      "winner": "Cageman",
+      "originalTitle": "籠民",
+      "award": "Best Film"
+    },
+    {
+      "id": "hkfa-best-new-performer-1993-hkfa-film",
+      "mediaType": "movie",
+      "title": "The Days of Being Dumb",
+      "releaseDate": "1992",
+      "externalIds": {
+        "imdb": "tt0105864"
+      },
+      "awardYear": 1993,
+      "winner": "袁詠儀",
+      "award": "Best New Performer"
+    },
+    {
+      "id": "hkfa-best-screenplay-1993-hkfa-film",
+      "mediaType": "movie",
+      "title": "Cageman",
+      "releaseDate": "1992",
+      "externalIds": {
+        "imdb": "tt0107461"
+      },
+      "awardYear": 1993,
+      "winner": "黃仁逵、吳滄洲、張之亮",
+      "award": "Best Screenplay"
+    },
+    {
+      "id": "hkfa-best-supporting-actor-1993-hkfa-film",
+      "mediaType": "movie",
+      "title": "Cageman",
+      "releaseDate": "1992",
+      "externalIds": {
+        "imdb": "tt0107461"
+      },
+      "awardYear": 1993,
+      "winner": "廖啟智",
+      "award": "Best Supporting Actor"
+    },
+    {
+      "id": "hkfa-best-supporting-actress-1993-92",
+      "mediaType": "movie",
+      "title": "92黑玫瑰對黑玫瑰",
+      "releaseDate": "1992",
+      "externalIds": {
+        "letterboxd": "92"
+      },
+      "awardYear": 1993,
+      "winner": "馮寶寶",
+      "award": "Best Supporting Actress"
+    },
+    {
+      "id": "hkfa-best-actor-1992-hkfa-film",
+      "mediaType": "movie",
+      "title": "Alan and Eric: Between Hello and Goodbye",
+      "releaseDate": "1991",
+      "externalIds": {
+        "imdb": "tt0102886"
+      },
+      "awardYear": 1992,
+      "winner": "曾志偉",
+      "award": "Best Actor"
+    },
+    {
+      "id": "hkfa-best-actress-1992-hkfa-film",
+      "mediaType": "movie",
+      "title": "This Thing Called Love",
+      "releaseDate": "1991",
+      "externalIds": {
+        "imdb": "tt0102074"
+      },
+      "awardYear": 1992,
+      "winner": "葉童",
+      "award": "Best Actress"
+    },
+    {
+      "id": "hkfa-best-director-1992-hkfa-film",
+      "mediaType": "movie",
+      "title": "Once Upon a Time in China",
+      "releaseDate": "1991",
+      "externalIds": {
+        "imdb": "tt0103285"
+      },
+      "awardYear": 1992,
+      "winner": "徐克",
+      "award": "Best Director"
+    },
+    {
+      "id": "hkfa-best-film-1992-hkfa-film",
+      "mediaType": "movie",
+      "title": "To Be Number One",
+      "releaseDate": "1991",
+      "externalIds": {
+        "imdb": "tt0101490"
+      },
+      "awardYear": 1992,
+      "winner": "To Be Number One",
+      "originalTitle": "跛豪",
+      "award": "Best Film"
+    },
+    {
+      "id": "hkfa-best-new-performer-1992-hkfa-film",
+      "mediaType": "movie",
+      "title": "Black Cat",
+      "releaseDate": "1991",
+      "externalIds": {
+        "imdb": "tt0101463"
+      },
+      "awardYear": 1992,
+      "winner": "梁琤",
+      "award": "Best New Performer"
+    },
+    {
+      "id": "hkfa-best-screenplay-1992-hkfa-film",
+      "mediaType": "movie",
+      "title": "To Be Number One",
+      "releaseDate": "1991",
+      "externalIds": {
+        "imdb": "tt0101490"
+      },
+      "awardYear": 1992,
+      "winner": "麥當雄、蕭若元",
+      "award": "Best Screenplay"
+    },
+    {
+      "id": "hkfa-best-supporting-actor-1992-hkfa-film",
+      "mediaType": "movie",
+      "title": "Lee Rock",
+      "releaseDate": "1991",
+      "externalIds": {
+        "imdb": "tt0103292"
+      },
+      "awardYear": 1992,
+      "winner": "關海山",
+      "award": "Best Supporting Actor"
+    },
+    {
+      "id": "hkfa-best-supporting-actress-1992-hkfa-film",
+      "mediaType": "movie",
+      "title": "Dances with Dragon",
+      "releaseDate": "1991",
+      "externalIds": {
+        "imdb": "tt0103314"
+      },
+      "awardYear": 1992,
+      "winner": "葉德嫻",
+      "award": "Best Supporting Actress"
+    },
+    {
+      "id": "hkfa-best-actor-1991-hkfa-film",
+      "mediaType": "movie",
+      "title": "Days of Being Wild",
+      "releaseDate": "1990",
+      "externalIds": {
+        "imdb": "tt0101258"
+      },
+      "awardYear": 1991,
+      "winner": "張國榮",
+      "award": "Best Actor"
+    },
+    {
+      "id": "hkfa-best-actress-1991-hkfa-film",
+      "mediaType": "movie",
+      "title": "Her Fatal Ways",
+      "releaseDate": "1990",
+      "externalIds": {
+        "imdb": "tt0101442"
+      },
+      "awardYear": 1991,
+      "winner": "鄭裕玲",
+      "award": "Best Actress"
+    },
+    {
+      "id": "hkfa-best-director-1991-hkfa-film",
+      "mediaType": "movie",
+      "title": "Days of Being Wild",
+      "releaseDate": "1990",
+      "externalIds": {
+        "imdb": "tt0101258"
+      },
+      "awardYear": 1991,
+      "winner": "王家衛",
+      "award": "Best Director"
+    },
+    {
+      "id": "hkfa-best-film-1991-hkfa-film",
+      "mediaType": "movie",
+      "title": "Days of Being Wild",
+      "releaseDate": "1990",
+      "externalIds": {
+        "imdb": "tt0101258"
+      },
+      "awardYear": 1991,
+      "winner": "Days of Being Wild",
+      "originalTitle": "阿飛正傳",
+      "award": "Best Film"
+    },
+    {
+      "id": "hkfa-best-new-performer-1991-hkfa-film",
+      "mediaType": "movie",
+      "title": "Queen of Temple Street",
+      "releaseDate": "1990",
+      "externalIds": {
+        "imdb": "tt0100144"
+      },
+      "awardYear": 1991,
+      "winner": "劉玉翠",
+      "award": "Best New Performer"
+    },
+    {
+      "id": "hkfa-best-screenplay-1991-hkfa-film",
+      "mediaType": "movie",
+      "title": "Queen of Temple Street",
+      "releaseDate": "1990",
+      "externalIds": {
+        "imdb": "tt0100144"
+      },
+      "awardYear": 1991,
+      "winner": "陳文強",
+      "award": "Best Screenplay"
+    },
+    {
+      "id": "hkfa-best-supporting-actor-1991-hkfa-film",
+      "mediaType": "movie",
+      "title": "A Moment of Romance",
+      "releaseDate": "1990",
+      "externalIds": {
+        "imdb": "tt0100777"
+      },
+      "awardYear": 1991,
+      "winner": "吳孟達",
+      "award": "Best Supporting Actor"
+    },
+    {
+      "id": "hkfa-best-supporting-actress-1991-hkfa-film",
+      "mediaType": "movie",
+      "title": "Queen of Temple Street",
+      "releaseDate": "1990",
+      "externalIds": {
+        "imdb": "tt0100144"
+      },
+      "awardYear": 1991,
+      "winner": "劉玉翠",
+      "award": "Best Supporting Actress"
+    },
+    {
+      "id": "hkfa-best-actor-1990-hkfa-film",
+      "mediaType": "movie",
+      "title": "All About Ah-Long",
+      "releaseDate": "1989",
+      "externalIds": {
+        "imdb": "tt0098694"
+      },
+      "awardYear": 1990,
+      "winner": "周潤發",
+      "award": "Best Actor"
+    },
+    {
+      "id": "hkfa-best-actress-1990-hkfa-film",
+      "mediaType": "movie",
+      "title": "A Fishy Story",
+      "releaseDate": "1989",
+      "externalIds": {
+        "imdb": "tt0096989"
+      },
+      "awardYear": 1990,
+      "winner": "張曼玉",
+      "award": "Best Actress"
+    },
+    {
+      "id": "hkfa-best-director-1990-hkfa-film",
+      "mediaType": "movie",
+      "title": "The Killer",
+      "releaseDate": "1989",
+      "externalIds": {
+        "imdb": "tt0097202"
+      },
+      "awardYear": 1990,
+      "winner": "吳宇森",
+      "award": "Best Director"
+    },
+    {
+      "id": "hkfa-best-film-1990-hkfa-film",
+      "mediaType": "movie",
+      "title": "Beyond the Sunset",
+      "releaseDate": "1989",
+      "externalIds": {
+        "imdb": "tt0097344"
+      },
+      "awardYear": 1990,
+      "winner": "Beyond the Sunset",
+      "originalTitle": "飛越黃昏",
+      "award": "Best Film"
+    },
+    {
+      "id": "hkfa-best-new-performer-1990-hkfa-film",
+      "mediaType": "movie",
+      "title": "Fly Me to the Moon",
+      "releaseDate": "1989",
+      "externalIds": {
+        "imdb": "tt27139786"
+      },
+      "awardYear": 1990,
+      "winner": "江華",
+      "award": "Best New Performer"
+    },
+    {
+      "id": "hkfa-best-screenplay-1990-hkfa-film",
+      "mediaType": "movie",
+      "title": "Beyond the Sunset",
+      "releaseDate": "1989",
+      "externalIds": {
+        "imdb": "tt0097344"
+      },
+      "awardYear": 1990,
+      "winner": "張之亮、陳錦昌",
+      "award": "Best Screenplay"
+    },
+    {
+      "id": "hkfa-best-supporting-actor-1990-hkfa-film",
+      "mediaType": "movie",
+      "title": "My Heart Is That Eternal Rose",
+      "releaseDate": "1989",
+      "externalIds": {
+        "imdb": "tt0093944"
+      },
+      "awardYear": 1990,
+      "winner": "梁朝偉",
+      "award": "Best Supporting Actor"
+    },
+    {
+      "id": "hkfa-best-supporting-actress-1990-hkfa-film",
+      "mediaType": "movie",
+      "title": "Beyond the Sunset",
+      "releaseDate": "1989",
+      "externalIds": {
+        "imdb": "tt0097344"
+      },
+      "awardYear": 1990,
+      "winner": "葉童",
+      "award": "Best Supporting Actress"
+    },
+    {
+      "id": "hkfa-best-actor-1989-hkfa-film",
+      "mediaType": "movie",
+      "title": "Painted Faces",
+      "releaseDate": "1988",
+      "externalIds": {
+        "imdb": "tt0095937"
+      },
+      "awardYear": 1989,
+      "winner": "洪金寶",
+      "award": "Best Actor"
+    },
+    {
+      "id": "hkfa-best-actress-1989-hkfa-film",
+      "mediaType": "movie",
+      "title": "Rouge",
+      "releaseDate": "1988",
+      "externalIds": {
+        "imdb": "tt0093258"
+      },
+      "awardYear": 1989,
+      "winner": "梅艷芳",
+      "award": "Best Actress"
+    },
+    {
+      "id": "hkfa-best-director-1989-hkfa-film",
+      "mediaType": "movie",
+      "title": "Rouge",
+      "releaseDate": "1988",
+      "externalIds": {
+        "imdb": "tt0093258"
+      },
+      "awardYear": 1989,
+      "winner": "關錦鵬",
+      "award": "Best Director"
+    },
+    {
+      "id": "hkfa-best-film-1989-hkfa-film",
+      "mediaType": "movie",
+      "title": "Rouge",
+      "releaseDate": "1988",
+      "externalIds": {
+        "imdb": "tt0093258"
+      },
+      "awardYear": 1989,
+      "winner": "Rouge",
+      "originalTitle": "胭脂扣",
+      "award": "Best Film"
+    },
+    {
+      "id": "hkfa-best-new-performer-1989-hkfa-film",
+      "mediaType": "movie",
+      "title": "Starry Is the Night",
+      "releaseDate": "1988",
+      "externalIds": {
+        "imdb": "tt0095405"
+      },
+      "awardYear": 1989,
+      "winner": "吳大維",
+      "award": "Best New Performer"
+    },
+    {
+      "id": "hkfa-best-screenplay-1989-hkfa-film",
+      "mediaType": "movie",
+      "title": "Heart to Hearts",
+      "releaseDate": "1988",
+      "externalIds": {
+        "imdb": "tt0096032"
+      },
+      "awardYear": 1989,
+      "winner": "聶宏風、邵國華、陳嘉上、葉廣儉",
+      "award": "Best Screenplay"
+    },
+    {
+      "id": "hkfa-best-supporting-actor-1989-hkfa-film",
+      "mediaType": "movie",
+      "title": "As Tears Go By",
+      "releaseDate": "1988",
+      "externalIds": {
+        "imdb": "tt0096461"
+      },
+      "awardYear": 1989,
+      "winner": "張學友",
+      "award": "Best Supporting Actor"
+    },
+    {
+      "id": "hkfa-best-supporting-actress-1989-hkfa-film",
+      "mediaType": "movie",
+      "title": "School on Fire",
+      "releaseDate": "1988",
+      "externalIds": {
+        "imdb": "tt0096472"
+      },
+      "awardYear": 1989,
+      "winner": "李麗蕊",
+      "award": "Best Supporting Actress"
+    },
+    {
+      "id": "hkfa-best-actor-1988-hkfa-film",
+      "mediaType": "movie",
+      "title": "City on Fire",
+      "releaseDate": "1987",
+      "externalIds": {
+        "imdb": "tt0093435"
+      },
+      "awardYear": 1988,
+      "winner": "周潤發",
+      "award": "Best Actor"
+    },
+    {
+      "id": "hkfa-best-actress-1988-hkfa-film",
+      "mediaType": "movie",
+      "title": "The Wrong Couples",
+      "releaseDate": "1987",
+      "externalIds": {
+        "imdb": "tt0092704"
+      },
+      "awardYear": 1988,
+      "winner": "蕭芳芳",
+      "award": "Best Actress"
+    },
+    {
+      "id": "hkfa-best-director-1988-hkfa-film",
+      "mediaType": "movie",
+      "title": "City on Fire",
+      "releaseDate": "1987",
+      "externalIds": {
+        "imdb": "tt0093435"
+      },
+      "awardYear": 1988,
+      "winner": "林嶺東",
+      "award": "Best Director"
+    },
+    {
+      "id": "hkfa-best-film-1988-hkfa-film",
+      "mediaType": "movie",
+      "title": "An Autumn's Tale",
+      "releaseDate": "1987",
+      "externalIds": {
+        "imdb": "tt0093426"
+      },
+      "awardYear": 1988,
+      "winner": "An Autumn's Tale",
+      "originalTitle": "秋天的童話",
+      "award": "Best Film"
+    },
+    {
+      "id": "hkfa-best-new-performer-1988-hkfa-film",
+      "mediaType": "movie",
+      "title": "Long Arm of the Law II",
+      "releaseDate": "1987",
+      "externalIds": {
+        "imdb": "tt0093957"
+      },
+      "awardYear": 1988,
+      "winner": "林國斌",
+      "award": "Best New Performer"
+    },
+    {
+      "id": "hkfa-best-screenplay-1988-hkfa-film",
+      "mediaType": "movie",
+      "title": "An Autumn's Tale",
+      "releaseDate": "1987",
+      "externalIds": {
+        "imdb": "tt0093426"
+      },
+      "awardYear": 1988,
+      "winner": "羅啟銳",
+      "award": "Best Screenplay"
+    },
+    {
+      "id": "hkfa-best-supporting-actor-1988-hkfa-film",
+      "mediaType": "movie",
+      "title": "People's Hero",
+      "releaseDate": "1987",
+      "externalIds": {
+        "imdb": "tt0093845"
+      },
+      "awardYear": 1988,
+      "winner": "梁朝偉",
+      "award": "Best Supporting Actor"
+    },
+    {
+      "id": "hkfa-best-supporting-actress-1988-hkfa-film",
+      "mediaType": "movie",
+      "title": "People's Hero",
+      "releaseDate": "1987",
+      "externalIds": {
+        "imdb": "tt0093845"
+      },
+      "awardYear": 1988,
+      "winner": "金燕玲",
+      "award": "Best Supporting Actress"
+    },
+    {
+      "id": "hkfa-best-actor-1987-hkfa-film",
+      "mediaType": "movie",
+      "title": "A Better Tomorrow",
+      "releaseDate": "1986",
+      "externalIds": {
+        "imdb": "tt0092263"
+      },
+      "awardYear": 1987,
+      "winner": "周潤發",
+      "award": "Best Actor"
+    },
+    {
+      "id": "hkfa-best-actress-1987-hkfa-film",
+      "mediaType": "movie",
+      "title": "Passion",
+      "releaseDate": "1986",
+      "externalIds": {
+        "imdb": "tt0092301"
+      },
+      "awardYear": 1987,
+      "winner": "張艾嘉",
+      "award": "Best Actress"
+    },
+    {
+      "id": "hkfa-best-director-1987-hkfa-film",
+      "mediaType": "movie",
+      "title": "Just Like Weather",
+      "releaseDate": "1986",
+      "externalIds": {
+        "imdb": "tt0091505"
+      },
+      "awardYear": 1987,
+      "winner": "方育平",
+      "award": "Best Director"
+    },
+    {
+      "id": "hkfa-best-film-1987-hkfa-film",
+      "mediaType": "movie",
+      "title": "A Better Tomorrow",
+      "releaseDate": "1986",
+      "externalIds": {
+        "imdb": "tt0092263"
+      },
+      "awardYear": 1987,
+      "winner": "A Better Tomorrow",
+      "originalTitle": "英雄本色",
+      "award": "Best Film"
+    },
+    {
+      "id": "hkfa-best-new-performer-1987-hkfa-film",
+      "mediaType": "movie",
+      "title": "Just Like Weather",
+      "releaseDate": "1986",
+      "externalIds": {
+        "imdb": "tt0091505"
+      },
+      "awardYear": 1987,
+      "winner": "利玉娟",
+      "award": "Best New Performer"
+    },
+    {
+      "id": "hkfa-best-screenplay-1987-hkfa-film",
+      "mediaType": "movie",
+      "title": "Love Unto Wastes",
+      "releaseDate": "1986",
+      "externalIds": {
+        "imdb": "tt0090922"
+      },
+      "awardYear": 1987,
+      "winner": "黎傑、邱戴安平",
+      "award": "Best Screenplay"
+    },
+    {
+      "id": "hkfa-best-supporting-actor-1987-hkfa-film",
+      "mediaType": "movie",
+      "title": "The Lunatics",
+      "releaseDate": "1986",
+      "externalIds": {
+        "imdb": "tt0090940"
+      },
+      "awardYear": 1987,
+      "winner": "秦沛",
+      "award": "Best Supporting Actor"
+    },
+    {
+      "id": "hkfa-best-supporting-actress-1987-hkfa-film",
+      "mediaType": "movie",
+      "title": "Love Unto Wastes",
+      "releaseDate": "1986",
+      "externalIds": {
+        "imdb": "tt0090922"
+      },
+      "awardYear": 1987,
+      "winner": "金燕玲",
+      "award": "Best Supporting Actress"
+    },
+    {
+      "id": "hkfa-best-actor-1986-hkfa-film",
+      "mediaType": "movie",
+      "title": "Why Me?",
+      "releaseDate": "1985",
+      "externalIds": {
+        "imdb": "tt0089259"
+      },
+      "awardYear": 1986,
+      "winner": "鄭則仕",
+      "award": "Best Actor"
+    },
+    {
+      "id": "hkfa-best-actress-1986-hkfa-film",
+      "mediaType": "movie",
+      "title": "Love with the Perfect Stranger",
+      "releaseDate": "1985",
+      "externalIds": {
+        "imdb": "tt0089515"
+      },
+      "awardYear": 1986,
+      "winner": "王小鳳",
+      "award": "Best Actress"
+    },
+    {
+      "id": "hkfa-best-director-1986-hkfa-film",
+      "mediaType": "movie",
+      "title": "The Illegal Immigrant",
+      "releaseDate": "1985",
+      "externalIds": {
+        "imdb": "tt0089133"
+      },
+      "awardYear": 1986,
+      "winner": "張婉婷",
+      "award": "Best Director"
+    },
+    {
+      "id": "hkfa-best-film-1986-hkfa-film",
+      "mediaType": "movie",
+      "title": "Police Story",
+      "releaseDate": "1985",
+      "externalIds": {
+        "imdb": "tt0089374"
+      },
+      "awardYear": 1986,
+      "winner": "Police Story",
+      "originalTitle": "警察故事",
+      "award": "Best Film"
+    },
+    {
+      "id": "hkfa-best-new-performer-1986-hkfa-film",
+      "mediaType": "movie",
+      "title": "Hong Kong Graffiti",
+      "releaseDate": "1985",
+      "externalIds": {
+        "imdb": "tt0115000"
+      },
+      "awardYear": 1986,
+      "winner": "陳婉麗",
+      "award": "Best New Performer"
+    },
+    {
+      "id": "hkfa-best-screenplay-1986-hkfa-film",
+      "mediaType": "movie",
+      "title": "Love with the Perfect Stranger",
+      "releaseDate": "1985",
+      "externalIds": {
+        "imdb": "tt0089515"
+      },
+      "awardYear": 1986,
+      "winner": "陸劍明、鄧榮銾",
+      "award": "Best Screenplay"
+    },
+    {
+      "id": "hkfa-best-supporting-actor-1986-hkfa-film",
+      "mediaType": "movie",
+      "title": "Yes, Madam!",
+      "releaseDate": "1985",
+      "externalIds": {
+        "imdb": "tt0093229"
+      },
+      "awardYear": 1986,
+      "winner": "孟海",
+      "award": "Best Supporting Actor"
+    },
+    {
+      "id": "hkfa-best-supporting-actress-1986-hkfa-film",
+      "mediaType": "movie",
+      "title": "My Name Ain't Suzie",
+      "releaseDate": "1985",
+      "externalIds": {
+        "imdb": "tt0089651"
+      },
+      "awardYear": 1986,
+      "winner": "葉德嫻",
+      "award": "Best Supporting Actress"
+    },
+    {
+      "id": "hkfa-best-actor-1985-hkfa-film",
+      "mediaType": "movie",
+      "title": "Law with Two Phases",
+      "releaseDate": "1984",
+      "externalIds": {
+        "imdb": "tt0087352"
+      },
+      "awardYear": 1985,
+      "winner": "李修賢",
+      "award": "Best Actor"
+    },
+    {
+      "id": "hkfa-best-actress-1985-hkfa-film",
+      "mediaType": "movie",
+      "title": "Homecoming",
+      "releaseDate": "1984",
+      "externalIds": {
+        "imdb": "tt0088126"
+      },
+      "awardYear": 1985,
+      "winner": "斯琴高娃",
+      "award": "Best Actress"
+    },
+    {
+      "id": "hkfa-best-director-1985-hkfa-film",
+      "mediaType": "movie",
+      "title": "Homecoming",
+      "releaseDate": "1984",
+      "externalIds": {
+        "imdb": "tt0088126"
+      },
+      "awardYear": 1985,
+      "winner": "嚴浩",
+      "award": "Best Director"
+    },
+    {
+      "id": "hkfa-best-film-1985-hkfa-film",
+      "mediaType": "movie",
+      "title": "Homecoming",
+      "releaseDate": "1984",
+      "externalIds": {
+        "imdb": "tt0088126"
+      },
+      "awardYear": 1985,
+      "winner": "Homecoming",
+      "originalTitle": "似水流年",
+      "award": "Best Film"
+    },
+    {
+      "id": "hkfa-best-new-performer-1985-hkfa-film",
+      "mediaType": "movie",
+      "title": "Homecoming",
+      "releaseDate": "1984",
+      "externalIds": {
+        "imdb": "tt0088126"
+      },
+      "awardYear": 1985,
+      "winner": "顧美華",
+      "award": "Best New Performer"
+    },
+    {
+      "id": "hkfa-best-screenplay-1985-hkfa-film",
+      "mediaType": "movie",
+      "title": "Homecoming",
+      "releaseDate": "1984",
+      "externalIds": {
+        "imdb": "tt0088126"
+      },
+      "awardYear": 1985,
+      "winner": "孔良",
+      "award": "Best Screenplay"
+    },
+    {
+      "id": "hkfa-best-supporting-actor-1985-hkfa-film",
+      "mediaType": "movie",
+      "title": "Long Arm of the Law",
+      "releaseDate": "1984",
+      "externalIds": {
+        "imdb": "tt0088107"
+      },
+      "awardYear": 1985,
+      "winner": "沈威",
+      "award": "Best Supporting Actor"
+    },
+    {
+      "id": "hkfa-best-supporting-actress-1985-hkfa-film",
+      "mediaType": "movie",
+      "title": "Behind the Yellow Line",
+      "releaseDate": "1984",
+      "externalIds": {
+        "imdb": "tt0086950"
+      },
+      "awardYear": 1985,
+      "winner": "梅艷芳",
+      "award": "Best Supporting Actress"
+    },
+    {
+      "id": "hkfa-best-actor-1984-hkfa-film",
+      "mediaType": "movie",
+      "title": "Reign Behind a Curtain",
+      "releaseDate": "1983",
+      "externalIds": {
+        "imdb": "tt0085336"
+      },
+      "awardYear": 1984,
+      "winner": "梁家輝",
+      "award": "Best Actor"
+    },
+    {
+      "id": "hkfa-best-actress-1984-hkfa-film",
+      "mediaType": "movie",
+      "title": "Let's Make Laugh",
+      "releaseDate": "1983",
+      "externalIds": {
+        "imdb": "tt0085833"
+      },
+      "awardYear": 1984,
+      "winner": "葉童",
+      "award": "Best Actress"
+    },
+    {
+      "id": "hkfa-best-director-1984-hkfa-film",
+      "mediaType": "movie",
+      "title": "Ah Ying",
+      "releaseDate": "1983",
+      "externalIds": {
+        "imdb": "tt0085144"
+      },
+      "awardYear": 1984,
+      "winner": "方育平",
+      "award": "Best Director"
+    },
+    {
+      "id": "hkfa-best-film-1984-hkfa-film",
+      "mediaType": "movie",
+      "title": "Ah Ying",
+      "releaseDate": "1983",
+      "externalIds": {
+        "imdb": "tt0085144"
+      },
+      "awardYear": 1984,
+      "winner": "Ah Ying",
+      "originalTitle": "半邊人",
+      "award": "Best Film"
+    },
+    {
+      "id": "hkfa-best-new-performer-1984-hkfa-film",
+      "mediaType": "movie",
+      "title": "Last Affair",
+      "releaseDate": "1983",
+      "externalIds": {
+        "imdb": "tt0085697"
+      },
+      "awardYear": 1984,
+      "winner": "鄭裕玲",
+      "award": "Best New Performer"
+    },
+    {
+      "id": "hkfa-best-screenplay-1984-hkfa-film",
+      "mediaType": "movie",
+      "title": "Let's Make Laugh",
+      "releaseDate": "1983",
+      "externalIds": {
+        "imdb": "tt0085833"
+      },
+      "awardYear": 1984,
+      "winner": "張堅庭",
+      "award": "Best Screenplay"
+    },
+    {
+      "id": "hkfa-best-actor-1983-hkfa-film",
+      "mediaType": "movie",
+      "title": "Aces Go Places",
+      "releaseDate": "1982",
+      "externalIds": {
+        "imdb": "tt0084955"
+      },
+      "awardYear": 1983,
+      "winner": "麥嘉",
+      "award": "Best Actor"
+    },
+    {
+      "id": "hkfa-best-actress-1983-hkfa-film",
+      "mediaType": "movie",
+      "title": "Lonely Fifteen",
+      "releaseDate": "1982",
+      "externalIds": {
+        "imdb": "tt0084263"
+      },
+      "awardYear": 1983,
+      "winner": "林碧琪",
+      "award": "Best Actress"
+    },
+    {
+      "id": "hkfa-best-director-1983-hkfa-film",
+      "mediaType": "movie",
+      "title": "Boat People",
+      "releaseDate": "1982",
+      "externalIds": {
+        "imdb": "tt0084807"
+      },
+      "awardYear": 1983,
+      "winner": "許鞍華",
+      "award": "Best Director"
+    },
+    {
+      "id": "hkfa-best-film-1983-hkfa-film",
+      "mediaType": "movie",
+      "title": "Boat People",
+      "releaseDate": "1982",
+      "externalIds": {
+        "imdb": "tt0084807"
+      },
+      "awardYear": 1983,
+      "winner": "Boat People",
+      "originalTitle": "投奔怒海",
+      "award": "Best Film"
+    },
+    {
+      "id": "hkfa-best-new-performer-1983-hkfa-film",
+      "mediaType": "movie",
+      "title": "Boat People",
+      "releaseDate": "1982",
+      "externalIds": {
+        "imdb": "tt0084807"
+      },
+      "awardYear": 1983,
+      "winner": "馬斯晨",
+      "award": "Best New Performer"
+    },
+    {
+      "id": "hkfa-best-screenplay-1983-hkfa-film",
+      "mediaType": "movie",
+      "title": "Boat People",
+      "releaseDate": "1982",
+      "externalIds": {
+        "imdb": "tt0084807"
+      },
+      "awardYear": 1983,
+      "winner": "邱戴安平",
+      "award": "Best Screenplay"
+    },
+    {
+      "id": "hkfa-best-actor-1982-hkfa-film",
+      "mediaType": "movie",
+      "title": "Security Unlimited",
+      "releaseDate": "1981",
+      "externalIds": {
+        "imdb": "tt0082761"
+      },
+      "awardYear": 1982,
+      "winner": "許冠文",
+      "award": "Best Actor"
+    },
+    {
+      "id": "hkfa-best-actress-1982-hkfa-film",
+      "mediaType": "movie",
+      "title": "My Young Auntie",
+      "releaseDate": "1981",
+      "externalIds": {
+        "imdb": "tt0080717"
+      },
+      "awardYear": 1982,
+      "winner": "惠英紅",
+      "award": "Best Actress"
+    },
+    {
+      "id": "hkfa-best-director-1982-hkfa-film",
+      "mediaType": "movie",
+      "title": "Father and Son",
+      "releaseDate": "1981",
+      "externalIds": {
+        "imdb": "tt0082428"
+      },
+      "awardYear": 1982,
+      "winner": "方育平",
+      "award": "Best Director"
+    },
+    {
+      "id": "hkfa-best-film-1982-hkfa-film",
+      "mediaType": "movie",
+      "title": "Father and Son",
+      "releaseDate": "1981",
+      "externalIds": {
+        "imdb": "tt0082428"
+      },
+      "awardYear": 1982,
+      "winner": "Father and Son",
+      "originalTitle": "父子情",
+      "award": "Best Film"
+    },
+    {
+      "id": "hkfa-best-screenplay-1982-hkfa-film",
+      "mediaType": "movie",
+      "title": "The Story of Woo Viet",
+      "releaseDate": "1981",
+      "externalIds": {
+        "imdb": "tt0082534"
+      },
+      "awardYear": 1982,
+      "winner": "張堅庭",
+      "award": "Best Screenplay"
+    }
+  ]
+}

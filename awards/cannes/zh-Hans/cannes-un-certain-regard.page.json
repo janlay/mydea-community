@@ -1,0 +1,412 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "title": "戛纳 — 一种关注",
+  "author": "Mydea",
+  "updatedAt": "2026-09-16T04:43:24Z",
+  "description": "戛纳电影节一种关注单元历届奖项。",
+  "tags": [
+    "award",
+    "cannes",
+    "prize"
+  ],
+  "icon": "ticket",
+  "collections": [
+    {
+      "title": "戛纳 — 一种关注大奖",
+      "description": "戛纳电影节一种关注单元历届奖项。 一种关注大奖.",
+      "layout": "carousel",
+      "limit": 10,
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/zh-Hans/cannes.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "cannes-un-certain-regard-prize-award",
+          "targetType": "movie",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "一种关注大奖",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "戛纳 — 一种关注评审团奖",
+      "description": "戛纳电影节一种关注单元历届奖项。 一种关注评审团奖.",
+      "layout": "grid",
+      "limit": 10,
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/zh-Hans/cannes.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "cannes-ucr-jury-prize-award",
+          "targetType": "movie",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "一种关注评审团奖",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "戛纳 — 一种关注最佳导演",
+      "description": "戛纳电影节一种关注单元历届奖项。 一种关注最佳导演.",
+      "layout": "grid",
+      "limit": 10,
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/zh-Hans/cannes.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "cannes-ucr-best-director-award",
+          "targetType": "movie",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "一种关注最佳导演",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "戛纳 — 一种关注最佳编剧",
+      "description": "戛纳电影节一种关注单元历届奖项。 一种关注最佳编剧.",
+      "layout": "grid",
+      "limit": 10,
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/zh-Hans/cannes.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "cannes-ucr-best-screenplay-award",
+          "targetType": "movie",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "一种关注最佳编剧",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "戛纳 — 一种关注最佳女演员",
+      "description": "戛纳电影节一种关注单元历届奖项。 一种关注最佳女演员.",
+      "layout": "grid",
+      "limit": 10,
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/zh-Hans/cannes.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "cannes-ucr-best-actress-award",
+          "targetType": "movie",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "一种关注最佳女演员",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "戛纳 — 一种关注最佳男演员",
+      "description": "戛纳电影节一种关注单元历届奖项。 一种关注最佳男演员.",
+      "layout": "grid",
+      "limit": 10,
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/zh-Hans/cannes.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "cannes-ucr-best-actor-award",
+          "targetType": "movie",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "一种关注最佳男演员",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "戛纳 — 一种关注最佳表演",
+      "description": "戛纳电影节一种关注单元历届奖项。 一种关注最佳表演.",
+      "layout": "grid",
+      "limit": 10,
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/zh-Hans/cannes.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "cannes-ucr-best-performance-award",
+          "targetType": "movie",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "一种关注最佳表演",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "戛纳 — 一种关注评审团特别奖",
+      "description": "戛纳电影节一种关注单元历届奖项。 一种关注评审团特别奖.",
+      "layout": "grid",
+      "limit": 10,
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/zh-Hans/cannes.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "cannes-ucr-special-jury-prize-award",
+          "targetType": "movie",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "一种关注评审团特别奖",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "戛纳 — 一种关注心动奖",
+      "description": "戛纳电影节一种关注单元历届奖项。 一种关注心动奖.",
+      "layout": "grid",
+      "limit": 10,
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/zh-Hans/cannes.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "cannes-ucr-coup-de-coeur-award",
+          "targetType": "movie",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "一种关注心动奖",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "戛纳 — 一种关注特别提及",
+      "description": "戛纳电影节一种关注单元历届奖项。 一种关注特别提及.",
+      "layout": "grid",
+      "limit": 10,
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/zh-Hans/cannes.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "cannes-ucr-special-mention-award",
+          "targetType": "movie",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "一种关注特别提及",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "戛纳 — 一种关注其他特别奖",
+      "description": "戛纳电影节一种关注单元历届奖项。 一种关注其他特别奖.",
+      "layout": "grid",
+      "limit": 10,
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/zh-Hans/cannes.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "cannes-ucr-special-distinctions-award",
+          "targetType": "movie",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "一种关注其他特别奖",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    }
+  ]
+}

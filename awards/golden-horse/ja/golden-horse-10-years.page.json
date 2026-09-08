@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "title": "金馬奨 — 直近10回",
+  "icon": "ticket",
+  "collections": [
+    {
+      "title": "金馬奨 — 2025",
+      "description": "2025年金馬奨の主要賞受賞作品と受賞者。",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "carousel",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/ja/golden-horse.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ],
+      "filters": [
+        {
+          "id": "golden-horse-2025-year",
+          "targetType": "movie",
+          "field": "awardYear",
+          "fieldType": "number",
+          "operator": "equals",
+          "value": "2025",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "金馬奨 2016–2024",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/ja/golden-horse.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ],
+      "filters": [
+        {
+          "id": "older-years-from",
+          "targetType": "movie",
+          "field": "awardYear",
+          "fieldType": "number",
+          "operator": "greaterThan",
+          "value": "2015",
+          "isNegated": false
+        },
+        {
+          "id": "older-years-to",
+          "targetType": "movie",
+          "field": "awardYear",
+          "fieldType": "number",
+          "operator": "lessThan",
+          "value": "2025",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all",
+      "grouping": {
+        "field": "awardYear",
+        "buckets": "2024,2023,,2016",
+        "label": "{start}"
+      }
+    }
+  ],
+  "description": "直近10回（2016〜2025年）の金馬奨における主要部門の受賞リスト。",
+  "tags": [
+    "award",
+    "decade"
+  ]
+}

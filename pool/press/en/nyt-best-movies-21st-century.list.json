@@ -1,0 +1,1215 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-26T13:23:00Z",
+  "title": "The New York Times — The 100 Best Movies of the 21st Century",
+  "description": "The complete New York Times “The 100 Best Movies of the 21st Century” ranking, preserving the original ranking order and the release year shown by the list.",
+  "tags": [
+    "press",
+    "movie",
+    "nytimes"
+  ],
+  "items": [
+    {
+      "id": "nyt-best-movie-001",
+      "mediaType": "movie",
+      "title": "Parasite",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6751668"
+      },
+      "rank": 1,
+      "ranking": "#1",
+      "releaseYear": 2019
+    },
+    {
+      "id": "nyt-best-movie-002",
+      "mediaType": "movie",
+      "title": "Mulholland Drive",
+      "releaseDate": "2001",
+      "externalIds": {
+        "imdb": "tt0166924"
+      },
+      "rank": 2,
+      "ranking": "#2",
+      "releaseYear": 2001
+    },
+    {
+      "id": "nyt-best-movie-003",
+      "mediaType": "movie",
+      "title": "There Will Be Blood",
+      "releaseDate": "2007",
+      "externalIds": {
+        "imdb": "tt0469494"
+      },
+      "rank": 3,
+      "ranking": "#3",
+      "releaseYear": 2007
+    },
+    {
+      "id": "nyt-best-movie-004",
+      "mediaType": "movie",
+      "title": "In the Mood for Love",
+      "releaseDate": "2001",
+      "externalIds": {
+        "imdb": "tt0118694"
+      },
+      "rank": 4,
+      "ranking": "#4",
+      "releaseYear": 2001
+    },
+    {
+      "id": "nyt-best-movie-005",
+      "mediaType": "movie",
+      "title": "Moonlight",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4975722"
+      },
+      "rank": 5,
+      "ranking": "#5",
+      "releaseYear": 2016
+    },
+    {
+      "id": "nyt-best-movie-006",
+      "mediaType": "movie",
+      "title": "No Country for Old Men",
+      "releaseDate": "2007",
+      "externalIds": {
+        "imdb": "tt0477348"
+      },
+      "rank": 6,
+      "ranking": "#6",
+      "releaseYear": 2007
+    },
+    {
+      "id": "nyt-best-movie-007",
+      "mediaType": "movie",
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "releaseDate": "2004",
+      "externalIds": {
+        "imdb": "tt0338013"
+      },
+      "rank": 7,
+      "ranking": "#7",
+      "releaseYear": 2004
+    },
+    {
+      "id": "nyt-best-movie-008",
+      "mediaType": "movie",
+      "title": "Get Out",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5052448"
+      },
+      "rank": 8,
+      "ranking": "#8",
+      "releaseYear": 2017
+    },
+    {
+      "id": "nyt-best-movie-009",
+      "mediaType": "movie",
+      "title": "Spirited Away",
+      "releaseDate": "2002",
+      "externalIds": {
+        "imdb": "tt0245429"
+      },
+      "rank": 9,
+      "ranking": "#9",
+      "releaseYear": 2002
+    },
+    {
+      "id": "nyt-best-movie-010",
+      "mediaType": "movie",
+      "title": "The Social Network",
+      "releaseDate": "2010",
+      "externalIds": {
+        "imdb": "tt1285016"
+      },
+      "rank": 10,
+      "ranking": "#10",
+      "releaseYear": 2010
+    },
+    {
+      "id": "nyt-best-movie-011",
+      "mediaType": "movie",
+      "title": "Mad Max: Fury Road",
+      "releaseDate": "2015",
+      "externalIds": {
+        "imdb": "tt1392190"
+      },
+      "rank": 11,
+      "ranking": "#11",
+      "releaseYear": 2015
+    },
+    {
+      "id": "nyt-best-movie-012",
+      "mediaType": "movie",
+      "title": "The Zone of Interest",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt7160372"
+      },
+      "rank": 12,
+      "ranking": "#12",
+      "releaseYear": 2023
+    },
+    {
+      "id": "nyt-best-movie-013",
+      "mediaType": "movie",
+      "title": "Children of Men",
+      "releaseDate": "2006",
+      "externalIds": {
+        "imdb": "tt0206634"
+      },
+      "rank": 13,
+      "ranking": "#13",
+      "releaseYear": 2006
+    },
+    {
+      "id": "nyt-best-movie-014",
+      "mediaType": "movie",
+      "title": "Inglourious Basterds",
+      "releaseDate": "2009",
+      "externalIds": {
+        "imdb": "tt0361748"
+      },
+      "rank": 14,
+      "ranking": "#14",
+      "releaseYear": 2009
+    },
+    {
+      "id": "nyt-best-movie-015",
+      "mediaType": "movie",
+      "title": "City of God",
+      "releaseDate": "2003",
+      "externalIds": {
+        "imdb": "tt0317248"
+      },
+      "rank": 15,
+      "ranking": "#15",
+      "releaseYear": 2003
+    },
+    {
+      "id": "nyt-best-movie-016",
+      "mediaType": "movie",
+      "title": "Crouching Tiger, Hidden Dragon",
+      "releaseDate": "2000",
+      "externalIds": {
+        "imdb": "tt0190332"
+      },
+      "rank": 16,
+      "ranking": "#16",
+      "releaseYear": 2000
+    },
+    {
+      "id": "nyt-best-movie-017",
+      "mediaType": "movie",
+      "title": "Brokeback Mountain",
+      "releaseDate": "2005",
+      "externalIds": {
+        "imdb": "tt0388795"
+      },
+      "rank": 17,
+      "ranking": "#17",
+      "releaseYear": 2005
+    },
+    {
+      "id": "nyt-best-movie-018",
+      "mediaType": "movie",
+      "title": "Y tu mamá también",
+      "releaseDate": "2002",
+      "externalIds": {
+        "imdb": "tt0245574"
+      },
+      "rank": 18,
+      "ranking": "#18",
+      "releaseYear": 2002
+    },
+    {
+      "id": "nyt-best-movie-019",
+      "mediaType": "movie",
+      "title": "Zodiac",
+      "releaseDate": "2007",
+      "externalIds": {
+        "imdb": "tt0443706"
+      },
+      "rank": 19,
+      "ranking": "#19",
+      "releaseYear": 2007
+    },
+    {
+      "id": "nyt-best-movie-020",
+      "mediaType": "movie",
+      "title": "The Wolf of Wall Street",
+      "releaseDate": "2013",
+      "externalIds": {
+        "imdb": "tt0993846"
+      },
+      "rank": 20,
+      "ranking": "#20",
+      "releaseYear": 2013
+    },
+    {
+      "id": "nyt-best-movie-021",
+      "mediaType": "movie",
+      "title": "The Royal Tenenbaums",
+      "releaseDate": "2001",
+      "externalIds": {
+        "imdb": "tt0265666"
+      },
+      "rank": 21,
+      "ranking": "#21",
+      "releaseYear": 2001
+    },
+    {
+      "id": "nyt-best-movie-022",
+      "mediaType": "movie",
+      "title": "The Grand Budapest Hotel",
+      "releaseDate": "2014",
+      "externalIds": {
+        "imdb": "tt2278388"
+      },
+      "rank": 22,
+      "ranking": "#22",
+      "releaseYear": 2014
+    },
+    {
+      "id": "nyt-best-movie-023",
+      "mediaType": "movie",
+      "title": "Boyhood",
+      "releaseDate": "2014",
+      "externalIds": {
+        "imdb": "tt1065073"
+      },
+      "rank": 23,
+      "ranking": "#23",
+      "releaseYear": 2014
+    },
+    {
+      "id": "nyt-best-movie-024",
+      "mediaType": "movie",
+      "title": "Her",
+      "releaseDate": "2013",
+      "externalIds": {
+        "imdb": "tt1798709"
+      },
+      "rank": 24,
+      "ranking": "#24",
+      "releaseYear": 2013
+    },
+    {
+      "id": "nyt-best-movie-025",
+      "mediaType": "movie",
+      "title": "Phantom Thread",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5776858"
+      },
+      "rank": 25,
+      "ranking": "#25",
+      "releaseYear": 2017
+    },
+    {
+      "id": "nyt-best-movie-026",
+      "mediaType": "movie",
+      "title": "Anatomy of a Fall",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt17009710"
+      },
+      "rank": 26,
+      "ranking": "#26",
+      "releaseYear": 2023
+    },
+    {
+      "id": "nyt-best-movie-027",
+      "mediaType": "movie",
+      "title": "Adaptation",
+      "releaseDate": "2002",
+      "externalIds": {
+        "imdb": "tt0268126"
+      },
+      "rank": 27,
+      "ranking": "#27",
+      "releaseYear": 2002
+    },
+    {
+      "id": "nyt-best-movie-028",
+      "mediaType": "movie",
+      "title": "The Dark Knight",
+      "releaseDate": "2008",
+      "externalIds": {
+        "imdb": "tt0468569"
+      },
+      "rank": 28,
+      "ranking": "#28",
+      "releaseYear": 2008
+    },
+    {
+      "id": "nyt-best-movie-029",
+      "mediaType": "movie",
+      "title": "Arrival",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt2543164"
+      },
+      "rank": 29,
+      "ranking": "#29",
+      "releaseYear": 2016
+    },
+    {
+      "id": "nyt-best-movie-030",
+      "mediaType": "movie",
+      "title": "Lost in Translation",
+      "releaseDate": "2003",
+      "externalIds": {
+        "imdb": "tt0335266"
+      },
+      "rank": 30,
+      "ranking": "#30",
+      "releaseYear": 2003
+    },
+    {
+      "id": "nyt-best-movie-031",
+      "mediaType": "movie",
+      "title": "The Departed",
+      "releaseDate": "2006",
+      "externalIds": {
+        "imdb": "tt0407887"
+      },
+      "rank": 31,
+      "ranking": "#31",
+      "releaseYear": 2006
+    },
+    {
+      "id": "nyt-best-movie-032",
+      "mediaType": "movie",
+      "title": "Bridesmaids",
+      "releaseDate": "2011",
+      "externalIds": {
+        "imdb": "tt1478338"
+      },
+      "rank": 32,
+      "ranking": "#32",
+      "releaseYear": 2011
+    },
+    {
+      "id": "nyt-best-movie-033",
+      "mediaType": "movie",
+      "title": "A Separation",
+      "releaseDate": "2011",
+      "externalIds": {
+        "imdb": "tt1832382"
+      },
+      "rank": 33,
+      "ranking": "#33",
+      "releaseYear": 2011
+    },
+    {
+      "id": "nyt-best-movie-034",
+      "mediaType": "movie",
+      "title": "WALL-E",
+      "releaseDate": "2008",
+      "externalIds": {
+        "imdb": "tt0910970"
+      },
+      "rank": 34,
+      "ranking": "#34",
+      "releaseYear": 2008
+    },
+    {
+      "id": "nyt-best-movie-035",
+      "mediaType": "movie",
+      "title": "A Prophet",
+      "releaseDate": "2010",
+      "externalIds": {
+        "imdb": "tt1235166"
+      },
+      "rank": 35,
+      "ranking": "#35",
+      "releaseYear": 2010
+    },
+    {
+      "id": "nyt-best-movie-036",
+      "mediaType": "movie",
+      "title": "A Serious Man",
+      "releaseDate": "2009",
+      "externalIds": {
+        "imdb": "tt1019452"
+      },
+      "rank": 36,
+      "ranking": "#36",
+      "releaseYear": 2009
+    },
+    {
+      "id": "nyt-best-movie-037",
+      "mediaType": "movie",
+      "title": "Call Me by Your Name",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5726616"
+      },
+      "rank": 37,
+      "ranking": "#37",
+      "releaseYear": 2017
+    },
+    {
+      "id": "nyt-best-movie-038",
+      "mediaType": "movie",
+      "title": "Portrait of a Lady on Fire",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt8613070"
+      },
+      "rank": 38,
+      "ranking": "#38",
+      "releaseYear": 2019
+    },
+    {
+      "id": "nyt-best-movie-039",
+      "mediaType": "movie",
+      "title": "Lady Bird",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt4925292"
+      },
+      "rank": 39,
+      "ranking": "#39",
+      "releaseYear": 2017
+    },
+    {
+      "id": "nyt-best-movie-040",
+      "mediaType": "movie",
+      "title": "Yi Yi",
+      "releaseDate": "2000",
+      "externalIds": {
+        "imdb": "tt0244316"
+      },
+      "rank": 40,
+      "ranking": "#40",
+      "releaseYear": 2000
+    },
+    {
+      "id": "nyt-best-movie-041",
+      "mediaType": "movie",
+      "title": "Amélie",
+      "releaseDate": "2001",
+      "externalIds": {
+        "imdb": "tt0211915"
+      },
+      "rank": 41,
+      "ranking": "#41",
+      "releaseYear": 2001
+    },
+    {
+      "id": "nyt-best-movie-042",
+      "mediaType": "movie",
+      "title": "The Master",
+      "releaseDate": "2012",
+      "externalIds": {
+        "imdb": "tt1560747"
+      },
+      "rank": 42,
+      "ranking": "#42",
+      "releaseYear": 2012
+    },
+    {
+      "id": "nyt-best-movie-043",
+      "mediaType": "movie",
+      "title": "Oldboy",
+      "releaseDate": "2005",
+      "externalIds": {
+        "imdb": "tt0364569"
+      },
+      "rank": 43,
+      "ranking": "#43",
+      "releaseYear": 2005
+    },
+    {
+      "id": "nyt-best-movie-044",
+      "mediaType": "movie",
+      "title": "Once Upon a Time... in Hollywood",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt7131622"
+      },
+      "rank": 44,
+      "ranking": "#44",
+      "releaseYear": 2019
+    },
+    {
+      "id": "nyt-best-movie-045",
+      "mediaType": "movie",
+      "title": "Moneyball",
+      "releaseDate": "2011",
+      "externalIds": {
+        "imdb": "tt1210166"
+      },
+      "rank": 45,
+      "ranking": "#45",
+      "releaseYear": 2011
+    },
+    {
+      "id": "nyt-best-movie-046",
+      "mediaType": "movie",
+      "title": "Roma",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt6155172"
+      },
+      "rank": 46,
+      "ranking": "#46",
+      "releaseYear": 2018
+    },
+    {
+      "id": "nyt-best-movie-047",
+      "mediaType": "movie",
+      "title": "Almost Famous",
+      "releaseDate": "2000",
+      "externalIds": {
+        "imdb": "tt0181875"
+      },
+      "rank": 47,
+      "ranking": "#47",
+      "releaseYear": 2000
+    },
+    {
+      "id": "nyt-best-movie-048",
+      "mediaType": "movie",
+      "title": "The Lives of Others",
+      "releaseDate": "2007",
+      "externalIds": {
+        "imdb": "tt0405094"
+      },
+      "rank": 48,
+      "ranking": "#48",
+      "releaseYear": 2007
+    },
+    {
+      "id": "nyt-best-movie-049",
+      "mediaType": "movie",
+      "title": "Before Sunset",
+      "releaseDate": "2004",
+      "externalIds": {
+        "imdb": "tt0381681"
+      },
+      "rank": 49,
+      "ranking": "#49",
+      "releaseYear": 2004
+    },
+    {
+      "id": "nyt-best-movie-050",
+      "mediaType": "movie",
+      "title": "Up",
+      "releaseDate": "2009",
+      "externalIds": {
+        "imdb": "tt1049413"
+      },
+      "rank": 50,
+      "ranking": "#50",
+      "releaseYear": 2009
+    },
+    {
+      "id": "nyt-best-movie-051",
+      "mediaType": "movie",
+      "title": "12 Years a Slave",
+      "releaseDate": "2013",
+      "externalIds": {
+        "imdb": "tt2024544"
+      },
+      "rank": 51,
+      "ranking": "#51",
+      "releaseYear": 2013
+    },
+    {
+      "id": "nyt-best-movie-052",
+      "mediaType": "movie",
+      "title": "The Favourite",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt5083738"
+      },
+      "rank": 52,
+      "ranking": "#52",
+      "releaseYear": 2018
+    },
+    {
+      "id": "nyt-best-movie-053",
+      "mediaType": "movie",
+      "title": "Borat",
+      "releaseDate": "2006",
+      "externalIds": {
+        "imdb": "tt0443453"
+      },
+      "rank": 53,
+      "ranking": "#53",
+      "releaseYear": 2006
+    },
+    {
+      "id": "nyt-best-movie-054",
+      "mediaType": "movie",
+      "title": "Pan's Labyrinth",
+      "releaseDate": "2006",
+      "externalIds": {
+        "imdb": "tt0457430"
+      },
+      "rank": 54,
+      "ranking": "#54",
+      "releaseYear": 2006
+    },
+    {
+      "id": "nyt-best-movie-055",
+      "mediaType": "movie",
+      "title": "Inception",
+      "releaseDate": "2010",
+      "externalIds": {
+        "imdb": "tt1375666"
+      },
+      "rank": 55,
+      "ranking": "#55",
+      "releaseYear": 2010
+    },
+    {
+      "id": "nyt-best-movie-056",
+      "mediaType": "movie",
+      "title": "Punch-Drunk Love",
+      "releaseDate": "2002",
+      "externalIds": {
+        "imdb": "tt0272338"
+      },
+      "rank": 56,
+      "ranking": "#56",
+      "releaseYear": 2002
+    },
+    {
+      "id": "nyt-best-movie-057",
+      "mediaType": "movie",
+      "title": "Best in Show",
+      "releaseDate": "2000",
+      "externalIds": {
+        "imdb": "tt0218839"
+      },
+      "rank": 57,
+      "ranking": "#57",
+      "releaseYear": 2000
+    },
+    {
+      "id": "nyt-best-movie-058",
+      "mediaType": "movie",
+      "title": "Uncut Gems",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt5727208"
+      },
+      "rank": 58,
+      "ranking": "#58",
+      "releaseYear": 2019
+    },
+    {
+      "id": "nyt-best-movie-059",
+      "mediaType": "movie",
+      "title": "Toni Erdmann",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4048272"
+      },
+      "rank": 59,
+      "ranking": "#59",
+      "releaseYear": 2016
+    },
+    {
+      "id": "nyt-best-movie-060",
+      "mediaType": "movie",
+      "title": "Whiplash",
+      "releaseDate": "2014",
+      "externalIds": {
+        "imdb": "tt2582802"
+      },
+      "rank": 60,
+      "ranking": "#60",
+      "releaseYear": 2014
+    },
+    {
+      "id": "nyt-best-movie-061",
+      "mediaType": "movie",
+      "title": "Kill Bill: Vol. 1",
+      "releaseDate": "2003",
+      "externalIds": {
+        "imdb": "tt0266697"
+      },
+      "rank": 61,
+      "ranking": "#61",
+      "releaseYear": 2003
+    },
+    {
+      "id": "nyt-best-movie-062",
+      "mediaType": "movie",
+      "title": "Memento",
+      "releaseDate": "2001",
+      "externalIds": {
+        "imdb": "tt0209144"
+      },
+      "rank": 62,
+      "ranking": "#62",
+      "releaseYear": 2001
+    },
+    {
+      "id": "nyt-best-movie-063",
+      "mediaType": "movie",
+      "title": "Little Miss Sunshine",
+      "releaseDate": "2006",
+      "externalIds": {
+        "imdb": "tt0449059"
+      },
+      "rank": 63,
+      "ranking": "#63",
+      "releaseYear": 2006
+    },
+    {
+      "id": "nyt-best-movie-064",
+      "mediaType": "movie",
+      "title": "Gone Girl",
+      "releaseDate": "2014",
+      "externalIds": {
+        "imdb": "tt2267998"
+      },
+      "rank": 64,
+      "ranking": "#64",
+      "releaseYear": 2014
+    },
+    {
+      "id": "nyt-best-movie-065",
+      "mediaType": "movie",
+      "title": "Oppenheimer",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt15398776"
+      },
+      "rank": 65,
+      "ranking": "#65",
+      "releaseYear": 2023
+    },
+    {
+      "id": "nyt-best-movie-066",
+      "mediaType": "movie",
+      "title": "Spotlight",
+      "releaseDate": "2015",
+      "externalIds": {
+        "imdb": "tt1895587"
+      },
+      "rank": 66,
+      "ranking": "#66",
+      "releaseYear": 2015
+    },
+    {
+      "id": "nyt-best-movie-067",
+      "mediaType": "movie",
+      "title": "Tár",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt14444726"
+      },
+      "rank": 67,
+      "ranking": "#67",
+      "releaseYear": 2022
+    },
+    {
+      "id": "nyt-best-movie-068",
+      "mediaType": "movie",
+      "title": "The Hurt Locker",
+      "releaseDate": "2009",
+      "externalIds": {
+        "imdb": "tt0887912"
+      },
+      "rank": 68,
+      "ranking": "#68",
+      "releaseYear": 2009
+    },
+    {
+      "id": "nyt-best-movie-069",
+      "mediaType": "movie",
+      "title": "Under the Skin",
+      "releaseDate": "2014",
+      "externalIds": {
+        "imdb": "tt1441395"
+      },
+      "rank": 69,
+      "ranking": "#69",
+      "releaseYear": 2014
+    },
+    {
+      "id": "nyt-best-movie-070",
+      "mediaType": "movie",
+      "title": "Let the Right One In",
+      "releaseDate": "2008",
+      "externalIds": {
+        "imdb": "tt1139797"
+      },
+      "rank": 70,
+      "ranking": "#70",
+      "releaseYear": 2008
+    },
+    {
+      "id": "nyt-best-movie-071",
+      "mediaType": "movie",
+      "title": "Ocean's Eleven",
+      "releaseDate": "2001",
+      "externalIds": {
+        "imdb": "tt0240772"
+      },
+      "rank": 71,
+      "ranking": "#71",
+      "releaseYear": 2001
+    },
+    {
+      "id": "nyt-best-movie-072",
+      "mediaType": "movie",
+      "title": "Carol",
+      "releaseDate": "2015",
+      "externalIds": {
+        "imdb": "tt2402927"
+      },
+      "rank": 72,
+      "ranking": "#72",
+      "releaseYear": 2015
+    },
+    {
+      "id": "nyt-best-movie-073",
+      "mediaType": "movie",
+      "title": "Ratatouille",
+      "releaseDate": "2007",
+      "externalIds": {
+        "imdb": "tt0382932"
+      },
+      "rank": 73,
+      "ranking": "#73",
+      "releaseYear": 2007
+    },
+    {
+      "id": "nyt-best-movie-074",
+      "mediaType": "movie",
+      "title": "The Florida Project",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5649144"
+      },
+      "rank": 74,
+      "ranking": "#74",
+      "releaseYear": 2017
+    },
+    {
+      "id": "nyt-best-movie-075",
+      "mediaType": "movie",
+      "title": "Amour",
+      "releaseDate": "2012",
+      "externalIds": {
+        "imdb": "tt1683876"
+      },
+      "rank": 75,
+      "ranking": "#75",
+      "releaseYear": 2012
+    },
+    {
+      "id": "nyt-best-movie-076",
+      "mediaType": "movie",
+      "title": "O Brother, Where Art Thou?",
+      "releaseDate": "2000",
+      "externalIds": {
+        "imdb": "tt0190590"
+      },
+      "rank": 76,
+      "ranking": "#76",
+      "releaseYear": 2000
+    },
+    {
+      "id": "nyt-best-movie-077",
+      "mediaType": "movie",
+      "title": "Everything Everywhere All at Once",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt6710474"
+      },
+      "rank": 77,
+      "ranking": "#77",
+      "releaseYear": 2022
+    },
+    {
+      "id": "nyt-best-movie-078",
+      "mediaType": "movie",
+      "title": "Aftersun",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt19770238"
+      },
+      "rank": 78,
+      "ranking": "#78",
+      "releaseYear": 2022
+    },
+    {
+      "id": "nyt-best-movie-079",
+      "mediaType": "movie",
+      "title": "The Tree of Life",
+      "releaseDate": "2011",
+      "externalIds": {
+        "imdb": "tt0478304"
+      },
+      "rank": 79,
+      "ranking": "#79",
+      "releaseYear": 2011
+    },
+    {
+      "id": "nyt-best-movie-080",
+      "mediaType": "movie",
+      "title": "Volver",
+      "releaseDate": "2006",
+      "externalIds": {
+        "imdb": "tt0441909"
+      },
+      "rank": 80,
+      "ranking": "#80",
+      "releaseYear": 2006
+    },
+    {
+      "id": "nyt-best-movie-081",
+      "mediaType": "movie",
+      "title": "Black Swan",
+      "releaseDate": "2010",
+      "externalIds": {
+        "imdb": "tt0947798"
+      },
+      "rank": 81,
+      "ranking": "#81",
+      "releaseYear": 2010
+    },
+    {
+      "id": "nyt-best-movie-082",
+      "mediaType": "movie",
+      "title": "The Act of Killing",
+      "releaseDate": "2013",
+      "externalIds": {
+        "imdb": "tt2375605"
+      },
+      "rank": 82,
+      "ranking": "#82",
+      "releaseYear": 2013
+    },
+    {
+      "id": "nyt-best-movie-083",
+      "mediaType": "movie",
+      "title": "Inside Llewyn Davis",
+      "releaseDate": "2013",
+      "externalIds": {
+        "imdb": "tt2042568"
+      },
+      "rank": 83,
+      "ranking": "#83",
+      "releaseYear": 2013
+    },
+    {
+      "id": "nyt-best-movie-084",
+      "mediaType": "movie",
+      "title": "Melancholia",
+      "releaseDate": "2011",
+      "externalIds": {
+        "imdb": "tt1527186"
+      },
+      "rank": 84,
+      "ranking": "#84",
+      "releaseYear": 2011
+    },
+    {
+      "id": "nyt-best-movie-085",
+      "mediaType": "movie",
+      "title": "Anchorman: The Legend of Ron Burgundy",
+      "releaseDate": "2004",
+      "externalIds": {
+        "imdb": "tt0357413"
+      },
+      "rank": 85,
+      "ranking": "#85",
+      "releaseYear": 2004
+    },
+    {
+      "id": "nyt-best-movie-086",
+      "mediaType": "movie",
+      "title": "Past Lives",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt13238346"
+      },
+      "rank": 86,
+      "ranking": "#86",
+      "releaseYear": 2023
+    },
+    {
+      "id": "nyt-best-movie-087",
+      "mediaType": "movie",
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "releaseDate": "2001",
+      "externalIds": {
+        "imdb": "tt0120737"
+      },
+      "rank": 87,
+      "ranking": "#87",
+      "releaseYear": 2001
+    },
+    {
+      "id": "nyt-best-movie-088",
+      "mediaType": "movie",
+      "title": "The Gleaners and I",
+      "releaseDate": "2001",
+      "externalIds": {
+        "imdb": "tt0247380"
+      },
+      "rank": 88,
+      "ranking": "#88",
+      "releaseYear": 2001
+    },
+    {
+      "id": "nyt-best-movie-089",
+      "mediaType": "movie",
+      "title": "Interstellar",
+      "releaseDate": "2014",
+      "externalIds": {
+        "imdb": "tt0816692"
+      },
+      "rank": 89,
+      "ranking": "#89",
+      "releaseYear": 2014
+    },
+    {
+      "id": "nyt-best-movie-090",
+      "mediaType": "movie",
+      "title": "Frances Ha",
+      "releaseDate": "2013",
+      "externalIds": {
+        "imdb": "tt2347569"
+      },
+      "rank": 90,
+      "ranking": "#90",
+      "releaseYear": 2013
+    },
+    {
+      "id": "nyt-best-movie-091",
+      "mediaType": "movie",
+      "title": "Fish Tank",
+      "releaseDate": "2010",
+      "externalIds": {
+        "imdb": "tt1232776"
+      },
+      "rank": 91,
+      "ranking": "#91",
+      "releaseYear": 2010
+    },
+    {
+      "id": "nyt-best-movie-092",
+      "mediaType": "movie",
+      "title": "Gladiator",
+      "releaseDate": "2000",
+      "externalIds": {
+        "imdb": "tt0172495"
+      },
+      "rank": 92,
+      "ranking": "#92",
+      "releaseYear": 2000
+    },
+    {
+      "id": "nyt-best-movie-093",
+      "mediaType": "movie",
+      "title": "Michael Clayton",
+      "releaseDate": "2007",
+      "externalIds": {
+        "imdb": "tt0465538"
+      },
+      "rank": 93,
+      "ranking": "#93",
+      "releaseYear": 2007
+    },
+    {
+      "id": "nyt-best-movie-094",
+      "mediaType": "movie",
+      "title": "Minority Report",
+      "releaseDate": "2002",
+      "externalIds": {
+        "imdb": "tt0181689"
+      },
+      "rank": 94,
+      "ranking": "#94",
+      "releaseYear": 2002
+    },
+    {
+      "id": "nyt-best-movie-095",
+      "mediaType": "movie",
+      "title": "The Worst Person in the World",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt10370710"
+      },
+      "rank": 95,
+      "ranking": "#95",
+      "releaseYear": 2021
+    },
+    {
+      "id": "nyt-best-movie-096",
+      "mediaType": "movie",
+      "title": "Black Panther",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt1825683"
+      },
+      "rank": 96,
+      "ranking": "#96",
+      "releaseYear": 2018
+    },
+    {
+      "id": "nyt-best-movie-097",
+      "mediaType": "movie",
+      "title": "Gravity",
+      "releaseDate": "2013",
+      "externalIds": {
+        "imdb": "tt1454468"
+      },
+      "rank": 97,
+      "ranking": "#97",
+      "releaseYear": 2013
+    },
+    {
+      "id": "nyt-best-movie-098",
+      "mediaType": "movie",
+      "title": "Grizzly Man",
+      "releaseDate": "2005",
+      "externalIds": {
+        "imdb": "tt0427312"
+      },
+      "rank": 98,
+      "ranking": "#98",
+      "releaseYear": 2005
+    },
+    {
+      "id": "nyt-best-movie-099",
+      "mediaType": "movie",
+      "title": "Memories of Murder",
+      "releaseDate": "2005",
+      "externalIds": {
+        "imdb": "tt0353969"
+      },
+      "rank": 99,
+      "ranking": "#99",
+      "releaseYear": 2005
+    },
+    {
+      "id": "nyt-best-movie-100",
+      "mediaType": "movie",
+      "title": "Superbad",
+      "releaseDate": "2007",
+      "externalIds": {
+        "imdb": "tt0829482"
+      },
+      "rank": 100,
+      "ranking": "#100",
+      "releaseYear": 2007
+    }
+  ]
+}

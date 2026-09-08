@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "title": "Cannes — Caméra d’or",
+  "author": "Mydea",
+  "updatedAt": "2026-09-16T04:43:24Z",
+  "description": "Historical Caméra d’or awards.",
+  "tags": [
+    "award",
+    "cannes",
+    "prize"
+  ],
+  "icon": "ticket",
+  "collections": [
+    {
+      "title": "Cannes — Caméra d’or",
+      "description": "Cannes Film Festival Caméra d'Or winning films.",
+      "layout": "carousel",
+      "limit": 10,
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/en/cannes.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "title with Year"
+      ],
+      "filters": [
+        {
+          "id": "cannes-camera-dor-award",
+          "targetType": "movie",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "Caméra d'Or",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "Cannes — Caméra d’or Special Mention",
+      "description": "Historical Caméra d’or awards. Caméra d’or Special Mention.",
+      "layout": "grid",
+      "limit": 10,
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/en/cannes.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "cannes-camera-dor-special-mention-award",
+          "targetType": "movie",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "Caméra d’or Special Mention",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    }
+  ]
+}

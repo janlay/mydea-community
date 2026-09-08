@@ -1,0 +1,374 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "title": "青龍映画賞 — 部門別",
+  "description": "青龍映画賞の各部門の全受賞記録。",
+  "tags": [
+    "award",
+    "prize"
+  ],
+  "icon": "ticket",
+  "collections": [
+    {
+      "title": "青龍映画賞 — 最優秀作品賞",
+      "description": "青龍映画賞最優秀作品賞の歴代受賞作。",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "carousel",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/ja/blue-dragon.list.json"
+        }
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "blue-dragon-best-film-award",
+          "targetType": "movie",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "最優秀作品賞",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "青龍映画賞 — 監督賞",
+      "description": "青龍映画賞監督賞の歴代受賞者。",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/ja/blue-dragon.list.json"
+        }
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "blue-dragon-best-director-award",
+          "targetType": "movie",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "監督賞",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "青龍映画賞 — 主演男優賞",
+      "description": "青龍映画賞主演男優賞の歴代受賞者。",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/ja/blue-dragon.list.json"
+        }
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "blue-dragon-best-actor-award",
+          "targetType": "movie",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "主演男優賞",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "青龍映画賞 — 主演女優賞",
+      "description": "青龍映画賞主演女優賞の歴代受賞者。",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/ja/blue-dragon.list.json"
+        }
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "blue-dragon-best-actress-award",
+          "targetType": "movie",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "主演女優賞",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "青龍映画賞 — 助演男優賞",
+      "description": "青龍映画賞助演男優賞の歴代受賞者。",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/ja/blue-dragon.list.json"
+        }
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "blue-dragon-best-supporting-actor-award",
+          "targetType": "movie",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "助演男優賞",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "青龍映画賞 — 助演女優賞",
+      "description": "青龍映画賞助演女優賞の歴代受賞者。",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/ja/blue-dragon.list.json"
+        }
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "blue-dragon-best-supporting-actress-award",
+          "targetType": "movie",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "助演女優賞",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "青龍映画賞 — 新人監督賞",
+      "description": "青龍映画賞新人監督賞の歴代受賞者。",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/ja/blue-dragon.list.json"
+        }
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "blue-dragon-best-new-director-award",
+          "targetType": "movie",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "新人監督賞",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "青龍映画賞 — 新人男優賞",
+      "description": "青龍映画賞新人男優賞の歴代受賞者。",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/ja/blue-dragon.list.json"
+        }
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "blue-dragon-best-new-actor-award",
+          "targetType": "movie",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "新人男優賞",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "青龍映画賞 — 新人女優賞",
+      "description": "青龍映画賞新人女優賞の歴代受賞者。",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/ja/blue-dragon.list.json"
+        }
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "blue-dragon-best-new-actress-award",
+          "targetType": "movie",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "新人女優賞",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "青龍映画賞 — 脚本賞",
+      "description": "青龍映画賞脚本賞の歴代受賞者。",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/ja/blue-dragon.list.json"
+        }
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "blue-dragon-best-screenplay-award",
+          "targetType": "movie",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "脚本賞",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    }
+  ]
+}

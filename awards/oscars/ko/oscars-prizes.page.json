@@ -1,0 +1,374 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "title": "아카데미상 부문별",
+  "description": "아카데미상 주요 영화 부문의 최근 10회 수상 기록.",
+  "tags": [
+    "award",
+    "prize"
+  ],
+  "icon": "ticket",
+  "collections": [
+    {
+      "title": "아카데미상 — 작품상",
+      "description": "아카데미상 작품상 최근 10회 수상 기록.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "carousel",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/ko/oscars.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "oscars-best-picture-award",
+          "targetType": "movie",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "작품상",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "아카데미상 — 감독상",
+      "description": "아카데미상 감독상 최근 10회 수상 기록.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/ko/oscars.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "oscars-best-director-award",
+          "targetType": "movie",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "감독상",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "아카데미상 — 남우주연상",
+      "description": "아카데미상 남우주연상 최근 10회 수상 기록.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/ko/oscars.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "oscars-best-actor-award",
+          "targetType": "movie",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "남우주연상",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "아카데미상 — 여우주연상",
+      "description": "아카데미상 여우주연상 최근 10회 수상 기록.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/ko/oscars.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "oscars-best-actress-award",
+          "targetType": "movie",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "여우주연상",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "아카데미상 — 남우조연상",
+      "description": "아카데미상 남우조연상 최근 10회 수상 기록.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/ko/oscars.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "oscars-best-supporting-actor-award",
+          "targetType": "movie",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "남우조연상",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "아카데미상 — 여우조연상",
+      "description": "아카데미상 여우조연상 최근 10회 수상 기록.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/ko/oscars.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "oscars-best-supporting-actress-award",
+          "targetType": "movie",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "여우조연상",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "아카데미상 — 각본상",
+      "description": "아카데미상 각본상 최근 10회 수상 기록.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/ko/oscars.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "oscars-best-original-screenplay-award",
+          "targetType": "movie",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "각본상",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "아카데미상 — 각색상",
+      "description": "아카데미상 각색상 최근 10회 수상 기록.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/ko/oscars.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "oscars-best-adapted-screenplay-award",
+          "targetType": "movie",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "각색상",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "아카데미상 — 장편 애니메이션상",
+      "description": "아카데미상 장편 애니메이션상 최근 10회 수상 기록.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/ko/oscars.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "oscars-best-animated-feature-award",
+          "targetType": "movie",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "장편 애니메이션상",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "아카데미상 — 국제장편영화상",
+      "description": "아카데미상 국제장편영화상 최근 10회 수상 기록.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/ko/oscars.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "oscars-best-international-feature-award",
+          "targetType": "movie",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "국제장편영화상",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    }
+  ]
+}

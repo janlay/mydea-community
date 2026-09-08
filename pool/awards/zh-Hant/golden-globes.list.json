@@ -1,0 +1,1017 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "title": "金球獎",
+  "author": "Mydea",
+  "server": "TMDB",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "description": "金球獎",
+  "items": [
+    {
+      "id": "golden-globes-drama-2026-hamnet",
+      "mediaType": "movie",
+      "title": "哈姆奈特",
+      "englishTitle": "Hamnet",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt14905854"
+      },
+      "awardYear": 2026,
+      "winner": "哈姆奈特",
+      "award": "最佳劇情片",
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-globes-animated-2026-kpop-demon-hunters",
+      "mediaType": "movie",
+      "title": "Kpop 獵魔女團",
+      "englishTitle": "KPop Demon Hunters",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt14205554"
+      },
+      "awardYear": 2026,
+      "winner": "KPop 獵魔女團",
+      "award": "最佳動畫片",
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-globes-foreign-2026-the-secret-agent",
+      "mediaType": "movie",
+      "title": "這不只是個間諜故事",
+      "englishTitle": "The Secret Agent",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt27847051"
+      },
+      "awardYear": 2026,
+      "winner": "秘密特工",
+      "award": "最佳非英語片",
+      "awardOrder": 4
+    },
+    {
+      "id": "golden-globes-comedy-2026-one-battle-after-another",
+      "mediaType": "movie",
+      "title": "一戰再戰",
+      "englishTitle": "One Battle After Another",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt30144839"
+      },
+      "awardYear": 2026,
+      "winner": "一戰再戰",
+      "award": "最佳音樂或喜劇片",
+      "awardOrder": 2
+    },
+    {
+      "id": "golden-globes-boxoffice-2026-sinners",
+      "mediaType": "movie",
+      "title": "罪人",
+      "englishTitle": "Sinners",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31193180"
+      },
+      "awardYear": 2026,
+      "winner": "罪人",
+      "award": "電影與票房成就獎",
+      "awardOrder": 5
+    },
+    {
+      "id": "golden-globes-drama-2025-the-brutalist",
+      "mediaType": "movie",
+      "title": "粗獷派建築師",
+      "englishTitle": "The Brutalist",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt8999762"
+      },
+      "awardYear": 2025,
+      "winner": "粗獷派建築師",
+      "award": "最佳劇情片",
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-globes-animated-2025-flow",
+      "mediaType": "movie",
+      "title": "喵的奇幻漂流",
+      "englishTitle": "Flow",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt4772188"
+      },
+      "awardYear": 2025,
+      "winner": "喵的奇幻漂流",
+      "award": "最佳動畫片",
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-globes-foreign-2025-emilia-perez",
+      "mediaType": "movie",
+      "title": "璀璨女人夢",
+      "englishTitle": "Emilia Pérez",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt20221436"
+      },
+      "awardYear": 2025,
+      "winner": "璀璨女人夢",
+      "award": "最佳非英語片",
+      "awardOrder": 4
+    },
+    {
+      "id": "golden-globes-comedy-2025-emilia-perez",
+      "mediaType": "movie",
+      "title": "璀璨女人夢",
+      "englishTitle": "Emilia Pérez",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt20221436"
+      },
+      "awardYear": 2025,
+      "winner": "璀璨女人夢",
+      "award": "最佳音樂或喜劇片",
+      "awardOrder": 2
+    },
+    {
+      "id": "golden-globes-boxoffice-2025-wicked",
+      "mediaType": "movie",
+      "title": "魔法壞女巫",
+      "englishTitle": "Wicked",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt1262426"
+      },
+      "awardYear": 2025,
+      "winner": "魔法壞女巫",
+      "award": "電影與票房成就獎",
+      "awardOrder": 5
+    },
+    {
+      "id": "golden-globes-drama-2024-oppenheimer",
+      "mediaType": "movie",
+      "title": "奧本海默",
+      "englishTitle": "Oppenheimer",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt15398776"
+      },
+      "awardYear": 2024,
+      "winner": "奧本海默",
+      "award": "最佳劇情片",
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-globes-animated-2024-the-boy-and-the-heron",
+      "mediaType": "movie",
+      "title": "蒼鷺與少年",
+      "englishTitle": "The Boy and the Heron",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt6587046"
+      },
+      "awardYear": 2024,
+      "winner": "蒼鷺與少年",
+      "award": "最佳動畫片",
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-globes-foreign-2024-anatomy-of-a-fall",
+      "mediaType": "movie",
+      "title": "墜惡真相",
+      "englishTitle": "Anatomy of a Fall",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt17009710"
+      },
+      "awardYear": 2024,
+      "winner": "墜惡真相",
+      "award": "最佳非英語片",
+      "awardOrder": 4
+    },
+    {
+      "id": "golden-globes-comedy-2024-poor-things",
+      "mediaType": "movie",
+      "title": "可憐的東西",
+      "englishTitle": "Poor Things",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt14230458"
+      },
+      "awardYear": 2024,
+      "winner": "可憐的東西",
+      "award": "最佳音樂或喜劇片",
+      "awardOrder": 2
+    },
+    {
+      "id": "golden-globes-boxoffice-2024-barbie",
+      "mediaType": "movie",
+      "title": "芭比",
+      "englishTitle": "Barbie",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt1517268"
+      },
+      "awardYear": 2024,
+      "winner": "芭比",
+      "award": "電影與票房成就獎",
+      "awardOrder": 5
+    },
+    {
+      "id": "golden-globes-drama-2023-the-fabelmans",
+      "mediaType": "movie",
+      "title": "法貝爾曼",
+      "englishTitle": "The Fabelmans",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt14208870"
+      },
+      "awardYear": 2023,
+      "winner": "法貝爾曼",
+      "award": "最佳劇情片",
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-globes-animated-2023-guillermo-del-toro-s-pinocchio",
+      "mediaType": "movie",
+      "title": "Guillermo del Toro's Pinocchio",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt1488589"
+      },
+      "awardYear": 2023,
+      "winner": "Guillermo del Toro's Pinocchio",
+      "award": "最佳動畫片",
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-globes-foreign-2023-argentina-1985",
+      "mediaType": "movie",
+      "title": "Argentina, 1985",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt15301048"
+      },
+      "awardYear": 2023,
+      "winner": "Argentina, 1985",
+      "award": "最佳非英語片",
+      "awardOrder": 4
+    },
+    {
+      "id": "golden-globes-comedy-2023-the-banshees-of-inisherin",
+      "mediaType": "movie",
+      "title": "伊尼舍林的女妖",
+      "englishTitle": "The Banshees of Inisherin",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt11813216"
+      },
+      "awardYear": 2023,
+      "winner": "伊尼舍林的女妖",
+      "award": "最佳音樂或喜劇片",
+      "awardOrder": 2
+    },
+    {
+      "id": "golden-globes-drama-2022-the-power-of-the-dog",
+      "mediaType": "movie",
+      "title": "犬山記",
+      "englishTitle": "The Power of the Dog",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt10293406"
+      },
+      "awardYear": 2022,
+      "winner": "犬山記",
+      "award": "最佳劇情片",
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-globes-animated-2022-encanto",
+      "mediaType": "movie",
+      "title": "魔法滿屋",
+      "englishTitle": "Encanto",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt2953050"
+      },
+      "awardYear": 2022,
+      "winner": "魔法滿屋",
+      "award": "最佳動畫片",
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-globes-foreign-2022-drive-my-car",
+      "mediaType": "movie",
+      "title": "在車上",
+      "englishTitle": "Drive My Car",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14039582"
+      },
+      "awardYear": 2022,
+      "winner": "在車上",
+      "award": "最佳非英語片",
+      "awardOrder": 4
+    },
+    {
+      "id": "golden-globes-comedy-2022-west-side-story",
+      "mediaType": "movie",
+      "title": "西城故事",
+      "englishTitle": "West Side Story",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt3581652"
+      },
+      "awardYear": 2022,
+      "winner": "西城故事",
+      "award": "最佳音樂或喜劇片",
+      "awardOrder": 2
+    },
+    {
+      "id": "golden-globes-drama-2021-nomadland",
+      "mediaType": "movie",
+      "title": "游牧人生",
+      "englishTitle": "Nomadland",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt9770150"
+      },
+      "awardYear": 2021,
+      "winner": "游牧人生",
+      "award": "最佳劇情片",
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-globes-animated-2021-soul",
+      "mediaType": "movie",
+      "title": "靈魂急轉彎",
+      "englishTitle": "Soul",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt2948372"
+      },
+      "awardYear": 2021,
+      "winner": "靈魂急轉彎",
+      "award": "最佳動畫片",
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-globes-foreign-2021-minari",
+      "mediaType": "movie",
+      "title": "夢想之地",
+      "englishTitle": "Minari",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10633456"
+      },
+      "awardYear": 2021,
+      "winner": "夢想之地",
+      "award": "最佳非英語片",
+      "awardOrder": 4
+    },
+    {
+      "id": "golden-globes-comedy-2021-borat-subsequent-moviefilm",
+      "mediaType": "movie",
+      "title": "Borat Subsequent Moviefilm",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt13143964"
+      },
+      "awardYear": 2021,
+      "winner": "Borat Subsequent Moviefilm",
+      "award": "最佳音樂或喜劇片",
+      "awardOrder": 2
+    },
+    {
+      "id": "golden-globes-drama-2020-1917",
+      "mediaType": "movie",
+      "title": "1917",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt8579674"
+      },
+      "awardYear": 2020,
+      "winner": "1917",
+      "award": "最佳劇情片",
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-globes-animated-2020-missing-link",
+      "mediaType": "movie",
+      "title": "Missing Link",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6348138"
+      },
+      "awardYear": 2020,
+      "winner": "Missing Link",
+      "award": "最佳動畫片",
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-globes-foreign-2020-parasite",
+      "mediaType": "movie",
+      "title": "寄生上流",
+      "englishTitle": "Parasite",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6751668"
+      },
+      "awardYear": 2020,
+      "winner": "寄生上流",
+      "award": "最佳非英語片",
+      "awardOrder": 4
+    },
+    {
+      "id": "golden-globes-comedy-2020-once-upon-a-time-in-hollywood",
+      "mediaType": "movie",
+      "title": "從前，有個好萊塢",
+      "englishTitle": "Once Upon a Time... in Hollywood",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt7131622"
+      },
+      "awardYear": 2020,
+      "winner": "從前，有個好萊塢",
+      "award": "最佳音樂或喜劇片",
+      "awardOrder": 2
+    },
+    {
+      "id": "golden-globes-drama-2019-bohemian-rhapsody",
+      "mediaType": "movie",
+      "title": "波希米亞狂想曲",
+      "englishTitle": "Bohemian Rhapsody",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt1727824"
+      },
+      "awardYear": 2019,
+      "winner": "波希米亞狂想曲",
+      "award": "最佳劇情片",
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-globes-animated-2019-spider-man-into-the-spider-verse",
+      "mediaType": "movie",
+      "title": "蜘蛛人：新宇宙",
+      "englishTitle": "Spider-Man: Into the Spider-Verse",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt4633694"
+      },
+      "awardYear": 2019,
+      "winner": "蜘蛛人：新宇宙",
+      "award": "最佳動畫片",
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-globes-foreign-2019-roma",
+      "mediaType": "movie",
+      "title": "羅馬",
+      "englishTitle": "Roma",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt6155172"
+      },
+      "awardYear": 2019,
+      "winner": "羅馬",
+      "award": "最佳非英語片",
+      "awardOrder": 4
+    },
+    {
+      "id": "golden-globes-comedy-2019-green-book",
+      "mediaType": "movie",
+      "title": "幸福綠皮書",
+      "englishTitle": "Green Book",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt6966692"
+      },
+      "awardYear": 2019,
+      "winner": "幸福綠皮書",
+      "award": "最佳音樂或喜劇片",
+      "awardOrder": 2
+    },
+    {
+      "id": "golden-globes-drama-2018-three-billboards-outside-ebbing-missouri",
+      "mediaType": "movie",
+      "title": "意外",
+      "englishTitle": "Three Billboards Outside Ebbing, Missouri",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5027774"
+      },
+      "awardYear": 2018,
+      "winner": "意外",
+      "award": "最佳劇情片",
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-globes-animated-2018-coco",
+      "mediaType": "movie",
+      "title": "可可夜總會",
+      "englishTitle": "Coco",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt2380307"
+      },
+      "awardYear": 2018,
+      "winner": "可可夜總會",
+      "award": "最佳動畫片",
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-globes-foreign-2018-in-the-fade",
+      "mediaType": "movie",
+      "title": "烈愛天堂",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5723272"
+      },
+      "awardYear": 2018,
+      "winner": "In the Fade",
+      "award": "最佳非英語片",
+      "awardOrder": 4
+    },
+    {
+      "id": "golden-globes-comedy-2018-lady-bird",
+      "mediaType": "movie",
+      "title": "淑女鳥",
+      "englishTitle": "Lady Bird",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt4925292"
+      },
+      "awardYear": 2018,
+      "winner": "淑女鳥",
+      "award": "最佳音樂或喜劇片",
+      "awardOrder": 2
+    },
+    {
+      "id": "golden-globes-drama-2017-moonlight",
+      "mediaType": "movie",
+      "title": "月光下的藍色男孩",
+      "englishTitle": "Moonlight",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4975722"
+      },
+      "awardYear": 2017,
+      "winner": "月光下的藍色男孩",
+      "award": "最佳劇情片",
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-globes-animated-2017-zootopia",
+      "mediaType": "movie",
+      "title": "動物方城市",
+      "englishTitle": "Zootopia",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt2948356"
+      },
+      "awardYear": 2017,
+      "winner": "動物方城市",
+      "award": "最佳動畫片",
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-globes-foreign-2017-elle",
+      "mediaType": "movie",
+      "title": "Elle",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt3716530"
+      },
+      "awardYear": 2017,
+      "winner": "Elle",
+      "award": "最佳非英語片",
+      "awardOrder": 4
+    },
+    {
+      "id": "golden-globes-comedy-2017-la-la-land",
+      "mediaType": "movie",
+      "title": "樂來越愛你",
+      "englishTitle": "La La Land",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt3783958"
+      },
+      "awardYear": 2017,
+      "winner": "樂來越愛你",
+      "award": "最佳音樂或喜劇片",
+      "awardOrder": 2
+    },
+    {
+      "id": "golden-globes-tv_drama-2026-the-pitt",
+      "mediaType": "tv",
+      "title": "匹茲堡醫護前線",
+      "englishTitle": "The Pitt",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31938062"
+      },
+      "awardYear": 2026,
+      "winner": "匹茲堡醫護前線",
+      "award": "最佳劇情類影集",
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-globes-limited-2026-adolescence",
+      "mediaType": "tv",
+      "title": "混沌少年時",
+      "englishTitle": "Adolescence",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31806037"
+      },
+      "awardYear": 2026,
+      "winner": "混沌少年時",
+      "award": "最佳有限影集、選集影集或電視電影",
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-globes-tv_comedy-2026-the-studio",
+      "mediaType": "tv",
+      "title": "片廠風雲",
+      "englishTitle": "The Studio",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt23649128"
+      },
+      "awardYear": 2026,
+      "winner": "片廠風雲",
+      "award": "最佳音樂或喜劇類影集",
+      "awardOrder": 2
+    },
+    {
+      "id": "golden-globes-tv_drama-2025-shogun",
+      "mediaType": "tv",
+      "title": "幕府將軍",
+      "englishTitle": "Shōgun",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt2788316"
+      },
+      "awardYear": 2025,
+      "winner": "幕府將軍",
+      "award": "最佳劇情類影集",
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-globes-limited-2025-baby-reindeer",
+      "mediaType": "tv",
+      "title": "馴鹿寶貝",
+      "englishTitle": "Baby Reindeer",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt13649112"
+      },
+      "awardYear": 2025,
+      "winner": "馴鹿寶貝",
+      "award": "最佳有限影集、選集影集或電視電影",
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-globes-tv_comedy-2025-hacks",
+      "mediaType": "tv",
+      "title": "天后與草莓",
+      "englishTitle": "Hacks",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt11815682"
+      },
+      "awardYear": 2025,
+      "winner": "天后與草莓",
+      "award": "最佳音樂或喜劇類影集",
+      "awardOrder": 2
+    },
+    {
+      "id": "golden-globes-tv_drama-2024-succession",
+      "mediaType": "tv",
+      "title": "繼承之戰",
+      "englishTitle": "Succession",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7660850"
+      },
+      "awardYear": 2024,
+      "winner": "繼承之戰",
+      "award": "最佳劇情類影集",
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-globes-limited-2024-beef",
+      "mediaType": "tv",
+      "title": "怒嗆人生",
+      "englishTitle": "Beef",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt14403178"
+      },
+      "awardYear": 2024,
+      "winner": "怒嗆人生",
+      "award": "最佳有限影集、選集影集或電視電影",
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-globes-tv_comedy-2024-the-bear",
+      "mediaType": "tv",
+      "title": "大熊餐廳",
+      "englishTitle": "The Bear",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt14452776"
+      },
+      "awardYear": 2024,
+      "winner": "大熊餐廳",
+      "award": "最佳音樂或喜劇類影集",
+      "awardOrder": 2
+    },
+    {
+      "id": "golden-globes-tv_drama-2023-house-of-the-dragon",
+      "mediaType": "tv",
+      "title": "龍族前傳",
+      "englishTitle": "House of the Dragon",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt11198330"
+      },
+      "awardYear": 2023,
+      "winner": "龍族前傳",
+      "award": "最佳劇情類影集",
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-globes-limited-2023-the-white-lotus",
+      "mediaType": "tv",
+      "title": "白蓮花大飯店",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt13406094"
+      },
+      "awardYear": 2023,
+      "winner": "The White Lotus",
+      "award": "最佳有限影集、選集影集或電視電影",
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-globes-tv_comedy-2023-abbott-elementary",
+      "mediaType": "tv",
+      "title": "小學風雲",
+      "englishTitle": "Abbott Elementary",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14218830"
+      },
+      "awardYear": 2023,
+      "winner": "小學風雲",
+      "award": "最佳音樂或喜劇類影集",
+      "awardOrder": 2
+    },
+    {
+      "id": "golden-globes-tv_drama-2022-succession",
+      "mediaType": "tv",
+      "title": "繼承之戰",
+      "englishTitle": "Succession",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7660850"
+      },
+      "awardYear": 2022,
+      "winner": "繼承之戰",
+      "award": "最佳劇情類影集",
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-globes-limited-2022-the-underground-railroad",
+      "mediaType": "tv",
+      "title": "The Underground Railroad",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt6704972"
+      },
+      "awardYear": 2022,
+      "winner": "The Underground Railroad",
+      "award": "最佳有限影集、選集影集或電視電影",
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-globes-tv_comedy-2022-hacks",
+      "mediaType": "tv",
+      "title": "天后與草莓",
+      "englishTitle": "Hacks",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt11815682"
+      },
+      "awardYear": 2022,
+      "winner": "天后與草莓",
+      "award": "最佳音樂或喜劇類影集",
+      "awardOrder": 2
+    },
+    {
+      "id": "golden-globes-tv_drama-2021-the-crown",
+      "mediaType": "tv",
+      "title": "王冠",
+      "englishTitle": "The Crown",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4786824"
+      },
+      "awardYear": 2021,
+      "winner": "王冠",
+      "award": "最佳劇情類影集",
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-globes-limited-2021-the-queen-s-gambit",
+      "mediaType": "tv",
+      "title": "后翼棄兵",
+      "englishTitle": "The Queen's Gambit",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10048342"
+      },
+      "awardYear": 2021,
+      "winner": "后翼棄兵",
+      "award": "最佳有限影集、選集影集或電視電影",
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-globes-tv_comedy-2021-schitt-s-creek",
+      "mediaType": "tv",
+      "title": "富家窮路",
+      "releaseDate": "2015",
+      "externalIds": {
+        "imdb": "tt3526078"
+      },
+      "awardYear": 2021,
+      "winner": "Schitt's Creek",
+      "award": "最佳音樂或喜劇類影集",
+      "awardOrder": 2
+    },
+    {
+      "id": "golden-globes-tv_drama-2020-succession",
+      "mediaType": "tv",
+      "title": "繼承之戰",
+      "englishTitle": "Succession",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7660850"
+      },
+      "awardYear": 2020,
+      "winner": "繼承之戰",
+      "award": "最佳劇情類影集",
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-globes-limited-2020-chernobyl",
+      "mediaType": "tv",
+      "title": "核爆家園",
+      "englishTitle": "Chernobyl",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt7366338"
+      },
+      "awardYear": 2020,
+      "winner": "核爆家園",
+      "award": "最佳有限影集、選集影集或電視電影",
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-globes-tv_comedy-2020-fleabag",
+      "mediaType": "tv",
+      "title": "邋遢女郎",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5687612"
+      },
+      "awardYear": 2020,
+      "winner": "Fleabag",
+      "award": "最佳音樂或喜劇類影集",
+      "awardOrder": 2
+    },
+    {
+      "id": "golden-globes-tv_drama-2019-bodyguard",
+      "mediaType": "tv",
+      "title": "Bodyguard",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7493974"
+      },
+      "awardYear": 2019,
+      "winner": "Bodyguard",
+      "award": "最佳劇情類影集",
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-globes-limited-2019-the-assassination-of-gianni-versace-american-crime-story",
+      "mediaType": "tv",
+      "title": "美國犯罪故事",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt2788432"
+      },
+      "awardYear": 2019,
+      "winner": "The Assassination of Gianni Versace: American Crime Story",
+      "award": "最佳有限影集、選集影集或電視電影",
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-globes-tv_comedy-2019-the-kominsky-method",
+      "mediaType": "tv",
+      "title": "The Kominsky Method",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7255502"
+      },
+      "awardYear": 2019,
+      "winner": "The Kominsky Method",
+      "award": "最佳音樂或喜劇類影集",
+      "awardOrder": 2
+    },
+    {
+      "id": "golden-globes-tv_drama-2018-the-handmaid-s-tale",
+      "mediaType": "tv",
+      "title": "使女的故事",
+      "englishTitle": "The Handmaid's Tale",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5834204"
+      },
+      "awardYear": 2018,
+      "winner": "使女的故事",
+      "award": "最佳劇情類影集",
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-globes-limited-2018-big-little-lies",
+      "mediaType": "tv",
+      "title": "美麗心計",
+      "englishTitle": "Big Little Lies",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt3920596"
+      },
+      "awardYear": 2018,
+      "winner": "美麗心計",
+      "award": "最佳有限影集、選集影集或電視電影",
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-globes-tv_comedy-2018-the-marvelous-mrs-maisel",
+      "mediaType": "tv",
+      "title": "漫才梅索太太",
+      "englishTitle": "The Marvelous Mrs. Maisel",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5788792"
+      },
+      "awardYear": 2018,
+      "winner": "漫才梅索太太",
+      "award": "最佳音樂或喜劇類影集",
+      "awardOrder": 2
+    },
+    {
+      "id": "golden-globes-tv_drama-2017-the-crown",
+      "mediaType": "tv",
+      "title": "王冠",
+      "englishTitle": "The Crown",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4786824"
+      },
+      "awardYear": 2017,
+      "winner": "王冠",
+      "award": "最佳劇情類影集",
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-globes-limited-2017-the-people-v-o-j-simpson-american-crime-story",
+      "mediaType": "tv",
+      "title": "美國犯罪故事",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt2788432"
+      },
+      "awardYear": 2017,
+      "winner": "The People v. O. J. Simpson: American Crime Story",
+      "award": "最佳有限影集、選集影集或電視電影",
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-globes-tv_comedy-2017-atlanta",
+      "mediaType": "tv",
+      "title": "亞特蘭大",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4288182"
+      },
+      "awardYear": 2017,
+      "winner": "Atlanta",
+      "award": "最佳音樂或喜劇類影集",
+      "awardOrder": 2
+    }
+  ]
+}

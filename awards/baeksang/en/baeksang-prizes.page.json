@@ -1,0 +1,194 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "title": "Baeksang Arts Awards Prizes",
+  "description": "Baeksang Arts Awards winners by major film category from 2017 to 2026.",
+  "tags": [
+    "award",
+    "prize"
+  ],
+  "icon": "ticket",
+  "collections": [
+    {
+      "title": "Baeksang Arts Awards — Film Grand Prize",
+      "description": "Baeksang Arts Awards Film Grand Prize winners from 2017 to 2026.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "carousel",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/en/baeksang.list.json"
+        }
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "baeksang-film-grand-award",
+          "targetType": "movie",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "Film Grand Prize",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "Baeksang Arts Awards — Best Film",
+      "description": "Baeksang Arts Awards Best Film winners from 2017 to 2026.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/en/baeksang.list.json"
+        }
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "baeksang-film-best-award",
+          "targetType": "movie",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "Best Film",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "Baeksang Arts Awards — Best Director Film",
+      "description": "Baeksang Arts Awards Best Director Film winners from 2017 to 2026.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/en/baeksang.list.json"
+        }
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "baeksang-film-director-award",
+          "targetType": "movie",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "Best Director Film",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "Baeksang Arts Awards — Best Actor Film",
+      "description": "Baeksang Arts Awards Best Actor Film winners from 2017 to 2026.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/en/baeksang.list.json"
+        }
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "baeksang-film-actor-award",
+          "targetType": "movie",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "Best Actor Film",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "Baeksang Arts Awards — Best Actress Film",
+      "description": "Baeksang Arts Awards Best Actress Film winners from 2017 to 2026.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/en/baeksang.list.json"
+        }
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "baeksang-film-actress-award",
+          "targetType": "movie",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "Best Actress Film",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    }
+  ]
+}

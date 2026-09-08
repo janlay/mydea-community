@@ -1,0 +1,1311 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "title": "アカデミー賞",
+  "author": "Mydea",
+  "server": "TMDB",
+  "updatedAt": "2026-09-15T05:03:58Z",
+  "description": "アカデミー賞",
+  "items": [
+    {
+      "id": "oscars-best-actress-2026-hamnet",
+      "mediaType": "movie",
+      "title": "ハムネット",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt14905854"
+      },
+      "awardYear": 2026,
+      "winner": "Jessie Buckley",
+      "award": "主演女優賞",
+      "awardOrder": 4
+    },
+    {
+      "id": "oscars-best-actor-2026-sinners",
+      "mediaType": "movie",
+      "title": "罪人たち",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31193180"
+      },
+      "awardYear": 2026,
+      "winner": "Michael B. Jordan",
+      "award": "主演男優賞",
+      "awardOrder": 3
+    },
+    {
+      "id": "oscars-best-picture-2026-one-battle-after-another",
+      "mediaType": "movie",
+      "title": "ワン・バトル・アフター・アナザー",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt30144839"
+      },
+      "awardYear": 2026,
+      "winner": "Adam Somner, Sara Murphy & Paul Thomas Anderson",
+      "award": "作品賞",
+      "awardOrder": 1
+    },
+    {
+      "id": "oscars-best-supporting-actress-2026-weapons",
+      "mediaType": "movie",
+      "title": "Weapons",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt26581740"
+      },
+      "awardYear": 2026,
+      "winner": "Amy Madigan",
+      "award": "助演女優賞",
+      "awardOrder": 6
+    },
+    {
+      "id": "oscars-best-supporting-actor-2026-one-battle-after-another",
+      "mediaType": "movie",
+      "title": "ワン・バトル・アフター・アナザー",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt30144839"
+      },
+      "awardYear": 2026,
+      "winner": "Sean Penn",
+      "award": "助演男優賞",
+      "awardOrder": 5
+    },
+    {
+      "id": "oscars-best-international-feature-2026-sentimental-value",
+      "mediaType": "movie",
+      "title": "Sentimental Value",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt27714581"
+      },
+      "awardYear": 2026,
+      "winner": "Norway",
+      "award": "国際長編映画賞",
+      "awardOrder": 10
+    },
+    {
+      "id": "oscars-best-director-2026-one-battle-after-another",
+      "mediaType": "movie",
+      "title": "ワン・バトル・アフター・アナザー",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt30144839"
+      },
+      "awardYear": 2026,
+      "winner": "Paul Thomas Anderson",
+      "award": "監督賞",
+      "awardOrder": 2
+    },
+    {
+      "id": "oscars-best-original-screenplay-2026-sinners",
+      "mediaType": "movie",
+      "title": "罪人たち",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31193180"
+      },
+      "awardYear": 2026,
+      "winner": "Ryan Coogler",
+      "award": "脚本賞",
+      "awardOrder": 7
+    },
+    {
+      "id": "oscars-best-adapted-screenplay-2026-one-battle-after-another",
+      "mediaType": "movie",
+      "title": "ワン・バトル・アフター・アナザー",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt30144839"
+      },
+      "awardYear": 2026,
+      "winner": "Paul Thomas Anderson",
+      "award": "脚色賞",
+      "awardOrder": 8
+    },
+    {
+      "id": "oscars-best-animated-feature-2026-kpop-demon-hunters",
+      "mediaType": "movie",
+      "title": "KPOPガールズ! デーモン・ハンターズ",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt14205554"
+      },
+      "awardYear": 2026,
+      "winner": "Maggie Kang, Chris Appelhans & Michelle L.M. Wong",
+      "award": "長編アニメ映画賞",
+      "awardOrder": 9
+    },
+    {
+      "id": "oscars-best-actress-2025-anora",
+      "mediaType": "movie",
+      "title": "Anora",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt28607951"
+      },
+      "awardYear": 2025,
+      "winner": "Mikey Madison",
+      "award": "主演女優賞",
+      "awardOrder": 4
+    },
+    {
+      "id": "oscars-best-actor-2025-the-brutalist",
+      "mediaType": "movie",
+      "title": "ブルータリスト",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt8999762"
+      },
+      "awardYear": 2025,
+      "winner": "Adrien Brody",
+      "award": "主演男優賞",
+      "awardOrder": 3
+    },
+    {
+      "id": "oscars-best-picture-2025-anora",
+      "mediaType": "movie",
+      "title": "Anora",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt28607951"
+      },
+      "awardYear": 2025,
+      "winner": "Alex Coco, Samantha Quan & Sean Baker",
+      "award": "作品賞",
+      "awardOrder": 1
+    },
+    {
+      "id": "oscars-best-supporting-actress-2025-emilia-p-rez",
+      "mediaType": "movie",
+      "title": "エミリア・ペレス",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt20221436"
+      },
+      "awardYear": 2025,
+      "winner": "Zoe Saldaña",
+      "award": "助演女優賞",
+      "awardOrder": 6
+    },
+    {
+      "id": "oscars-best-supporting-actor-2025-a-real-pain",
+      "mediaType": "movie",
+      "title": "A Real Pain",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt21823606"
+      },
+      "awardYear": 2025,
+      "winner": "Kieran Culkin",
+      "award": "助演男優賞",
+      "awardOrder": 5
+    },
+    {
+      "id": "oscars-best-international-feature-2025-i-m-still-here",
+      "mediaType": "movie",
+      "title": "I'm Still Here",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt14961016"
+      },
+      "awardYear": 2025,
+      "winner": "Brazil",
+      "award": "国際長編映画賞",
+      "awardOrder": 10
+    },
+    {
+      "id": "oscars-best-director-2025-anora",
+      "mediaType": "movie",
+      "title": "Anora",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt28607951"
+      },
+      "awardYear": 2025,
+      "winner": "Sean Baker",
+      "award": "監督賞",
+      "awardOrder": 2
+    },
+    {
+      "id": "oscars-best-original-screenplay-2025-anora",
+      "mediaType": "movie",
+      "title": "Anora",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt28607951"
+      },
+      "awardYear": 2025,
+      "winner": "Sean Baker",
+      "award": "脚本賞",
+      "awardOrder": 7
+    },
+    {
+      "id": "oscars-best-adapted-screenplay-2025-conclave",
+      "mediaType": "movie",
+      "title": "Conclave",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt20215234"
+      },
+      "awardYear": 2025,
+      "winner": "Peter Straughan",
+      "award": "脚色賞",
+      "awardOrder": 8
+    },
+    {
+      "id": "oscars-best-animated-feature-2025-flow",
+      "mediaType": "movie",
+      "title": "Flow",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt4772188"
+      },
+      "awardYear": 2025,
+      "winner": "Gints Zilbalodis, Matīss Kaža, Ron Dyens & Gregory Zalcman",
+      "award": "長編アニメ映画賞",
+      "awardOrder": 9
+    },
+    {
+      "id": "oscars-best-actress-2024-poor-things",
+      "mediaType": "movie",
+      "title": "哀れなるものたち",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt14230458"
+      },
+      "awardYear": 2024,
+      "winner": "Emma Stone",
+      "award": "主演女優賞",
+      "awardOrder": 4
+    },
+    {
+      "id": "oscars-best-actor-2024-oppenheimer",
+      "mediaType": "movie",
+      "title": "オッペンハイマー",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt15398776"
+      },
+      "awardYear": 2024,
+      "winner": "Cillian Murphy",
+      "award": "主演男優賞",
+      "awardOrder": 3
+    },
+    {
+      "id": "oscars-best-picture-2024-oppenheimer",
+      "mediaType": "movie",
+      "title": "オッペンハイマー",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt15398776"
+      },
+      "awardYear": 2024,
+      "winner": "Emma Thomas, Charles Roven & Christopher Nolan",
+      "award": "作品賞",
+      "awardOrder": 1
+    },
+    {
+      "id": "oscars-best-supporting-actress-2024-the-holdovers",
+      "mediaType": "movie",
+      "title": "The Holdovers",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt14849194"
+      },
+      "awardYear": 2024,
+      "winner": "Da'Vine Joy Randolph",
+      "award": "助演女優賞",
+      "awardOrder": 6
+    },
+    {
+      "id": "oscars-best-supporting-actor-2024-oppenheimer",
+      "mediaType": "movie",
+      "title": "オッペンハイマー",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt15398776"
+      },
+      "awardYear": 2024,
+      "winner": "Robert Downey Jr.",
+      "award": "助演男優賞",
+      "awardOrder": 5
+    },
+    {
+      "id": "oscars-best-international-feature-2024-the-zone-of-interest",
+      "mediaType": "movie",
+      "title": "The Zone of Interest",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt7160372"
+      },
+      "awardYear": 2024,
+      "winner": "United Kingdom",
+      "award": "国際長編映画賞",
+      "awardOrder": 10
+    },
+    {
+      "id": "oscars-best-director-2024-oppenheimer",
+      "mediaType": "movie",
+      "title": "オッペンハイマー",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt15398776"
+      },
+      "awardYear": 2024,
+      "winner": "Christopher Nolan",
+      "award": "監督賞",
+      "awardOrder": 2
+    },
+    {
+      "id": "oscars-best-original-screenplay-2024-anatomy-of-a-fall",
+      "mediaType": "movie",
+      "title": "落下の解剖学",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt17009710"
+      },
+      "awardYear": 2024,
+      "winner": "Justine Triet & Arthur Harari",
+      "award": "脚本賞",
+      "awardOrder": 7
+    },
+    {
+      "id": "oscars-best-adapted-screenplay-2024-american-fiction",
+      "mediaType": "movie",
+      "title": "American Fiction",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt23561236"
+      },
+      "awardYear": 2024,
+      "winner": "Cord Jefferson",
+      "award": "脚色賞",
+      "awardOrder": 8
+    },
+    {
+      "id": "oscars-best-animated-feature-2024-the-boy-and-the-heron",
+      "mediaType": "movie",
+      "title": "君たちはどう生きるか",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt6587046"
+      },
+      "awardYear": 2024,
+      "winner": "Hayao Miyazaki & Toshio Suzuki",
+      "award": "長編アニメ映画賞",
+      "awardOrder": 9
+    },
+    {
+      "id": "oscars-best-actress-2023-everything-everywhere-all-at-once",
+      "mediaType": "movie",
+      "title": "Everything Everywhere All at Once",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt6710474"
+      },
+      "awardYear": 2023,
+      "winner": "Michelle Yeoh",
+      "award": "主演女優賞",
+      "awardOrder": 4
+    },
+    {
+      "id": "oscars-best-actor-2023-the-whale",
+      "mediaType": "movie",
+      "title": "The Whale",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt13833688"
+      },
+      "awardYear": 2023,
+      "winner": "Brendan Fraser",
+      "award": "主演男優賞",
+      "awardOrder": 3
+    },
+    {
+      "id": "oscars-best-picture-2023-everything-everywhere-all-at-once",
+      "mediaType": "movie",
+      "title": "Everything Everywhere All at Once",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt6710474"
+      },
+      "awardYear": 2023,
+      "winner": "Daniel Kwan, Daniel Scheinert & Jonathan Wang",
+      "award": "作品賞",
+      "awardOrder": 1
+    },
+    {
+      "id": "oscars-best-supporting-actress-2023-everything-everywhere-all-at-once",
+      "mediaType": "movie",
+      "title": "Everything Everywhere All at Once",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt6710474"
+      },
+      "awardYear": 2023,
+      "winner": "Jamie Lee Curtis",
+      "award": "助演女優賞",
+      "awardOrder": 6
+    },
+    {
+      "id": "oscars-best-supporting-actor-2023-everything-everywhere-all-at-once",
+      "mediaType": "movie",
+      "title": "Everything Everywhere All at Once",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt6710474"
+      },
+      "awardYear": 2023,
+      "winner": "Ke Huy Quan",
+      "award": "助演男優賞",
+      "awardOrder": 5
+    },
+    {
+      "id": "oscars-best-international-feature-2023-all-quiet-on-the-western-front",
+      "mediaType": "movie",
+      "title": "All Quiet on the Western Front",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt1016150"
+      },
+      "awardYear": 2023,
+      "winner": "Germany",
+      "award": "国際長編映画賞",
+      "awardOrder": 10
+    },
+    {
+      "id": "oscars-best-director-2023-everything-everywhere-all-at-once",
+      "mediaType": "movie",
+      "title": "Everything Everywhere All at Once",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt6710474"
+      },
+      "awardYear": 2023,
+      "winner": "Daniel Kwan & Daniel Scheinert",
+      "award": "監督賞",
+      "awardOrder": 2
+    },
+    {
+      "id": "oscars-best-original-screenplay-2023-everything-everywhere-all-at-once",
+      "mediaType": "movie",
+      "title": "Everything Everywhere All at Once",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt6710474"
+      },
+      "awardYear": 2023,
+      "winner": "Daniel Kwan & Daniel Scheinert",
+      "award": "脚本賞",
+      "awardOrder": 7
+    },
+    {
+      "id": "oscars-best-adapted-screenplay-2023-women-talking",
+      "mediaType": "movie",
+      "title": "Women Talking",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt13669038"
+      },
+      "awardYear": 2023,
+      "winner": "Sarah Polley",
+      "award": "脚色賞",
+      "awardOrder": 8
+    },
+    {
+      "id": "oscars-best-animated-feature-2023-guillermo-del-toro-s-pinocchio",
+      "mediaType": "movie",
+      "title": "ギレルモ・デル・トロのピノッキオ",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt1488589"
+      },
+      "awardYear": 2023,
+      "winner": "Guillermo del Toro, Mark Gustafson, Gary Ungar & Alex Bulkley",
+      "award": "長編アニメ映画賞",
+      "awardOrder": 9
+    },
+    {
+      "id": "oscars-best-actress-2022-the-eyes-of-tammy-faye",
+      "mediaType": "movie",
+      "title": "The Eyes of Tammy Faye",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt9115530"
+      },
+      "awardYear": 2022,
+      "winner": "Jessica Chastain",
+      "award": "主演女優賞",
+      "awardOrder": 4
+    },
+    {
+      "id": "oscars-best-actor-2022-king-richard",
+      "mediaType": "movie",
+      "title": "King Richard",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt9620288"
+      },
+      "awardYear": 2022,
+      "winner": "Will Smith",
+      "award": "主演男優賞",
+      "awardOrder": 3
+    },
+    {
+      "id": "oscars-best-picture-2022-coda",
+      "mediaType": "movie",
+      "title": "コーダ あいのうた",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt10366460"
+      },
+      "awardYear": 2022,
+      "winner": "Philippe Rousselet, Fabrice Gianfermi & Patrick Wachsberger",
+      "award": "作品賞",
+      "awardOrder": 1
+    },
+    {
+      "id": "oscars-best-supporting-actress-2022-west-side-story",
+      "mediaType": "movie",
+      "title": "ウエスト・サイド・ストーリー",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt3581652"
+      },
+      "awardYear": 2022,
+      "winner": "Ariana DeBose",
+      "award": "助演女優賞",
+      "awardOrder": 6
+    },
+    {
+      "id": "oscars-best-supporting-actor-2022-coda",
+      "mediaType": "movie",
+      "title": "コーダ あいのうた",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt10366460"
+      },
+      "awardYear": 2022,
+      "winner": "Troy Kotsur",
+      "award": "助演男優賞",
+      "awardOrder": 5
+    },
+    {
+      "id": "oscars-best-international-feature-2022-drive-my-car",
+      "mediaType": "movie",
+      "title": "ドライブ・マイ・カー",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14039582"
+      },
+      "awardYear": 2022,
+      "winner": "Japan",
+      "award": "国際長編映画賞",
+      "awardOrder": 10
+    },
+    {
+      "id": "oscars-best-director-2022-the-power-of-the-dog",
+      "mediaType": "movie",
+      "title": "パワー・オブ・ザ・ドッグ",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt10293406"
+      },
+      "awardYear": 2022,
+      "winner": "Jane Campion",
+      "award": "監督賞",
+      "awardOrder": 2
+    },
+    {
+      "id": "oscars-best-original-screenplay-2022-belfast",
+      "mediaType": "movie",
+      "title": "Belfast",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt12789558"
+      },
+      "awardYear": 2022,
+      "winner": "Kenneth Branagh",
+      "award": "脚本賞",
+      "awardOrder": 7
+    },
+    {
+      "id": "oscars-best-adapted-screenplay-2022-coda",
+      "mediaType": "movie",
+      "title": "コーダ あいのうた",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt10366460"
+      },
+      "awardYear": 2022,
+      "winner": "Siân Heder",
+      "award": "脚色賞",
+      "awardOrder": 8
+    },
+    {
+      "id": "oscars-best-animated-feature-2022-encanto",
+      "mediaType": "movie",
+      "title": "ミラベルと魔法だらけの家",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt2953050"
+      },
+      "awardYear": 2022,
+      "winner": "Jared Bush, Byron Howard, Yvett Merino & Clark Spencer",
+      "award": "長編アニメ映画賞",
+      "awardOrder": 9
+    },
+    {
+      "id": "oscars-best-actress-2021-nomadland",
+      "mediaType": "movie",
+      "title": "ノマドランド",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt9770150"
+      },
+      "awardYear": 2021,
+      "winner": "Frances McDormand",
+      "award": "主演女優賞",
+      "awardOrder": 4
+    },
+    {
+      "id": "oscars-best-actor-2021-the-father",
+      "mediaType": "movie",
+      "title": "The Father",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10272386"
+      },
+      "awardYear": 2021,
+      "winner": "Anthony Hopkins",
+      "award": "主演男優賞",
+      "awardOrder": 3
+    },
+    {
+      "id": "oscars-best-picture-2021-nomadland",
+      "mediaType": "movie",
+      "title": "ノマドランド",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt9770150"
+      },
+      "awardYear": 2021,
+      "winner": "Frances McDormand, Peter Spears, Mollye Asher, Dan Janvey & Chloé Zhao",
+      "award": "作品賞",
+      "awardOrder": 1
+    },
+    {
+      "id": "oscars-best-supporting-actress-2021-minari",
+      "mediaType": "movie",
+      "title": "ミナリ",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10633456"
+      },
+      "awardYear": 2021,
+      "winner": "Youn Yuh-jung",
+      "award": "助演女優賞",
+      "awardOrder": 6
+    },
+    {
+      "id": "oscars-best-supporting-actor-2021-judas-and-the-black-messiah",
+      "mediaType": "movie",
+      "title": "Judas and the Black Messiah",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt9784798"
+      },
+      "awardYear": 2021,
+      "winner": "Daniel Kaluuya",
+      "award": "助演男優賞",
+      "awardOrder": 5
+    },
+    {
+      "id": "oscars-best-international-feature-2021-another-round",
+      "mediaType": "movie",
+      "title": "Another Round",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10288566"
+      },
+      "awardYear": 2021,
+      "winner": "Denmark",
+      "award": "国際長編映画賞",
+      "awardOrder": 10
+    },
+    {
+      "id": "oscars-best-director-2021-nomadland",
+      "mediaType": "movie",
+      "title": "ノマドランド",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt9770150"
+      },
+      "awardYear": 2021,
+      "winner": "Chloé Zhao",
+      "award": "監督賞",
+      "awardOrder": 2
+    },
+    {
+      "id": "oscars-best-original-screenplay-2021-promising-young-woman",
+      "mediaType": "movie",
+      "title": "Promising Young Woman",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt9620292"
+      },
+      "awardYear": 2021,
+      "winner": "Emerald Fennell",
+      "award": "脚本賞",
+      "awardOrder": 7
+    },
+    {
+      "id": "oscars-best-adapted-screenplay-2021-the-father",
+      "mediaType": "movie",
+      "title": "The Father",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10272386"
+      },
+      "awardYear": 2021,
+      "winner": "Christopher Hampton & Florian Zeller",
+      "award": "脚色賞",
+      "awardOrder": 8
+    },
+    {
+      "id": "oscars-best-animated-feature-2021-soul",
+      "mediaType": "movie",
+      "title": "ソウルフル・ワールド",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt2948372"
+      },
+      "awardYear": 2021,
+      "winner": "Pete Docter & Dana Murray",
+      "award": "長編アニメ映画賞",
+      "awardOrder": 9
+    },
+    {
+      "id": "oscars-best-actress-2020-judy",
+      "mediaType": "movie",
+      "title": "Judy",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt7549996"
+      },
+      "awardYear": 2020,
+      "winner": "Renée Zellweger",
+      "award": "主演女優賞",
+      "awardOrder": 4
+    },
+    {
+      "id": "oscars-best-actor-2020-joker",
+      "mediaType": "movie",
+      "title": "Joker",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt7286456"
+      },
+      "awardYear": 2020,
+      "winner": "Joaquin Phoenix",
+      "award": "主演男優賞",
+      "awardOrder": 3
+    },
+    {
+      "id": "oscars-best-picture-2020-parasite",
+      "mediaType": "movie",
+      "title": "パラサイト 半地下の家族",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6751668"
+      },
+      "awardYear": 2020,
+      "winner": "Kwak Sin-ae & Bong Joon Ho",
+      "award": "作品賞",
+      "awardOrder": 1
+    },
+    {
+      "id": "oscars-best-supporting-actress-2020-marriage-story",
+      "mediaType": "movie",
+      "title": "Marriage Story",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt7653254"
+      },
+      "awardYear": 2020,
+      "winner": "Laura Dern",
+      "award": "助演女優賞",
+      "awardOrder": 6
+    },
+    {
+      "id": "oscars-best-supporting-actor-2020-once-upon-a-time-in-hollywood",
+      "mediaType": "movie",
+      "title": "ワンス・アポン・ア・タイム・イン・ハリウッド",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt7131622"
+      },
+      "awardYear": 2020,
+      "winner": "Brad Pitt",
+      "award": "助演男優賞",
+      "awardOrder": 5
+    },
+    {
+      "id": "oscars-best-international-feature-2020-parasite",
+      "mediaType": "movie",
+      "title": "パラサイト 半地下の家族",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6751668"
+      },
+      "awardYear": 2020,
+      "winner": "South Korea",
+      "award": "国際長編映画賞",
+      "awardOrder": 10
+    },
+    {
+      "id": "oscars-best-director-2020-parasite",
+      "mediaType": "movie",
+      "title": "パラサイト 半地下の家族",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6751668"
+      },
+      "awardYear": 2020,
+      "winner": "Bong Joon Ho",
+      "award": "監督賞",
+      "awardOrder": 2
+    },
+    {
+      "id": "oscars-best-original-screenplay-2020-parasite",
+      "mediaType": "movie",
+      "title": "パラサイト 半地下の家族",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6751668"
+      },
+      "awardYear": 2020,
+      "winner": "Bong Joon Ho & Han Jin Won",
+      "award": "脚本賞",
+      "awardOrder": 7
+    },
+    {
+      "id": "oscars-best-adapted-screenplay-2020-jojo-rabbit",
+      "mediaType": "movie",
+      "title": "Jojo Rabbit",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt2584384"
+      },
+      "awardYear": 2020,
+      "winner": "Taika Waititi",
+      "award": "脚色賞",
+      "awardOrder": 8
+    },
+    {
+      "id": "oscars-best-animated-feature-2020-toy-story-4",
+      "mediaType": "movie",
+      "title": "Toy Story 4",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt1979376"
+      },
+      "awardYear": 2020,
+      "winner": "Josh Cooley, Mark Nielsen & Jonas Rivera",
+      "award": "長編アニメ映画賞",
+      "awardOrder": 9
+    },
+    {
+      "id": "oscars-best-actress-2019-the-favourite",
+      "mediaType": "movie",
+      "title": "The Favourite",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt5083738"
+      },
+      "awardYear": 2019,
+      "winner": "Olivia Colman",
+      "award": "主演女優賞",
+      "awardOrder": 4
+    },
+    {
+      "id": "oscars-best-actor-2019-bohemian-rhapsody",
+      "mediaType": "movie",
+      "title": "ボヘミアン・ラプソディ",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt1727824"
+      },
+      "awardYear": 2019,
+      "winner": "Rami Malek",
+      "award": "主演男優賞",
+      "awardOrder": 3
+    },
+    {
+      "id": "oscars-best-picture-2019-green-book",
+      "mediaType": "movie",
+      "title": "グリーンブック",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt6966692"
+      },
+      "awardYear": 2019,
+      "winner": "Jim Burke, Charles B. Wessler, Brian Currie, Peter Farrelly & Nick Vallelonga",
+      "award": "作品賞",
+      "awardOrder": 1
+    },
+    {
+      "id": "oscars-best-supporting-actress-2019-if-beale-street-could-talk",
+      "mediaType": "movie",
+      "title": "If Beale Street Could Talk",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7125860"
+      },
+      "awardYear": 2019,
+      "winner": "Regina King",
+      "award": "助演女優賞",
+      "awardOrder": 6
+    },
+    {
+      "id": "oscars-best-supporting-actor-2019-green-book",
+      "mediaType": "movie",
+      "title": "グリーンブック",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt6966692"
+      },
+      "awardYear": 2019,
+      "winner": "Mahershala Ali",
+      "award": "助演男優賞",
+      "awardOrder": 5
+    },
+    {
+      "id": "oscars-best-international-feature-2019-roma",
+      "mediaType": "movie",
+      "title": "ROMA/ローマ",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt6155172"
+      },
+      "awardYear": 2019,
+      "winner": "Alfonso Cuarón",
+      "award": "国際長編映画賞",
+      "awardOrder": 10
+    },
+    {
+      "id": "oscars-best-director-2019-roma",
+      "mediaType": "movie",
+      "title": "ROMA/ローマ",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt6155172"
+      },
+      "awardYear": 2019,
+      "winner": "Alfonso Cuarón",
+      "award": "監督賞",
+      "awardOrder": 2
+    },
+    {
+      "id": "oscars-best-original-screenplay-2019-green-book",
+      "mediaType": "movie",
+      "title": "グリーンブック",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt6966692"
+      },
+      "awardYear": 2019,
+      "winner": "Nick Vallelonga, Brian Currie & Peter Farrelly",
+      "award": "脚本賞",
+      "awardOrder": 7
+    },
+    {
+      "id": "oscars-best-adapted-screenplay-2019-blackkklansman",
+      "mediaType": "movie",
+      "title": "BlacKkKlansman",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7349662"
+      },
+      "awardYear": 2019,
+      "winner": "Charlie Wachtel, David Rabinowitz, Kevin Willmott & Spike Lee",
+      "award": "脚色賞",
+      "awardOrder": 8
+    },
+    {
+      "id": "oscars-best-animated-feature-2019-spider-man-into-the-spider-verse",
+      "mediaType": "movie",
+      "title": "スパイダーマン：スパイダーバース",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt4633694"
+      },
+      "awardYear": 2019,
+      "winner": "Bob Persichetti, Peter Ramsey, Rodney Rothman, Phil Lord & Christopher Miller",
+      "award": "長編アニメ映画賞",
+      "awardOrder": 9
+    },
+    {
+      "id": "oscars-best-actress-2018-three-billboards-outside-ebbing-missouri",
+      "mediaType": "movie",
+      "title": "スリー・ビルボード",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5027774"
+      },
+      "awardYear": 2018,
+      "winner": "Frances McDormand",
+      "award": "主演女優賞",
+      "awardOrder": 4
+    },
+    {
+      "id": "oscars-best-actor-2018-darkest-hour",
+      "mediaType": "movie",
+      "title": "Darkest Hour",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt4555426"
+      },
+      "awardYear": 2018,
+      "winner": "Gary Oldman",
+      "award": "主演男優賞",
+      "awardOrder": 3
+    },
+    {
+      "id": "oscars-best-picture-2018-the-shape-of-water",
+      "mediaType": "movie",
+      "title": "The Shape of Water",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5580390"
+      },
+      "awardYear": 2018,
+      "winner": "Guillermo del Toro & J. Miles Dale",
+      "award": "作品賞",
+      "awardOrder": 1
+    },
+    {
+      "id": "oscars-best-supporting-actress-2018-i-tonya",
+      "mediaType": "movie",
+      "title": "I, Tonya",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5580036"
+      },
+      "awardYear": 2018,
+      "winner": "Allison Janney",
+      "award": "助演女優賞",
+      "awardOrder": 6
+    },
+    {
+      "id": "oscars-best-supporting-actor-2018-three-billboards-outside-ebbing-missouri",
+      "mediaType": "movie",
+      "title": "スリー・ビルボード",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5027774"
+      },
+      "awardYear": 2018,
+      "winner": "Sam Rockwell",
+      "award": "助演男優賞",
+      "awardOrder": 5
+    },
+    {
+      "id": "oscars-best-international-feature-2018-a-fantastic-woman",
+      "mediaType": "movie",
+      "title": "A Fantastic Woman",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5639354"
+      },
+      "awardYear": 2018,
+      "winner": "Sebastián Lelio",
+      "award": "国際長編映画賞",
+      "awardOrder": 10
+    },
+    {
+      "id": "oscars-best-director-2018-the-shape-of-water",
+      "mediaType": "movie",
+      "title": "The Shape of Water",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5580390"
+      },
+      "awardYear": 2018,
+      "winner": "Guillermo del Toro",
+      "award": "監督賞",
+      "awardOrder": 2
+    },
+    {
+      "id": "oscars-best-original-screenplay-2018-get-out",
+      "mediaType": "movie",
+      "title": "Get Out",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5052448"
+      },
+      "awardYear": 2018,
+      "winner": "Jordan Peele",
+      "award": "脚本賞",
+      "awardOrder": 7
+    },
+    {
+      "id": "oscars-best-adapted-screenplay-2018-call-me-by-your-name",
+      "mediaType": "movie",
+      "title": "Call Me by Your Name",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5726616"
+      },
+      "awardYear": 2018,
+      "winner": "James Ivory",
+      "award": "脚色賞",
+      "awardOrder": 8
+    },
+    {
+      "id": "oscars-best-animated-feature-2018-coco",
+      "mediaType": "movie",
+      "title": "リメンバー・ミー",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt2380307"
+      },
+      "awardYear": 2018,
+      "winner": "Lee Unkrich & Darla K. Anderson",
+      "award": "長編アニメ映画賞",
+      "awardOrder": 9
+    },
+    {
+      "id": "oscars-best-actress-2017-la-la-land",
+      "mediaType": "movie",
+      "title": "ラ・ラ・ランド",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt3783958"
+      },
+      "awardYear": 2017,
+      "winner": "Emma Stone",
+      "award": "主演女優賞",
+      "awardOrder": 4
+    },
+    {
+      "id": "oscars-best-actor-2017-manchester-by-the-sea",
+      "mediaType": "movie",
+      "title": "Manchester by the Sea",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4034228"
+      },
+      "awardYear": 2017,
+      "winner": "Casey Affleck",
+      "award": "主演男優賞",
+      "awardOrder": 3
+    },
+    {
+      "id": "oscars-best-picture-2017-moonlight",
+      "mediaType": "movie",
+      "title": "ムーンライト",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4975722"
+      },
+      "awardYear": 2017,
+      "winner": "Dede Gardner, Jeremy Kleiner & Adele Romanski",
+      "award": "作品賞",
+      "awardOrder": 1
+    },
+    {
+      "id": "oscars-best-supporting-actress-2017-fences",
+      "mediaType": "movie",
+      "title": "Fences",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt2671706"
+      },
+      "awardYear": 2017,
+      "winner": "Viola Davis",
+      "award": "助演女優賞",
+      "awardOrder": 6
+    },
+    {
+      "id": "oscars-best-supporting-actor-2017-moonlight",
+      "mediaType": "movie",
+      "title": "ムーンライト",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4975722"
+      },
+      "awardYear": 2017,
+      "winner": "Mahershala Ali",
+      "award": "助演男優賞",
+      "awardOrder": 5
+    },
+    {
+      "id": "oscars-best-international-feature-2017-the-salesman",
+      "mediaType": "movie",
+      "title": "The Salesman",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5186714"
+      },
+      "awardYear": 2017,
+      "winner": "Asghar Farhadi",
+      "award": "国際長編映画賞",
+      "awardOrder": 10
+    },
+    {
+      "id": "oscars-best-director-2017-la-la-land",
+      "mediaType": "movie",
+      "title": "ラ・ラ・ランド",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt3783958"
+      },
+      "awardYear": 2017,
+      "winner": "Damien Chazelle",
+      "award": "監督賞",
+      "awardOrder": 2
+    },
+    {
+      "id": "oscars-best-original-screenplay-2017-manchester-by-the-sea",
+      "mediaType": "movie",
+      "title": "Manchester by the Sea",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4034228"
+      },
+      "awardYear": 2017,
+      "winner": "Kenneth Lonergan",
+      "award": "脚本賞",
+      "awardOrder": 7
+    },
+    {
+      "id": "oscars-best-adapted-screenplay-2017-moonlight",
+      "mediaType": "movie",
+      "title": "ムーンライト",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4975722"
+      },
+      "awardYear": 2017,
+      "winner": "Barry Jenkins & Tarell Alvin McCraney",
+      "award": "脚色賞",
+      "awardOrder": 8
+    },
+    {
+      "id": "oscars-best-animated-feature-2017-zootopia",
+      "mediaType": "movie",
+      "title": "ズートピア",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt2948356"
+      },
+      "awardYear": 2017,
+      "winner": "Byron Howard, Rich Moore & Clark Spencer",
+      "award": "長編アニメ映画賞",
+      "awardOrder": 9
+    }
+  ]
+}

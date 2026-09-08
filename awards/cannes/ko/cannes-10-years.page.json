@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T03:05:36Z",
+  "title": "칸 영화제 최근 10년",
+  "description": "칸 영화제의 최근 10개 역년 중 실제 개최된 영화제 수상작입니다. 2020년은 영화제가 취소되어 포함되지 않습니다.",
+  "tags": [
+    "award",
+    "decade"
+  ],
+  "icon": "ticket",
+  "collections": [
+    {
+      "title": "칸 — 2026",
+      "description": "2026년 칸 영화제의 공식 영화 관련 수상작 목록입니다.",
+      "layout": "carousel",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/ko/cannes.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ],
+      "filters": [
+        {
+          "id": "cannes-2026-year",
+          "targetType": "movie",
+          "field": "awardYear",
+          "fieldType": "number",
+          "operator": "equals",
+          "value": "2026",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "칸 2017–2025",
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/ko/cannes.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ],
+      "filters": [
+        {
+          "id": "older-years-from",
+          "targetType": "movie",
+          "field": "awardYear",
+          "fieldType": "number",
+          "operator": "greaterThan",
+          "value": "2016",
+          "isNegated": false
+        },
+        {
+          "id": "older-years-to",
+          "targetType": "movie",
+          "field": "awardYear",
+          "fieldType": "number",
+          "operator": "lessThan",
+          "value": "2026",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all",
+      "grouping": {
+        "field": "awardYear",
+        "buckets": "2025,2024,,2017",
+        "label": "{start}"
+      }
+    }
+  ]
+}

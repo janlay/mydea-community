@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "title": "Toronto Awards",
+  "description": "Historical winners of major Toronto International Film Festival film awards.",
+  "tags": [
+    "award",
+    "prize"
+  ],
+  "icon": "ticket",
+  "collections": [
+    {
+      "title": "Toronto — People's Choice Award",
+      "description": "Historical winners of the TIFF People's Choice Award.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "limit": 10,
+      "layout": "carousel",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/en/tiff.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "tiff-peoples-choice-award",
+          "targetType": "movie",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "People's Choice Award",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "Toronto — People's Choice Documentary Award",
+      "description": "Historical winners of the TIFF People's Choice Documentary Award.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "limit": 10,
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/en/tiff.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "tiff-documentary-peoples-choice-award",
+          "targetType": "movie",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "People's Choice Documentary Award",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "Toronto — People's Choice Midnight Madness Award",
+      "description": "Historical winners of the TIFF People's Choice Midnight Madness Award.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "limit": 10,
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/en/tiff.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "tiff-midnight-madness-peoples-choice-award",
+          "targetType": "movie",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "People's Choice Midnight Madness Award",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "Toronto — Platform Prize",
+      "description": "Historical winners of the TIFF Platform Prize.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "limit": 10,
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/en/tiff.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "tiff-platform-prize-award",
+          "targetType": "movie",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "Platform Prize",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "Toronto — Best Canadian Feature Film",
+      "description": "Historical winners of the TIFF Best Canadian Feature Film.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "limit": 10,
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/en/tiff.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "tiff-best-canadian-feature-award",
+          "targetType": "movie",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "Best Canadian Feature Film",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "Toronto — Best Canadian Discovery",
+      "description": "Historical winners of the TIFF Best Canadian Discovery.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "limit": 10,
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/en/tiff.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "tiff-best-canadian-discovery-award",
+          "targetType": "movie",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "Best Canadian Discovery",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    }
+  ]
+}

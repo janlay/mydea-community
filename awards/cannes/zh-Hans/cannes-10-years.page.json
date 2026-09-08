@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "title": "戛纳十年",
+  "description": "戛纳电影节近十年获奖名单。2020 年因疫情取消，故无该年。",
+  "tags": [
+    "award",
+    "decade"
+  ],
+  "icon": "ticket",
+  "collections": [
+    {
+      "title": "戛纳 — 2026",
+      "description": "第79届戛纳电影节官方影片相关奖项，涵盖主竞赛单元, 短片, 一种关注单元, 金摄影机奖, 电影基石单元 以及 CST 技术奖。",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "carousel",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/zh-Hans/cannes.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ],
+      "filters": [
+        {
+          "id": "cannes-2026-year",
+          "targetType": "movie",
+          "field": "awardYear",
+          "fieldType": "number",
+          "operator": "equals",
+          "value": "2026",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "戛纳 2017–2025",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/zh-Hans/cannes.list.json"
+        }
+      ],
+      "layout": "grid",
+      "bindings": [
+        "winner",
+        "award"
+      ],
+      "filters": [
+        {
+          "id": "older-years-from",
+          "targetType": "movie",
+          "field": "awardYear",
+          "fieldType": "number",
+          "operator": "greaterThan",
+          "value": "2016",
+          "isNegated": false
+        },
+        {
+          "id": "older-years-to",
+          "targetType": "movie",
+          "field": "awardYear",
+          "fieldType": "number",
+          "operator": "lessThan",
+          "value": "2026",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all",
+      "grouping": {
+        "field": "awardYear",
+        "buckets": "2025,2024,,2017",
+        "label": "{start}"
+      }
+    }
+  ]
+}

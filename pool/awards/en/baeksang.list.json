@@ -1,0 +1,1411 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "title": "Baeksang Arts Awards",
+  "author": "Mydea",
+  "server": "TMDB",
+  "updatedAt": "2026-09-21T00:00:00Z",
+  "description": "Baeksang Arts Awards",
+  "items": [
+    {
+      "id": "baeksang-2026-film-actor-ugly",
+      "mediaType": "movie",
+      "title": "The Ugly",
+      "originalTitle": "얼굴",
+      "awardYear": 2026,
+      "winner": "Park Jeong-min",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt33514451"
+      },
+      "award": "Best Actor Film",
+      "awardOrder": 4
+    },
+    {
+      "id": "baeksang-2026-film-actress-once-us",
+      "mediaType": "movie",
+      "title": "Once We Were Us",
+      "originalTitle": "만약에 우리",
+      "awardYear": 2026,
+      "winner": "Moon Ga-young",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt37764737"
+      },
+      "award": "Best Actress Film",
+      "awardOrder": 5
+    },
+    {
+      "id": "baeksang-2026-film-director-world-love",
+      "mediaType": "movie",
+      "title": "The World of Love",
+      "originalTitle": "세계의 주인",
+      "awardYear": 2026,
+      "winner": "Yoon Ga-eun",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt37661885"
+      },
+      "award": "Best Director Film",
+      "awardOrder": 3
+    },
+    {
+      "id": "baeksang-2026-film-best-no-other-choice",
+      "mediaType": "movie",
+      "title": "No Other Choice",
+      "originalTitle": "어쩔수가없다",
+      "awardYear": 2026,
+      "winner": "No Other Choice",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt1527793"
+      },
+      "award": "Best Film",
+      "awardOrder": 2
+    },
+    {
+      "id": "baeksang-2026-film-grand-kings-warden",
+      "mediaType": "movie",
+      "title": "The King’s Warden",
+      "originalTitle": "왕과 사는 남자",
+      "awardYear": 2026,
+      "winner": "Yoo Hae-jin",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt38626703"
+      },
+      "award": "Film Grand Prize",
+      "awardOrder": 1
+    },
+    {
+      "id": "baeksang-2025-film-actor-pilot",
+      "mediaType": "movie",
+      "title": "Pilot",
+      "originalTitle": "파일럿",
+      "awardYear": 2025,
+      "winner": "Cho Jung-seok",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt32175399"
+      },
+      "award": "Best Actor Film",
+      "awardOrder": 4
+    },
+    {
+      "id": "baeksang-2025-film-actress-revolver",
+      "mediaType": "movie",
+      "title": "Revolver",
+      "originalTitle": "리볼버",
+      "awardYear": 2025,
+      "winner": "Jeon Do-yeon",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt28284984"
+      },
+      "award": "Best Actress Film",
+      "awardOrder": 5
+    },
+    {
+      "id": "baeksang-2025-film-director-revolver",
+      "mediaType": "movie",
+      "title": "Revolver",
+      "originalTitle": "리볼버",
+      "awardYear": 2025,
+      "winner": "Oh Seung-uk",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt28284984"
+      },
+      "award": "Best Director Film",
+      "awardOrder": 3
+    },
+    {
+      "id": "baeksang-2025-film-best-harbin",
+      "mediaType": "movie",
+      "title": "Harbin",
+      "originalTitle": "하얼빈",
+      "awardYear": 2025,
+      "winner": "Harbin",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt23630030"
+      },
+      "award": "Best Film",
+      "awardOrder": 2
+    },
+    {
+      "id": "baeksang-2025-film-grand-harbin",
+      "mediaType": "movie",
+      "title": "Harbin",
+      "originalTitle": "하얼빈",
+      "awardYear": 2025,
+      "winner": "Hong Kyung-pyo",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt23630030"
+      },
+      "award": "Film Grand Prize",
+      "awardOrder": 1
+    },
+    {
+      "id": "baeksang-2024-film-actor-seoul-spring",
+      "mediaType": "movie",
+      "title": "12.12: The Day",
+      "originalTitle": "서울의 봄",
+      "awardYear": 2024,
+      "winner": "Hwang Jung-min",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt22507524"
+      },
+      "award": "Best Actor Film",
+      "awardOrder": 4
+    },
+    {
+      "id": "baeksang-2024-film-actress-exhuma",
+      "mediaType": "movie",
+      "title": "Exhuma",
+      "originalTitle": "파묘",
+      "awardYear": 2024,
+      "winner": "Kim Go-eun",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt27802490"
+      },
+      "award": "Best Actress Film",
+      "awardOrder": 5
+    },
+    {
+      "id": "baeksang-2024-film-director-exhuma",
+      "mediaType": "movie",
+      "title": "Exhuma",
+      "originalTitle": "파묘",
+      "awardYear": 2024,
+      "winner": "Jang Jae-hyun",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt27802490"
+      },
+      "award": "Best Director Film",
+      "awardOrder": 3
+    },
+    {
+      "id": "baeksang-2024-film-best-seoul-spring",
+      "mediaType": "movie",
+      "title": "12.12: The Day",
+      "originalTitle": "서울의 봄",
+      "awardYear": 2024,
+      "winner": "12.12: The Day",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt22507524"
+      },
+      "award": "Best Film",
+      "awardOrder": 2
+    },
+    {
+      "id": "baeksang-2024-film-grand-seoul-spring",
+      "mediaType": "movie",
+      "title": "12.12: The Day",
+      "originalTitle": "서울의 봄",
+      "awardYear": 2024,
+      "winner": "Kim Sung-su",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt22507524"
+      },
+      "award": "Film Grand Prize",
+      "awardOrder": 1
+    },
+    {
+      "id": "baeksang-2023-film-actor-night-owl",
+      "mediaType": "movie",
+      "title": "The Night Owl",
+      "originalTitle": "올빼미",
+      "awardYear": 2023,
+      "winner": "Ryu Jun-yeol",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt23871504"
+      },
+      "award": "Best Actor Film",
+      "awardOrder": 4
+    },
+    {
+      "id": "baeksang-2023-film-actress-decision",
+      "mediaType": "movie",
+      "title": "Decision to Leave",
+      "originalTitle": "헤어질 결심",
+      "awardYear": 2023,
+      "winner": "Tang Wei",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt12477480"
+      },
+      "award": "Best Actress Film",
+      "awardOrder": 5
+    },
+    {
+      "id": "baeksang-2023-film-director-decision",
+      "mediaType": "movie",
+      "title": "Decision to Leave",
+      "originalTitle": "헤어질 결심",
+      "awardYear": 2023,
+      "winner": "Park Chan-wook",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt12477480"
+      },
+      "award": "Best Director Film",
+      "awardOrder": 3
+    },
+    {
+      "id": "baeksang-2023-film-best-night-owl",
+      "mediaType": "movie",
+      "title": "The Night Owl",
+      "originalTitle": "올빼미",
+      "awardYear": 2023,
+      "winner": "The Night Owl",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt23871504"
+      },
+      "award": "Best Film",
+      "awardOrder": 2
+    },
+    {
+      "id": "baeksang-2023-film-grand-decision",
+      "mediaType": "movie",
+      "title": "Decision to Leave",
+      "originalTitle": "헤어질 결심",
+      "awardYear": 2023,
+      "winner": "Decision to Leave",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt12477480"
+      },
+      "award": "Film Grand Prize",
+      "awardOrder": 1
+    },
+    {
+      "id": "baeksang-2022-film-actor-kingmaker",
+      "mediaType": "movie",
+      "title": "Kingmaker",
+      "originalTitle": "킹메이커",
+      "awardYear": 2022,
+      "winner": "Sol Kyung-gu",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt17491616"
+      },
+      "award": "Best Actor Film",
+      "awardOrder": 4
+    },
+    {
+      "id": "baeksang-2022-film-actress-in-front",
+      "mediaType": "movie",
+      "title": "In Front of Your Face",
+      "originalTitle": "당신얼굴 앞에서",
+      "awardYear": 2022,
+      "winner": "Lee Hye-young",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14776918"
+      },
+      "award": "Best Actress Film",
+      "awardOrder": 5
+    },
+    {
+      "id": "baeksang-2022-film-director-kingmaker",
+      "mediaType": "movie",
+      "title": "Kingmaker",
+      "originalTitle": "킹메이커",
+      "awardYear": 2022,
+      "winner": "Byun Sung-hyun",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt17491616"
+      },
+      "award": "Best Director Film",
+      "awardOrder": 3
+    },
+    {
+      "id": "baeksang-2022-film-best-mogadishu",
+      "mediaType": "movie",
+      "title": "Escape from Mogadishu",
+      "originalTitle": "모가디슈",
+      "awardYear": 2022,
+      "winner": "Escape from Mogadishu",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14810692"
+      },
+      "award": "Best Film",
+      "awardOrder": 2
+    },
+    {
+      "id": "baeksang-2022-film-grand-mogadishu",
+      "mediaType": "movie",
+      "title": "Escape from Mogadishu",
+      "originalTitle": "모가디슈",
+      "awardYear": 2022,
+      "winner": "Ryoo Seung-wan",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14810692"
+      },
+      "award": "Film Grand Prize",
+      "awardOrder": 1
+    },
+    {
+      "id": "baeksang-2021-film-actor-voice-silence",
+      "mediaType": "movie",
+      "title": "Voice of Silence",
+      "originalTitle": "소리도 없이",
+      "awardYear": 2021,
+      "winner": "Yoo Ah-in",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10431572"
+      },
+      "award": "Best Actor Film",
+      "awardOrder": 4
+    },
+    {
+      "id": "baeksang-2021-film-actress-call",
+      "mediaType": "movie",
+      "title": "The Call",
+      "originalTitle": "콜",
+      "awardYear": 2021,
+      "winner": "Jeon Jong-seo",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10530176"
+      },
+      "award": "Best Actress Film",
+      "awardOrder": 5
+    },
+    {
+      "id": "baeksang-2021-film-director-voice-silence",
+      "mediaType": "movie",
+      "title": "Voice of Silence",
+      "originalTitle": "소리도 없이",
+      "awardYear": 2021,
+      "winner": "Hong Eui-jeong",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10431572"
+      },
+      "award": "Best Director Film",
+      "awardOrder": 3
+    },
+    {
+      "id": "baeksang-2021-film-best-samjin",
+      "mediaType": "movie",
+      "title": "Samjin Company English Class",
+      "originalTitle": "삼진그룹 영어토익반",
+      "awardYear": 2021,
+      "winner": "Samjin Company English Class",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt13210996"
+      },
+      "award": "Best Film",
+      "awardOrder": 2
+    },
+    {
+      "id": "baeksang-2021-film-grand-book-fish",
+      "mediaType": "movie",
+      "title": "The Book of Fish",
+      "originalTitle": "자산어보",
+      "awardYear": 2021,
+      "winner": "Lee Joon-ik",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14371900"
+      },
+      "award": "Film Grand Prize",
+      "awardOrder": 1
+    },
+    {
+      "id": "baeksang-2020-film-actor-man-standing",
+      "mediaType": "movie",
+      "title": "The Man Standing Next",
+      "originalTitle": "남산의 부장들",
+      "awardYear": 2020,
+      "winner": "Lee Byung-hun",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt11358398"
+      },
+      "award": "Best Actor Film",
+      "awardOrder": 4
+    },
+    {
+      "id": "baeksang-2020-film-actress-birthday",
+      "mediaType": "movie",
+      "title": "Birthday",
+      "originalTitle": "생일",
+      "awardYear": 2020,
+      "winner": "Jeon Do-yeon",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10248334"
+      },
+      "award": "Best Actress Film",
+      "awardOrder": 5
+    },
+    {
+      "id": "baeksang-2020-film-director-hummingbird",
+      "mediaType": "movie",
+      "title": "House of Hummingbird",
+      "originalTitle": "벌새",
+      "awardYear": 2020,
+      "winner": "Kim Bora",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8951086"
+      },
+      "award": "Best Director Film",
+      "awardOrder": 3
+    },
+    {
+      "id": "baeksang-2020-film-best-parasite",
+      "mediaType": "movie",
+      "title": "Parasite",
+      "originalTitle": "기생충",
+      "awardYear": 2020,
+      "winner": "Parasite",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6751668"
+      },
+      "award": "Best Film",
+      "awardOrder": 2
+    },
+    {
+      "id": "baeksang-2020-film-grand-parasite",
+      "mediaType": "movie",
+      "title": "Parasite",
+      "originalTitle": "기생충",
+      "awardYear": 2020,
+      "winner": "Bong Joon-ho",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6751668"
+      },
+      "award": "Film Grand Prize",
+      "awardOrder": 1
+    },
+    {
+      "id": "baeksang-2019-film-actor-spy-north",
+      "mediaType": "movie",
+      "title": "The Spy Gone North",
+      "originalTitle": "공작",
+      "awardYear": 2019,
+      "winner": "Lee Sung-min",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8290698"
+      },
+      "award": "Best Actor Film",
+      "awardOrder": 4
+    },
+    {
+      "id": "baeksang-2019-film-actress-miss-baek",
+      "mediaType": "movie",
+      "title": "Miss Baek",
+      "originalTitle": "미쓰백",
+      "awardYear": 2019,
+      "winner": "Han Ji-min",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt6479534"
+      },
+      "award": "Best Actress Film",
+      "awardOrder": 5
+    },
+    {
+      "id": "baeksang-2019-film-director-swing-kids",
+      "mediaType": "movie",
+      "title": "Swing Kids",
+      "originalTitle": "스윙키즈",
+      "awardYear": 2019,
+      "winner": "Kang Hyoung-chul",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7046974"
+      },
+      "award": "Best Director Film",
+      "awardOrder": 3
+    },
+    {
+      "id": "baeksang-2019-film-best-spy-north",
+      "mediaType": "movie",
+      "title": "The Spy Gone North",
+      "originalTitle": "공작",
+      "awardYear": 2019,
+      "winner": "The Spy Gone North",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8290698"
+      },
+      "award": "Best Film",
+      "awardOrder": 2
+    },
+    {
+      "id": "baeksang-2019-film-grand-innocent-witness",
+      "mediaType": "movie",
+      "title": "Innocent Witness",
+      "originalTitle": "증인",
+      "awardYear": 2019,
+      "winner": "Jung Woo-sung",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt8562562"
+      },
+      "award": "Film Grand Prize",
+      "awardOrder": 1
+    },
+    {
+      "id": "baeksang-2018-film-actor-1987",
+      "mediaType": "movie",
+      "title": "1987: When the Day Comes",
+      "originalTitle": "1987",
+      "awardYear": 2018,
+      "winner": "Kim Yoon-seok",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6493286"
+      },
+      "award": "Best Actor Film",
+      "awardOrder": 4
+    },
+    {
+      "id": "baeksang-2018-film-actress-i-can-speak",
+      "mediaType": "movie",
+      "title": "I Can Speak",
+      "originalTitle": "아이 캔 스피크",
+      "awardYear": 2018,
+      "winner": "Na Moon-hee",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7342204"
+      },
+      "award": "Best Actress Film",
+      "awardOrder": 5
+    },
+    {
+      "id": "baeksang-2018-film-director-along-gods",
+      "mediaType": "movie",
+      "title": "Along with the Gods: The Two Worlds",
+      "originalTitle": "신과함께-죄와 벌",
+      "awardYear": 2018,
+      "winner": "Kim Yong-hwa",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7160070"
+      },
+      "award": "Best Director Film",
+      "awardOrder": 3
+    },
+    {
+      "id": "baeksang-2018-film-best-fortress",
+      "mediaType": "movie",
+      "title": "The Fortress",
+      "originalTitle": "남한산성",
+      "awardYear": 2018,
+      "winner": "The Fortress",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7160176"
+      },
+      "award": "Best Film",
+      "awardOrder": 2
+    },
+    {
+      "id": "baeksang-2018-film-grand-1987",
+      "mediaType": "movie",
+      "title": "1987: When the Day Comes",
+      "originalTitle": "1987",
+      "awardYear": 2018,
+      "winner": "1987: When the Day Comes",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6493286"
+      },
+      "award": "Film Grand Prize",
+      "awardOrder": 1
+    },
+    {
+      "id": "baeksang-2017-film-actor-age-shadows",
+      "mediaType": "movie",
+      "title": "The Age of Shadows",
+      "originalTitle": "밀정",
+      "awardYear": 2017,
+      "winner": "Song Kang-ho",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4914580"
+      },
+      "award": "Best Actor Film",
+      "awardOrder": 4
+    },
+    {
+      "id": "baeksang-2017-film-actress-last-princess",
+      "mediaType": "movie",
+      "title": "The Last Princess",
+      "originalTitle": "덕혜옹주",
+      "awardYear": 2017,
+      "winner": "Son Ye-jin",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5947416"
+      },
+      "award": "Best Actress Film",
+      "awardOrder": 5
+    },
+    {
+      "id": "baeksang-2017-film-director-age-shadows",
+      "mediaType": "movie",
+      "title": "The Age of Shadows",
+      "originalTitle": "밀정",
+      "awardYear": 2017,
+      "winner": "Kim Jee-woon",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4914580"
+      },
+      "award": "Best Director Film",
+      "awardOrder": 3
+    },
+    {
+      "id": "baeksang-2017-film-best-wailing",
+      "mediaType": "movie",
+      "title": "The Wailing",
+      "originalTitle": "곡성",
+      "awardYear": 2017,
+      "winner": "The Wailing",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5215952"
+      },
+      "award": "Best Film",
+      "awardOrder": 2
+    },
+    {
+      "id": "baeksang-2017-film-grand-handmaiden",
+      "mediaType": "movie",
+      "title": "The Handmaiden",
+      "originalTitle": "아가씨",
+      "awardYear": 2017,
+      "winner": "Park Chan-wook",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4016934"
+      },
+      "award": "Film Grand Prize",
+      "awardOrder": 1
+    },
+    {
+      "id": "baeksang-2026-tv-actor-made-korea",
+      "mediaType": "tv",
+      "title": "Made in Korea",
+      "originalTitle": "메이드 인 코리아",
+      "awardYear": 2026,
+      "winner": "Hyun Bin",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt33298903"
+      },
+      "award": "Best Actor Broadcast",
+      "awardOrder": 4
+    },
+    {
+      "id": "baeksang-2026-tv-actress-unwritten-seoul",
+      "mediaType": "tv",
+      "title": "Our Unwritten Seoul",
+      "originalTitle": "미지의 서울",
+      "awardYear": 2026,
+      "winner": "Park Bo-young",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt36724865"
+      },
+      "award": "Best Actress Broadcast",
+      "awardOrder": 5
+    },
+    {
+      "id": "baeksang-2026-tv-director-unwritten-seoul",
+      "mediaType": "tv",
+      "title": "Our Unwritten Seoul",
+      "originalTitle": "미지의 서울",
+      "awardYear": 2026,
+      "winner": "Park Shin-woo",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt36724865"
+      },
+      "award": "Best Director Broadcast",
+      "awardOrder": 3
+    },
+    {
+      "id": "baeksang-2026-tv-best-you-everything",
+      "mediaType": "tv",
+      "title": "You and Everything Else",
+      "originalTitle": "은중과 상연",
+      "awardYear": 2026,
+      "winner": "You and Everything Else",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31014107"
+      },
+      "award": "Best Drama",
+      "awardOrder": 2
+    },
+    {
+      "id": "baeksang-2026-tv-grand-dream-kim",
+      "mediaType": "tv",
+      "title": "The Dream Life of Mr. Kim",
+      "originalTitle": "서울 자가에 대기업 다니는 김 부장 이야기",
+      "awardYear": 2026,
+      "winner": "Ryu Seung-ryong",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt38570528"
+      },
+      "award": "Broadcast Grand Prize",
+      "awardOrder": 1
+    },
+    {
+      "id": "baeksang-2025-tv-actor-trauma",
+      "mediaType": "tv",
+      "title": "The Trauma Code: Heroes on Call",
+      "originalTitle": "중증외상센터",
+      "awardYear": 2025,
+      "winner": "Ju Ji-hoon",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt28106730"
+      },
+      "award": "Best Actor Broadcast",
+      "awardOrder": 4
+    },
+    {
+      "id": "baeksang-2025-tv-actress-jeongnyeon",
+      "mediaType": "tv",
+      "title": "Jeongnyeon: The Star Is Born",
+      "originalTitle": "정년이",
+      "awardYear": 2025,
+      "winner": "Kim Tae-ri",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt28197611"
+      },
+      "award": "Best Actress Broadcast",
+      "awardOrder": 5
+    },
+    {
+      "id": "baeksang-2025-tv-director-doubt",
+      "mediaType": "tv",
+      "title": "Doubt",
+      "originalTitle": "이토록 친밀한 배신자",
+      "awardYear": 2025,
+      "winner": "Song Yeon-hwa",
+      "releaseDate": "2024",
+      "externalIds": {
+        "tmdb": "240942"
+      },
+      "award": "Best Director Broadcast",
+      "awardOrder": 3
+    },
+    {
+      "id": "baeksang-2025-tv-best-tangerines",
+      "mediaType": "tv",
+      "title": "When Life Gives You Tangerines",
+      "originalTitle": "폭싹 속았수다",
+      "awardYear": 2025,
+      "winner": "When Life Gives You Tangerines",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt26471411"
+      },
+      "award": "Best Drama",
+      "awardOrder": 2
+    },
+    {
+      "id": "baeksang-2025-tv-grand-culinary",
+      "mediaType": "tv",
+      "title": "Culinary Class Wars",
+      "originalTitle": "흑백요리사: 요리 계급 전쟁",
+      "awardYear": 2025,
+      "winner": "Culinary Class Wars",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt33040785"
+      },
+      "award": "Broadcast Grand Prize",
+      "awardOrder": 1
+    },
+    {
+      "id": "baeksang-2024-tv-actor-my-dearest",
+      "mediaType": "tv",
+      "title": "My Dearest",
+      "originalTitle": "연인",
+      "awardYear": 2024,
+      "winner": "Namkoong Min",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt26228190"
+      },
+      "award": "Best Actor Broadcast",
+      "awardOrder": 4
+    },
+    {
+      "id": "baeksang-2024-tv-actress-knight-flower",
+      "mediaType": "tv",
+      "title": "Knight Flower",
+      "originalTitle": "밤에 피는 꽃",
+      "awardYear": 2024,
+      "winner": "Lee Hanee",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt30012439"
+      },
+      "award": "Best Actress Broadcast",
+      "awardOrder": 5
+    },
+    {
+      "id": "baeksang-2024-tv-director-worst-evil",
+      "mediaType": "tv",
+      "title": "The Worst of Evil",
+      "originalTitle": "최악의 악",
+      "awardYear": 2024,
+      "winner": "Han Dong-wook",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt20600022"
+      },
+      "award": "Best Director Broadcast",
+      "awardOrder": 3
+    },
+    {
+      "id": "baeksang-2024-tv-best-my-dearest",
+      "mediaType": "tv",
+      "title": "My Dearest",
+      "originalTitle": "연인",
+      "awardYear": 2024,
+      "winner": "My Dearest",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt26228190"
+      },
+      "award": "Best Drama",
+      "awardOrder": 2
+    },
+    {
+      "id": "baeksang-2024-tv-grand-moving",
+      "mediaType": "tv",
+      "title": "Moving",
+      "originalTitle": "무빙",
+      "awardYear": 2024,
+      "winner": "Moving",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt24640580"
+      },
+      "award": "Broadcast Grand Prize",
+      "awardOrder": 1
+    },
+    {
+      "id": "baeksang-2023-tv-actor-reborn-rich",
+      "mediaType": "tv",
+      "title": "Reborn Rich",
+      "originalTitle": "재벌집 막내아들",
+      "awardYear": 2023,
+      "winner": "Lee Sung-min",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt18352538"
+      },
+      "award": "Best Actor Broadcast",
+      "awardOrder": 4
+    },
+    {
+      "id": "baeksang-2023-tv-actress-glory",
+      "mediaType": "tv",
+      "title": "The Glory",
+      "originalTitle": "더 글로리",
+      "awardYear": 2023,
+      "winner": "Song Hye-kyo",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt21344706"
+      },
+      "award": "Best Actress Broadcast",
+      "awardOrder": 5
+    },
+    {
+      "id": "baeksang-2023-tv-director-attorney-woo",
+      "mediaType": "tv",
+      "title": "Extraordinary Attorney Woo",
+      "originalTitle": "이상한 변호사 우영우",
+      "awardYear": 2023,
+      "winner": "Yoo In-shik",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt20869502"
+      },
+      "award": "Best Director Broadcast",
+      "awardOrder": 3
+    },
+    {
+      "id": "baeksang-2023-tv-best-glory",
+      "mediaType": "tv",
+      "title": "The Glory",
+      "originalTitle": "더 글로리",
+      "awardYear": 2023,
+      "winner": "The Glory",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt21344706"
+      },
+      "award": "Best Drama",
+      "awardOrder": 2
+    },
+    {
+      "id": "baeksang-2023-tv-grand-attorney-woo",
+      "mediaType": "tv",
+      "title": "Extraordinary Attorney Woo",
+      "originalTitle": "이상한 변호사 우영우",
+      "awardYear": 2023,
+      "winner": "Park Eun-bin",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt20869502"
+      },
+      "award": "Broadcast Grand Prize",
+      "awardOrder": 1
+    },
+    {
+      "id": "baeksang-2022-tv-actor-red-sleeve",
+      "mediaType": "tv",
+      "title": "The Red Sleeve",
+      "originalTitle": "옷소매 붉은 끝동",
+      "awardYear": 2022,
+      "winner": "Lee Jun-ho",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14687200"
+      },
+      "award": "Best Actor Broadcast",
+      "awardOrder": 4
+    },
+    {
+      "id": "baeksang-2022-tv-actress-2521",
+      "mediaType": "tv",
+      "title": "Twenty-Five Twenty-One",
+      "originalTitle": "스물다섯 스물하나",
+      "awardYear": 2022,
+      "winner": "Kim Tae-ri",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt17513352"
+      },
+      "award": "Best Actress Broadcast",
+      "awardOrder": 5
+    },
+    {
+      "id": "baeksang-2022-tv-director-squid-game",
+      "mediaType": "tv",
+      "title": "Squid Game",
+      "originalTitle": "오징어 게임",
+      "awardYear": 2022,
+      "winner": "Hwang Dong-hyuk",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt10919420"
+      },
+      "award": "Best Director Broadcast",
+      "awardOrder": 3
+    },
+    {
+      "id": "baeksang-2022-tv-best-dp",
+      "mediaType": "tv",
+      "title": "D.P.",
+      "originalTitle": "D.P.",
+      "awardYear": 2022,
+      "winner": "D.P.",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt13024974"
+      },
+      "award": "Best Drama",
+      "awardOrder": 2
+    },
+    {
+      "id": "baeksang-2022-tv-grand-squid-game",
+      "mediaType": "tv",
+      "title": "Squid Game",
+      "originalTitle": "오징어 게임",
+      "awardYear": 2022,
+      "winner": "Squid Game",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt10919420"
+      },
+      "award": "Broadcast Grand Prize",
+      "awardOrder": 1
+    },
+    {
+      "id": "baeksang-2021-tv-actor-beyond-evil",
+      "mediaType": "tv",
+      "title": "Beyond Evil",
+      "originalTitle": "괴물",
+      "awardYear": 2021,
+      "winner": "Shin Ha-kyun",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt13634872"
+      },
+      "award": "Best Actor Broadcast",
+      "awardOrder": 4
+    },
+    {
+      "id": "baeksang-2021-tv-actress-penthouse",
+      "mediaType": "tv",
+      "title": "The Penthouse: War in Life",
+      "originalTitle": "펜트하우스",
+      "awardYear": 2021,
+      "winner": "Kim So-yeon",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt13067118"
+      },
+      "award": "Best Actress Broadcast",
+      "awardOrder": 5
+    },
+    {
+      "id": "baeksang-2021-tv-director-flower-evil",
+      "mediaType": "tv",
+      "title": "Flower of Evil",
+      "originalTitle": "악의 꽃",
+      "awardYear": 2021,
+      "winner": "Kim Cheol-kyu",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt11691684"
+      },
+      "award": "Best Director Broadcast",
+      "awardOrder": 3
+    },
+    {
+      "id": "baeksang-2021-tv-best-beyond-evil",
+      "mediaType": "tv",
+      "title": "Beyond Evil",
+      "originalTitle": "괴물",
+      "awardYear": 2021,
+      "winner": "Beyond Evil",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt13634872"
+      },
+      "award": "Best Drama",
+      "awardOrder": 2
+    },
+    {
+      "id": "baeksang-2021-tv-grand-how-do-you-play",
+      "mediaType": "tv",
+      "title": "How Do You Play?",
+      "originalTitle": "놀면 뭐하니?",
+      "awardYear": 2021,
+      "winner": "Yoo Jae-suk",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt15334046"
+      },
+      "award": "Broadcast Grand Prize",
+      "awardOrder": 1
+    },
+    {
+      "id": "baeksang-2020-tv-actor-camellia",
+      "mediaType": "tv",
+      "title": "When the Camellia Blooms",
+      "originalTitle": "동백꽃 필 무렵",
+      "awardYear": 2020,
+      "winner": "Kang Ha-neul",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10826064"
+      },
+      "award": "Best Actor Broadcast",
+      "awardOrder": 4
+    },
+    {
+      "id": "baeksang-2020-tv-actress-world-married",
+      "mediaType": "tv",
+      "title": "The World of the Married",
+      "originalTitle": "부부의 세계",
+      "awardYear": 2020,
+      "winner": "Kim Hee-ae",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt12042964"
+      },
+      "award": "Best Actress Broadcast",
+      "awardOrder": 5
+    },
+    {
+      "id": "baeksang-2020-tv-director-world-married",
+      "mediaType": "tv",
+      "title": "The World of the Married",
+      "originalTitle": "부부의 세계",
+      "awardYear": 2020,
+      "winner": "Mo Wan-il",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt12042964"
+      },
+      "award": "Best Director Broadcast",
+      "awardOrder": 3
+    },
+    {
+      "id": "baeksang-2020-tv-best-stove",
+      "mediaType": "tv",
+      "title": "Hot Stove League",
+      "originalTitle": "스토브리그",
+      "awardYear": 2020,
+      "winner": "Hot Stove League",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt11378124"
+      },
+      "award": "Best Drama",
+      "awardOrder": 2
+    },
+    {
+      "id": "baeksang-2020-tv-grand-camellia",
+      "mediaType": "tv",
+      "title": "When the Camellia Blooms",
+      "originalTitle": "동백꽃 필 무렵",
+      "awardYear": 2020,
+      "winner": "When the Camellia Blooms",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10826064"
+      },
+      "award": "Broadcast Grand Prize",
+      "awardOrder": 1
+    },
+    {
+      "id": "baeksang-2019-tv-actor-mr-sunshine",
+      "mediaType": "tv",
+      "title": "Mr. Sunshine",
+      "originalTitle": "미스터 션샤인",
+      "awardYear": 2019,
+      "winner": "Lee Byung-hun",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7094780"
+      },
+      "award": "Best Actor Broadcast",
+      "awardOrder": 4
+    },
+    {
+      "id": "baeksang-2019-tv-actress-sky-castle",
+      "mediaType": "tv",
+      "title": "SKY Castle",
+      "originalTitle": "SKY 캐슬",
+      "awardYear": 2019,
+      "winner": "Yum Jung-ah",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt9151274"
+      },
+      "award": "Best Actress Broadcast",
+      "awardOrder": 5
+    },
+    {
+      "id": "baeksang-2019-tv-director-sky-castle",
+      "mediaType": "tv",
+      "title": "SKY Castle",
+      "originalTitle": "SKY 캐슬",
+      "awardYear": 2019,
+      "winner": "Jo Hyun-tak",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt9151274"
+      },
+      "award": "Best Director Broadcast",
+      "awardOrder": 3
+    },
+    {
+      "id": "baeksang-2019-tv-best-my-mister",
+      "mediaType": "tv",
+      "title": "My Mister",
+      "originalTitle": "나의 아저씨",
+      "awardYear": 2019,
+      "winner": "My Mister",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7923710"
+      },
+      "award": "Best Drama",
+      "awardOrder": 2
+    },
+    {
+      "id": "baeksang-2019-tv-grand-light-eyes",
+      "mediaType": "tv",
+      "title": "The Light in Your Eyes",
+      "originalTitle": "눈이 부시게",
+      "awardYear": 2019,
+      "winner": "Kim Hye-ja",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt9466968"
+      },
+      "award": "Broadcast Grand Prize",
+      "awardOrder": 1
+    },
+    {
+      "id": "baeksang-2018-tv-actor-stranger",
+      "mediaType": "tv",
+      "title": "Stranger",
+      "originalTitle": "비밀의 숲",
+      "awardYear": 2018,
+      "winner": "Cho Seung-woo",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6461346"
+      },
+      "award": "Best Actor Broadcast",
+      "awardOrder": 4
+    },
+    {
+      "id": "baeksang-2018-tv-actress-misty",
+      "mediaType": "tv",
+      "title": "Misty",
+      "originalTitle": "미스티",
+      "awardYear": 2018,
+      "winner": "Kim Nam-joo",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7890244"
+      },
+      "award": "Best Actress Broadcast",
+      "awardOrder": 5
+    },
+    {
+      "id": "baeksang-2018-tv-director-lady-dignity",
+      "mediaType": "tv",
+      "title": "The Lady in Dignity",
+      "originalTitle": "품위있는 그녀",
+      "awardYear": 2018,
+      "winner": "Kim Yun-cheol",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6898288"
+      },
+      "award": "Best Director Broadcast",
+      "awardOrder": 3
+    },
+    {
+      "id": "baeksang-2018-tv-best-mother",
+      "mediaType": "tv",
+      "title": "Mother",
+      "originalTitle": "마더",
+      "awardYear": 2018,
+      "winner": "Mother",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7795226"
+      },
+      "award": "Best Drama",
+      "awardOrder": 2
+    },
+    {
+      "id": "baeksang-2018-tv-grand-stranger",
+      "mediaType": "tv",
+      "title": "Stranger",
+      "originalTitle": "비밀의 숲",
+      "awardYear": 2018,
+      "winner": "Stranger",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6461346"
+      },
+      "award": "Broadcast Grand Prize",
+      "awardOrder": 1
+    },
+    {
+      "id": "baeksang-2017-tv-actor-goblin",
+      "mediaType": "tv",
+      "title": "Guardian: The Lonely and Great God",
+      "originalTitle": "도깨비",
+      "awardYear": 2017,
+      "winner": "Gong Yoo",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5994364"
+      },
+      "award": "Best Actor Broadcast",
+      "awardOrder": 4
+    },
+    {
+      "id": "baeksang-2017-tv-actress-another-miss-oh",
+      "mediaType": "tv",
+      "title": "Another Miss Oh",
+      "originalTitle": "또 오해영",
+      "awardYear": 2017,
+      "winner": "Seo Hyun-jin",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5679572"
+      },
+      "award": "Best Actress Broadcast",
+      "awardOrder": 5
+    },
+    {
+      "id": "baeksang-2017-tv-director-dr-romantic",
+      "mediaType": "tv",
+      "title": "Dr. Romantic",
+      "originalTitle": "낭만닥터 김사부",
+      "awardYear": 2017,
+      "winner": "Yu In-sik",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt6157190"
+      },
+      "award": "Best Director Broadcast",
+      "awardOrder": 3
+    },
+    {
+      "id": "baeksang-2017-tv-best-dear-friends",
+      "mediaType": "tv",
+      "title": "Dear My Friends",
+      "originalTitle": "디어 마이 프렌즈",
+      "awardYear": 2017,
+      "winner": "Dear My Friends",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5689030"
+      },
+      "award": "Best Drama",
+      "awardOrder": 2
+    },
+    {
+      "id": "baeksang-2017-tv-grand-goblin",
+      "mediaType": "tv",
+      "title": "Guardian: The Lonely and Great God",
+      "originalTitle": "도깨비",
+      "awardYear": 2017,
+      "winner": "Kim Eun-sook",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5994364"
+      },
+      "award": "Broadcast Grand Prize",
+      "awardOrder": 1
+    }
+  ]
+}

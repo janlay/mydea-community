@@ -1,0 +1,180 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "title": "Baeksang Arts Awards 10 Years",
+  "description": "Major film winners of the Baeksang Arts Awards from 2017 to 2026.",
+  "tags": [
+    "award",
+    "decade"
+  ],
+  "icon": "ticket",
+  "collections": [
+    {
+      "title": "Baeksang Arts Awards — 2026",
+      "description": "Major film and broadcast winners at the 2026 Baeksang Arts Awards.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "carousel",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/en/baeksang.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ],
+      "filters": [
+        {
+          "id": "baeksang-2026-year",
+          "targetType": "movie",
+          "field": "awardYear",
+          "fieldType": "number",
+          "operator": "equals",
+          "value": "2026",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "Baeksang Arts Awards 2017–2025",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/en/baeksang.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ],
+      "filters": [
+        {
+          "id": "older-years-from",
+          "targetType": "movie",
+          "field": "awardYear",
+          "fieldType": "number",
+          "operator": "greaterThan",
+          "value": "2016",
+          "isNegated": false
+        },
+        {
+          "id": "older-years-to",
+          "targetType": "movie",
+          "field": "awardYear",
+          "fieldType": "number",
+          "operator": "lessThan",
+          "value": "2026",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all",
+      "grouping": {
+        "field": "awardYear",
+        "buckets": "2025,2024,,2017",
+        "label": "{start}"
+      }
+    },
+    {
+      "title": "Baeksang Arts Awards — 2026",
+      "description": "Major film and broadcast winners at the 2026 Baeksang Arts Awards.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "carousel",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/en/baeksang.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ],
+      "filters": [
+        {
+          "id": "baeksang-tv-2026-year",
+          "targetType": "show",
+          "field": "awardYear",
+          "fieldType": "number",
+          "operator": "equals",
+          "value": "2026",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "Baeksang Arts Awards 2017–2025",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/en/baeksang.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ],
+      "filters": [
+        {
+          "id": "years-from",
+          "targetType": "show",
+          "field": "awardYear",
+          "fieldType": "number",
+          "operator": "greaterThan",
+          "value": "2016",
+          "isNegated": false
+        },
+        {
+          "id": "years-to",
+          "targetType": "show",
+          "field": "awardYear",
+          "fieldType": "number",
+          "operator": "lessThan",
+          "value": "2026",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all",
+      "grouping": {
+        "field": "awardYear",
+        "buckets": "2025,2024,,2017",
+        "label": "{start}"
+      }
+    }
+  ]
+}

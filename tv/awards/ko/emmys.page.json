@@ -1,0 +1,314 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "title": "프라임타임 에미상",
+  "description": "프라임타임 에미상 부문별·회차별 수상 기록.",
+  "tags": [
+    "award",
+    "tv"
+  ],
+  "icon": "ticket",
+  "collections": [
+    {
+      "title": "프라임타임 에미상 — 최우수 드라마 시리즈",
+      "description": "프라임타임 에미상 “최우수 드라마 시리즈” 수상 기록.",
+      "layout": "carousel",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/ko/emmys.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "emmys-drama-series-award",
+          "targetType": "show",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "최우수 드라마 시리즈",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "프라임타임 에미상 — 최우수 코미디 시리즈",
+      "description": "프라임타임 에미상 “최우수 코미디 시리즈” 수상 기록.",
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/ko/emmys.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "emmys-comedy-series-award",
+          "targetType": "show",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "최우수 코미디 시리즈",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "프라임타임 에미상 — 최우수 리미티드 또는 앤솔러지 시리즈",
+      "description": "프라임타임 에미상 “최우수 리미티드 또는 앤솔러지 시리즈” 수상 기록.",
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/ko/emmys.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "emmys-limited-series-award",
+          "targetType": "show",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "최우수 리미티드 또는 앤솔러지 시리즈",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "프라임타임 에미상 — 드라마 시리즈 남우주연상",
+      "description": "프라임타임 에미상 “드라마 시리즈 남우주연상” 수상 기록.",
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/ko/emmys.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "emmys-lead-actor-drama-award",
+          "targetType": "show",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "드라마 시리즈 남우주연상",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "프라임타임 에미상 — 드라마 시리즈 여우주연상",
+      "description": "프라임타임 에미상 “드라마 시리즈 여우주연상” 수상 기록.",
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/ko/emmys.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "emmys-lead-actress-drama-award",
+          "targetType": "show",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "드라마 시리즈 여우주연상",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "프라임타임 에미상 — 코미디 시리즈 남우주연상",
+      "description": "프라임타임 에미상 “코미디 시리즈 남우주연상” 수상 기록.",
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/ko/emmys.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "emmys-lead-actor-comedy-award",
+          "targetType": "show",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "코미디 시리즈 남우주연상",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "프라임타임 에미상 — 코미디 시리즈 여우주연상",
+      "description": "프라임타임 에미상 “코미디 시리즈 여우주연상” 수상 기록.",
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/ko/emmys.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "emmys-lead-actress-comedy-award",
+          "targetType": "show",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "코미디 시리즈 여우주연상",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "프라임타임 에미상 2017–2026",
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/ko/emmys.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "years-from",
+          "targetType": "show",
+          "field": "awardYear",
+          "fieldType": "number",
+          "operator": "greaterThan",
+          "value": "2016",
+          "isNegated": false
+        },
+        {
+          "id": "years-to",
+          "targetType": "show",
+          "field": "awardYear",
+          "fieldType": "number",
+          "operator": "lessThan",
+          "value": "2027",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all",
+      "grouping": {
+        "field": "awardYear",
+        "buckets": "2026,2025,,2017",
+        "label": "{start}"
+      }
+    }
+  ]
+}

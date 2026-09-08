@@ -1,0 +1,3696 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "title": "中国电影金鸡奖",
+  "author": "Mydea",
+  "server": "TMDB",
+  "updatedAt": "2026-09-15T00:56:00Z",
+  "description": "中国电影金鸡奖",
+  "items": [
+    {
+      "id": "golden-rooster-2025-best-low-budget-feature-35141482",
+      "mediaType": "movie",
+      "title": "但愿人长久",
+      "awardYear": 2025,
+      "awardOrder": 10,
+      "award": "最佳中小成本故事片"
+    },
+    {
+      "id": "golden-rooster-2025-best-children-film-80506636",
+      "mediaType": "movie",
+      "title": "闪耀少年之空中接力",
+      "awardYear": 2025,
+      "awardOrder": 11,
+      "award": "最佳儿童片"
+    },
+    {
+      "id": "golden-rooster-2025-best-editing-31201117",
+      "mediaType": "movie",
+      "title": "我和我母亲的疼痛",
+      "awardYear": 2025,
+      "awardOrder": 20,
+      "award": "最佳剪辑",
+      "winner": "周新霞"
+    },
+    {
+      "id": "golden-rooster-2025-best-foreign-language-film-39948163",
+      "mediaType": "movie",
+      "title": "还有明天",
+      "awardYear": 2025,
+      "awardOrder": 15,
+      "award": "最佳外语片"
+    },
+    {
+      "id": "golden-rooster-2025-best-actress-36697945",
+      "mediaType": "movie",
+      "title": "好东西",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt31807233",
+        "douban": "36154853"
+      },
+      "awardYear": 2025,
+      "winner": "宋佳",
+      "award": "最佳女主角",
+      "awardOrder": 7
+    },
+    {
+      "id": "golden-rooster-2025-best-supporting-actress-62660287",
+      "mediaType": "movie",
+      "title": "好东西",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt31807233",
+        "douban": "36154853"
+      },
+      "awardYear": 2025,
+      "winner": "钟楚曦",
+      "award": "最佳女配角",
+      "awardOrder": 9
+    },
+    {
+      "id": "golden-rooster-2025-best-director-06259004",
+      "mediaType": "movie",
+      "title": "唐探1900",
+      "releaseDate": "2025",
+      "externalIds": {
+        "tmdb": "1357305"
+      },
+      "awardYear": 2025,
+      "winner": "陈思诚、戴墨",
+      "award": "最佳导演",
+      "awardOrder": 4
+    },
+    {
+      "id": "golden-rooster-2025-best-directorial-debut-84941585",
+      "mediaType": "movie",
+      "title": "老枪",
+      "releaseDate": "2023",
+      "awardYear": 2025,
+      "winner": "高朋",
+      "award": "最佳导演处女作",
+      "awardOrder": 5
+    },
+    {
+      "id": "golden-rooster-2025-best-sound-39429645",
+      "mediaType": "movie",
+      "title": "志愿军：存亡之战",
+      "awardYear": 2025,
+      "awardOrder": 17,
+      "award": "最佳录音",
+      "winner": "王丹戎"
+    },
+    {
+      "id": "golden-rooster-2025-best-opera-film-84317226",
+      "mediaType": "movie",
+      "title": "双蝶扇",
+      "awardYear": 2025,
+      "awardOrder": 13,
+      "award": "最佳戏曲片"
+    },
+    {
+      "id": "golden-rooster-2025-best-cinematography-54152998",
+      "mediaType": "movie",
+      "title": "志愿军：存亡之战",
+      "awardYear": 2025,
+      "awardOrder": 16,
+      "award": "最佳摄影",
+      "winner": "赵非"
+    },
+    {
+      "id": "golden-rooster-2025-best-feature-film-58770383",
+      "mediaType": "movie",
+      "title": "好东西",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt31807233",
+        "douban": "36154853"
+      },
+      "awardYear": 2025,
+      "winner": "邵艺辉",
+      "award": "最佳故事片",
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-rooster-2025-best-actor-17999009",
+      "mediaType": "movie",
+      "title": "小小的我",
+      "releaseDate": "2024",
+      "externalIds": {
+        "tmdb": "1278101"
+      },
+      "awardYear": 2025,
+      "winner": "易烊千玺",
+      "award": "最佳男主角",
+      "awardOrder": 6
+    },
+    {
+      "id": "golden-rooster-2025-best-supporting-actor-23269425",
+      "mediaType": "movie",
+      "title": "水饺皇后",
+      "awardYear": 2025,
+      "winner": "袁富华",
+      "award": "最佳男配角",
+      "awardOrder": 8
+    },
+    {
+      "id": "golden-rooster-2025-best-documentary-science-48547933",
+      "mediaType": "movie",
+      "title": "您的声音",
+      "awardYear": 2025,
+      "awardOrder": 12,
+      "award": "最佳纪录科教片"
+    },
+    {
+      "id": "golden-rooster-2025-best-screenplay-01927100",
+      "mediaType": "movie",
+      "title": "破·地狱",
+      "awardYear": 2025,
+      "awardOrder": 3,
+      "award": "最佳编剧",
+      "winner": "陈茂贤、郑纬机"
+    },
+    {
+      "id": "golden-rooster-2025-best-art-direction-70225841",
+      "mediaType": "movie",
+      "title": "解密",
+      "awardYear": 2025,
+      "awardOrder": 18,
+      "award": "最佳美术",
+      "winner": "韩忠、马晓飞"
+    },
+    {
+      "id": "golden-rooster-2025-best-animation-79362414",
+      "mediaType": "movie",
+      "title": "哪吒之魔童闹海",
+      "releaseDate": "2025",
+      "externalIds": {
+        "tmdb": "980477",
+        "imdb": "tt34956443"
+      },
+      "awardYear": 2025,
+      "awardOrder": 14,
+      "award": "最佳美术片"
+    },
+    {
+      "id": "golden-rooster-2025-best-music-15192743",
+      "mediaType": "movie",
+      "title": "长安的荔枝",
+      "awardYear": 2025,
+      "awardOrder": 19,
+      "award": "最佳音乐",
+      "winner": "翟锦彦"
+    },
+    {
+      "id": "golden-rooster-2025-jury-special-prize-57384811",
+      "mediaType": "movie",
+      "title": "志愿军：存亡之战",
+      "awardYear": 2025,
+      "awardOrder": 2,
+      "award": "评委会特别奖"
+    },
+    {
+      "id": "golden-rooster-2024-best-low-budget-feature-92664851",
+      "mediaType": "movie",
+      "title": "又是充满希望的一天",
+      "awardYear": 2024,
+      "awardOrder": 10,
+      "award": "最佳中小成本故事片"
+    },
+    {
+      "id": "golden-rooster-2024-best-children-film-41508641",
+      "mediaType": "movie",
+      "title": "屋顶足球",
+      "awardYear": 2024,
+      "awardOrder": 12,
+      "award": "最佳儿童片"
+    },
+    {
+      "id": "golden-rooster-2024-best-editing-08625289",
+      "mediaType": "movie",
+      "title": "孤注一掷",
+      "awardYear": 2024,
+      "awardOrder": 19,
+      "award": "最佳剪辑",
+      "winner": "周肖林、申奥"
+    },
+    {
+      "id": "golden-rooster-2024-best-foreign-language-film-27165450",
+      "mediaType": "movie",
+      "title": "奥本海默",
+      "releaseDate": "2023",
+      "externalIds": {
+        "tmdb": "872585",
+        "imdb": "tt15398776"
+      },
+      "awardYear": 2024,
+      "awardOrder": 15,
+      "award": "最佳外语片"
+    },
+    {
+      "id": "golden-rooster-2024-best-actress-70695733",
+      "mediaType": "movie",
+      "title": "我们一起摇太阳",
+      "releaseDate": "2024",
+      "awardYear": 2024,
+      "winner": "李庚希",
+      "award": "最佳女主角",
+      "awardOrder": 7
+    },
+    {
+      "id": "golden-rooster-2024-best-supporting-actress-69852821",
+      "mediaType": "movie",
+      "title": "乘船而去",
+      "releaseDate": "2023",
+      "awardYear": 2024,
+      "winner": "刘丹",
+      "award": "最佳女配角",
+      "awardOrder": 9
+    },
+    {
+      "id": "golden-rooster-2024-best-director-95326525",
+      "mediaType": "movie",
+      "title": "志愿军：雄兵出击",
+      "releaseDate": "2023",
+      "awardYear": 2024,
+      "winner": "陈凯歌",
+      "award": "最佳导演",
+      "awardOrder": 4
+    },
+    {
+      "id": "golden-rooster-2024-best-directorial-debut-32760820",
+      "mediaType": "movie",
+      "title": "倒仓",
+      "awardYear": 2024,
+      "winner": "张裕笛",
+      "award": "最佳导演处女作",
+      "awardOrder": 5
+    },
+    {
+      "id": "golden-rooster-2024-best-sound-78120746",
+      "mediaType": "movie",
+      "title": "飞驰人生2",
+      "awardYear": 2024,
+      "awardOrder": 20,
+      "award": "最佳录音",
+      "winner": "王钢、刘晓莎"
+    },
+    {
+      "id": "golden-rooster-2024-best-opera-film-24024791",
+      "mediaType": "movie",
+      "title": "安国夫人",
+      "awardYear": 2024,
+      "awardOrder": 13,
+      "award": "最佳戏曲片"
+    },
+    {
+      "id": "golden-rooster-2024-best-cinematography-20258416",
+      "mediaType": "movie",
+      "title": "热烈",
+      "awardYear": 2024,
+      "awardOrder": 16,
+      "award": "最佳摄影",
+      "winner": "钟锐、钱添添"
+    },
+    {
+      "id": "golden-rooster-2024-best-feature-film-76709098",
+      "mediaType": "movie",
+      "title": "第二十条",
+      "releaseDate": "2024",
+      "awardYear": 2024,
+      "winner": "张艺谋",
+      "award": "最佳故事片",
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-rooster-2024-best-actor-93874582",
+      "mediaType": "movie",
+      "title": "第二十条",
+      "releaseDate": "2024",
+      "awardYear": 2024,
+      "winner": "雷佳音",
+      "award": "最佳男主角",
+      "awardOrder": 6
+    },
+    {
+      "id": "golden-rooster-2024-best-supporting-actor-65090969",
+      "mediaType": "movie",
+      "title": "三大队",
+      "releaseDate": "2023",
+      "awardYear": 2024,
+      "winner": "王骁",
+      "award": "最佳男配角",
+      "awardOrder": 8
+    },
+    {
+      "id": "golden-rooster-2024-best-documentary-science-33389365",
+      "mediaType": "movie",
+      "title": "里斯本丸沉没",
+      "awardYear": 2024,
+      "awardOrder": 11,
+      "award": "最佳纪录科教片"
+    },
+    {
+      "id": "golden-rooster-2024-best-screenplay-38830882",
+      "mediaType": "movie",
+      "title": "我们一起摇太阳",
+      "releaseDate": "2024",
+      "awardYear": 2024,
+      "awardOrder": 3,
+      "award": "最佳编剧",
+      "winner": "韩延、李弗"
+    },
+    {
+      "id": "golden-rooster-2024-best-art-direction-63484706",
+      "mediaType": "movie",
+      "title": "飞驰人生2",
+      "awardYear": 2024,
+      "awardOrder": 18,
+      "award": "最佳美术",
+      "winner": "赵学昊"
+    },
+    {
+      "id": "golden-rooster-2024-best-animation-10666985",
+      "mediaType": "movie",
+      "title": "守龙者",
+      "awardYear": 2024,
+      "awardOrder": 14,
+      "award": "最佳美术片"
+    },
+    {
+      "id": "golden-rooster-2024-best-music-47415139",
+      "mediaType": "movie",
+      "title": "三大队",
+      "releaseDate": "2023",
+      "awardYear": 2024,
+      "awardOrder": 17,
+      "award": "最佳音乐",
+      "winner": "彭飞"
+    },
+    {
+      "id": "golden-rooster-2024-jury-special-prize-90188900",
+      "mediaType": "movie",
+      "title": "志愿军：雄兵出击",
+      "releaseDate": "2023",
+      "awardYear": 2024,
+      "awardOrder": 2,
+      "award": "评委会特别奖"
+    },
+    {
+      "id": "golden-rooster-2023-best-low-budget-feature-29234932",
+      "mediaType": "movie",
+      "title": "回西藏",
+      "awardYear": 2023,
+      "awardOrder": 12,
+      "award": "最佳中小成本故事片"
+    },
+    {
+      "id": "golden-rooster-2023-best-children-film-60981038",
+      "mediaType": "movie",
+      "title": "拨浪鼓咚咚响",
+      "awardYear": 2023,
+      "awardOrder": 13,
+      "award": "最佳儿童片"
+    },
+    {
+      "id": "golden-rooster-2023-best-editing-77650396",
+      "mediaType": "movie",
+      "title": "无名",
+      "releaseDate": "2023",
+      "externalIds": {
+        "tmdb": "724495",
+        "imdb": "tt16565742"
+      },
+      "awardYear": 2023,
+      "awardOrder": 20,
+      "award": "最佳剪辑",
+      "winner": "程耳"
+    },
+    {
+      "id": "golden-rooster-2023-best-foreign-language-film-23332118",
+      "mediaType": "movie",
+      "title": "燃烧的巴黎圣母院",
+      "awardYear": 2023,
+      "awardOrder": 11,
+      "award": "最佳外语片"
+    },
+    {
+      "id": "golden-rooster-2023-best-actress-30705233",
+      "mediaType": "movie",
+      "title": "追月",
+      "awardYear": 2023,
+      "winner": "何赛飞",
+      "award": "最佳女主角",
+      "awardOrder": 5
+    },
+    {
+      "id": "golden-rooster-2023-best-supporting-actress-01224089",
+      "mediaType": "movie",
+      "title": "永安镇故事集",
+      "awardYear": 2023,
+      "winner": "黄米依",
+      "award": "最佳女配角",
+      "awardOrder": 7
+    },
+    {
+      "id": "golden-rooster-2023-best-director-10378654",
+      "mediaType": "movie",
+      "title": "无名",
+      "releaseDate": "2023",
+      "externalIds": {
+        "tmdb": "724495",
+        "imdb": "tt16565742"
+      },
+      "awardYear": 2023,
+      "winner": "程耳",
+      "award": "最佳导演",
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-rooster-2023-best-directorial-debut-32687971",
+      "mediaType": "movie",
+      "title": "长空之王",
+      "releaseDate": "2023",
+      "awardYear": 2023,
+      "winner": "刘晓世",
+      "award": "最佳导演处女作",
+      "awardOrder": 9
+    },
+    {
+      "id": "golden-rooster-2023-best-sound-99128603",
+      "mediaType": "movie",
+      "title": "流浪地球2",
+      "releaseDate": "2023",
+      "externalIds": {
+        "tmdb": "842675",
+        "imdb": "tt13539646"
+      },
+      "awardYear": 2023,
+      "awardOrder": 16,
+      "award": "最佳录音",
+      "winner": "王丹戎、祝岩峰"
+    },
+    {
+      "id": "golden-rooster-2023-best-opera-film-68942800",
+      "mediaType": "movie",
+      "title": "谯国夫人",
+      "awardYear": 2023,
+      "awardOrder": 14,
+      "award": "最佳戏曲片"
+    },
+    {
+      "id": "golden-rooster-2023-best-cinematography-70443267",
+      "mediaType": "movie",
+      "title": "封神第一部：朝歌风云",
+      "releaseDate": "2023",
+      "externalIds": {
+        "tmdb": "856289",
+        "imdb": "tt6979756"
+      },
+      "awardYear": 2023,
+      "awardOrder": 17,
+      "award": "最佳摄影",
+      "winner": "王昱"
+    },
+    {
+      "id": "golden-rooster-2023-best-feature-film-37080571",
+      "mediaType": "movie",
+      "title": "封神第一部：朝歌风云",
+      "releaseDate": "2023",
+      "externalIds": {
+        "tmdb": "856289",
+        "imdb": "tt6979756"
+      },
+      "awardYear": 2023,
+      "winner": "乌尔善",
+      "award": "最佳故事片",
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-rooster-2023-best-actor-57914111",
+      "mediaType": "movie",
+      "title": "无名",
+      "releaseDate": "2023",
+      "externalIds": {
+        "tmdb": "724495",
+        "imdb": "tt16565742"
+      },
+      "awardYear": 2023,
+      "winner": "梁朝伟",
+      "award": "最佳男主角",
+      "awardOrder": 4
+    },
+    {
+      "id": "golden-rooster-2023-best-supporting-actor-34635728",
+      "mediaType": "movie",
+      "title": "封神第一部：朝歌风云",
+      "releaseDate": "2023",
+      "externalIds": {
+        "tmdb": "856289",
+        "imdb": "tt6979756"
+      },
+      "awardYear": 2023,
+      "winner": "李雪健",
+      "award": "最佳男配角",
+      "awardOrder": 6
+    },
+    {
+      "id": "golden-rooster-2023-best-documentary-09537018",
+      "mediaType": "movie",
+      "title": "雪豹和她的朋友们",
+      "awardYear": 2023,
+      "awardOrder": 10,
+      "award": "最佳纪录片"
+    },
+    {
+      "id": "golden-rooster-2023-best-screenplay-80358071",
+      "mediaType": "movie",
+      "title": "宇宙探索编辑部",
+      "awardYear": 2023,
+      "awardOrder": 8,
+      "award": "最佳编剧",
+      "winner": "孔大山、王一通"
+    },
+    {
+      "id": "golden-rooster-2023-best-art-direction-65413768",
+      "mediaType": "movie",
+      "title": "万里归途",
+      "awardYear": 2023,
+      "awardOrder": 18,
+      "award": "最佳美术",
+      "winner": "李淼"
+    },
+    {
+      "id": "golden-rooster-2023-best-animation-14436841",
+      "mediaType": "movie",
+      "title": "长安三万里",
+      "awardYear": 2023,
+      "awardOrder": 15,
+      "award": "最佳美术片"
+    },
+    {
+      "id": "golden-rooster-2023-best-music-34022289",
+      "mediaType": "movie",
+      "title": "觅渡",
+      "awardYear": 2023,
+      "awardOrder": 19,
+      "award": "最佳音乐",
+      "winner": "捞仔"
+    },
+    {
+      "id": "golden-rooster-2023-jury-special-prize-46236624",
+      "mediaType": "movie",
+      "title": "流浪地球2",
+      "releaseDate": "2023",
+      "externalIds": {
+        "tmdb": "842675",
+        "imdb": "tt13539646"
+      },
+      "awardYear": 2023,
+      "awardOrder": 2,
+      "award": "评委会特别奖"
+    },
+    {
+      "id": "golden-rooster-2022-best-low-budget-feature-68452020",
+      "mediaType": "movie",
+      "title": "漫长的告白",
+      "releaseDate": "2021",
+      "awardYear": 2022,
+      "awardOrder": 12,
+      "award": "最佳中小成本故事片"
+    },
+    {
+      "id": "golden-rooster-2022-best-children-film-38241425",
+      "mediaType": "movie",
+      "title": "再见土拨鼠",
+      "awardYear": 2022,
+      "awardOrder": 13,
+      "award": "最佳儿童片"
+    },
+    {
+      "id": "golden-rooster-2022-best-editing-47637197",
+      "mediaType": "movie",
+      "title": "爱情神话",
+      "releaseDate": "2021",
+      "externalIds": {
+        "tmdb": "897160",
+        "imdb": "tt16411742"
+      },
+      "awardYear": 2022,
+      "awardOrder": 20,
+      "award": "最佳剪辑",
+      "winner": "黄琼逸"
+    },
+    {
+      "id": "golden-rooster-2022-best-foreign-language-film-17931187",
+      "mediaType": "movie",
+      "title": "漫漫寻子路",
+      "awardYear": 2022,
+      "awardOrder": 11,
+      "award": "最佳外语片"
+    },
+    {
+      "id": "golden-rooster-2022-best-actress-93111993",
+      "mediaType": "movie",
+      "title": "妈妈！",
+      "releaseDate": "2022",
+      "externalIds": {
+        "tmdb": "1004968",
+        "imdb": "tt21379562"
+      },
+      "awardYear": 2022,
+      "winner": "奚美娟",
+      "award": "最佳女主角",
+      "awardOrder": 5
+    },
+    {
+      "id": "golden-rooster-2022-best-supporting-actress-05637408",
+      "mediaType": "movie",
+      "title": "奇迹·笨小孩",
+      "releaseDate": "2022",
+      "externalIds": {
+        "tmdb": "926899",
+        "imdb": "tt15783426"
+      },
+      "awardYear": 2022,
+      "winner": "齐溪",
+      "award": "最佳女配角",
+      "awardOrder": 7
+    },
+    {
+      "id": "golden-rooster-2022-best-director-88682721",
+      "mediaType": "movie",
+      "title": "长津湖",
+      "releaseDate": "2021",
+      "externalIds": {
+        "tmdb": "752623",
+        "imdb": "tt13462900"
+      },
+      "awardYear": 2022,
+      "winner": "陈凯歌、徐克、林超贤",
+      "award": "最佳导演",
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-rooster-2022-best-directorial-debut-70087040",
+      "mediaType": "movie",
+      "title": "人生大事",
+      "releaseDate": "2022",
+      "externalIds": {
+        "tmdb": "938008",
+        "imdb": "tt15801594"
+      },
+      "awardYear": 2022,
+      "winner": "刘江江",
+      "award": "最佳导演处女作",
+      "awardOrder": 9
+    },
+    {
+      "id": "golden-rooster-2022-best-sound-54568505",
+      "mediaType": "movie",
+      "title": "狙击手",
+      "releaseDate": "2022",
+      "externalIds": {
+        "tmdb": "888195",
+        "imdb": "tt13317320"
+      },
+      "awardYear": 2022,
+      "awardOrder": 16,
+      "award": "最佳录音",
+      "winner": "杨江、赵楠"
+    },
+    {
+      "id": "golden-rooster-2022-best-opera-film-45605848",
+      "mediaType": "movie",
+      "title": "敦煌女儿",
+      "awardYear": 2022,
+      "awardOrder": 14,
+      "award": "最佳戏曲片"
+    },
+    {
+      "id": "golden-rooster-2022-best-cinematography-72793848",
+      "mediaType": "movie",
+      "title": "狙击手",
+      "releaseDate": "2022",
+      "externalIds": {
+        "tmdb": "888195",
+        "imdb": "tt13317320"
+      },
+      "awardYear": 2022,
+      "awardOrder": 17,
+      "award": "最佳摄影",
+      "winner": "赵小丁"
+    },
+    {
+      "id": "golden-rooster-2022-best-feature-film-25389892",
+      "mediaType": "movie",
+      "title": "长津湖",
+      "releaseDate": "2021",
+      "externalIds": {
+        "tmdb": "752623",
+        "imdb": "tt13462900"
+      },
+      "awardYear": 2022,
+      "winner": "陈凯歌、徐克、林超贤",
+      "award": "最佳故事片",
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-rooster-2022-best-actor-60895427",
+      "mediaType": "movie",
+      "title": "人生大事",
+      "releaseDate": "2022",
+      "externalIds": {
+        "tmdb": "938008",
+        "imdb": "tt15801594"
+      },
+      "awardYear": 2022,
+      "winner": "朱一龙",
+      "award": "最佳男主角",
+      "awardOrder": 4
+    },
+    {
+      "id": "golden-rooster-2022-best-supporting-actor-70932939",
+      "mediaType": "movie",
+      "title": "漫长的告白",
+      "releaseDate": "2021",
+      "awardYear": 2022,
+      "winner": "辛柏青",
+      "award": "最佳男配角",
+      "awardOrder": 6
+    },
+    {
+      "id": "golden-rooster-2022-best-documentary-25714468",
+      "mediaType": "movie",
+      "title": "1950他们正年轻",
+      "awardYear": 2022,
+      "awardOrder": 10,
+      "award": "最佳纪录片"
+    },
+    {
+      "id": "golden-rooster-2022-best-screenplay-95538829",
+      "mediaType": "movie",
+      "title": "爱情神话",
+      "releaseDate": "2021",
+      "externalIds": {
+        "tmdb": "897160",
+        "imdb": "tt16411742"
+      },
+      "awardYear": 2022,
+      "awardOrder": 8,
+      "award": "最佳编剧",
+      "winner": "邵艺辉"
+    },
+    {
+      "id": "golden-rooster-2022-best-art-direction-65002762",
+      "mediaType": "movie",
+      "title": "独行月球",
+      "releaseDate": "2022",
+      "externalIds": {
+        "tmdb": "928344",
+        "imdb": "tt14557302"
+      },
+      "awardYear": 2022,
+      "awardOrder": 18,
+      "award": "最佳美术",
+      "winner": "李淼"
+    },
+    {
+      "id": "golden-rooster-2022-best-animation-76319602",
+      "mediaType": "movie",
+      "title": "熊出没·重返地球",
+      "awardYear": 2022,
+      "awardOrder": 15,
+      "award": "最佳美术片"
+    },
+    {
+      "id": "golden-rooster-2022-best-music-10708537",
+      "mediaType": "movie",
+      "title": "独行月球",
+      "releaseDate": "2022",
+      "externalIds": {
+        "tmdb": "928344",
+        "imdb": "tt14557302"
+      },
+      "awardYear": 2022,
+      "awardOrder": 19,
+      "award": "最佳音乐",
+      "winner": "彭飞"
+    },
+    {
+      "id": "golden-rooster-2022-jury-special-prize-10129648",
+      "mediaType": "movie",
+      "title": "我和我的父辈",
+      "awardYear": 2022,
+      "awardOrder": 2,
+      "award": "评委会特别奖"
+    },
+    {
+      "id": "golden-rooster-2021-best-low-budget-feature-83713029",
+      "mediaType": "movie",
+      "title": "冰下的鱼",
+      "awardYear": 2021,
+      "awardOrder": 12,
+      "award": "最佳中小成本故事片"
+    },
+    {
+      "id": "golden-rooster-2021-best-children-film-06039021",
+      "mediaType": "movie",
+      "title": "再见吧！少年",
+      "awardYear": 2021,
+      "awardOrder": 13,
+      "award": "最佳儿童片"
+    },
+    {
+      "id": "golden-rooster-2021-best-editing-79295854",
+      "mediaType": "movie",
+      "title": "拆弹专家2",
+      "releaseDate": "2020",
+      "awardYear": 2021,
+      "awardOrder": 20,
+      "award": "最佳剪辑",
+      "winner": "钟炜钊"
+    },
+    {
+      "id": "golden-rooster-2021-best-foreign-language-film-69831792",
+      "mediaType": "movie",
+      "title": "困在时间里的父亲",
+      "awardYear": 2021,
+      "awardOrder": 11,
+      "award": "最佳外语片"
+    },
+    {
+      "id": "golden-rooster-2021-best-actress-29641320",
+      "mediaType": "movie",
+      "title": "你好，李焕英",
+      "releaseDate": "2021",
+      "externalIds": {
+        "tmdb": "776503",
+        "imdb": "tt13364790"
+      },
+      "awardYear": 2021,
+      "winner": "张小斐",
+      "award": "最佳女主角",
+      "awardOrder": 5
+    },
+    {
+      "id": "golden-rooster-2021-best-supporting-actress-59386632",
+      "mediaType": "movie",
+      "title": "我的姐姐",
+      "releaseDate": "2021",
+      "externalIds": {
+        "tmdb": "795607",
+        "imdb": "tt12788408"
+      },
+      "awardYear": 2021,
+      "winner": "朱媛媛",
+      "award": "最佳女配角",
+      "awardOrder": 7
+    },
+    {
+      "id": "golden-rooster-2021-best-director-98534377",
+      "mediaType": "movie",
+      "title": "悬崖之上",
+      "releaseDate": "2021",
+      "externalIds": {
+        "tmdb": "602334",
+        "imdb": "tt11448076"
+      },
+      "awardYear": 2021,
+      "winner": "张艺谋",
+      "award": "最佳导演",
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-rooster-2021-best-directorial-debut-72159913",
+      "mediaType": "movie",
+      "title": "随风飘散",
+      "awardYear": 2021,
+      "winner": "旦真旺甲",
+      "award": "最佳导演处女作",
+      "awardOrder": 9
+    },
+    {
+      "id": "golden-rooster-2021-best-sound-27330729",
+      "mediaType": "movie",
+      "title": "一秒钟",
+      "releaseDate": "2020",
+      "externalIds": {
+        "tmdb": "575818",
+        "imdb": "tt8959680"
+      },
+      "awardYear": 2021,
+      "awardOrder": 16,
+      "award": "最佳录音",
+      "winner": "陶经"
+    },
+    {
+      "id": "golden-rooster-2021-best-opera-film-16538247",
+      "mediaType": "movie",
+      "title": "南越宫词",
+      "awardYear": 2021,
+      "awardOrder": 14,
+      "award": "最佳戏曲片"
+    },
+    {
+      "id": "golden-rooster-2021-best-cinematography-36564645",
+      "mediaType": "movie",
+      "title": "悬崖之上",
+      "releaseDate": "2021",
+      "externalIds": {
+        "tmdb": "602334",
+        "imdb": "tt11448076"
+      },
+      "awardYear": 2021,
+      "awardOrder": 17,
+      "award": "最佳摄影",
+      "winner": "赵小丁"
+    },
+    {
+      "id": "golden-rooster-2021-best-feature-film-60441916",
+      "mediaType": "movie",
+      "title": "守岛人",
+      "awardYear": 2021,
+      "winner": "陈力",
+      "award": "最佳故事片",
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-rooster-2021-best-actor-01421861",
+      "mediaType": "movie",
+      "title": "悬崖之上",
+      "releaseDate": "2021",
+      "externalIds": {
+        "tmdb": "602334",
+        "imdb": "tt11448076"
+      },
+      "awardYear": 2021,
+      "winner": "张译",
+      "award": "最佳男主角",
+      "awardOrder": 4
+    },
+    {
+      "id": "golden-rooster-2021-best-supporting-actor-65303219",
+      "mediaType": "movie",
+      "title": "一秒钟",
+      "releaseDate": "2020",
+      "externalIds": {
+        "tmdb": "575818",
+        "imdb": "tt8959680"
+      },
+      "awardYear": 2021,
+      "winner": "范伟",
+      "award": "最佳男配角",
+      "awardOrder": 6
+    },
+    {
+      "id": "golden-rooster-2021-best-documentary-25261696",
+      "mediaType": "movie",
+      "title": "九零后",
+      "awardYear": 2021,
+      "awardOrder": 10,
+      "award": "最佳纪录片"
+    },
+    {
+      "id": "golden-rooster-2021-best-screenplay-44756025",
+      "mediaType": "movie",
+      "title": "1921",
+      "awardYear": 2021,
+      "awardOrder": 8,
+      "award": "最佳编剧",
+      "winner": "余曦、黄欣、赵宁宇"
+    },
+    {
+      "id": "golden-rooster-2021-best-art-direction-26080104",
+      "mediaType": "movie",
+      "title": "革命者",
+      "awardYear": 2021,
+      "awardOrder": 18,
+      "award": "最佳美术",
+      "winner": "霍廷霄"
+    },
+    {
+      "id": "golden-rooster-2021-best-animation-38184457",
+      "mediaType": "movie",
+      "title": "白蛇2：青蛇劫起",
+      "awardYear": 2021,
+      "awardOrder": 15,
+      "award": "最佳美术片"
+    },
+    {
+      "id": "golden-rooster-2021-best-music-25609434",
+      "mediaType": "movie",
+      "title": "中国医生",
+      "releaseDate": "2021",
+      "externalIds": {
+        "tmdb": "848439",
+        "imdb": "tt13696296"
+      },
+      "awardYear": 2021,
+      "awardOrder": 19,
+      "award": "最佳音乐",
+      "winner": "陈光荣、陈永健"
+    },
+    {
+      "id": "golden-rooster-2021-jury-special-prize-21558402",
+      "mediaType": "movie",
+      "title": "我和我的家乡",
+      "awardYear": 2021,
+      "awardOrder": 2,
+      "award": "评委会特别奖"
+    },
+    {
+      "id": "golden-rooster-2020-best-low-budget-feature-75389099",
+      "mediaType": "movie",
+      "title": "我的喜马拉雅",
+      "awardYear": 2020,
+      "awardOrder": 11,
+      "award": "最佳中小成本故事片"
+    },
+    {
+      "id": "golden-rooster-2020-best-children-film-50183726",
+      "mediaType": "movie",
+      "title": "点点星光",
+      "awardYear": 2020,
+      "awardOrder": 12,
+      "award": "最佳儿童片"
+    },
+    {
+      "id": "golden-rooster-2020-best-editing-64475533",
+      "mediaType": "movie",
+      "title": "少年的你",
+      "releaseDate": "2019",
+      "externalIds": {
+        "tmdb": "575813",
+        "imdb": "tt9586294"
+      },
+      "awardYear": 2020,
+      "awardOrder": 18,
+      "award": "最佳剪辑",
+      "winner": "张一博"
+    },
+    {
+      "id": "golden-rooster-2020-best-actress-34851464",
+      "mediaType": "movie",
+      "title": "少年的你",
+      "releaseDate": "2019",
+      "externalIds": {
+        "tmdb": "575813",
+        "imdb": "tt9586294"
+      },
+      "awardYear": 2020,
+      "winner": "周冬雨",
+      "award": "最佳女主角",
+      "awardOrder": 5
+    },
+    {
+      "id": "golden-rooster-2020-best-supporting-actress-73875884",
+      "mediaType": "movie",
+      "title": "中国机长",
+      "releaseDate": "2019",
+      "externalIds": {
+        "tmdb": "589712",
+        "imdb": "tt10218664"
+      },
+      "awardYear": 2020,
+      "winner": "袁泉",
+      "award": "最佳女配角",
+      "awardOrder": 7
+    },
+    {
+      "id": "golden-rooster-2020-best-director-59098210",
+      "mediaType": "movie",
+      "title": "白云之下",
+      "awardYear": 2020,
+      "winner": "王瑞",
+      "award": "最佳导演",
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-rooster-2020-best-directorial-debut-52517439",
+      "mediaType": "movie",
+      "title": "受益人",
+      "awardYear": 2020,
+      "winner": "申奥",
+      "award": "最佳导演处女作",
+      "awardOrder": 9
+    },
+    {
+      "id": "golden-rooster-2020-best-sound-05931484",
+      "mediaType": "movie",
+      "title": "只有芸知道",
+      "awardYear": 2020,
+      "awardOrder": 15,
+      "award": "最佳录音",
+      "winner": "吴江"
+    },
+    {
+      "id": "golden-rooster-2020-best-opera-film-73129529",
+      "mediaType": "movie",
+      "title": "贞观盛世",
+      "awardYear": 2020,
+      "awardOrder": 13,
+      "award": "最佳戏曲片"
+    },
+    {
+      "id": "golden-rooster-2020-best-cinematography-01411594",
+      "mediaType": "movie",
+      "title": "夺冠",
+      "releaseDate": "2020",
+      "externalIds": {
+        "tmdb": "541560",
+        "imdb": "tt10670442"
+      },
+      "awardYear": 2020,
+      "awardOrder": 16,
+      "award": "最佳摄影",
+      "winner": "赵晓时"
+    },
+    {
+      "id": "golden-rooster-2020-best-feature-film-09510219",
+      "mediaType": "movie",
+      "title": "夺冠",
+      "releaseDate": "2020",
+      "externalIds": {
+        "tmdb": "541560",
+        "imdb": "tt10670442"
+      },
+      "awardYear": 2020,
+      "winner": "陈可辛",
+      "award": "最佳故事片",
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-rooster-2020-best-actor-29247686",
+      "mediaType": "movie",
+      "title": "烈火英雄",
+      "releaseDate": "2019",
+      "externalIds": {
+        "tmdb": "605375",
+        "imdb": "tt10218674"
+      },
+      "awardYear": 2020,
+      "winner": "黄晓明",
+      "award": "最佳男主角",
+      "awardOrder": 4
+    },
+    {
+      "id": "golden-rooster-2020-best-supporting-actor-74463938",
+      "mediaType": "movie",
+      "title": "烈火英雄",
+      "releaseDate": "2019",
+      "externalIds": {
+        "tmdb": "605375",
+        "imdb": "tt10218674"
+      },
+      "awardYear": 2020,
+      "winner": "印小天",
+      "award": "最佳男配角",
+      "awardOrder": 6
+    },
+    {
+      "id": "golden-rooster-2020-best-documentary-science-29232059",
+      "mediaType": "movie",
+      "title": "掬水月在手",
+      "awardYear": 2020,
+      "awardOrder": 10,
+      "award": "最佳纪录科教片"
+    },
+    {
+      "id": "golden-rooster-2020-best-screenplay-69293191",
+      "mediaType": "movie",
+      "title": "夺冠",
+      "releaseDate": "2020",
+      "externalIds": {
+        "tmdb": "541560",
+        "imdb": "tt10670442"
+      },
+      "awardYear": 2020,
+      "awardOrder": 8,
+      "award": "最佳编剧",
+      "winner": "张冀"
+    },
+    {
+      "id": "golden-rooster-2020-best-art-direction-07535279",
+      "mediaType": "movie",
+      "title": "解放·终局营救",
+      "awardYear": 2020,
+      "awardOrder": 17,
+      "award": "最佳美术",
+      "winner": "宋军、东智良、郭钟山"
+    },
+    {
+      "id": "golden-rooster-2020-best-animation-74233586",
+      "mediaType": "movie",
+      "title": "哪吒之魔童降世",
+      "releaseDate": "2019",
+      "externalIds": {
+        "tmdb": "615453",
+        "imdb": "tt10627720"
+      },
+      "awardYear": 2020,
+      "awardOrder": 14,
+      "award": "最佳美术片"
+    },
+    {
+      "id": "golden-rooster-2020-jury-special-prize-59237823",
+      "mediaType": "movie",
+      "title": "我和我的祖国",
+      "releaseDate": "2019",
+      "externalIds": {
+        "tmdb": "612070",
+        "imdb": "tt10147382"
+      },
+      "awardYear": 2020,
+      "awardOrder": 2,
+      "award": "评委会特别奖"
+    },
+    {
+      "id": "golden-rooster-2019-best-low-budget-feature-13126018",
+      "mediaType": "movie",
+      "title": "红花绿叶",
+      "awardYear": 2019,
+      "awardOrder": 11,
+      "award": "最佳中小成本故事片"
+    },
+    {
+      "id": "golden-rooster-2019-best-children-film-84468869",
+      "mediaType": "movie",
+      "title": "小狗奶瓶",
+      "awardYear": 2019,
+      "awardOrder": 12,
+      "award": "最佳儿童片"
+    },
+    {
+      "id": "golden-rooster-2019-best-editing-75834206",
+      "mediaType": "movie",
+      "title": "进京城",
+      "awardYear": 2019,
+      "awardOrder": 19,
+      "award": "最佳剪辑",
+      "winner": "朱利赟"
+    },
+    {
+      "id": "golden-rooster-2019-best-actress-17848968",
+      "mediaType": "movie",
+      "title": "地久天长",
+      "releaseDate": "2019",
+      "externalIds": {
+        "tmdb": "575452",
+        "imdb": "tt9581076"
+      },
+      "awardYear": 2019,
+      "winner": "咏梅",
+      "award": "最佳女主角",
+      "awardOrder": 4
+    },
+    {
+      "id": "golden-rooster-2019-best-supporting-actress-20571671",
+      "mediaType": "movie",
+      "title": "送我上青云",
+      "awardYear": 2019,
+      "winner": "吴玉芳",
+      "award": "最佳女配角",
+      "awardOrder": 6
+    },
+    {
+      "id": "golden-rooster-2019-best-director-93700403",
+      "mediaType": "movie",
+      "title": "红海行动",
+      "releaseDate": "2018",
+      "externalIds": {
+        "tmdb": "460555",
+        "imdb": "tt6878882"
+      },
+      "awardYear": 2019,
+      "winner": "林超贤",
+      "award": "最佳导演",
+      "awardOrder": 2
+    },
+    {
+      "id": "golden-rooster-2019-best-directorial-debut-54361314",
+      "mediaType": "movie",
+      "title": "我不是药神",
+      "releaseDate": "2018",
+      "externalIds": {
+        "tmdb": "532753",
+        "imdb": "tt7362036"
+      },
+      "awardYear": 2019,
+      "winner": "文牧野",
+      "award": "最佳导演处女作",
+      "awardOrder": 8
+    },
+    {
+      "id": "golden-rooster-2019-best-sound-86865838",
+      "mediaType": "movie",
+      "title": "流浪地球",
+      "releaseDate": "2019",
+      "externalIds": {
+        "tmdb": "535167",
+        "imdb": "tt7605074"
+      },
+      "awardYear": 2019,
+      "awardOrder": 15,
+      "award": "最佳录音",
+      "winner": "王丹戎、祝岩峰、刘旭"
+    },
+    {
+      "id": "golden-rooster-2019-best-opera-film-15629697",
+      "mediaType": "movie",
+      "title": "挑山女人",
+      "awardYear": 2019,
+      "awardOrder": 13,
+      "award": "最佳戏曲片"
+    },
+    {
+      "id": "golden-rooster-2019-best-cinematography-04136765",
+      "mediaType": "movie",
+      "title": "妖猫传",
+      "releaseDate": "2017",
+      "externalIds": {
+        "tmdb": "428786",
+        "imdb": "tt6157626"
+      },
+      "awardYear": 2019,
+      "awardOrder": 16,
+      "award": "最佳摄影",
+      "winner": "曹郁"
+    },
+    {
+      "id": "golden-rooster-2019-best-feature-film-66826765",
+      "mediaType": "movie",
+      "title": "流浪地球",
+      "releaseDate": "2019",
+      "externalIds": {
+        "tmdb": "535167",
+        "imdb": "tt7605074"
+      },
+      "awardYear": 2019,
+      "winner": "郭帆",
+      "award": "最佳故事片",
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-rooster-2019-best-actor-94976096",
+      "mediaType": "movie",
+      "title": "地久天长",
+      "releaseDate": "2019",
+      "externalIds": {
+        "tmdb": "575452",
+        "imdb": "tt9581076"
+      },
+      "awardYear": 2019,
+      "winner": "王景春",
+      "award": "最佳男主角",
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-rooster-2019-best-supporting-actor-91404749",
+      "mediaType": "movie",
+      "title": "古田军号",
+      "awardYear": 2019,
+      "winner": "王志飞",
+      "award": "最佳男配角",
+      "awardOrder": 5
+    },
+    {
+      "id": "golden-rooster-2019-best-science-film-45176159",
+      "mediaType": "movie",
+      "title": "绿色长城",
+      "awardYear": 2019,
+      "awardOrder": 10,
+      "award": "最佳科教片"
+    },
+    {
+      "id": "golden-rooster-2019-best-documentary-09083645",
+      "mediaType": "movie",
+      "title": "奋斗时代",
+      "awardYear": 2019,
+      "awardOrder": 9,
+      "award": "最佳纪录片"
+    },
+    {
+      "id": "golden-rooster-2019-best-screenplay-82062722",
+      "mediaType": "movie",
+      "title": "地久天长",
+      "releaseDate": "2019",
+      "externalIds": {
+        "tmdb": "575452",
+        "imdb": "tt9581076"
+      },
+      "awardYear": 2019,
+      "awardOrder": 7,
+      "award": "最佳编剧",
+      "winner": "阿美、王小帅"
+    },
+    {
+      "id": "golden-rooster-2019-best-art-direction-94661252",
+      "mediaType": "movie",
+      "title": "妖猫传",
+      "releaseDate": "2017",
+      "externalIds": {
+        "tmdb": "428786",
+        "imdb": "tt6157626"
+      },
+      "awardYear": 2019,
+      "awardOrder": 17,
+      "award": "最佳美术",
+      "winner": "屠楠、陆苇"
+    },
+    {
+      "id": "golden-rooster-2019-best-animation-01296073",
+      "mediaType": "movie",
+      "title": "风语咒",
+      "awardYear": 2019,
+      "awardOrder": 14,
+      "award": "最佳美术片"
+    },
+    {
+      "id": "golden-rooster-2019-best-music-20437313",
+      "mediaType": "movie",
+      "title": "古田军号",
+      "awardYear": 2019,
+      "awardOrder": 18,
+      "award": "最佳音乐",
+      "winner": "居文沛"
+    },
+    {
+      "id": "golden-rooster-2017-best-low-budget-feature-14396238",
+      "mediaType": "movie",
+      "title": "塔洛",
+      "releaseDate": "2015",
+      "externalIds": {
+        "tmdb": "360207",
+        "imdb": "tt4975328"
+      },
+      "awardYear": 2017,
+      "awardOrder": 12,
+      "award": "最佳中小成本故事片"
+    },
+    {
+      "id": "golden-rooster-2017-best-children-film-00834927",
+      "mediaType": "movie",
+      "title": "乌珠穆沁的孩子",
+      "awardYear": 2017,
+      "awardOrder": 13,
+      "award": "最佳儿童片"
+    },
+    {
+      "id": "golden-rooster-2017-best-editing-10642351",
+      "mediaType": "movie",
+      "title": "解救吾先生",
+      "releaseDate": "2015",
+      "externalIds": {
+        "tmdb": "362154",
+        "imdb": "tt4819560"
+      },
+      "awardYear": 2017,
+      "awardOrder": 20,
+      "award": "最佳剪辑",
+      "winner": "丁晟"
+    },
+    {
+      "id": "golden-rooster-2017-best-actress-65628412",
+      "mediaType": "movie",
+      "title": "我不是潘金莲",
+      "releaseDate": "2016",
+      "externalIds": {
+        "tmdb": "393445",
+        "imdb": "tt5918090"
+      },
+      "awardYear": 2017,
+      "winner": "范冰冰",
+      "award": "最佳女主角",
+      "awardOrder": 4
+    },
+    {
+      "id": "golden-rooster-2017-best-supporting-actress-30746487",
+      "mediaType": "movie",
+      "title": "搬迁",
+      "awardYear": 2017,
+      "winner": "吴彦姝",
+      "award": "最佳女配角",
+      "awardOrder": 7
+    },
+    {
+      "id": "golden-rooster-2017-best-director-75463928",
+      "mediaType": "movie",
+      "title": "我不是潘金莲",
+      "releaseDate": "2016",
+      "externalIds": {
+        "tmdb": "393445",
+        "imdb": "tt5918090"
+      },
+      "awardYear": 2017,
+      "winner": "冯小刚",
+      "award": "最佳导演",
+      "awardOrder": 2
+    },
+    {
+      "id": "golden-rooster-2017-best-directorial-debut-80159324",
+      "mediaType": "movie",
+      "title": "陆垚知马俐",
+      "awardYear": 2017,
+      "winner": "文章",
+      "award": "最佳导演处女作",
+      "awardOrder": 9
+    },
+    {
+      "id": "golden-rooster-2017-best-sound-28204039",
+      "mediaType": "movie",
+      "title": "火锅英雄",
+      "awardYear": 2017,
+      "awardOrder": 16,
+      "award": "最佳录音",
+      "winner": "黄铮"
+    },
+    {
+      "id": "golden-rooster-2017-best-opera-film-58333989",
+      "mediaType": "movie",
+      "title": "穆桂英挂帅",
+      "awardYear": 2017,
+      "awardOrder": 14,
+      "award": "最佳戏曲片"
+    },
+    {
+      "id": "golden-rooster-2017-best-cinematography-84783124",
+      "mediaType": "movie",
+      "title": "村戏",
+      "awardYear": 2017,
+      "awardOrder": 17,
+      "award": "最佳摄影",
+      "winner": "邵丹"
+    },
+    {
+      "id": "golden-rooster-2017-best-feature-film-83471229",
+      "mediaType": "movie",
+      "title": "湄公河行动",
+      "releaseDate": "2016",
+      "externalIds": {
+        "tmdb": "408620",
+        "imdb": "tt6044910"
+      },
+      "awardYear": 2017,
+      "winner": "林超贤",
+      "award": "最佳故事片",
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-rooster-2017-best-actor-57793639",
+      "mediaType": "movie",
+      "title": "烈日灼心",
+      "releaseDate": "2015",
+      "externalIds": {
+        "tmdb": "339677",
+        "imdb": "tt4077222"
+      },
+      "awardYear": 2017,
+      "winner": "邓超",
+      "award": "最佳男主角",
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-rooster-2017-best-supporting-actor-96869960",
+      "mediaType": "movie",
+      "title": "我不是潘金莲",
+      "releaseDate": "2016",
+      "externalIds": {
+        "tmdb": "393445",
+        "imdb": "tt5918090"
+      },
+      "awardYear": 2017,
+      "winner": "于和伟",
+      "award": "最佳男配角",
+      "awardOrder": 5
+    },
+    {
+      "id": "golden-rooster-2017-best-supporting-actor-21299939",
+      "mediaType": "movie",
+      "title": "解救吾先生",
+      "releaseDate": "2015",
+      "externalIds": {
+        "tmdb": "362154",
+        "imdb": "tt4819560"
+      },
+      "awardYear": 2017,
+      "winner": "王千源",
+      "award": "最佳男配角",
+      "awardOrder": 6
+    },
+    {
+      "id": "golden-rooster-2017-best-science-film-17589759",
+      "mediaType": "movie",
+      "title": "首星揭秘",
+      "awardYear": 2017,
+      "awardOrder": 11,
+      "award": "最佳科教片"
+    },
+    {
+      "id": "golden-rooster-2017-best-documentary-47164500",
+      "mediaType": "movie",
+      "title": "日本战犯忏悔备忘录",
+      "awardYear": 2017,
+      "awardOrder": 10,
+      "award": "最佳纪录片"
+    },
+    {
+      "id": "golden-rooster-2017-best-screenplay-82320111",
+      "mediaType": "movie",
+      "title": "老炮儿",
+      "releaseDate": "2015",
+      "externalIds": {
+        "tmdb": "361278",
+        "imdb": "tt4701702"
+      },
+      "awardYear": 2017,
+      "awardOrder": 8,
+      "award": "最佳编剧",
+      "winner": "管虎、董润年"
+    },
+    {
+      "id": "golden-rooster-2017-best-art-direction-70458991",
+      "mediaType": "movie",
+      "title": "罗曼蒂克消亡史",
+      "releaseDate": "2016",
+      "externalIds": {
+        "tmdb": "414415",
+        "imdb": "tt5229546"
+      },
+      "awardYear": 2017,
+      "awardOrder": 18,
+      "award": "最佳美术",
+      "winner": "韩忠"
+    },
+    {
+      "id": "golden-rooster-2017-best-animation-22755879",
+      "mediaType": "movie",
+      "title": "大耳朵图图之美食狂想曲",
+      "awardYear": 2017,
+      "awardOrder": 15,
+      "award": "最佳美术片"
+    },
+    {
+      "id": "golden-rooster-2017-best-music-80869662",
+      "mediaType": "movie",
+      "title": "开罗宣言",
+      "awardYear": 2017,
+      "awardOrder": 19,
+      "award": "最佳音乐",
+      "winner": "叶小钢"
+    },
+    {
+      "id": "golden-rooster-2015-best-actress-28982605",
+      "mediaType": "movie",
+      "title": "诺日吉玛",
+      "awardYear": 2015,
+      "winner": "巴德玛",
+      "award": "最佳女主角"
+    },
+    {
+      "id": "golden-rooster-2015-best-supporting-actress-29849559",
+      "mediaType": "movie",
+      "title": "全民目击",
+      "awardYear": 2015,
+      "winner": "邓家佳",
+      "award": "最佳女配角"
+    },
+    {
+      "id": "golden-rooster-2015-best-director-10225994",
+      "mediaType": "movie",
+      "title": "智取威虎山",
+      "externalIds": {
+        "tmdb": "294992",
+        "imdb": "tt3950078"
+      },
+      "awardYear": 2015,
+      "winner": "徐克",
+      "award": "最佳导演"
+    },
+    {
+      "id": "golden-rooster-2015-best-directorial-debut-99096935",
+      "mediaType": "movie",
+      "title": "一个勺子",
+      "awardYear": 2015,
+      "winner": "陈建斌",
+      "award": "最佳导演处女作"
+    },
+    {
+      "id": "golden-rooster-2015-best-feature-film-97007905",
+      "mediaType": "movie",
+      "title": "狼图腾",
+      "externalIds": {
+        "tmdb": "266058",
+        "imdb": "tt2909116"
+      },
+      "awardYear": 2015,
+      "winner": "让-雅克·阿诺",
+      "award": "最佳故事片"
+    },
+    {
+      "id": "golden-rooster-2015-best-actor-13892867",
+      "mediaType": "movie",
+      "title": "智取威虎山",
+      "externalIds": {
+        "tmdb": "294992",
+        "imdb": "tt3950078"
+      },
+      "awardYear": 2015,
+      "winner": "张涵予",
+      "award": "最佳男主角"
+    },
+    {
+      "id": "golden-rooster-2015-best-supporting-actor-68766490",
+      "mediaType": "movie",
+      "title": "亲爱的",
+      "externalIds": {
+        "tmdb": "284293",
+        "imdb": "tt3752930"
+      },
+      "awardYear": 2015,
+      "winner": "张译",
+      "award": "最佳男配角"
+    },
+    {
+      "id": "golden-rooster-2013-best-actress-65028140",
+      "mediaType": "movie",
+      "title": "萧红",
+      "awardYear": 2013,
+      "winner": "宋佳",
+      "award": "最佳女主角"
+    },
+    {
+      "id": "golden-rooster-2013-best-supporting-actress-08678627",
+      "mediaType": "movie",
+      "title": "搜索",
+      "externalIds": {
+        "tmdb": "127864",
+        "imdb": "tt2259360"
+      },
+      "awardYear": 2013,
+      "winner": "王珞丹",
+      "award": "最佳女配角"
+    },
+    {
+      "id": "golden-rooster-2013-best-director-04515096",
+      "mediaType": "movie",
+      "title": "中国合伙人",
+      "externalIds": {
+        "tmdb": "192577",
+        "imdb": "tt2278392"
+      },
+      "awardYear": 2013,
+      "winner": "陈可辛",
+      "award": "最佳导演"
+    },
+    {
+      "id": "golden-rooster-2013-best-directorial-debut-85837967",
+      "mediaType": "movie",
+      "title": "致我们终将逝去的青春",
+      "externalIds": {
+        "tmdb": "191147",
+        "imdb": "tt2765340"
+      },
+      "awardYear": 2013,
+      "winner": "赵薇",
+      "award": "最佳导演处女作"
+    },
+    {
+      "id": "golden-rooster-2013-best-feature-film-67807925",
+      "mediaType": "movie",
+      "title": "中国合伙人",
+      "externalIds": {
+        "tmdb": "192577",
+        "imdb": "tt2278392"
+      },
+      "awardYear": 2013,
+      "winner": "陈可辛",
+      "award": "最佳故事片"
+    },
+    {
+      "id": "golden-rooster-2013-best-feature-film-81877932",
+      "mediaType": "movie",
+      "title": "周恩来的四个昼夜",
+      "awardYear": 2013,
+      "winner": "陈力",
+      "award": "最佳故事片"
+    },
+    {
+      "id": "golden-rooster-2013-best-actor-66354845",
+      "mediaType": "movie",
+      "title": "一九四二",
+      "externalIds": {
+        "tmdb": "172385",
+        "imdb": "tt2113822"
+      },
+      "awardYear": 2013,
+      "winner": "张国立",
+      "award": "最佳男主角"
+    },
+    {
+      "id": "golden-rooster-2013-best-actor-57373255",
+      "mediaType": "movie",
+      "title": "中国合伙人",
+      "externalIds": {
+        "tmdb": "192577",
+        "imdb": "tt2278392"
+      },
+      "awardYear": 2013,
+      "winner": "黄晓明",
+      "award": "最佳男主角"
+    },
+    {
+      "id": "golden-rooster-2013-best-supporting-actor-81695954",
+      "mediaType": "movie",
+      "title": "一代宗师",
+      "externalIds": {
+        "tmdb": "44865",
+        "imdb": "tt1462900"
+      },
+      "awardYear": 2013,
+      "winner": "王庆祥",
+      "award": "最佳男配角"
+    },
+    {
+      "id": "golden-rooster-2011-best-actress-74339497",
+      "mediaType": "movie",
+      "title": "额吉",
+      "awardYear": 2011,
+      "winner": "娜仁花",
+      "award": "最佳女主角"
+    },
+    {
+      "id": "golden-rooster-2011-best-supporting-actress-36387167",
+      "mediaType": "movie",
+      "title": "惊沙",
+      "awardYear": 2011,
+      "winner": "国歌",
+      "award": "最佳女配角"
+    },
+    {
+      "id": "golden-rooster-2011-best-director-86575411",
+      "mediaType": "movie",
+      "title": "爱在廊桥",
+      "awardYear": 2011,
+      "winner": "陈力",
+      "award": "最佳导演"
+    },
+    {
+      "id": "golden-rooster-2011-best-directorial-debut-58007885",
+      "mediaType": "movie",
+      "title": "盲人电影院",
+      "awardYear": 2011,
+      "winner": "路阳",
+      "award": "最佳导演处女作"
+    },
+    {
+      "id": "golden-rooster-2011-best-feature-film-74054496",
+      "mediaType": "movie",
+      "title": "飞天",
+      "awardYear": 2011,
+      "winner": "王珈、沈东",
+      "award": "最佳故事片"
+    },
+    {
+      "id": "golden-rooster-2011-best-actor-14382922",
+      "mediaType": "movie",
+      "title": "秋喜",
+      "awardYear": 2011,
+      "winner": "孙淳",
+      "award": "最佳男主角"
+    },
+    {
+      "id": "golden-rooster-2011-best-supporting-actor-78898337",
+      "mediaType": "movie",
+      "title": "团圆",
+      "awardYear": 2011,
+      "winner": "徐才根",
+      "award": "最佳男配角"
+    },
+    {
+      "id": "golden-rooster-2009-best-actress-25575660",
+      "mediaType": "movie",
+      "title": "李米的猜想",
+      "awardYear": 2009,
+      "winner": "周迅",
+      "award": "最佳女主角"
+    },
+    {
+      "id": "golden-rooster-2009-best-actress-52553124",
+      "mediaType": "movie",
+      "title": "立春",
+      "awardYear": 2009,
+      "winner": "蒋雯丽",
+      "award": "最佳女主角"
+    },
+    {
+      "id": "golden-rooster-2009-best-supporting-actress-09299732",
+      "mediaType": "movie",
+      "title": "走着瞧",
+      "awardYear": 2009,
+      "winner": "岳红",
+      "award": "最佳女配角"
+    },
+    {
+      "id": "golden-rooster-2009-best-director-75313919",
+      "mediaType": "movie",
+      "title": "集结号",
+      "awardYear": 2009,
+      "winner": "冯小刚",
+      "award": "最佳导演"
+    },
+    {
+      "id": "golden-rooster-2009-best-directorial-debut-01843102",
+      "mediaType": "movie",
+      "title": "走四方",
+      "awardYear": 2009,
+      "winner": "李大为",
+      "award": "最佳导演处女作"
+    },
+    {
+      "id": "golden-rooster-2009-best-feature-film-97480702",
+      "mediaType": "movie",
+      "title": "梅兰芳",
+      "awardYear": 2009,
+      "winner": "陈凯歌",
+      "award": "最佳故事片"
+    },
+    {
+      "id": "golden-rooster-2009-best-feature-film-96250077",
+      "mediaType": "movie",
+      "title": "集结号",
+      "awardYear": 2009,
+      "winner": "冯小刚",
+      "award": "最佳故事片"
+    },
+    {
+      "id": "golden-rooster-2009-best-actor-90627062",
+      "mediaType": "movie",
+      "title": "铁人",
+      "awardYear": 2009,
+      "winner": "吴刚",
+      "award": "最佳男主角"
+    },
+    {
+      "id": "golden-rooster-2009-best-supporting-actor-12311067",
+      "mediaType": "movie",
+      "title": "梅兰芳",
+      "awardYear": 2009,
+      "winner": "王学圻",
+      "award": "最佳男配角"
+    },
+    {
+      "id": "golden-rooster-2007-best-actress-43850907",
+      "mediaType": "movie",
+      "title": "好奇害死猫",
+      "externalIds": {
+        "imdb": "tt0865431"
+      },
+      "awardYear": 2007,
+      "winner": "刘嘉玲",
+      "award": "最佳女主角"
+    },
+    {
+      "id": "golden-rooster-2007-best-actress-42836224",
+      "mediaType": "movie",
+      "title": "爱情的牙齿",
+      "awardYear": 2007,
+      "winner": "颜丙燕",
+      "award": "最佳女主角"
+    },
+    {
+      "id": "golden-rooster-2007-best-supporting-actress-46900845",
+      "mediaType": "movie",
+      "title": "鸡犬不宁",
+      "awardYear": 2007,
+      "winner": "小香玉",
+      "award": "最佳女配角"
+    },
+    {
+      "id": "golden-rooster-2007-best-director-53503105",
+      "mediaType": "movie",
+      "title": "云水谣",
+      "externalIds": {
+        "imdb": "tt0860464"
+      },
+      "awardYear": 2007,
+      "winner": "尹力",
+      "award": "最佳导演"
+    },
+    {
+      "id": "golden-rooster-2007-best-director-47013072",
+      "mediaType": "movie",
+      "title": "天狗",
+      "externalIds": {
+        "imdb": "tt0924128"
+      },
+      "awardYear": 2007,
+      "winner": "戚健",
+      "award": "最佳导演"
+    },
+    {
+      "id": "golden-rooster-2007-best-directorial-debut-19508548",
+      "mediaType": "movie",
+      "title": "夜袭",
+      "awardYear": 2007,
+      "winner": "安澜",
+      "award": "最佳导演处女作"
+    },
+    {
+      "id": "golden-rooster-2007-best-feature-film-78750152",
+      "mediaType": "movie",
+      "title": "云水谣",
+      "externalIds": {
+        "imdb": "tt0860464"
+      },
+      "awardYear": 2007,
+      "winner": "尹力",
+      "award": "最佳故事片"
+    },
+    {
+      "id": "golden-rooster-2007-best-actor-69038691",
+      "mediaType": "movie",
+      "title": "天狗",
+      "externalIds": {
+        "imdb": "tt0924128"
+      },
+      "awardYear": 2007,
+      "winner": "富大龙",
+      "award": "最佳男主角"
+    },
+    {
+      "id": "golden-rooster-2007-best-supporting-actor-64862350",
+      "mediaType": "movie",
+      "title": "我的长征",
+      "awardYear": 2007,
+      "winner": "王霙",
+      "award": "最佳男配角"
+    },
+    {
+      "id": "golden-rooster-2005-best-actress-45447947",
+      "mediaType": "movie",
+      "title": "我们俩",
+      "awardYear": 2005,
+      "winner": "金雅琴",
+      "award": "最佳女主角"
+    },
+    {
+      "id": "golden-rooster-2005-best-supporting-actress-87573786",
+      "mediaType": "movie",
+      "title": "孔雀",
+      "externalIds": {
+        "tmdb": "16146",
+        "imdb": "tt0445506"
+      },
+      "awardYear": 2005,
+      "winner": "黄梅莹",
+      "award": "最佳女配角"
+    },
+    {
+      "id": "golden-rooster-2005-best-director-09521578",
+      "mediaType": "movie",
+      "title": "我们俩",
+      "awardYear": 2005,
+      "winner": "马俪文",
+      "award": "最佳导演"
+    },
+    {
+      "id": "golden-rooster-2005-best-directorial-debut-40675106",
+      "mediaType": "movie",
+      "title": "静静的嘛呢石",
+      "awardYear": 2005,
+      "winner": "万玛才旦",
+      "award": "最佳导演处女作"
+    },
+    {
+      "id": "golden-rooster-2005-best-feature-film-41031137",
+      "mediaType": "movie",
+      "title": "可可西里",
+      "externalIds": {
+        "tmdb": "12863",
+        "imdb": "tt0386651"
+      },
+      "awardYear": 2005,
+      "winner": "陆川",
+      "award": "最佳故事片"
+    },
+    {
+      "id": "golden-rooster-2005-best-feature-film-87176144",
+      "mediaType": "movie",
+      "title": "太行山上",
+      "awardYear": 2005,
+      "winner": "韦廉、沈东、陈健",
+      "award": "最佳故事片"
+    },
+    {
+      "id": "golden-rooster-2005-best-actor-86495367",
+      "mediaType": "movie",
+      "title": "新警察故事",
+      "externalIds": {
+        "tmdb": "11647",
+        "imdb": "tt0386005"
+      },
+      "awardYear": 2005,
+      "winner": "成龙",
+      "award": "最佳男主角"
+    },
+    {
+      "id": "golden-rooster-2005-best-supporting-actor-29536241",
+      "mediaType": "movie",
+      "title": "张思德",
+      "awardYear": 2005,
+      "winner": "唐国强",
+      "award": "最佳男配角"
+    },
+    {
+      "id": "golden-rooster-2004-best-actress-96469165",
+      "mediaType": "movie",
+      "title": "美丽上海",
+      "awardYear": 2004,
+      "winner": "郑振瑶",
+      "award": "最佳女主角"
+    },
+    {
+      "id": "golden-rooster-2004-best-actress-36999342",
+      "mediaType": "movie",
+      "title": "茉莉花开",
+      "awardYear": 2004,
+      "winner": "章子怡",
+      "award": "最佳女主角"
+    },
+    {
+      "id": "golden-rooster-2004-best-director-10091994",
+      "mediaType": "movie",
+      "title": "美丽上海",
+      "awardYear": 2004,
+      "winner": "彭小莲",
+      "award": "最佳导演"
+    },
+    {
+      "id": "golden-rooster-2004-best-directorial-debut-58182915",
+      "mediaType": "movie",
+      "title": "上学路上",
+      "awardYear": 2004,
+      "winner": "方刚亮",
+      "award": "最佳导演处女作"
+    },
+    {
+      "id": "golden-rooster-2004-best-feature-film-73384823",
+      "mediaType": "movie",
+      "title": "美丽上海",
+      "awardYear": 2004,
+      "winner": "彭小莲",
+      "award": "最佳故事片"
+    },
+    {
+      "id": "golden-rooster-2004-best-actor-62972546",
+      "mediaType": "movie",
+      "title": "美人草",
+      "awardYear": 2004,
+      "winner": "刘烨",
+      "award": "最佳男主角"
+    },
+    {
+      "id": "golden-rooster-2004-best-supporting-actor-24479368",
+      "mediaType": "movie",
+      "title": "美丽上海",
+      "awardYear": 2004,
+      "winner": "冯远征",
+      "award": "最佳男配角"
+    },
+    {
+      "id": "golden-rooster-2003-best-actress-36379887",
+      "mediaType": "movie",
+      "title": "惊蛰",
+      "awardYear": 2003,
+      "winner": "余男",
+      "award": "最佳女主角"
+    },
+    {
+      "id": "golden-rooster-2003-best-supporting-actress-29441570",
+      "mediaType": "movie",
+      "title": "我的美丽乡愁",
+      "awardYear": 2003,
+      "winner": "徐静蕾",
+      "award": "最佳女配角"
+    },
+    {
+      "id": "golden-rooster-2003-best-director-01326115",
+      "mediaType": "movie",
+      "title": "英雄",
+      "externalIds": {
+        "tmdb": "79",
+        "imdb": "tt0299977"
+      },
+      "awardYear": 2003,
+      "winner": "张艺谋",
+      "award": "最佳导演"
+    },
+    {
+      "id": "golden-rooster-2003-best-directorial-debut-08923916",
+      "mediaType": "movie",
+      "title": "我和爸爸",
+      "awardYear": 2003,
+      "winner": "徐静蕾",
+      "award": "最佳导演处女作"
+    },
+    {
+      "id": "golden-rooster-2003-best-directorial-debut-57068620",
+      "mediaType": "movie",
+      "title": "暖春",
+      "awardYear": 2003,
+      "winner": "乌兰塔娜",
+      "award": "最佳导演处女作"
+    },
+    {
+      "id": "golden-rooster-2003-best-feature-film-89801564",
+      "mediaType": "movie",
+      "title": "惊涛骇浪",
+      "awardYear": 2003,
+      "winner": "翟俊杰",
+      "award": "最佳故事片"
+    },
+    {
+      "id": "golden-rooster-2003-best-feature-film-64179055",
+      "mediaType": "movie",
+      "title": "暖",
+      "awardYear": 2003,
+      "winner": "霍建起",
+      "award": "最佳故事片"
+    },
+    {
+      "id": "golden-rooster-2003-best-actor-33306894",
+      "mediaType": "movie",
+      "title": "警察有约",
+      "awardYear": 2003,
+      "winner": "夏雨",
+      "award": "最佳男主角"
+    },
+    {
+      "id": "golden-rooster-2003-best-supporting-actor-03048193",
+      "mediaType": "movie",
+      "title": "看车人的七月",
+      "awardYear": 2003,
+      "winner": "赵君",
+      "award": "最佳男配角"
+    },
+    {
+      "id": "golden-rooster-2002-best-actress-90342862",
+      "mediaType": "movie",
+      "title": "生活秀",
+      "awardYear": 2002,
+      "winner": "陶红",
+      "award": "最佳女主角"
+    },
+    {
+      "id": "golden-rooster-2002-best-actress-26380880",
+      "mediaType": "movie",
+      "title": "美丽的大脚",
+      "awardYear": 2002,
+      "winner": "倪萍",
+      "award": "最佳女主角"
+    },
+    {
+      "id": "golden-rooster-2002-best-supporting-actress-92842366",
+      "mediaType": "movie",
+      "title": "美丽的大脚",
+      "awardYear": 2002,
+      "winner": "袁泉",
+      "award": "最佳女配角"
+    },
+    {
+      "id": "golden-rooster-2002-best-director-27905933",
+      "mediaType": "movie",
+      "title": "和你在一起",
+      "externalIds": {
+        "tmdb": "11156",
+        "imdb": "tt0332639"
+      },
+      "awardYear": 2002,
+      "winner": "陈凯歌",
+      "award": "最佳导演"
+    },
+    {
+      "id": "golden-rooster-2002-best-director-36405796",
+      "mediaType": "movie",
+      "title": "美丽的大脚",
+      "awardYear": 2002,
+      "winner": "杨亚洲",
+      "award": "最佳导演"
+    },
+    {
+      "id": "golden-rooster-2002-best-directorial-debut-86461240",
+      "mediaType": "movie",
+      "title": "二十五个孩子一个爹",
+      "awardYear": 2002,
+      "winner": "黄宏",
+      "award": "最佳导演处女作"
+    },
+    {
+      "id": "golden-rooster-2002-best-feature-film-20341403",
+      "mediaType": "movie",
+      "title": "冲出亚马逊",
+      "awardYear": 2002,
+      "winner": "宋业明",
+      "award": "最佳故事片"
+    },
+    {
+      "id": "golden-rooster-2002-best-feature-film-99698625",
+      "mediaType": "movie",
+      "title": "美丽的大脚",
+      "awardYear": 2002,
+      "winner": "杨亚洲",
+      "award": "最佳故事片"
+    },
+    {
+      "id": "golden-rooster-2002-best-actor-93798834",
+      "mediaType": "movie",
+      "title": "天上草原",
+      "awardYear": 2002,
+      "winner": "宁才",
+      "award": "最佳男主角"
+    },
+    {
+      "id": "golden-rooster-2002-best-supporting-actor-37783121",
+      "mediaType": "movie",
+      "title": "和你在一起",
+      "externalIds": {
+        "tmdb": "11156",
+        "imdb": "tt0332639"
+      },
+      "awardYear": 2002,
+      "winner": "王志文",
+      "award": "最佳男配角"
+    },
+    {
+      "id": "golden-rooster-2001-best-actress-17107285",
+      "mediaType": "movie",
+      "title": "相伴永远",
+      "awardYear": 2001,
+      "winner": "宋春丽",
+      "award": "最佳女主角"
+    },
+    {
+      "id": "golden-rooster-2001-best-supporting-actress-01187714",
+      "mediaType": "movie",
+      "title": "月圆今宵",
+      "awardYear": 2001,
+      "winner": "彭玉",
+      "award": "最佳女配角"
+    },
+    {
+      "id": "golden-rooster-2001-best-director-65946394",
+      "mediaType": "movie",
+      "title": "蓝色爱情",
+      "awardYear": 2001,
+      "winner": "霍建起",
+      "award": "最佳导演"
+    },
+    {
+      "id": "golden-rooster-2001-best-directorial-debut-24498335",
+      "mediaType": "movie",
+      "title": "押解的故事",
+      "awardYear": 2001,
+      "winner": "齐星",
+      "award": "最佳导演处女作"
+    },
+    {
+      "id": "golden-rooster-2001-best-feature-film-19437776",
+      "mediaType": "movie",
+      "title": "毛泽东在1925",
+      "awardYear": 2001,
+      "winner": "张今标",
+      "award": "最佳故事片"
+    },
+    {
+      "id": "golden-rooster-2001-best-actor-10802185",
+      "mediaType": "movie",
+      "title": "押解的故事",
+      "awardYear": 2001,
+      "winner": "戈治均",
+      "award": "最佳男主角"
+    },
+    {
+      "id": "golden-rooster-2001-best-supporting-actor-88096359",
+      "mediaType": "movie",
+      "title": "押解的故事",
+      "awardYear": 2001,
+      "winner": "傅彪",
+      "award": "最佳男配角"
+    },
+    {
+      "id": "golden-rooster-2000-best-actress-18676043",
+      "mediaType": "movie",
+      "title": "漂亮妈妈",
+      "externalIds": {
+        "imdb": "tt0244070"
+      },
+      "awardYear": 2000,
+      "winner": "巩俐",
+      "award": "最佳女主角"
+    },
+    {
+      "id": "golden-rooster-2000-best-supporting-actress-81808849",
+      "mediaType": "movie",
+      "title": "横空出世",
+      "awardYear": 2000,
+      "winner": "陈瑾",
+      "award": "最佳女配角"
+    },
+    {
+      "id": "golden-rooster-2000-best-director-21420621",
+      "mediaType": "movie",
+      "title": "我的父亲母亲",
+      "externalIds": {
+        "tmdb": "16185",
+        "imdb": "tt0235060"
+      },
+      "awardYear": 2000,
+      "winner": "张艺谋",
+      "award": "最佳导演"
+    },
+    {
+      "id": "golden-rooster-2000-best-director-14226774",
+      "mediaType": "movie",
+      "title": "横空出世",
+      "awardYear": 2000,
+      "winner": "陈国星",
+      "award": "最佳导演"
+    },
+    {
+      "id": "golden-rooster-2000-best-feature-film-16566999",
+      "mediaType": "movie",
+      "title": "我的父亲母亲",
+      "externalIds": {
+        "tmdb": "16185",
+        "imdb": "tt0235060"
+      },
+      "awardYear": 2000,
+      "winner": "张艺谋",
+      "award": "最佳故事片"
+    },
+    {
+      "id": "golden-rooster-2000-best-feature-film-50933945",
+      "mediaType": "movie",
+      "title": "横空出世",
+      "awardYear": 2000,
+      "winner": "陈国星",
+      "award": "最佳故事片"
+    },
+    {
+      "id": "golden-rooster-2000-best-feature-film-10823768",
+      "mediaType": "movie",
+      "title": "生死抉择",
+      "awardYear": 2000,
+      "winner": "于本正",
+      "award": "最佳故事片"
+    },
+    {
+      "id": "golden-rooster-2000-best-actor-44524670",
+      "mediaType": "movie",
+      "title": "我的1919",
+      "awardYear": 2000,
+      "winner": "陈道明",
+      "award": "最佳男主角"
+    },
+    {
+      "id": "golden-rooster-2000-best-supporting-actor-85639914",
+      "mediaType": "movie",
+      "title": "生死抉择",
+      "awardYear": 2000,
+      "winner": "雷明",
+      "award": "最佳男配角"
+    },
+    {
+      "id": "golden-rooster-1999-best-actress-63354081",
+      "mediaType": "movie",
+      "title": "黄河绝恋",
+      "awardYear": 1999,
+      "winner": "宁静",
+      "award": "最佳女主角"
+    },
+    {
+      "id": "golden-rooster-1999-best-supporting-actress-63787385",
+      "mediaType": "movie",
+      "title": "春天的狂想",
+      "awardYear": 1999,
+      "winner": "袁泉",
+      "award": "最佳女配角"
+    },
+    {
+      "id": "golden-rooster-1999-best-director-75549578",
+      "mediaType": "movie",
+      "title": "一个都不能少",
+      "externalIds": {
+        "tmdb": "20560",
+        "imdb": "tt0209189"
+      },
+      "awardYear": 1999,
+      "winner": "张艺谋",
+      "award": "最佳导演"
+    },
+    {
+      "id": "golden-rooster-1999-best-directorial-debut-96801438",
+      "mediaType": "movie",
+      "title": "网络时代的爱情",
+      "awardYear": 1999,
+      "winner": "金琛",
+      "award": "最佳导演处女作"
+    },
+    {
+      "id": "golden-rooster-1999-best-feature-film-47703231",
+      "mediaType": "movie",
+      "title": "那山那人那狗",
+      "awardYear": 1999,
+      "winner": "霍建起",
+      "award": "最佳故事片"
+    },
+    {
+      "id": "golden-rooster-1999-best-actor-33397508",
+      "mediaType": "movie",
+      "title": "那山那人那狗",
+      "awardYear": 1999,
+      "winner": "滕汝骏",
+      "award": "最佳男主角"
+    },
+    {
+      "id": "golden-rooster-1999-best-supporting-actor-99480379",
+      "mediaType": "movie",
+      "title": "草房子",
+      "awardYear": 1999,
+      "winner": "杜源",
+      "award": "最佳男配角"
+    },
+    {
+      "id": "golden-rooster-1998-best-actress-02673360",
+      "mediaType": "movie",
+      "title": "黑眼睛",
+      "awardYear": 1998,
+      "winner": "陶虹",
+      "award": "最佳女主角"
+    },
+    {
+      "id": "golden-rooster-1998-best-supporting-actress-25711812",
+      "mediaType": "movie",
+      "title": "安居",
+      "awardYear": 1998,
+      "winner": "白雪云",
+      "award": "最佳女配角"
+    },
+    {
+      "id": "golden-rooster-1998-best-director-32131246",
+      "mediaType": "movie",
+      "title": "一代天骄成吉思汗",
+      "awardYear": 1998,
+      "winner": "麦丽丝",
+      "award": "最佳导演"
+    },
+    {
+      "id": "golden-rooster-1998-best-director-39473675",
+      "mediaType": "movie",
+      "title": "安居",
+      "awardYear": 1998,
+      "winner": "胡炳榴",
+      "award": "最佳导演"
+    },
+    {
+      "id": "golden-rooster-1998-best-directorial-debut-79945541",
+      "mediaType": "movie",
+      "title": "爱情麻辣烫",
+      "externalIds": {
+        "imdb": "tt0162806"
+      },
+      "awardYear": 1998,
+      "winner": "张扬",
+      "award": "最佳导演处女作"
+    },
+    {
+      "id": "golden-rooster-1998-best-feature-film-90691243",
+      "mediaType": "movie",
+      "title": "安居",
+      "awardYear": 1998,
+      "winner": "胡炳榴",
+      "award": "最佳故事片"
+    },
+    {
+      "id": "golden-rooster-1998-best-actor-12256679",
+      "mediaType": "movie",
+      "title": "没事儿偷着乐",
+      "awardYear": 1998,
+      "winner": "冯巩",
+      "award": "最佳男主角"
+    },
+    {
+      "id": "golden-rooster-1998-best-supporting-actor-90901001",
+      "mediaType": "movie",
+      "title": "周恩来：伟大的朋友",
+      "awardYear": 1998,
+      "winner": "葛存壮",
+      "award": "最佳男配角"
+    },
+    {
+      "id": "golden-rooster-1997-best-actress-82989161",
+      "mediaType": "movie",
+      "title": "喜莲",
+      "awardYear": 1997,
+      "winner": "于慧",
+      "award": "最佳女主角"
+    },
+    {
+      "id": "golden-rooster-1997-best-supporting-actress-11274915",
+      "mediaType": "movie",
+      "title": "我也有爸爸",
+      "awardYear": 1997,
+      "winner": "马晓晴",
+      "award": "最佳女配角"
+    },
+    {
+      "id": "golden-rooster-1997-best-director-57490521",
+      "mediaType": "movie",
+      "title": "大转折",
+      "awardYear": 1997,
+      "winner": "韦廉",
+      "award": "最佳导演"
+    },
+    {
+      "id": "golden-rooster-1997-best-directorial-debut-29236013",
+      "mediaType": "movie",
+      "title": "捕狼人生",
+      "awardYear": 1997,
+      "winner": "周波",
+      "award": "最佳导演处女作"
+    },
+    {
+      "id": "golden-rooster-1997-best-directorial-debut-87455313",
+      "mediaType": "movie",
+      "title": "西夏路迢迢",
+      "awardYear": 1997,
+      "winner": "芦苇",
+      "award": "最佳导演处女作"
+    },
+    {
+      "id": "golden-rooster-1997-best-feature-film-30892148",
+      "mediaType": "movie",
+      "title": "鸦片战争",
+      "externalIds": {
+        "imdb": "tt0120530"
+      },
+      "awardYear": 1997,
+      "winner": "谢晋",
+      "award": "最佳故事片"
+    },
+    {
+      "id": "golden-rooster-1997-best-actor-16689277",
+      "mediaType": "movie",
+      "title": "离开雷锋的日子",
+      "awardYear": 1997,
+      "winner": "刘佩琦",
+      "award": "最佳男主角"
+    },
+    {
+      "id": "golden-rooster-1997-best-supporting-actor-51517177",
+      "mediaType": "movie",
+      "title": "缉毒英雄",
+      "awardYear": 1997,
+      "winner": "孙淳",
+      "award": "最佳男配角"
+    },
+    {
+      "id": "golden-rooster-1997-best-supporting-actor-39062130",
+      "mediaType": "movie",
+      "title": "鸦片战争",
+      "externalIds": {
+        "imdb": "tt0120530"
+      },
+      "awardYear": 1997,
+      "winner": "林连昆",
+      "award": "最佳男配角"
+    },
+    {
+      "id": "golden-rooster-1996-best-actress-39854791",
+      "mediaType": "movie",
+      "title": "九香",
+      "awardYear": 1996,
+      "winner": "宋春丽",
+      "award": "最佳女主角"
+    },
+    {
+      "id": "golden-rooster-1996-best-supporting-actress-05860435",
+      "mediaType": "movie",
+      "title": "吴二哥请神",
+      "awardYear": 1996,
+      "winner": "郑卫莉",
+      "award": "最佳女配角"
+    },
+    {
+      "id": "golden-rooster-1996-best-director-81662383",
+      "mediaType": "movie",
+      "title": "变脸",
+      "externalIds": {
+        "tmdb": "32689",
+        "imdb": "tt0115669"
+      },
+      "awardYear": 1996,
+      "winner": "吴天明",
+      "award": "最佳导演"
+    },
+    {
+      "id": "golden-rooster-1996-best-directorial-debut-10153045",
+      "mediaType": "movie",
+      "title": "赢家",
+      "awardYear": 1996,
+      "winner": "霍建起",
+      "award": "最佳导演处女作"
+    },
+    {
+      "id": "golden-rooster-1996-best-feature-film-12390514",
+      "mediaType": "movie",
+      "title": "红樱桃",
+      "awardYear": 1996,
+      "winner": "叶大鹰",
+      "award": "最佳故事片"
+    },
+    {
+      "id": "golden-rooster-1996-best-actor-22484200",
+      "mediaType": "movie",
+      "title": "孔繁森",
+      "awardYear": 1996,
+      "winner": "高明",
+      "award": "最佳男主角"
+    },
+    {
+      "id": "golden-rooster-1996-best-supporting-actor-31973984",
+      "mediaType": "movie",
+      "title": "吴二哥请神",
+      "awardYear": 1996,
+      "winner": "赵军",
+      "award": "最佳男配角"
+    },
+    {
+      "id": "golden-rooster-1995-best-actress-65174549",
+      "mediaType": "movie",
+      "title": "二嫫",
+      "awardYear": 1995,
+      "winner": "艾丽娅",
+      "award": "最佳女主角"
+    },
+    {
+      "id": "golden-rooster-1995-best-supporting-actress-23639902",
+      "mediaType": "movie",
+      "title": "永失我爱",
+      "awardYear": 1995,
+      "winner": "剧雪",
+      "award": "最佳女配角"
+    },
+    {
+      "id": "golden-rooster-1995-best-director-97443688",
+      "mediaType": "movie",
+      "title": "背靠背，脸对脸",
+      "externalIds": {
+        "tmdb": "31452",
+        "imdb": "tt0109235"
+      },
+      "awardYear": 1995,
+      "winner": "黄建新、杨亚洲",
+      "award": "最佳导演"
+    },
+    {
+      "id": "golden-rooster-1995-best-directorial-debut-81912050",
+      "mediaType": "movie",
+      "title": "弹道无痕",
+      "awardYear": 1995,
+      "winner": "宁海强",
+      "award": "最佳导演处女作"
+    },
+    {
+      "id": "golden-rooster-1995-best-directorial-debut-98289782",
+      "mediaType": "movie",
+      "title": "被告山杠爷",
+      "awardYear": 1995,
+      "winner": "范元",
+      "award": "最佳导演处女作"
+    },
+    {
+      "id": "golden-rooster-1995-best-feature-film-72857559",
+      "mediaType": "movie",
+      "title": "被告山杠爷",
+      "awardYear": 1995,
+      "winner": "范元",
+      "award": "最佳故事片"
+    },
+    {
+      "id": "golden-rooster-1995-best-actor-83794863",
+      "mediaType": "movie",
+      "title": "被告山杠爷",
+      "awardYear": 1995,
+      "winner": "李仁堂",
+      "award": "最佳男主角"
+    },
+    {
+      "id": "golden-rooster-1994-best-actress-64134366",
+      "mediaType": "movie",
+      "title": "股疯",
+      "awardYear": 1994,
+      "winner": "潘虹",
+      "award": "最佳女主角"
+    },
+    {
+      "id": "golden-rooster-1994-best-director-45900499",
+      "mediaType": "movie",
+      "title": "炮打双灯",
+      "awardYear": 1994,
+      "winner": "何平",
+      "award": "最佳导演"
+    },
+    {
+      "id": "golden-rooster-1994-best-directorial-debut-67353566",
+      "mediaType": "movie",
+      "title": "燃烧的雪花",
+      "awardYear": 1994,
+      "winner": "杨韬",
+      "award": "最佳导演处女作"
+    },
+    {
+      "id": "golden-rooster-1994-best-feature-film-71878385",
+      "mediaType": "movie",
+      "title": "凤凰琴",
+      "awardYear": 1994,
+      "winner": "何群",
+      "award": "最佳故事片"
+    },
+    {
+      "id": "golden-rooster-1994-best-actor-94196035",
+      "mediaType": "movie",
+      "title": "凤凰琴",
+      "awardYear": 1994,
+      "winner": "李保田",
+      "award": "最佳男主角"
+    },
+    {
+      "id": "golden-rooster-1994-best-supporting-actor-39408118",
+      "mediaType": "movie",
+      "title": "无人喝彩",
+      "awardYear": 1994,
+      "winner": "方子哥",
+      "award": "最佳男配角"
+    },
+    {
+      "id": "golden-rooster-1993-best-actress-37798294",
+      "mediaType": "movie",
+      "title": "秋菊打官司",
+      "externalIds": {
+        "tmdb": "17339",
+        "imdb": "tt0105197"
+      },
+      "awardYear": 1993,
+      "winner": "巩俐",
+      "award": "最佳女主角"
+    },
+    {
+      "id": "golden-rooster-1993-best-supporting-actress-66504189",
+      "mediaType": "movie",
+      "title": "人之初",
+      "awardYear": 1993,
+      "winner": "张力维",
+      "award": "最佳女配角"
+    },
+    {
+      "id": "golden-rooster-1993-best-director-04859919",
+      "mediaType": "movie",
+      "title": "大撒把",
+      "externalIds": {
+        "imdb": "tt0104031"
+      },
+      "awardYear": 1993,
+      "winner": "夏钢",
+      "award": "最佳导演"
+    },
+    {
+      "id": "golden-rooster-1993-best-feature-film-24469207",
+      "mediaType": "movie",
+      "title": "秋菊打官司",
+      "externalIds": {
+        "tmdb": "17339",
+        "imdb": "tt0105197"
+      },
+      "awardYear": 1993,
+      "winner": "张艺谋",
+      "award": "最佳故事片"
+    },
+    {
+      "id": "golden-rooster-1993-best-actor-88956662",
+      "mediaType": "movie",
+      "title": "大撒把",
+      "externalIds": {
+        "imdb": "tt0104031"
+      },
+      "awardYear": 1993,
+      "winner": "葛优",
+      "award": "最佳男主角"
+    },
+    {
+      "id": "golden-rooster-1993-best-supporting-actor-74793402",
+      "mediaType": "movie",
+      "title": "三毛从军记",
+      "awardYear": 1993,
+      "winner": "魏宗万",
+      "award": "最佳男配角"
+    },
+    {
+      "id": "golden-rooster-1992-best-actress-56553488",
+      "mediaType": "movie",
+      "title": "烛光里的微笑",
+      "awardYear": 1992,
+      "winner": "宋晓英",
+      "award": "最佳女主角"
+    },
+    {
+      "id": "golden-rooster-1992-best-supporting-actress-46159622",
+      "mediaType": "movie",
+      "title": "过年",
+      "awardYear": 1992,
+      "winner": "丁嘉莉",
+      "award": "最佳女配角"
+    },
+    {
+      "id": "golden-rooster-1992-best-director-36111040",
+      "mediaType": "movie",
+      "title": "大决战",
+      "awardYear": 1992,
+      "winner": "导演创作集体",
+      "award": "最佳导演"
+    },
+    {
+      "id": "golden-rooster-1992-best-director-04642072",
+      "mediaType": "movie",
+      "title": "心香",
+      "awardYear": 1992,
+      "winner": "孙周",
+      "award": "最佳导演"
+    },
+    {
+      "id": "golden-rooster-1992-best-feature-film-08404721",
+      "mediaType": "movie",
+      "title": "大决战",
+      "awardYear": 1992,
+      "winner": "李俊、韦廉、景慕逵、翟俊杰、杨光远、赵继烈",
+      "award": "最佳故事片"
+    },
+    {
+      "id": "golden-rooster-1992-best-actor-83623303",
+      "mediaType": "movie",
+      "title": "周恩来",
+      "awardYear": 1992,
+      "winner": "王铁成",
+      "award": "最佳男主角"
+    },
+    {
+      "id": "golden-rooster-1991-best-actress-24307017",
+      "mediaType": "movie",
+      "title": "假女真情",
+      "awardYear": 1991,
+      "winner": "奚美娟",
+      "award": "最佳女主角"
+    },
+    {
+      "id": "golden-rooster-1991-best-directorial-debut-81383794",
+      "mediaType": "movie",
+      "title": "老店",
+      "awardYear": 1991,
+      "winner": "古榕",
+      "award": "最佳导演处女作"
+    },
+    {
+      "id": "golden-rooster-1991-best-feature-film-71887531",
+      "mediaType": "movie",
+      "title": "焦裕禄",
+      "externalIds": {
+        "imdb": "tt0343979"
+      },
+      "awardYear": 1991,
+      "winner": "王冀邢",
+      "award": "最佳故事片"
+    },
+    {
+      "id": "golden-rooster-1991-best-actor-13495029",
+      "mediaType": "movie",
+      "title": "焦裕禄",
+      "externalIds": {
+        "imdb": "tt0343979"
+      },
+      "awardYear": 1991,
+      "winner": "李雪健",
+      "award": "最佳男主角"
+    },
+    {
+      "id": "golden-rooster-1990-best-supporting-actress-94934364",
+      "mediaType": "movie",
+      "title": "红楼梦",
+      "awardYear": 1990,
+      "winner": "林默予",
+      "award": "最佳女配角"
+    },
+    {
+      "id": "golden-rooster-1990-best-director-34385163",
+      "mediaType": "movie",
+      "title": "开国大典",
+      "externalIds": {
+        "imdb": "tt0343973"
+      },
+      "awardYear": 1990,
+      "winner": "李前宽、肖桂云",
+      "award": "最佳导演"
+    },
+    {
+      "id": "golden-rooster-1990-best-director-66876098",
+      "mediaType": "movie",
+      "title": "红楼梦",
+      "awardYear": 1990,
+      "winner": "谢铁骊、赵元",
+      "award": "最佳导演"
+    },
+    {
+      "id": "golden-rooster-1990-best-directorial-debut-86779759",
+      "mediaType": "movie",
+      "title": "童年在瑞金",
+      "awardYear": 1990,
+      "winner": "黄军",
+      "award": "最佳导演处女作"
+    },
+    {
+      "id": "golden-rooster-1990-best-feature-film-97677992",
+      "mediaType": "movie",
+      "title": "开国大典",
+      "externalIds": {
+        "imdb": "tt0343973"
+      },
+      "awardYear": 1990,
+      "winner": "李前宽、肖桂云",
+      "award": "最佳故事片"
+    },
+    {
+      "id": "golden-rooster-1990-best-actor-49379489",
+      "mediaType": "movie",
+      "title": "百色起义",
+      "awardYear": 1990,
+      "winner": "卢奇",
+      "award": "最佳男主角"
+    },
+    {
+      "id": "golden-rooster-1990-best-supporting-actor-71337828",
+      "mediaType": "movie",
+      "title": "开国大典",
+      "externalIds": {
+        "imdb": "tt0343973"
+      },
+      "awardYear": 1990,
+      "winner": "孙飞虎",
+      "award": "最佳男配角"
+    },
+    {
+      "id": "golden-rooster-1989-best-actress-24964964",
+      "mediaType": "movie",
+      "title": "欢乐英雄",
+      "awardYear": 1989,
+      "winner": "徐守莉",
+      "award": "最佳女主角"
+    },
+    {
+      "id": "golden-rooster-1989-best-actress-45496065",
+      "mediaType": "movie",
+      "title": "阴阳界",
+      "awardYear": 1989,
+      "winner": "徐守莉",
+      "award": "最佳女主角"
+    },
+    {
+      "id": "golden-rooster-1989-best-director-66721716",
+      "mediaType": "movie",
+      "title": "晚钟",
+      "awardYear": 1989,
+      "winner": "吴子牛",
+      "award": "最佳导演"
+    },
+    {
+      "id": "golden-rooster-1989-best-director-22534904",
+      "mediaType": "movie",
+      "title": "欢乐英雄",
+      "awardYear": 1989,
+      "winner": "吴子牛",
+      "award": "最佳导演"
+    },
+    {
+      "id": "golden-rooster-1989-best-director-91267019",
+      "mediaType": "movie",
+      "title": "阴阳界",
+      "awardYear": 1989,
+      "winner": "吴子牛",
+      "award": "最佳导演"
+    },
+    {
+      "id": "golden-rooster-1989-best-actor-09250150",
+      "mediaType": "movie",
+      "title": "大喘气",
+      "awardYear": 1989,
+      "winner": "谢园",
+      "award": "最佳男主角"
+    },
+    {
+      "id": "golden-rooster-1989-best-actor-32430194",
+      "mediaType": "movie",
+      "title": "晚钟",
+      "awardYear": 1989,
+      "winner": "陶泽如",
+      "award": "最佳男主角"
+    },
+    {
+      "id": "golden-rooster-1989-best-actor-96005409",
+      "mediaType": "movie",
+      "title": "棋王",
+      "awardYear": 1989,
+      "winner": "谢园",
+      "award": "最佳男主角"
+    },
+    {
+      "id": "golden-rooster-1989-best-actor-54736891",
+      "mediaType": "movie",
+      "title": "欢乐英雄",
+      "awardYear": 1989,
+      "winner": "陶泽如",
+      "award": "最佳男主角"
+    },
+    {
+      "id": "golden-rooster-1989-best-supporting-actor-74575485",
+      "mediaType": "movie",
+      "title": "晚钟",
+      "awardYear": 1989,
+      "winner": "孙敏",
+      "award": "最佳男配角"
+    },
+    {
+      "id": "golden-rooster-1988-best-actress-06783979",
+      "mediaType": "movie",
+      "title": "井",
+      "awardYear": 1988,
+      "winner": "潘虹",
+      "award": "最佳女主角"
+    },
+    {
+      "id": "golden-rooster-1988-best-supporting-actress-30285558",
+      "mediaType": "movie",
+      "title": "老井",
+      "externalIds": {
+        "tmdb": "36436",
+        "imdb": "tt0093392"
+      },
+      "awardYear": 1988,
+      "winner": "吕丽萍",
+      "award": "最佳女配角"
+    },
+    {
+      "id": "golden-rooster-1988-best-director-32885790",
+      "mediaType": "movie",
+      "title": "老井",
+      "externalIds": {
+        "tmdb": "36436",
+        "imdb": "tt0093392"
+      },
+      "awardYear": 1988,
+      "winner": "吴天明",
+      "award": "最佳导演"
+    },
+    {
+      "id": "golden-rooster-1988-best-feature-film-20114227",
+      "mediaType": "movie",
+      "title": "红高粱",
+      "externalIds": {
+        "tmdb": "25376",
+        "imdb": "tt0093206"
+      },
+      "awardYear": 1988,
+      "winner": "张艺谋",
+      "award": "最佳故事片"
+    },
+    {
+      "id": "golden-rooster-1988-best-feature-film-85096466",
+      "mediaType": "movie",
+      "title": "老井",
+      "externalIds": {
+        "tmdb": "36436",
+        "imdb": "tt0093392"
+      },
+      "awardYear": 1988,
+      "winner": "吴天明",
+      "award": "最佳故事片"
+    },
+    {
+      "id": "golden-rooster-1988-best-actor-39669338",
+      "mediaType": "movie",
+      "title": "老井",
+      "externalIds": {
+        "tmdb": "36436",
+        "imdb": "tt0093392"
+      },
+      "awardYear": 1988,
+      "winner": "张艺谋",
+      "award": "最佳男主角"
+    },
+    {
+      "id": "golden-rooster-1988-best-supporting-actor-52302370",
+      "mediaType": "movie",
+      "title": "人鬼情",
+      "awardYear": 1988,
+      "winner": "李保田",
+      "award": "最佳男配角"
+    },
+    {
+      "id": "golden-rooster-1987-best-actress-96380124",
+      "mediaType": "movie",
+      "title": "芙蓉镇",
+      "externalIds": {
+        "tmdb": "38993",
+        "imdb": "tt0087301"
+      },
+      "awardYear": 1987,
+      "winner": "刘晓庆",
+      "award": "最佳女主角"
+    },
+    {
+      "id": "golden-rooster-1987-best-supporting-actress-34129433",
+      "mediaType": "movie",
+      "title": "芙蓉镇",
+      "externalIds": {
+        "tmdb": "38993",
+        "imdb": "tt0087301"
+      },
+      "awardYear": 1987,
+      "winner": "徐宁",
+      "award": "最佳女配角"
+    },
+    {
+      "id": "golden-rooster-1987-best-director-71723321",
+      "mediaType": "movie",
+      "title": "孙中山",
+      "awardYear": 1987,
+      "winner": "丁荫楠",
+      "award": "最佳导演"
+    },
+    {
+      "id": "golden-rooster-1987-best-feature-film-66264299",
+      "mediaType": "movie",
+      "title": "孙中山",
+      "awardYear": 1987,
+      "winner": "丁荫楠",
+      "award": "最佳故事片"
+    },
+    {
+      "id": "golden-rooster-1987-best-feature-film-46813133",
+      "mediaType": "movie",
+      "title": "芙蓉镇",
+      "externalIds": {
+        "tmdb": "38993",
+        "imdb": "tt0087301"
+      },
+      "awardYear": 1987,
+      "winner": "谢晋",
+      "award": "最佳故事片"
+    },
+    {
+      "id": "golden-rooster-1987-best-actor-35645258",
+      "mediaType": "movie",
+      "title": "孙中山",
+      "awardYear": 1987,
+      "winner": "刘文治",
+      "award": "最佳男主角"
+    },
+    {
+      "id": "golden-rooster-1986-best-actress-19640815",
+      "mediaType": "movie",
+      "title": "野山",
+      "externalIds": {
+        "imdb": "tt0359839"
+      },
+      "awardYear": 1986,
+      "winner": "岳红",
+      "award": "最佳女主角"
+    },
+    {
+      "id": "golden-rooster-1986-best-supporting-actress-05323667",
+      "mediaType": "movie",
+      "title": "日出",
+      "awardYear": 1986,
+      "winner": "王馥荔",
+      "award": "最佳女配角"
+    },
+    {
+      "id": "golden-rooster-1986-best-director-68157976",
+      "mediaType": "movie",
+      "title": "野山",
+      "externalIds": {
+        "imdb": "tt0359839"
+      },
+      "awardYear": 1986,
+      "winner": "颜学恕",
+      "award": "最佳导演"
+    },
+    {
+      "id": "golden-rooster-1986-best-feature-film-04865147",
+      "mediaType": "movie",
+      "title": "野山",
+      "externalIds": {
+        "imdb": "tt0359839"
+      },
+      "awardYear": 1986,
+      "winner": "颜学恕",
+      "award": "最佳故事片"
+    },
+    {
+      "id": "golden-rooster-1986-best-actor-20022733",
+      "mediaType": "movie",
+      "title": "黑炮事件",
+      "externalIds": {
+        "tmdb": "42129",
+        "imdb": "tt0091160"
+      },
+      "awardYear": 1986,
+      "winner": "刘子枫",
+      "award": "最佳男主角"
+    },
+    {
+      "id": "golden-rooster-1986-best-supporting-actor-11220225",
+      "mediaType": "movie",
+      "title": "野山",
+      "externalIds": {
+        "imdb": "tt0359839"
+      },
+      "awardYear": 1986,
+      "winner": "辛明",
+      "award": "最佳男配角"
+    },
+    {
+      "id": "golden-rooster-1985-best-actress-23240175",
+      "mediaType": "movie",
+      "title": "黄山来的姑娘",
+      "awardYear": 1985,
+      "winner": "李羚",
+      "award": "最佳女主角"
+    },
+    {
+      "id": "golden-rooster-1985-best-supporting-actress-89367672",
+      "mediaType": "movie",
+      "title": "谭嗣同",
+      "awardYear": 1985,
+      "winner": "王玉梅",
+      "award": "最佳女配角"
+    },
+    {
+      "id": "golden-rooster-1985-best-supporting-actress-18342895",
+      "mediaType": "movie",
+      "title": "黄山来的姑娘",
+      "awardYear": 1985,
+      "winner": "丁一",
+      "award": "最佳女配角"
+    },
+    {
+      "id": "golden-rooster-1985-best-director-27625068",
+      "mediaType": "movie",
+      "title": "边城",
+      "externalIds": {
+        "imdb": "tt0086958"
+      },
+      "awardYear": 1985,
+      "winner": "凌子风",
+      "award": "最佳导演"
+    },
+    {
+      "id": "golden-rooster-1985-best-feature-film-11418363",
+      "mediaType": "movie",
+      "title": "红衣少女",
+      "awardYear": 1985,
+      "winner": "陆小雅",
+      "award": "最佳故事片"
+    },
+    {
+      "id": "golden-rooster-1985-best-actor-09507253",
+      "mediaType": "movie",
+      "title": "高山下的花环",
+      "externalIds": {
+        "imdb": "tt0087314"
+      },
+      "awardYear": 1985,
+      "winner": "吕晓禾",
+      "award": "最佳男主角"
+    },
+    {
+      "id": "golden-rooster-1985-best-supporting-actor-78491363",
+      "mediaType": "movie",
+      "title": "高山下的花环",
+      "externalIds": {
+        "imdb": "tt0087314"
+      },
+      "awardYear": 1985,
+      "winner": "何伟",
+      "award": "最佳男配角"
+    },
+    {
+      "id": "golden-rooster-1984-best-actress-56444990",
+      "mediaType": "movie",
+      "title": "大桥下面",
+      "awardYear": 1984,
+      "winner": "龚雪",
+      "award": "最佳女主角"
+    },
+    {
+      "id": "golden-rooster-1984-best-supporting-actress-20888136",
+      "mediaType": "movie",
+      "title": "十六号病房",
+      "awardYear": 1984,
+      "winner": "宋晓英",
+      "award": "最佳女配角"
+    },
+    {
+      "id": "golden-rooster-1984-best-director-88906116",
+      "mediaType": "movie",
+      "title": "廖仲恺",
+      "awardYear": 1984,
+      "winner": "汤晓丹",
+      "award": "最佳导演"
+    },
+    {
+      "id": "golden-rooster-1984-best-feature-film-14014985",
+      "mediaType": "movie",
+      "title": "乡音",
+      "awardYear": 1984,
+      "winner": "胡炳榴",
+      "award": "最佳故事片"
+    },
+    {
+      "id": "golden-rooster-1984-best-actor-98794387",
+      "mediaType": "movie",
+      "title": "廖仲恺",
+      "awardYear": 1984,
+      "winner": "董行佶",
+      "award": "最佳男主角"
+    },
+    {
+      "id": "golden-rooster-1984-best-actor-02185732",
+      "mediaType": "movie",
+      "title": "血，总是热的",
+      "awardYear": 1984,
+      "winner": "杨在葆",
+      "award": "最佳男主角"
+    },
+    {
+      "id": "golden-rooster-1984-best-supporting-actor-18536338",
+      "mediaType": "movie",
+      "title": "秋瑾",
+      "awardYear": 1984,
+      "winner": "于是之",
+      "award": "最佳男配角"
+    },
+    {
+      "id": "golden-rooster-1983-best-actress-76367295",
+      "mediaType": "movie",
+      "title": "人到中年",
+      "awardYear": 1983,
+      "winner": "潘虹",
+      "award": "最佳女主角"
+    },
+    {
+      "id": "golden-rooster-1983-best-actress-25377779",
+      "mediaType": "movie",
+      "title": "骆驼祥子",
+      "externalIds": {
+        "tmdb": "57020",
+        "imdb": "tt0084249"
+      },
+      "awardYear": 1983,
+      "winner": "斯琴高娃",
+      "award": "最佳女主角"
+    },
+    {
+      "id": "golden-rooster-1983-best-supporting-actress-82182846",
+      "mediaType": "movie",
+      "title": "城南旧事",
+      "externalIds": {
+        "tmdb": "198222",
+        "imdb": "tt0085334"
+      },
+      "awardYear": 1983,
+      "winner": "郑振瑶",
+      "award": "最佳女配角"
+    },
+    {
+      "id": "golden-rooster-1983-best-director-57348977",
+      "mediaType": "movie",
+      "title": "城南旧事",
+      "externalIds": {
+        "tmdb": "198222",
+        "imdb": "tt0085334"
+      },
+      "awardYear": 1983,
+      "winner": "吴贻弓",
+      "award": "最佳导演"
+    },
+    {
+      "id": "golden-rooster-1983-best-feature-film-58177441",
+      "mediaType": "movie",
+      "title": "人到中年",
+      "awardYear": 1983,
+      "winner": "王启民、孙羽",
+      "award": "最佳故事片"
+    },
+    {
+      "id": "golden-rooster-1983-best-feature-film-22266189",
+      "mediaType": "movie",
+      "title": "骆驼祥子",
+      "externalIds": {
+        "tmdb": "57020",
+        "imdb": "tt0084249"
+      },
+      "awardYear": 1983,
+      "winner": "凌子风",
+      "award": "最佳故事片"
+    },
+    {
+      "id": "golden-rooster-1983-best-supporting-actor-82581229",
+      "mediaType": "movie",
+      "title": "牧马人",
+      "externalIds": {
+        "imdb": "tt0084360"
+      },
+      "awardYear": 1983,
+      "winner": "牛犇",
+      "award": "最佳男配角"
+    },
+    {
+      "id": "golden-rooster-1982-best-actress-88858887",
+      "mediaType": "movie",
+      "title": "许茂和他的女儿们",
+      "awardYear": 1982,
+      "winner": "李秀明",
+      "award": "最佳女主角"
+    },
+    {
+      "id": "golden-rooster-1982-best-supporting-actress-95607131",
+      "mediaType": "movie",
+      "title": "被爱情遗忘的角落",
+      "awardYear": 1982,
+      "winner": "贺小书",
+      "award": "最佳女配角"
+    },
+    {
+      "id": "golden-rooster-1982-best-director-80585899",
+      "mediaType": "movie",
+      "title": "西安事变",
+      "externalIds": {
+        "imdb": "tt0084908"
+      },
+      "awardYear": 1982,
+      "winner": "成荫",
+      "award": "最佳导演"
+    },
+    {
+      "id": "golden-rooster-1982-best-feature-film-85873272",
+      "mediaType": "movie",
+      "title": "邻居",
+      "awardYear": 1982,
+      "winner": "郑洞天、徐谷明",
+      "award": "最佳故事片"
+    },
+    {
+      "id": "golden-rooster-1982-best-actor-06868012",
+      "mediaType": "movie",
+      "title": "月亮湾的笑声",
+      "awardYear": 1982,
+      "winner": "张雁",
+      "award": "最佳男主角"
+    },
+    {
+      "id": "golden-rooster-1982-best-supporting-actor-44917066",
+      "mediaType": "movie",
+      "title": "西安事变",
+      "externalIds": {
+        "imdb": "tt0084908"
+      },
+      "awardYear": 1982,
+      "winner": "孙飞虎",
+      "award": "最佳男配角"
+    },
+    {
+      "id": "golden-rooster-1981-best-actress-63683825",
+      "mediaType": "movie",
+      "title": "巴山夜雨",
+      "externalIds": {
+        "imdb": "tt0080404"
+      },
+      "awardYear": 1981,
+      "winner": "张瑜",
+      "award": "最佳女主角"
+    },
+    {
+      "id": "golden-rooster-1981-best-actress-73153368",
+      "mediaType": "movie",
+      "title": "庐山恋",
+      "externalIds": {
+        "imdb": "tt0081080"
+      },
+      "awardYear": 1981,
+      "winner": "张瑜",
+      "award": "最佳女主角"
+    },
+    {
+      "id": "golden-rooster-1981-best-director-04265928",
+      "mediaType": "movie",
+      "title": "天云山传奇",
+      "externalIds": {
+        "imdb": "tt0083199"
+      },
+      "awardYear": 1981,
+      "winner": "谢晋",
+      "award": "最佳导演"
+    },
+    {
+      "id": "golden-rooster-1981-best-feature-film-33721692",
+      "mediaType": "movie",
+      "title": "天云山传奇",
+      "externalIds": {
+        "imdb": "tt0083199"
+      },
+      "awardYear": 1981,
+      "winner": "谢晋",
+      "award": "最佳故事片"
+    },
+    {
+      "id": "golden-rooster-1981-best-feature-film-69945030",
+      "mediaType": "movie",
+      "title": "巴山夜雨",
+      "externalIds": {
+        "imdb": "tt0080404"
+      },
+      "awardYear": 1981,
+      "winner": "吴永刚、吴贻弓",
+      "award": "最佳故事片"
+    }
+  ]
+}

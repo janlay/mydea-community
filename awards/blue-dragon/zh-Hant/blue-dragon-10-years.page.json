@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "title": "青龍電影獎十年",
+  "description": "青龍電影獎最近十年（2016–2025）獲獎名單。",
+  "tags": [
+    "award",
+    "decade"
+  ],
+  "icon": "ticket",
+  "collections": [
+    {
+      "title": "青龍電影獎 — 2025",
+      "description": "2025年韓國青龍電影獎10個主要電影獎項獲獎作品。",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "carousel",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/zh-Hant/blue-dragon.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ],
+      "filters": [
+        {
+          "id": "blue-dragon-2025-year",
+          "targetType": "movie",
+          "field": "awardYear",
+          "fieldType": "number",
+          "operator": "equals",
+          "value": "2025",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "青龍電影獎 2016–2024",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/zh-Hant/blue-dragon.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ],
+      "filters": [
+        {
+          "id": "older-years-from",
+          "targetType": "movie",
+          "field": "awardYear",
+          "fieldType": "number",
+          "operator": "greaterThan",
+          "value": "2015",
+          "isNegated": false
+        },
+        {
+          "id": "older-years-to",
+          "targetType": "movie",
+          "field": "awardYear",
+          "fieldType": "number",
+          "operator": "lessThan",
+          "value": "2025",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all",
+      "grouping": {
+        "field": "awardYear",
+        "buckets": "2024,2023,,2016",
+        "label": "{start}"
+      }
+    }
+  ]
+}

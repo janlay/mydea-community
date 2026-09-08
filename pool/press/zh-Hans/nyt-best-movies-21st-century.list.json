@@ -1,0 +1,1315 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-26T13:23:00Z",
+  "title": "纽约时报 — 21世纪100佳影片",
+  "description": "《纽约时报》“21世纪100佳影片”完整榜单，保留原榜单名次及榜单标示年份。",
+  "tags": [
+    "press",
+    "movie",
+    "nytimes"
+  ],
+  "items": [
+    {
+      "id": "nyt-best-movie-001",
+      "mediaType": "movie",
+      "title": "寄生虫",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6751668"
+      },
+      "rank": 1,
+      "ranking": "#1",
+      "releaseYear": 2019,
+      "englishTitle": "Parasite"
+    },
+    {
+      "id": "nyt-best-movie-002",
+      "mediaType": "movie",
+      "title": "穆赫兰道",
+      "releaseDate": "2001",
+      "externalIds": {
+        "imdb": "tt0166924"
+      },
+      "rank": 2,
+      "ranking": "#2",
+      "releaseYear": 2001,
+      "englishTitle": "Mulholland Drive"
+    },
+    {
+      "id": "nyt-best-movie-003",
+      "mediaType": "movie",
+      "title": "血色将至",
+      "releaseDate": "2007",
+      "externalIds": {
+        "imdb": "tt0469494"
+      },
+      "rank": 3,
+      "ranking": "#3",
+      "releaseYear": 2007,
+      "englishTitle": "There Will Be Blood"
+    },
+    {
+      "id": "nyt-best-movie-004",
+      "mediaType": "movie",
+      "title": "花样年华",
+      "releaseDate": "2001",
+      "externalIds": {
+        "imdb": "tt0118694"
+      },
+      "rank": 4,
+      "ranking": "#4",
+      "releaseYear": 2001,
+      "englishTitle": "In the Mood for Love"
+    },
+    {
+      "id": "nyt-best-movie-005",
+      "mediaType": "movie",
+      "title": "月光男孩",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4975722"
+      },
+      "rank": 5,
+      "ranking": "#5",
+      "releaseYear": 2016,
+      "englishTitle": "Moonlight"
+    },
+    {
+      "id": "nyt-best-movie-006",
+      "mediaType": "movie",
+      "title": "老无所依",
+      "releaseDate": "2007",
+      "externalIds": {
+        "imdb": "tt0477348"
+      },
+      "rank": 6,
+      "ranking": "#6",
+      "releaseYear": 2007,
+      "englishTitle": "No Country for Old Men"
+    },
+    {
+      "id": "nyt-best-movie-007",
+      "mediaType": "movie",
+      "title": "暖暖内含光",
+      "releaseDate": "2004",
+      "externalIds": {
+        "imdb": "tt0338013"
+      },
+      "rank": 7,
+      "ranking": "#7",
+      "releaseYear": 2004,
+      "englishTitle": "Eternal Sunshine of the Spotless Mind"
+    },
+    {
+      "id": "nyt-best-movie-008",
+      "mediaType": "movie",
+      "title": "逃出绝命镇",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5052448"
+      },
+      "rank": 8,
+      "ranking": "#8",
+      "releaseYear": 2017,
+      "englishTitle": "Get Out"
+    },
+    {
+      "id": "nyt-best-movie-009",
+      "mediaType": "movie",
+      "title": "千与千寻",
+      "releaseDate": "2002",
+      "externalIds": {
+        "imdb": "tt0245429"
+      },
+      "rank": 9,
+      "ranking": "#9",
+      "releaseYear": 2002,
+      "englishTitle": "Spirited Away"
+    },
+    {
+      "id": "nyt-best-movie-010",
+      "mediaType": "movie",
+      "title": "社交网络",
+      "releaseDate": "2010",
+      "externalIds": {
+        "imdb": "tt1285016"
+      },
+      "rank": 10,
+      "ranking": "#10",
+      "releaseYear": 2010,
+      "englishTitle": "The Social Network"
+    },
+    {
+      "id": "nyt-best-movie-011",
+      "mediaType": "movie",
+      "title": "疯狂的麦克斯4：狂暴之路",
+      "releaseDate": "2015",
+      "externalIds": {
+        "imdb": "tt1392190"
+      },
+      "rank": 11,
+      "ranking": "#11",
+      "releaseYear": 2015,
+      "englishTitle": "Mad Max: Fury Road"
+    },
+    {
+      "id": "nyt-best-movie-012",
+      "mediaType": "movie",
+      "title": "利益区域",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt7160372"
+      },
+      "rank": 12,
+      "ranking": "#12",
+      "releaseYear": 2023,
+      "englishTitle": "The Zone of Interest"
+    },
+    {
+      "id": "nyt-best-movie-013",
+      "mediaType": "movie",
+      "title": "人类之子",
+      "releaseDate": "2006",
+      "externalIds": {
+        "imdb": "tt0206634"
+      },
+      "rank": 13,
+      "ranking": "#13",
+      "releaseYear": 2006,
+      "englishTitle": "Children of Men"
+    },
+    {
+      "id": "nyt-best-movie-014",
+      "mediaType": "movie",
+      "title": "无耻混蛋",
+      "releaseDate": "2009",
+      "externalIds": {
+        "imdb": "tt0361748"
+      },
+      "rank": 14,
+      "ranking": "#14",
+      "releaseYear": 2009,
+      "englishTitle": "Inglourious Basterds"
+    },
+    {
+      "id": "nyt-best-movie-015",
+      "mediaType": "movie",
+      "title": "上帝之城",
+      "releaseDate": "2003",
+      "externalIds": {
+        "imdb": "tt0317248"
+      },
+      "rank": 15,
+      "ranking": "#15",
+      "releaseYear": 2003,
+      "englishTitle": "City of God"
+    },
+    {
+      "id": "nyt-best-movie-016",
+      "mediaType": "movie",
+      "title": "卧虎藏龙",
+      "releaseDate": "2000",
+      "externalIds": {
+        "imdb": "tt0190332"
+      },
+      "rank": 16,
+      "ranking": "#16",
+      "releaseYear": 2000,
+      "englishTitle": "Crouching Tiger, Hidden Dragon"
+    },
+    {
+      "id": "nyt-best-movie-017",
+      "mediaType": "movie",
+      "title": "断背山",
+      "releaseDate": "2005",
+      "externalIds": {
+        "imdb": "tt0388795"
+      },
+      "rank": 17,
+      "ranking": "#17",
+      "releaseYear": 2005,
+      "englishTitle": "Brokeback Mountain"
+    },
+    {
+      "id": "nyt-best-movie-018",
+      "mediaType": "movie",
+      "title": "你妈妈也一样",
+      "releaseDate": "2002",
+      "externalIds": {
+        "imdb": "tt0245574"
+      },
+      "rank": 18,
+      "ranking": "#18",
+      "releaseYear": 2002,
+      "englishTitle": "Y tu mamá también"
+    },
+    {
+      "id": "nyt-best-movie-019",
+      "mediaType": "movie",
+      "title": "十二宫",
+      "releaseDate": "2007",
+      "externalIds": {
+        "imdb": "tt0443706"
+      },
+      "rank": 19,
+      "ranking": "#19",
+      "releaseYear": 2007,
+      "englishTitle": "Zodiac"
+    },
+    {
+      "id": "nyt-best-movie-020",
+      "mediaType": "movie",
+      "title": "华尔街之狼",
+      "releaseDate": "2013",
+      "externalIds": {
+        "imdb": "tt0993846"
+      },
+      "rank": 20,
+      "ranking": "#20",
+      "releaseYear": 2013,
+      "englishTitle": "The Wolf of Wall Street"
+    },
+    {
+      "id": "nyt-best-movie-021",
+      "mediaType": "movie",
+      "title": "天才一族",
+      "releaseDate": "2001",
+      "externalIds": {
+        "imdb": "tt0265666"
+      },
+      "rank": 21,
+      "ranking": "#21",
+      "releaseYear": 2001,
+      "englishTitle": "The Royal Tenenbaums"
+    },
+    {
+      "id": "nyt-best-movie-022",
+      "mediaType": "movie",
+      "title": "布达佩斯大饭店",
+      "releaseDate": "2014",
+      "externalIds": {
+        "imdb": "tt2278388"
+      },
+      "rank": 22,
+      "ranking": "#22",
+      "releaseYear": 2014,
+      "englishTitle": "The Grand Budapest Hotel"
+    },
+    {
+      "id": "nyt-best-movie-023",
+      "mediaType": "movie",
+      "title": "少年时代",
+      "releaseDate": "2014",
+      "externalIds": {
+        "imdb": "tt1065073"
+      },
+      "rank": 23,
+      "ranking": "#23",
+      "releaseYear": 2014,
+      "englishTitle": "Boyhood"
+    },
+    {
+      "id": "nyt-best-movie-024",
+      "mediaType": "movie",
+      "title": "她",
+      "releaseDate": "2013",
+      "externalIds": {
+        "imdb": "tt1798709"
+      },
+      "rank": 24,
+      "ranking": "#24",
+      "releaseYear": 2013,
+      "englishTitle": "Her"
+    },
+    {
+      "id": "nyt-best-movie-025",
+      "mediaType": "movie",
+      "title": "魅影缝匠",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5776858"
+      },
+      "rank": 25,
+      "ranking": "#25",
+      "releaseYear": 2017,
+      "englishTitle": "Phantom Thread"
+    },
+    {
+      "id": "nyt-best-movie-026",
+      "mediaType": "movie",
+      "title": "坠落的审判",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt17009710"
+      },
+      "rank": 26,
+      "ranking": "#26",
+      "releaseYear": 2023,
+      "englishTitle": "Anatomy of a Fall"
+    },
+    {
+      "id": "nyt-best-movie-027",
+      "mediaType": "movie",
+      "title": "改编剧本",
+      "releaseDate": "2002",
+      "externalIds": {
+        "imdb": "tt0268126"
+      },
+      "rank": 27,
+      "ranking": "#27",
+      "releaseYear": 2002,
+      "englishTitle": "Adaptation"
+    },
+    {
+      "id": "nyt-best-movie-028",
+      "mediaType": "movie",
+      "title": "蝙蝠侠：黑暗骑士",
+      "releaseDate": "2008",
+      "externalIds": {
+        "imdb": "tt0468569"
+      },
+      "rank": 28,
+      "ranking": "#28",
+      "releaseYear": 2008,
+      "englishTitle": "The Dark Knight"
+    },
+    {
+      "id": "nyt-best-movie-029",
+      "mediaType": "movie",
+      "title": "降临",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt2543164"
+      },
+      "rank": 29,
+      "ranking": "#29",
+      "releaseYear": 2016,
+      "englishTitle": "Arrival"
+    },
+    {
+      "id": "nyt-best-movie-030",
+      "mediaType": "movie",
+      "title": "迷失东京",
+      "releaseDate": "2003",
+      "externalIds": {
+        "imdb": "tt0335266"
+      },
+      "rank": 30,
+      "ranking": "#30",
+      "releaseYear": 2003,
+      "englishTitle": "Lost in Translation"
+    },
+    {
+      "id": "nyt-best-movie-031",
+      "mediaType": "movie",
+      "title": "无间行者",
+      "releaseDate": "2006",
+      "externalIds": {
+        "imdb": "tt0407887"
+      },
+      "rank": 31,
+      "ranking": "#31",
+      "releaseYear": 2006,
+      "englishTitle": "The Departed"
+    },
+    {
+      "id": "nyt-best-movie-032",
+      "mediaType": "movie",
+      "title": "伴娘",
+      "releaseDate": "2011",
+      "externalIds": {
+        "imdb": "tt1478338"
+      },
+      "rank": 32,
+      "ranking": "#32",
+      "releaseYear": 2011,
+      "englishTitle": "Bridesmaids"
+    },
+    {
+      "id": "nyt-best-movie-033",
+      "mediaType": "movie",
+      "title": "一次别离",
+      "releaseDate": "2011",
+      "externalIds": {
+        "imdb": "tt1832382"
+      },
+      "rank": 33,
+      "ranking": "#33",
+      "releaseYear": 2011,
+      "englishTitle": "A Separation"
+    },
+    {
+      "id": "nyt-best-movie-034",
+      "mediaType": "movie",
+      "title": "机器人总动员",
+      "releaseDate": "2008",
+      "externalIds": {
+        "imdb": "tt0910970"
+      },
+      "rank": 34,
+      "ranking": "#34",
+      "releaseYear": 2008,
+      "englishTitle": "WALL-E"
+    },
+    {
+      "id": "nyt-best-movie-035",
+      "mediaType": "movie",
+      "title": "预言者",
+      "releaseDate": "2010",
+      "externalIds": {
+        "imdb": "tt1235166"
+      },
+      "rank": 35,
+      "ranking": "#35",
+      "releaseYear": 2010,
+      "englishTitle": "A Prophet"
+    },
+    {
+      "id": "nyt-best-movie-036",
+      "mediaType": "movie",
+      "title": "严肃的男人",
+      "releaseDate": "2009",
+      "externalIds": {
+        "imdb": "tt1019452"
+      },
+      "rank": 36,
+      "ranking": "#36",
+      "releaseYear": 2009,
+      "englishTitle": "A Serious Man"
+    },
+    {
+      "id": "nyt-best-movie-037",
+      "mediaType": "movie",
+      "title": "请以你的名字呼唤我",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5726616"
+      },
+      "rank": 37,
+      "ranking": "#37",
+      "releaseYear": 2017,
+      "englishTitle": "Call Me by Your Name"
+    },
+    {
+      "id": "nyt-best-movie-038",
+      "mediaType": "movie",
+      "title": "燃烧女子的肖像",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt8613070"
+      },
+      "rank": 38,
+      "ranking": "#38",
+      "releaseYear": 2019,
+      "englishTitle": "Portrait of a Lady on Fire"
+    },
+    {
+      "id": "nyt-best-movie-039",
+      "mediaType": "movie",
+      "title": "伯德小姐",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt4925292"
+      },
+      "rank": 39,
+      "ranking": "#39",
+      "releaseYear": 2017,
+      "englishTitle": "Lady Bird"
+    },
+    {
+      "id": "nyt-best-movie-040",
+      "mediaType": "movie",
+      "title": "一一",
+      "releaseDate": "2000",
+      "externalIds": {
+        "imdb": "tt0244316"
+      },
+      "rank": 40,
+      "ranking": "#40",
+      "releaseYear": 2000,
+      "englishTitle": "Yi Yi"
+    },
+    {
+      "id": "nyt-best-movie-041",
+      "mediaType": "movie",
+      "title": "天使爱美丽",
+      "releaseDate": "2001",
+      "externalIds": {
+        "imdb": "tt0211915"
+      },
+      "rank": 41,
+      "ranking": "#41",
+      "releaseYear": 2001,
+      "englishTitle": "Amélie"
+    },
+    {
+      "id": "nyt-best-movie-042",
+      "mediaType": "movie",
+      "title": "大师",
+      "releaseDate": "2012",
+      "externalIds": {
+        "imdb": "tt1560747"
+      },
+      "rank": 42,
+      "ranking": "#42",
+      "releaseYear": 2012,
+      "englishTitle": "The Master"
+    },
+    {
+      "id": "nyt-best-movie-043",
+      "mediaType": "movie",
+      "title": "老男孩",
+      "releaseDate": "2005",
+      "externalIds": {
+        "imdb": "tt0364569"
+      },
+      "rank": 43,
+      "ranking": "#43",
+      "releaseYear": 2005,
+      "englishTitle": "Oldboy"
+    },
+    {
+      "id": "nyt-best-movie-044",
+      "mediaType": "movie",
+      "title": "好莱坞往事",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt7131622"
+      },
+      "rank": 44,
+      "ranking": "#44",
+      "releaseYear": 2019,
+      "englishTitle": "Once Upon a Time... in Hollywood"
+    },
+    {
+      "id": "nyt-best-movie-045",
+      "mediaType": "movie",
+      "title": "点球成金",
+      "releaseDate": "2011",
+      "externalIds": {
+        "imdb": "tt1210166"
+      },
+      "rank": 45,
+      "ranking": "#45",
+      "releaseYear": 2011,
+      "englishTitle": "Moneyball"
+    },
+    {
+      "id": "nyt-best-movie-046",
+      "mediaType": "movie",
+      "title": "罗马",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt6155172"
+      },
+      "rank": 46,
+      "ranking": "#46",
+      "releaseYear": 2018,
+      "englishTitle": "Roma"
+    },
+    {
+      "id": "nyt-best-movie-047",
+      "mediaType": "movie",
+      "title": "几近成名",
+      "releaseDate": "2000",
+      "externalIds": {
+        "imdb": "tt0181875"
+      },
+      "rank": 47,
+      "ranking": "#47",
+      "releaseYear": 2000,
+      "englishTitle": "Almost Famous"
+    },
+    {
+      "id": "nyt-best-movie-048",
+      "mediaType": "movie",
+      "title": "窃听风暴",
+      "releaseDate": "2007",
+      "externalIds": {
+        "imdb": "tt0405094"
+      },
+      "rank": 48,
+      "ranking": "#48",
+      "releaseYear": 2007,
+      "englishTitle": "The Lives of Others"
+    },
+    {
+      "id": "nyt-best-movie-049",
+      "mediaType": "movie",
+      "title": "爱在日落黄昏时",
+      "releaseDate": "2004",
+      "externalIds": {
+        "imdb": "tt0381681"
+      },
+      "rank": 49,
+      "ranking": "#49",
+      "releaseYear": 2004,
+      "englishTitle": "Before Sunset"
+    },
+    {
+      "id": "nyt-best-movie-050",
+      "mediaType": "movie",
+      "title": "飞屋环游记",
+      "releaseDate": "2009",
+      "externalIds": {
+        "imdb": "tt1049413"
+      },
+      "rank": 50,
+      "ranking": "#50",
+      "releaseYear": 2009,
+      "englishTitle": "Up"
+    },
+    {
+      "id": "nyt-best-movie-051",
+      "mediaType": "movie",
+      "title": "为奴十二年",
+      "releaseDate": "2013",
+      "externalIds": {
+        "imdb": "tt2024544"
+      },
+      "rank": 51,
+      "ranking": "#51",
+      "releaseYear": 2013,
+      "englishTitle": "12 Years a Slave"
+    },
+    {
+      "id": "nyt-best-movie-052",
+      "mediaType": "movie",
+      "title": "宠儿",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt5083738"
+      },
+      "rank": 52,
+      "ranking": "#52",
+      "releaseYear": 2018,
+      "englishTitle": "The Favourite"
+    },
+    {
+      "id": "nyt-best-movie-053",
+      "mediaType": "movie",
+      "title": "波拉特",
+      "releaseDate": "2006",
+      "externalIds": {
+        "imdb": "tt0443453"
+      },
+      "rank": 53,
+      "ranking": "#53",
+      "releaseYear": 2006,
+      "englishTitle": "Borat"
+    },
+    {
+      "id": "nyt-best-movie-054",
+      "mediaType": "movie",
+      "title": "潘神的迷宫",
+      "releaseDate": "2006",
+      "externalIds": {
+        "imdb": "tt0457430"
+      },
+      "rank": 54,
+      "ranking": "#54",
+      "releaseYear": 2006,
+      "englishTitle": "Pan's Labyrinth"
+    },
+    {
+      "id": "nyt-best-movie-055",
+      "mediaType": "movie",
+      "title": "盗梦空间",
+      "releaseDate": "2010",
+      "externalIds": {
+        "imdb": "tt1375666"
+      },
+      "rank": 55,
+      "ranking": "#55",
+      "releaseYear": 2010,
+      "englishTitle": "Inception"
+    },
+    {
+      "id": "nyt-best-movie-056",
+      "mediaType": "movie",
+      "title": "私恋失调",
+      "releaseDate": "2002",
+      "externalIds": {
+        "imdb": "tt0272338"
+      },
+      "rank": 56,
+      "ranking": "#56",
+      "releaseYear": 2002,
+      "englishTitle": "Punch-Drunk Love"
+    },
+    {
+      "id": "nyt-best-movie-057",
+      "mediaType": "movie",
+      "title": "人狗对对碰",
+      "releaseDate": "2000",
+      "externalIds": {
+        "imdb": "tt0218839"
+      },
+      "rank": 57,
+      "ranking": "#57",
+      "releaseYear": 2000,
+      "englishTitle": "Best in Show"
+    },
+    {
+      "id": "nyt-best-movie-058",
+      "mediaType": "movie",
+      "title": "原钻",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt5727208"
+      },
+      "rank": 58,
+      "ranking": "#58",
+      "releaseYear": 2019,
+      "englishTitle": "Uncut Gems"
+    },
+    {
+      "id": "nyt-best-movie-059",
+      "mediaType": "movie",
+      "title": "托尼·厄德曼",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4048272"
+      },
+      "rank": 59,
+      "ranking": "#59",
+      "releaseYear": 2016,
+      "englishTitle": "Toni Erdmann"
+    },
+    {
+      "id": "nyt-best-movie-060",
+      "mediaType": "movie",
+      "title": "爆裂鼓手",
+      "releaseDate": "2014",
+      "externalIds": {
+        "imdb": "tt2582802"
+      },
+      "rank": 60,
+      "ranking": "#60",
+      "releaseYear": 2014,
+      "englishTitle": "Whiplash"
+    },
+    {
+      "id": "nyt-best-movie-061",
+      "mediaType": "movie",
+      "title": "杀死比尔",
+      "releaseDate": "2003",
+      "externalIds": {
+        "imdb": "tt0266697"
+      },
+      "rank": 61,
+      "ranking": "#61",
+      "releaseYear": 2003,
+      "englishTitle": "Kill Bill: Vol. 1"
+    },
+    {
+      "id": "nyt-best-movie-062",
+      "mediaType": "movie",
+      "title": "记忆碎片",
+      "releaseDate": "2001",
+      "externalIds": {
+        "imdb": "tt0209144"
+      },
+      "rank": 62,
+      "ranking": "#62",
+      "releaseYear": 2001,
+      "englishTitle": "Memento"
+    },
+    {
+      "id": "nyt-best-movie-063",
+      "mediaType": "movie",
+      "title": "阳光小美女",
+      "releaseDate": "2006",
+      "externalIds": {
+        "imdb": "tt0449059"
+      },
+      "rank": 63,
+      "ranking": "#63",
+      "releaseYear": 2006,
+      "englishTitle": "Little Miss Sunshine"
+    },
+    {
+      "id": "nyt-best-movie-064",
+      "mediaType": "movie",
+      "title": "消失的爱人",
+      "releaseDate": "2014",
+      "externalIds": {
+        "imdb": "tt2267998"
+      },
+      "rank": 64,
+      "ranking": "#64",
+      "releaseYear": 2014,
+      "englishTitle": "Gone Girl"
+    },
+    {
+      "id": "nyt-best-movie-065",
+      "mediaType": "movie",
+      "title": "奥本海默",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt15398776"
+      },
+      "rank": 65,
+      "ranking": "#65",
+      "releaseYear": 2023,
+      "englishTitle": "Oppenheimer"
+    },
+    {
+      "id": "nyt-best-movie-066",
+      "mediaType": "movie",
+      "title": "聚焦",
+      "releaseDate": "2015",
+      "externalIds": {
+        "imdb": "tt1895587"
+      },
+      "rank": 66,
+      "ranking": "#66",
+      "releaseYear": 2015,
+      "englishTitle": "Spotlight"
+    },
+    {
+      "id": "nyt-best-movie-067",
+      "mediaType": "movie",
+      "title": "塔尔",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt14444726"
+      },
+      "rank": 67,
+      "ranking": "#67",
+      "releaseYear": 2022,
+      "englishTitle": "Tár"
+    },
+    {
+      "id": "nyt-best-movie-068",
+      "mediaType": "movie",
+      "title": "拆弹部队",
+      "releaseDate": "2009",
+      "externalIds": {
+        "imdb": "tt0887912"
+      },
+      "rank": 68,
+      "ranking": "#68",
+      "releaseYear": 2009,
+      "englishTitle": "The Hurt Locker"
+    },
+    {
+      "id": "nyt-best-movie-069",
+      "mediaType": "movie",
+      "title": "皮囊之下",
+      "releaseDate": "2014",
+      "externalIds": {
+        "imdb": "tt1441395"
+      },
+      "rank": 69,
+      "ranking": "#69",
+      "releaseYear": 2014,
+      "englishTitle": "Under the Skin"
+    },
+    {
+      "id": "nyt-best-movie-070",
+      "mediaType": "movie",
+      "title": "生人勿进",
+      "releaseDate": "2008",
+      "externalIds": {
+        "imdb": "tt1139797"
+      },
+      "rank": 70,
+      "ranking": "#70",
+      "releaseYear": 2008,
+      "englishTitle": "Let the Right One In"
+    },
+    {
+      "id": "nyt-best-movie-071",
+      "mediaType": "movie",
+      "title": "十一罗汉",
+      "releaseDate": "2001",
+      "externalIds": {
+        "imdb": "tt0240772"
+      },
+      "rank": 71,
+      "ranking": "#71",
+      "releaseYear": 2001,
+      "englishTitle": "Ocean's Eleven"
+    },
+    {
+      "id": "nyt-best-movie-072",
+      "mediaType": "movie",
+      "title": "卡罗尔",
+      "releaseDate": "2015",
+      "externalIds": {
+        "imdb": "tt2402927"
+      },
+      "rank": 72,
+      "ranking": "#72",
+      "releaseYear": 2015,
+      "englishTitle": "Carol"
+    },
+    {
+      "id": "nyt-best-movie-073",
+      "mediaType": "movie",
+      "title": "美食总动员",
+      "releaseDate": "2007",
+      "externalIds": {
+        "imdb": "tt0382932"
+      },
+      "rank": 73,
+      "ranking": "#73",
+      "releaseYear": 2007,
+      "englishTitle": "Ratatouille"
+    },
+    {
+      "id": "nyt-best-movie-074",
+      "mediaType": "movie",
+      "title": "佛罗里达乐园",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5649144"
+      },
+      "rank": 74,
+      "ranking": "#74",
+      "releaseYear": 2017,
+      "englishTitle": "The Florida Project"
+    },
+    {
+      "id": "nyt-best-movie-075",
+      "mediaType": "movie",
+      "title": "爱",
+      "releaseDate": "2012",
+      "externalIds": {
+        "imdb": "tt1683876"
+      },
+      "rank": 75,
+      "ranking": "#75",
+      "releaseYear": 2012,
+      "englishTitle": "Amour"
+    },
+    {
+      "id": "nyt-best-movie-076",
+      "mediaType": "movie",
+      "title": "逃狱三王",
+      "releaseDate": "2000",
+      "externalIds": {
+        "imdb": "tt0190590"
+      },
+      "rank": 76,
+      "ranking": "#76",
+      "releaseYear": 2000,
+      "englishTitle": "O Brother, Where Art Thou?"
+    },
+    {
+      "id": "nyt-best-movie-077",
+      "mediaType": "movie",
+      "title": "瞬息全宇宙",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt6710474"
+      },
+      "rank": 77,
+      "ranking": "#77",
+      "releaseYear": 2022,
+      "englishTitle": "Everything Everywhere All at Once"
+    },
+    {
+      "id": "nyt-best-movie-078",
+      "mediaType": "movie",
+      "title": "晒后假日",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt19770238"
+      },
+      "rank": 78,
+      "ranking": "#78",
+      "releaseYear": 2022,
+      "englishTitle": "Aftersun"
+    },
+    {
+      "id": "nyt-best-movie-079",
+      "mediaType": "movie",
+      "title": "生命之树",
+      "releaseDate": "2011",
+      "externalIds": {
+        "imdb": "tt0478304"
+      },
+      "rank": 79,
+      "ranking": "#79",
+      "releaseYear": 2011,
+      "englishTitle": "The Tree of Life"
+    },
+    {
+      "id": "nyt-best-movie-080",
+      "mediaType": "movie",
+      "title": "回归",
+      "releaseDate": "2006",
+      "externalIds": {
+        "imdb": "tt0441909"
+      },
+      "rank": 80,
+      "ranking": "#80",
+      "releaseYear": 2006,
+      "englishTitle": "Volver"
+    },
+    {
+      "id": "nyt-best-movie-081",
+      "mediaType": "movie",
+      "title": "黑天鹅",
+      "releaseDate": "2010",
+      "externalIds": {
+        "imdb": "tt0947798"
+      },
+      "rank": 81,
+      "ranking": "#81",
+      "releaseYear": 2010,
+      "englishTitle": "Black Swan"
+    },
+    {
+      "id": "nyt-best-movie-082",
+      "mediaType": "movie",
+      "title": "杀戮演绎",
+      "releaseDate": "2013",
+      "externalIds": {
+        "imdb": "tt2375605"
+      },
+      "rank": 82,
+      "ranking": "#82",
+      "releaseYear": 2013,
+      "englishTitle": "The Act of Killing"
+    },
+    {
+      "id": "nyt-best-movie-083",
+      "mediaType": "movie",
+      "title": "醉乡民谣",
+      "releaseDate": "2013",
+      "externalIds": {
+        "imdb": "tt2042568"
+      },
+      "rank": 83,
+      "ranking": "#83",
+      "releaseYear": 2013,
+      "englishTitle": "Inside Llewyn Davis"
+    },
+    {
+      "id": "nyt-best-movie-084",
+      "mediaType": "movie",
+      "title": "忧郁症",
+      "releaseDate": "2011",
+      "externalIds": {
+        "imdb": "tt1527186"
+      },
+      "rank": 84,
+      "ranking": "#84",
+      "releaseYear": 2011,
+      "englishTitle": "Melancholia"
+    },
+    {
+      "id": "nyt-best-movie-085",
+      "mediaType": "movie",
+      "title": "王牌播音员",
+      "releaseDate": "2004",
+      "externalIds": {
+        "imdb": "tt0357413"
+      },
+      "rank": 85,
+      "ranking": "#85",
+      "releaseYear": 2004,
+      "englishTitle": "Anchorman: The Legend of Ron Burgundy"
+    },
+    {
+      "id": "nyt-best-movie-086",
+      "mediaType": "movie",
+      "title": "过往人生",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt13238346"
+      },
+      "rank": 86,
+      "ranking": "#86",
+      "releaseYear": 2023,
+      "englishTitle": "Past Lives"
+    },
+    {
+      "id": "nyt-best-movie-087",
+      "mediaType": "movie",
+      "title": "指环王1：护戒使者",
+      "releaseDate": "2001",
+      "externalIds": {
+        "imdb": "tt0120737"
+      },
+      "rank": 87,
+      "ranking": "#87",
+      "releaseYear": 2001,
+      "englishTitle": "The Lord of the Rings: The Fellowship of the Ring"
+    },
+    {
+      "id": "nyt-best-movie-088",
+      "mediaType": "movie",
+      "title": "拾穗者",
+      "releaseDate": "2001",
+      "externalIds": {
+        "imdb": "tt0247380"
+      },
+      "rank": 88,
+      "ranking": "#88",
+      "releaseYear": 2001,
+      "englishTitle": "The Gleaners and I"
+    },
+    {
+      "id": "nyt-best-movie-089",
+      "mediaType": "movie",
+      "title": "星际穿越",
+      "releaseDate": "2014",
+      "externalIds": {
+        "imdb": "tt0816692"
+      },
+      "rank": 89,
+      "ranking": "#89",
+      "releaseYear": 2014,
+      "englishTitle": "Interstellar"
+    },
+    {
+      "id": "nyt-best-movie-090",
+      "mediaType": "movie",
+      "title": "弗兰西丝·哈",
+      "releaseDate": "2013",
+      "externalIds": {
+        "imdb": "tt2347569"
+      },
+      "rank": 90,
+      "ranking": "#90",
+      "releaseYear": 2013,
+      "englishTitle": "Frances Ha"
+    },
+    {
+      "id": "nyt-best-movie-091",
+      "mediaType": "movie",
+      "title": "鱼缸",
+      "releaseDate": "2010",
+      "externalIds": {
+        "imdb": "tt1232776"
+      },
+      "rank": 91,
+      "ranking": "#91",
+      "releaseYear": 2010,
+      "englishTitle": "Fish Tank"
+    },
+    {
+      "id": "nyt-best-movie-092",
+      "mediaType": "movie",
+      "title": "角斗士",
+      "releaseDate": "2000",
+      "externalIds": {
+        "imdb": "tt0172495"
+      },
+      "rank": 92,
+      "ranking": "#92",
+      "releaseYear": 2000,
+      "englishTitle": "Gladiator"
+    },
+    {
+      "id": "nyt-best-movie-093",
+      "mediaType": "movie",
+      "title": "迈克尔·克莱顿",
+      "releaseDate": "2007",
+      "externalIds": {
+        "imdb": "tt0465538"
+      },
+      "rank": 93,
+      "ranking": "#93",
+      "releaseYear": 2007,
+      "englishTitle": "Michael Clayton"
+    },
+    {
+      "id": "nyt-best-movie-094",
+      "mediaType": "movie",
+      "title": "少数派报告",
+      "releaseDate": "2002",
+      "externalIds": {
+        "imdb": "tt0181689"
+      },
+      "rank": 94,
+      "ranking": "#94",
+      "releaseYear": 2002,
+      "englishTitle": "Minority Report"
+    },
+    {
+      "id": "nyt-best-movie-095",
+      "mediaType": "movie",
+      "title": "世界上最糟糕的人",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt10370710"
+      },
+      "rank": 95,
+      "ranking": "#95",
+      "releaseYear": 2021,
+      "englishTitle": "The Worst Person in the World"
+    },
+    {
+      "id": "nyt-best-movie-096",
+      "mediaType": "movie",
+      "title": "黑豹",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt1825683"
+      },
+      "rank": 96,
+      "ranking": "#96",
+      "releaseYear": 2018,
+      "englishTitle": "Black Panther"
+    },
+    {
+      "id": "nyt-best-movie-097",
+      "mediaType": "movie",
+      "title": "地心引力",
+      "releaseDate": "2013",
+      "externalIds": {
+        "imdb": "tt1454468"
+      },
+      "rank": 97,
+      "ranking": "#97",
+      "releaseYear": 2013,
+      "englishTitle": "Gravity"
+    },
+    {
+      "id": "nyt-best-movie-098",
+      "mediaType": "movie",
+      "title": "灰熊人",
+      "releaseDate": "2005",
+      "externalIds": {
+        "imdb": "tt0427312"
+      },
+      "rank": 98,
+      "ranking": "#98",
+      "releaseYear": 2005,
+      "englishTitle": "Grizzly Man"
+    },
+    {
+      "id": "nyt-best-movie-099",
+      "mediaType": "movie",
+      "title": "杀人回忆",
+      "releaseDate": "2005",
+      "externalIds": {
+        "imdb": "tt0353969"
+      },
+      "rank": 99,
+      "ranking": "#99",
+      "releaseYear": 2005,
+      "englishTitle": "Memories of Murder"
+    },
+    {
+      "id": "nyt-best-movie-100",
+      "mediaType": "movie",
+      "title": "太坏了",
+      "releaseDate": "2007",
+      "externalIds": {
+        "imdb": "tt0829482"
+      },
+      "rank": 100,
+      "ranking": "#100",
+      "releaseYear": 2007,
+      "englishTitle": "Superbad"
+    }
+  ]
+}

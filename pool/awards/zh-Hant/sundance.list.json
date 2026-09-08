@@ -1,0 +1,1714 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "title": "日舞影展",
+  "author": "Mydea",
+  "server": "TMDB",
+  "updatedAt": "2026-09-16T04:39:02Z",
+  "description": "日舞影展",
+  "items": [
+    {
+      "id": "sundance-world-dramatic-2026-shame-and-money",
+      "mediaType": "movie",
+      "title": "Shame and Money",
+      "awardYear": 2026,
+      "winner": "Visar Morina",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt39140264"
+      },
+      "award": "世界電影劇情片評審團大獎",
+      "awardOrder": 3
+    },
+    {
+      "id": "sundance-world-documentary-2026-to-hold-a-mountain",
+      "mediaType": "movie",
+      "title": "To Hold a Mountain",
+      "awardYear": 2026,
+      "winner": "Biljana Tutorov & Petar Glomazić",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt39150043"
+      },
+      "award": "世界電影紀錄片評審團大獎",
+      "awardOrder": 4
+    },
+    {
+      "id": "sundance-us-dramatic-2026-josephine",
+      "mediaType": "movie",
+      "title": "Josephine",
+      "awardYear": 2026,
+      "winner": "Beth de Araújo",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt32321285"
+      },
+      "award": "美國劇情片評審團大獎",
+      "awardOrder": 1
+    },
+    {
+      "id": "sundance-us-documentary-2026-nuisance-bear",
+      "mediaType": "movie",
+      "title": "Nuisance Bear",
+      "awardYear": 2026,
+      "winner": "Gabriela Osio Vanden & Jack Weisman",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt39150922"
+      },
+      "award": "美國紀錄片評審團大獎",
+      "awardOrder": 2
+    },
+    {
+      "id": "sundance-world-dramatic-2025-sabar-bonda-cactus-pears",
+      "mediaType": "movie",
+      "title": "Sabar Bonda (Cactus Pears)",
+      "originalTitle": "Sabar Bonda",
+      "awardYear": 2025,
+      "winner": "Rohan Parashuram Kanawade",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt29310002"
+      },
+      "award": "世界電影劇情片評審團大獎",
+      "awardOrder": 3
+    },
+    {
+      "id": "sundance-world-documentary-2025-cutting-through-rocks",
+      "mediaType": "movie",
+      "title": "Cutting Through Rocks",
+      "awardYear": 2025,
+      "winner": "Sara Khaki & Mohammadreza Eyni",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt10196414"
+      },
+      "award": "世界電影紀錄片評審團大獎",
+      "awardOrder": 4
+    },
+    {
+      "id": "sundance-us-dramatic-2025-atropia",
+      "mediaType": "movie",
+      "title": "Atropia",
+      "awardYear": 2025,
+      "winner": "Hailey Gates",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31122579"
+      },
+      "award": "美國劇情片評審團大獎",
+      "awardOrder": 1
+    },
+    {
+      "id": "sundance-us-documentary-2025-seeds",
+      "mediaType": "movie",
+      "title": "Seeds",
+      "awardYear": 2025,
+      "winner": "Brittany Shyne",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt34963731"
+      },
+      "award": "美國紀錄片評審團大獎",
+      "awardOrder": 2
+    },
+    {
+      "id": "sundance-world-dramatic-2024-sujo",
+      "mediaType": "movie",
+      "title": "Sujo",
+      "awardYear": 2024,
+      "winner": "Astrid Rondero & Fernanda Valadez",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt30320410"
+      },
+      "award": "世界電影劇情片評審團大獎",
+      "awardOrder": 3
+    },
+    {
+      "id": "sundance-world-documentary-2024-a-new-kind-of-wilderness",
+      "mediaType": "movie",
+      "title": "A New Kind of Wilderness",
+      "awardYear": 2024,
+      "winner": "Silje Evensmo Jacobsen",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt30320576"
+      },
+      "award": "世界電影紀錄片評審團大獎",
+      "awardOrder": 4
+    },
+    {
+      "id": "sundance-us-dramatic-2024-in-the-summers",
+      "mediaType": "movie",
+      "title": "In the Summers",
+      "awardYear": 2024,
+      "winner": "Alessandra Lacorazza",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt24805832"
+      },
+      "award": "美國劇情片評審團大獎",
+      "awardOrder": 1
+    },
+    {
+      "id": "sundance-us-documentary-2024-porcelain-war",
+      "mediaType": "movie",
+      "title": "Porcelain War",
+      "awardYear": 2024,
+      "winner": "Brendan Bellomo & Slava Leontyev",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt30294282"
+      },
+      "award": "美國紀錄片評審團大獎",
+      "awardOrder": 2
+    },
+    {
+      "id": "sundance-world-dramatic-2023-scrapper",
+      "mediaType": "movie",
+      "title": "Scrapper",
+      "awardYear": 2023,
+      "winner": "Charlotte Regan",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt8649252"
+      },
+      "award": "世界電影劇情片評審團大獎",
+      "awardOrder": 3
+    },
+    {
+      "id": "sundance-world-documentary-2023-the-eternal-memory",
+      "mediaType": "movie",
+      "title": "無盡的記憶",
+      "englishTitle": "The Eternal Memory",
+      "originalTitle": "La memoria infinita",
+      "awardYear": 2023,
+      "winner": "Maite Alberdi",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt24082488"
+      },
+      "award": "世界電影紀錄片評審團大獎",
+      "awardOrder": 4
+    },
+    {
+      "id": "sundance-us-dramatic-2023-a-thousand-and-one",
+      "mediaType": "movie",
+      "title": "A Thousand and One",
+      "awardYear": 2023,
+      "winner": "A.V. Rockwell",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt12427158"
+      },
+      "award": "美國劇情片評審團大獎",
+      "awardOrder": 1
+    },
+    {
+      "id": "sundance-us-documentary-2023-going-to-mars-the-nikki-giovanni-project",
+      "mediaType": "movie",
+      "title": "Going to Mars: The Nikki Giovanni Project",
+      "awardYear": 2023,
+      "winner": "Joe Brewster & Michèle Stephenson",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt7196012"
+      },
+      "award": "美國紀錄片評審團大獎",
+      "awardOrder": 2
+    },
+    {
+      "id": "sundance-world-dramatic-2022-utama",
+      "mediaType": "movie",
+      "title": "Utama",
+      "awardYear": 2022,
+      "winner": "Alejandro Loayza Grisi",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt10984580"
+      },
+      "award": "世界電影劇情片評審團大獎",
+      "awardOrder": 3
+    },
+    {
+      "id": "sundance-world-documentary-2022-all-that-breathes",
+      "mediaType": "movie",
+      "title": "All That Breathes",
+      "awardYear": 2022,
+      "winner": "Shaunak Sen",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt16377862"
+      },
+      "award": "世界電影紀錄片評審團大獎",
+      "awardOrder": 4
+    },
+    {
+      "id": "sundance-us-dramatic-2022-nanny",
+      "mediaType": "movie",
+      "title": "Nanny",
+      "awardYear": 2022,
+      "winner": "Nikyatu Jusu",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt10931784"
+      },
+      "award": "美國劇情片評審團大獎",
+      "awardOrder": 1
+    },
+    {
+      "id": "sundance-us-documentary-2022-the-exiles",
+      "mediaType": "movie",
+      "title": "The Exiles",
+      "awardYear": 2022,
+      "winner": "Ben Klein & Violet Columbus",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt16227006"
+      },
+      "award": "美國紀錄片評審團大獎",
+      "awardOrder": 2
+    },
+    {
+      "id": "sundance-world-dramatic-2021-hive",
+      "mediaType": "movie",
+      "title": "Hive",
+      "originalTitle": "Zgjoi",
+      "awardYear": 2021,
+      "winner": "Blerta Basholli",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt13648212"
+      },
+      "award": "世界電影劇情片評審團大獎",
+      "awardOrder": 3
+    },
+    {
+      "id": "sundance-world-documentary-2021-flee",
+      "mediaType": "movie",
+      "title": "漂浪人生",
+      "englishTitle": "Flee",
+      "originalTitle": "Flugt",
+      "awardYear": 2021,
+      "winner": "Jonas Poher Rasmussen",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt8430054"
+      },
+      "award": "世界電影紀錄片評審團大獎",
+      "awardOrder": 4
+    },
+    {
+      "id": "sundance-us-dramatic-2021-coda",
+      "mediaType": "movie",
+      "title": "樂動心旋律",
+      "englishTitle": "CODA",
+      "awardYear": 2021,
+      "winner": "Siân Heder",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt10366460"
+      },
+      "award": "美國劇情片評審團大獎",
+      "awardOrder": 1
+    },
+    {
+      "id": "sundance-us-documentary-2021-summer-of-soul-or-when-the-revolution-could-not-be-televised",
+      "mediaType": "movie",
+      "title": "Summer of Soul (...Or, When the Revolution Could Not Be Televised)",
+      "awardYear": 2021,
+      "winner": "Ahmir “Questlove” Thompson",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt11422728"
+      },
+      "award": "美國紀錄片評審團大獎",
+      "awardOrder": 2
+    },
+    {
+      "id": "sundance-world-dramatic-2020-yalda-a-night-for-forgiveness",
+      "mediaType": "movie",
+      "title": "Yalda, a Night for Forgiveness",
+      "originalTitle": "Yalda",
+      "awardYear": 2020,
+      "winner": "Massoud Bakhshi",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt9834492"
+      },
+      "award": "世界電影劇情片評審團大獎",
+      "awardOrder": 3
+    },
+    {
+      "id": "sundance-world-documentary-2020-epicentro",
+      "mediaType": "movie",
+      "title": "Epicentro",
+      "awardYear": 2020,
+      "winner": "Hubert Sauper",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt11393948"
+      },
+      "award": "世界電影紀錄片評審團大獎",
+      "awardOrder": 4
+    },
+    {
+      "id": "sundance-us-dramatic-2020-minari",
+      "mediaType": "movie",
+      "title": "夢想之地",
+      "englishTitle": "Minari",
+      "awardYear": 2020,
+      "winner": "Lee Isaac Chung",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10633456"
+      },
+      "award": "美國劇情片評審團大獎",
+      "awardOrder": 1
+    },
+    {
+      "id": "sundance-us-documentary-2020-boys-state",
+      "mediaType": "movie",
+      "title": "Boys State",
+      "awardYear": 2020,
+      "winner": "Jesse Moss & Amanda McBaine",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt11095742"
+      },
+      "award": "美國紀錄片評審團大獎",
+      "awardOrder": 2
+    },
+    {
+      "id": "sundance-world-dramatic-2019-the-souvenir",
+      "mediaType": "movie",
+      "title": "The Souvenir",
+      "awardYear": 2019,
+      "winner": "Joanna Hogg",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6920356"
+      },
+      "award": "世界電影劇情片評審團大獎",
+      "awardOrder": 3
+    },
+    {
+      "id": "sundance-world-documentary-2019-honeyland",
+      "mediaType": "movie",
+      "title": "大地蜜語",
+      "englishTitle": "Honeyland",
+      "originalTitle": "Medena zemja",
+      "awardYear": 2019,
+      "winner": "Tamara Kotevska & Ljubomir Stefanov",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt8991268"
+      },
+      "award": "世界電影紀錄片評審團大獎",
+      "awardOrder": 4
+    },
+    {
+      "id": "sundance-us-dramatic-2019-clemency",
+      "mediaType": "movie",
+      "title": "Clemency",
+      "awardYear": 2019,
+      "winner": "Chinonye Chukwu",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt5577494"
+      },
+      "award": "美國劇情片評審團大獎",
+      "awardOrder": 1
+    },
+    {
+      "id": "sundance-us-documentary-2019-one-child-nation",
+      "mediaType": "movie",
+      "title": "獨生之國",
+      "englishTitle": "One Child Nation",
+      "awardYear": 2019,
+      "winner": "Nanfu Wang & Jialing Zhang",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt8923482"
+      },
+      "award": "美國紀錄片評審團大獎",
+      "awardOrder": 2
+    },
+    {
+      "id": "sundance-world-dramatic-2018-butterflies",
+      "mediaType": "movie",
+      "title": "Butterflies",
+      "awardYear": 2018,
+      "winner": "Tolga Karaçelik",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7318202"
+      },
+      "award": "世界電影劇情片評審團大獎",
+      "awardOrder": 3
+    },
+    {
+      "id": "sundance-world-documentary-2018-of-fathers-and-sons",
+      "mediaType": "movie",
+      "title": "Of Fathers and Sons",
+      "awardYear": 2018,
+      "winner": "Talal Derki",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7519174"
+      },
+      "award": "世界電影紀錄片評審團大獎",
+      "awardOrder": 4
+    },
+    {
+      "id": "sundance-us-dramatic-2018-the-miseducation-of-cameron-post",
+      "mediaType": "movie",
+      "title": "The Miseducation of Cameron Post",
+      "awardYear": 2018,
+      "winner": "Desiree Akhavan",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt6257174"
+      },
+      "award": "美國劇情片評審團大獎",
+      "awardOrder": 1
+    },
+    {
+      "id": "sundance-us-documentary-2018-kailash",
+      "mediaType": "movie",
+      "title": "Kailash",
+      "awardYear": 2018,
+      "winner": "Derek Doneen",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7689912"
+      },
+      "award": "美國紀錄片評審團大獎",
+      "awardOrder": 2
+    },
+    {
+      "id": "sundance-world-dramatic-2017-the-nile-hilton-incident",
+      "mediaType": "movie",
+      "title": "The Nile Hilton Incident",
+      "awardYear": 2017,
+      "winner": "Tarik Saleh",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5540188"
+      },
+      "award": "世界電影劇情片評審團大獎",
+      "awardOrder": 3
+    },
+    {
+      "id": "sundance-world-documentary-2017-last-men-in-aleppo",
+      "mediaType": "movie",
+      "title": "Last Men in Aleppo",
+      "awardYear": 2017,
+      "winner": "Feras Fayyad",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6333074"
+      },
+      "award": "世界電影紀錄片評審團大獎",
+      "awardOrder": 4
+    },
+    {
+      "id": "sundance-us-dramatic-2017-i-don-t-feel-at-home-in-this-world-anymore",
+      "mediaType": "movie",
+      "title": "I Don't Feel at Home in This World Anymore",
+      "awardYear": 2017,
+      "winner": "Macon Blair",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5710514"
+      },
+      "award": "美國劇情片評審團大獎",
+      "awardOrder": 1
+    },
+    {
+      "id": "sundance-us-documentary-2017-dina",
+      "mediaType": "movie",
+      "title": "Dina",
+      "awardYear": 2017,
+      "winner": "Antonio Santini & Dan Sickles",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6333058"
+      },
+      "award": "美國紀錄片評審團大獎",
+      "awardOrder": 2
+    },
+    {
+      "id": "sundance-world-dramatic-2016-sand-storm",
+      "mediaType": "movie",
+      "title": "Sand Storm",
+      "awardYear": 2016,
+      "winner": "Elite Zexer",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4365518"
+      },
+      "award": "世界電影劇情片評審團大獎"
+    },
+    {
+      "id": "sundance-world-documentary-2016-sonita",
+      "mediaType": "movie",
+      "title": "Sonita",
+      "awardYear": 2016,
+      "winner": "Rokhsareh Ghaemmaghami",
+      "releaseDate": "2015",
+      "externalIds": {
+        "imdb": "tt5278928"
+      },
+      "award": "世界電影紀錄片評審團大獎"
+    },
+    {
+      "id": "sundance-us-dramatic-2016-the-birth-of-a-nation",
+      "mediaType": "movie",
+      "title": "The Birth of a Nation",
+      "awardYear": 2016,
+      "winner": "Nate Parker",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4196450"
+      },
+      "award": "美國劇情片評審團大獎"
+    },
+    {
+      "id": "sundance-us-documentary-2016-weiner",
+      "mediaType": "movie",
+      "title": "Weiner",
+      "awardYear": 2016,
+      "winner": "Josh Kriegman & Elyse Steinberg",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5278596"
+      },
+      "award": "美國紀錄片評審團大獎"
+    },
+    {
+      "id": "sundance-world-dramatic-2015-slow-west",
+      "mediaType": "movie",
+      "title": "Slow West",
+      "awardYear": 2015,
+      "winner": "John Maclean",
+      "releaseDate": "2015",
+      "externalIds": {
+        "imdb": "tt3205376"
+      },
+      "award": "世界電影劇情片評審團大獎"
+    },
+    {
+      "id": "sundance-world-documentary-2015-the-russian-woodpecker",
+      "mediaType": "movie",
+      "title": "The Russian Woodpecker",
+      "awardYear": 2015,
+      "winner": "Chad Gracia",
+      "releaseDate": "2015",
+      "externalIds": {
+        "imdb": "tt4082596"
+      },
+      "award": "世界電影紀錄片評審團大獎"
+    },
+    {
+      "id": "sundance-us-dramatic-2015-me-and-earl-and-the-dying-girl",
+      "mediaType": "movie",
+      "title": "Me and Earl and the Dying Girl",
+      "awardYear": 2015,
+      "winner": "Alfonso Gomez-Rejon",
+      "releaseDate": "2015",
+      "externalIds": {
+        "imdb": "tt2582496"
+      },
+      "award": "美國劇情片評審團大獎"
+    },
+    {
+      "id": "sundance-us-documentary-2015-the-wolfpack",
+      "mediaType": "movie",
+      "title": "The Wolfpack",
+      "awardYear": 2015,
+      "winner": "Crystal Moselle",
+      "releaseDate": "2015",
+      "externalIds": {
+        "imdb": "tt2415458"
+      },
+      "award": "美國紀錄片評審團大獎"
+    },
+    {
+      "id": "sundance-world-dramatic-2014-to-kill-a-man",
+      "mediaType": "movie",
+      "title": "To Kill a Man",
+      "originalTitle": "Matar a un Hombre",
+      "awardYear": 2014,
+      "winner": "Alejandro Fernández Almendras",
+      "releaseDate": "2014",
+      "externalIds": {
+        "imdb": "tt3460152"
+      },
+      "award": "世界電影劇情片評審團大獎"
+    },
+    {
+      "id": "sundance-world-documentary-2014-the-return-to-homs",
+      "mediaType": "movie",
+      "title": "The Return to Homs",
+      "awardYear": 2014,
+      "winner": "Talal Derki",
+      "releaseDate": "2013",
+      "externalIds": {
+        "imdb": "tt3199456"
+      },
+      "award": "世界電影紀錄片評審團大獎"
+    },
+    {
+      "id": "sundance-us-dramatic-2014-whiplash",
+      "mediaType": "movie",
+      "title": "進擊的鼓手",
+      "englishTitle": "Whiplash",
+      "awardYear": 2014,
+      "winner": "Damien Chazelle",
+      "releaseDate": "2014",
+      "externalIds": {
+        "imdb": "tt2582802"
+      },
+      "award": "美國劇情片評審團大獎"
+    },
+    {
+      "id": "sundance-us-documentary-2014-rich-hill",
+      "mediaType": "movie",
+      "title": "Rich Hill",
+      "awardYear": 2014,
+      "winner": "Andrew Droz Palermo & Tracy Droz Tragos",
+      "releaseDate": "2014",
+      "externalIds": {
+        "imdb": "tt2548738"
+      },
+      "award": "美國紀錄片評審團大獎"
+    },
+    {
+      "id": "sundance-world-dramatic-2013-jiseul",
+      "mediaType": "movie",
+      "title": "Jiseul",
+      "awardYear": 2013,
+      "winner": "O Muel",
+      "releaseDate": "2012",
+      "externalIds": {
+        "imdb": "tt2526138"
+      },
+      "award": "世界電影劇情片評審團大獎"
+    },
+    {
+      "id": "sundance-world-documentary-2013-a-river-changes-course",
+      "mediaType": "movie",
+      "title": "A River Changes Course",
+      "awardYear": 2013,
+      "winner": "Kalyanee Mam",
+      "releaseDate": "2013",
+      "externalIds": {
+        "imdb": "tt2442644"
+      },
+      "award": "世界電影紀錄片評審團大獎"
+    },
+    {
+      "id": "sundance-us-dramatic-2013-fruitvale-station",
+      "mediaType": "movie",
+      "title": "Fruitvale Station",
+      "awardYear": 2013,
+      "winner": "Ryan Coogler",
+      "releaseDate": "2013",
+      "externalIds": {
+        "imdb": "tt2334649"
+      },
+      "award": "美國劇情片評審團大獎"
+    },
+    {
+      "id": "sundance-us-documentary-2013-blood-brother",
+      "mediaType": "movie",
+      "title": "Blood Brother",
+      "awardYear": 2013,
+      "winner": "Steve Hoover",
+      "releaseDate": "2013",
+      "externalIds": {
+        "imdb": "tt2265179"
+      },
+      "award": "美國紀錄片評審團大獎"
+    },
+    {
+      "id": "sundance-world-dramatic-2012-violeta-went-to-heaven",
+      "mediaType": "movie",
+      "title": "Violeta Went to Heaven",
+      "originalTitle": "Violeta se fue a los cielos",
+      "awardYear": 2012,
+      "winner": "Andrés Wood",
+      "releaseDate": "2011",
+      "externalIds": {
+        "imdb": "tt2014392"
+      },
+      "award": "世界電影劇情片評審團大獎"
+    },
+    {
+      "id": "sundance-world-documentary-2012-the-law-in-these-parts",
+      "mediaType": "movie",
+      "title": "The Law in These Parts",
+      "awardYear": 2012,
+      "winner": "Ra'anan Alexandrowicz",
+      "releaseDate": "2011",
+      "externalIds": {
+        "imdb": "tt2069916"
+      },
+      "award": "世界電影紀錄片評審團大獎"
+    },
+    {
+      "id": "sundance-us-dramatic-2012-beasts-of-the-southern-wild",
+      "mediaType": "movie",
+      "title": "Beasts of the Southern Wild",
+      "awardYear": 2012,
+      "winner": "Benh Zeitlin",
+      "releaseDate": "2012",
+      "externalIds": {
+        "imdb": "tt2125435"
+      },
+      "award": "美國劇情片評審團大獎"
+    },
+    {
+      "id": "sundance-us-documentary-2012-the-house-i-live-in",
+      "mediaType": "movie",
+      "title": "The House I Live In",
+      "awardYear": 2012,
+      "winner": "Eugene Jarecki",
+      "releaseDate": "2012",
+      "externalIds": {
+        "imdb": "tt2125653"
+      },
+      "award": "美國紀錄片評審團大獎"
+    },
+    {
+      "id": "sundance-world-dramatic-2011-happy-happy",
+      "mediaType": "movie",
+      "title": "Happy, Happy",
+      "awardYear": 2011,
+      "winner": "Anne Sewitsky",
+      "releaseDate": "2010",
+      "externalIds": {
+        "imdb": "tt1664892"
+      },
+      "award": "世界電影劇情片評審團大獎"
+    },
+    {
+      "id": "sundance-world-documentary-2011-hell-and-back-again",
+      "mediaType": "movie",
+      "title": "Hell and Back Again",
+      "awardYear": 2011,
+      "winner": "Danfung Dennis",
+      "releaseDate": "2011",
+      "externalIds": {
+        "imdb": "tt1748043"
+      },
+      "award": "世界電影紀錄片評審團大獎"
+    },
+    {
+      "id": "sundance-us-dramatic-2011-like-crazy",
+      "mediaType": "movie",
+      "title": "Like Crazy",
+      "awardYear": 2011,
+      "winner": "Drake Doremus",
+      "releaseDate": "2011",
+      "externalIds": {
+        "imdb": "tt1758692"
+      },
+      "award": "美國劇情片評審團大獎"
+    },
+    {
+      "id": "sundance-us-documentary-2011-how-to-die-in-oregon",
+      "mediaType": "movie",
+      "title": "How to Die in Oregon",
+      "awardYear": 2011,
+      "winner": "Peter Richardson",
+      "releaseDate": "2011",
+      "externalIds": {
+        "imdb": "tt1715802"
+      },
+      "award": "美國紀錄片評審團大獎"
+    },
+    {
+      "id": "sundance-world-dramatic-2010-animal-kingdom",
+      "mediaType": "movie",
+      "title": "動物王國",
+      "englishTitle": "Animal Kingdom",
+      "awardYear": 2010,
+      "winner": "David Michôd",
+      "releaseDate": "2010",
+      "externalIds": {
+        "imdb": "tt1313092"
+      },
+      "award": "世界電影劇情片評審團大獎"
+    },
+    {
+      "id": "sundance-world-documentary-2010-the-red-chapel",
+      "mediaType": "movie",
+      "title": "The Red Chapel",
+      "awardYear": 2010,
+      "winner": "Mads Brügger",
+      "releaseDate": "2009",
+      "externalIds": {
+        "imdb": "tt1546653"
+      },
+      "award": "世界電影紀錄片評審團大獎"
+    },
+    {
+      "id": "sundance-us-dramatic-2010-winter-s-bone",
+      "mediaType": "movie",
+      "title": "Winter's Bone",
+      "awardYear": 2010,
+      "winner": "Debra Granik",
+      "releaseDate": "2010",
+      "externalIds": {
+        "imdb": "tt1399683"
+      },
+      "award": "美國劇情片評審團大獎"
+    },
+    {
+      "id": "sundance-us-documentary-2010-restrepo",
+      "mediaType": "movie",
+      "title": "Restrepo",
+      "awardYear": 2010,
+      "winner": "Tim Hetherington & Sebastian Junger",
+      "releaseDate": "2010",
+      "externalIds": {
+        "imdb": "tt1559549"
+      },
+      "award": "美國紀錄片評審團大獎"
+    },
+    {
+      "id": "sundance-world-dramatic-2009-the-maid",
+      "mediaType": "movie",
+      "title": "The Maid",
+      "originalTitle": "La nana",
+      "awardYear": 2009,
+      "winner": "Sebastián Silva",
+      "releaseDate": "2009",
+      "externalIds": {
+        "imdb": "tt1187044"
+      },
+      "award": "世界電影劇情片評審團大獎"
+    },
+    {
+      "id": "sundance-world-documentary-2009-rough-aunties",
+      "mediaType": "movie",
+      "title": "Rough Aunties",
+      "awardYear": 2009,
+      "winner": "Kim Longinotto",
+      "releaseDate": "2008",
+      "externalIds": {
+        "imdb": "tt1179080"
+      },
+      "award": "世界電影紀錄片評審團大獎"
+    },
+    {
+      "id": "sundance-us-dramatic-2009-precious-based-on-the-novel-push-by-sapphire",
+      "mediaType": "movie",
+      "title": "Precious: Based on the Novel 'Push' by Sapphire",
+      "awardYear": 2009,
+      "winner": "Lee Daniels",
+      "releaseDate": "2009",
+      "externalIds": {
+        "imdb": "tt0929632"
+      },
+      "award": "美國劇情片評審團大獎"
+    },
+    {
+      "id": "sundance-us-documentary-2009-we-live-in-public",
+      "mediaType": "movie",
+      "title": "We Live in Public",
+      "awardYear": 2009,
+      "winner": "Ondi Timoner",
+      "releaseDate": "2009",
+      "externalIds": {
+        "imdb": "tt0498329"
+      },
+      "award": "美國紀錄片評審團大獎"
+    },
+    {
+      "id": "sundance-world-dramatic-2008-the-king-of-ping-pong",
+      "mediaType": "movie",
+      "title": "The King of Ping Pong",
+      "awardYear": 2008,
+      "winner": "Jens Jonsson",
+      "releaseDate": "2008",
+      "externalIds": {
+        "imdb": "tt1110272"
+      },
+      "award": "世界電影劇情片評審團大獎"
+    },
+    {
+      "id": "sundance-world-documentary-2008-man-on-wire",
+      "mediaType": "movie",
+      "title": "偷天鋼索人",
+      "englishTitle": "Man on Wire",
+      "awardYear": 2008,
+      "winner": "James Marsh",
+      "releaseDate": "2008",
+      "externalIds": {
+        "imdb": "tt1155592"
+      },
+      "award": "世界電影紀錄片評審團大獎"
+    },
+    {
+      "id": "sundance-us-dramatic-2008-frozen-river",
+      "mediaType": "movie",
+      "title": "Frozen River",
+      "awardYear": 2008,
+      "winner": "Courtney Hunt",
+      "releaseDate": "2008",
+      "externalIds": {
+        "imdb": "tt0978759"
+      },
+      "award": "美國劇情片評審團大獎"
+    },
+    {
+      "id": "sundance-us-documentary-2008-trouble-the-water",
+      "mediaType": "movie",
+      "title": "Trouble the Water",
+      "awardYear": 2008,
+      "winner": "Carl Deal & Tia Lessin",
+      "releaseDate": "2008",
+      "externalIds": {
+        "imdb": "tt1149405"
+      },
+      "award": "美國紀錄片評審團大獎"
+    },
+    {
+      "id": "sundance-world-dramatic-2007-sweet-mud",
+      "mediaType": "movie",
+      "title": "Sweet Mud",
+      "originalTitle": "Adama Meshuga'at",
+      "awardYear": 2007,
+      "winner": "Dror Shaul",
+      "releaseDate": "2006",
+      "externalIds": {
+        "imdb": "tt0498846"
+      },
+      "award": "世界電影劇情片評審團大獎"
+    },
+    {
+      "id": "sundance-world-documentary-2007-enemies-of-happiness",
+      "mediaType": "movie",
+      "title": "Enemies of Happiness",
+      "awardYear": 2007,
+      "winner": "Eva Mulvad",
+      "releaseDate": "2006",
+      "externalIds": {
+        "imdb": "tt0924122"
+      },
+      "award": "世界電影紀錄片評審團大獎"
+    },
+    {
+      "id": "sundance-us-dramatic-2007-padre-nuestro",
+      "mediaType": "movie",
+      "title": "Padre Nuestro",
+      "awardYear": 2007,
+      "winner": "Christopher Zalla",
+      "releaseDate": "2007",
+      "externalIds": {
+        "imdb": "tt0834938"
+      },
+      "award": "美國劇情片評審團大獎"
+    },
+    {
+      "id": "sundance-us-documentary-2007-manda-bala-send-a-bullet",
+      "mediaType": "movie",
+      "title": "Manda Bala (Send a Bullet)",
+      "awardYear": 2007,
+      "winner": "Jason Kohn",
+      "releaseDate": "2007",
+      "externalIds": {
+        "imdb": "tt0912590"
+      },
+      "award": "美國紀錄片評審團大獎"
+    },
+    {
+      "id": "sundance-world-dramatic-2006-13-tzameti",
+      "mediaType": "movie",
+      "title": "13 Tzameti",
+      "awardYear": 2006,
+      "winner": "Géla Babluani",
+      "releaseDate": "2005",
+      "externalIds": {
+        "imdb": "tt0475169"
+      },
+      "award": "世界電影劇情片評審團大獎"
+    },
+    {
+      "id": "sundance-world-documentary-2006-in-the-pit",
+      "mediaType": "movie",
+      "title": "In the Pit",
+      "awardYear": 2006,
+      "winner": "Juan Carlos Rulfo",
+      "releaseDate": "2006",
+      "externalIds": {
+        "imdb": "tt0492464"
+      },
+      "award": "世界電影紀錄片評審團大獎"
+    },
+    {
+      "id": "sundance-us-dramatic-2006-quinceanera",
+      "mediaType": "movie",
+      "title": "Quinceañera",
+      "awardYear": 2006,
+      "winner": "Richard Glatzer & Wash Westmoreland",
+      "releaseDate": "2006",
+      "externalIds": {
+        "imdb": "tt0451176"
+      },
+      "award": "美國劇情片評審團大獎"
+    },
+    {
+      "id": "sundance-us-documentary-2006-god-grew-tired-of-us",
+      "mediaType": "movie",
+      "title": "God Grew Tired of Us",
+      "awardYear": 2006,
+      "winner": "Christopher Dillon Quinn & Tommy Walker",
+      "releaseDate": "2006",
+      "externalIds": {
+        "imdb": "tt0301555"
+      },
+      "award": "美國紀錄片評審團大獎"
+    },
+    {
+      "id": "sundance-world-dramatic-2005-the-hero",
+      "mediaType": "movie",
+      "title": "The Hero",
+      "awardYear": 2005,
+      "winner": "Zézé Gamboa",
+      "releaseDate": "2004",
+      "externalIds": {
+        "imdb": "tt0424142"
+      },
+      "award": "世界電影劇情片評審團大獎"
+    },
+    {
+      "id": "sundance-world-documentary-2005-shape-of-the-moon",
+      "mediaType": "movie",
+      "title": "Shape of the Moon",
+      "awardYear": 2005,
+      "winner": "Leonard Retel Helmrich",
+      "releaseDate": "2004",
+      "externalIds": {
+        "imdb": "tt0436794"
+      },
+      "award": "世界電影紀錄片評審團大獎"
+    },
+    {
+      "id": "sundance-us-dramatic-2005-forty-shades-of-blue",
+      "mediaType": "movie",
+      "title": "Forty Shades of Blue",
+      "awardYear": 2005,
+      "winner": "Ira Sachs",
+      "releaseDate": "2005",
+      "externalIds": {
+        "imdb": "tt0395543"
+      },
+      "award": "美國劇情片評審團大獎"
+    },
+    {
+      "id": "sundance-us-documentary-2005-why-we-fight",
+      "mediaType": "movie",
+      "title": "Why We Fight",
+      "awardYear": 2005,
+      "winner": "Eugene Jarecki",
+      "releaseDate": "2005",
+      "externalIds": {
+        "imdb": "tt0436971"
+      },
+      "award": "美國紀錄片評審團大獎"
+    },
+    {
+      "id": "sundance-us-dramatic-2004-primer",
+      "mediaType": "movie",
+      "title": "Primer",
+      "awardYear": 2004,
+      "winner": "Shane Carruth",
+      "releaseDate": "2004",
+      "externalIds": {
+        "imdb": "tt0390384"
+      },
+      "award": "美國劇情片評審團大獎"
+    },
+    {
+      "id": "sundance-us-documentary-2004-dig",
+      "mediaType": "movie",
+      "title": "DIG!",
+      "awardYear": 2004,
+      "winner": "Ondi Timoner",
+      "releaseDate": "2004",
+      "externalIds": {
+        "imdb": "tt0388888"
+      },
+      "award": "美國紀錄片評審團大獎"
+    },
+    {
+      "id": "sundance-us-dramatic-2003-american-splendor",
+      "mediaType": "movie",
+      "title": "American Splendor",
+      "awardYear": 2003,
+      "winner": "Shari Springer Berman & Robert Pulcini",
+      "releaseDate": "2003",
+      "externalIds": {
+        "imdb": "tt0305206"
+      },
+      "award": "美國劇情片評審團大獎"
+    },
+    {
+      "id": "sundance-us-documentary-2003-capturing-the-friedmans",
+      "mediaType": "movie",
+      "title": "Capturing the Friedmans",
+      "awardYear": 2003,
+      "winner": "Andrew Jarecki",
+      "releaseDate": "2003",
+      "externalIds": {
+        "imdb": "tt0342172"
+      },
+      "award": "美國紀錄片評審團大獎"
+    },
+    {
+      "id": "sundance-us-dramatic-2002-personal-velocity",
+      "mediaType": "movie",
+      "title": "Personal Velocity",
+      "awardYear": 2002,
+      "winner": "Rebecca Miller",
+      "releaseDate": "2002",
+      "externalIds": {
+        "imdb": "tt0295238"
+      },
+      "award": "美國劇情片評審團大獎"
+    },
+    {
+      "id": "sundance-us-documentary-2002-daughter-from-danang",
+      "mediaType": "movie",
+      "title": "Daughter from Danang",
+      "awardYear": 2002,
+      "winner": "Gail Dolgin & Vicente Franco",
+      "releaseDate": "2002",
+      "externalIds": {
+        "imdb": "tt0303281"
+      },
+      "award": "美國紀錄片評審團大獎"
+    },
+    {
+      "id": "sundance-us-dramatic-2001-the-believer",
+      "mediaType": "movie",
+      "title": "The Believer",
+      "awardYear": 2001,
+      "winner": "Henry Bean",
+      "releaseDate": "2001",
+      "externalIds": {
+        "imdb": "tt0247199"
+      },
+      "award": "美國劇情片評審團大獎"
+    },
+    {
+      "id": "sundance-us-documentary-2001-southern-comfort",
+      "mediaType": "movie",
+      "title": "Southern Comfort",
+      "awardYear": 2001,
+      "winner": "Kate Davis",
+      "releaseDate": "2001",
+      "externalIds": {
+        "imdb": "tt0276515"
+      },
+      "award": "美國紀錄片評審團大獎"
+    },
+    {
+      "id": "sundance-us-dramatic-2000-girlfight",
+      "mediaType": "movie",
+      "title": "Girlfight",
+      "awardYear": 2000,
+      "winner": "Karyn Kusama",
+      "releaseDate": "2000",
+      "externalIds": {
+        "imdb": "tt0210075"
+      },
+      "award": "美國劇情片評審團大獎"
+    },
+    {
+      "id": "sundance-us-dramatic-2000-you-can-count-on-me",
+      "mediaType": "movie",
+      "title": "You Can Count on Me",
+      "awardYear": 2000,
+      "winner": "Kenneth Lonergan",
+      "releaseDate": "2000",
+      "externalIds": {
+        "imdb": "tt0203230"
+      },
+      "award": "美國劇情片評審團大獎"
+    },
+    {
+      "id": "sundance-us-documentary-2000-long-night-s-journey-into-day",
+      "mediaType": "movie",
+      "title": "Long Night's Journey Into Day",
+      "awardYear": 2000,
+      "winner": "Deborah Hoffmann & Frances Reid",
+      "releaseDate": "2000",
+      "externalIds": {
+        "imdb": "tt0236447"
+      },
+      "award": "美國紀錄片評審團大獎"
+    },
+    {
+      "id": "sundance-us-dramatic-1999-three-seasons",
+      "mediaType": "movie",
+      "title": "Three Seasons",
+      "awardYear": 1999,
+      "winner": "Tony Bui",
+      "releaseDate": "1999",
+      "externalIds": {
+        "imdb": "tt0138874"
+      },
+      "award": "美國劇情片評審團大獎"
+    },
+    {
+      "id": "sundance-us-documentary-1999-american-movie",
+      "mediaType": "movie",
+      "title": "American Movie",
+      "awardYear": 1999,
+      "winner": "Chris Smith",
+      "releaseDate": "1999",
+      "externalIds": {
+        "imdb": "tt0181288"
+      },
+      "award": "美國紀錄片評審團大獎"
+    },
+    {
+      "id": "sundance-us-dramatic-1998-slam",
+      "mediaType": "movie",
+      "title": "Slam",
+      "awardYear": 1998,
+      "winner": "Marc Levin",
+      "releaseDate": "1998",
+      "externalIds": {
+        "imdb": "tt0139615"
+      },
+      "award": "美國劇情片評審團大獎"
+    },
+    {
+      "id": "sundance-us-documentary-1998-frat-house",
+      "mediaType": "movie",
+      "title": "Frat House",
+      "awardYear": 1998,
+      "winner": "Andrew Gurland & Todd Phillips",
+      "releaseDate": "1998",
+      "externalIds": {
+        "imdb": "tt0139221"
+      },
+      "award": "美國紀錄片評審團大獎"
+    },
+    {
+      "id": "sundance-us-documentary-1998-the-farm-angola-usa",
+      "mediaType": "movie",
+      "title": "The Farm: Angola, USA",
+      "awardYear": 1998,
+      "winner": "Liz Garbus & Wilbert Rideau & Jonathan Stack",
+      "releaseDate": "1998",
+      "externalIds": {
+        "imdb": "tt0139193"
+      },
+      "award": "美國紀錄片評審團大獎"
+    },
+    {
+      "id": "sundance-us-dramatic-1997-sunday",
+      "mediaType": "movie",
+      "title": "Sunday",
+      "awardYear": 1997,
+      "winner": "Jonathan Nossiter",
+      "releaseDate": "1997",
+      "externalIds": {
+        "imdb": "tt0120244"
+      },
+      "award": "美國劇情片評審團大獎"
+    },
+    {
+      "id": "sundance-us-documentary-1997-girls-like-us",
+      "mediaType": "movie",
+      "title": "Girls Like Us",
+      "awardYear": 1997,
+      "winner": "Jane C. Wagner & Tina DiFeliciantonio",
+      "releaseDate": "1997",
+      "externalIds": {
+        "imdb": "tt0116415"
+      },
+      "award": "美國紀錄片評審團大獎"
+    },
+    {
+      "id": "sundance-us-dramatic-1996-welcome-to-the-dollhouse",
+      "mediaType": "movie",
+      "title": "Welcome to the Dollhouse",
+      "awardYear": 1996,
+      "winner": "Todd Solondz",
+      "releaseDate": "1995",
+      "externalIds": {
+        "imdb": "tt0114906"
+      },
+      "award": "美國劇情片評審團大獎"
+    },
+    {
+      "id": "sundance-us-documentary-1996-troublesome-creek-a-midwestern",
+      "mediaType": "movie",
+      "title": "Troublesome Creek: A Midwestern",
+      "awardYear": 1996,
+      "winner": "Steven Ascher & Jeanne Jordan",
+      "releaseDate": "1995",
+      "externalIds": {
+        "imdb": "tt1614420"
+      },
+      "award": "美國紀錄片評審團大獎"
+    },
+    {
+      "id": "sundance-us-dramatic-1995-the-brothers-mcmullen",
+      "mediaType": "movie",
+      "title": "The Brothers McMullen",
+      "awardYear": 1995,
+      "winner": "Edward Burns",
+      "releaseDate": "1995",
+      "externalIds": {
+        "imdb": "tt0112585"
+      },
+      "award": "美國劇情片評審團大獎"
+    },
+    {
+      "id": "sundance-us-dramatic-1995-the-young-poisoner-s-handbook",
+      "mediaType": "movie",
+      "title": "The Young Poisoner's Handbook",
+      "awardYear": 1995,
+      "winner": "Benjamin Ross",
+      "releaseDate": "1995",
+      "externalIds": {
+        "imdb": "tt0115033"
+      },
+      "award": "美國劇情片評審團大獎"
+    },
+    {
+      "id": "sundance-us-documentary-1995-crumb",
+      "mediaType": "movie",
+      "title": "Crumb",
+      "awardYear": 1995,
+      "winner": "Terry Zwigoff",
+      "releaseDate": "1994",
+      "externalIds": {
+        "imdb": "tt0109508"
+      },
+      "award": "美國紀錄片評審團大獎"
+    },
+    {
+      "id": "sundance-us-dramatic-1994-what-happened-was",
+      "mediaType": "movie",
+      "title": "What Happened Was...",
+      "awardYear": 1994,
+      "winner": "Tom Noonan",
+      "releaseDate": "1994",
+      "externalIds": {
+        "imdb": "tt0111689"
+      },
+      "award": "美國劇情片評審團大獎"
+    },
+    {
+      "id": "sundance-us-documentary-1994-freedom-on-my-mind",
+      "mediaType": "movie",
+      "title": "Freedom on My Mind",
+      "awardYear": 1994,
+      "winner": "Connie Field & Marilyn Mulford",
+      "releaseDate": "1994",
+      "externalIds": {
+        "imdb": "tt0109839"
+      },
+      "award": "美國紀錄片評審團大獎"
+    },
+    {
+      "id": "sundance-us-dramatic-1993-public-access",
+      "mediaType": "movie",
+      "title": "Public Access",
+      "awardYear": 1993,
+      "winner": "Bryan Singer",
+      "releaseDate": "1993",
+      "externalIds": {
+        "imdb": "tt0107895"
+      },
+      "award": "美國劇情片評審團大獎"
+    },
+    {
+      "id": "sundance-us-dramatic-1993-ruby-in-paradise",
+      "mediaType": "movie",
+      "title": "Ruby in Paradise",
+      "awardYear": 1993,
+      "winner": "Victor Nuñez",
+      "releaseDate": "1993",
+      "externalIds": {
+        "imdb": "tt0108000"
+      },
+      "award": "美國劇情片評審團大獎"
+    },
+    {
+      "id": "sundance-us-documentary-1993-children-of-fate-life-and-death-in-a-sicilian-family",
+      "mediaType": "movie",
+      "title": "Children of Fate: Life and Death in a Sicilian Family",
+      "awardYear": 1993,
+      "winner": "Michael Roemer & Susan Todd & Andrew Young & Robert M. Young",
+      "releaseDate": "1993",
+      "externalIds": {
+        "imdb": "tt0106556"
+      },
+      "award": "美國紀錄片評審團大獎"
+    },
+    {
+      "id": "sundance-us-documentary-1993-silverlake-life-the-view-from-here",
+      "mediaType": "movie",
+      "title": "Silverlake Life: The View from Here",
+      "awardYear": 1993,
+      "winner": "Tom Joslin & Peter Friedman",
+      "releaseDate": "1993",
+      "externalIds": {
+        "imdb": "tt0108138"
+      },
+      "award": "美國紀錄片評審團大獎"
+    },
+    {
+      "id": "sundance-us-dramatic-1992-in-the-soup",
+      "mediaType": "movie",
+      "title": "In the Soup",
+      "awardYear": 1992,
+      "winner": "Alexandre Rockwell",
+      "releaseDate": "1992",
+      "externalIds": {
+        "imdb": "tt0104503"
+      },
+      "award": "美國劇情片評審團大獎"
+    },
+    {
+      "id": "sundance-us-documentary-1992-a-brief-history-of-time",
+      "mediaType": "movie",
+      "title": "A Brief History of Time",
+      "awardYear": 1992,
+      "winner": "Errol Morris",
+      "releaseDate": "1991",
+      "externalIds": {
+        "imdb": "tt0103882"
+      },
+      "award": "美國紀錄片評審團大獎"
+    },
+    {
+      "id": "sundance-us-documentary-1992-finding-christa",
+      "mediaType": "movie",
+      "title": "Finding Christa",
+      "awardYear": 1992,
+      "winner": "Camille Billops & James Hatch",
+      "releaseDate": "1991",
+      "externalIds": {
+        "imdb": "tt0123071"
+      },
+      "award": "美國紀錄片評審團大獎"
+    },
+    {
+      "id": "sundance-us-dramatic-1991-poison",
+      "mediaType": "movie",
+      "title": "Poison",
+      "awardYear": 1991,
+      "winner": "Todd Haynes",
+      "releaseDate": "1991",
+      "externalIds": {
+        "imdb": "tt0102687"
+      },
+      "award": "美國劇情片評審團大獎"
+    },
+    {
+      "id": "sundance-us-documentary-1991-american-dream",
+      "mediaType": "movie",
+      "title": "American Dream",
+      "awardYear": 1991,
+      "winner": "Cathy Caplan & Thomas Haneke & Barbara Kopple & Lawrence Silk",
+      "releaseDate": "1990",
+      "externalIds": {
+        "imdb": "tt0099028"
+      },
+      "award": "美國紀錄片評審團大獎"
+    },
+    {
+      "id": "sundance-us-documentary-1991-paris-is-burning",
+      "mediaType": "movie",
+      "title": "Paris Is Burning",
+      "awardYear": 1991,
+      "winner": "Jennie Livingston",
+      "releaseDate": "1990",
+      "externalIds": {
+        "imdb": "tt0100332"
+      },
+      "award": "美國紀錄片評審團大獎"
+    },
+    {
+      "id": "sundance-us-dramatic-1990-chameleon-street",
+      "mediaType": "movie",
+      "title": "Chameleon Street",
+      "awardYear": 1990,
+      "winner": "Wendell B. Harris Jr.",
+      "releaseDate": "1989",
+      "externalIds": {
+        "imdb": "tt0101561"
+      },
+      "award": "美國劇情片評審團大獎"
+    },
+    {
+      "id": "sundance-us-documentary-1990-h-2-worker",
+      "mediaType": "movie",
+      "title": "H-2 Worker",
+      "awardYear": 1990,
+      "winner": "Stephanie Black",
+      "releaseDate": "1990",
+      "externalIds": {
+        "imdb": "tt0123097"
+      },
+      "award": "美國紀錄片評審團大獎"
+    },
+    {
+      "id": "sundance-us-documentary-1990-water-and-power",
+      "mediaType": "movie",
+      "title": "Water and Power",
+      "awardYear": 1990,
+      "winner": "Pat O'Neill",
+      "releaseDate": "1989",
+      "externalIds": {
+        "imdb": "tt0098624"
+      },
+      "award": "美國紀錄片評審團大獎"
+    },
+    {
+      "id": "sundance-us-dramatic-1989-true-love",
+      "mediaType": "movie",
+      "title": "True Love",
+      "awardYear": 1989,
+      "winner": "Nancy Savoca",
+      "releaseDate": "1989",
+      "externalIds": {
+        "imdb": "tt0098528"
+      },
+      "award": "美國劇情片評審團大獎"
+    },
+    {
+      "id": "sundance-us-documentary-1989-for-all-mankind",
+      "mediaType": "movie",
+      "title": "For All Mankind",
+      "awardYear": 1989,
+      "winner": "Al Reinert",
+      "releaseDate": "1989",
+      "externalIds": {
+        "imdb": "tt0097372"
+      },
+      "award": "美國紀錄片評審團大獎"
+    },
+    {
+      "id": "sundance-us-dramatic-1988-heat-and-sunlight",
+      "mediaType": "movie",
+      "title": "Heat and Sunlight",
+      "awardYear": 1988,
+      "winner": "Rob Nilsson",
+      "releaseDate": "1987",
+      "externalIds": {
+        "imdb": "tt0093165"
+      },
+      "award": "美國劇情片評審團大獎"
+    },
+    {
+      "id": "sundance-us-documentary-1988-beirut-the-last-home-movie",
+      "mediaType": "movie",
+      "title": "Beirut: The Last Home Movie",
+      "awardYear": 1988,
+      "winner": "Jennifer Fox",
+      "releaseDate": "1987",
+      "externalIds": {
+        "imdb": "tt0092630"
+      },
+      "award": "美國紀錄片評審團大獎"
+    },
+    {
+      "id": "sundance-us-dramatic-1987-trouble-with-dick",
+      "mediaType": "movie",
+      "title": "Trouble with Dick",
+      "awardYear": 1987,
+      "winner": "Gary Walkow",
+      "releaseDate": "1987",
+      "externalIds": {
+        "imdb": "tt0094187"
+      },
+      "award": "美國劇情片評審團大獎"
+    },
+    {
+      "id": "sundance-us-dramatic-1987-waiting-for-the-moon",
+      "mediaType": "movie",
+      "title": "Waiting for the Moon",
+      "awardYear": 1987,
+      "winner": "Jill Godmilow",
+      "releaseDate": "1987",
+      "externalIds": {
+        "imdb": "tt0094286"
+      },
+      "award": "美國劇情片評審團大獎"
+    },
+    {
+      "id": "sundance-us-documentary-1987-sherman-s-march",
+      "mediaType": "movie",
+      "title": "Sherman's March",
+      "awardYear": 1987,
+      "winner": "Ross McElwee",
+      "releaseDate": "1985",
+      "externalIds": {
+        "imdb": "tt0091943"
+      },
+      "award": "美國紀錄片評審團大獎"
+    },
+    {
+      "id": "sundance-us-dramatic-1986-smooth-talk",
+      "mediaType": "movie",
+      "title": "Smooth Talk",
+      "awardYear": 1986,
+      "winner": "Joyce Chopra",
+      "releaseDate": "1985",
+      "externalIds": {
+        "imdb": "tt0090037"
+      },
+      "award": "美國劇情片評審團大獎"
+    },
+    {
+      "id": "sundance-us-documentary-1986-private-conversations",
+      "mediaType": "movie",
+      "title": "Private Conversations",
+      "awardYear": 1986,
+      "winner": "Christian Blackwood",
+      "releaseDate": "1985",
+      "externalIds": {
+        "imdb": "tt0123230"
+      },
+      "award": "美國紀錄片評審團大獎"
+    },
+    {
+      "id": "sundance-us-dramatic-1985-blood-simple",
+      "mediaType": "movie",
+      "title": "Blood Simple",
+      "awardYear": 1985,
+      "winner": "Joel Coen & Ethan Coen",
+      "releaseDate": "1984",
+      "externalIds": {
+        "imdb": "tt0086979"
+      },
+      "award": "美國劇情片評審團大獎"
+    },
+    {
+      "id": "sundance-us-documentary-1985-seventeen",
+      "mediaType": "movie",
+      "title": "Seventeen",
+      "awardYear": 1985,
+      "winner": "Joel DeMott & Jeff Kreines",
+      "releaseDate": "1983",
+      "externalIds": {
+        "imdb": "tt0086290"
+      },
+      "award": "美國紀錄片評審團大獎"
+    }
+  ]
+}

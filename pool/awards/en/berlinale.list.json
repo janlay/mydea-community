@@ -1,0 +1,5721 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "title": "Berlin International Film Festival",
+  "author": "Mydea",
+  "server": "TMDB",
+  "updatedAt": "2026-09-10T15:30:00Z",
+  "description": "Berlin International Film Festival",
+  "items": [
+    {
+      "id": "berlinale-golden-bear-2026-yellow-letters",
+      "mediaType": "movie",
+      "title": "Yellow Letters",
+      "awardYear": 2026,
+      "winner": "İlker Çatak",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt32888226"
+      },
+      "award": "Golden Bear for Best Film",
+      "awardOrder": 1
+    },
+    {
+      "id": "berlinale-grand-jury-prize-2026-salvation",
+      "mediaType": "movie",
+      "title": "Salvation",
+      "awardYear": 2026,
+      "winner": "Emin Alper",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt36472181"
+      },
+      "award": "Silver Bear Grand Jury Prize",
+      "awardOrder": 2
+    },
+    {
+      "id": "berlinale-jury-prize-2026-queen-at-sea",
+      "mediaType": "movie",
+      "title": "Queen at Sea",
+      "awardYear": 2026,
+      "winner": "Lance Hammer",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt27541205"
+      },
+      "award": "Silver Bear Jury Prize",
+      "awardOrder": 3
+    },
+    {
+      "id": "berlinale-best-director-2026-everybody-digs-bill-evans",
+      "mediaType": "movie",
+      "title": "Everybody Digs Bill Evans",
+      "awardYear": 2026,
+      "winner": "Grant Gee",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt34347792"
+      },
+      "award": "Silver Bear for Best Director",
+      "awardOrder": 4
+    },
+    {
+      "id": "berlinale-best-leading-performance-2026-rose",
+      "mediaType": "movie",
+      "title": "Rose",
+      "awardYear": 2026,
+      "winner": "Sandra Hüller",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt25399154"
+      },
+      "award": "Silver Bear for Best Leading Performance",
+      "awardOrder": 5
+    },
+    {
+      "id": "berlinale-best-screenplay-2026-nina-roza",
+      "mediaType": "movie",
+      "title": "Nina Roza",
+      "awardYear": 2026,
+      "winner": "Geneviève Dulude-De Celles",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt29271639"
+      },
+      "award": "Silver Bear for Best Screenplay",
+      "awardOrder": 7
+    },
+    {
+      "id": "berlinale-best-supporting-performance-2026-queen-at-sea",
+      "mediaType": "movie",
+      "title": "Queen at Sea",
+      "awardYear": 2026,
+      "winner": "Tom Courtenay & Anna Calder-Marshall",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt27541205"
+      },
+      "award": "Silver Bear for Best Supporting Performance",
+      "awardOrder": 6
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-2026-yo-love-is-a-rebellious-bird",
+      "mediaType": "movie",
+      "title": "Yo (Love Is a Rebellious Bird)",
+      "awardYear": 2026,
+      "winner": "Anna Fitch & Banker White",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt39382829"
+      },
+      "award": "Silver Bear for Outstanding Artistic Contribution",
+      "awardOrder": 8
+    },
+    {
+      "id": "berlinale-golden-bear-2025-dreams-sex-love",
+      "mediaType": "movie",
+      "title": "Dreams (Sex Love)",
+      "awardYear": 2025,
+      "winner": "Dag Johan Haugerud",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt30810787"
+      },
+      "award": "Golden Bear for Best Film",
+      "awardOrder": 1
+    },
+    {
+      "id": "berlinale-grand-jury-prize-2025-the-blue-trail",
+      "mediaType": "movie",
+      "title": "The Blue Trail",
+      "awardYear": 2025,
+      "winner": "Gabriel Mascaro",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt35340614"
+      },
+      "award": "Silver Bear Grand Jury Prize",
+      "awardOrder": 2
+    },
+    {
+      "id": "berlinale-jury-prize-2025-the-message",
+      "mediaType": "movie",
+      "title": "The Message",
+      "awardYear": 2025,
+      "winner": "Iván Fund",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt35499146"
+      },
+      "award": "Silver Bear Jury Prize",
+      "awardOrder": 3
+    },
+    {
+      "id": "berlinale-best-director-2025-living-the-land",
+      "mediaType": "movie",
+      "title": "Living the Land",
+      "awardYear": 2025,
+      "winner": "Huo Meng",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31079597"
+      },
+      "award": "Silver Bear for Best Director",
+      "awardOrder": 4
+    },
+    {
+      "id": "berlinale-best-leading-performance-2025-if-i-had-legs-i-d-kick-you",
+      "mediaType": "movie",
+      "title": "If I Had Legs I'd Kick You",
+      "awardYear": 2025,
+      "winner": "Rose Byrne",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt18382850"
+      },
+      "award": "Silver Bear for Best Leading Performance",
+      "awardOrder": 5
+    },
+    {
+      "id": "berlinale-best-screenplay-2025-kontinental-25",
+      "mediaType": "movie",
+      "title": "Kontinental '25",
+      "awardYear": 2025,
+      "winner": "Radu Jude",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt35492581"
+      },
+      "award": "Silver Bear for Best Screenplay",
+      "awardOrder": 7
+    },
+    {
+      "id": "berlinale-best-supporting-performance-2025-blue-moon",
+      "mediaType": "movie",
+      "title": "Blue Moon",
+      "awardYear": 2025,
+      "winner": "Andrew Scott",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt32536315"
+      },
+      "award": "Silver Bear for Best Supporting Performance",
+      "awardOrder": 6
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-2025-the-ice-tower",
+      "mediaType": "movie",
+      "title": "The Ice Tower",
+      "awardYear": 2025,
+      "winner": "Lucile Hadžihalilović and creative ensemble",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt28171985"
+      },
+      "award": "Silver Bear for Outstanding Artistic Contribution",
+      "awardOrder": 8
+    },
+    {
+      "id": "berlinale-golden-bear-2024-dahomey",
+      "mediaType": "movie",
+      "title": "Dahomey",
+      "awardYear": 2024,
+      "winner": "Mati Diop",
+      "releaseDate": "2024",
+      "externalIds": {
+        "tmdb": "1101256",
+        "imdb": "tt30057084"
+      },
+      "posterPath": "https://image.tmdb.org/t/p/w342/9d8KvJ3OjUq9rwuM743QPQO48aL.jpg",
+      "award": "Golden Bear for Best Film",
+      "awardOrder": 1
+    },
+    {
+      "id": "berlinale-grand-jury-prize-2024-a-traveler-s-needs",
+      "mediaType": "movie",
+      "title": "A Traveler's Needs",
+      "awardYear": 2024,
+      "winner": "Hong Sangsoo",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt31015344"
+      },
+      "award": "Silver Bear Grand Jury Prize",
+      "awardOrder": 2
+    },
+    {
+      "id": "berlinale-jury-prize-2024-the-empire",
+      "mediaType": "movie",
+      "title": "The Empire",
+      "awardYear": 2024,
+      "winner": "Bruno Dumont",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt17375596"
+      },
+      "award": "Silver Bear Jury Prize",
+      "awardOrder": 3
+    },
+    {
+      "id": "berlinale-best-director-2024-pepe",
+      "mediaType": "movie",
+      "title": "Pepe",
+      "awardYear": 2024,
+      "winner": "Nelson Carlos De Los Santos Arias",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt10781034"
+      },
+      "award": "Silver Bear for Best Director",
+      "awardOrder": 4
+    },
+    {
+      "id": "berlinale-best-leading-performance-2024-a-different-man",
+      "mediaType": "movie",
+      "title": "A Different Man",
+      "awardYear": 2024,
+      "winner": "Sebastian Stan",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt21097228"
+      },
+      "award": "Silver Bear for Best Leading Performance",
+      "awardOrder": 5
+    },
+    {
+      "id": "berlinale-best-screenplay-2024-dying",
+      "mediaType": "movie",
+      "title": "Dying",
+      "awardYear": 2024,
+      "winner": "Matthias Glasner",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt27196021"
+      },
+      "award": "Silver Bear for Best Screenplay",
+      "awardOrder": 7
+    },
+    {
+      "id": "berlinale-best-supporting-performance-2024-small-things-like-these",
+      "mediaType": "movie",
+      "title": "Small Things Like These",
+      "awardYear": 2024,
+      "winner": "Emily Watson",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt27165281"
+      },
+      "award": "Silver Bear for Best Supporting Performance",
+      "awardOrder": 6
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-2024-the-devil-s-bath",
+      "mediaType": "movie",
+      "title": "The Devil's Bath",
+      "awardYear": 2024,
+      "winner": "Martin Gschlacht",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt29141112"
+      },
+      "award": "Silver Bear for Outstanding Artistic Contribution",
+      "awardOrder": 8
+    },
+    {
+      "id": "berlinale-golden-bear-2023-on-the-adamant",
+      "mediaType": "movie",
+      "title": "On the Adamant",
+      "awardYear": 2023,
+      "winner": "Nicolas Philibert",
+      "releaseDate": "2023",
+      "externalIds": {
+        "tmdb": "1070449",
+        "imdb": "tt26448811"
+      },
+      "award": "Golden Bear for Best Film",
+      "awardOrder": 1
+    },
+    {
+      "id": "berlinale-grand-jury-prize-2023-afire",
+      "mediaType": "movie",
+      "title": "Afire",
+      "awardYear": 2023,
+      "winner": "Christian Petzold",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt26440619"
+      },
+      "award": "Silver Bear Grand Jury Prize",
+      "awardOrder": 2
+    },
+    {
+      "id": "berlinale-jury-prize-2023-bad-living",
+      "mediaType": "movie",
+      "title": "Bad Living",
+      "awardYear": 2023,
+      "winner": "João Canijo",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt14007288"
+      },
+      "award": "Silver Bear Jury Prize",
+      "awardOrder": 3
+    },
+    {
+      "id": "berlinale-best-director-2023-the-plough",
+      "mediaType": "movie",
+      "title": "The Plough",
+      "awardYear": 2023,
+      "winner": "Philippe Garrel",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt15531718"
+      },
+      "award": "Silver Bear for Best Director",
+      "awardOrder": 4
+    },
+    {
+      "id": "berlinale-best-leading-performance-2023-20-000-species-of-bees",
+      "mediaType": "movie",
+      "title": "20,000 Species of Bees",
+      "awardYear": 2023,
+      "winner": "Sofía Otero",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt21113962"
+      },
+      "award": "Silver Bear for Best Leading Performance",
+      "awardOrder": 5
+    },
+    {
+      "id": "berlinale-best-screenplay-2023-music",
+      "mediaType": "movie",
+      "title": "Music",
+      "awardYear": 2023,
+      "winner": "Angela Schanelec",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt15547924"
+      },
+      "award": "Silver Bear for Best Screenplay",
+      "awardOrder": 7
+    },
+    {
+      "id": "berlinale-best-supporting-performance-2023-till-the-end-of-the-night",
+      "mediaType": "movie",
+      "title": "Till the End of the Night",
+      "awardYear": 2023,
+      "winner": "Thea Ehre",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt23283892"
+      },
+      "award": "Silver Bear for Best Supporting Performance",
+      "awardOrder": 6
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-2023-disco-boy",
+      "mediaType": "movie",
+      "title": "Disco Boy",
+      "awardYear": 2023,
+      "winner": "Hélène Louvart",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt22180518"
+      },
+      "award": "Silver Bear for Outstanding Artistic Contribution",
+      "awardOrder": 8
+    },
+    {
+      "id": "berlinale-golden-bear-2022-alcarras",
+      "mediaType": "movie",
+      "title": "Alcarràs",
+      "awardYear": 2022,
+      "winner": "Carla Simón",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt11930126"
+      },
+      "award": "Golden Bear for Best Film",
+      "awardOrder": 1
+    },
+    {
+      "id": "berlinale-grand-jury-prize-2022-the-novelist-s-film",
+      "mediaType": "movie",
+      "title": "The Novelist's Film",
+      "awardYear": 2022,
+      "winner": "Hong Sangsoo",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt17146978"
+      },
+      "award": "Silver Bear Grand Jury Prize",
+      "awardOrder": 2
+    },
+    {
+      "id": "berlinale-jury-prize-2022-robe-of-gems",
+      "mediaType": "movie",
+      "title": "Robe of Gems",
+      "awardYear": 2022,
+      "winner": "Natalia López Gallardo",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt17280362"
+      },
+      "award": "Silver Bear Jury Prize",
+      "awardOrder": 3
+    },
+    {
+      "id": "berlinale-best-director-2022-both-sides-of-the-blade",
+      "mediaType": "movie",
+      "title": "Both Sides of the Blade",
+      "awardYear": 2022,
+      "winner": "Claire Denis",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt13535920"
+      },
+      "award": "Silver Bear for Best Director",
+      "awardOrder": 4
+    },
+    {
+      "id": "berlinale-best-leading-performance-2022-rabiye-kurnaz-vs-george-w-bush",
+      "mediaType": "movie",
+      "title": "Rabiye Kurnaz vs. George W. Bush",
+      "awardYear": 2022,
+      "winner": "Meltem Kaptan",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt13471738"
+      },
+      "award": "Silver Bear for Best Leading Performance",
+      "awardOrder": 5
+    },
+    {
+      "id": "berlinale-best-screenplay-2022-rabiye-kurnaz-vs-george-w-bush",
+      "mediaType": "movie",
+      "title": "Rabiye Kurnaz vs. George W. Bush",
+      "awardYear": 2022,
+      "winner": "Laila Stieler",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt13471738"
+      },
+      "award": "Silver Bear for Best Screenplay",
+      "awardOrder": 7
+    },
+    {
+      "id": "berlinale-best-supporting-performance-2022-before-now-and-then",
+      "mediaType": "movie",
+      "title": "Before, Now & Then",
+      "awardYear": 2022,
+      "winner": "Laura Basuki",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt15215918"
+      },
+      "award": "Silver Bear for Best Supporting Performance",
+      "awardOrder": 6
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-2022-everything-will-be-ok",
+      "mediaType": "movie",
+      "title": "Everything Will Be Ok",
+      "awardYear": 2022,
+      "winner": "Rithy Panh & Sarit Mang",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt15386518"
+      },
+      "award": "Silver Bear for Outstanding Artistic Contribution",
+      "awardOrder": 8
+    },
+    {
+      "id": "berlinale-golden-bear-2021-bad-luck-banging-or-loony-porn",
+      "mediaType": "movie",
+      "title": "Bad Luck Banging or Loony Porn",
+      "awardYear": 2021,
+      "winner": "Radu Jude",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14033502"
+      },
+      "backdropPath": "https://image.tmdb.org/t/p/w342/cq7ZThEzrW7TstuTh8gzRK0FpfM.jpg",
+      "award": "Golden Bear for Best Film",
+      "awardOrder": 1
+    },
+    {
+      "id": "berlinale-grand-jury-prize-2021-wheel-of-fortune-and-fantasy",
+      "mediaType": "movie",
+      "title": "Wheel of Fortune and Fantasy",
+      "awardYear": 2021,
+      "winner": "Ryusuke Hamaguchi",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14034966"
+      },
+      "award": "Silver Bear Grand Jury Prize",
+      "awardOrder": 2
+    },
+    {
+      "id": "berlinale-jury-prize-2021-mr-bachmann-and-his-class",
+      "mediaType": "movie",
+      "title": "Mr Bachmann and His Class",
+      "awardYear": 2021,
+      "winner": "Maria Speth",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14035048"
+      },
+      "award": "Silver Bear Jury Prize",
+      "awardOrder": 3
+    },
+    {
+      "id": "berlinale-best-director-2021-natural-light",
+      "mediaType": "movie",
+      "title": "Natural Light",
+      "awardYear": 2021,
+      "winner": "Dénes Nagy",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt11681056"
+      },
+      "award": "Silver Bear for Best Director",
+      "awardOrder": 4
+    },
+    {
+      "id": "berlinale-best-leading-performance-2021-i-m-your-man",
+      "mediaType": "movie",
+      "title": "I'm Your Man",
+      "awardYear": 2021,
+      "winner": "Maren Eggert",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt13087796"
+      },
+      "award": "Silver Bear for Best Leading Performance",
+      "awardOrder": 5
+    },
+    {
+      "id": "berlinale-best-screenplay-2021-introduction",
+      "mediaType": "movie",
+      "title": "Introduction",
+      "awardYear": 2021,
+      "winner": "Hong Sangsoo",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14035108"
+      },
+      "award": "Silver Bear for Best Screenplay",
+      "awardOrder": 7
+    },
+    {
+      "id": "berlinale-best-supporting-performance-2021-forest-i-see-you-everywhere",
+      "mediaType": "movie",
+      "title": "Forest – I See You Everywhere",
+      "awardYear": 2021,
+      "winner": "Lilla Kizlinger",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14033416"
+      },
+      "award": "Silver Bear for Best Supporting Performance",
+      "awardOrder": 6
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-2021-a-cop-movie",
+      "mediaType": "movie",
+      "title": "A Cop Movie",
+      "awardYear": 2021,
+      "winner": "Yibrán Asuad",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14035242"
+      },
+      "award": "Silver Bear for Outstanding Artistic Contribution",
+      "awardOrder": 8
+    },
+    {
+      "id": "berlinale-golden-bear-2020-there-is-no-evil",
+      "mediaType": "movie",
+      "title": "There Is No Evil",
+      "awardYear": 2020,
+      "winner": "Mohammad Rasoulof",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt11697844"
+      },
+      "backdropPath": "https://image.tmdb.org/t/p/w342/59vPeo5aylXS5uEo5uS46cjGKRz.jpg",
+      "award": "Golden Bear for Best Film",
+      "awardOrder": 1
+    },
+    {
+      "id": "berlinale-grand-jury-prize-2020-never-rarely-sometimes-always",
+      "mediaType": "movie",
+      "title": "Never Rarely Sometimes Always",
+      "awardYear": 2020,
+      "winner": "Eliza Hittman",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt7772582"
+      },
+      "award": "Silver Bear Grand Jury Prize",
+      "awardOrder": 2
+    },
+    {
+      "id": "berlinale-best-actor-2020-hidden-away",
+      "mediaType": "movie",
+      "title": "Hidden Away",
+      "awardYear": 2020,
+      "winner": "Elio Germano",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt8478554"
+      },
+      "award": "Silver Bear for Best Actor (Historical)",
+      "awardOrder": 6
+    },
+    {
+      "id": "berlinale-best-actress-2020-undine",
+      "mediaType": "movie",
+      "title": "Undine",
+      "awardYear": 2020,
+      "winner": "Paula Beer",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt11617052"
+      },
+      "award": "Silver Bear for Best Actress (Historical)",
+      "awardOrder": 5
+    },
+    {
+      "id": "berlinale-best-director-2020-the-woman-who-ran",
+      "mediaType": "movie",
+      "title": "The Woman Who Ran",
+      "awardYear": 2020,
+      "winner": "Hong Sangsoo",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt11738830"
+      },
+      "award": "Silver Bear for Best Director",
+      "awardOrder": 4
+    },
+    {
+      "id": "berlinale-best-screenplay-2020-bad-tales",
+      "mediaType": "movie",
+      "title": "Bad Tales",
+      "awardYear": 2020,
+      "winner": "Damiano D'Innocenzo & Fabio D'Innocenzo",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt8526370"
+      },
+      "award": "Silver Bear for Best Screenplay",
+      "awardOrder": 7
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-2020-dau-natasha",
+      "mediaType": "movie",
+      "title": "DAU. Natasha",
+      "awardYear": 2020,
+      "winner": "Jürgen Jürges",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt11905962"
+      },
+      "award": "Silver Bear for Outstanding Artistic Contribution",
+      "awardOrder": 8
+    },
+    {
+      "id": "berlinale-70th-silver-bear-2020-delete-history",
+      "mediaType": "movie",
+      "title": "Delete History",
+      "awardYear": 2020,
+      "winner": "Benoît Delépine & Gustave Kervern",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10627352"
+      },
+      "award": "Silver Bear – 70th Berlinale",
+      "awardOrder": 3
+    },
+    {
+      "id": "berlinale-alfred-bauer-prize-2019-system-crasher",
+      "mediaType": "movie",
+      "title": "System Crasher",
+      "awardYear": 2019,
+      "winner": "Nora Fingscheidt",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt8535968"
+      },
+      "backdropPath": "https://image.tmdb.org/t/p/w342/bTRgchpjedlfCKL2TbQPIdvWDtp.jpg",
+      "award": "Alfred Bauer Prize (Historical)",
+      "awardOrder": 3
+    },
+    {
+      "id": "berlinale-golden-bear-2019-synonyms",
+      "mediaType": "movie",
+      "title": "Synonyms",
+      "awardYear": 2019,
+      "winner": "Nadav Lapid",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt7019942"
+      },
+      "award": "Golden Bear for Best Film",
+      "awardOrder": 1
+    },
+    {
+      "id": "berlinale-grand-jury-prize-2019-by-the-grace-of-god",
+      "mediaType": "movie",
+      "title": "By the Grace of God",
+      "awardYear": 2019,
+      "winner": "François Ozon",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt8095860"
+      },
+      "award": "Silver Bear Grand Jury Prize",
+      "awardOrder": 2
+    },
+    {
+      "id": "berlinale-best-actor-2019-so-long-my-son",
+      "mediaType": "movie",
+      "title": "So Long, My Son",
+      "awardYear": 2019,
+      "winner": "Wang Jingchun",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt9581076"
+      },
+      "backdropPath": "https://image.tmdb.org/t/p/w342/zxaZENMHp9tw7YSy6NAPfMmhjKh.jpg",
+      "award": "Silver Bear for Best Actor (Historical)",
+      "awardOrder": 6
+    },
+    {
+      "id": "berlinale-best-actress-2019-so-long-my-son",
+      "mediaType": "movie",
+      "title": "So Long, My Son",
+      "awardYear": 2019,
+      "winner": "Yong Mei",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt9581076"
+      },
+      "backdropPath": "https://image.tmdb.org/t/p/w342/zxaZENMHp9tw7YSy6NAPfMmhjKh.jpg",
+      "award": "Silver Bear for Best Actress (Historical)",
+      "awardOrder": 5
+    },
+    {
+      "id": "berlinale-best-director-2019-i-was-at-home-but",
+      "mediaType": "movie",
+      "title": "I Was at Home, But",
+      "awardYear": 2019,
+      "winner": "Angela Schanelec",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt7760890"
+      },
+      "award": "Silver Bear for Best Director",
+      "awardOrder": 4
+    },
+    {
+      "id": "berlinale-best-screenplay-2019-piranhas",
+      "mediaType": "movie",
+      "title": "Piranhas",
+      "awardYear": 2019,
+      "winner": "Maurizio Braucci, Claudio Giovannesi & Roberto Saviano",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt8740778"
+      },
+      "award": "Silver Bear for Best Screenplay",
+      "awardOrder": 7
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-2019-out-stealing-horses",
+      "mediaType": "movie",
+      "title": "Out Stealing Horses",
+      "awardYear": 2019,
+      "winner": "Rasmus Videbæk",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt7319496"
+      },
+      "award": "Silver Bear for Outstanding Artistic Contribution",
+      "awardOrder": 8
+    },
+    {
+      "id": "berlinale-alfred-bauer-prize-2018-the-heiresses",
+      "mediaType": "movie",
+      "title": "The Heiresses",
+      "awardYear": 2018,
+      "winner": "Marcelo Martinessi",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7875464"
+      },
+      "award": "Alfred Bauer Prize (Historical)",
+      "awardOrder": 3
+    },
+    {
+      "id": "berlinale-golden-bear-2018-touch-me-not",
+      "mediaType": "movie",
+      "title": "Touch Me Not",
+      "awardYear": 2018,
+      "winner": "Adina Pintilie",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt4949112"
+      },
+      "backdropPath": "https://image.tmdb.org/t/p/w342/7JsBBGvikqWsvXhRrzRLzj3xFjX.jpg",
+      "award": "Golden Bear for Best Film",
+      "awardOrder": 1
+    },
+    {
+      "id": "berlinale-grand-jury-prize-2018-mug",
+      "mediaType": "movie",
+      "title": "Mug",
+      "awardYear": 2018,
+      "winner": "Małgorzata Szumowska",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt5311542"
+      },
+      "award": "Silver Bear Grand Jury Prize",
+      "awardOrder": 2
+    },
+    {
+      "id": "berlinale-best-actor-2018-the-prayer",
+      "mediaType": "movie",
+      "title": "The Prayer",
+      "awardYear": 2018,
+      "winner": "Anthony Bajon",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7839456"
+      },
+      "award": "Silver Bear for Best Actor (Historical)",
+      "awardOrder": 6
+    },
+    {
+      "id": "berlinale-best-actress-2018-the-heiresses",
+      "mediaType": "movie",
+      "title": "The Heiresses",
+      "awardYear": 2018,
+      "winner": "Ana Brun",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7875464"
+      },
+      "award": "Silver Bear for Best Actress (Historical)",
+      "awardOrder": 5
+    },
+    {
+      "id": "berlinale-best-director-2018-isle-of-dogs",
+      "mediaType": "movie",
+      "title": "Isle of Dogs",
+      "awardYear": 2018,
+      "winner": "Wes Anderson",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt5104604"
+      },
+      "backdropPath": "https://image.tmdb.org/t/p/w342/6utVGu3wu8AV8x7jGo17M5RnrJN.jpg",
+      "award": "Silver Bear for Best Director",
+      "awardOrder": 4
+    },
+    {
+      "id": "berlinale-best-screenplay-2018-museum",
+      "mediaType": "movie",
+      "title": "Museo",
+      "awardYear": 2018,
+      "winner": "Manuel Alcalá & Alonso Ruizpalacios",
+      "releaseDate": "2018",
+      "externalIds": {
+        "letterboxd": "museum",
+        "imdb": "tt4958448"
+      },
+      "award": "Silver Bear for Best Screenplay",
+      "awardOrder": 7
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-2018-dovlatov",
+      "mediaType": "movie",
+      "title": "Dovlatov",
+      "awardYear": 2018,
+      "winner": "Elena Okopnaya",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7763020"
+      },
+      "award": "Silver Bear for Outstanding Artistic Contribution",
+      "awardOrder": 8
+    },
+    {
+      "id": "berlinale-alfred-bauer-prize-2017-spoor",
+      "mediaType": "movie",
+      "title": "Spoor",
+      "awardYear": 2017,
+      "winner": "Agnieszka Holland",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5328350"
+      },
+      "award": "Alfred Bauer Prize (Historical)",
+      "awardOrder": 3
+    },
+    {
+      "id": "berlinale-golden-bear-2017-on-body-and-soul",
+      "mediaType": "movie",
+      "title": "On Body and Soul",
+      "awardYear": 2017,
+      "winner": "Ildikó Enyedi",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5607714"
+      },
+      "backdropPath": "https://image.tmdb.org/t/p/w342/c2NBRjDVLolRBmzbxFg7UnbmWdu.jpg",
+      "award": "Golden Bear for Best Film",
+      "awardOrder": 1
+    },
+    {
+      "id": "berlinale-grand-jury-prize-2017-felicite",
+      "mediaType": "movie",
+      "title": "Félicité",
+      "awardYear": 2017,
+      "winner": "Alain Gomis",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6343058"
+      },
+      "award": "Silver Bear Grand Jury Prize",
+      "awardOrder": 2
+    },
+    {
+      "id": "berlinale-best-actor-2017-bright-nights",
+      "mediaType": "movie",
+      "title": "Bright Nights",
+      "awardYear": 2017,
+      "winner": "Georg Friedrich",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6425734"
+      },
+      "award": "Silver Bear for Best Actor (Historical)",
+      "awardOrder": 6
+    },
+    {
+      "id": "berlinale-best-actress-2017-on-the-beach-at-night-alone",
+      "mediaType": "movie",
+      "title": "On the Beach at Night Alone",
+      "awardYear": 2017,
+      "winner": "Kim Min-hee",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6462506"
+      },
+      "award": "Silver Bear for Best Actress (Historical)",
+      "awardOrder": 5
+    },
+    {
+      "id": "berlinale-best-director-2017-the-other-side-of-hope",
+      "mediaType": "movie",
+      "title": "The Other Side of Hope",
+      "awardYear": 2017,
+      "winner": "Aki Kaurismäki",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5222918"
+      },
+      "backdropPath": "https://image.tmdb.org/t/p/w342/hR0HdKBsPFnWqpWtjzy7Xj14FD.jpg",
+      "award": "Silver Bear for Best Director",
+      "awardOrder": 4
+    },
+    {
+      "id": "berlinale-best-screenplay-2017-a-fantastic-woman",
+      "mediaType": "movie",
+      "title": "A Fantastic Woman",
+      "awardYear": 2017,
+      "winner": "Sebastián Lelio & Gonzalo Maza",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5639354"
+      },
+      "backdropPath": "https://image.tmdb.org/t/p/w342/A3RYhmb5TUlZlaIOzpkcP1VwRGl.jpg",
+      "award": "Silver Bear for Best Screenplay",
+      "awardOrder": 7
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-2017-ana-mon-amour",
+      "mediaType": "movie",
+      "title": "Ana, mon amour",
+      "awardYear": 2017,
+      "winner": "Dana Bunescu",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6125690"
+      },
+      "award": "Silver Bear for Outstanding Artistic Contribution",
+      "awardOrder": 8
+    },
+    {
+      "id": "berlinale-alfred-bauer-prize-2016-a-lullaby-to-the-sorrowful-mystery",
+      "mediaType": "movie",
+      "title": "A Lullaby to the Sorrowful Mystery",
+      "awardYear": 2016,
+      "winner": "Lav Diaz",
+      "releaseDate": "2016",
+      "externalIds": {
+        "letterboxd": "a-lullaby-to-the-sorrowful-mystery"
+      },
+      "award": "Alfred Bauer Prize (Historical)"
+    },
+    {
+      "id": "berlinale-golden-bear-2016-fire-at-sea",
+      "mediaType": "movie",
+      "title": "Fire at Sea",
+      "awardYear": 2016,
+      "winner": "Gianfranco Rosi",
+      "releaseDate": "2016",
+      "externalIds": {
+        "letterboxd": "fire-at-sea"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-grand-jury-prize-2016-death-in-sarajevo",
+      "mediaType": "movie",
+      "title": "Death in Sarajevo",
+      "awardYear": 2016,
+      "winner": "Danis Tanović",
+      "releaseDate": "2016",
+      "externalIds": {
+        "letterboxd": "death-in-sarajevo"
+      },
+      "award": "Silver Bear Grand Jury Prize"
+    },
+    {
+      "id": "berlinale-best-actor-2016-hedi",
+      "mediaType": "movie",
+      "title": "Hedi",
+      "awardYear": 2016,
+      "winner": "Majd Mastoura",
+      "releaseDate": "2016",
+      "externalIds": {
+        "letterboxd": "hedi"
+      },
+      "award": "Silver Bear for Best Actor (Historical)"
+    },
+    {
+      "id": "berlinale-best-actress-2016-the-commune",
+      "mediaType": "movie",
+      "title": "The Commune",
+      "awardYear": 2016,
+      "winner": "Trine Dyrholm",
+      "releaseDate": "2016",
+      "externalIds": {
+        "letterboxd": "the-commune"
+      },
+      "award": "Silver Bear for Best Actress (Historical)"
+    },
+    {
+      "id": "berlinale-best-director-2016-things-to-come",
+      "mediaType": "movie",
+      "title": "Things to Come",
+      "awardYear": 2016,
+      "winner": "Mia Hansen-Løve",
+      "releaseDate": "2016",
+      "externalIds": {
+        "letterboxd": "things-to-come"
+      },
+      "award": "Silver Bear for Best Director"
+    },
+    {
+      "id": "berlinale-best-screenplay-2016-united-states-of-love",
+      "mediaType": "movie",
+      "title": "United States of Love",
+      "awardYear": 2016,
+      "winner": "Tomasz Wasilewski",
+      "releaseDate": "2016",
+      "externalIds": {
+        "letterboxd": "united-states-of-love"
+      },
+      "award": "Silver Bear for Best Screenplay"
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-2016-crosscurrent",
+      "mediaType": "movie",
+      "title": "Crosscurrent",
+      "awardYear": 2016,
+      "winner": "Mark Lee Ping Bin",
+      "releaseDate": "2016",
+      "externalIds": {
+        "letterboxd": "crosscurrent"
+      },
+      "award": "Silver Bear for Outstanding Artistic Contribution"
+    },
+    {
+      "id": "berlinale-alfred-bauer-prize-2015-ixcanul",
+      "mediaType": "movie",
+      "title": "Ixcanul",
+      "awardYear": 2015,
+      "winner": "Jayro Bustamante",
+      "releaseDate": "2015",
+      "externalIds": {
+        "letterboxd": "ixcanul"
+      },
+      "award": "Alfred Bauer Prize (Historical)"
+    },
+    {
+      "id": "berlinale-golden-bear-2015-taxi",
+      "mediaType": "movie",
+      "title": "Taxi",
+      "awardYear": 2015,
+      "winner": "Jafar Panahi",
+      "releaseDate": "2015",
+      "externalIds": {
+        "letterboxd": "taxi"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-grand-jury-prize-2015-the-club",
+      "mediaType": "movie",
+      "title": "The Club",
+      "awardYear": 2015,
+      "winner": "Pablo Larraín",
+      "releaseDate": "2015",
+      "externalIds": {
+        "letterboxd": "the-club"
+      },
+      "award": "Silver Bear Grand Jury Prize"
+    },
+    {
+      "id": "berlinale-best-actor-2015-45-years",
+      "mediaType": "movie",
+      "title": "45 Years",
+      "awardYear": 2015,
+      "winner": "Tom Courtenay",
+      "releaseDate": "2015",
+      "externalIds": {
+        "letterboxd": "45-years"
+      },
+      "award": "Silver Bear for Best Actor (Historical)"
+    },
+    {
+      "id": "berlinale-best-actress-2015-45-years",
+      "mediaType": "movie",
+      "title": "45 Years",
+      "awardYear": 2015,
+      "winner": "Charlotte Rampling",
+      "releaseDate": "2015",
+      "externalIds": {
+        "letterboxd": "45-years"
+      },
+      "award": "Silver Bear for Best Actress (Historical)"
+    },
+    {
+      "id": "berlinale-best-director-2015-aferim",
+      "mediaType": "movie",
+      "title": "Aferim!",
+      "awardYear": 2015,
+      "winner": "Radu Jude",
+      "releaseDate": "2015",
+      "externalIds": {
+        "letterboxd": "aferim"
+      },
+      "award": "Silver Bear for Best Director"
+    },
+    {
+      "id": "berlinale-best-director-2015-body",
+      "mediaType": "movie",
+      "title": "Body",
+      "awardYear": 2015,
+      "winner": "Małgorzata Szumowska",
+      "releaseDate": "2015",
+      "externalIds": {
+        "letterboxd": "body"
+      },
+      "award": "Silver Bear for Best Director"
+    },
+    {
+      "id": "berlinale-best-screenplay-2015-the-pearl-button",
+      "mediaType": "movie",
+      "title": "The Pearl Button",
+      "awardYear": 2015,
+      "winner": "Patricio Guzmán",
+      "releaseDate": "2015",
+      "externalIds": {
+        "letterboxd": "the-pearl-button"
+      },
+      "award": "Silver Bear for Best Screenplay"
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-2015-under-electric-clouds",
+      "mediaType": "movie",
+      "title": "Under Electric Clouds",
+      "awardYear": 2015,
+      "winner": "Serhiy Mykhalchuk & Evgeniy Privin",
+      "releaseDate": "2015",
+      "externalIds": {
+        "letterboxd": "under-electric-clouds"
+      },
+      "award": "Silver Bear for Outstanding Artistic Contribution"
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-2015-victoria",
+      "mediaType": "movie",
+      "title": "Victoria",
+      "awardYear": 2015,
+      "winner": "Sturla Brandth Grøvlen",
+      "releaseDate": "2015",
+      "externalIds": {
+        "letterboxd": "victoria"
+      },
+      "award": "Silver Bear for Outstanding Artistic Contribution"
+    },
+    {
+      "id": "berlinale-alfred-bauer-prize-2014-life-of-riley",
+      "mediaType": "movie",
+      "title": "Life of Riley",
+      "awardYear": 2014,
+      "winner": "Alain Resnais",
+      "releaseDate": "2014",
+      "externalIds": {
+        "letterboxd": "life-of-riley"
+      },
+      "award": "Alfred Bauer Prize (Historical)"
+    },
+    {
+      "id": "berlinale-golden-bear-2014-black-coal-thin-ice",
+      "mediaType": "movie",
+      "title": "Black Coal, Thin Ice",
+      "awardYear": 2014,
+      "winner": "Diao Yinan",
+      "releaseDate": "2014",
+      "externalIds": {
+        "letterboxd": "black-coal-thin-ice"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-grand-jury-prize-2014-the-grand-budapest-hotel",
+      "mediaType": "movie",
+      "title": "The Grand Budapest Hotel",
+      "awardYear": 2014,
+      "winner": "Wes Anderson",
+      "releaseDate": "2014",
+      "externalIds": {
+        "letterboxd": "the-grand-budapest-hotel"
+      },
+      "award": "Silver Bear Grand Jury Prize"
+    },
+    {
+      "id": "berlinale-best-actor-2014-black-coal-thin-ice",
+      "mediaType": "movie",
+      "title": "Black Coal, Thin Ice",
+      "awardYear": 2014,
+      "winner": "Liao Fan",
+      "releaseDate": "2014",
+      "externalIds": {
+        "letterboxd": "black-coal-thin-ice"
+      },
+      "award": "Silver Bear for Best Actor (Historical)"
+    },
+    {
+      "id": "berlinale-best-actress-2014-the-little-house",
+      "mediaType": "movie",
+      "title": "The Little House",
+      "awardYear": 2014,
+      "winner": "Haru Kuroki",
+      "releaseDate": "2014",
+      "externalIds": {
+        "letterboxd": "the-little-house"
+      },
+      "award": "Silver Bear for Best Actress (Historical)"
+    },
+    {
+      "id": "berlinale-best-director-2014-boyhood",
+      "mediaType": "movie",
+      "title": "Boyhood",
+      "awardYear": 2014,
+      "winner": "Richard Linklater",
+      "releaseDate": "2014",
+      "externalIds": {
+        "letterboxd": "boyhood"
+      },
+      "award": "Silver Bear for Best Director"
+    },
+    {
+      "id": "berlinale-best-screenplay-2014-stations-of-the-cross",
+      "mediaType": "movie",
+      "title": "Stations of the Cross",
+      "awardYear": 2014,
+      "winner": "Dietrich Brüggemann & Anna Brüggemann",
+      "releaseDate": "2014",
+      "externalIds": {
+        "letterboxd": "stations-of-the-cross"
+      },
+      "award": "Silver Bear for Best Screenplay"
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-2014-blind-massage",
+      "mediaType": "movie",
+      "title": "Blind Massage",
+      "awardYear": 2014,
+      "winner": "Zeng Jian",
+      "releaseDate": "2014",
+      "externalIds": {
+        "letterboxd": "blind-massage"
+      },
+      "award": "Silver Bear for Outstanding Artistic Contribution"
+    },
+    {
+      "id": "berlinale-alfred-bauer-prize-2013-vic-and-flo-saw-a-bear",
+      "mediaType": "movie",
+      "title": "Vic and Flo Saw a Bear",
+      "awardYear": 2013,
+      "winner": "Denis Côté",
+      "releaseDate": "2013",
+      "externalIds": {
+        "letterboxd": "vic-and-flo-saw-a-bear"
+      },
+      "award": "Alfred Bauer Prize (Historical)"
+    },
+    {
+      "id": "berlinale-golden-bear-2013-child-s-pose",
+      "mediaType": "movie",
+      "title": "Child's Pose",
+      "awardYear": 2013,
+      "winner": "Călin Peter Netzer",
+      "releaseDate": "2013",
+      "externalIds": {
+        "letterboxd": "child-s-pose"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-grand-jury-prize-2013-an-episode-in-the-life-of-an-iron-picker",
+      "mediaType": "movie",
+      "title": "An Episode in the Life of an Iron Picker",
+      "awardYear": 2013,
+      "winner": "Danis Tanović",
+      "releaseDate": "2013",
+      "externalIds": {
+        "letterboxd": "an-episode-in-the-life-of-an-iron-picker"
+      },
+      "award": "Silver Bear Grand Jury Prize"
+    },
+    {
+      "id": "berlinale-best-actor-2013-an-episode-in-the-life-of-an-iron-picker",
+      "mediaType": "movie",
+      "title": "An Episode in the Life of an Iron Picker",
+      "awardYear": 2013,
+      "winner": "Nazif Mujić",
+      "releaseDate": "2013",
+      "externalIds": {
+        "letterboxd": "an-episode-in-the-life-of-an-iron-picker"
+      },
+      "award": "Silver Bear for Best Actor (Historical)"
+    },
+    {
+      "id": "berlinale-best-actress-2013-gloria",
+      "mediaType": "movie",
+      "title": "Gloria",
+      "awardYear": 2013,
+      "winner": "Paulina García",
+      "releaseDate": "2013",
+      "externalIds": {
+        "letterboxd": "gloria"
+      },
+      "award": "Silver Bear for Best Actress (Historical)"
+    },
+    {
+      "id": "berlinale-best-director-2013-prince-avalanche",
+      "mediaType": "movie",
+      "title": "Prince Avalanche",
+      "awardYear": 2013,
+      "winner": "David Gordon Green",
+      "releaseDate": "2013",
+      "externalIds": {
+        "letterboxd": "prince-avalanche"
+      },
+      "award": "Silver Bear for Best Director"
+    },
+    {
+      "id": "berlinale-best-screenplay-2013-closed-curtain",
+      "mediaType": "movie",
+      "title": "Closed Curtain",
+      "awardYear": 2013,
+      "winner": "Jafar Panahi",
+      "releaseDate": "2013",
+      "externalIds": {
+        "letterboxd": "closed-curtain"
+      },
+      "award": "Silver Bear for Best Screenplay"
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-2013-harmony-lessons",
+      "mediaType": "movie",
+      "title": "Harmony Lessons",
+      "awardYear": 2013,
+      "winner": "Aziz Zhambakiyev",
+      "releaseDate": "2013",
+      "externalIds": {
+        "letterboxd": "harmony-lessons"
+      },
+      "award": "Silver Bear for Outstanding Artistic Contribution"
+    },
+    {
+      "id": "berlinale-alfred-bauer-prize-2012-tabu",
+      "mediaType": "movie",
+      "title": "Tabu",
+      "awardYear": 2012,
+      "winner": "Miguel Gomes",
+      "releaseDate": "2012",
+      "externalIds": {
+        "letterboxd": "tabu"
+      },
+      "award": "Alfred Bauer Prize (Historical)"
+    },
+    {
+      "id": "berlinale-golden-bear-2012-caesar-must-die",
+      "mediaType": "movie",
+      "title": "Caesar Must Die",
+      "awardYear": 2012,
+      "winner": "Paolo and Vittorio Taviani",
+      "releaseDate": "2012",
+      "externalIds": {
+        "letterboxd": "caesar-must-die"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-grand-jury-prize-2012-just-the-wind",
+      "mediaType": "movie",
+      "title": "Just the Wind",
+      "awardYear": 2012,
+      "winner": "Benedek Fliegauf",
+      "releaseDate": "2012",
+      "externalIds": {
+        "letterboxd": "just-the-wind"
+      },
+      "award": "Silver Bear Grand Jury Prize"
+    },
+    {
+      "id": "berlinale-best-actor-2012-a-royal-affair",
+      "mediaType": "movie",
+      "title": "A Royal Affair",
+      "awardYear": 2012,
+      "winner": "Mikkel Boe Følsgaard",
+      "releaseDate": "2012",
+      "externalIds": {
+        "letterboxd": "a-royal-affair"
+      },
+      "award": "Silver Bear for Best Actor (Historical)"
+    },
+    {
+      "id": "berlinale-best-actress-2012-war-witch",
+      "mediaType": "movie",
+      "title": "War Witch",
+      "awardYear": 2012,
+      "winner": "Rachel Mwanza",
+      "releaseDate": "2012",
+      "externalIds": {
+        "letterboxd": "war-witch"
+      },
+      "award": "Silver Bear for Best Actress (Historical)"
+    },
+    {
+      "id": "berlinale-best-director-2012-barbara",
+      "mediaType": "movie",
+      "title": "Barbara",
+      "awardYear": 2012,
+      "winner": "Christian Petzold",
+      "releaseDate": "2012",
+      "externalIds": {
+        "letterboxd": "barbara"
+      },
+      "award": "Silver Bear for Best Director"
+    },
+    {
+      "id": "berlinale-best-screenplay-2012-a-royal-affair",
+      "mediaType": "movie",
+      "title": "A Royal Affair",
+      "awardYear": 2012,
+      "winner": "Nikolaj Arcel & Rasmus Heisterberg",
+      "releaseDate": "2012",
+      "externalIds": {
+        "letterboxd": "a-royal-affair"
+      },
+      "award": "Silver Bear for Best Screenplay"
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-2012-white-deer-plain",
+      "mediaType": "movie",
+      "title": "White Deer Plain",
+      "awardYear": 2012,
+      "winner": "Lutz Reitemeier",
+      "releaseDate": "2012",
+      "externalIds": {
+        "letterboxd": "white-deer-plain"
+      },
+      "award": "Silver Bear for Outstanding Artistic Contribution"
+    },
+    {
+      "id": "berlinale-alfred-bauer-prize-2011-if-not-us-who",
+      "mediaType": "movie",
+      "title": "If Not Us, Who?",
+      "awardYear": 2011,
+      "winner": "Andres Veiel",
+      "releaseDate": "2011",
+      "externalIds": {
+        "letterboxd": "if-not-us-who"
+      },
+      "award": "Alfred Bauer Prize (Historical)"
+    },
+    {
+      "id": "berlinale-golden-bear-2011-a-separation",
+      "mediaType": "movie",
+      "title": "A Separation",
+      "awardYear": 2011,
+      "winner": "Asghar Farhadi",
+      "releaseDate": "2011",
+      "externalIds": {
+        "letterboxd": "a-separation"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-grand-jury-prize-2011-the-turin-horse",
+      "mediaType": "movie",
+      "title": "The Turin Horse",
+      "awardYear": 2011,
+      "winner": "Béla Tarr",
+      "releaseDate": "2011",
+      "externalIds": {
+        "letterboxd": "the-turin-horse"
+      },
+      "award": "Silver Bear Grand Jury Prize"
+    },
+    {
+      "id": "berlinale-best-actor-2011-a-separation",
+      "mediaType": "movie",
+      "title": "A Separation",
+      "awardYear": 2011,
+      "winner": "Payman Maadi, Shahab Hosseini, Ali-Asghar Shahbazi & Babak Karimi",
+      "releaseDate": "2011",
+      "externalIds": {
+        "letterboxd": "a-separation"
+      },
+      "award": "Silver Bear for Best Actor (Historical)"
+    },
+    {
+      "id": "berlinale-best-actress-2011-a-separation",
+      "mediaType": "movie",
+      "title": "A Separation",
+      "awardYear": 2011,
+      "winner": "Leila Hatami, Sareh Bayat, Sarina Farhadi & Kimia Hosseini",
+      "releaseDate": "2011",
+      "externalIds": {
+        "letterboxd": "a-separation"
+      },
+      "award": "Silver Bear for Best Actress (Historical)"
+    },
+    {
+      "id": "berlinale-best-director-2011-sleeping-sickness",
+      "mediaType": "movie",
+      "title": "Sleeping Sickness",
+      "awardYear": 2011,
+      "winner": "Ulrich Köhler",
+      "releaseDate": "2011",
+      "externalIds": {
+        "letterboxd": "sleeping-sickness"
+      },
+      "award": "Silver Bear for Best Director"
+    },
+    {
+      "id": "berlinale-best-screenplay-2011-the-forgiveness-of-blood",
+      "mediaType": "movie",
+      "title": "The Forgiveness of Blood",
+      "awardYear": 2011,
+      "winner": "Joshua Marston & Andamion Murataj",
+      "releaseDate": "2011",
+      "externalIds": {
+        "letterboxd": "the-forgiveness-of-blood"
+      },
+      "award": "Silver Bear for Best Screenplay"
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-2011-the-prize",
+      "mediaType": "movie",
+      "title": "The Prize",
+      "awardYear": 2011,
+      "winner": "Barbara Enriquez & Wojciech Staroń",
+      "releaseDate": "2011",
+      "externalIds": {
+        "letterboxd": "the-prize"
+      },
+      "award": "Silver Bear for Outstanding Artistic Contribution"
+    },
+    {
+      "id": "berlinale-alfred-bauer-prize-2010-if-i-want-to-whistle-i-whistle",
+      "mediaType": "movie",
+      "title": "If I Want to Whistle, I Whistle",
+      "awardYear": 2010,
+      "winner": "Florin Șerban",
+      "releaseDate": "2010",
+      "externalIds": {
+        "letterboxd": "if-i-want-to-whistle-i-whistle"
+      },
+      "award": "Alfred Bauer Prize (Historical)"
+    },
+    {
+      "id": "berlinale-golden-bear-2010-honey",
+      "mediaType": "movie",
+      "title": "Honey",
+      "awardYear": 2010,
+      "winner": "Semih Kaplanoğlu",
+      "releaseDate": "2010",
+      "externalIds": {
+        "letterboxd": "honey"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-grand-jury-prize-2010-if-i-want-to-whistle-i-whistle",
+      "mediaType": "movie",
+      "title": "If I Want to Whistle, I Whistle",
+      "awardYear": 2010,
+      "winner": "Florin Șerban",
+      "releaseDate": "2010",
+      "externalIds": {
+        "letterboxd": "if-i-want-to-whistle-i-whistle"
+      },
+      "award": "Silver Bear Grand Jury Prize"
+    },
+    {
+      "id": "berlinale-best-actor-2010-how-i-ended-this-summer",
+      "mediaType": "movie",
+      "title": "How I Ended This Summer",
+      "awardYear": 2010,
+      "winner": "Grigoriy Dobrygin & Sergei Puskepalis",
+      "releaseDate": "2010",
+      "externalIds": {
+        "letterboxd": "how-i-ended-this-summer"
+      },
+      "award": "Silver Bear for Best Actor (Historical)"
+    },
+    {
+      "id": "berlinale-best-actress-2010-caterpillar",
+      "mediaType": "movie",
+      "title": "Caterpillar",
+      "awardYear": 2010,
+      "winner": "Shinobu Terajima",
+      "releaseDate": "2010",
+      "externalIds": {
+        "letterboxd": "caterpillar"
+      },
+      "award": "Silver Bear for Best Actress (Historical)"
+    },
+    {
+      "id": "berlinale-best-director-2010-the-ghost-writer",
+      "mediaType": "movie",
+      "title": "The Ghost Writer",
+      "awardYear": 2010,
+      "winner": "Roman Polanski",
+      "releaseDate": "2010",
+      "externalIds": {
+        "letterboxd": "the-ghost-writer"
+      },
+      "award": "Silver Bear for Best Director"
+    },
+    {
+      "id": "berlinale-best-screenplay-2010-apart-together",
+      "mediaType": "movie",
+      "title": "Apart Together",
+      "awardYear": 2010,
+      "winner": "Wang Quan'an & Jin Na",
+      "releaseDate": "2010",
+      "externalIds": {
+        "letterboxd": "apart-together"
+      },
+      "award": "Silver Bear for Best Screenplay"
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-2010-how-i-ended-this-summer",
+      "mediaType": "movie",
+      "title": "How I Ended This Summer",
+      "awardYear": 2010,
+      "winner": "Pavel Kostomarov",
+      "releaseDate": "2010",
+      "externalIds": {
+        "letterboxd": "how-i-ended-this-summer"
+      },
+      "award": "Silver Bear for Outstanding Artistic Contribution"
+    },
+    {
+      "id": "berlinale-alfred-bauer-prize-2009-giant",
+      "mediaType": "movie",
+      "title": "Giant",
+      "awardYear": 2009,
+      "winner": "Adrián Biniez",
+      "releaseDate": "2009",
+      "externalIds": {
+        "letterboxd": "giant"
+      },
+      "award": "Alfred Bauer Prize (Historical)"
+    },
+    {
+      "id": "berlinale-alfred-bauer-prize-2009-tatarak",
+      "mediaType": "movie",
+      "title": "Tatarak",
+      "awardYear": 2009,
+      "winner": "Andrzej Wajda",
+      "releaseDate": "2009",
+      "externalIds": {
+        "letterboxd": "tatarak"
+      },
+      "award": "Alfred Bauer Prize (Historical)"
+    },
+    {
+      "id": "berlinale-golden-bear-2009-the-milk-of-sorrow",
+      "mediaType": "movie",
+      "title": "The Milk of Sorrow",
+      "awardYear": 2009,
+      "winner": "Claudia Llosa",
+      "releaseDate": "2009",
+      "externalIds": {
+        "letterboxd": "the-milk-of-sorrow"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-grand-jury-prize-2009-everyone-else",
+      "mediaType": "movie",
+      "title": "Everyone Else",
+      "awardYear": 2009,
+      "winner": "Maren Ade",
+      "releaseDate": "2009",
+      "externalIds": {
+        "letterboxd": "everyone-else"
+      },
+      "award": "Silver Bear Grand Jury Prize"
+    },
+    {
+      "id": "berlinale-grand-jury-prize-2009-giant",
+      "mediaType": "movie",
+      "title": "Giant",
+      "awardYear": 2009,
+      "winner": "Adrián Biniez",
+      "releaseDate": "2009",
+      "externalIds": {
+        "letterboxd": "giant"
+      },
+      "award": "Silver Bear Grand Jury Prize"
+    },
+    {
+      "id": "berlinale-best-actor-2009-london-river",
+      "mediaType": "movie",
+      "title": "London River",
+      "awardYear": 2009,
+      "winner": "Sotigui Kouyaté",
+      "releaseDate": "2009",
+      "externalIds": {
+        "letterboxd": "london-river"
+      },
+      "award": "Silver Bear for Best Actor (Historical)"
+    },
+    {
+      "id": "berlinale-best-actress-2009-everyone-else",
+      "mediaType": "movie",
+      "title": "Everyone Else",
+      "awardYear": 2009,
+      "winner": "Birgit Minichmayr",
+      "releaseDate": "2009",
+      "externalIds": {
+        "letterboxd": "everyone-else"
+      },
+      "award": "Silver Bear for Best Actress (Historical)"
+    },
+    {
+      "id": "berlinale-best-director-2009-about-elly",
+      "mediaType": "movie",
+      "title": "About Elly",
+      "awardYear": 2009,
+      "winner": "Asghar Farhadi",
+      "releaseDate": "2009",
+      "externalIds": {
+        "letterboxd": "about-elly"
+      },
+      "award": "Silver Bear for Best Director"
+    },
+    {
+      "id": "berlinale-best-screenplay-2009-the-messenger",
+      "mediaType": "movie",
+      "title": "The Messenger",
+      "awardYear": 2009,
+      "winner": "Oren Moverman & Alessandro Camon",
+      "releaseDate": "2009",
+      "externalIds": {
+        "letterboxd": "the-messenger"
+      },
+      "award": "Silver Bear for Best Screenplay"
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-2009-katalin-varga",
+      "mediaType": "movie",
+      "title": "Katalin Varga",
+      "awardYear": 2009,
+      "winner": "György Kovács, Gábor Erdélyi & Tamás Székely",
+      "releaseDate": "2009",
+      "externalIds": {
+        "letterboxd": "katalin-varga"
+      },
+      "award": "Silver Bear for Outstanding Artistic Contribution"
+    },
+    {
+      "id": "berlinale-alfred-bauer-prize-2008-lake-tahoe",
+      "mediaType": "movie",
+      "title": "Lake Tahoe",
+      "awardYear": 2008,
+      "winner": "Fernando Eimbcke",
+      "releaseDate": "2008",
+      "externalIds": {
+        "letterboxd": "lake-tahoe"
+      },
+      "award": "Alfred Bauer Prize (Historical)"
+    },
+    {
+      "id": "berlinale-golden-bear-2008-elite-squad",
+      "mediaType": "movie",
+      "title": "Elite Squad",
+      "awardYear": 2008,
+      "winner": "José Padilha",
+      "releaseDate": "2008",
+      "externalIds": {
+        "letterboxd": "elite-squad"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-grand-jury-prize-2008-standard-operating-procedure",
+      "mediaType": "movie",
+      "title": "Standard Operating Procedure",
+      "awardYear": 2008,
+      "winner": "Errol Morris",
+      "releaseDate": "2008",
+      "externalIds": {
+        "letterboxd": "standard-operating-procedure"
+      },
+      "award": "Silver Bear Grand Jury Prize"
+    },
+    {
+      "id": "berlinale-best-actor-2008-the-song-of-sparrows",
+      "mediaType": "movie",
+      "title": "The Song of Sparrows",
+      "awardYear": 2008,
+      "winner": "Reza Naji",
+      "releaseDate": "2008",
+      "externalIds": {
+        "letterboxd": "the-song-of-sparrows"
+      },
+      "award": "Silver Bear for Best Actor (Historical)"
+    },
+    {
+      "id": "berlinale-best-actress-2008-happy-go-lucky",
+      "mediaType": "movie",
+      "title": "Happy-Go-Lucky",
+      "awardYear": 2008,
+      "winner": "Sally Hawkins",
+      "releaseDate": "2008",
+      "externalIds": {
+        "letterboxd": "happy-go-lucky"
+      },
+      "award": "Silver Bear for Best Actress (Historical)"
+    },
+    {
+      "id": "berlinale-best-director-2008-there-will-be-blood",
+      "mediaType": "movie",
+      "title": "There Will Be Blood",
+      "awardYear": 2008,
+      "winner": "Paul Thomas Anderson",
+      "releaseDate": "2008",
+      "externalIds": {
+        "letterboxd": "there-will-be-blood"
+      },
+      "award": "Silver Bear for Best Director"
+    },
+    {
+      "id": "berlinale-best-screenplay-2008-in-love-we-trust",
+      "mediaType": "movie",
+      "title": "In Love We Trust",
+      "awardYear": 2008,
+      "winner": "Wang Xiaoshuai",
+      "releaseDate": "2008",
+      "externalIds": {
+        "letterboxd": "in-love-we-trust"
+      },
+      "award": "Silver Bear for Best Screenplay"
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-2008-there-will-be-blood",
+      "mediaType": "movie",
+      "title": "There Will Be Blood",
+      "awardYear": 2008,
+      "winner": "Jonny Greenwood",
+      "releaseDate": "2008",
+      "externalIds": {
+        "letterboxd": "there-will-be-blood"
+      },
+      "award": "Silver Bear for Outstanding Artistic Contribution"
+    },
+    {
+      "id": "berlinale-alfred-bauer-prize-2007-i-m-a-cyborg-but-that-s-ok",
+      "mediaType": "movie",
+      "title": "I'm a Cyborg, But That's OK",
+      "awardYear": 2007,
+      "winner": "Park Chan-wook",
+      "releaseDate": "2007",
+      "externalIds": {
+        "letterboxd": "i-m-a-cyborg-but-that-s-ok"
+      },
+      "award": "Alfred Bauer Prize (Historical)"
+    },
+    {
+      "id": "berlinale-golden-bear-2007-tuya-s-marriage",
+      "mediaType": "movie",
+      "title": "Tuya's Marriage",
+      "awardYear": 2007,
+      "winner": "Wang Quan'an",
+      "releaseDate": "2007",
+      "externalIds": {
+        "letterboxd": "tuya-s-marriage"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-grand-jury-prize-2007-the-other",
+      "mediaType": "movie",
+      "title": "The Other",
+      "awardYear": 2007,
+      "winner": "Ariel Rotter",
+      "releaseDate": "2007",
+      "externalIds": {
+        "letterboxd": "the-other"
+      },
+      "award": "Silver Bear Grand Jury Prize"
+    },
+    {
+      "id": "berlinale-best-actor-2007-the-other",
+      "mediaType": "movie",
+      "title": "The Other",
+      "awardYear": 2007,
+      "winner": "Julio Chávez",
+      "releaseDate": "2007",
+      "externalIds": {
+        "letterboxd": "the-other"
+      },
+      "award": "Silver Bear for Best Actor (Historical)"
+    },
+    {
+      "id": "berlinale-best-actress-2007-yella",
+      "mediaType": "movie",
+      "title": "Yella",
+      "awardYear": 2007,
+      "winner": "Nina Hoss",
+      "releaseDate": "2007",
+      "externalIds": {
+        "letterboxd": "yella"
+      },
+      "award": "Silver Bear for Best Actress (Historical)"
+    },
+    {
+      "id": "berlinale-best-director-2007-beaufort",
+      "mediaType": "movie",
+      "title": "Beaufort",
+      "awardYear": 2007,
+      "winner": "Joseph Cedar",
+      "releaseDate": "2007",
+      "externalIds": {
+        "letterboxd": "beaufort"
+      },
+      "award": "Silver Bear for Best Director"
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-2007-the-good-shepherd",
+      "mediaType": "movie",
+      "title": "The Good Shepherd",
+      "awardYear": 2007,
+      "winner": "Ensemble Cast",
+      "releaseDate": "2007",
+      "externalIds": {
+        "letterboxd": "the-good-shepherd"
+      },
+      "award": "Silver Bear for Outstanding Artistic Contribution"
+    },
+    {
+      "id": "berlinale-alfred-bauer-prize-2006-the-minder",
+      "mediaType": "movie",
+      "title": "The Minder",
+      "awardYear": 2006,
+      "winner": "Rodrigo Moreno",
+      "releaseDate": "2006",
+      "externalIds": {
+        "letterboxd": "the-minder"
+      },
+      "award": "Alfred Bauer Prize (Historical)"
+    },
+    {
+      "id": "berlinale-golden-bear-2006-grbavica",
+      "mediaType": "movie",
+      "title": "Grbavica",
+      "awardYear": 2006,
+      "winner": "Jasmila Žbanić",
+      "releaseDate": "2006",
+      "externalIds": {
+        "letterboxd": "grbavica"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-grand-jury-prize-2006-a-soap",
+      "mediaType": "movie",
+      "title": "A Soap",
+      "awardYear": 2006,
+      "winner": "Pernille Fischer Christensen",
+      "releaseDate": "2006",
+      "externalIds": {
+        "letterboxd": "a-soap"
+      },
+      "award": "Silver Bear Grand Jury Prize"
+    },
+    {
+      "id": "berlinale-grand-jury-prize-2006-offside",
+      "mediaType": "movie",
+      "title": "Offside",
+      "awardYear": 2006,
+      "winner": "Jafar Panahi",
+      "releaseDate": "2006",
+      "externalIds": {
+        "letterboxd": "offside"
+      },
+      "award": "Silver Bear Grand Jury Prize"
+    },
+    {
+      "id": "berlinale-best-actor-2006-atomised",
+      "mediaType": "movie",
+      "title": "Atomised",
+      "awardYear": 2006,
+      "winner": "Moritz Bleibtreu",
+      "releaseDate": "2006",
+      "externalIds": {
+        "letterboxd": "atomised"
+      },
+      "award": "Silver Bear for Best Actor (Historical)"
+    },
+    {
+      "id": "berlinale-best-actress-2006-requiem",
+      "mediaType": "movie",
+      "title": "Requiem",
+      "awardYear": 2006,
+      "winner": "Sandra Hüller",
+      "releaseDate": "2006",
+      "externalIds": {
+        "letterboxd": "requiem"
+      },
+      "award": "Silver Bear for Best Actress (Historical)"
+    },
+    {
+      "id": "berlinale-best-director-2006-the-road-to-guantanamo",
+      "mediaType": "movie",
+      "title": "The Road to Guantánamo",
+      "awardYear": 2006,
+      "winner": "Michael Winterbottom & Mat Whitecross",
+      "releaseDate": "2006",
+      "externalIds": {
+        "letterboxd": "the-road-to-guantanamo"
+      },
+      "award": "Silver Bear for Best Director"
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-2006-the-free-will",
+      "mediaType": "movie",
+      "title": "The Free Will",
+      "awardYear": 2006,
+      "winner": "Jürgen Vogel",
+      "releaseDate": "2006",
+      "externalIds": {
+        "letterboxd": "the-free-will"
+      },
+      "award": "Silver Bear for Outstanding Artistic Contribution"
+    },
+    {
+      "id": "berlinale-alfred-bauer-prize-2005-the-wayward-cloud",
+      "mediaType": "movie",
+      "title": "The Wayward Cloud",
+      "awardYear": 2005,
+      "winner": "Tsai Ming-liang",
+      "releaseDate": "2005",
+      "externalIds": {
+        "letterboxd": "the-wayward-cloud"
+      },
+      "award": "Alfred Bauer Prize (Historical)"
+    },
+    {
+      "id": "berlinale-golden-bear-2005-u-carmen-ekhayelitsha",
+      "mediaType": "movie",
+      "title": "U-Carmen eKhayelitsha",
+      "awardYear": 2005,
+      "winner": "Mark Dornford-May",
+      "releaseDate": "2005",
+      "externalIds": {
+        "letterboxd": "u-carmen-ekhayelitsha"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-grand-jury-prize-2005-peacock",
+      "mediaType": "movie",
+      "title": "Peacock",
+      "awardYear": 2005,
+      "winner": "Gu Changwei",
+      "releaseDate": "2005",
+      "externalIds": {
+        "letterboxd": "peacock"
+      },
+      "award": "Silver Bear Grand Jury Prize"
+    },
+    {
+      "id": "berlinale-best-actor-2005-thumbsucker",
+      "mediaType": "movie",
+      "title": "Thumbsucker",
+      "awardYear": 2005,
+      "winner": "Lou Taylor Pucci",
+      "releaseDate": "2005",
+      "externalIds": {
+        "letterboxd": "thumbsucker"
+      },
+      "award": "Silver Bear for Best Actor (Historical)"
+    },
+    {
+      "id": "berlinale-best-actress-2005-sophie-scholl-the-final-days",
+      "mediaType": "movie",
+      "title": "Sophie Scholl – The Final Days",
+      "awardYear": 2005,
+      "winner": "Julia Jentsch",
+      "releaseDate": "2005",
+      "externalIds": {
+        "letterboxd": "sophie-scholl-the-final-days"
+      },
+      "award": "Silver Bear for Best Actress (Historical)"
+    },
+    {
+      "id": "berlinale-best-director-2005-sophie-scholl-the-final-days",
+      "mediaType": "movie",
+      "title": "Sophie Scholl – The Final Days",
+      "awardYear": 2005,
+      "winner": "Marc Rothemund",
+      "releaseDate": "2005",
+      "externalIds": {
+        "letterboxd": "sophie-scholl-the-final-days"
+      },
+      "award": "Silver Bear for Best Director"
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-2005-the-wayward-cloud",
+      "mediaType": "movie",
+      "title": "The Wayward Cloud",
+      "awardYear": 2005,
+      "winner": "Tsai Ming-liang",
+      "releaseDate": "2005",
+      "externalIds": {
+        "letterboxd": "the-wayward-cloud"
+      },
+      "award": "Silver Bear for Outstanding Artistic Contribution"
+    },
+    {
+      "id": "berlinale-alfred-bauer-prize-2004-maria-full-of-grace",
+      "mediaType": "movie",
+      "title": "Maria Full of Grace",
+      "awardYear": 2004,
+      "winner": "Joshua Marston",
+      "releaseDate": "2004",
+      "externalIds": {
+        "letterboxd": "maria-full-of-grace"
+      },
+      "award": "Alfred Bauer Prize (Historical)"
+    },
+    {
+      "id": "berlinale-golden-bear-2004-head-on",
+      "mediaType": "movie",
+      "title": "Head-On",
+      "awardYear": 2004,
+      "winner": "Fatih Akin",
+      "releaseDate": "2004",
+      "externalIds": {
+        "letterboxd": "head-on"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-grand-jury-prize-2004-lost-embrace",
+      "mediaType": "movie",
+      "title": "Lost Embrace",
+      "awardYear": 2004,
+      "winner": "Daniel Burman",
+      "releaseDate": "2004",
+      "externalIds": {
+        "letterboxd": "lost-embrace"
+      },
+      "award": "Silver Bear Grand Jury Prize"
+    },
+    {
+      "id": "berlinale-best-actor-2004-lost-embrace",
+      "mediaType": "movie",
+      "title": "Lost Embrace",
+      "awardYear": 2004,
+      "winner": "Daniel Hendler",
+      "releaseDate": "2004",
+      "externalIds": {
+        "letterboxd": "lost-embrace"
+      },
+      "award": "Silver Bear for Best Actor (Historical)"
+    },
+    {
+      "id": "berlinale-best-actress-2004-maria-full-of-grace",
+      "mediaType": "movie",
+      "title": "Maria Full of Grace",
+      "awardYear": 2004,
+      "winner": "Catalina Sandino Moreno",
+      "releaseDate": "2004",
+      "externalIds": {
+        "letterboxd": "maria-full-of-grace"
+      },
+      "award": "Silver Bear for Best Actress (Historical)"
+    },
+    {
+      "id": "berlinale-best-actress-2004-monster",
+      "mediaType": "movie",
+      "title": "Monster",
+      "awardYear": 2004,
+      "winner": "Charlize Theron",
+      "releaseDate": "2004",
+      "externalIds": {
+        "letterboxd": "monster"
+      },
+      "award": "Silver Bear for Best Actress (Historical)"
+    },
+    {
+      "id": "berlinale-best-director-2004-samaritan-girl",
+      "mediaType": "movie",
+      "title": "Samaritan Girl",
+      "awardYear": 2004,
+      "winner": "Kim Ki-duk",
+      "releaseDate": "2004",
+      "externalIds": {
+        "letterboxd": "samaritan-girl"
+      },
+      "award": "Silver Bear for Best Director"
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-2004-daybreak",
+      "mediaType": "movie",
+      "title": "Daybreak",
+      "awardYear": 2004,
+      "winner": "Ensemble Cast",
+      "releaseDate": "2004",
+      "externalIds": {
+        "letterboxd": "daybreak"
+      },
+      "award": "Silver Bear for Outstanding Artistic Contribution"
+    },
+    {
+      "id": "berlinale-alfred-bauer-prize-2003-hero",
+      "mediaType": "movie",
+      "title": "Hero",
+      "awardYear": 2003,
+      "winner": "Zhang Yimou",
+      "releaseDate": "2003",
+      "externalIds": {
+        "letterboxd": "hero"
+      },
+      "award": "Alfred Bauer Prize (Historical)"
+    },
+    {
+      "id": "berlinale-golden-bear-2003-in-this-world",
+      "mediaType": "movie",
+      "title": "In This World",
+      "awardYear": 2003,
+      "winner": "Michael Winterbottom",
+      "releaseDate": "2003",
+      "externalIds": {
+        "letterboxd": "in-this-world"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-grand-jury-prize-2003-adaptation",
+      "mediaType": "movie",
+      "title": "Adaptation",
+      "awardYear": 2003,
+      "winner": "Spike Jonze",
+      "releaseDate": "2003",
+      "externalIds": {
+        "letterboxd": "adaptation"
+      },
+      "award": "Silver Bear Grand Jury Prize"
+    },
+    {
+      "id": "berlinale-best-actor-2003-confessions-of-a-dangerous-mind",
+      "mediaType": "movie",
+      "title": "Confessions of a Dangerous Mind",
+      "awardYear": 2003,
+      "winner": "Sam Rockwell",
+      "releaseDate": "2003",
+      "externalIds": {
+        "letterboxd": "confessions-of-a-dangerous-mind"
+      },
+      "award": "Silver Bear for Best Actor (Historical)"
+    },
+    {
+      "id": "berlinale-best-actress-2003-the-hours",
+      "mediaType": "movie",
+      "title": "The Hours",
+      "awardYear": 2003,
+      "winner": "Nicole Kidman, Julianne Moore & Meryl Streep",
+      "releaseDate": "2003",
+      "externalIds": {
+        "letterboxd": "the-hours"
+      },
+      "award": "Silver Bear for Best Actress (Historical)"
+    },
+    {
+      "id": "berlinale-best-director-2003-son-frere",
+      "mediaType": "movie",
+      "title": "Son frère",
+      "awardYear": 2003,
+      "winner": "Patrice Chéreau",
+      "releaseDate": "2003",
+      "externalIds": {
+        "letterboxd": "son-frere"
+      },
+      "award": "Silver Bear for Best Director"
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-2003-blind-shaft",
+      "mediaType": "movie",
+      "title": "Blind Shaft",
+      "awardYear": 2003,
+      "winner": "Li Yang",
+      "releaseDate": "2003",
+      "externalIds": {
+        "letterboxd": "blind-shaft"
+      },
+      "award": "Silver Bear for Outstanding Artistic Contribution"
+    },
+    {
+      "id": "berlinale-alfred-bauer-prize-2002-baader",
+      "mediaType": "movie",
+      "title": "Baader",
+      "awardYear": 2002,
+      "winner": "Christopher Roth",
+      "releaseDate": "2002",
+      "externalIds": {
+        "letterboxd": "baader"
+      },
+      "award": "Alfred Bauer Prize (Historical)"
+    },
+    {
+      "id": "berlinale-golden-bear-2002-bloody-sunday",
+      "mediaType": "movie",
+      "title": "Bloody Sunday",
+      "awardYear": 2002,
+      "winner": "Paul Greengrass",
+      "releaseDate": "2002",
+      "externalIds": {
+        "letterboxd": "bloody-sunday"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-golden-bear-2002-spirited-away",
+      "mediaType": "movie",
+      "title": "Spirited Away",
+      "awardYear": 2002,
+      "winner": "Hayao Miyazaki",
+      "releaseDate": "2002",
+      "externalIds": {
+        "letterboxd": "spirited-away"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-grand-jury-prize-2002-grill-point",
+      "mediaType": "movie",
+      "title": "Grill Point",
+      "awardYear": 2002,
+      "winner": "Andreas Dresen",
+      "releaseDate": "2002",
+      "externalIds": {
+        "letterboxd": "grill-point"
+      },
+      "award": "Silver Bear Grand Jury Prize"
+    },
+    {
+      "id": "berlinale-best-actor-2002-safe-conduct",
+      "mediaType": "movie",
+      "title": "Safe Conduct",
+      "awardYear": 2002,
+      "winner": "Jacques Gamblin",
+      "releaseDate": "2002",
+      "externalIds": {
+        "letterboxd": "safe-conduct"
+      },
+      "award": "Silver Bear for Best Actor (Historical)"
+    },
+    {
+      "id": "berlinale-best-actress-2002-monster-s-ball",
+      "mediaType": "movie",
+      "title": "Monster's Ball",
+      "awardYear": 2002,
+      "winner": "Halle Berry",
+      "releaseDate": "2002",
+      "externalIds": {
+        "letterboxd": "monster-s-ball"
+      },
+      "award": "Silver Bear for Best Actress (Historical)"
+    },
+    {
+      "id": "berlinale-best-director-2002-monday-morning",
+      "mediaType": "movie",
+      "title": "Monday Morning",
+      "awardYear": 2002,
+      "winner": "Otar Iosseliani",
+      "releaseDate": "2002",
+      "externalIds": {
+        "letterboxd": "monday-morning"
+      },
+      "award": "Silver Bear for Best Director"
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-2002-8-women",
+      "mediaType": "movie",
+      "title": "8 Women",
+      "awardYear": 2002,
+      "winner": "Female Ensemble Cast",
+      "releaseDate": "2002",
+      "externalIds": {
+        "letterboxd": "8-women"
+      },
+      "award": "Silver Bear for Outstanding Artistic Contribution"
+    },
+    {
+      "id": "berlinale-alfred-bauer-prize-2001-la-cienaga",
+      "mediaType": "movie",
+      "title": "La Ciénaga",
+      "awardYear": 2001,
+      "winner": "Lucrecia Martel",
+      "releaseDate": "2001",
+      "externalIds": {
+        "letterboxd": "la-cienaga"
+      },
+      "award": "Alfred Bauer Prize (Historical)"
+    },
+    {
+      "id": "berlinale-golden-bear-2001-intimacy",
+      "mediaType": "movie",
+      "title": "Intimacy",
+      "awardYear": 2001,
+      "winner": "Patrice Chéreau",
+      "releaseDate": "2001",
+      "externalIds": {
+        "letterboxd": "intimacy"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-grand-jury-prize-2001-beijing-bicycle",
+      "mediaType": "movie",
+      "title": "Beijing Bicycle",
+      "awardYear": 2001,
+      "winner": "Wang Xiaoshuai",
+      "releaseDate": "2001",
+      "externalIds": {
+        "letterboxd": "beijing-bicycle"
+      },
+      "award": "Silver Bear Grand Jury Prize"
+    },
+    {
+      "id": "berlinale-best-actor-2001-traffic",
+      "mediaType": "movie",
+      "title": "Traffic",
+      "awardYear": 2001,
+      "winner": "Benicio del Toro",
+      "releaseDate": "2001",
+      "externalIds": {
+        "letterboxd": "traffic"
+      },
+      "award": "Silver Bear for Best Actor (Historical)"
+    },
+    {
+      "id": "berlinale-best-actress-2001-intimacy",
+      "mediaType": "movie",
+      "title": "Intimacy",
+      "awardYear": 2001,
+      "winner": "Kerry Fox",
+      "releaseDate": "2001",
+      "externalIds": {
+        "letterboxd": "intimacy"
+      },
+      "award": "Silver Bear for Best Actress (Historical)"
+    },
+    {
+      "id": "berlinale-best-director-2001-betelnut-beauty",
+      "mediaType": "movie",
+      "title": "Betelnut Beauty",
+      "awardYear": 2001,
+      "winner": "Lin Cheng-sheng",
+      "releaseDate": "2001",
+      "externalIds": {
+        "letterboxd": "betelnut-beauty"
+      },
+      "award": "Silver Bear for Best Director"
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-2001-you-re-the-one",
+      "mediaType": "movie",
+      "title": "You're the One",
+      "awardYear": 2001,
+      "winner": "Raúl Pérez Cubero",
+      "releaseDate": "2001",
+      "externalIds": {
+        "letterboxd": "you-re-the-one"
+      },
+      "award": "Silver Bear for Outstanding Artistic Contribution"
+    },
+    {
+      "id": "berlinale-alfred-bauer-prize-2000-boy-s-choir",
+      "mediaType": "movie",
+      "title": "Boy's Choir",
+      "awardYear": 2000,
+      "winner": "Akira Ogata",
+      "releaseDate": "2000",
+      "externalIds": {
+        "letterboxd": "boy-s-choir"
+      },
+      "award": "Alfred Bauer Prize (Historical)"
+    },
+    {
+      "id": "berlinale-golden-bear-2000-magnolia",
+      "mediaType": "movie",
+      "title": "Magnolia",
+      "awardYear": 2000,
+      "winner": "Paul Thomas Anderson",
+      "releaseDate": "2000",
+      "externalIds": {
+        "letterboxd": "magnolia"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-grand-jury-prize-2000-the-road-home",
+      "mediaType": "movie",
+      "title": "The Road Home",
+      "awardYear": 2000,
+      "winner": "Zhang Yimou",
+      "releaseDate": "2000",
+      "externalIds": {
+        "letterboxd": "the-road-home"
+      },
+      "award": "Silver Bear Grand Jury Prize"
+    },
+    {
+      "id": "berlinale-best-actor-2000-the-hurricane",
+      "mediaType": "movie",
+      "title": "The Hurricane",
+      "awardYear": 2000,
+      "winner": "Denzel Washington",
+      "releaseDate": "2000",
+      "externalIds": {
+        "letterboxd": "the-hurricane"
+      },
+      "award": "Silver Bear for Best Actor (Historical)"
+    },
+    {
+      "id": "berlinale-best-actress-2000-the-legend-of-rita",
+      "mediaType": "movie",
+      "title": "The Legend of Rita",
+      "awardYear": 2000,
+      "winner": "Bibiana Beglau & Nadja Uhl",
+      "releaseDate": "2000",
+      "externalIds": {
+        "letterboxd": "the-legend-of-rita"
+      },
+      "award": "Silver Bear for Best Actress (Historical)"
+    },
+    {
+      "id": "berlinale-best-director-2000-man-on-the-moon",
+      "mediaType": "movie",
+      "title": "Man on the Moon",
+      "awardYear": 2000,
+      "winner": "Miloš Forman",
+      "releaseDate": "2000",
+      "externalIds": {
+        "letterboxd": "man-on-the-moon"
+      },
+      "award": "Silver Bear for Best Director"
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-2000-paradiso-seven-days-with-seven-women",
+      "mediaType": "movie",
+      "title": "Paradiso: Seven Days with Seven Women",
+      "awardYear": 2000,
+      "winner": "Ensemble Cast",
+      "releaseDate": "2000",
+      "externalIds": {
+        "letterboxd": "paradiso-seven-days-with-seven-women"
+      },
+      "award": "Silver Bear for Outstanding Artistic Contribution"
+    },
+    {
+      "id": "berlinale-alfred-bauer-prize-1999-karnaval",
+      "mediaType": "movie",
+      "title": "Karnaval",
+      "awardYear": 1999,
+      "winner": "Thomas Vincent",
+      "releaseDate": "1999",
+      "externalIds": {
+        "letterboxd": "karnaval"
+      },
+      "award": "Alfred Bauer Prize (Historical)"
+    },
+    {
+      "id": "berlinale-golden-bear-1999-the-thin-red-line",
+      "mediaType": "movie",
+      "title": "The Thin Red Line",
+      "awardYear": 1999,
+      "winner": "Terrence Malick",
+      "releaseDate": "1999",
+      "externalIds": {
+        "letterboxd": "the-thin-red-line"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1999-mifune-s-last-song",
+      "mediaType": "movie",
+      "title": "Mifune's Last Song",
+      "awardYear": 1999,
+      "winner": "Søren Kragh-Jacobsen",
+      "releaseDate": "1999",
+      "externalIds": {
+        "letterboxd": "mifune-s-last-song"
+      },
+      "award": "Silver Bear Grand Jury Prize"
+    },
+    {
+      "id": "berlinale-best-actor-1999-nightshapes",
+      "mediaType": "movie",
+      "title": "Nightshapes",
+      "awardYear": 1999,
+      "winner": "Michael Gwisdek",
+      "releaseDate": "1999",
+      "externalIds": {
+        "letterboxd": "nightshapes"
+      },
+      "award": "Silver Bear for Best Actor (Historical)"
+    },
+    {
+      "id": "berlinale-best-actress-1999-aimee-and-jaguar",
+      "mediaType": "movie",
+      "title": "Aimée & Jaguar",
+      "awardYear": 1999,
+      "winner": "Juliane Köhler & Maria Schrader",
+      "releaseDate": "1999",
+      "externalIds": {
+        "letterboxd": "aimee-and-jaguar"
+      },
+      "award": "Silver Bear for Best Actress (Historical)"
+    },
+    {
+      "id": "berlinale-best-director-1999-the-hi-lo-country",
+      "mediaType": "movie",
+      "title": "The Hi-Lo Country",
+      "awardYear": 1999,
+      "winner": "Stephen Frears",
+      "releaseDate": "1999",
+      "externalIds": {
+        "letterboxd": "the-hi-lo-country"
+      },
+      "award": "Silver Bear for Best Director"
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-1999-existenz",
+      "mediaType": "movie",
+      "title": "eXistenZ",
+      "awardYear": 1999,
+      "winner": "David Cronenberg",
+      "releaseDate": "1999",
+      "externalIds": {
+        "letterboxd": "existenz"
+      },
+      "award": "Silver Bear for Outstanding Artistic Contribution"
+    },
+    {
+      "id": "berlinale-alfred-bauer-prize-1998-hold-you-tight",
+      "mediaType": "movie",
+      "title": "Hold You Tight",
+      "awardYear": 1998,
+      "winner": "Stanley Kwan",
+      "releaseDate": "1998",
+      "externalIds": {
+        "letterboxd": "hold-you-tight"
+      },
+      "award": "Alfred Bauer Prize (Historical)"
+    },
+    {
+      "id": "berlinale-golden-bear-1998-central-station",
+      "mediaType": "movie",
+      "title": "Central Station",
+      "awardYear": 1998,
+      "winner": "Walter Salles",
+      "releaseDate": "1998",
+      "externalIds": {
+        "letterboxd": "central-station"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1998-wag-the-dog",
+      "mediaType": "movie",
+      "title": "Wag the Dog",
+      "awardYear": 1998,
+      "winner": "Barry Levinson",
+      "releaseDate": "1998",
+      "externalIds": {
+        "letterboxd": "wag-the-dog"
+      },
+      "award": "Silver Bear Grand Jury Prize"
+    },
+    {
+      "id": "berlinale-best-actor-1998-jackie-brown",
+      "mediaType": "movie",
+      "title": "Jackie Brown",
+      "awardYear": 1998,
+      "winner": "Samuel L. Jackson",
+      "releaseDate": "1998",
+      "externalIds": {
+        "letterboxd": "jackie-brown"
+      },
+      "award": "Silver Bear for Best Actor (Historical)"
+    },
+    {
+      "id": "berlinale-best-actress-1998-central-station",
+      "mediaType": "movie",
+      "title": "Central Station",
+      "awardYear": 1998,
+      "winner": "Fernanda Montenegro",
+      "releaseDate": "1998",
+      "externalIds": {
+        "letterboxd": "central-station"
+      },
+      "award": "Silver Bear for Best Actress (Historical)"
+    },
+    {
+      "id": "berlinale-best-director-1998-the-butcher-boy",
+      "mediaType": "movie",
+      "title": "The Butcher Boy",
+      "awardYear": 1998,
+      "winner": "Neil Jordan",
+      "releaseDate": "1998",
+      "externalIds": {
+        "letterboxd": "the-butcher-boy"
+      },
+      "award": "Silver Bear for Best Director"
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-1998-same-old-song",
+      "mediaType": "movie",
+      "title": "Same Old Song",
+      "awardYear": 1998,
+      "winner": "Alain Resnais",
+      "releaseDate": "1998",
+      "externalIds": {
+        "letterboxd": "same-old-song"
+      },
+      "award": "Silver Bear for Outstanding Artistic Contribution"
+    },
+    {
+      "id": "berlinale-alfred-bauer-prize-1997-romeo-plus-juliet",
+      "mediaType": "movie",
+      "title": "Romeo + Juliet",
+      "awardYear": 1997,
+      "winner": "Baz Luhrmann",
+      "releaseDate": "1997",
+      "externalIds": {
+        "letterboxd": "romeo-plus-juliet"
+      },
+      "award": "Alfred Bauer Prize (Historical)"
+    },
+    {
+      "id": "berlinale-golden-bear-1997-the-people-vs-larry-flynt",
+      "mediaType": "movie",
+      "title": "The People vs. Larry Flynt",
+      "awardYear": 1997,
+      "winner": "Miloš Forman",
+      "releaseDate": "1997",
+      "externalIds": {
+        "letterboxd": "the-people-vs-larry-flynt"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1997-the-river",
+      "mediaType": "movie",
+      "title": "The River",
+      "awardYear": 1997,
+      "winner": "Tsai Ming-liang",
+      "releaseDate": "1997",
+      "externalIds": {
+        "letterboxd": "the-river"
+      },
+      "award": "Silver Bear Grand Jury Prize"
+    },
+    {
+      "id": "berlinale-best-actor-1997-romeo-plus-juliet",
+      "mediaType": "movie",
+      "title": "Romeo + Juliet",
+      "awardYear": 1997,
+      "winner": "Leonardo DiCaprio",
+      "releaseDate": "1997",
+      "externalIds": {
+        "letterboxd": "romeo-plus-juliet"
+      },
+      "award": "Silver Bear for Best Actor (Historical)"
+    },
+    {
+      "id": "berlinale-best-actress-1997-the-english-patient",
+      "mediaType": "movie",
+      "title": "The English Patient",
+      "awardYear": 1997,
+      "winner": "Juliette Binoche",
+      "releaseDate": "1997",
+      "externalIds": {
+        "letterboxd": "the-english-patient"
+      },
+      "award": "Silver Bear for Best Actress (Historical)"
+    },
+    {
+      "id": "berlinale-best-director-1997-port-djema",
+      "mediaType": "movie",
+      "title": "Port Djema",
+      "awardYear": 1997,
+      "winner": "Eric Heumann",
+      "releaseDate": "1997",
+      "externalIds": {
+        "letterboxd": "port-djema"
+      },
+      "award": "Silver Bear for Best Director"
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-1997-genealogies-of-a-crime",
+      "mediaType": "movie",
+      "title": "Genealogies of a Crime",
+      "awardYear": 1997,
+      "winner": "Raúl Ruiz",
+      "releaseDate": "1997",
+      "externalIds": {
+        "letterboxd": "genealogies-of-a-crime"
+      },
+      "award": "Silver Bear for Outstanding Artistic Contribution"
+    },
+    {
+      "id": "berlinale-alfred-bauer-prize-1996-strangled-lives",
+      "mediaType": "movie",
+      "title": "Strangled Lives",
+      "awardYear": 1996,
+      "winner": "Ricky Tognazzi",
+      "releaseDate": "1996",
+      "externalIds": {
+        "letterboxd": "strangled-lives"
+      },
+      "award": "Alfred Bauer Prize (Historical)"
+    },
+    {
+      "id": "berlinale-golden-bear-1996-sense-and-sensibility",
+      "mediaType": "movie",
+      "title": "Sense and Sensibility",
+      "awardYear": 1996,
+      "winner": "Ang Lee",
+      "releaseDate": "1996",
+      "externalIds": {
+        "letterboxd": "sense-and-sensibility"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1996-all-things-fair",
+      "mediaType": "movie",
+      "title": "All Things Fair",
+      "awardYear": 1996,
+      "winner": "Bo Widerberg",
+      "releaseDate": "1996",
+      "externalIds": {
+        "letterboxd": "all-things-fair"
+      },
+      "award": "Silver Bear Grand Jury Prize"
+    },
+    {
+      "id": "berlinale-best-actor-1996-dead-man-walking",
+      "mediaType": "movie",
+      "title": "Dead Man Walking",
+      "awardYear": 1996,
+      "winner": "Sean Penn",
+      "releaseDate": "1996",
+      "externalIds": {
+        "letterboxd": "dead-man-walking"
+      },
+      "award": "Silver Bear for Best Actor (Historical)"
+    },
+    {
+      "id": "berlinale-best-actress-1996-my-man",
+      "mediaType": "movie",
+      "title": "My Man",
+      "awardYear": 1996,
+      "winner": "Anouk Grinberg",
+      "releaseDate": "1996",
+      "externalIds": {
+        "letterboxd": "my-man"
+      },
+      "award": "Silver Bear for Best Actress (Historical)"
+    },
+    {
+      "id": "berlinale-best-director-1996-richard-iii",
+      "mediaType": "movie",
+      "title": "Richard III",
+      "awardYear": 1996,
+      "winner": "Richard Loncraine",
+      "releaseDate": "1996",
+      "externalIds": {
+        "letterboxd": "richard-iii"
+      },
+      "award": "Silver Bear for Best Director"
+    },
+    {
+      "id": "berlinale-best-director-1996-the-sun-has-ears",
+      "mediaType": "movie",
+      "title": "The Sun Has Ears",
+      "awardYear": 1996,
+      "winner": "Yim Ho",
+      "releaseDate": "1996",
+      "externalIds": {
+        "letterboxd": "the-sun-has-ears"
+      },
+      "award": "Silver Bear for Best Director"
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-1996-holy-week",
+      "mediaType": "movie",
+      "title": "Holy Week",
+      "awardYear": 1996,
+      "winner": "Andrzej Wajda",
+      "releaseDate": "1996",
+      "externalIds": {
+        "letterboxd": "holy-week"
+      },
+      "award": "Silver Bear for Outstanding Artistic Contribution"
+    },
+    {
+      "id": "berlinale-golden-bear-1995-the-bait",
+      "mediaType": "movie",
+      "title": "The Bait",
+      "awardYear": 1995,
+      "winner": "Bertrand Tavernier",
+      "releaseDate": "1995",
+      "externalIds": {
+        "letterboxd": "the-bait"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1995-smoke",
+      "mediaType": "movie",
+      "title": "Smoke",
+      "awardYear": 1995,
+      "winner": "Wayne Wang",
+      "releaseDate": "1995",
+      "externalIds": {
+        "letterboxd": "smoke"
+      },
+      "award": "Silver Bear Grand Jury Prize"
+    },
+    {
+      "id": "berlinale-best-actor-1995-nobody-s-fool",
+      "mediaType": "movie",
+      "title": "Nobody's Fool",
+      "awardYear": 1995,
+      "winner": "Paul Newman",
+      "releaseDate": "1995",
+      "externalIds": {
+        "letterboxd": "nobody-s-fool"
+      },
+      "award": "Silver Bear for Best Actor (Historical)"
+    },
+    {
+      "id": "berlinale-best-actress-1995-summer-snow",
+      "mediaType": "movie",
+      "title": "Summer Snow",
+      "awardYear": 1995,
+      "winner": "Josephine Siao",
+      "releaseDate": "1995",
+      "externalIds": {
+        "letterboxd": "summer-snow"
+      },
+      "award": "Silver Bear for Best Actress (Historical)"
+    },
+    {
+      "id": "berlinale-best-director-1995-before-sunrise",
+      "mediaType": "movie",
+      "title": "Before Sunrise",
+      "awardYear": 1995,
+      "winner": "Richard Linklater",
+      "releaseDate": "1995",
+      "externalIds": {
+        "letterboxd": "before-sunrise"
+      },
+      "award": "Silver Bear for Best Director"
+    },
+    {
+      "id": "berlinale-alfred-bauer-prize-1994-hwa-om-kyung",
+      "mediaType": "movie",
+      "title": "Hwa-Om-Kyung",
+      "awardYear": 1994,
+      "winner": "Jang Sun-woo",
+      "releaseDate": "1994",
+      "externalIds": {
+        "letterboxd": "hwa-om-kyung"
+      },
+      "award": "Alfred Bauer Prize (Historical)"
+    },
+    {
+      "id": "berlinale-golden-bear-1994-in-the-name-of-the-father",
+      "mediaType": "movie",
+      "title": "In the Name of the Father",
+      "awardYear": 1994,
+      "winner": "Jim Sheridan",
+      "releaseDate": "1994",
+      "externalIds": {
+        "letterboxd": "in-the-name-of-the-father"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1994-strawberry-and-chocolate",
+      "mediaType": "movie",
+      "title": "Strawberry and Chocolate",
+      "awardYear": 1994,
+      "winner": "Tomás Gutiérrez Alea & Juan Carlos Tabío",
+      "releaseDate": "1994",
+      "externalIds": {
+        "letterboxd": "strawberry-and-chocolate"
+      },
+      "award": "Silver Bear Grand Jury Prize"
+    },
+    {
+      "id": "berlinale-best-actor-1994-philadelphia",
+      "mediaType": "movie",
+      "title": "Philadelphia",
+      "awardYear": 1994,
+      "winner": "Tom Hanks",
+      "releaseDate": "1994",
+      "externalIds": {
+        "letterboxd": "philadelphia"
+      },
+      "award": "Silver Bear for Best Actor (Historical)"
+    },
+    {
+      "id": "berlinale-best-actress-1994-ladybird-ladybird",
+      "mediaType": "movie",
+      "title": "Ladybird, Ladybird",
+      "awardYear": 1994,
+      "winner": "Crissy Rock",
+      "releaseDate": "1994",
+      "externalIds": {
+        "letterboxd": "ladybird-ladybird"
+      },
+      "award": "Silver Bear for Best Actress (Historical)"
+    },
+    {
+      "id": "berlinale-best-director-1994-three-colours-white",
+      "mediaType": "movie",
+      "title": "Three Colours: White",
+      "awardYear": 1994,
+      "winner": "Krzysztof Kieślowski",
+      "releaseDate": "1994",
+      "externalIds": {
+        "letterboxd": "three-colours-white"
+      },
+      "award": "Silver Bear for Best Director"
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-1994-the-year-of-the-dog",
+      "mediaType": "movie",
+      "title": "The Year of the Dog",
+      "awardYear": 1994,
+      "winner": "Semyon Aranovich",
+      "releaseDate": "1994",
+      "externalIds": {
+        "letterboxd": "the-year-of-the-dog"
+      },
+      "award": "Silver Bear for Outstanding Artistic Contribution"
+    },
+    {
+      "id": "berlinale-golden-bear-1993-the-wedding-banquet",
+      "mediaType": "movie",
+      "title": "The Wedding Banquet",
+      "awardYear": 1993,
+      "winner": "Ang Lee",
+      "releaseDate": "1993",
+      "externalIds": {
+        "letterboxd": "the-wedding-banquet"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-golden-bear-1993-woman-sesame-oil-maker",
+      "mediaType": "movie",
+      "title": "Woman Sesame Oil Maker",
+      "awardYear": 1993,
+      "winner": "Xie Fei",
+      "releaseDate": "1993",
+      "externalIds": {
+        "letterboxd": "woman-sesame-oil-maker"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1993-arizona-dream",
+      "mediaType": "movie",
+      "title": "Arizona Dream",
+      "awardYear": 1993,
+      "winner": "Emir Kusturica",
+      "releaseDate": "1993",
+      "externalIds": {
+        "letterboxd": "arizona-dream"
+      },
+      "award": "Silver Bear Grand Jury Prize"
+    },
+    {
+      "id": "berlinale-best-actor-1993-malcolm-x",
+      "mediaType": "movie",
+      "title": "Malcolm X",
+      "awardYear": 1993,
+      "winner": "Denzel Washington",
+      "releaseDate": "1993",
+      "externalIds": {
+        "imdb": "tt0104797"
+      },
+      "award": "Silver Bear for Best Actor (Historical)"
+    },
+    {
+      "id": "berlinale-best-actress-1993-love-field",
+      "mediaType": "movie",
+      "title": "Love Field",
+      "awardYear": 1993,
+      "winner": "Michelle Pfeiffer",
+      "releaseDate": "1993",
+      "externalIds": {
+        "imdb": "tt0104765"
+      },
+      "award": "Silver Bear for Best Actress (Historical)"
+    },
+    {
+      "id": "berlinale-best-director-1993-the-cement-garden",
+      "mediaType": "movie",
+      "title": "The Cement Garden",
+      "awardYear": 1993,
+      "winner": "Andrew Birkin",
+      "releaseDate": "1993",
+      "externalIds": {
+        "letterboxd": "the-cement-garden"
+      },
+      "award": "Silver Bear for Best Director"
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-1993-the-sun-of-the-sleepless",
+      "mediaType": "movie",
+      "title": "The Sun of the Sleepless",
+      "awardYear": 1993,
+      "winner": "Temur Babluani",
+      "releaseDate": "1993",
+      "externalIds": {
+        "letterboxd": "the-sun-of-the-sleepless"
+      },
+      "award": "Silver Bear for Outstanding Artistic Contribution"
+    },
+    {
+      "id": "berlinale-alfred-bauer-prize-1992-infinitas",
+      "mediaType": "movie",
+      "title": "Infinitas",
+      "awardYear": 1992,
+      "winner": "Marlen Khutsiev",
+      "releaseDate": "1992",
+      "externalIds": {
+        "letterboxd": "infinitas"
+      },
+      "award": "Alfred Bauer Prize (Historical)"
+    },
+    {
+      "id": "berlinale-golden-bear-1992-grand-canyon",
+      "mediaType": "movie",
+      "title": "Grand Canyon",
+      "awardYear": 1992,
+      "winner": "Lawrence Kasdan",
+      "releaseDate": "1992",
+      "externalIds": {
+        "letterboxd": "grand-canyon"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1992-sweet-emma-dear-bobe",
+      "mediaType": "movie",
+      "title": "Sweet Emma, Dear Böbe",
+      "awardYear": 1992,
+      "winner": "István Szabó",
+      "releaseDate": "1992",
+      "externalIds": {
+        "letterboxd": "sweet-emma-dear-bobe"
+      },
+      "award": "Silver Bear Grand Jury Prize"
+    },
+    {
+      "id": "berlinale-best-actor-1992-utz",
+      "mediaType": "movie",
+      "title": "Utz",
+      "awardYear": 1992,
+      "winner": "Armin Mueller-Stahl",
+      "releaseDate": "1992",
+      "externalIds": {
+        "imdb": "tt0105712"
+      },
+      "award": "Silver Bear for Best Actor (Historical)"
+    },
+    {
+      "id": "berlinale-best-actress-1992-center-stage",
+      "mediaType": "movie",
+      "title": "Center Stage",
+      "awardYear": 1992,
+      "winner": "Maggie Cheung",
+      "releaseDate": "1992",
+      "externalIds": {
+        "imdb": "tt0102816"
+      },
+      "award": "Silver Bear for Best Actress (Historical)"
+    },
+    {
+      "id": "berlinale-best-director-1992-il-capitano-a-swedish-requiem",
+      "mediaType": "movie",
+      "title": "Il Capitano: A Swedish Requiem",
+      "awardYear": 1992,
+      "winner": "Jan Troell",
+      "releaseDate": "1992",
+      "externalIds": {
+        "letterboxd": "il-capitano-a-swedish-requiem"
+      },
+      "award": "Silver Bear for Best Director"
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-1992-prince-of-shadows",
+      "mediaType": "movie",
+      "title": "Prince of Shadows",
+      "awardYear": 1992,
+      "winner": "Pilar Miró",
+      "releaseDate": "1992",
+      "externalIds": {
+        "letterboxd": "prince-of-shadows"
+      },
+      "award": "Silver Bear for Outstanding Artistic Contribution"
+    },
+    {
+      "id": "berlinale-golden-bear-1991-the-house-of-smiles",
+      "mediaType": "movie",
+      "title": "The House of Smiles",
+      "awardYear": 1991,
+      "winner": "Marco Ferreri",
+      "releaseDate": "1991",
+      "externalIds": {
+        "letterboxd": "the-house-of-smiles"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1991-satan",
+      "mediaType": "movie",
+      "title": "Satan",
+      "awardYear": 1991,
+      "winner": "Viktor Aristov",
+      "releaseDate": "1991",
+      "externalIds": {
+        "letterboxd": "satan"
+      },
+      "award": "Silver Bear Grand Jury Prize"
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1991-the-conviction",
+      "mediaType": "movie",
+      "title": "The Conviction",
+      "awardYear": 1991,
+      "winner": "Marco Bellocchio",
+      "releaseDate": "1991",
+      "externalIds": {
+        "letterboxd": "the-conviction"
+      },
+      "award": "Silver Bear Grand Jury Prize"
+    },
+    {
+      "id": "berlinale-best-actor-1991-mister-johnson",
+      "mediaType": "movie",
+      "title": "Mister Johnson",
+      "awardYear": 1991,
+      "winner": "Maynard Eziashi",
+      "releaseDate": "1991",
+      "externalIds": {
+        "letterboxd": "mister-johnson"
+      },
+      "award": "Silver Bear for Best Actor (Historical)"
+    },
+    {
+      "id": "berlinale-best-actress-1991-lovers",
+      "mediaType": "movie",
+      "title": "Lovers",
+      "awardYear": 1991,
+      "winner": "Victoria Abril",
+      "releaseDate": "1991",
+      "externalIds": {
+        "letterboxd": "lovers"
+      },
+      "award": "Silver Bear for Best Actress (Historical)"
+    },
+    {
+      "id": "berlinale-best-director-1991-the-silence-of-the-lambs",
+      "mediaType": "movie",
+      "title": "The Silence of the Lambs",
+      "awardYear": 1991,
+      "winner": "Jonathan Demme",
+      "releaseDate": "1991",
+      "externalIds": {
+        "letterboxd": "the-silence-of-the-lambs"
+      },
+      "award": "Silver Bear for Best Director"
+    },
+    {
+      "id": "berlinale-best-director-1991-ultra",
+      "mediaType": "movie",
+      "title": "Ultra",
+      "awardYear": 1991,
+      "winner": "Ricky Tognazzi",
+      "releaseDate": "1991",
+      "externalIds": {
+        "letterboxd": "ultra"
+      },
+      "award": "Silver Bear for Best Director"
+    },
+    {
+      "id": "berlinale-alfred-bauer-prize-1990-the-guard",
+      "mediaType": "movie",
+      "title": "The Guard",
+      "awardYear": 1990,
+      "winner": "Aleksandr Rogozhkin",
+      "releaseDate": "1990",
+      "externalIds": {
+        "letterboxd": "the-guard"
+      },
+      "award": "Alfred Bauer Prize (Historical)"
+    },
+    {
+      "id": "berlinale-golden-bear-1990-larks-on-a-string",
+      "mediaType": "movie",
+      "title": "Larks on a String",
+      "awardYear": 1990,
+      "winner": "Jiří Menzel",
+      "releaseDate": "1990",
+      "externalIds": {
+        "letterboxd": "larks-on-a-string"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-golden-bear-1990-music-box",
+      "mediaType": "movie",
+      "title": "Music Box",
+      "awardYear": 1990,
+      "winner": "Costa-Gavras",
+      "releaseDate": "1990",
+      "externalIds": {
+        "letterboxd": "music-box"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1990-the-asthenic-syndrome",
+      "mediaType": "movie",
+      "title": "The Asthenic Syndrome",
+      "awardYear": 1990,
+      "winner": "Kira Muratova",
+      "releaseDate": "1990",
+      "externalIds": {
+        "letterboxd": "the-asthenic-syndrome"
+      },
+      "award": "Silver Bear Grand Jury Prize"
+    },
+    {
+      "id": "berlinale-best-actor-1990-silent-scream",
+      "mediaType": "movie",
+      "title": "Silent Scream",
+      "awardYear": 1990,
+      "winner": "Iain Glen",
+      "releaseDate": "1990",
+      "externalIds": {
+        "letterboxd": "silent-scream"
+      },
+      "award": "Silver Bear for Best Actor (Historical)"
+    },
+    {
+      "id": "berlinale-best-director-1990-the-nasty-girl",
+      "mediaType": "movie",
+      "title": "The Nasty Girl",
+      "awardYear": 1990,
+      "winner": "Michael Verhoeven",
+      "releaseDate": "1990",
+      "externalIds": {
+        "letterboxd": "the-nasty-girl"
+      },
+      "award": "Silver Bear for Best Director"
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-1990-coming-out",
+      "mediaType": "movie",
+      "title": "Coming Out",
+      "awardYear": 1990,
+      "winner": "Heiner Carow",
+      "releaseDate": "1990",
+      "externalIds": {
+        "letterboxd": "coming-out"
+      },
+      "award": "Silver Bear for Outstanding Artistic Contribution"
+    },
+    {
+      "id": "berlinale-alfred-bauer-prize-1989-the-servant",
+      "mediaType": "movie",
+      "title": "The Servant",
+      "awardYear": 1989,
+      "winner": "Vadim Abdrashitov",
+      "releaseDate": "1989",
+      "externalIds": {
+        "letterboxd": "the-servant"
+      },
+      "award": "Alfred Bauer Prize (Historical)"
+    },
+    {
+      "id": "berlinale-golden-bear-1989-rain-man",
+      "mediaType": "movie",
+      "title": "Rain Man",
+      "awardYear": 1989,
+      "winner": "Barry Levinson",
+      "releaseDate": "1989",
+      "externalIds": {
+        "letterboxd": "rain-man"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1989-evening-bell",
+      "mediaType": "movie",
+      "title": "Evening Bell",
+      "awardYear": 1989,
+      "winner": "Wu Ziniu",
+      "releaseDate": "1989",
+      "externalIds": {
+        "letterboxd": "evening-bell"
+      },
+      "award": "Silver Bear Grand Jury Prize"
+    },
+    {
+      "id": "berlinale-best-actor-1989-mississippi-burning",
+      "mediaType": "movie",
+      "title": "Mississippi Burning",
+      "awardYear": 1989,
+      "winner": "Gene Hackman",
+      "releaseDate": "1989",
+      "externalIds": {
+        "letterboxd": "mississippi-burning"
+      },
+      "award": "Silver Bear for Best Actor (Historical)"
+    },
+    {
+      "id": "berlinale-best-actress-1989-camille-claudel",
+      "mediaType": "movie",
+      "title": "Camille Claudel",
+      "awardYear": 1989,
+      "winner": "Isabelle Adjani",
+      "releaseDate": "1989",
+      "externalIds": {
+        "letterboxd": "camille-claudel"
+      },
+      "award": "Silver Bear for Best Actress (Historical)"
+    },
+    {
+      "id": "berlinale-best-director-1989-i-love-you-love",
+      "mediaType": "movie",
+      "title": "I Love, You Love",
+      "awardYear": 1989,
+      "winner": "Dušan Hanák",
+      "releaseDate": "1989",
+      "externalIds": {
+        "letterboxd": "i-love-you-love"
+      },
+      "award": "Silver Bear for Best Director"
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-1989-aviya-s-summer",
+      "mediaType": "movie",
+      "title": "Aviya's Summer",
+      "awardYear": 1989,
+      "winner": "Kaipo Cohen & Gila Almagor",
+      "releaseDate": "1989",
+      "externalIds": {
+        "letterboxd": "aviya-s-summer"
+      },
+      "award": "Silver Bear for Outstanding Artistic Contribution"
+    },
+    {
+      "id": "berlinale-golden-bear-1988-red-sorghum",
+      "mediaType": "movie",
+      "title": "Red Sorghum",
+      "awardYear": 1988,
+      "winner": "Zhang Yimou",
+      "releaseDate": "1988",
+      "externalIds": {
+        "letterboxd": "red-sorghum"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1988-commissar",
+      "mediaType": "movie",
+      "title": "Commissar",
+      "awardYear": 1988,
+      "winner": "Aleksandr Askoldov",
+      "releaseDate": "1988",
+      "externalIds": {
+        "letterboxd": "commissar"
+      },
+      "award": "Silver Bear Grand Jury Prize"
+    },
+    {
+      "id": "berlinale-best-actor-1988-bear-ye-one-another-s-burden",
+      "mediaType": "movie",
+      "title": "Bear Ye One Another's Burden",
+      "awardYear": 1988,
+      "winner": "Manfred Möck & Jörg Pose",
+      "releaseDate": "1988",
+      "externalIds": {
+        "letterboxd": "bear-ye-one-another-s-burden"
+      },
+      "award": "Silver Bear for Best Actor (Historical)"
+    },
+    {
+      "id": "berlinale-best-actress-1988-broadcast-news",
+      "mediaType": "movie",
+      "title": "Broadcast News",
+      "awardYear": 1988,
+      "winner": "Holly Hunter",
+      "releaseDate": "1988",
+      "externalIds": {
+        "letterboxd": "broadcast-news"
+      },
+      "award": "Silver Bear for Best Actress (Historical)"
+    },
+    {
+      "id": "berlinale-best-director-1988-moonstruck",
+      "mediaType": "movie",
+      "title": "Moonstruck",
+      "awardYear": 1988,
+      "winner": "Norman Jewison",
+      "releaseDate": "1988",
+      "externalIds": {
+        "letterboxd": "moonstruck"
+      },
+      "award": "Silver Bear for Best Director"
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-1988-veronico-cruz",
+      "mediaType": "movie",
+      "title": "Verónico Cruz",
+      "awardYear": 1988,
+      "winner": "Miguel Pereira",
+      "releaseDate": "1988",
+      "externalIds": {
+        "letterboxd": "veronico-cruz"
+      },
+      "award": "Silver Bear for Outstanding Artistic Contribution"
+    },
+    {
+      "id": "berlinale-alfred-bauer-prize-1987-mauvais-sang",
+      "mediaType": "movie",
+      "title": "Mauvais Sang",
+      "awardYear": 1987,
+      "winner": "Léos Carax",
+      "releaseDate": "1987",
+      "externalIds": {
+        "letterboxd": "mauvais-sang"
+      },
+      "award": "Alfred Bauer Prize (Historical)"
+    },
+    {
+      "id": "berlinale-golden-bear-1987-the-theme",
+      "mediaType": "movie",
+      "title": "The Theme",
+      "awardYear": 1987,
+      "winner": "Gleb Panfilov",
+      "releaseDate": "1987",
+      "externalIds": {
+        "letterboxd": "the-theme"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1987-the-sea-and-poison",
+      "mediaType": "movie",
+      "title": "The Sea and Poison",
+      "awardYear": 1987,
+      "winner": "Kei Kumai",
+      "releaseDate": "1987",
+      "externalIds": {
+        "letterboxd": "the-sea-and-poison"
+      },
+      "award": "Silver Bear Grand Jury Prize"
+    },
+    {
+      "id": "berlinale-best-actor-1987-the-moro-affair",
+      "mediaType": "movie",
+      "title": "The Moro Affair",
+      "awardYear": 1987,
+      "winner": "Gian Maria Volonté",
+      "releaseDate": "1987",
+      "externalIds": {
+        "letterboxd": "the-moro-affair"
+      },
+      "award": "Silver Bear for Best Actor (Historical)"
+    },
+    {
+      "id": "berlinale-best-actress-1987-vera",
+      "mediaType": "movie",
+      "title": "Vera",
+      "awardYear": 1987,
+      "winner": "Ana Beatriz Nogueira",
+      "releaseDate": "1987",
+      "externalIds": {
+        "letterboxd": "vera"
+      },
+      "award": "Silver Bear for Best Actress (Historical)"
+    },
+    {
+      "id": "berlinale-best-director-1987-platoon",
+      "mediaType": "movie",
+      "title": "Platoon",
+      "awardYear": 1987,
+      "winner": "Oliver Stone",
+      "releaseDate": "1987",
+      "externalIds": {
+        "letterboxd": "platoon"
+      },
+      "award": "Silver Bear for Best Director"
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-1987-children-of-a-lesser-god",
+      "mediaType": "movie",
+      "title": "Children of a Lesser God",
+      "awardYear": 1987,
+      "winner": "Randa Haines",
+      "releaseDate": "1987",
+      "externalIds": {
+        "letterboxd": "children-of-a-lesser-god"
+      },
+      "award": "Silver Bear for Outstanding Artistic Contribution"
+    },
+    {
+      "id": "berlinale-golden-bear-1986-stammheim",
+      "mediaType": "movie",
+      "title": "Stammheim",
+      "awardYear": 1986,
+      "winner": "Reinhard Hauff",
+      "releaseDate": "1986",
+      "externalIds": {
+        "letterboxd": "stammheim"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1986-the-mass-is-ended",
+      "mediaType": "movie",
+      "title": "The Mass Is Ended",
+      "awardYear": 1986,
+      "winner": "Nanni Moretti",
+      "releaseDate": "1986",
+      "externalIds": {
+        "letterboxd": "the-mass-is-ended"
+      },
+      "award": "Silver Bear Grand Jury Prize"
+    },
+    {
+      "id": "berlinale-best-actor-1986-the-smile-of-the-lamb",
+      "mediaType": "movie",
+      "title": "The Smile of the Lamb",
+      "awardYear": 1986,
+      "winner": "Tuncel Kurtiz",
+      "releaseDate": "1986",
+      "externalIds": {
+        "letterboxd": "the-smile-of-the-lamb"
+      },
+      "award": "Silver Bear for Best Actor (Historical)"
+    },
+    {
+      "id": "berlinale-best-actress-1986-hour-of-the-star",
+      "mediaType": "movie",
+      "title": "Hour of the Star",
+      "awardYear": 1986,
+      "winner": "Marcélia Cartaxo",
+      "releaseDate": "1986",
+      "externalIds": {
+        "letterboxd": "hour-of-the-star"
+      },
+      "award": "Silver Bear for Best Actress (Historical)"
+    },
+    {
+      "id": "berlinale-best-actress-1986-red-kiss",
+      "mediaType": "movie",
+      "title": "Red Kiss",
+      "awardYear": 1986,
+      "winner": "Charlotte Valandrey",
+      "releaseDate": "1986",
+      "externalIds": {
+        "letterboxd": "red-kiss"
+      },
+      "award": "Silver Bear for Best Actress (Historical)"
+    },
+    {
+      "id": "berlinale-best-director-1986-the-journey-of-a-young-composer",
+      "mediaType": "movie",
+      "title": "The Journey of a Young Composer",
+      "awardYear": 1986,
+      "winner": "Giorgi Shengelaya",
+      "releaseDate": "1986",
+      "externalIds": {
+        "letterboxd": "the-journey-of-a-young-composer"
+      },
+      "award": "Silver Bear for Best Director"
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-1986-gonza-the-spearman",
+      "mediaType": "movie",
+      "title": "Gonza the Spearman",
+      "awardYear": 1986,
+      "winner": "Masahiro Shinoda",
+      "releaseDate": "1986",
+      "externalIds": {
+        "letterboxd": "gonza-the-spearman"
+      },
+      "award": "Silver Bear for Outstanding Artistic Contribution"
+    },
+    {
+      "id": "berlinale-golden-bear-1985-the-woman-and-the-stranger",
+      "mediaType": "movie",
+      "title": "The Woman and the Stranger",
+      "awardYear": 1985,
+      "winner": "Rainer Simon",
+      "releaseDate": "1985",
+      "externalIds": {
+        "letterboxd": "the-woman-and-the-stranger"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-golden-bear-1985-wetherby",
+      "mediaType": "movie",
+      "title": "Wetherby",
+      "awardYear": 1985,
+      "winner": "David Hare",
+      "releaseDate": "1985",
+      "externalIds": {
+        "letterboxd": "wetherby"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1985-flowers-of-reverie",
+      "mediaType": "movie",
+      "title": "Flowers of Reverie",
+      "awardYear": 1985,
+      "winner": "László Lugossy",
+      "releaseDate": "1985",
+      "externalIds": {
+        "letterboxd": "flowers-of-reverie"
+      },
+      "award": "Silver Bear Grand Jury Prize"
+    },
+    {
+      "id": "berlinale-best-actor-1985-stico",
+      "mediaType": "movie",
+      "title": "Stico",
+      "awardYear": 1985,
+      "winner": "Fernando Fernán Gómez",
+      "releaseDate": "1985",
+      "externalIds": {
+        "letterboxd": "stico"
+      },
+      "award": "Silver Bear for Best Actor (Historical)"
+    },
+    {
+      "id": "berlinale-best-actress-1985-wrong-world",
+      "mediaType": "movie",
+      "title": "Wrong World",
+      "awardYear": 1985,
+      "winner": "Jo Kennedy",
+      "releaseDate": "1985",
+      "externalIds": {
+        "letterboxd": "wrong-world"
+      },
+      "award": "Silver Bear for Best Actress (Historical)"
+    },
+    {
+      "id": "berlinale-best-director-1985-places-in-the-heart",
+      "mediaType": "movie",
+      "title": "Places in the Heart",
+      "awardYear": 1985,
+      "winner": "Robert Benton",
+      "releaseDate": "1985",
+      "externalIds": {
+        "letterboxd": "places-in-the-heart"
+      },
+      "award": "Silver Bear for Best Director"
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-1985-ronia-the-robber-s-daughter",
+      "mediaType": "movie",
+      "title": "Ronia, the Robber's Daughter",
+      "awardYear": 1985,
+      "winner": "Tage Danielsson",
+      "releaseDate": "1985",
+      "externalIds": {
+        "letterboxd": "ronia-the-robber-s-daughter"
+      },
+      "award": "Silver Bear for Outstanding Artistic Contribution"
+    },
+    {
+      "id": "berlinale-golden-bear-1984-love-streams",
+      "mediaType": "movie",
+      "title": "Love Streams",
+      "awardYear": 1984,
+      "winner": "John Cassavetes",
+      "releaseDate": "1984",
+      "externalIds": {
+        "letterboxd": "love-streams"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1984-funny-dirty-little-war",
+      "mediaType": "movie",
+      "title": "Funny Dirty Little War",
+      "awardYear": 1984,
+      "winner": "Héctor Olivera",
+      "releaseDate": "1984",
+      "externalIds": {
+        "letterboxd": "funny-dirty-little-war"
+      },
+      "award": "Silver Bear Grand Jury Prize"
+    },
+    {
+      "id": "berlinale-best-actor-1984-the-dresser",
+      "mediaType": "movie",
+      "title": "The Dresser",
+      "awardYear": 1984,
+      "winner": "Albert Finney",
+      "releaseDate": "1984",
+      "externalIds": {
+        "imdb": "tt0085461"
+      },
+      "award": "Silver Bear for Best Actor (Historical)"
+    },
+    {
+      "id": "berlinale-best-actress-1984-wartime-romance",
+      "mediaType": "movie",
+      "title": "Wartime Romance",
+      "awardYear": 1984,
+      "winner": "Inna Churikova",
+      "releaseDate": "1984",
+      "externalIds": {
+        "letterboxd": "wartime-romance"
+      },
+      "award": "Silver Bear for Best Actress (Historical)"
+    },
+    {
+      "id": "berlinale-best-director-1984-le-bal",
+      "mediaType": "movie",
+      "title": "Le Bal",
+      "awardYear": 1984,
+      "winner": "Ettore Scola",
+      "releaseDate": "1984",
+      "externalIds": {
+        "letterboxd": "le-bal"
+      },
+      "award": "Silver Bear for Best Director"
+    },
+    {
+      "id": "berlinale-best-director-1984-rembetiko",
+      "mediaType": "movie",
+      "title": "Rembetiko",
+      "awardYear": 1984,
+      "winner": "Costas Ferris",
+      "releaseDate": "1984",
+      "externalIds": {
+        "letterboxd": "rembetiko"
+      },
+      "award": "Silver Bear for Best Director"
+    },
+    {
+      "id": "berlinale-golden-bear-1983-ascendancy",
+      "mediaType": "movie",
+      "title": "Ascendancy",
+      "awardYear": 1983,
+      "winner": "Edward Bennett",
+      "releaseDate": "1983",
+      "externalIds": {
+        "letterboxd": "ascendancy"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-golden-bear-1983-la-colmena",
+      "mediaType": "movie",
+      "title": "La colmena",
+      "awardYear": 1983,
+      "winner": "Mario Camus",
+      "releaseDate": "1983",
+      "externalIds": {
+        "letterboxd": "la-colmena"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1983-a-season-in-hakkari",
+      "mediaType": "movie",
+      "title": "A Season in Hakkari",
+      "awardYear": 1983,
+      "winner": "Erden Kıral",
+      "releaseDate": "1983",
+      "externalIds": {
+        "letterboxd": "a-season-in-hakkari"
+      },
+      "award": "Silver Bear Grand Jury Prize"
+    },
+    {
+      "id": "berlinale-best-actor-1983-that-championship-season",
+      "mediaType": "movie",
+      "title": "That Championship Season",
+      "awardYear": 1983,
+      "winner": "Bruce Dern",
+      "releaseDate": "1983",
+      "externalIds": {
+        "imdb": "tt0084784"
+      },
+      "award": "Silver Bear for Best Actor (Historical)"
+    },
+    {
+      "id": "berlinale-best-actress-1983-love-by-request",
+      "mediaType": "movie",
+      "title": "Love by Request",
+      "awardYear": 1983,
+      "winner": "Yevgeniya Glushenko",
+      "releaseDate": "1983",
+      "externalIds": {
+        "letterboxd": "love-by-request"
+      },
+      "award": "Silver Bear for Best Actress (Historical)"
+    },
+    {
+      "id": "berlinale-best-director-1983-pauline-at-the-beach",
+      "mediaType": "movie",
+      "title": "Pauline at the Beach",
+      "awardYear": 1983,
+      "winner": "Éric Rohmer",
+      "releaseDate": "1983",
+      "externalIds": {
+        "letterboxd": "pauline-at-the-beach"
+      },
+      "award": "Silver Bear for Best Director"
+    },
+    {
+      "id": "berlinale-golden-bear-1982-veronika-voss",
+      "mediaType": "movie",
+      "title": "Veronika Voss",
+      "awardYear": 1982,
+      "winner": "Rainer Werner Fassbinder",
+      "releaseDate": "1982",
+      "externalIds": {
+        "letterboxd": "veronika-voss"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1982-shivers",
+      "mediaType": "movie",
+      "title": "Shivers",
+      "awardYear": 1982,
+      "winner": "Wojciech Marczewski",
+      "releaseDate": "1982",
+      "externalIds": {
+        "letterboxd": "shivers"
+      },
+      "award": "Silver Bear Grand Jury Prize"
+    },
+    {
+      "id": "berlinale-best-actor-1982-strange-affair",
+      "mediaType": "movie",
+      "title": "Strange Affair",
+      "awardYear": 1982,
+      "winner": "Michel Piccoli",
+      "releaseDate": "1982",
+      "externalIds": {
+        "imdb": "tt0083257"
+      },
+      "award": "Silver Bear for Best Actor (Historical)"
+    },
+    {
+      "id": "berlinale-best-actor-1982-the-simple-minded-murderer",
+      "mediaType": "movie",
+      "title": "The Simple-Minded Murderer",
+      "awardYear": 1982,
+      "winner": "Stellan Skarsgård",
+      "releaseDate": "1982",
+      "externalIds": {
+        "letterboxd": "the-simple-minded-murderer"
+      },
+      "award": "Silver Bear for Best Actor (Historical)"
+    },
+    {
+      "id": "berlinale-best-actress-1982-burgschaft-fur-ein-jahr",
+      "mediaType": "movie",
+      "title": "Bürgschaft für ein Jahr",
+      "awardYear": 1982,
+      "winner": "Katrin Sass",
+      "releaseDate": "1982",
+      "externalIds": {
+        "letterboxd": "burgschaft-fur-ein-jahr"
+      },
+      "award": "Silver Bear for Best Actress (Historical)"
+    },
+    {
+      "id": "berlinale-best-director-1982-il-marchese-del-grillo",
+      "mediaType": "movie",
+      "title": "Il Marchese del Grillo",
+      "awardYear": 1982,
+      "winner": "Mario Monicelli",
+      "releaseDate": "1982",
+      "externalIds": {
+        "letterboxd": "il-marchese-del-grillo"
+      },
+      "award": "Silver Bear for Best Director"
+    },
+    {
+      "id": "berlinale-golden-bear-1981-deprisa-deprisa",
+      "mediaType": "movie",
+      "title": "Deprisa, deprisa",
+      "awardYear": 1981,
+      "winner": "Carlos Saura",
+      "releaseDate": "1981",
+      "externalIds": {
+        "letterboxd": "deprisa-deprisa"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1981-akaler-shandhaney",
+      "mediaType": "movie",
+      "title": "Akaler Shandhaney",
+      "awardYear": 1981,
+      "winner": "Mrinal Sen",
+      "releaseDate": "1981",
+      "externalIds": {
+        "letterboxd": "akaler-shandhaney"
+      },
+      "award": "Silver Bear Grand Jury Prize"
+    },
+    {
+      "id": "berlinale-best-actor-1981-tribute",
+      "mediaType": "movie",
+      "title": "Tribute",
+      "awardYear": 1981,
+      "winner": "Jack Lemmon",
+      "releaseDate": "1981",
+      "externalIds": {
+        "imdb": "tt0081656"
+      },
+      "award": "Silver Bear for Best Actor (Historical)"
+    },
+    {
+      "id": "berlinale-best-actor-1981-twenty-six-days-from-the-life-of-dostoyevsky",
+      "mediaType": "movie",
+      "title": "Twenty Six Days from the Life of Dostoyevsky",
+      "awardYear": 1981,
+      "winner": "Anatoly Solonitsyn",
+      "releaseDate": "1981",
+      "externalIds": {
+        "imdb": "tt0132932"
+      },
+      "award": "Silver Bear for Best Actor (Historical)"
+    },
+    {
+      "id": "berlinale-best-actress-1981-fever",
+      "mediaType": "movie",
+      "title": "Fever",
+      "awardYear": 1981,
+      "winner": "Barbara Grabowska",
+      "releaseDate": "1981",
+      "externalIds": {
+        "imdb": "tt0082374"
+      },
+      "award": "Silver Bear for Best Actress (Historical)"
+    },
+    {
+      "id": "berlinale-golden-bear-1980-heartland",
+      "mediaType": "movie",
+      "title": "Heartland",
+      "awardYear": 1980,
+      "winner": "Richard Pearce",
+      "releaseDate": "1980",
+      "externalIds": {
+        "letterboxd": "heartland"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-golden-bear-1980-palermo-or-wolfsburg",
+      "mediaType": "movie",
+      "title": "Palermo or Wolfsburg",
+      "awardYear": 1980,
+      "winner": "Werner Schroeter",
+      "releaseDate": "1980",
+      "externalIds": {
+        "letterboxd": "palermo-or-wolfsburg"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1980-seeking-asylum",
+      "mediaType": "movie",
+      "title": "Seeking Asylum",
+      "awardYear": 1980,
+      "winner": "Marco Ferreri",
+      "releaseDate": "1980",
+      "externalIds": {
+        "letterboxd": "seeking-asylum"
+      },
+      "award": "Silver Bear Grand Jury Prize"
+    },
+    {
+      "id": "berlinale-best-actor-1980-the-orchestra-conductor",
+      "mediaType": "movie",
+      "title": "The Orchestra Conductor",
+      "awardYear": 1980,
+      "winner": "Andrzej Seweryn",
+      "releaseDate": "1980",
+      "externalIds": {
+        "letterboxd": "the-orchestra-conductor"
+      },
+      "award": "Silver Bear for Best Actor (Historical)"
+    },
+    {
+      "id": "berlinale-best-actress-1980-solo-sunny",
+      "mediaType": "movie",
+      "title": "Solo Sunny",
+      "awardYear": 1980,
+      "winner": "Renate Krößner",
+      "releaseDate": "1980",
+      "externalIds": {
+        "imdb": "tt0079924"
+      },
+      "award": "Silver Bear for Best Actress (Historical)"
+    },
+    {
+      "id": "berlinale-best-director-1980-bizalom",
+      "mediaType": "movie",
+      "title": "Bizalom",
+      "awardYear": 1980,
+      "winner": "István Szabó",
+      "releaseDate": "1980",
+      "externalIds": {
+        "letterboxd": "bizalom"
+      },
+      "award": "Silver Bear for Best Director"
+    },
+    {
+      "id": "berlinale-golden-bear-1979-david",
+      "mediaType": "movie",
+      "title": "David",
+      "awardYear": 1979,
+      "winner": "Peter Lilienthal",
+      "releaseDate": "1979",
+      "externalIds": {
+        "letterboxd": "david"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1979-alexandria-why",
+      "mediaType": "movie",
+      "title": "Alexandria... Why?",
+      "awardYear": 1979,
+      "winner": "Youssef Chahine",
+      "releaseDate": "1979",
+      "externalIds": {
+        "letterboxd": "alexandria-why"
+      },
+      "award": "Silver Bear Grand Jury Prize"
+    },
+    {
+      "id": "berlinale-best-actor-1979-ernesto",
+      "mediaType": "movie",
+      "title": "Ernesto",
+      "awardYear": 1979,
+      "winner": "Michele Placido",
+      "releaseDate": "1979",
+      "externalIds": {
+        "letterboxd": "ernesto"
+      },
+      "award": "Silver Bear for Best Actor (Historical)"
+    },
+    {
+      "id": "berlinale-best-actress-1979-the-marriage-of-maria-braun",
+      "mediaType": "movie",
+      "title": "The Marriage of Maria Braun",
+      "awardYear": 1979,
+      "winner": "Hanna Schygulla",
+      "releaseDate": "1979",
+      "externalIds": {
+        "imdb": "tt0079095"
+      },
+      "award": "Silver Bear for Best Actress (Historical)"
+    },
+    {
+      "id": "berlinale-best-director-1979-winterborn",
+      "mediaType": "movie",
+      "title": "Winterborn",
+      "awardYear": 1979,
+      "winner": "Astrid Henning-Jensen",
+      "releaseDate": "1979",
+      "externalIds": {
+        "letterboxd": "winterborn"
+      },
+      "award": "Silver Bear for Best Director"
+    },
+    {
+      "id": "berlinale-golden-bear-1978-ascensor",
+      "mediaType": "movie",
+      "title": "Ascensor",
+      "awardYear": 1978,
+      "winner": "Tomás Muñoz",
+      "releaseDate": "1978",
+      "externalIds": {
+        "letterboxd": "ascensor"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-golden-bear-1978-las-truchas",
+      "mediaType": "movie",
+      "title": "Las truchas",
+      "awardYear": 1978,
+      "winner": "José Luis García Sánchez",
+      "releaseDate": "1978",
+      "externalIds": {
+        "letterboxd": "las-truchas"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-golden-bear-1978-what-max-said",
+      "mediaType": "movie",
+      "title": "What Max Said",
+      "awardYear": 1978,
+      "winner": "Emilio Martínez-Lázaro",
+      "releaseDate": "1978",
+      "externalIds": {
+        "letterboxd": "what-max-said"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1978-a-queda",
+      "mediaType": "movie",
+      "title": "A Queda",
+      "awardYear": 1978,
+      "winner": "Ruy Guerra & Nelson Xavier",
+      "releaseDate": "1978",
+      "externalIds": {
+        "letterboxd": "a-queda"
+      },
+      "award": "Silver Bear Grand Jury Prize"
+    },
+    {
+      "id": "berlinale-best-actor-1978-outrageous",
+      "mediaType": "movie",
+      "title": "Outrageous!",
+      "awardYear": 1978,
+      "winner": "Craig Russell",
+      "releaseDate": "1978",
+      "externalIds": {
+        "imdb": "tt0076513"
+      },
+      "award": "Silver Bear for Best Actor (Historical)"
+    },
+    {
+      "id": "berlinale-best-actress-1978-opening-night",
+      "mediaType": "movie",
+      "title": "Opening Night",
+      "awardYear": 1978,
+      "winner": "Gena Rowlands",
+      "releaseDate": "1978",
+      "externalIds": {
+        "letterboxd": "opening-night"
+      },
+      "award": "Silver Bear for Best Actress (Historical)"
+    },
+    {
+      "id": "berlinale-best-director-1978-advantage",
+      "mediaType": "movie",
+      "title": "Advantage",
+      "awardYear": 1978,
+      "winner": "Georgi Djulgerov",
+      "releaseDate": "1978",
+      "externalIds": {
+        "letterboxd": "advantage"
+      },
+      "award": "Silver Bear for Best Director"
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-1978-death-of-a-president",
+      "mediaType": "movie",
+      "title": "Death of a President",
+      "awardYear": 1978,
+      "winner": "Jerzy Kawalerowicz",
+      "releaseDate": "1978",
+      "externalIds": {
+        "letterboxd": "death-of-a-president"
+      },
+      "award": "Silver Bear for Outstanding Artistic Contribution"
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-1978-the-teacher",
+      "mediaType": "movie",
+      "title": "The Teacher",
+      "awardYear": 1978,
+      "winner": "Octavio Cortázar",
+      "releaseDate": "1978",
+      "externalIds": {
+        "letterboxd": "the-teacher"
+      },
+      "award": "Silver Bear for Outstanding Artistic Contribution"
+    },
+    {
+      "id": "berlinale-golden-bear-1977-the-ascent",
+      "mediaType": "movie",
+      "title": "The Ascent",
+      "awardYear": 1977,
+      "winner": "Larisa Shepitko",
+      "releaseDate": "1977",
+      "externalIds": {
+        "letterboxd": "the-ascent"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1977-the-devil-probably",
+      "mediaType": "movie",
+      "title": "The Devil, Probably",
+      "awardYear": 1977,
+      "winner": "Robert Bresson",
+      "releaseDate": "1977",
+      "externalIds": {
+        "letterboxd": "the-devil-probably"
+      },
+      "award": "Silver Bear Grand Jury Prize"
+    },
+    {
+      "id": "berlinale-best-actor-1977-the-anchorite",
+      "mediaType": "movie",
+      "title": "The Anchorite",
+      "awardYear": 1977,
+      "winner": "Fernando Fernán Gómez",
+      "releaseDate": "1977",
+      "externalIds": {
+        "letterboxd": "the-anchorite"
+      },
+      "award": "Silver Bear for Best Actor (Historical)"
+    },
+    {
+      "id": "berlinale-best-actress-1977-the-late-show",
+      "mediaType": "movie",
+      "title": "The Late Show",
+      "awardYear": 1977,
+      "winner": "Lily Tomlin",
+      "releaseDate": "1977",
+      "externalIds": {
+        "imdb": "tt0079672"
+      },
+      "award": "Silver Bear for Best Actress (Historical)"
+    },
+    {
+      "id": "berlinale-best-director-1977-black-litter",
+      "mediaType": "movie",
+      "title": "Black Litter",
+      "awardYear": 1977,
+      "winner": "Manuel Gutiérrez Aragón",
+      "releaseDate": "1977",
+      "externalIds": {
+        "letterboxd": "black-litter"
+      },
+      "award": "Silver Bear for Best Director"
+    },
+    {
+      "id": "berlinale-golden-bear-1976-buffalo-bill-and-the-indians-or-sitting-bull-s-history-lesson",
+      "mediaType": "movie",
+      "title": "Buffalo Bill and the Indians, or Sitting Bull's History Lesson",
+      "awardYear": 1976,
+      "winner": "Robert Altman",
+      "releaseDate": "1976",
+      "externalIds": {
+        "letterboxd": "buffalo-bill-and-the-indians-or-sitting-bull-s-history-lesson"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1976-canoa-a-shameful-memory",
+      "mediaType": "movie",
+      "title": "Canoa: A Shameful Memory",
+      "awardYear": 1976,
+      "winner": "Felipe Cazals",
+      "releaseDate": "1976",
+      "externalIds": {
+        "letterboxd": "canoa-a-shameful-memory"
+      },
+      "award": "Silver Bear Grand Jury Prize"
+    },
+    {
+      "id": "berlinale-best-actor-1976-a-lost-life",
+      "mediaType": "movie",
+      "title": "A Lost Life",
+      "awardYear": 1976,
+      "winner": "Gerhard Olschewski",
+      "releaseDate": "1976",
+      "externalIds": {
+        "imdb": "tt0073859"
+      },
+      "award": "Silver Bear for Best Actor (Historical)"
+    },
+    {
+      "id": "berlinale-best-actress-1976-nights-and-days",
+      "mediaType": "movie",
+      "title": "Nights and Days",
+      "awardYear": 1976,
+      "winner": "Jadwiga Barańska",
+      "releaseDate": "1976",
+      "externalIds": {
+        "imdb": "tt0076301"
+      },
+      "award": "Silver Bear for Best Actress (Historical)"
+    },
+    {
+      "id": "berlinale-best-director-1976-caro-michele",
+      "mediaType": "movie",
+      "title": "Caro Michele",
+      "awardYear": 1976,
+      "winner": "Mario Monicelli",
+      "releaseDate": "1976",
+      "externalIds": {
+        "letterboxd": "caro-michele"
+      },
+      "award": "Silver Bear for Best Director"
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-1976-man-without-a-name",
+      "mediaType": "movie",
+      "title": "Man Without a Name",
+      "awardYear": 1976,
+      "winner": "László Lugossy",
+      "releaseDate": "1976",
+      "externalIds": {
+        "letterboxd": "man-without-a-name"
+      },
+      "award": "Silver Bear for Outstanding Artistic Contribution"
+    },
+    {
+      "id": "berlinale-golden-bear-1975-adoption",
+      "mediaType": "movie",
+      "title": "Adoption",
+      "awardYear": 1975,
+      "winner": "Márta Mészáros",
+      "releaseDate": "1975",
+      "externalIds": {
+        "letterboxd": "adoption"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1975-overlord",
+      "mediaType": "movie",
+      "title": "Overlord",
+      "awardYear": 1975,
+      "winner": "Stuart Cooper",
+      "releaseDate": "1975",
+      "externalIds": {
+        "letterboxd": "overlord"
+      },
+      "award": "Silver Bear Grand Jury Prize"
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1975-the-common-man",
+      "mediaType": "movie",
+      "title": "The Common Man",
+      "awardYear": 1975,
+      "winner": "Yves Boisset",
+      "releaseDate": "1975",
+      "externalIds": {
+        "letterboxd": "the-common-man"
+      },
+      "award": "Silver Bear Grand Jury Prize"
+    },
+    {
+      "id": "berlinale-best-actor-1975-jacob-the-liar",
+      "mediaType": "movie",
+      "title": "Jacob the Liar",
+      "awardYear": 1975,
+      "winner": "Vlastimil Brodský",
+      "releaseDate": "1975",
+      "externalIds": {
+        "letterboxd": "jacob-the-liar"
+      },
+      "award": "Silver Bear for Best Actor (Historical)"
+    },
+    {
+      "id": "berlinale-best-actress-1975-sandakan-no-8",
+      "mediaType": "movie",
+      "title": "Sandakan No. 8",
+      "awardYear": 1975,
+      "winner": "Kinuyo Tanaka",
+      "releaseDate": "1975",
+      "externalIds": {
+        "letterboxd": "sandakan-no-8"
+      },
+      "award": "Silver Bear for Best Actress (Historical)"
+    },
+    {
+      "id": "berlinale-best-director-1975-one-hundred-days-after-childhood",
+      "mediaType": "movie",
+      "title": "One Hundred Days After Childhood",
+      "awardYear": 1975,
+      "winner": "Sergei Solovyov",
+      "releaseDate": "1975",
+      "externalIds": {
+        "letterboxd": "one-hundred-days-after-childhood"
+      },
+      "award": "Silver Bear for Best Director"
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-1975-love-and-death",
+      "mediaType": "movie",
+      "title": "Love and Death",
+      "awardYear": 1975,
+      "winner": "Woody Allen",
+      "releaseDate": "1975",
+      "externalIds": {
+        "letterboxd": "love-and-death"
+      },
+      "award": "Silver Bear for Outstanding Artistic Contribution"
+    },
+    {
+      "id": "berlinale-golden-bear-1974-the-apprenticeship-of-duddy-kravitz",
+      "mediaType": "movie",
+      "title": "The Apprenticeship of Duddy Kravitz",
+      "awardYear": 1974,
+      "winner": "Ted Kotcheff",
+      "releaseDate": "1974",
+      "externalIds": {
+        "letterboxd": "the-apprenticeship-of-duddy-kravitz"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1974-the-clockmaker",
+      "mediaType": "movie",
+      "title": "The Clockmaker",
+      "awardYear": 1974,
+      "winner": "Bertrand Tavernier",
+      "releaseDate": "1974",
+      "externalIds": {
+        "letterboxd": "the-clockmaker"
+      },
+      "award": "Silver Bear Grand Jury Prize"
+    },
+    {
+      "id": "berlinale-golden-bear-1973-distant-thunder",
+      "mediaType": "movie",
+      "title": "Distant Thunder",
+      "awardYear": 1973,
+      "winner": "Satyajit Ray",
+      "releaseDate": "1973",
+      "externalIds": {
+        "letterboxd": "distant-thunder"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1973-there-s-no-smoke-without-fire",
+      "mediaType": "movie",
+      "title": "There's No Smoke Without Fire",
+      "awardYear": 1973,
+      "winner": "André Cayatte",
+      "releaseDate": "1973",
+      "externalIds": {
+        "letterboxd": "there-s-no-smoke-without-fire"
+      },
+      "award": "Silver Bear Grand Jury Prize"
+    },
+    {
+      "id": "berlinale-golden-bear-1972-the-canterbury-tales",
+      "mediaType": "movie",
+      "title": "The Canterbury Tales",
+      "awardYear": 1972,
+      "winner": "Pier Paolo Pasolini",
+      "releaseDate": "1972",
+      "externalIds": {
+        "letterboxd": "the-canterbury-tales"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1972-the-hospital",
+      "mediaType": "movie",
+      "title": "The Hospital",
+      "awardYear": 1972,
+      "winner": "Arthur Hiller",
+      "releaseDate": "1972",
+      "externalIds": {
+        "letterboxd": "the-hospital"
+      },
+      "award": "Silver Bear Grand Jury Prize"
+    },
+    {
+      "id": "berlinale-best-actor-1972-in-prison-awaiting-trial",
+      "mediaType": "movie",
+      "title": "In Prison Awaiting Trial",
+      "awardYear": 1972,
+      "winner": "Alberto Sordi",
+      "releaseDate": "1972",
+      "externalIds": {
+        "letterboxd": "in-prison-awaiting-trial"
+      },
+      "award": "Silver Bear for Best Actor (Historical)"
+    },
+    {
+      "id": "berlinale-best-actress-1972-hammersmith-is-out",
+      "mediaType": "movie",
+      "title": "Hammersmith Is Out",
+      "awardYear": 1972,
+      "winner": "Elizabeth Taylor",
+      "releaseDate": "1972",
+      "externalIds": {
+        "letterboxd": "hammersmith-is-out"
+      },
+      "award": "Silver Bear for Best Actress (Historical)"
+    },
+    {
+      "id": "berlinale-best-director-1972-the-old-maid",
+      "mediaType": "movie",
+      "title": "The Old Maid",
+      "awardYear": 1972,
+      "winner": "Jean-Pierre Blanc",
+      "releaseDate": "1972",
+      "externalIds": {
+        "letterboxd": "the-old-maid"
+      },
+      "award": "Silver Bear for Best Director"
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-1972-hammersmith-is-out",
+      "mediaType": "movie",
+      "title": "Hammersmith Is Out",
+      "awardYear": 1972,
+      "winner": "Peter Ustinov",
+      "releaseDate": "1972",
+      "externalIds": {
+        "letterboxd": "hammersmith-is-out"
+      },
+      "award": "Silver Bear for Outstanding Artistic Contribution"
+    },
+    {
+      "id": "berlinale-golden-bear-1971-the-garden-of-the-finzi-continis",
+      "mediaType": "movie",
+      "title": "The Garden of the Finzi-Continis",
+      "awardYear": 1971,
+      "winner": "Vittorio De Sica",
+      "releaseDate": "1971",
+      "externalIds": {
+        "letterboxd": "the-garden-of-the-finzi-continis"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1971-the-decameron",
+      "mediaType": "movie",
+      "title": "The Decameron",
+      "awardYear": 1971,
+      "winner": "Pier Paolo Pasolini",
+      "releaseDate": "1971",
+      "externalIds": {
+        "letterboxd": "the-decameron"
+      },
+      "award": "Silver Bear Grand Jury Prize"
+    },
+    {
+      "id": "berlinale-best-actor-1971-le-chat",
+      "mediaType": "movie",
+      "title": "Le Chat",
+      "awardYear": 1971,
+      "winner": "Jean Gabin",
+      "releaseDate": "1971",
+      "externalIds": {
+        "imdb": "tt0066906"
+      },
+      "award": "Silver Bear for Best Actor (Historical)"
+    },
+    {
+      "id": "berlinale-best-actress-1971-desperate-characters",
+      "mediaType": "movie",
+      "title": "Desperate Characters",
+      "awardYear": 1971,
+      "winner": "Shirley MacLaine",
+      "releaseDate": "1971",
+      "externalIds": {
+        "letterboxd": "desperate-characters"
+      },
+      "award": "Silver Bear for Best Actress (Historical)"
+    },
+    {
+      "id": "berlinale-best-actress-1971-le-chat",
+      "mediaType": "movie",
+      "title": "Le Chat",
+      "awardYear": 1971,
+      "winner": "Simone Signoret",
+      "releaseDate": "1971",
+      "externalIds": {
+        "imdb": "tt0066906"
+      },
+      "award": "Silver Bear for Best Actress (Historical)"
+    },
+    {
+      "id": "berlinale-golden-bear-1969-early-works",
+      "mediaType": "movie",
+      "title": "Early Works",
+      "awardYear": 1969,
+      "winner": "Želimir Žilnik",
+      "releaseDate": "1969",
+      "externalIds": {
+        "letterboxd": "early-works"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-golden-bear-1968-who-saw-him-die",
+      "mediaType": "movie",
+      "title": "Who Saw Him Die?",
+      "awardYear": 1968,
+      "winner": "Jan Troell",
+      "releaseDate": "1968",
+      "externalIds": {
+        "letterboxd": "who-saw-him-die"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1968-innocence-unprotected",
+      "mediaType": "movie",
+      "title": "Innocence Unprotected",
+      "awardYear": 1968,
+      "winner": "Dušan Makavejev",
+      "releaseDate": "1968",
+      "externalIds": {
+        "letterboxd": "innocence-unprotected"
+      },
+      "award": "Silver Bear Grand Jury Prize"
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1968-signs-of-life",
+      "mediaType": "movie",
+      "title": "Signs of Life",
+      "awardYear": 1968,
+      "winner": "Werner Herzog",
+      "releaseDate": "1968",
+      "externalIds": {
+        "letterboxd": "signs-of-life"
+      },
+      "award": "Silver Bear Grand Jury Prize"
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1968-something-like-love",
+      "mediaType": "movie",
+      "title": "Something Like Love",
+      "awardYear": 1968,
+      "winner": "Enrique Martino",
+      "releaseDate": "1968",
+      "externalIds": {
+        "letterboxd": "something-like-love"
+      },
+      "award": "Silver Bear Grand Jury Prize"
+    },
+    {
+      "id": "berlinale-best-actor-1968-the-man-who-lies",
+      "mediaType": "movie",
+      "title": "The Man Who Lies",
+      "awardYear": 1968,
+      "winner": "Jean-Louis Trintignant",
+      "releaseDate": "1968",
+      "externalIds": {
+        "imdb": "tt0063080"
+      },
+      "award": "Silver Bear for Best Actor (Historical)"
+    },
+    {
+      "id": "berlinale-best-actress-1968-les-biches",
+      "mediaType": "movie",
+      "title": "Les Biches",
+      "awardYear": 1968,
+      "winner": "Stéphane Audran",
+      "releaseDate": "1968",
+      "externalIds": {
+        "letterboxd": "les-biches"
+      },
+      "award": "Silver Bear for Best Actress (Historical)"
+    },
+    {
+      "id": "berlinale-best-director-1968-peppermint-frappe",
+      "mediaType": "movie",
+      "title": "Peppermint Frappé",
+      "awardYear": 1968,
+      "winner": "Carlos Saura",
+      "releaseDate": "1968",
+      "externalIds": {
+        "letterboxd": "peppermint-frappe"
+      },
+      "award": "Silver Bear for Best Director"
+    },
+    {
+      "id": "berlinale-golden-bear-1967-le-depart",
+      "mediaType": "movie",
+      "title": "Le Départ",
+      "awardYear": 1967,
+      "winner": "Jerzy Skolimowski",
+      "releaseDate": "1967",
+      "externalIds": {
+        "letterboxd": "le-depart"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1967-la-collectionneuse",
+      "mediaType": "movie",
+      "title": "La Collectionneuse",
+      "awardYear": 1967,
+      "winner": "Éric Rohmer",
+      "releaseDate": "1967",
+      "externalIds": {
+        "letterboxd": "la-collectionneuse"
+      },
+      "award": "Silver Bear Grand Jury Prize"
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1967-next-year-same-time",
+      "mediaType": "movie",
+      "title": "Next Year, Same Time",
+      "awardYear": 1967,
+      "winner": "Ulrich Schamoni",
+      "releaseDate": "1967",
+      "externalIds": {
+        "letterboxd": "next-year-same-time"
+      },
+      "award": "Silver Bear Grand Jury Prize"
+    },
+    {
+      "id": "berlinale-best-actor-1967-the-two-of-us",
+      "mediaType": "movie",
+      "title": "The Two of Us",
+      "awardYear": 1967,
+      "winner": "Michel Simon",
+      "releaseDate": "1967",
+      "externalIds": {
+        "imdb": "tt0063771"
+      },
+      "award": "Silver Bear for Best Actor (Historical)"
+    },
+    {
+      "id": "berlinale-best-actress-1967-the-whisperers",
+      "mediaType": "movie",
+      "title": "The Whisperers",
+      "awardYear": 1967,
+      "winner": "Edith Evans",
+      "releaseDate": "1967",
+      "externalIds": {
+        "letterboxd": "the-whisperers"
+      },
+      "award": "Silver Bear for Best Actress (Historical)"
+    },
+    {
+      "id": "berlinale-best-director-1967-the-rats-woke-up",
+      "mediaType": "movie",
+      "title": "The Rats Woke Up",
+      "awardYear": 1967,
+      "winner": "Živojin Pavlović",
+      "releaseDate": "1967",
+      "externalIds": {
+        "letterboxd": "the-rats-woke-up"
+      },
+      "award": "Silver Bear for Best Director"
+    },
+    {
+      "id": "berlinale-golden-bear-1966-cul-de-sac",
+      "mediaType": "movie",
+      "title": "Cul-de-Sac",
+      "awardYear": 1966,
+      "winner": "Roman Polanski",
+      "releaseDate": "1966",
+      "externalIds": {
+        "letterboxd": "cul-de-sac"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1966-no-shooting-time-for-foxes",
+      "mediaType": "movie",
+      "title": "No Shooting Time for Foxes",
+      "awardYear": 1966,
+      "winner": "Peter Schamoni",
+      "releaseDate": "1966",
+      "externalIds": {
+        "letterboxd": "no-shooting-time-for-foxes"
+      },
+      "award": "Silver Bear Grand Jury Prize"
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1966-the-chasers",
+      "mediaType": "movie",
+      "title": "The Chasers",
+      "awardYear": 1966,
+      "winner": "Yngve Gamlin",
+      "releaseDate": "1966",
+      "externalIds": {
+        "letterboxd": "the-chasers"
+      },
+      "award": "Silver Bear Grand Jury Prize"
+    },
+    {
+      "id": "berlinale-best-actor-1966-masculin-feminin",
+      "mediaType": "movie",
+      "title": "Masculin Féminin",
+      "awardYear": 1966,
+      "winner": "Jean-Pierre Léaud",
+      "releaseDate": "1966",
+      "externalIds": {
+        "imdb": "tt0060675"
+      },
+      "award": "Silver Bear for Best Actor (Historical)"
+    },
+    {
+      "id": "berlinale-best-actress-1966-lord-love-a-duck",
+      "mediaType": "movie",
+      "title": "Lord Love a Duck",
+      "awardYear": 1966,
+      "winner": "Lola Albright",
+      "releaseDate": "1966",
+      "externalIds": {
+        "imdb": "tt0060636"
+      },
+      "award": "Silver Bear for Best Actress (Historical)"
+    },
+    {
+      "id": "berlinale-best-director-1966-the-hunt",
+      "mediaType": "movie",
+      "title": "The Hunt",
+      "awardYear": 1966,
+      "winner": "Carlos Saura",
+      "releaseDate": "1966",
+      "externalIds": {
+        "letterboxd": "the-hunt"
+      },
+      "award": "Silver Bear for Best Director"
+    },
+    {
+      "id": "berlinale-golden-bear-1965-alphaville",
+      "mediaType": "movie",
+      "title": "Alphaville",
+      "awardYear": 1965,
+      "winner": "Jean-Luc Godard",
+      "releaseDate": "1965",
+      "externalIds": {
+        "letterboxd": "alphaville"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1965-le-bonheur",
+      "mediaType": "movie",
+      "title": "Le Bonheur",
+      "awardYear": 1965,
+      "winner": "Agnès Varda",
+      "releaseDate": "1965",
+      "externalIds": {
+        "letterboxd": "le-bonheur"
+      },
+      "award": "Silver Bear Grand Jury Prize"
+    },
+    {
+      "id": "berlinale-grand-jury-prize-1965-repulsion",
+      "mediaType": "movie",
+      "title": "Repulsion",
+      "awardYear": 1965,
+      "winner": "Roman Polanski",
+      "releaseDate": "1965",
+      "externalIds": {
+        "letterboxd": "repulsion"
+      },
+      "award": "Silver Bear Grand Jury Prize"
+    },
+    {
+      "id": "berlinale-best-actor-1965-cat-ballou",
+      "mediaType": "movie",
+      "title": "Cat Ballou",
+      "awardYear": 1965,
+      "winner": "Lee Marvin",
+      "releaseDate": "1965",
+      "externalIds": {
+        "imdb": "tt0059017"
+      },
+      "award": "Silver Bear for Best Actor (Historical)"
+    },
+    {
+      "id": "berlinale-best-actress-1965-shakespeare-wallah",
+      "mediaType": "movie",
+      "title": "Shakespeare Wallah",
+      "awardYear": 1965,
+      "winner": "Madhur Jaffrey",
+      "releaseDate": "1965",
+      "externalIds": {
+        "imdb": "tt0059709"
+      },
+      "award": "Silver Bear for Best Actress (Historical)"
+    },
+    {
+      "id": "berlinale-best-director-1965-charulata",
+      "mediaType": "movie",
+      "title": "Charulata",
+      "awardYear": 1965,
+      "winner": "Satyajit Ray",
+      "releaseDate": "1965",
+      "externalIds": {
+        "letterboxd": "charulata"
+      },
+      "award": "Silver Bear for Best Director"
+    },
+    {
+      "id": "berlinale-golden-bear-1964-dry-summer",
+      "mediaType": "movie",
+      "title": "Dry Summer",
+      "awardYear": 1964,
+      "winner": "Metin Erksan",
+      "releaseDate": "1964",
+      "externalIds": {
+        "letterboxd": "dry-summer"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-best-actor-1964-the-pawnbroker",
+      "mediaType": "movie",
+      "title": "The Pawnbroker",
+      "awardYear": 1964,
+      "winner": "Rod Steiger",
+      "releaseDate": "1964",
+      "externalIds": {
+        "imdb": "tt0059575"
+      },
+      "award": "Silver Bear for Best Actor (Historical)"
+    },
+    {
+      "id": "berlinale-best-actress-1964-she-and-he",
+      "mediaType": "movie",
+      "title": "She and He",
+      "awardYear": 1964,
+      "winner": "Sachiko Hidari",
+      "releaseDate": "1964",
+      "externalIds": {
+        "imdb": "tt0057218"
+      },
+      "award": "Silver Bear for Best Actress (Historical)"
+    },
+    {
+      "id": "berlinale-best-actress-1964-the-insect-woman",
+      "mediaType": "movie",
+      "title": "The Insect Woman",
+      "awardYear": 1964,
+      "winner": "Sachiko Hidari",
+      "releaseDate": "1964",
+      "externalIds": {
+        "imdb": "tt0057363"
+      },
+      "award": "Silver Bear for Best Actress (Historical)"
+    },
+    {
+      "id": "berlinale-best-director-1964-mahanagar",
+      "mediaType": "movie",
+      "title": "Mahanagar",
+      "awardYear": 1964,
+      "winner": "Satyajit Ray",
+      "releaseDate": "1964",
+      "externalIds": {
+        "letterboxd": "mahanagar"
+      },
+      "award": "Silver Bear for Best Director"
+    },
+    {
+      "id": "berlinale-golden-bear-1963-bushido-samurai-saga",
+      "mediaType": "movie",
+      "title": "Bushido, Samurai Saga",
+      "awardYear": 1963,
+      "winner": "Tadashi Imai",
+      "releaseDate": "1963",
+      "externalIds": {
+        "letterboxd": "bushido-samurai-saga"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-golden-bear-1963-to-bed-or-not-to-bed",
+      "mediaType": "movie",
+      "title": "To Bed or Not to Bed",
+      "awardYear": 1963,
+      "winner": "Gian Luigi Polidoro",
+      "releaseDate": "1963",
+      "externalIds": {
+        "letterboxd": "to-bed-or-not-to-bed"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-best-actor-1963-lilies-of-the-field",
+      "mediaType": "movie",
+      "title": "Lilies of the Field",
+      "awardYear": 1963,
+      "winner": "Sidney Poitier",
+      "releaseDate": "1963",
+      "externalIds": {
+        "imdb": "tt0057251"
+      },
+      "award": "Silver Bear for Best Actor (Historical)"
+    },
+    {
+      "id": "berlinale-best-actress-1963-the-mistress",
+      "mediaType": "movie",
+      "title": "The Mistress",
+      "awardYear": 1963,
+      "winner": "Bibi Andersson",
+      "releaseDate": "1963",
+      "externalIds": {
+        "imdb": "tt0056733"
+      },
+      "award": "Silver Bear for Best Actress (Historical)"
+    },
+    {
+      "id": "berlinale-best-director-1963-young-aphrodites",
+      "mediaType": "movie",
+      "title": "Young Aphrodites",
+      "awardYear": 1963,
+      "winner": "Nikos Koundouros",
+      "releaseDate": "1963",
+      "externalIds": {
+        "letterboxd": "young-aphrodites"
+      },
+      "award": "Silver Bear for Best Director"
+    },
+    {
+      "id": "berlinale-golden-bear-1962-a-kind-of-loving",
+      "mediaType": "movie",
+      "title": "A Kind of Loving",
+      "awardYear": 1962,
+      "winner": "John Schlesinger",
+      "releaseDate": "1962",
+      "externalIds": {
+        "letterboxd": "a-kind-of-loving"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-best-actor-1962-mr-hobbs-takes-a-vacation",
+      "mediaType": "movie",
+      "title": "Mr. Hobbs Takes a Vacation",
+      "awardYear": 1962,
+      "winner": "James Stewart",
+      "releaseDate": "1962",
+      "externalIds": {
+        "letterboxd": "mr-hobbs-takes-a-vacation"
+      },
+      "award": "Silver Bear for Best Actor (Historical)"
+    },
+    {
+      "id": "berlinale-best-actress-1962-no-exit",
+      "mediaType": "movie",
+      "title": "No Exit",
+      "awardYear": 1962,
+      "winner": "Rita Gam & Viveca Lindfors",
+      "releaseDate": "1962",
+      "externalIds": {
+        "imdb": "tt0056282"
+      },
+      "award": "Silver Bear for Best Actress (Historical)"
+    },
+    {
+      "id": "berlinale-best-director-1962-salvatore-giuliano",
+      "mediaType": "movie",
+      "title": "Salvatore Giuliano",
+      "awardYear": 1962,
+      "winner": "Francesco Rosi",
+      "releaseDate": "1962",
+      "externalIds": {
+        "letterboxd": "salvatore-giuliano"
+      },
+      "award": "Silver Bear for Best Director"
+    },
+    {
+      "id": "berlinale-golden-bear-1961-la-notte",
+      "mediaType": "movie",
+      "title": "La Notte",
+      "awardYear": 1961,
+      "winner": "Michelangelo Antonioni",
+      "releaseDate": "1961",
+      "externalIds": {
+        "letterboxd": "la-notte"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-best-actor-1961-no-love-for-johnnie",
+      "mediaType": "movie",
+      "title": "No Love for Johnnie",
+      "awardYear": 1961,
+      "winner": "Peter Finch",
+      "releaseDate": "1961",
+      "externalIds": {
+        "imdb": "tt0055234"
+      },
+      "award": "Silver Bear for Best Actor (Historical)"
+    },
+    {
+      "id": "berlinale-best-actress-1961-a-woman-is-a-woman",
+      "mediaType": "movie",
+      "title": "A Woman Is a Woman",
+      "awardYear": 1961,
+      "winner": "Anna Karina",
+      "releaseDate": "1961",
+      "externalIds": {
+        "imdb": "tt0055572"
+      },
+      "award": "Silver Bear for Best Actress (Historical)"
+    },
+    {
+      "id": "berlinale-best-director-1961-the-miracle-of-father-malachia",
+      "mediaType": "movie",
+      "title": "The Miracle of Father Malachia",
+      "awardYear": 1961,
+      "winner": "Bernhard Wicki",
+      "releaseDate": "1961",
+      "externalIds": {
+        "letterboxd": "the-miracle-of-father-malachia"
+      },
+      "award": "Silver Bear for Best Director"
+    },
+    {
+      "id": "berlinale-golden-bear-1960-el-lazarillo-de-tormes",
+      "mediaType": "movie",
+      "title": "El Lazarillo de Tormes",
+      "awardYear": 1960,
+      "winner": "César Fernández Ardavín",
+      "releaseDate": "1960",
+      "externalIds": {
+        "letterboxd": "el-lazarillo-de-tormes"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-best-actor-1960-inherit-the-wind",
+      "mediaType": "movie",
+      "title": "Inherit the Wind",
+      "awardYear": 1960,
+      "winner": "Fredric March",
+      "releaseDate": "1960",
+      "externalIds": {
+        "imdb": "tt0053946"
+      },
+      "award": "Silver Bear for Best Actor (Historical)"
+    },
+    {
+      "id": "berlinale-best-actress-1960-the-fair",
+      "mediaType": "movie",
+      "title": "The Fair",
+      "awardYear": 1960,
+      "winner": "Juliette Mayniel",
+      "releaseDate": "1960",
+      "externalIds": {
+        "imdb": "tt0053996"
+      },
+      "award": "Silver Bear for Best Actress (Historical)"
+    },
+    {
+      "id": "berlinale-best-director-1960-breathless",
+      "mediaType": "movie",
+      "title": "Breathless",
+      "awardYear": 1960,
+      "winner": "Jean-Luc Godard",
+      "releaseDate": "1960",
+      "externalIds": {
+        "letterboxd": "breathless"
+      },
+      "award": "Silver Bear for Best Director"
+    },
+    {
+      "id": "berlinale-golden-bear-1959-les-cousins",
+      "mediaType": "movie",
+      "title": "Les Cousins",
+      "awardYear": 1959,
+      "winner": "Claude Chabrol",
+      "releaseDate": "1959",
+      "externalIds": {
+        "letterboxd": "les-cousins"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-best-actor-1959-archimede-le-clochard",
+      "mediaType": "movie",
+      "title": "Archimède le clochard",
+      "awardYear": 1959,
+      "winner": "Jean Gabin",
+      "releaseDate": "1959",
+      "externalIds": {
+        "imdb": "tt0052573"
+      },
+      "award": "Silver Bear for Best Actor (Historical)"
+    },
+    {
+      "id": "berlinale-best-actress-1959-ask-any-girl",
+      "mediaType": "movie",
+      "title": "Ask Any Girl",
+      "awardYear": 1959,
+      "winner": "Shirley MacLaine",
+      "releaseDate": "1959",
+      "externalIds": {
+        "imdb": "tt0052583"
+      },
+      "award": "Silver Bear for Best Actress (Historical)"
+    },
+    {
+      "id": "berlinale-best-director-1959-the-hidden-fortress",
+      "mediaType": "movie",
+      "title": "The Hidden Fortress",
+      "awardYear": 1959,
+      "winner": "Akira Kurosawa",
+      "releaseDate": "1959",
+      "externalIds": {
+        "letterboxd": "the-hidden-fortress"
+      },
+      "award": "Silver Bear for Best Director"
+    },
+    {
+      "id": "berlinale-golden-bear-1958-wild-strawberries",
+      "mediaType": "movie",
+      "title": "Wild Strawberries",
+      "awardYear": 1958,
+      "winner": "Ingmar Bergman",
+      "releaseDate": "1958",
+      "externalIds": {
+        "letterboxd": "wild-strawberries"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-best-actor-1958-the-defiant-ones",
+      "mediaType": "movie",
+      "title": "The Defiant Ones",
+      "awardYear": 1958,
+      "winner": "Sidney Poitier",
+      "releaseDate": "1958",
+      "externalIds": {
+        "imdb": "tt0051525"
+      },
+      "award": "Silver Bear for Best Actor (Historical)"
+    },
+    {
+      "id": "berlinale-best-actress-1958-wild-is-the-wind",
+      "mediaType": "movie",
+      "title": "Wild Is the Wind",
+      "awardYear": 1958,
+      "winner": "Anna Magnani",
+      "releaseDate": "1958",
+      "externalIds": {
+        "imdb": "tt0051193"
+      },
+      "award": "Silver Bear for Best Actress (Historical)"
+    },
+    {
+      "id": "berlinale-best-director-1958-jun-ai-monogatari",
+      "mediaType": "movie",
+      "title": "Jun'ai Monogatari",
+      "awardYear": 1958,
+      "winner": "Tadashi Imai",
+      "releaseDate": "1958",
+      "externalIds": {
+        "letterboxd": "jun-ai-monogatari"
+      },
+      "award": "Silver Bear for Best Director"
+    },
+    {
+      "id": "berlinale-golden-bear-1957-12-angry-men",
+      "mediaType": "movie",
+      "title": "12 Angry Men",
+      "awardYear": 1957,
+      "winner": "Sidney Lumet",
+      "releaseDate": "1957",
+      "externalIds": {
+        "letterboxd": "12-angry-men"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-best-actor-1957-tizoc",
+      "mediaType": "movie",
+      "title": "Tizoc",
+      "awardYear": 1957,
+      "winner": "Pedro Infante",
+      "releaseDate": "1957",
+      "externalIds": {
+        "imdb": "tt0051090"
+      },
+      "award": "Silver Bear for Best Actor (Historical)"
+    },
+    {
+      "id": "berlinale-best-actress-1957-woman-in-a-dressing-gown",
+      "mediaType": "movie",
+      "title": "Woman in a Dressing Gown",
+      "awardYear": 1957,
+      "winner": "Yvonne Mitchell",
+      "releaseDate": "1957",
+      "externalIds": {
+        "imdb": "tt0051204"
+      },
+      "award": "Silver Bear for Best Actress (Historical)"
+    },
+    {
+      "id": "berlinale-best-director-1957-fathers-and-sons",
+      "mediaType": "movie",
+      "title": "Fathers and Sons",
+      "awardYear": 1957,
+      "winner": "Mario Monicelli",
+      "releaseDate": "1957",
+      "externalIds": {
+        "letterboxd": "fathers-and-sons"
+      },
+      "award": "Silver Bear for Best Director"
+    },
+    {
+      "id": "berlinale-golden-bear-1956-invitation-to-the-dance",
+      "mediaType": "movie",
+      "title": "Invitation to the Dance",
+      "awardYear": 1956,
+      "winner": "Gene Kelly",
+      "releaseDate": "1956",
+      "externalIds": {
+        "letterboxd": "invitation-to-the-dance"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-best-actor-1956-trapeze",
+      "mediaType": "movie",
+      "title": "Trapeze",
+      "awardYear": 1956,
+      "winner": "Burt Lancaster",
+      "releaseDate": "1956",
+      "externalIds": {
+        "imdb": "tt0049875"
+      },
+      "award": "Silver Bear for Best Actor (Historical)"
+    },
+    {
+      "id": "berlinale-best-actress-1956-donatella",
+      "mediaType": "movie",
+      "title": "Donatella",
+      "awardYear": 1956,
+      "winner": "Elsa Martinelli",
+      "releaseDate": "1956",
+      "externalIds": {
+        "imdb": "tt0049153"
+      },
+      "award": "Silver Bear for Best Actress (Historical)"
+    },
+    {
+      "id": "berlinale-best-director-1956-autumn-leaves",
+      "mediaType": "movie",
+      "title": "Autumn Leaves",
+      "awardYear": 1956,
+      "winner": "Robert Aldrich",
+      "releaseDate": "1956",
+      "externalIds": {
+        "letterboxd": "autumn-leaves"
+      },
+      "award": "Silver Bear for Best Director"
+    },
+    {
+      "id": "berlinale-outstanding-artistic-contribution-1956-la-sorciere",
+      "mediaType": "movie",
+      "title": "La Sorcière",
+      "awardYear": 1956,
+      "winner": "André Michel",
+      "releaseDate": "1956",
+      "externalIds": {
+        "letterboxd": "la-sorciere"
+      },
+      "award": "Silver Bear for Outstanding Artistic Contribution"
+    },
+    {
+      "id": "berlinale-golden-bear-1955-die-ratten",
+      "mediaType": "movie",
+      "title": "Die Ratten",
+      "awardYear": 1955,
+      "winner": "Robert Siodmak",
+      "releaseDate": "1955",
+      "externalIds": {
+        "letterboxd": "die-ratten"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-golden-bear-1954-hobson-s-choice",
+      "mediaType": "movie",
+      "title": "Hobson's Choice",
+      "awardYear": 1954,
+      "winner": "David Lean",
+      "releaseDate": "1954",
+      "externalIds": {
+        "letterboxd": "hobson-s-choice"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-golden-bear-1953-the-wages-of-fear",
+      "mediaType": "movie",
+      "title": "The Wages of Fear",
+      "awardYear": 1953,
+      "winner": "Henri-Georges Clouzot",
+      "releaseDate": "1953",
+      "externalIds": {
+        "letterboxd": "the-wages-of-fear"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-golden-bear-1952-one-summer-of-happiness",
+      "mediaType": "movie",
+      "title": "One Summer of Happiness",
+      "awardYear": 1952,
+      "winner": "Arne Mattsson",
+      "releaseDate": "1952",
+      "externalIds": {
+        "letterboxd": "one-summer-of-happiness"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-golden-bear-1951-cinderella",
+      "mediaType": "movie",
+      "title": "Cinderella",
+      "awardYear": 1951,
+      "winner": "Wilfred Jackson",
+      "releaseDate": "1951",
+      "externalIds": {
+        "letterboxd": "cinderella"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-golden-bear-1951-four-in-a-jeep",
+      "mediaType": "movie",
+      "title": "Four in a Jeep",
+      "awardYear": 1951,
+      "winner": "Leopold Lindtberg",
+      "releaseDate": "1951",
+      "externalIds": {
+        "letterboxd": "four-in-a-jeep"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-golden-bear-1951-in-beaver-valley",
+      "mediaType": "movie",
+      "title": "In Beaver Valley",
+      "awardYear": 1951,
+      "winner": "James Algar",
+      "releaseDate": "1951",
+      "externalIds": {
+        "letterboxd": "in-beaver-valley"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-golden-bear-1951-justice-is-done",
+      "mediaType": "movie",
+      "title": "Justice Is Done",
+      "awardYear": 1951,
+      "winner": "André Cayatte",
+      "releaseDate": "1951",
+      "externalIds": {
+        "letterboxd": "justice-is-done"
+      },
+      "award": "Golden Bear for Best Film"
+    },
+    {
+      "id": "berlinale-golden-bear-1951-without-leaving-an-address",
+      "mediaType": "movie",
+      "title": "Without Leaving an Address",
+      "awardYear": 1951,
+      "winner": "Jean-Paul Le Chanois",
+      "releaseDate": "1951",
+      "externalIds": {
+        "letterboxd": "without-leaving-an-address"
+      },
+      "award": "Golden Bear for Best Film"
+    }
+  ]
+}

@@ -1,0 +1,1511 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "title": "青龍電影獎",
+  "author": "Mydea",
+  "server": "TMDB",
+  "updatedAt": "2026-09-12T02:54:20Z",
+  "description": "青龍電影獎",
+  "items": [
+    {
+      "id": "blue-dragon-2025-best-screenplay-match",
+      "mediaType": "movie",
+      "title": "勝負",
+      "originalTitle": "승부",
+      "englishTitle": "The Match",
+      "awardYear": 2025,
+      "winner": "Kim Hyung-joo & Yoon Jong-bin",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt13498824"
+      },
+      "award": "最佳劇本",
+      "awardOrder": 10
+    },
+    {
+      "id": "blue-dragon-2025-best-actress-no-other-choice",
+      "mediaType": "movie",
+      "title": "無可奈何",
+      "originalTitle": "어쩔수가없다",
+      "englishTitle": "No Other Choice",
+      "awardYear": 2025,
+      "winner": "Son Ye-jin",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt1527793"
+      },
+      "award": "最佳女主角",
+      "awardOrder": 4
+    },
+    {
+      "id": "blue-dragon-2025-best-supporting-actress-hidden-face",
+      "mediaType": "movie",
+      "title": "隱藏的面孔",
+      "originalTitle": "히든페이스",
+      "englishTitle": "Hidden Face",
+      "awardYear": 2025,
+      "winner": "Park Ji-hyun",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt34490115"
+      },
+      "award": "最佳女配角",
+      "awardOrder": 6
+    },
+    {
+      "id": "blue-dragon-2025-best-director-no-other-choice",
+      "mediaType": "movie",
+      "title": "無可奈何",
+      "originalTitle": "어쩔수가없다",
+      "englishTitle": "No Other Choice",
+      "awardYear": 2025,
+      "winner": "Park Chan-wook",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt1527793"
+      },
+      "award": "最佳導演",
+      "awardOrder": 2
+    },
+    {
+      "id": "blue-dragon-2025-best-film-no-other-choice",
+      "mediaType": "movie",
+      "title": "無可奈何",
+      "originalTitle": "어쩔수가없다",
+      "englishTitle": "No Other Choice",
+      "awardYear": 2025,
+      "winner": "Park Chan-wook",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt1527793"
+      },
+      "award": "最佳影片",
+      "awardOrder": 1
+    },
+    {
+      "id": "blue-dragon-2025-best-new-actress-idiot-girls",
+      "mediaType": "movie",
+      "title": "阿米巴少女與學校怪談：建校紀念日",
+      "originalTitle": "아메바 소녀들과 학교괴담: 개교기념일",
+      "englishTitle": "Idiot Girls and School Ghost: School Anniversary",
+      "awardYear": 2025,
+      "winner": "Kim Do-yeon",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt34136712"
+      },
+      "award": "最佳新人女演員",
+      "awardOrder": 9
+    },
+    {
+      "id": "blue-dragon-2025-best-new-director-its-okay",
+      "mediaType": "movie",
+      "title": "沒關係，沒關係，沒關係！",
+      "originalTitle": "괜찮아 괜찮아 괜찮아!",
+      "englishTitle": "It's Okay!",
+      "awardYear": 2025,
+      "winner": "Kim Hye-young",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt29579010"
+      },
+      "award": "最佳新人導演",
+      "awardOrder": 7
+    },
+    {
+      "id": "blue-dragon-2025-best-new-actor-pretty-crazy",
+      "mediaType": "movie",
+      "title": "惡魔搬進來了",
+      "originalTitle": "악마가 이사왔다",
+      "englishTitle": "Pretty Crazy",
+      "awardYear": 2025,
+      "winner": "Ahn Bo-hyun",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt35382678"
+      },
+      "award": "最佳新人男演員",
+      "awardOrder": 8
+    },
+    {
+      "id": "blue-dragon-2025-best-actor-harbin",
+      "mediaType": "movie",
+      "title": "哈爾濱",
+      "originalTitle": "하얼빈",
+      "englishTitle": "Harbin",
+      "awardYear": 2025,
+      "winner": "Hyun Bin",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt23630030"
+      },
+      "award": "最佳男主角",
+      "awardOrder": 3
+    },
+    {
+      "id": "blue-dragon-2025-best-supporting-actor-no-other-choice",
+      "mediaType": "movie",
+      "title": "無可奈何",
+      "originalTitle": "어쩔수가없다",
+      "englishTitle": "No Other Choice",
+      "awardYear": 2025,
+      "winner": "Lee Sung-min",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt1527793"
+      },
+      "award": "最佳男配角",
+      "awardOrder": 5
+    },
+    {
+      "id": "blue-dragon-2024-best-screenplay-dream-songs",
+      "mediaType": "movie",
+      "title": "你和我",
+      "originalTitle": "너와 나",
+      "englishTitle": "The Dream Songs",
+      "awardYear": 2024,
+      "winner": "Cho Hyun-chul",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt26757183"
+      },
+      "award": "最佳劇本",
+      "awardOrder": 10
+    },
+    {
+      "id": "blue-dragon-2024-best-actress-exhuma",
+      "mediaType": "movie",
+      "title": "破墓",
+      "originalTitle": "파묘",
+      "englishTitle": "Exhuma",
+      "awardYear": 2024,
+      "winner": "Kim Go-eun",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt27802490"
+      },
+      "award": "最佳女主角",
+      "awardOrder": 4
+    },
+    {
+      "id": "blue-dragon-2024-best-supporting-actress-loh-kiwan",
+      "mediaType": "movie",
+      "title": "路基完",
+      "originalTitle": "로기완",
+      "englishTitle": "My Name Is Loh Kiwan",
+      "awardYear": 2024,
+      "winner": "Lee Sang-hee",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt26672512"
+      },
+      "award": "最佳女配角",
+      "awardOrder": 6
+    },
+    {
+      "id": "blue-dragon-2024-best-director-exhuma",
+      "mediaType": "movie",
+      "title": "破墓",
+      "originalTitle": "파묘",
+      "englishTitle": "Exhuma",
+      "awardYear": 2024,
+      "winner": "Jang Jae-hyun",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt27802490"
+      },
+      "award": "最佳導演",
+      "awardOrder": 2
+    },
+    {
+      "id": "blue-dragon-2024-best-film-1212",
+      "mediaType": "movie",
+      "title": "首爾之春",
+      "originalTitle": "서울의 봄",
+      "englishTitle": "12.12: The Day",
+      "awardYear": 2024,
+      "winner": "Kim Sung-su",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt22507524"
+      },
+      "award": "最佳影片",
+      "awardOrder": 1
+    },
+    {
+      "id": "blue-dragon-2024-best-new-actress-drive",
+      "mediaType": "movie",
+      "title": "駕駛",
+      "originalTitle": "드라이브",
+      "englishTitle": "Drive",
+      "awardYear": 2024,
+      "winner": "Park Ju-hyun",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt32322546"
+      },
+      "award": "最佳新人女演員",
+      "awardOrder": 9
+    },
+    {
+      "id": "blue-dragon-2024-best-new-director-dream-songs",
+      "mediaType": "movie",
+      "title": "你和我",
+      "originalTitle": "너와 나",
+      "englishTitle": "The Dream Songs",
+      "awardYear": 2024,
+      "winner": "Cho Hyun-chul",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt26757183"
+      },
+      "award": "最佳新人導演",
+      "awardOrder": 7
+    },
+    {
+      "id": "blue-dragon-2024-best-new-actor-love-big-city",
+      "mediaType": "movie",
+      "title": "大都市的愛情法",
+      "originalTitle": "대도시의 사랑법",
+      "englishTitle": "Love in the Big City",
+      "awardYear": 2024,
+      "winner": "Noh Sang-hyun",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt33022813"
+      },
+      "award": "最佳新人男演員",
+      "awardOrder": 8
+    },
+    {
+      "id": "blue-dragon-2024-best-actor-1212",
+      "mediaType": "movie",
+      "title": "首爾之春",
+      "originalTitle": "서울의 봄",
+      "englishTitle": "12.12: The Day",
+      "awardYear": 2024,
+      "winner": "Hwang Jung-min",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt22507524"
+      },
+      "award": "最佳男主角",
+      "awardOrder": 3
+    },
+    {
+      "id": "blue-dragon-2024-best-supporting-actor-i-executioner",
+      "mediaType": "movie",
+      "title": "老手2",
+      "originalTitle": "베테랑2",
+      "englishTitle": "I, the Executioner",
+      "awardYear": 2024,
+      "winner": "Jung Hae-in",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt30287778"
+      },
+      "award": "最佳男配角",
+      "awardOrder": 5
+    },
+    {
+      "id": "blue-dragon-2023-best-screenplay-next-sohee",
+      "mediaType": "movie",
+      "title": "下一個素熙",
+      "originalTitle": "다음 소희",
+      "englishTitle": "Next Sohee",
+      "awardYear": 2023,
+      "winner": "July Jung",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt19820538"
+      },
+      "award": "最佳劇本",
+      "awardOrder": 10
+    },
+    {
+      "id": "blue-dragon-2023-best-actress-sleep",
+      "mediaType": "movie",
+      "title": "睡眠",
+      "originalTitle": "잠",
+      "englishTitle": "Sleep",
+      "awardYear": 2023,
+      "winner": "Jung Yu-mi",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt8209702"
+      },
+      "award": "最佳女主角",
+      "awardOrder": 4
+    },
+    {
+      "id": "blue-dragon-2023-best-supporting-actress-cobweb",
+      "mediaType": "movie",
+      "title": "蜘蛛網",
+      "originalTitle": "거미집",
+      "englishTitle": "Cobweb",
+      "awardYear": 2023,
+      "winner": "Jeon Yeo-bin",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt21254598"
+      },
+      "award": "最佳女配角",
+      "awardOrder": 6
+    },
+    {
+      "id": "blue-dragon-2023-best-director-concrete-utopia",
+      "mediaType": "movie",
+      "title": "混凝土烏托邦",
+      "originalTitle": "콘크리트 유토피아",
+      "englishTitle": "Concrete Utopia",
+      "awardYear": 2023,
+      "winner": "Uhm Tae-hwa",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt13086266"
+      },
+      "award": "最佳導演",
+      "awardOrder": 2
+    },
+    {
+      "id": "blue-dragon-2023-best-film-smugglers",
+      "mediaType": "movie",
+      "title": "走私",
+      "originalTitle": "밀수",
+      "englishTitle": "Smugglers",
+      "awardYear": 2023,
+      "winner": "Ryoo Seung-wan",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt28106766"
+      },
+      "award": "最佳影片",
+      "awardOrder": 1
+    },
+    {
+      "id": "blue-dragon-2023-best-new-actress-smugglers",
+      "mediaType": "movie",
+      "title": "走私",
+      "originalTitle": "밀수",
+      "englishTitle": "Smugglers",
+      "awardYear": 2023,
+      "winner": "Go Min-si",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt28106766"
+      },
+      "award": "最佳新人女演員",
+      "awardOrder": 9
+    },
+    {
+      "id": "blue-dragon-2023-best-new-director-night-owl",
+      "mediaType": "movie",
+      "title": "夜梟",
+      "originalTitle": "올빼미",
+      "englishTitle": "The Night Owl",
+      "awardYear": 2023,
+      "winner": "Ahn Tae-jin",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt23871504"
+      },
+      "award": "最佳新人導演",
+      "awardOrder": 7
+    },
+    {
+      "id": "blue-dragon-2023-best-new-actor-hopeless",
+      "mediaType": "movie",
+      "title": "禍亂",
+      "originalTitle": "화란",
+      "englishTitle": "Hopeless",
+      "awardYear": 2023,
+      "winner": "Hong Sa-bin",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt27502351"
+      },
+      "award": "最佳新人男演員",
+      "awardOrder": 8
+    },
+    {
+      "id": "blue-dragon-2023-best-actor-concrete-utopia",
+      "mediaType": "movie",
+      "title": "混凝土烏托邦",
+      "originalTitle": "콘크리트 유토피아",
+      "englishTitle": "Concrete Utopia",
+      "awardYear": 2023,
+      "winner": "Lee Byung-hun",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt13086266"
+      },
+      "award": "最佳男主角",
+      "awardOrder": 3
+    },
+    {
+      "id": "blue-dragon-2023-best-supporting-actor-smugglers",
+      "mediaType": "movie",
+      "title": "走私",
+      "originalTitle": "밀수",
+      "englishTitle": "Smugglers",
+      "awardYear": 2023,
+      "winner": "Zo In-sung",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt28106766"
+      },
+      "award": "最佳男配角",
+      "awardOrder": 5
+    },
+    {
+      "id": "blue-dragon-2022-best-screenplay-decision-leave",
+      "mediaType": "movie",
+      "title": "分手的決心",
+      "originalTitle": "헤어질 결심",
+      "englishTitle": "Decision to Leave",
+      "awardYear": 2022,
+      "winner": "Park Chan-wook & Jeong Seo-kyeong",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt12477480"
+      },
+      "award": "最佳劇本",
+      "awardOrder": 10
+    },
+    {
+      "id": "blue-dragon-2022-best-actress-decision-leave",
+      "mediaType": "movie",
+      "title": "分手的決心",
+      "originalTitle": "헤어질 결심",
+      "englishTitle": "Decision to Leave",
+      "awardYear": 2022,
+      "winner": "Tang Wei",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt12477480"
+      },
+      "award": "最佳女主角",
+      "awardOrder": 4
+    },
+    {
+      "id": "blue-dragon-2022-best-supporting-actress-perhaps-love",
+      "mediaType": "movie",
+      "title": "只有形式的羅曼史",
+      "originalTitle": "장르만 로맨스",
+      "englishTitle": "Perhaps Love",
+      "awardYear": 2022,
+      "winner": "Oh Na-ra",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt15587126"
+      },
+      "award": "最佳女配角",
+      "awardOrder": 6
+    },
+    {
+      "id": "blue-dragon-2022-best-director-decision-leave",
+      "mediaType": "movie",
+      "title": "分手的決心",
+      "originalTitle": "헤어질 결심",
+      "englishTitle": "Decision to Leave",
+      "awardYear": 2022,
+      "winner": "Park Chan-wook",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt12477480"
+      },
+      "award": "最佳導演",
+      "awardOrder": 2
+    },
+    {
+      "id": "blue-dragon-2022-best-film-decision-leave",
+      "mediaType": "movie",
+      "title": "分手的決心",
+      "originalTitle": "헤어질 결심",
+      "englishTitle": "Decision to Leave",
+      "awardYear": 2022,
+      "winner": "Park Chan-wook",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt12477480"
+      },
+      "award": "最佳影片",
+      "awardOrder": 1
+    },
+    {
+      "id": "blue-dragon-2022-best-new-actress-bulldozer-girl",
+      "mediaType": "movie",
+      "title": "坐推土機的少女",
+      "originalTitle": "불도저에 탄 소녀",
+      "englishTitle": "The Girl on a Bulldozer",
+      "awardYear": 2022,
+      "winner": "Kim Hye-yoon",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt19632924"
+      },
+      "award": "最佳新人女演員",
+      "awardOrder": 9
+    },
+    {
+      "id": "blue-dragon-2022-best-new-director-hunt",
+      "mediaType": "movie",
+      "title": "狩獵",
+      "originalTitle": "헌트",
+      "englishTitle": "Hunt",
+      "awardYear": 2022,
+      "winner": "Lee Jung-jae",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt6931658"
+      },
+      "award": "最佳新人導演",
+      "awardOrder": 7
+    },
+    {
+      "id": "blue-dragon-2022-best-new-actor-in-our-prime",
+      "mediaType": "movie",
+      "title": "奇怪國家的數學家",
+      "originalTitle": "이상한 나라의 수학자",
+      "englishTitle": "In Our Prime",
+      "awardYear": 2022,
+      "winner": "Kim Dong-hwi",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt12663772"
+      },
+      "award": "最佳新人男演員",
+      "awardOrder": 8
+    },
+    {
+      "id": "blue-dragon-2022-best-actor-decision-leave",
+      "mediaType": "movie",
+      "title": "分手的決心",
+      "originalTitle": "헤어질 결심",
+      "englishTitle": "Decision to Leave",
+      "awardYear": 2022,
+      "winner": "Park Hae-il",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt12477480"
+      },
+      "award": "最佳男主角",
+      "awardOrder": 3
+    },
+    {
+      "id": "blue-dragon-2022-best-supporting-actor-hansan",
+      "mediaType": "movie",
+      "title": "閒山：龍的出現",
+      "originalTitle": "한산: 용의 출현",
+      "englishTitle": "Hansan: Rising Dragon",
+      "awardYear": 2022,
+      "winner": "Byun Yo-han",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt21109538"
+      },
+      "award": "最佳男配角",
+      "awardOrder": 5
+    },
+    {
+      "id": "blue-dragon-2021-best-screenplay-book-fish",
+      "mediaType": "movie",
+      "title": "茲山魚譜",
+      "originalTitle": "자산어보",
+      "englishTitle": "The Book of Fish",
+      "awardYear": 2021,
+      "winner": "Kim Se-gyeom",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14371900"
+      },
+      "award": "最佳劇本",
+      "awardOrder": 10
+    },
+    {
+      "id": "blue-dragon-2021-best-actress-three-sisters",
+      "mediaType": "movie",
+      "title": "三姐妹",
+      "originalTitle": "세 자매",
+      "englishTitle": "Three Sisters",
+      "awardYear": 2021,
+      "winner": "Moon So-ri",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt12385956"
+      },
+      "award": "最佳女主角",
+      "awardOrder": 4
+    },
+    {
+      "id": "blue-dragon-2021-best-supporting-actress-three-sisters",
+      "mediaType": "movie",
+      "title": "三姐妹",
+      "originalTitle": "세 자매",
+      "englishTitle": "Three Sisters",
+      "awardYear": 2021,
+      "winner": "Kim Sun-young",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt12385956"
+      },
+      "award": "最佳女配角",
+      "awardOrder": 6
+    },
+    {
+      "id": "blue-dragon-2021-best-director-mogadishu",
+      "mediaType": "movie",
+      "title": "摩加迪沙",
+      "originalTitle": "모가디슈",
+      "englishTitle": "Escape from Mogadishu",
+      "awardYear": 2021,
+      "winner": "Ryoo Seung-wan",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14810692"
+      },
+      "award": "最佳導演",
+      "awardOrder": 2
+    },
+    {
+      "id": "blue-dragon-2021-best-film-mogadishu",
+      "mediaType": "movie",
+      "title": "摩加迪沙",
+      "originalTitle": "모가디슈",
+      "englishTitle": "Escape from Mogadishu",
+      "awardYear": 2021,
+      "winner": "Ryoo Seung-wan",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14810692"
+      },
+      "award": "最佳影片",
+      "awardOrder": 1
+    },
+    {
+      "id": "blue-dragon-2021-best-new-actress-aloners",
+      "mediaType": "movie",
+      "title": "獨自生活的人們",
+      "originalTitle": "혼자 사는 사람들",
+      "englishTitle": "Aloners",
+      "awardYear": 2021,
+      "winner": "Gong Seung-yeon",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14598598"
+      },
+      "award": "最佳新人女演員",
+      "awardOrder": 9
+    },
+    {
+      "id": "blue-dragon-2021-best-new-director-day-i-died",
+      "mediaType": "movie",
+      "title": "我死之日",
+      "originalTitle": "내가 죽던 날",
+      "englishTitle": "The Day I Died: Unclosed Case",
+      "awardYear": 2021,
+      "winner": "Park Ji-wan",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt13423318"
+      },
+      "award": "最佳新人導演",
+      "awardOrder": 7
+    },
+    {
+      "id": "blue-dragon-2021-best-new-actor-not-out",
+      "mediaType": "movie",
+      "title": "未出局",
+      "originalTitle": "낫아웃",
+      "englishTitle": "Not Out",
+      "awardYear": 2021,
+      "winner": "Jeong Jae-kwang",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14627004"
+      },
+      "award": "最佳新人男演員",
+      "awardOrder": 8
+    },
+    {
+      "id": "blue-dragon-2021-best-actor-book-fish",
+      "mediaType": "movie",
+      "title": "茲山魚譜",
+      "originalTitle": "자산어보",
+      "englishTitle": "The Book of Fish",
+      "awardYear": 2021,
+      "winner": "Sul Kyung-gu",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14371900"
+      },
+      "award": "最佳男主角",
+      "awardOrder": 3
+    },
+    {
+      "id": "blue-dragon-2021-best-supporting-actor-mogadishu",
+      "mediaType": "movie",
+      "title": "摩加迪沙",
+      "originalTitle": "모가디슈",
+      "englishTitle": "Escape from Mogadishu",
+      "awardYear": 2021,
+      "winner": "Huh Joon-ho",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14810692"
+      },
+      "award": "最佳男配角",
+      "awardOrder": 5
+    },
+    {
+      "id": "blue-dragon-2020-best-screenplay-moonlit-winter",
+      "mediaType": "movie",
+      "title": "致允熙",
+      "originalTitle": "윤희에게",
+      "englishTitle": "Moonlit Winter",
+      "awardYear": 2020,
+      "winner": "Lim Dae-hyung",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt11311974"
+      },
+      "award": "最佳劇本",
+      "awardOrder": 10
+    },
+    {
+      "id": "blue-dragon-2020-best-actress-honest-candidate",
+      "mediaType": "movie",
+      "title": "正直的候選人",
+      "originalTitle": "정직한 후보",
+      "englishTitle": "Honest Candidate",
+      "awardYear": 2020,
+      "winner": "Ra Mi-ran",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt11812338"
+      },
+      "award": "最佳女主角",
+      "awardOrder": 4
+    },
+    {
+      "id": "blue-dragon-2020-best-supporting-actress-samjin",
+      "mediaType": "movie",
+      "title": "三振集團英語託業班",
+      "originalTitle": "삼진그룹 영어토익반",
+      "englishTitle": "Samjin Company English Class",
+      "awardYear": 2020,
+      "winner": "Esom",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt13210996"
+      },
+      "award": "最佳女配角",
+      "awardOrder": 6
+    },
+    {
+      "id": "blue-dragon-2020-best-director-moonlit-winter",
+      "mediaType": "movie",
+      "title": "致允熙",
+      "originalTitle": "윤희에게",
+      "englishTitle": "Moonlit Winter",
+      "awardYear": 2020,
+      "winner": "Lim Dae-hyung",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt11311974"
+      },
+      "award": "最佳導演",
+      "awardOrder": 2
+    },
+    {
+      "id": "blue-dragon-2020-best-film-man-standing-next",
+      "mediaType": "movie",
+      "title": "南山的部長們",
+      "originalTitle": "남산의 부장들",
+      "englishTitle": "The Man Standing Next",
+      "awardYear": 2020,
+      "winner": "Woo Min-ho",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt11358398"
+      },
+      "award": "最佳影片",
+      "awardOrder": 1
+    },
+    {
+      "id": "blue-dragon-2020-best-new-actress-lucky-chansil",
+      "mediaType": "movie",
+      "title": "燦實也多福",
+      "originalTitle": "찬실이는 복도 많지",
+      "englishTitle": "Lucky Chan-sil",
+      "awardYear": 2020,
+      "winner": "Kang Mal-geum",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt11639190"
+      },
+      "award": "最佳新人女演員",
+      "awardOrder": 9
+    },
+    {
+      "id": "blue-dragon-2020-best-new-director-voice-silence",
+      "mediaType": "movie",
+      "title": "無聲",
+      "originalTitle": "소리도 없이",
+      "englishTitle": "Voice of Silence",
+      "awardYear": 2020,
+      "winner": "Hong Eui-jeong",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10431572"
+      },
+      "award": "最佳新人導演",
+      "awardOrder": 7
+    },
+    {
+      "id": "blue-dragon-2020-best-new-actor-vertigo",
+      "mediaType": "movie",
+      "title": "眩暈",
+      "originalTitle": "버티고",
+      "englishTitle": "Vertigo",
+      "awardYear": 2020,
+      "winner": "Yoo Teo",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt11135842"
+      },
+      "award": "最佳新人男演員",
+      "awardOrder": 8
+    },
+    {
+      "id": "blue-dragon-2020-best-actor-voice-silence",
+      "mediaType": "movie",
+      "title": "無聲",
+      "originalTitle": "소리도 없이",
+      "englishTitle": "Voice of Silence",
+      "awardYear": 2020,
+      "winner": "Yoo Ah-in",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10431572"
+      },
+      "award": "最佳男主角",
+      "awardOrder": 3
+    },
+    {
+      "id": "blue-dragon-2020-best-supporting-actor-deliver-evil",
+      "mediaType": "movie",
+      "title": "從邪惡中拯救我",
+      "originalTitle": "다만 악에서 구하소서",
+      "englishTitle": "Deliver Us from Evil",
+      "awardYear": 2020,
+      "winner": "Park Jeong-min",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt12763920"
+      },
+      "award": "最佳男配角",
+      "awardOrder": 5
+    },
+    {
+      "id": "blue-dragon-2019-best-screenplay-house-hummingbird",
+      "mediaType": "movie",
+      "title": "蜂鳥",
+      "originalTitle": "벌새",
+      "englishTitle": "House of Hummingbird",
+      "awardYear": 2019,
+      "winner": "Kim Bora",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8951086"
+      },
+      "award": "最佳劇本",
+      "awardOrder": 10
+    },
+    {
+      "id": "blue-dragon-2019-best-actress-parasite",
+      "mediaType": "movie",
+      "title": "寄生上流",
+      "originalTitle": "기생충",
+      "englishTitle": "Parasite",
+      "awardYear": 2019,
+      "winner": "Cho Yeo-jeong",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6751668"
+      },
+      "award": "最佳女主角",
+      "awardOrder": 4
+    },
+    {
+      "id": "blue-dragon-2019-best-supporting-actress-parasite",
+      "mediaType": "movie",
+      "title": "寄生上流",
+      "originalTitle": "기생충",
+      "englishTitle": "Parasite",
+      "awardYear": 2019,
+      "winner": "Lee Jung-eun",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6751668"
+      },
+      "award": "最佳女配角",
+      "awardOrder": 6
+    },
+    {
+      "id": "blue-dragon-2019-best-director-parasite",
+      "mediaType": "movie",
+      "title": "寄生上流",
+      "originalTitle": "기생충",
+      "englishTitle": "Parasite",
+      "awardYear": 2019,
+      "winner": "Bong Joon-ho",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6751668"
+      },
+      "award": "最佳導演",
+      "awardOrder": 2
+    },
+    {
+      "id": "blue-dragon-2019-best-film-parasite",
+      "mediaType": "movie",
+      "title": "寄生上流",
+      "originalTitle": "기생충",
+      "englishTitle": "Parasite",
+      "awardYear": 2019,
+      "winner": "Bong Joon-ho",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6751668"
+      },
+      "award": "最佳影片",
+      "awardOrder": 1
+    },
+    {
+      "id": "blue-dragon-2019-best-new-actress-another-child",
+      "mediaType": "movie",
+      "title": "未成年",
+      "originalTitle": "미성년",
+      "englishTitle": "Another Child",
+      "awardYear": 2019,
+      "winner": "Kim Hye-jun",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt8991322"
+      },
+      "award": "最佳新人女演員",
+      "awardOrder": 9
+    },
+    {
+      "id": "blue-dragon-2019-best-new-director-exit",
+      "mediaType": "movie",
+      "title": "極限逃生",
+      "originalTitle": "엑시트",
+      "englishTitle": "Exit",
+      "awardYear": 2019,
+      "winner": "Lee Sang-geun",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10648440"
+      },
+      "award": "最佳新人導演",
+      "awardOrder": 7
+    },
+    {
+      "id": "blue-dragon-2019-best-new-actor-quantum-physics",
+      "mediaType": "movie",
+      "title": "量子物理學",
+      "originalTitle": "양자물리학",
+      "englishTitle": "By Quantum Physics: A Nightlife Venture",
+      "awardYear": 2019,
+      "winner": "Park Hae-soo",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt11022284"
+      },
+      "award": "最佳新人男演員",
+      "awardOrder": 8
+    },
+    {
+      "id": "blue-dragon-2019-best-actor-innocent-witness",
+      "mediaType": "movie",
+      "title": "證人",
+      "originalTitle": "증인",
+      "englishTitle": "Innocent Witness",
+      "awardYear": 2019,
+      "winner": "Jung Woo-sung",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt8562562"
+      },
+      "award": "最佳男主角",
+      "awardOrder": 3
+    },
+    {
+      "id": "blue-dragon-2019-best-supporting-actor-default",
+      "mediaType": "movie",
+      "title": "國家破產之日",
+      "originalTitle": "국가부도의 날",
+      "englishTitle": "Default",
+      "awardYear": 2019,
+      "winner": "Jo Woo-jin",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7233726"
+      },
+      "award": "最佳男配角",
+      "awardOrder": 5
+    },
+    {
+      "id": "blue-dragon-2018-best-screenplay-dark-figure-crime",
+      "mediaType": "movie",
+      "title": "暗數殺人",
+      "originalTitle": "암수살인",
+      "englishTitle": "Dark Figure of Crime",
+      "awardYear": 2018,
+      "winner": "Kwak Kyung-taek & Kim Tae-gyun",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8119680"
+      },
+      "award": "最佳劇本",
+      "awardOrder": 10
+    },
+    {
+      "id": "blue-dragon-2018-best-actress-miss-baek",
+      "mediaType": "movie",
+      "title": "白小姐",
+      "originalTitle": "미쓰백",
+      "englishTitle": "Miss Baek",
+      "awardYear": 2018,
+      "winner": "Han Ji-min",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt6479534"
+      },
+      "award": "最佳女主角",
+      "awardOrder": 4
+    },
+    {
+      "id": "blue-dragon-2018-best-supporting-actress-along-gods",
+      "mediaType": "movie",
+      "title": "與神同行：罪與罰",
+      "originalTitle": "신과함께-죄와 벌",
+      "englishTitle": "Along with the Gods: The Two Worlds",
+      "awardYear": 2018,
+      "winner": "Kim Hyang-gi",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7160070"
+      },
+      "award": "最佳女配角",
+      "awardOrder": 6
+    },
+    {
+      "id": "blue-dragon-2018-best-director-spy-gone-north",
+      "mediaType": "movie",
+      "title": "特工",
+      "originalTitle": "공작",
+      "englishTitle": "The Spy Gone North",
+      "awardYear": 2018,
+      "winner": "Yoon Jong-bin",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8290698"
+      },
+      "award": "最佳導演",
+      "awardOrder": 2
+    },
+    {
+      "id": "blue-dragon-2018-best-film-1987",
+      "mediaType": "movie",
+      "title": "1987：黎明到來的那一天",
+      "originalTitle": "1987",
+      "englishTitle": "1987: When the Day Comes",
+      "awardYear": 2018,
+      "winner": "Jang Joon-hwan",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6493286"
+      },
+      "award": "最佳影片",
+      "awardOrder": 1
+    },
+    {
+      "id": "blue-dragon-2018-best-new-actress-witch",
+      "mediaType": "movie",
+      "title": "魔女",
+      "originalTitle": "마녀",
+      "englishTitle": "The Witch: Part 1. The Subversion",
+      "awardYear": 2018,
+      "winner": "Kim Da-mi",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8574252"
+      },
+      "award": "最佳新人女演員",
+      "awardOrder": 9
+    },
+    {
+      "id": "blue-dragon-2018-best-new-director-microhabitat",
+      "mediaType": "movie",
+      "title": "小公女",
+      "originalTitle": "소공녀",
+      "englishTitle": "Microhabitat",
+      "awardYear": 2018,
+      "winner": "Jeon Go-woon",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt8191502"
+      },
+      "award": "最佳新人導演",
+      "awardOrder": 7
+    },
+    {
+      "id": "blue-dragon-2018-best-new-actor-great-battle",
+      "mediaType": "movie",
+      "title": "安市城",
+      "originalTitle": "안시성",
+      "englishTitle": "The Great Battle",
+      "awardYear": 2018,
+      "winner": "Nam Joo-hyuk",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt6931414"
+      },
+      "award": "最佳新人男演員",
+      "awardOrder": 8
+    },
+    {
+      "id": "blue-dragon-2018-best-actor-1987",
+      "mediaType": "movie",
+      "title": "1987：黎明到來的那一天",
+      "originalTitle": "1987",
+      "englishTitle": "1987: When the Day Comes",
+      "awardYear": 2018,
+      "winner": "Kim Yoon-seok",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6493286"
+      },
+      "award": "最佳男主角",
+      "awardOrder": 3
+    },
+    {
+      "id": "blue-dragon-2018-best-supporting-actor-believer",
+      "mediaType": "movie",
+      "title": "毒戰",
+      "originalTitle": "독전",
+      "englishTitle": "Believer",
+      "awardYear": 2018,
+      "winner": "Kim Joo-hyuk",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7095654"
+      },
+      "award": "最佳男配角",
+      "awardOrder": 5
+    },
+    {
+      "id": "blue-dragon-2017-best-screenplay-fortress",
+      "mediaType": "movie",
+      "title": "南漢山城",
+      "originalTitle": "남한산성",
+      "englishTitle": "The Fortress",
+      "awardYear": 2017,
+      "winner": "Hwang Dong-hyuk",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7160176"
+      },
+      "award": "最佳劇本",
+      "awardOrder": 10
+    },
+    {
+      "id": "blue-dragon-2017-best-actress-i-can-speak",
+      "mediaType": "movie",
+      "title": "我能說",
+      "originalTitle": "아이 캔 스피크",
+      "englishTitle": "I Can Speak",
+      "awardYear": 2017,
+      "winner": "Na Moon-hee",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7342204"
+      },
+      "award": "最佳女主角",
+      "awardOrder": 4
+    },
+    {
+      "id": "blue-dragon-2017-best-supporting-actress-king",
+      "mediaType": "movie",
+      "title": "王者",
+      "originalTitle": "더 킹",
+      "englishTitle": "The King",
+      "awardYear": 2017,
+      "winner": "Kim So-jin",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5644740"
+      },
+      "award": "最佳女配角",
+      "awardOrder": 6
+    },
+    {
+      "id": "blue-dragon-2017-best-director-i-can-speak",
+      "mediaType": "movie",
+      "title": "我能說",
+      "originalTitle": "아이 캔 스피크",
+      "englishTitle": "I Can Speak",
+      "awardYear": 2017,
+      "winner": "Kim Hyun-seok",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7342204"
+      },
+      "award": "最佳導演",
+      "awardOrder": 2
+    },
+    {
+      "id": "blue-dragon-2017-best-film-a-taxi-driver",
+      "mediaType": "movie",
+      "title": "出租車司機",
+      "originalTitle": "택시운전사",
+      "englishTitle": "A Taxi Driver",
+      "awardYear": 2017,
+      "winner": "Jang Hun",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6878038"
+      },
+      "award": "最佳影片",
+      "awardOrder": 1
+    },
+    {
+      "id": "blue-dragon-2017-best-new-actress-anarchist-colony",
+      "mediaType": "movie",
+      "title": "樸烈",
+      "originalTitle": "박열",
+      "englishTitle": "Anarchist from Colony",
+      "awardYear": 2017,
+      "winner": "Choi Hee-seo",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6903980"
+      },
+      "award": "最佳新人女演員",
+      "awardOrder": 9
+    },
+    {
+      "id": "blue-dragon-2017-best-new-director-our-love-story",
+      "mediaType": "movie",
+      "title": "戀愛談",
+      "originalTitle": "연애담",
+      "englishTitle": "Our Love Story",
+      "awardYear": 2017,
+      "winner": "Lee Hyun-ju",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt6129730"
+      },
+      "award": "最佳新人導演",
+      "awardOrder": 7
+    },
+    {
+      "id": "blue-dragon-2017-best-new-actor-my-annoying-brother",
+      "mediaType": "movie",
+      "title": "哥哥",
+      "originalTitle": "형",
+      "englishTitle": "My Annoying Brother",
+      "awardYear": 2017,
+      "winner": "Do Kyung-soo",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt6388082"
+      },
+      "award": "最佳新人男演員",
+      "awardOrder": 8
+    },
+    {
+      "id": "blue-dragon-2017-best-actor-a-taxi-driver",
+      "mediaType": "movie",
+      "title": "出租車司機",
+      "originalTitle": "택시운전사",
+      "englishTitle": "A Taxi Driver",
+      "awardYear": 2017,
+      "winner": "Song Kang-ho",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6878038"
+      },
+      "award": "最佳男主角",
+      "awardOrder": 3
+    },
+    {
+      "id": "blue-dragon-2017-best-supporting-actor-outlaws",
+      "mediaType": "movie",
+      "title": "犯罪都市",
+      "originalTitle": "범죄도시",
+      "englishTitle": "The Outlaws",
+      "awardYear": 2017,
+      "winner": "Jin Seon-kyu",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7468056"
+      },
+      "award": "最佳男配角",
+      "awardOrder": 5
+    },
+    {
+      "id": "blue-dragon-2016-best-screenplay-dongju",
+      "mediaType": "movie",
+      "title": "東柱",
+      "originalTitle": "동주",
+      "englishTitle": "Dongju: The Portrait of a Poet",
+      "awardYear": 2016,
+      "winner": "Shin Yeon-shick",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5799928"
+      },
+      "award": "最佳劇本",
+      "awardOrder": 10
+    },
+    {
+      "id": "blue-dragon-2016-best-actress-handmaiden",
+      "mediaType": "movie",
+      "title": "小姐",
+      "originalTitle": "아가씨",
+      "englishTitle": "The Handmaiden",
+      "awardYear": 2016,
+      "winner": "Kim Min-hee",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4016934"
+      },
+      "award": "最佳女主角",
+      "awardOrder": 4
+    },
+    {
+      "id": "blue-dragon-2016-best-supporting-actress-priests",
+      "mediaType": "movie",
+      "title": "黑司祭們",
+      "originalTitle": "검은 사제들",
+      "englishTitle": "The Priests",
+      "awardYear": 2016,
+      "winner": "Park So-dam",
+      "releaseDate": "2015",
+      "externalIds": {
+        "imdb": "tt5049302"
+      },
+      "award": "最佳女配角",
+      "awardOrder": 6
+    },
+    {
+      "id": "blue-dragon-2016-best-director-wailing",
+      "mediaType": "movie",
+      "title": "哭聲",
+      "originalTitle": "곡성",
+      "englishTitle": "The Wailing",
+      "awardYear": 2016,
+      "winner": "Na Hong-jin",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5215952"
+      },
+      "award": "最佳導演",
+      "awardOrder": 2
+    },
+    {
+      "id": "blue-dragon-2016-best-film-inside-men",
+      "mediaType": "movie",
+      "title": "局內人",
+      "originalTitle": "내부자들",
+      "englishTitle": "Inside Men",
+      "awardYear": 2016,
+      "winner": "Woo Min-ho",
+      "releaseDate": "2015",
+      "externalIds": {
+        "imdb": "tt3779028"
+      },
+      "award": "最佳影片",
+      "awardOrder": 1
+    },
+    {
+      "id": "blue-dragon-2016-best-new-actress-handmaiden",
+      "mediaType": "movie",
+      "title": "小姐",
+      "originalTitle": "아가씨",
+      "englishTitle": "The Handmaiden",
+      "awardYear": 2016,
+      "winner": "Kim Tae-ri",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4016934"
+      },
+      "award": "最佳新人女演員",
+      "awardOrder": 9
+    },
+    {
+      "id": "blue-dragon-2016-best-new-director-world-of-us",
+      "mediaType": "movie",
+      "title": "我們的世界",
+      "originalTitle": "우리들",
+      "englishTitle": "The World of Us",
+      "awardYear": 2016,
+      "winner": "Yoon Ga-eun",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5502816"
+      },
+      "award": "最佳新人導演",
+      "awardOrder": 7
+    },
+    {
+      "id": "blue-dragon-2016-best-new-actor-dongju",
+      "mediaType": "movie",
+      "title": "東柱",
+      "originalTitle": "동주",
+      "englishTitle": "Dongju: The Portrait of a Poet",
+      "awardYear": 2016,
+      "winner": "Park Jeong-min",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5799928"
+      },
+      "award": "最佳新人男演員",
+      "awardOrder": 8
+    },
+    {
+      "id": "blue-dragon-2016-best-actor-inside-men",
+      "mediaType": "movie",
+      "title": "局內人",
+      "originalTitle": "내부자들",
+      "englishTitle": "Inside Men",
+      "awardYear": 2016,
+      "winner": "Lee Byung-hun",
+      "releaseDate": "2015",
+      "externalIds": {
+        "imdb": "tt3779028"
+      },
+      "award": "最佳男主角",
+      "awardOrder": 3
+    },
+    {
+      "id": "blue-dragon-2016-best-supporting-actor-wailing",
+      "mediaType": "movie",
+      "title": "哭聲",
+      "originalTitle": "곡성",
+      "englishTitle": "The Wailing",
+      "awardYear": 2016,
+      "winner": "Jun Kunimura",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5215952"
+      },
+      "award": "最佳男配角",
+      "awardOrder": 5
+    }
+  ]
+}

@@ -1,0 +1,314 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "title": "Primetime Emmy Awards",
+  "description": "Primetime Emmy Award winners by category and by ceremony.",
+  "tags": [
+    "award",
+    "tv"
+  ],
+  "icon": "ticket",
+  "collections": [
+    {
+      "title": "Primetime Emmy Awards — Outstanding Drama Series",
+      "description": "Winners of the Primetime Emmy Award for Outstanding Drama Series.",
+      "layout": "carousel",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/en/emmys.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "emmys-drama-series-award",
+          "targetType": "show",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "Outstanding Drama Series",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "Primetime Emmy Awards — Outstanding Comedy Series",
+      "description": "Winners of the Primetime Emmy Award for Outstanding Comedy Series.",
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/en/emmys.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "emmys-comedy-series-award",
+          "targetType": "show",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "Outstanding Comedy Series",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "Primetime Emmy Awards — Outstanding Limited or Anthology Series",
+      "description": "Winners of the Primetime Emmy Award for Outstanding Limited or Anthology Series.",
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/en/emmys.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "emmys-limited-series-award",
+          "targetType": "show",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "Outstanding Limited or Anthology Series",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "Primetime Emmy Awards — Outstanding Lead Actor in a Drama Series",
+      "description": "Winners of the Primetime Emmy Award for Outstanding Lead Actor in a Drama Series.",
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/en/emmys.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "emmys-lead-actor-drama-award",
+          "targetType": "show",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "Outstanding Lead Actor in a Drama Series",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "Primetime Emmy Awards — Outstanding Lead Actress in a Drama Series",
+      "description": "Winners of the Primetime Emmy Award for Outstanding Lead Actress in a Drama Series.",
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/en/emmys.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "emmys-lead-actress-drama-award",
+          "targetType": "show",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "Outstanding Lead Actress in a Drama Series",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "Primetime Emmy Awards — Outstanding Lead Actor in a Comedy Series",
+      "description": "Winners of the Primetime Emmy Award for Outstanding Lead Actor in a Comedy Series.",
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/en/emmys.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "emmys-lead-actor-comedy-award",
+          "targetType": "show",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "Outstanding Lead Actor in a Comedy Series",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "Primetime Emmy Awards — Outstanding Lead Actress in a Comedy Series",
+      "description": "Winners of the Primetime Emmy Award for Outstanding Lead Actress in a Comedy Series.",
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/en/emmys.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "emmys-lead-actress-comedy-award",
+          "targetType": "show",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "Outstanding Lead Actress in a Comedy Series",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "Primetime Emmy Awards 2017–2026",
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/en/emmys.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "years-from",
+          "targetType": "show",
+          "field": "awardYear",
+          "fieldType": "number",
+          "operator": "greaterThan",
+          "value": "2016",
+          "isNegated": false
+        },
+        {
+          "id": "years-to",
+          "targetType": "show",
+          "field": "awardYear",
+          "fieldType": "number",
+          "operator": "lessThan",
+          "value": "2027",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all",
+      "grouping": {
+        "field": "awardYear",
+        "buckets": "2026,2025,,2017",
+        "label": "{start}"
+      }
+    }
+  ]
+}

@@ -1,0 +1,960 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "title": "Golden Globe Awards",
+  "author": "Mydea",
+  "server": "TMDB",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "description": "Golden Globe Awards",
+  "items": [
+    {
+      "id": "golden-globes-animated-2026-kpop-demon-hunters",
+      "mediaType": "movie",
+      "title": "KPop Demon Hunters",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt14205554"
+      },
+      "awardYear": 2026,
+      "winner": "KPop Demon Hunters",
+      "award": "Best Motion Picture – Animated",
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-globes-drama-2026-hamnet",
+      "mediaType": "movie",
+      "title": "Hamnet",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt14905854"
+      },
+      "awardYear": 2026,
+      "winner": "Hamnet",
+      "award": "Best Motion Picture – Drama",
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-globes-comedy-2026-one-battle-after-another",
+      "mediaType": "movie",
+      "title": "One Battle After Another",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt30144839"
+      },
+      "awardYear": 2026,
+      "winner": "One Battle After Another",
+      "award": "Best Motion Picture – Musical or Comedy",
+      "awardOrder": 2
+    },
+    {
+      "id": "golden-globes-foreign-2026-the-secret-agent",
+      "mediaType": "movie",
+      "title": "The Secret Agent",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt27847051"
+      },
+      "awardYear": 2026,
+      "winner": "The Secret Agent",
+      "award": "Best Motion Picture – Non-English Language",
+      "awardOrder": 4
+    },
+    {
+      "id": "golden-globes-boxoffice-2026-sinners",
+      "mediaType": "movie",
+      "title": "Sinners",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31193180"
+      },
+      "awardYear": 2026,
+      "winner": "Sinners",
+      "award": "Cinematic and Box Office Achievement",
+      "awardOrder": 5
+    },
+    {
+      "id": "golden-globes-animated-2025-flow",
+      "mediaType": "movie",
+      "title": "Flow",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt4772188"
+      },
+      "awardYear": 2025,
+      "winner": "Flow",
+      "award": "Best Motion Picture – Animated",
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-globes-drama-2025-the-brutalist",
+      "mediaType": "movie",
+      "title": "The Brutalist",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt8999762"
+      },
+      "awardYear": 2025,
+      "winner": "The Brutalist",
+      "award": "Best Motion Picture – Drama",
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-globes-comedy-2025-emilia-perez",
+      "mediaType": "movie",
+      "title": "Emilia Pérez",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt20221436"
+      },
+      "awardYear": 2025,
+      "winner": "Emilia Pérez",
+      "award": "Best Motion Picture – Musical or Comedy",
+      "awardOrder": 2
+    },
+    {
+      "id": "golden-globes-foreign-2025-emilia-perez",
+      "mediaType": "movie",
+      "title": "Emilia Pérez",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt20221436"
+      },
+      "awardYear": 2025,
+      "winner": "Emilia Pérez",
+      "award": "Best Motion Picture – Non-English Language",
+      "awardOrder": 4
+    },
+    {
+      "id": "golden-globes-boxoffice-2025-wicked",
+      "mediaType": "movie",
+      "title": "Wicked",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt1262426"
+      },
+      "awardYear": 2025,
+      "winner": "Wicked",
+      "award": "Cinematic and Box Office Achievement",
+      "awardOrder": 5
+    },
+    {
+      "id": "golden-globes-animated-2024-the-boy-and-the-heron",
+      "mediaType": "movie",
+      "title": "The Boy and the Heron",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt6587046"
+      },
+      "awardYear": 2024,
+      "winner": "The Boy and the Heron",
+      "award": "Best Motion Picture – Animated",
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-globes-drama-2024-oppenheimer",
+      "mediaType": "movie",
+      "title": "Oppenheimer",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt15398776"
+      },
+      "awardYear": 2024,
+      "winner": "Oppenheimer",
+      "award": "Best Motion Picture – Drama",
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-globes-comedy-2024-poor-things",
+      "mediaType": "movie",
+      "title": "Poor Things",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt14230458"
+      },
+      "awardYear": 2024,
+      "winner": "Poor Things",
+      "award": "Best Motion Picture – Musical or Comedy",
+      "awardOrder": 2
+    },
+    {
+      "id": "golden-globes-foreign-2024-anatomy-of-a-fall",
+      "mediaType": "movie",
+      "title": "Anatomy of a Fall",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt17009710"
+      },
+      "awardYear": 2024,
+      "winner": "Anatomy of a Fall",
+      "award": "Best Motion Picture – Non-English Language",
+      "awardOrder": 4
+    },
+    {
+      "id": "golden-globes-boxoffice-2024-barbie",
+      "mediaType": "movie",
+      "title": "Barbie",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt1517268"
+      },
+      "awardYear": 2024,
+      "winner": "Barbie",
+      "award": "Cinematic and Box Office Achievement",
+      "awardOrder": 5
+    },
+    {
+      "id": "golden-globes-animated-2023-guillermo-del-toro-s-pinocchio",
+      "mediaType": "movie",
+      "title": "Guillermo del Toro's Pinocchio",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt1488589"
+      },
+      "awardYear": 2023,
+      "winner": "Guillermo del Toro's Pinocchio",
+      "award": "Best Motion Picture – Animated",
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-globes-drama-2023-the-fabelmans",
+      "mediaType": "movie",
+      "title": "The Fabelmans",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt14208870"
+      },
+      "awardYear": 2023,
+      "winner": "The Fabelmans",
+      "award": "Best Motion Picture – Drama",
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-globes-comedy-2023-the-banshees-of-inisherin",
+      "mediaType": "movie",
+      "title": "The Banshees of Inisherin",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt11813216"
+      },
+      "awardYear": 2023,
+      "winner": "The Banshees of Inisherin",
+      "award": "Best Motion Picture – Musical or Comedy",
+      "awardOrder": 2
+    },
+    {
+      "id": "golden-globes-foreign-2023-argentina-1985",
+      "mediaType": "movie",
+      "title": "Argentina, 1985",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt15301048"
+      },
+      "awardYear": 2023,
+      "winner": "Argentina, 1985",
+      "award": "Best Motion Picture – Non-English Language",
+      "awardOrder": 4
+    },
+    {
+      "id": "golden-globes-animated-2022-encanto",
+      "mediaType": "movie",
+      "title": "Encanto",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt2953050"
+      },
+      "awardYear": 2022,
+      "winner": "Encanto",
+      "award": "Best Motion Picture – Animated",
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-globes-drama-2022-the-power-of-the-dog",
+      "mediaType": "movie",
+      "title": "The Power of the Dog",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt10293406"
+      },
+      "awardYear": 2022,
+      "winner": "The Power of the Dog",
+      "award": "Best Motion Picture – Drama",
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-globes-comedy-2022-west-side-story",
+      "mediaType": "movie",
+      "title": "West Side Story",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt3581652"
+      },
+      "awardYear": 2022,
+      "winner": "West Side Story",
+      "award": "Best Motion Picture – Musical or Comedy",
+      "awardOrder": 2
+    },
+    {
+      "id": "golden-globes-foreign-2022-drive-my-car",
+      "mediaType": "movie",
+      "title": "Drive My Car",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14039582"
+      },
+      "awardYear": 2022,
+      "winner": "Drive My Car",
+      "award": "Best Motion Picture – Non-English Language",
+      "awardOrder": 4
+    },
+    {
+      "id": "golden-globes-animated-2021-soul",
+      "mediaType": "movie",
+      "title": "Soul",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt2948372"
+      },
+      "awardYear": 2021,
+      "winner": "Soul",
+      "award": "Best Motion Picture – Animated",
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-globes-drama-2021-nomadland",
+      "mediaType": "movie",
+      "title": "Nomadland",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt9770150"
+      },
+      "awardYear": 2021,
+      "winner": "Nomadland",
+      "award": "Best Motion Picture – Drama",
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-globes-comedy-2021-borat-subsequent-moviefilm",
+      "mediaType": "movie",
+      "title": "Borat Subsequent Moviefilm",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt13143964"
+      },
+      "awardYear": 2021,
+      "winner": "Borat Subsequent Moviefilm",
+      "award": "Best Motion Picture – Musical or Comedy",
+      "awardOrder": 2
+    },
+    {
+      "id": "golden-globes-foreign-2021-minari",
+      "mediaType": "movie",
+      "title": "Minari",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10633456"
+      },
+      "awardYear": 2021,
+      "winner": "Minari",
+      "award": "Best Motion Picture – Non-English Language",
+      "awardOrder": 4
+    },
+    {
+      "id": "golden-globes-animated-2020-missing-link",
+      "mediaType": "movie",
+      "title": "Missing Link",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6348138"
+      },
+      "awardYear": 2020,
+      "winner": "Missing Link",
+      "award": "Best Motion Picture – Animated",
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-globes-drama-2020-1917",
+      "mediaType": "movie",
+      "title": "1917",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt8579674"
+      },
+      "awardYear": 2020,
+      "winner": "1917",
+      "award": "Best Motion Picture – Drama",
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-globes-comedy-2020-once-upon-a-time-in-hollywood",
+      "mediaType": "movie",
+      "title": "Once Upon a Time... in Hollywood",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt7131622"
+      },
+      "awardYear": 2020,
+      "winner": "Once Upon a Time... in Hollywood",
+      "award": "Best Motion Picture – Musical or Comedy",
+      "awardOrder": 2
+    },
+    {
+      "id": "golden-globes-foreign-2020-parasite",
+      "mediaType": "movie",
+      "title": "Parasite",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6751668"
+      },
+      "awardYear": 2020,
+      "winner": "Parasite",
+      "award": "Best Motion Picture – Non-English Language",
+      "awardOrder": 4
+    },
+    {
+      "id": "golden-globes-animated-2019-spider-man-into-the-spider-verse",
+      "mediaType": "movie",
+      "title": "Spider-Man: Into the Spider-Verse",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt4633694"
+      },
+      "awardYear": 2019,
+      "winner": "Spider-Man: Into the Spider-Verse",
+      "award": "Best Motion Picture – Animated",
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-globes-drama-2019-bohemian-rhapsody",
+      "mediaType": "movie",
+      "title": "Bohemian Rhapsody",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt1727824"
+      },
+      "awardYear": 2019,
+      "winner": "Bohemian Rhapsody",
+      "award": "Best Motion Picture – Drama",
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-globes-comedy-2019-green-book",
+      "mediaType": "movie",
+      "title": "Green Book",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt6966692"
+      },
+      "awardYear": 2019,
+      "winner": "Green Book",
+      "award": "Best Motion Picture – Musical or Comedy",
+      "awardOrder": 2
+    },
+    {
+      "id": "golden-globes-foreign-2019-roma",
+      "mediaType": "movie",
+      "title": "Roma",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt6155172"
+      },
+      "awardYear": 2019,
+      "winner": "Roma",
+      "award": "Best Motion Picture – Non-English Language",
+      "awardOrder": 4
+    },
+    {
+      "id": "golden-globes-animated-2018-coco",
+      "mediaType": "movie",
+      "title": "Coco",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt2380307"
+      },
+      "awardYear": 2018,
+      "winner": "Coco",
+      "award": "Best Motion Picture – Animated",
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-globes-drama-2018-three-billboards-outside-ebbing-missouri",
+      "mediaType": "movie",
+      "title": "Three Billboards Outside Ebbing, Missouri",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5027774"
+      },
+      "awardYear": 2018,
+      "winner": "Three Billboards Outside Ebbing, Missouri",
+      "award": "Best Motion Picture – Drama",
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-globes-comedy-2018-lady-bird",
+      "mediaType": "movie",
+      "title": "Lady Bird",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt4925292"
+      },
+      "awardYear": 2018,
+      "winner": "Lady Bird",
+      "award": "Best Motion Picture – Musical or Comedy",
+      "awardOrder": 2
+    },
+    {
+      "id": "golden-globes-foreign-2018-in-the-fade",
+      "mediaType": "movie",
+      "title": "In the Fade",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5723272"
+      },
+      "awardYear": 2018,
+      "winner": "In the Fade",
+      "award": "Best Motion Picture – Non-English Language",
+      "awardOrder": 4
+    },
+    {
+      "id": "golden-globes-animated-2017-zootopia",
+      "mediaType": "movie",
+      "title": "Zootopia",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt2948356"
+      },
+      "awardYear": 2017,
+      "winner": "Zootopia",
+      "award": "Best Motion Picture – Animated",
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-globes-drama-2017-moonlight",
+      "mediaType": "movie",
+      "title": "Moonlight",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4975722"
+      },
+      "awardYear": 2017,
+      "winner": "Moonlight",
+      "award": "Best Motion Picture – Drama",
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-globes-comedy-2017-la-la-land",
+      "mediaType": "movie",
+      "title": "La La Land",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt3783958"
+      },
+      "awardYear": 2017,
+      "winner": "La La Land",
+      "award": "Best Motion Picture – Musical or Comedy",
+      "awardOrder": 2
+    },
+    {
+      "id": "golden-globes-foreign-2017-elle",
+      "mediaType": "movie",
+      "title": "Elle",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt3716530"
+      },
+      "awardYear": 2017,
+      "winner": "Elle",
+      "award": "Best Motion Picture – Non-English Language",
+      "awardOrder": 4
+    },
+    {
+      "id": "golden-globes-limited-2026-adolescence",
+      "mediaType": "tv",
+      "title": "Adolescence",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31806037"
+      },
+      "awardYear": 2026,
+      "winner": "Adolescence",
+      "award": "Best Television Limited Series, Anthology Series or Motion Picture Made for Television",
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-globes-tv_drama-2026-the-pitt",
+      "mediaType": "tv",
+      "title": "The Pitt",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31938062"
+      },
+      "awardYear": 2026,
+      "winner": "The Pitt",
+      "award": "Best Television Series – Drama",
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-globes-tv_comedy-2026-the-studio",
+      "mediaType": "tv",
+      "title": "The Studio",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt23649128"
+      },
+      "awardYear": 2026,
+      "winner": "The Studio",
+      "award": "Best Television Series – Musical or Comedy",
+      "awardOrder": 2
+    },
+    {
+      "id": "golden-globes-limited-2025-baby-reindeer",
+      "mediaType": "tv",
+      "title": "Baby Reindeer",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt13649112"
+      },
+      "awardYear": 2025,
+      "winner": "Baby Reindeer",
+      "award": "Best Television Limited Series, Anthology Series or Motion Picture Made for Television",
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-globes-tv_drama-2025-shogun",
+      "mediaType": "tv",
+      "title": "Shōgun",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt2788316"
+      },
+      "awardYear": 2025,
+      "winner": "Shōgun",
+      "award": "Best Television Series – Drama",
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-globes-tv_comedy-2025-hacks",
+      "mediaType": "tv",
+      "title": "Hacks",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt11815682"
+      },
+      "awardYear": 2025,
+      "winner": "Hacks",
+      "award": "Best Television Series – Musical or Comedy",
+      "awardOrder": 2
+    },
+    {
+      "id": "golden-globes-limited-2024-beef",
+      "mediaType": "tv",
+      "title": "Beef",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt14403178"
+      },
+      "awardYear": 2024,
+      "winner": "Beef",
+      "award": "Best Television Limited Series, Anthology Series or Motion Picture Made for Television",
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-globes-tv_drama-2024-succession",
+      "mediaType": "tv",
+      "title": "Succession",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7660850"
+      },
+      "awardYear": 2024,
+      "winner": "Succession",
+      "award": "Best Television Series – Drama",
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-globes-tv_comedy-2024-the-bear",
+      "mediaType": "tv",
+      "title": "The Bear",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt14452776"
+      },
+      "awardYear": 2024,
+      "winner": "The Bear",
+      "award": "Best Television Series – Musical or Comedy",
+      "awardOrder": 2
+    },
+    {
+      "id": "golden-globes-limited-2023-the-white-lotus",
+      "mediaType": "tv",
+      "title": "The White Lotus",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt13406094"
+      },
+      "awardYear": 2023,
+      "winner": "The White Lotus",
+      "award": "Best Television Limited Series, Anthology Series or Motion Picture Made for Television",
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-globes-tv_drama-2023-house-of-the-dragon",
+      "mediaType": "tv",
+      "title": "House of the Dragon",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt11198330"
+      },
+      "awardYear": 2023,
+      "winner": "House of the Dragon",
+      "award": "Best Television Series – Drama",
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-globes-tv_comedy-2023-abbott-elementary",
+      "mediaType": "tv",
+      "title": "Abbott Elementary",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14218830"
+      },
+      "awardYear": 2023,
+      "winner": "Abbott Elementary",
+      "award": "Best Television Series – Musical or Comedy",
+      "awardOrder": 2
+    },
+    {
+      "id": "golden-globes-limited-2022-the-underground-railroad",
+      "mediaType": "tv",
+      "title": "The Underground Railroad",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt6704972"
+      },
+      "awardYear": 2022,
+      "winner": "The Underground Railroad",
+      "award": "Best Television Limited Series, Anthology Series or Motion Picture Made for Television",
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-globes-tv_drama-2022-succession",
+      "mediaType": "tv",
+      "title": "Succession",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7660850"
+      },
+      "awardYear": 2022,
+      "winner": "Succession",
+      "award": "Best Television Series – Drama",
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-globes-tv_comedy-2022-hacks",
+      "mediaType": "tv",
+      "title": "Hacks",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt11815682"
+      },
+      "awardYear": 2022,
+      "winner": "Hacks",
+      "award": "Best Television Series – Musical or Comedy",
+      "awardOrder": 2
+    },
+    {
+      "id": "golden-globes-limited-2021-the-queen-s-gambit",
+      "mediaType": "tv",
+      "title": "The Queen's Gambit",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10048342"
+      },
+      "awardYear": 2021,
+      "winner": "The Queen's Gambit",
+      "award": "Best Television Limited Series, Anthology Series or Motion Picture Made for Television",
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-globes-tv_drama-2021-the-crown",
+      "mediaType": "tv",
+      "title": "The Crown",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4786824"
+      },
+      "awardYear": 2021,
+      "winner": "The Crown",
+      "award": "Best Television Series – Drama",
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-globes-tv_comedy-2021-schitt-s-creek",
+      "mediaType": "tv",
+      "title": "Schitt's Creek",
+      "releaseDate": "2015",
+      "externalIds": {
+        "imdb": "tt3526078"
+      },
+      "awardYear": 2021,
+      "winner": "Schitt's Creek",
+      "award": "Best Television Series – Musical or Comedy",
+      "awardOrder": 2
+    },
+    {
+      "id": "golden-globes-limited-2020-chernobyl",
+      "mediaType": "tv",
+      "title": "Chernobyl",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt7366338"
+      },
+      "awardYear": 2020,
+      "winner": "Chernobyl",
+      "award": "Best Television Limited Series, Anthology Series or Motion Picture Made for Television",
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-globes-tv_drama-2020-succession",
+      "mediaType": "tv",
+      "title": "Succession",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7660850"
+      },
+      "awardYear": 2020,
+      "winner": "Succession",
+      "award": "Best Television Series – Drama",
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-globes-tv_comedy-2020-fleabag",
+      "mediaType": "tv",
+      "title": "Fleabag",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5687612"
+      },
+      "awardYear": 2020,
+      "winner": "Fleabag",
+      "award": "Best Television Series – Musical or Comedy",
+      "awardOrder": 2
+    },
+    {
+      "id": "golden-globes-limited-2019-the-assassination-of-gianni-versace-american-crime-story",
+      "mediaType": "tv",
+      "title": "American Crime Story",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt2788432"
+      },
+      "awardYear": 2019,
+      "winner": "The Assassination of Gianni Versace: American Crime Story",
+      "award": "Best Television Limited Series, Anthology Series or Motion Picture Made for Television",
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-globes-tv_drama-2019-bodyguard",
+      "mediaType": "tv",
+      "title": "Bodyguard",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7493974"
+      },
+      "awardYear": 2019,
+      "winner": "Bodyguard",
+      "award": "Best Television Series – Drama",
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-globes-tv_comedy-2019-the-kominsky-method",
+      "mediaType": "tv",
+      "title": "The Kominsky Method",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7255502"
+      },
+      "awardYear": 2019,
+      "winner": "The Kominsky Method",
+      "award": "Best Television Series – Musical or Comedy",
+      "awardOrder": 2
+    },
+    {
+      "id": "golden-globes-limited-2018-big-little-lies",
+      "mediaType": "tv",
+      "title": "Big Little Lies",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt3920596"
+      },
+      "awardYear": 2018,
+      "winner": "Big Little Lies",
+      "award": "Best Television Limited Series, Anthology Series or Motion Picture Made for Television",
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-globes-tv_drama-2018-the-handmaid-s-tale",
+      "mediaType": "tv",
+      "title": "The Handmaid's Tale",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5834204"
+      },
+      "awardYear": 2018,
+      "winner": "The Handmaid's Tale",
+      "award": "Best Television Series – Drama",
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-globes-tv_comedy-2018-the-marvelous-mrs-maisel",
+      "mediaType": "tv",
+      "title": "The Marvelous Mrs. Maisel",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5788792"
+      },
+      "awardYear": 2018,
+      "winner": "The Marvelous Mrs. Maisel",
+      "award": "Best Television Series – Musical or Comedy",
+      "awardOrder": 2
+    },
+    {
+      "id": "golden-globes-limited-2017-the-people-v-o-j-simpson-american-crime-story",
+      "mediaType": "tv",
+      "title": "American Crime Story",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt2788432"
+      },
+      "awardYear": 2017,
+      "winner": "The People v. O. J. Simpson: American Crime Story",
+      "award": "Best Television Limited Series, Anthology Series or Motion Picture Made for Television",
+      "awardOrder": 3
+    },
+    {
+      "id": "golden-globes-tv_drama-2017-the-crown",
+      "mediaType": "tv",
+      "title": "The Crown",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4786824"
+      },
+      "awardYear": 2017,
+      "winner": "The Crown",
+      "award": "Best Television Series – Drama",
+      "awardOrder": 1
+    },
+    {
+      "id": "golden-globes-tv_comedy-2017-atlanta",
+      "mediaType": "tv",
+      "title": "Atlanta",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4288182"
+      },
+      "awardYear": 2017,
+      "winner": "Atlanta",
+      "award": "Best Television Series – Musical or Comedy",
+      "awardOrder": 2
+    }
+  ]
+}

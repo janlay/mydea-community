@@ -1,0 +1,266 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "title": "金鸡奖奖项",
+  "description": "中国电影金鸡奖主要奖项历届获奖页面。",
+  "tags": [
+    "award",
+    "prize"
+  ],
+  "icon": "ticket",
+  "collections": [
+    {
+      "title": "金鸡奖 — 最佳故事片",
+      "description": "中国电影金鸡奖历届最佳故事片获奖记录；并列获奖按独立条目保留。",
+      "layout": "carousel",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/zh/golden-rooster.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "golden-rooster-best-feature-film-award",
+          "targetType": "movie",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "最佳故事片",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "金鸡奖 — 最佳导演",
+      "description": "中国电影金鸡奖历届最佳导演获奖记录；并列获奖按独立条目保留。",
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/zh/golden-rooster.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "golden-rooster-best-director-award",
+          "targetType": "movie",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "最佳导演",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "金鸡奖 — 最佳男主角",
+      "description": "中国电影金鸡奖历届最佳男主角获奖记录；并列获奖按独立条目保留。",
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/zh/golden-rooster.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "golden-rooster-best-actor-award",
+          "targetType": "movie",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "最佳男主角",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "金鸡奖 — 最佳女主角",
+      "description": "中国电影金鸡奖历届最佳女主角获奖记录；并列获奖按独立条目保留。",
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/zh/golden-rooster.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "golden-rooster-best-actress-award",
+          "targetType": "movie",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "最佳女主角",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "金鸡奖 — 最佳男配角",
+      "description": "中国电影金鸡奖历届最佳男配角获奖记录；并列获奖按独立条目保留。",
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/zh/golden-rooster.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "golden-rooster-best-supporting-actor-award",
+          "targetType": "movie",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "最佳男配角",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "金鸡奖 — 最佳女配角",
+      "description": "中国电影金鸡奖历届最佳女配角获奖记录；并列获奖按独立条目保留。",
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/zh/golden-rooster.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "golden-rooster-best-supporting-actress-award",
+          "targetType": "movie",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "最佳女配角",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    },
+    {
+      "title": "金鸡奖 — 最佳导演处女作",
+      "description": "中国电影金鸡奖历届最佳导演处女作获奖记录；并列获奖按独立条目保留。",
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/awards/zh/golden-rooster.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ],
+      "filters": [
+        {
+          "id": "golden-rooster-best-directorial-debut-award",
+          "targetType": "movie",
+          "field": "award",
+          "fieldType": "text",
+          "operator": "equals",
+          "value": "最佳导演处女作",
+          "isNegated": false
+        }
+      ],
+      "filterMatchMode": "all"
+    }
+  ]
+}
