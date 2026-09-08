@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "title": "戛纳 — 一种关注评审团奖",
+  "author": "Mydea",
+  "updatedAt": "2026-09-16T04:43:24Z",
+  "description": "戛纳电影节一种关注单元历届奖项。 一种关注评审团奖.",
+  "tags": [
+    "award",
+    "cannes",
+    "prize"
+  ],
+  "items": [
+    {
+      "id": "cannes-ucr-jury-2003-crimson-gold",
+      "mediaType": "movie",
+      "title": "Crimson Gold",
+      "awardYear": 2003,
+      "winner": "Jafar Panahi"
+    },
+    {
+      "id": "cannes-ucr-jury-2008-tokyo-sonata",
+      "mediaType": "movie",
+      "title": "Tokyo Sonata",
+      "awardYear": 2008,
+      "winner": "Kiyoshi Kurosawa"
+    },
+    {
+      "id": "cannes-ucr-jury-2009-police-adjective",
+      "mediaType": "movie",
+      "title": "Police, Adjective",
+      "awardYear": 2009,
+      "winner": "Corneliu Porumboiu"
+    },
+    {
+      "id": "cannes-ucr-jury-2010-october",
+      "mediaType": "movie",
+      "title": "October",
+      "awardYear": 2010,
+      "winner": "Daniel Vega & Diego Vega"
+    },
+    {
+      "id": "cannes-ucr-jury-2014-force-majeure",
+      "mediaType": "movie",
+      "title": "Force Majeure",
+      "awardYear": 2014,
+      "winner": "Ruben Östlund"
+    },
+    {
+      "id": "cannes-ucr-jury-2015-the-high-sun",
+      "mediaType": "movie",
+      "title": "The High Sun",
+      "awardYear": 2015,
+      "winner": "Dalibor Matanić"
+    },
+    {
+      "id": "cannes-ucr-jury-2016-harmonium",
+      "mediaType": "movie",
+      "title": "Harmonium",
+      "awardYear": 2016,
+      "winner": "Kōji Fukada"
+    },
+    {
+      "id": "cannes-ucr-jury-2017-april-s-daughter",
+      "mediaType": "movie",
+      "title": "艾普尔的女儿",
+      "awardYear": 2017,
+      "winner": "Michel Franco",
+      "externalIds": {
+        "imdb": "tt6397762"
+      },
+      "releaseDate": "2017"
+    },
+    {
+      "id": "cannes-ucr-jury-2018-the-dead-and-the-others",
+      "mediaType": "movie",
+      "title": "死人和其他人",
+      "awardYear": 2018,
+      "winner": "João Salaviza & Renée Nader Messora",
+      "externalIds": {
+        "imdb": "tt8423962"
+      },
+      "releaseDate": "2018"
+    },
+    {
+      "id": "cannes-ucr-jury-2019-fire-will-come",
+      "mediaType": "movie",
+      "title": "大火将至",
+      "awardYear": 2019,
+      "winner": "Oliver Laxe",
+      "externalIds": {
+        "imdb": "tt8212958"
+      },
+      "releaseDate": "2019"
+    },
+    {
+      "id": "cannes-ucr-jury-2021-great-freedom",
+      "mediaType": "movie",
+      "title": "伟大的自由",
+      "awardYear": 2021,
+      "winner": "Sebastian Meise",
+      "externalIds": {
+        "imdb": "tt14775784"
+      },
+      "releaseDate": "2021"
+    },
+    {
+      "id": "cannes-ucr-jury-2022-joyland",
+      "mediaType": "movie",
+      "title": "乐土",
+      "awardYear": 2022,
+      "winner": "Saim Sadiq",
+      "externalIds": {
+        "imdb": "tt19719976"
+      },
+      "releaseDate": "2022"
+    },
+    {
+      "id": "cannes-ucr-jury-2023-hounds",
+      "mediaType": "movie",
+      "title": "尸袋",
+      "awardYear": 2023,
+      "winner": "Kamal Lazraq",
+      "externalIds": {
+        "imdb": "tt25750836",
+        "letterboxd": "hounds-2023"
+      },
+      "releaseDate": "2023"
+    },
+    {
+      "id": "cannes-ucr-jury-2024-souleymane-s-story",
+      "mediaType": "movie",
+      "title": "苏莱曼的故事",
+      "awardYear": 2024,
+      "winner": "Boris Lojkine",
+      "externalIds": {
+        "imdb": "tt32086046"
+      },
+      "releaseDate": "2024"
+    },
+    {
+      "id": "cannes-ucr-jury-2025-a-poet",
+      "mediaType": "movie",
+      "title": "诗人",
+      "awardYear": 2025,
+      "winner": "Simón Mesa Soto",
+      "externalIds": {
+        "imdb": "tt36544524"
+      },
+      "releaseDate": "2025"
+    },
+    {
+      "id": "cannes-ucr-jury-2026-elephants-in-the-fog",
+      "mediaType": "movie",
+      "title": "雾中的大象",
+      "awardYear": 2026,
+      "winner": "Abinash Bikram Shah",
+      "externalIds": {
+        "imdb": "tt29279937"
+      }
+    }
+  ]
+}

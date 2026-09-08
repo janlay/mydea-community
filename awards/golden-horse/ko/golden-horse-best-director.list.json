@@ -1,0 +1,770 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-22T08:41:11Z",
+  "title": "금마장 — 감독상",
+  "description": "금마장 감독상 부문의 신설 이후 2025년까지 전체 수상 기록.",
+  "cacheTtlInDays": 365,
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "golden-horse-1962-best-director-item-1",
+      "mediaType": "movie",
+      "title": "Les Belles",
+      "awardYear": 1962,
+      "winner": "Tao Qin",
+      "releaseDate": "1962",
+      "originalTitle": "千嬌百媚",
+      "externalIds": {
+        "imdb": "tt0205336"
+      }
+    },
+    {
+      "id": "golden-horse-1963-best-director-tt0057248",
+      "mediaType": "movie",
+      "title": "양산백과 축영태",
+      "awardYear": 1963,
+      "winner": "Li Han-hsiang",
+      "releaseDate": "1963",
+      "externalIds": {
+        "imdb": "tt0057248"
+      },
+      "originalTitle": "梁山伯與祝英台"
+    },
+    {
+      "id": "golden-horse-1965-best-director-tt1345532",
+      "mediaType": "movie",
+      "title": "Beautiful Duckling",
+      "awardYear": 1965,
+      "winner": "Li Hsing",
+      "releaseDate": "1965",
+      "externalIds": {
+        "imdb": "tt1345532"
+      },
+      "originalTitle": "養鴨人家"
+    },
+    {
+      "id": "golden-horse-1966-best-director-tt0311305",
+      "mediaType": "movie",
+      "title": "Hsi-Shih, Beauty of Beauties",
+      "awardYear": 1966,
+      "winner": "Li Han-hsiang",
+      "releaseDate": "1966",
+      "externalIds": {
+        "imdb": "tt0311305"
+      },
+      "originalTitle": "西施"
+    },
+    {
+      "id": "golden-horse-1967-best-director-tt0185582",
+      "mediaType": "movie",
+      "title": "Orchids and My Love",
+      "awardYear": 1967,
+      "winner": "Li Jia",
+      "releaseDate": "1967",
+      "externalIds": {
+        "imdb": "tt0185582"
+      },
+      "originalTitle": "我女若蘭"
+    },
+    {
+      "id": "golden-horse-1968-best-director-item-6",
+      "mediaType": "movie",
+      "title": "Lonely Seventeen",
+      "awardYear": 1968,
+      "winner": "Pai Ching-jui",
+      "releaseDate": "1968",
+      "originalTitle": "寂寞的十七歲",
+      "externalIds": {
+        "imdb": "tt1286561"
+      }
+    },
+    {
+      "id": "golden-horse-1969-best-director-item-7",
+      "mediaType": "movie",
+      "title": "The Bride and I",
+      "awardYear": 1969,
+      "winner": "Pai Ching-jui",
+      "releaseDate": "1969",
+      "originalTitle": "新娘與我",
+      "externalIds": {
+        "imdb": "tt0182856"
+      }
+    },
+    {
+      "id": "golden-horse-1970-best-director-item-8",
+      "mediaType": "movie",
+      "title": "From the Highway",
+      "awardYear": 1970,
+      "winner": "Zhang Cengze",
+      "releaseDate": "1970",
+      "originalTitle": "路客與刀客",
+      "externalIds": {
+        "imdb": "tt0187252"
+      }
+    },
+    {
+      "id": "golden-horse-1971-best-director-item-9",
+      "mediaType": "movie",
+      "title": "The Ammunition Hunter",
+      "awardYear": 1971,
+      "winner": "Ting Shan-hsi",
+      "releaseDate": "1971",
+      "originalTitle": "落鷹峽",
+      "externalIds": {
+        "imdb": "tt1746585"
+      }
+    },
+    {
+      "id": "golden-horse-1972-best-director-item-10",
+      "mediaType": "movie",
+      "title": "추결",
+      "awardYear": 1972,
+      "winner": "Li Hsing",
+      "releaseDate": "1972",
+      "originalTitle": "秋決",
+      "externalIds": {
+        "imdb": "tt1033618"
+      }
+    },
+    {
+      "id": "golden-horse-1973-best-director-item-11",
+      "mediaType": "movie",
+      "title": "14인의 여걸",
+      "awardYear": 1973,
+      "winner": "Cheng Gang",
+      "releaseDate": "1973",
+      "originalTitle": "十四女英豪",
+      "externalIds": {
+        "imdb": "tt0187499"
+      }
+    },
+    {
+      "id": "golden-horse-1975-best-director-item-12",
+      "mediaType": "movie",
+      "title": "Long Way from Home",
+      "awardYear": 1975,
+      "winner": "Liu Yi",
+      "releaseDate": "1975",
+      "originalTitle": "長情萬縷",
+      "externalIds": {
+        "imdb": "tt1440148"
+      }
+    },
+    {
+      "id": "golden-horse-1976-best-director-item-13",
+      "mediaType": "movie",
+      "title": "The Venturer",
+      "awardYear": 1976,
+      "winner": "Zhang Pei Cheng",
+      "releaseDate": "1976",
+      "originalTitle": "狼牙口",
+      "externalIds": {
+        "imdb": "tt1399203"
+      }
+    },
+    {
+      "id": "golden-horse-1977-best-director-tt0184567",
+      "mediaType": "movie",
+      "title": "Heroes of the Eastern Skies",
+      "awardYear": 1977,
+      "winner": "Zhang Cengze",
+      "releaseDate": "1977",
+      "externalIds": {
+        "imdb": "tt0184567"
+      },
+      "originalTitle": "筧橋英烈傳"
+    },
+    {
+      "id": "golden-horse-1978-best-director-tt0079277",
+      "mediaType": "movie",
+      "title": "He Never Gives Up",
+      "awardYear": 1978,
+      "winner": "Li Hsing",
+      "releaseDate": "1978",
+      "externalIds": {
+        "imdb": "tt0079277"
+      },
+      "originalTitle": "汪洋中的一條船"
+    },
+    {
+      "id": "golden-horse-1979-best-director-item-16",
+      "mediaType": "movie",
+      "title": "산중전기",
+      "awardYear": 1979,
+      "winner": "King Hu",
+      "releaseDate": "1979",
+      "originalTitle": "山中傳奇",
+      "externalIds": {
+        "imdb": "tt0079886"
+      }
+    },
+    {
+      "id": "golden-horse-1980-best-director-tt1220568",
+      "mediaType": "movie",
+      "title": "The Legend of the Six Dynasty",
+      "awardYear": 1980,
+      "winner": "Wang Ju Jin",
+      "releaseDate": "1980",
+      "externalIds": {
+        "imdb": "tt1220568"
+      },
+      "originalTitle": "六朝怪談"
+    },
+    {
+      "id": "golden-horse-1981-best-director-item-18",
+      "mediaType": "movie",
+      "title": "귀마지다성",
+      "awardYear": 1981,
+      "winner": "Tsui Hark",
+      "releaseDate": "1981",
+      "originalTitle": "鬼馬智多星",
+      "externalIds": {
+        "imdb": "tt0082485"
+      }
+    },
+    {
+      "id": "golden-horse-1982-best-director-tt0185188",
+      "mediaType": "movie",
+      "title": "변연인",
+      "awardYear": 1982,
+      "winner": "Zhang Guo Ming",
+      "releaseDate": "1982",
+      "externalIds": {
+        "imdb": "tt0185188"
+      },
+      "originalTitle": "邊緣人"
+    },
+    {
+      "id": "golden-horse-1983-best-director-item-20",
+      "mediaType": "movie",
+      "title": "샤오피 이야기",
+      "awardYear": 1983,
+      "winner": "Chen Kun Hou",
+      "releaseDate": "1983",
+      "originalTitle": "小畢的故事",
+      "externalIds": {
+        "imdb": "tt0085695"
+      }
+    },
+    {
+      "id": "golden-horse-1984-best-director-item-21",
+      "mediaType": "movie",
+      "title": "성항기병",
+      "awardYear": 1984,
+      "winner": "Johnny Mak",
+      "releaseDate": "1984",
+      "originalTitle": "省港旗兵",
+      "externalIds": {
+        "imdb": "tt0088107"
+      }
+    },
+    {
+      "id": "golden-horse-1985-best-director-item-22",
+      "mediaType": "movie",
+      "title": "계미: 어느 여인의 일생",
+      "awardYear": 1985,
+      "winner": "Zhang Yi",
+      "releaseDate": "1985",
+      "originalTitle": "我這樣過了一生",
+      "externalIds": {
+        "imdb": "tt0092231"
+      }
+    },
+    {
+      "id": "golden-horse-1986-best-director-item-23",
+      "mediaType": "movie",
+      "title": "영웅본색",
+      "awardYear": 1986,
+      "winner": "John Woo",
+      "releaseDate": "1986",
+      "originalTitle": "英雄本色",
+      "externalIds": {
+        "imdb": "tt0092263"
+      }
+    },
+    {
+      "id": "golden-horse-1987-best-director-tt0092829",
+      "mediaType": "movie",
+      "title": "허수아비",
+      "awardYear": 1987,
+      "winner": "Wang Toon",
+      "releaseDate": "1987",
+      "externalIds": {
+        "imdb": "tt0092829"
+      },
+      "originalTitle": "稻草人"
+    },
+    {
+      "id": "golden-horse-1988-best-director-tt0095937",
+      "mediaType": "movie",
+      "title": "칠소복",
+      "awardYear": 1988,
+      "winner": "Alex Law",
+      "releaseDate": "1988",
+      "externalIds": {
+        "imdb": "tt0095937"
+      },
+      "originalTitle": "七小福"
+    },
+    {
+      "id": "golden-horse-1989-best-director-item-26",
+      "mediaType": "movie",
+      "title": "비정성시",
+      "awardYear": 1989,
+      "winner": "Hou Hsiao-hsien",
+      "releaseDate": "1989",
+      "originalTitle": "悲情城市",
+      "externalIds": {
+        "imdb": "tt0096908"
+      }
+    },
+    {
+      "id": "golden-horse-1990-best-director-tt0099719",
+      "mediaType": "movie",
+      "title": "홍진",
+      "awardYear": 1990,
+      "winner": "Yim Ho",
+      "releaseDate": "1990",
+      "externalIds": {
+        "imdb": "tt0099719"
+      },
+      "originalTitle": "滾滾紅塵"
+    },
+    {
+      "id": "golden-horse-1991-best-director-item-28",
+      "mediaType": "movie",
+      "title": "아비정전",
+      "awardYear": 1991,
+      "winner": "Wong Kar-wai",
+      "releaseDate": "1991",
+      "originalTitle": "阿飛正傳",
+      "externalIds": {
+        "imdb": "tt0101258"
+      }
+    },
+    {
+      "id": "golden-horse-1992-best-director-item-29",
+      "mediaType": "movie",
+      "title": "돌아올 수 없는 언덕",
+      "awardYear": 1992,
+      "winner": "Wang Toon",
+      "releaseDate": "1992",
+      "originalTitle": "無言的山丘",
+      "externalIds": {
+        "imdb": "tt0108602"
+      }
+    },
+    {
+      "id": "golden-horse-1993-best-director-item-30",
+      "mediaType": "movie",
+      "title": "결혼 피로연",
+      "awardYear": 1993,
+      "winner": "Ang Lee",
+      "releaseDate": "1993",
+      "originalTitle": "囍宴",
+      "externalIds": {
+        "imdb": "tt0107156"
+      }
+    },
+    {
+      "id": "golden-horse-1994-best-director-item-31",
+      "mediaType": "movie",
+      "title": "애정만세",
+      "awardYear": 1994,
+      "winner": "Tsai Ming-liang",
+      "releaseDate": "1994",
+      "originalTitle": "愛情萬歲",
+      "externalIds": {
+        "imdb": "tt0109066"
+      }
+    },
+    {
+      "id": "golden-horse-1995-best-director-tt0113256",
+      "mediaType": "movie",
+      "title": "호남호녀",
+      "awardYear": 1995,
+      "winner": "Hou Hsiao-hsien",
+      "releaseDate": "1995",
+      "externalIds": {
+        "imdb": "tt0113256"
+      },
+      "originalTitle": "好男好女"
+    },
+    {
+      "id": "golden-horse-1996-best-director-item-33",
+      "mediaType": "movie",
+      "title": "햇빛 쏟아지던 날들",
+      "awardYear": 1996,
+      "winner": "Jiang Wen",
+      "releaseDate": "1996",
+      "originalTitle": "陽光燦爛的日子",
+      "externalIds": {
+        "imdb": "tt0111786"
+      }
+    },
+    {
+      "id": "golden-horse-1997-best-director-tt0123328",
+      "mediaType": "movie",
+      "title": "메이드 인 홍콩",
+      "awardYear": 1997,
+      "winner": "Fruit Chan",
+      "releaseDate": "1997",
+      "externalIds": {
+        "imdb": "tt0123328"
+      },
+      "originalTitle": "香港製造"
+    },
+    {
+      "id": "golden-horse-1998-best-director-tt0115005",
+      "mediaType": "movie",
+      "title": "천욕",
+      "awardYear": 1998,
+      "winner": "Joan Chen",
+      "releaseDate": "1998",
+      "externalIds": {
+        "imdb": "tt0115005"
+      },
+      "originalTitle": "天浴"
+    },
+    {
+      "id": "golden-horse-1999-best-director-item-36",
+      "mediaType": "movie",
+      "title": "Ordinary Heroes",
+      "awardYear": 1999,
+      "winner": "Ann Hui",
+      "releaseDate": "1999",
+      "originalTitle": "千言萬語",
+      "externalIds": {
+        "imdb": "tt0189954"
+      }
+    },
+    {
+      "id": "golden-horse-2000-best-director-tt0220644",
+      "mediaType": "movie",
+      "title": "미션",
+      "awardYear": 2000,
+      "winner": "Johnnie To",
+      "releaseDate": "2000",
+      "externalIds": {
+        "imdb": "tt0220644"
+      },
+      "originalTitle": "鎗火"
+    },
+    {
+      "id": "golden-horse-2001-best-director-item-38",
+      "mediaType": "movie",
+      "title": "란유",
+      "awardYear": 2001,
+      "winner": "Stanley Kwan",
+      "releaseDate": "2001",
+      "originalTitle": "藍宇",
+      "externalIds": {
+        "imdb": "tt0292066"
+      }
+    },
+    {
+      "id": "golden-horse-2002-best-director-item-39",
+      "mediaType": "movie",
+      "title": "할리우드 홍콩",
+      "awardYear": 2002,
+      "winner": "Fruit Chan",
+      "releaseDate": "2002",
+      "originalTitle": "香港有個荷里活",
+      "externalIds": {
+        "imdb": "tt0290654"
+      }
+    },
+    {
+      "id": "golden-horse-2003-best-director-item-40",
+      "mediaType": "movie",
+      "title": "무간도",
+      "awardYear": 2003,
+      "winner": "Andrew Lau & Alan Mak",
+      "releaseDate": "2003",
+      "originalTitle": "無間道",
+      "externalIds": {
+        "imdb": "tt0338564"
+      }
+    },
+    {
+      "id": "golden-horse-2004-best-director-item-41",
+      "mediaType": "movie",
+      "title": "대사건",
+      "awardYear": 2004,
+      "winner": "Johnnie To",
+      "releaseDate": "2004",
+      "originalTitle": "大事件",
+      "externalIds": {
+        "imdb": "tt0414931"
+      }
+    },
+    {
+      "id": "golden-horse-2005-best-director-item-42",
+      "mediaType": "movie",
+      "title": "쿵푸 허슬",
+      "awardYear": 2005,
+      "winner": "Stephen Chow",
+      "releaseDate": "2005",
+      "originalTitle": "功夫",
+      "externalIds": {
+        "imdb": "tt0373074"
+      }
+    },
+    {
+      "id": "golden-horse-2006-best-director-item-43",
+      "mediaType": "movie",
+      "title": "퍼햅스 러브",
+      "awardYear": 2006,
+      "winner": "Peter Chan",
+      "releaseDate": "2006",
+      "originalTitle": "如果·愛",
+      "externalIds": {
+        "imdb": "tt0454914"
+      }
+    },
+    {
+      "id": "golden-horse-2007-best-director-item-44",
+      "mediaType": "movie",
+      "title": "색, 계",
+      "awardYear": 2007,
+      "winner": "Ang Lee",
+      "releaseDate": "2007",
+      "originalTitle": "色，戒",
+      "externalIds": {
+        "imdb": "tt0808357"
+      }
+    },
+    {
+      "id": "golden-horse-2008-best-director-item-45",
+      "mediaType": "movie",
+      "title": "명장",
+      "awardYear": 2008,
+      "winner": "Peter Chan",
+      "releaseDate": "2008",
+      "originalTitle": "投名狀",
+      "externalIds": {
+        "imdb": "tt0913968"
+      }
+    },
+    {
+      "id": "golden-horse-2009-best-director-item-46",
+      "mediaType": "movie",
+      "title": "너 없인 살 수 없어",
+      "awardYear": 2009,
+      "winner": "Dai Li Ren",
+      "releaseDate": "2009",
+      "originalTitle": "不能沒有你",
+      "externalIds": {
+        "imdb": "tt1456584"
+      }
+    },
+    {
+      "id": "golden-horse-2010-best-director-item-47",
+      "mediaType": "movie",
+      "title": "네 번째 초상화",
+      "awardYear": 2010,
+      "winner": "Chung Mong-hong",
+      "releaseDate": "2010",
+      "originalTitle": "第四張畫",
+      "externalIds": {
+        "imdb": "tt1703914"
+      }
+    },
+    {
+      "id": "golden-horse-2011-best-director-item-48",
+      "mediaType": "movie",
+      "title": "심플 라이프",
+      "awardYear": 2011,
+      "winner": "Ann Hui",
+      "releaseDate": "2011",
+      "originalTitle": "桃姐",
+      "externalIds": {
+        "imdb": "tt2008006"
+      }
+    },
+    {
+      "id": "golden-horse-2012-best-director-item-49",
+      "mediaType": "movie",
+      "title": "탈명금",
+      "awardYear": 2012,
+      "winner": "Johnnie To",
+      "releaseDate": "2012",
+      "originalTitle": "奪命金",
+      "externalIds": {
+        "imdb": "tt1371585"
+      }
+    },
+    {
+      "id": "golden-horse-2013-best-director-item-50",
+      "mediaType": "movie",
+      "title": "떠돌이 개",
+      "awardYear": 2013,
+      "winner": "Tsai Ming-liang",
+      "releaseDate": "2013",
+      "originalTitle": "郊遊",
+      "externalIds": {
+        "imdb": "tt3119416"
+      }
+    },
+    {
+      "id": "golden-horse-2014-best-director-item-51",
+      "mediaType": "movie",
+      "title": "황금시대",
+      "awardYear": 2014,
+      "winner": "Ann Hui",
+      "releaseDate": "2014",
+      "originalTitle": "黃金時代",
+      "externalIds": {
+        "imdb": "tt3696086"
+      }
+    },
+    {
+      "id": "golden-horse-2015-best-director-item-52",
+      "mediaType": "movie",
+      "title": "자객 섭은낭",
+      "awardYear": 2015,
+      "winner": "Hou Hsiao-hsien",
+      "releaseDate": "2015",
+      "originalTitle": "刺客聶隱娘",
+      "externalIds": {
+        "imdb": "tt3508840"
+      }
+    },
+    {
+      "id": "golden-horse-2016-best-director-tt5918090",
+      "mediaType": "movie",
+      "title": "나는 반금련이 아니다",
+      "awardYear": 2016,
+      "winner": "Feng Xiaogang",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5918090"
+      },
+      "originalTitle": "我不是潘金蓮"
+    },
+    {
+      "id": "golden-horse-2017-best-director-tt7205208",
+      "mediaType": "movie",
+      "title": "천사는 흰 옷을 입는다",
+      "awardYear": 2017,
+      "winner": "Wen Yan",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7205208"
+      },
+      "originalTitle": "嘉年華"
+    },
+    {
+      "id": "golden-horse-2018-best-director-tt6864046",
+      "mediaType": "movie",
+      "title": "삼국: 무영자",
+      "awardYear": 2018,
+      "winner": "Zhang Yimou",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt6864046"
+      },
+      "originalTitle": "影"
+    },
+    {
+      "id": "golden-horse-2019-best-director-tt10883506",
+      "mediaType": "movie",
+      "title": "아호, 나의 아들",
+      "awardYear": 2019,
+      "winner": "Chung Mong-hong",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10883506"
+      },
+      "originalTitle": "陽光普照"
+    },
+    {
+      "id": "golden-horse-2020-best-director-tt13105824",
+      "mediaType": "movie",
+      "title": "마이 미씽 발렌타인",
+      "awardYear": 2020,
+      "winner": "Chen Yu-hsun",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt13105824"
+      },
+      "originalTitle": "消失的情人節"
+    },
+    {
+      "id": "golden-horse-2021-best-director-tt15575176",
+      "mediaType": "movie",
+      "title": "Drifting Petals",
+      "awardYear": 2021,
+      "winner": "Clara Law",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt15575176"
+      },
+      "originalTitle": "花果飄零"
+    },
+    {
+      "id": "golden-horse-2022-best-director-tt22370990",
+      "mediaType": "movie",
+      "title": "가가",
+      "awardYear": 2022,
+      "winner": "Laha Mebow",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt22370990"
+      },
+      "originalTitle": "哈勇家"
+    },
+    {
+      "id": "golden-horse-2023-best-director-tt29452517",
+      "mediaType": "movie",
+      "title": "여우 아저씨",
+      "awardYear": 2023,
+      "winner": "Xiao Ya Quan",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt29452517"
+      },
+      "originalTitle": "老狐狸"
+    },
+    {
+      "id": "golden-horse-2024-best-director-tt32186579",
+      "mediaType": "movie",
+      "title": "끝나지 않은 영화",
+      "awardYear": 2024,
+      "winner": "Lou Ye",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt32186579"
+      },
+      "originalTitle": "一部未完成的電影"
+    },
+    {
+      "id": "golden-horse-2025-best-director-tt35453155",
+      "mediaType": "movie",
+      "title": "퀴어파노라마",
+      "awardYear": 2025,
+      "winner": "Jun Li",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt35453155"
+      },
+      "originalTitle": "眾生相"
+    }
+  ],
+  "tags": [
+    "award",
+    "taipei",
+    "prize"
+  ]
+}

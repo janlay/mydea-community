@@ -1,0 +1,168 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "title": "戛纳 — 金摄影机特别提及",
+  "author": "Mydea",
+  "updatedAt": "2026-09-16T04:43:24Z",
+  "description": "戛纳电影节金摄影机历届奖项。 金摄影机特别提及.",
+  "tags": [
+    "award",
+    "cannes",
+    "prize"
+  ],
+  "items": [
+    {
+      "id": "cannes-camera-special-1989-the-birth",
+      "mediaType": "movie",
+      "title": "The Birth",
+      "awardYear": 1989,
+      "winner": "Shaji N. Karun"
+    },
+    {
+      "id": "cannes-camera-special-1989-waller-s-last-trip",
+      "mediaType": "movie",
+      "title": "Waller's Last Trip",
+      "awardYear": 1989,
+      "winner": "Christian Wagner"
+    },
+    {
+      "id": "cannes-camera-special-1990-farendj",
+      "mediaType": "movie",
+      "title": "Farendj",
+      "awardYear": 1990,
+      "winner": "Sabine Prenczina"
+    },
+    {
+      "id": "cannes-camera-special-1990-time-of-the-servants",
+      "mediaType": "movie",
+      "title": "Time of the Servants",
+      "awardYear": 1990,
+      "winner": "Irena Pavlásková"
+    },
+    {
+      "id": "cannes-camera-special-1991-proof",
+      "mediaType": "movie",
+      "title": "Proof",
+      "awardYear": 1991,
+      "winner": "Jocelyn Moorhouse"
+    },
+    {
+      "id": "cannes-camera-special-1991-sam-me",
+      "mediaType": "movie",
+      "title": "Sam & Me",
+      "awardYear": 1991,
+      "winner": "Deepa Mehta"
+    },
+    {
+      "id": "cannes-camera-special-1993-friends",
+      "mediaType": "movie",
+      "title": "Friends",
+      "awardYear": 1993,
+      "winner": "Elaine Proctor"
+    },
+    {
+      "id": "cannes-camera-special-1994-the-silences-of-the-palace",
+      "mediaType": "movie",
+      "title": "The Silences of the Palace",
+      "awardYear": 1994,
+      "winner": "Moufida Tlatli"
+    },
+    {
+      "id": "cannes-camera-special-1995-denise-calls-up",
+      "mediaType": "movie",
+      "title": "Denise Calls Up",
+      "awardYear": 1995,
+      "winner": "Hal Salwen"
+    },
+    {
+      "id": "cannes-camera-special-1997-the-life-of-jesus",
+      "mediaType": "movie",
+      "title": "The Life of Jesus",
+      "awardYear": 1997,
+      "winner": "Bruno Dumont"
+    },
+    {
+      "id": "cannes-camera-special-2002-japon",
+      "mediaType": "movie",
+      "title": "Japón",
+      "awardYear": 2002,
+      "winner": "Carlos Reygadas"
+    },
+    {
+      "id": "cannes-camera-special-2003-osama",
+      "mediaType": "movie",
+      "title": "Osama",
+      "awardYear": 2003,
+      "winner": "Siddiq Barmak"
+    },
+    {
+      "id": "cannes-camera-special-2004-bitter-dream",
+      "mediaType": "movie",
+      "title": "Bitter Dream",
+      "awardYear": 2004,
+      "winner": "Mohsen Amiryoussefi"
+    },
+    {
+      "id": "cannes-camera-special-2004-passages",
+      "mediaType": "movie",
+      "title": "Passages",
+      "awardYear": 2004,
+      "winner": "Yang Chao"
+    },
+    {
+      "id": "cannes-camera-special-2007-control",
+      "mediaType": "movie",
+      "title": "Control",
+      "awardYear": 2007,
+      "winner": "Anton Corbijn"
+    },
+    {
+      "id": "cannes-camera-special-2008-everybody-dies-but-me",
+      "mediaType": "movie",
+      "title": "Everybody Dies but Me",
+      "awardYear": 2008,
+      "winner": "Valeriya Gai Germanika"
+    },
+    {
+      "id": "cannes-camera-special-2009-ajami",
+      "mediaType": "movie",
+      "title": "Ajami",
+      "awardYear": 2009,
+      "winner": "Scandar Copti & Yaron Shani"
+    },
+    {
+      "id": "cannes-camera-special-2022-plan-75",
+      "mediaType": "movie",
+      "title": "岁月自珍",
+      "awardYear": 2022,
+      "winner": "Chie Hayakawa",
+      "externalIds": {
+        "imdb": "tt19719904",
+        "letterboxd": "plan-75"
+      },
+      "releaseDate": "2022"
+    },
+    {
+      "id": "cannes-camera-special-2024-mongrel",
+      "mediaType": "movie",
+      "title": "白衣苍狗",
+      "awardYear": 2024,
+      "winner": "Wei Liang Chiang & You Qiao Yin",
+      "externalIds": {
+        "imdb": "tt11101808"
+      },
+      "releaseDate": "2024"
+    },
+    {
+      "id": "cannes-camera-special-2025-my-father-s-shadow",
+      "mediaType": "movie",
+      "title": "父影之下",
+      "awardYear": 2025,
+      "winner": "Akinola Davies Jr.",
+      "externalIds": {
+        "imdb": "tt35695538"
+      },
+      "releaseDate": "2025"
+    }
+  ]
+}

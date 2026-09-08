@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-22T08:41:11Z",
+  "cacheTtlInDays": 365,
+  "title": "2017년 금마장 주요 부문 수상작",
+  "description": "2017년 금마장 주요 부문 수상작과 수상자.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "golden-horse-2017-best-feature-tt7479784",
+      "mediaType": "movie",
+      "title": "대담하거나, 타락하거나, 아름다운",
+      "award": "최우수 작품상",
+      "awardYear": 2017,
+      "winner": "Yang Ya-che",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7479784"
+      },
+      "awardOrder": 1,
+      "originalTitle": "血觀音"
+    },
+    {
+      "id": "golden-horse-2017-best-director-tt7205208",
+      "mediaType": "movie",
+      "title": "천사는 흰 옷을 입는다",
+      "award": "감독상",
+      "awardYear": 2017,
+      "winner": "Wen Yan",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7205208"
+      },
+      "awardOrder": 2,
+      "originalTitle": "嘉年華"
+    },
+    {
+      "id": "golden-horse-2017-best-actor-tt7481246",
+      "mediaType": "movie",
+      "title": "Old Beast",
+      "award": "남우주연상",
+      "awardYear": 2017,
+      "winner": "Tu Men",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7481246"
+      },
+      "awardOrder": 3,
+      "originalTitle": "老獸"
+    },
+    {
+      "id": "golden-horse-2017-best-actress-tt7479784",
+      "mediaType": "movie",
+      "title": "대담하거나, 타락하거나, 아름다운",
+      "award": "여우주연상",
+      "awardYear": 2017,
+      "winner": "Kara Wai",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7479784"
+      },
+      "awardOrder": 4,
+      "originalTitle": "血觀音"
+    },
+    {
+      "id": "golden-horse-2017-best-supporting-actor-tt7491398",
+      "mediaType": "movie",
+      "title": "Alifu, the Prince/ss",
+      "award": "남우조연상",
+      "awardYear": 2017,
+      "winner": "Chen Zhusheng",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7491398"
+      },
+      "awardOrder": 5,
+      "originalTitle": "阿莉芙"
+    },
+    {
+      "id": "golden-horse-2017-best-supporting-actress-tt7479784",
+      "mediaType": "movie",
+      "title": "대담하거나, 타락하거나, 아름다운",
+      "award": "여우조연상",
+      "awardYear": 2017,
+      "winner": "Vicky Chen",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7479784"
+      },
+      "awardOrder": 6,
+      "originalTitle": "血觀音"
+    },
+    {
+      "id": "golden-horse-2017-best-new-director-tt7010412",
+      "mediaType": "movie",
+      "title": "대불+",
+      "award": "신인감독상",
+      "awardYear": 2017,
+      "winner": "Huang Hsin-yao",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7010412"
+      },
+      "awardOrder": 7,
+      "originalTitle": "大佛普拉斯"
+    },
+    {
+      "id": "golden-horse-2017-best-new-performer-tt7010456",
+      "mediaType": "movie",
+      "title": "조니를 찾아서",
+      "award": "신인배우상",
+      "awardYear": 2017,
+      "winner": "Rima Zeidan",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7010456"
+      },
+      "awardOrder": 8,
+      "originalTitle": "強尼．凱克"
+    }
+  ],
+  "tags": [
+    "award",
+    "taipei",
+    "decade"
+  ]
+}

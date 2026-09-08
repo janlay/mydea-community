@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "title": "カンヌ — ラ・シネフ",
+  "author": "Mydea",
+  "updatedAt": "2026-09-16T04:43:24Z",
+  "description": "カンヌ国際映画祭Cinéfondation／La Cinefの歴代受賞作。",
+  "tags": [
+    "award",
+    "cannes",
+    "prize"
+  ],
+  "icon": "ticket",
+  "sections": [
+    {
+      "title": "カンヌ — ラ・シネフ第1賞",
+      "description": "カンヌ国際映画祭Cinéfondation／La Cinefの歴代受賞作。 ラ・シネフ第1賞.",
+      "layout": "carousel",
+      "limit": 10,
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "cannes-la-cinef-first-prize.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "カンヌ — ラ・シネフ第2賞",
+      "description": "カンヌ国際映画祭Cinéfondation／La Cinefの歴代受賞作。 ラ・シネフ第2賞.",
+      "layout": "grid",
+      "limit": 10,
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "cannes-la-cinef-second-prize.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "カンヌ — ラ・シネフ第3賞",
+      "description": "カンヌ国際映画祭Cinéfondation／La Cinefの歴代受賞作。 ラ・シネフ第3賞.",
+      "layout": "grid",
+      "limit": 10,
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "cannes-la-cinef-third-prize.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    }
+  ]
+}

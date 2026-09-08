@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-22T08:41:11Z",
+  "cacheTtlInDays": 365,
+  "title": "Golden Horse Awards 2017 Core Award Winners",
+  "description": "Core award-winning films and filmmakers from the 2017 Golden Horse Awards.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "golden-horse-2017-best-feature-tt7479784",
+      "mediaType": "movie",
+      "title": "The Bold, the Corrupt, and the Beautiful",
+      "award": "Best Narrative Feature",
+      "awardYear": 2017,
+      "winner": "Yang Ya-che",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7479784"
+      },
+      "awardOrder": 1,
+      "originalTitle": "血觀音"
+    },
+    {
+      "id": "golden-horse-2017-best-director-tt7205208",
+      "mediaType": "movie",
+      "title": "Angels Wear White",
+      "award": "Best Director",
+      "awardYear": 2017,
+      "winner": "Wen Yan",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7205208"
+      },
+      "awardOrder": 2,
+      "originalTitle": "嘉年華"
+    },
+    {
+      "id": "golden-horse-2017-best-actor-tt7481246",
+      "mediaType": "movie",
+      "title": "Old Beast",
+      "award": "Best Leading Actor",
+      "awardYear": 2017,
+      "winner": "Tu Men",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7481246"
+      },
+      "awardOrder": 3,
+      "originalTitle": "老獸"
+    },
+    {
+      "id": "golden-horse-2017-best-actress-tt7479784",
+      "mediaType": "movie",
+      "title": "The Bold, the Corrupt, and the Beautiful",
+      "award": "Best Leading Actress",
+      "awardYear": 2017,
+      "winner": "Kara Wai",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7479784"
+      },
+      "awardOrder": 4,
+      "originalTitle": "血觀音"
+    },
+    {
+      "id": "golden-horse-2017-best-supporting-actor-tt7491398",
+      "mediaType": "movie",
+      "title": "Alifu, the Prince/ss",
+      "award": "Best Supporting Actor",
+      "awardYear": 2017,
+      "winner": "Chen Zhusheng",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7491398"
+      },
+      "awardOrder": 5,
+      "originalTitle": "阿莉芙"
+    },
+    {
+      "id": "golden-horse-2017-best-supporting-actress-tt7479784",
+      "mediaType": "movie",
+      "title": "The Bold, the Corrupt, and the Beautiful",
+      "award": "Best Supporting Actress",
+      "awardYear": 2017,
+      "winner": "Vicky Chen",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7479784"
+      },
+      "awardOrder": 6,
+      "originalTitle": "血觀音"
+    },
+    {
+      "id": "golden-horse-2017-best-new-director-tt7010412",
+      "mediaType": "movie",
+      "title": "The Great Buddha+",
+      "award": "Best New Director",
+      "awardYear": 2017,
+      "winner": "Huang Hsin-yao",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7010412"
+      },
+      "awardOrder": 7,
+      "originalTitle": "大佛普拉斯"
+    },
+    {
+      "id": "golden-horse-2017-best-new-performer-tt7010456",
+      "mediaType": "movie",
+      "title": "Missing Johnny",
+      "award": "Best New Performer",
+      "awardYear": 2017,
+      "winner": "Rima Zeidan",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7010456"
+      },
+      "awardOrder": 8,
+      "originalTitle": "強尼．凱克"
+    }
+  ],
+  "tags": [
+    "award",
+    "taipei",
+    "decade"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "金球獎 2017",
+  "description": "2017 金球獎電視作品類獲獎名單。",
+  "items": [
+    {
+      "id": "golden-globes-2017-tv_drama-the-crown",
+      "mediaType": "tv",
+      "title": "王冠",
+      "englishTitle": "The Crown",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4786824"
+      },
+      "award": "最佳劇情類影集",
+      "awardYear": 2017,
+      "awardOrder": 1,
+      "winner": "王冠"
+    },
+    {
+      "id": "golden-globes-2017-tv_comedy-atlanta",
+      "mediaType": "tv",
+      "title": "亞特蘭大",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4288182"
+      },
+      "award": "最佳音樂或喜劇類影集",
+      "awardYear": 2017,
+      "awardOrder": 2,
+      "winner": "Atlanta"
+    },
+    {
+      "id": "golden-globes-2017-limited-the-people-v-o-j-simpson-american-crime-story",
+      "mediaType": "tv",
+      "title": "美國犯罪故事",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt2788432"
+      },
+      "award": "最佳有限影集、選集影集或電視電影",
+      "awardYear": 2017,
+      "awardOrder": 3,
+      "winner": "The People v. O. J. Simpson: American Crime Story"
+    }
+  ]
+}

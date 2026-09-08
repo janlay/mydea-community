@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T02:58:14Z",
+  "title": "百想芸術大賞 — 2019",
+  "description": "2019年の百想芸術大賞における映画部門の受賞作品。",
+  "items": [
+    {
+      "id": "baeksang-2019-film-grand-innocent-witness",
+      "mediaType": "movie",
+      "title": "無垢なる証人",
+      "originalTitle": "증인",
+      "award": "映画部門 大賞",
+      "awardYear": 2019,
+      "awardOrder": 1,
+      "winner": "チョン・ウソン",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt8562562"
+      }
+    },
+    {
+      "id": "baeksang-2019-film-best-spy-north",
+      "mediaType": "movie",
+      "title": "工作 黒金星（ブラック・ヴィーナス）と呼ばれた男",
+      "originalTitle": "공작",
+      "award": "映画部門 作品賞",
+      "awardYear": 2019,
+      "awardOrder": 2,
+      "winner": "工作 黒金星と呼ばれた男",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8290698"
+      }
+    },
+    {
+      "id": "baeksang-2019-film-director-swing-kids",
+      "mediaType": "movie",
+      "title": "スウィング・キッズ",
+      "originalTitle": "스윙키즈",
+      "award": "映画部門 監督賞",
+      "awardYear": 2019,
+      "awardOrder": 3,
+      "winner": "カン・ヒョンチョル",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7046974"
+      }
+    },
+    {
+      "id": "baeksang-2019-film-actor-spy-north",
+      "mediaType": "movie",
+      "title": "工作 黒金星（ブラック・ヴィーナス）と呼ばれた男",
+      "originalTitle": "공작",
+      "award": "映画部門 男性最優秀演技賞",
+      "awardYear": 2019,
+      "awardOrder": 4,
+      "winner": "イ・ソンミン",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8290698"
+      }
+    },
+    {
+      "id": "baeksang-2019-film-actress-miss-baek",
+      "mediaType": "movie",
+      "title": "虐待の証明",
+      "originalTitle": "미쓰백",
+      "award": "映画部門 女性最優秀演技賞",
+      "awardYear": 2019,
+      "awardOrder": 5,
+      "winner": "ハン・ジミン",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt6479534"
+      }
+    }
+  ]
+}

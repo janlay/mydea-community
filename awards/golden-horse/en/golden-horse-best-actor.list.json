@@ -1,0 +1,782 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-22T08:41:11Z",
+  "title": "Golden Horse Awards — Best Leading Actor",
+  "description": "Complete historical winners of the Golden Horse Award for Best Leading Actor, from the category’s first presentation through 2025.",
+  "cacheTtlInDays": 365,
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "golden-horse-1962-best-actor-item-1",
+      "mediaType": "movie",
+      "title": "The Pistol",
+      "awardYear": 1962,
+      "winner": "Wang Yin",
+      "releaseDate": "1962",
+      "originalTitle": "手槍",
+      "externalIds": {
+        "imdb": "tt0055303"
+      }
+    },
+    {
+      "id": "golden-horse-1963-best-actor-item-2",
+      "mediaType": "movie",
+      "title": "Dark Night to Dawn",
+      "awardYear": 1963,
+      "winner": "Tang Ching",
+      "releaseDate": "1963",
+      "originalTitle": "黑夜到黎明",
+      "externalIds": {
+        "imdb": "tt4564538"
+      }
+    },
+    {
+      "id": "golden-horse-1965-best-actor-tt1345532",
+      "mediaType": "movie",
+      "title": "Beautiful Duckling",
+      "awardYear": 1965,
+      "winner": "Ko Hsiang-ting",
+      "releaseDate": "1965",
+      "externalIds": {
+        "imdb": "tt1345532"
+      },
+      "originalTitle": "養鴨人家"
+    },
+    {
+      "id": "golden-horse-1966-best-actor-tt0311305",
+      "mediaType": "movie",
+      "title": "Hsi-Shih, Beauty of Beauties",
+      "awardYear": 1966,
+      "winner": "Zhao Lei",
+      "releaseDate": "1966",
+      "externalIds": {
+        "imdb": "tt0311305"
+      },
+      "originalTitle": "西施"
+    },
+    {
+      "id": "golden-horse-1967-best-actor-item-5",
+      "mediaType": "movie",
+      "title": "Hometown Robbery",
+      "awardYear": 1967,
+      "winner": "Ou Wei",
+      "releaseDate": "1967",
+      "originalTitle": "故鄉劫",
+      "externalIds": {
+        "imdb": "tt0193992"
+      }
+    },
+    {
+      "id": "golden-horse-1968-best-actor-tt7176712",
+      "mediaType": "movie",
+      "title": "The Road",
+      "awardYear": 1968,
+      "winner": "Tsui Fu-sheng",
+      "releaseDate": "1968",
+      "externalIds": {
+        "imdb": "tt7176712"
+      },
+      "originalTitle": "路"
+    },
+    {
+      "id": "golden-horse-1969-best-actor-item-7",
+      "mediaType": "movie",
+      "title": "Storm Over the Yangtze River",
+      "awardYear": 1969,
+      "winner": "Peter Yang",
+      "releaseDate": "1969",
+      "originalTitle": "揚子江風雲",
+      "externalIds": {
+        "imdb": "tt5592298"
+      }
+    },
+    {
+      "id": "golden-horse-1970-best-actor-item-8",
+      "mediaType": "movie",
+      "title": "The Evergreen Mountains",
+      "awardYear": 1970,
+      "winner": "Ko Hsiang-ting",
+      "releaseDate": "1970",
+      "originalTitle": "高山青",
+      "externalIds": {
+        "imdb": "tt1291184"
+      }
+    },
+    {
+      "id": "golden-horse-1971-best-actor-tt0067797",
+      "mediaType": "movie",
+      "title": "The Story of Ti-Ying",
+      "awardYear": 1971,
+      "winner": "Wang Yin",
+      "releaseDate": "1971",
+      "externalIds": {
+        "imdb": "tt0067797"
+      },
+      "originalTitle": "緹縈"
+    },
+    {
+      "id": "golden-horse-1972-best-actor-item-10",
+      "mediaType": "movie",
+      "title": "Execution in Autumn",
+      "awardYear": 1972,
+      "winner": "Ou Wei",
+      "releaseDate": "1972",
+      "originalTitle": "秋決",
+      "externalIds": {
+        "imdb": "tt1033618"
+      }
+    },
+    {
+      "id": "golden-horse-1973-best-actor-item-11",
+      "mediaType": "movie",
+      "title": "The Escape",
+      "awardYear": 1973,
+      "winner": "Peter Yang",
+      "releaseDate": "1973",
+      "originalTitle": "忍",
+      "externalIds": {
+        "imdb": "tt1427286"
+      }
+    },
+    {
+      "id": "golden-horse-1975-best-actor-item-12",
+      "mediaType": "movie",
+      "title": "Long Way from Home",
+      "awardYear": 1975,
+      "winner": "Charlie Chin",
+      "releaseDate": "1975",
+      "originalTitle": "長情萬縷",
+      "externalIds": {
+        "imdb": "tt1440148"
+      }
+    },
+    {
+      "id": "golden-horse-1976-best-actor-item-13",
+      "mediaType": "movie",
+      "title": "Fragrant Flower Versus Noxious Grass",
+      "awardYear": 1976,
+      "winner": "Chang Feng",
+      "releaseDate": "1976",
+      "originalTitle": "香花與毒草",
+      "externalIds": {
+        "tmdb": "937405"
+      }
+    },
+    {
+      "id": "golden-horse-1977-best-actor-item-14",
+      "mediaType": "movie",
+      "title": "Far Away from Home",
+      "awardYear": 1977,
+      "winner": "Charlie Chin",
+      "releaseDate": "1977",
+      "originalTitle": "人在天涯",
+      "externalIds": {
+        "imdb": "tt1205520"
+      }
+    },
+    {
+      "id": "golden-horse-1978-best-actor-tt0079277",
+      "mediaType": "movie",
+      "title": "He Never Gives Up",
+      "awardYear": 1978,
+      "winner": "Chin Han",
+      "releaseDate": "1978",
+      "externalIds": {
+        "imdb": "tt0079277"
+      },
+      "originalTitle": "汪洋中的一條船"
+    },
+    {
+      "id": "golden-horse-1979-best-actor-item-16",
+      "mediaType": "movie",
+      "title": "A Teacher of Great Soldiers",
+      "awardYear": 1979,
+      "winner": "Ko Chun-hsiung",
+      "releaseDate": "1979",
+      "originalTitle": "黃埔軍魂",
+      "externalIds": {
+        "imdb": "tt1483384"
+      }
+    },
+    {
+      "id": "golden-horse-1980-best-actor-item-17",
+      "mediaType": "movie",
+      "title": "White Jasmine",
+      "awardYear": 1980,
+      "winner": "Wang Kuan-hsiung",
+      "releaseDate": "1980",
+      "originalTitle": "茉莉花",
+      "externalIds": {
+        "imdb": "tt0121561"
+      }
+    },
+    {
+      "id": "golden-horse-1981-best-actor-tt0289112",
+      "mediaType": "movie",
+      "title": "If I Were for Real",
+      "awardYear": 1981,
+      "winner": "Alan Tam",
+      "releaseDate": "1981",
+      "externalIds": {
+        "imdb": "tt0289112"
+      },
+      "originalTitle": "假如我是真的"
+    },
+    {
+      "id": "golden-horse-1982-best-actor-tt0185188",
+      "mediaType": "movie",
+      "title": "Man on the Brink",
+      "awardYear": 1982,
+      "winner": "Eddie Chan",
+      "releaseDate": "1982",
+      "externalIds": {
+        "imdb": "tt0185188"
+      },
+      "originalTitle": "邊緣人"
+    },
+    {
+      "id": "golden-horse-1983-best-actor-item-20",
+      "mediaType": "movie",
+      "title": "Papa, Can You Hear Me Sing",
+      "awardYear": 1983,
+      "winner": "Sun Yueh",
+      "releaseDate": "1983",
+      "originalTitle": "搭錯車",
+      "externalIds": {
+        "imdb": "tt0085388"
+      }
+    },
+    {
+      "id": "golden-horse-1984-best-actor-item-21",
+      "mediaType": "movie",
+      "title": "Law with Two Phases",
+      "awardYear": 1984,
+      "winner": "Danny Lee",
+      "releaseDate": "1984",
+      "originalTitle": "公僕",
+      "externalIds": {
+        "imdb": "tt0087352"
+      }
+    },
+    {
+      "id": "golden-horse-1985-best-actor-item-22",
+      "mediaType": "movie",
+      "title": "Hong Kong 1941",
+      "awardYear": 1985,
+      "winner": "Chow Yun-fat",
+      "releaseDate": "1985",
+      "originalTitle": "等待黎明",
+      "externalIds": {
+        "imdb": "tt0087137"
+      }
+    },
+    {
+      "id": "golden-horse-1986-best-actor-item-23",
+      "mediaType": "movie",
+      "title": "A Better Tomorrow",
+      "awardYear": 1986,
+      "winner": "Ti Lung",
+      "releaseDate": "1986",
+      "originalTitle": "英雄本色",
+      "externalIds": {
+        "imdb": "tt0092263"
+      }
+    },
+    {
+      "id": "golden-horse-1987-best-actor-item-24",
+      "mediaType": "movie",
+      "title": "An Autumn's Tale",
+      "awardYear": 1987,
+      "winner": "Chow Yun-fat",
+      "releaseDate": "1987",
+      "originalTitle": "秋天的童話",
+      "externalIds": {
+        "imdb": "tt0093426"
+      }
+    },
+    {
+      "id": "golden-horse-1988-best-actor-item-25",
+      "mediaType": "movie",
+      "title": "Gangland Odyssey",
+      "awardYear": 1988,
+      "winner": "Alex Man",
+      "releaseDate": "1988",
+      "originalTitle": "大頭仔",
+      "externalIds": {
+        "imdb": "tt2852802"
+      }
+    },
+    {
+      "id": "golden-horse-1989-best-actor-item-26",
+      "mediaType": "movie",
+      "title": "A City of Sadness",
+      "awardYear": 1989,
+      "winner": "Chen Sung-young",
+      "releaseDate": "1989",
+      "originalTitle": "悲情城市",
+      "externalIds": {
+        "imdb": "tt0096908"
+      }
+    },
+    {
+      "id": "golden-horse-1990-best-actor-item-27",
+      "mediaType": "movie",
+      "title": "Farewell China",
+      "awardYear": 1990,
+      "winner": "Tony Leung Ka-fai",
+      "releaseDate": "1990",
+      "originalTitle": "愛在他鄉的季節",
+      "externalIds": {
+        "imdb": "tt0099000"
+      }
+    },
+    {
+      "id": "golden-horse-1991-best-actor-item-28",
+      "mediaType": "movie",
+      "title": "Pushing Hands",
+      "awardYear": 1991,
+      "winner": "Sihung Lung",
+      "releaseDate": "1991",
+      "originalTitle": "推手",
+      "externalIds": {
+        "imdb": "tt0105652"
+      }
+    },
+    {
+      "id": "golden-horse-1992-best-actor-item-29",
+      "mediaType": "movie",
+      "title": "Police Story 3: Super Cop",
+      "awardYear": 1992,
+      "winner": "Jackie Chan",
+      "releaseDate": "1992",
+      "originalTitle": "警察故事III超級警察",
+      "externalIds": {
+        "imdb": "tt0104558"
+      }
+    },
+    {
+      "id": "golden-horse-1993-best-actor-item-30",
+      "mediaType": "movie",
+      "title": "Crime Story",
+      "awardYear": 1993,
+      "winner": "Jackie Chan",
+      "releaseDate": "1993",
+      "originalTitle": "重案組",
+      "externalIds": {
+        "imdb": "tt0108656"
+      }
+    },
+    {
+      "id": "golden-horse-1994-best-actor-item-31",
+      "mediaType": "movie",
+      "title": "Chungking Express",
+      "awardYear": 1994,
+      "winner": "Tony Leung Chiu-wai",
+      "releaseDate": "1994",
+      "originalTitle": "重慶森林",
+      "externalIds": {
+        "imdb": "tt0109424"
+      }
+    },
+    {
+      "id": "golden-horse-1995-best-actor-item-32",
+      "mediaType": "movie",
+      "title": "Super Citizen Ko",
+      "awardYear": 1995,
+      "winner": "Lin Yang",
+      "releaseDate": "1995",
+      "originalTitle": "超級大國民",
+      "externalIds": {
+        "imdb": "tt0112659"
+      }
+    },
+    {
+      "id": "golden-horse-1996-best-actor-item-33",
+      "mediaType": "movie",
+      "title": "In the Heat of the Sun",
+      "awardYear": 1996,
+      "winner": "Xia Yu",
+      "releaseDate": "1996",
+      "originalTitle": "陽光燦爛的日子",
+      "externalIds": {
+        "imdb": "tt0111786"
+      }
+    },
+    {
+      "id": "golden-horse-1997-best-actor-item-34",
+      "mediaType": "movie",
+      "title": "The Mad Phoenix",
+      "awardYear": 1997,
+      "winner": "Tse Kwan-ho",
+      "releaseDate": "1997",
+      "originalTitle": "南海十三郎",
+      "externalIds": {
+        "imdb": "tt0134836"
+      }
+    },
+    {
+      "id": "golden-horse-1998-best-actor-tt0115005",
+      "mediaType": "movie",
+      "title": "Xiu Xiu: The Sent Down Girl",
+      "awardYear": 1998,
+      "winner": "Lobsang Chompel",
+      "releaseDate": "1998",
+      "externalIds": {
+        "imdb": "tt0115005"
+      },
+      "originalTitle": "天浴"
+    },
+    {
+      "id": "golden-horse-1999-best-actor-item-36",
+      "mediaType": "movie",
+      "title": "Cao Cao",
+      "awardYear": 1999,
+      "winner": "Ko Chun-hsiung",
+      "releaseDate": "1999",
+      "originalTitle": "一代梟雄曹操",
+      "externalIds": {
+        "imdb": "tt0276156"
+      }
+    },
+    {
+      "id": "golden-horse-2000-best-actor-tt0220644",
+      "mediaType": "movie",
+      "title": "The Mission",
+      "awardYear": 2000,
+      "winner": "Francis Ng",
+      "releaseDate": "2000",
+      "externalIds": {
+        "imdb": "tt0220644"
+      },
+      "originalTitle": "鎗火"
+    },
+    {
+      "id": "golden-horse-2001-best-actor-item-38",
+      "mediaType": "movie",
+      "title": "Lan Yu",
+      "awardYear": 2001,
+      "winner": "Liu Ye",
+      "releaseDate": "2001",
+      "originalTitle": "藍宇",
+      "externalIds": {
+        "imdb": "tt0292066"
+      }
+    },
+    {
+      "id": "golden-horse-2002-best-actor-item-39",
+      "mediaType": "movie",
+      "title": "Three: Going Home",
+      "awardYear": 2002,
+      "winner": "Leon Lai",
+      "releaseDate": "2002",
+      "originalTitle": "三更之回家",
+      "externalIds": {
+        "imdb": "tt0324242"
+      }
+    },
+    {
+      "id": "golden-horse-2003-best-actor-item-40",
+      "mediaType": "movie",
+      "title": "Infernal Affairs",
+      "awardYear": 2003,
+      "winner": "Tony Leung Chiu-wai",
+      "releaseDate": "2003",
+      "originalTitle": "無間道",
+      "externalIds": {
+        "imdb": "tt0338564"
+      }
+    },
+    {
+      "id": "golden-horse-2004-best-actor-item-41",
+      "mediaType": "movie",
+      "title": "Infernal Affairs III",
+      "awardYear": 2004,
+      "winner": "Andy Lau",
+      "releaseDate": "2004",
+      "originalTitle": "無間道III：終極無間",
+      "externalIds": {
+        "imdb": "tt0374339"
+      }
+    },
+    {
+      "id": "golden-horse-2005-best-actor-item-42",
+      "mediaType": "movie",
+      "title": "Divergence",
+      "awardYear": 2005,
+      "winner": "Aaron Kwok",
+      "releaseDate": "2005",
+      "originalTitle": "三岔口",
+      "externalIds": {
+        "imdb": "tt0455195"
+      }
+    },
+    {
+      "id": "golden-horse-2006-best-actor-item-43",
+      "mediaType": "movie",
+      "title": "After This Our Exile",
+      "awardYear": 2006,
+      "winner": "Aaron Kwok",
+      "releaseDate": "2006",
+      "originalTitle": "父子",
+      "externalIds": {
+        "imdb": "tt0768114"
+      }
+    },
+    {
+      "id": "golden-horse-2007-best-actor-item-44",
+      "mediaType": "movie",
+      "title": "Lust, Caution",
+      "awardYear": 2007,
+      "winner": "Tony Leung Chiu-wai",
+      "releaseDate": "2007",
+      "originalTitle": "色，戒",
+      "externalIds": {
+        "imdb": "tt0808357"
+      }
+    },
+    {
+      "id": "golden-horse-2008-best-actor-item-45",
+      "mediaType": "movie",
+      "title": "Assembly",
+      "awardYear": 2008,
+      "winner": "Zhang Hanyu",
+      "releaseDate": "2008",
+      "originalTitle": "集結號",
+      "externalIds": {
+        "imdb": "tt0881200"
+      }
+    },
+    {
+      "id": "golden-horse-2009-best-actor-item-46",
+      "mediaType": "movie",
+      "title": "The Beast Stalker",
+      "awardYear": 2009,
+      "winner": "Nick Cheung",
+      "releaseDate": "2009",
+      "originalTitle": "証人",
+      "externalIds": {
+        "imdb": "tt1330525"
+      }
+    },
+    {
+      "id": "golden-horse-2009-best-actor-item-47",
+      "mediaType": "movie",
+      "title": "Cow",
+      "awardYear": 2009,
+      "winner": "Huang Bo",
+      "releaseDate": "2009",
+      "originalTitle": "鬥牛",
+      "externalIds": {
+        "imdb": "tt1500703"
+      }
+    },
+    {
+      "id": "golden-horse-2010-best-actor-item-48",
+      "mediaType": "movie",
+      "title": "Monga",
+      "awardYear": 2010,
+      "winner": "Ethan Juan",
+      "releaseDate": "2010",
+      "originalTitle": "艋舺",
+      "externalIds": {
+        "imdb": "tt1604900"
+      }
+    },
+    {
+      "id": "golden-horse-2011-best-actor-item-49",
+      "mediaType": "movie",
+      "title": "A Simple Life",
+      "awardYear": 2011,
+      "winner": "Andy Lau",
+      "releaseDate": "2011",
+      "originalTitle": "桃姐",
+      "externalIds": {
+        "imdb": "tt2008006"
+      }
+    },
+    {
+      "id": "golden-horse-2012-best-actor-item-50",
+      "mediaType": "movie",
+      "title": "Life Without Principle",
+      "awardYear": 2012,
+      "winner": "Sean Lau",
+      "releaseDate": "2012",
+      "originalTitle": "奪命金",
+      "externalIds": {
+        "imdb": "tt1371585"
+      }
+    },
+    {
+      "id": "golden-horse-2013-best-actor-item-51",
+      "mediaType": "movie",
+      "title": "Stray Dogs",
+      "awardYear": 2013,
+      "winner": "Lee Kang-sheng",
+      "releaseDate": "2013",
+      "originalTitle": "郊遊",
+      "externalIds": {
+        "imdb": "tt3119416"
+      }
+    },
+    {
+      "id": "golden-horse-2014-best-actor-item-52",
+      "mediaType": "movie",
+      "title": "A Fool",
+      "awardYear": 2014,
+      "winner": "Chen Jianbin",
+      "releaseDate": "2014",
+      "originalTitle": "一個勺子",
+      "externalIds": {
+        "imdb": "tt3856504"
+      }
+    },
+    {
+      "id": "golden-horse-2015-best-actor-item-53",
+      "mediaType": "movie",
+      "title": "Mr. Six",
+      "awardYear": 2015,
+      "winner": "Feng Xiaogang",
+      "releaseDate": "2015",
+      "originalTitle": "老炮兒",
+      "externalIds": {
+        "imdb": "tt4701702"
+      }
+    },
+    {
+      "id": "golden-horse-2016-best-actor-tt6128782",
+      "mediaType": "movie",
+      "title": "Mr. No Problem",
+      "awardYear": 2016,
+      "winner": "Fan Wei",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt6128782"
+      },
+      "originalTitle": "不成問題的問題"
+    },
+    {
+      "id": "golden-horse-2017-best-actor-tt7481246",
+      "mediaType": "movie",
+      "title": "Old Beast",
+      "awardYear": 2017,
+      "winner": "Tu Men",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7481246"
+      },
+      "originalTitle": "老獸"
+    },
+    {
+      "id": "golden-horse-2018-best-actor-tt7362036",
+      "mediaType": "movie",
+      "title": "Dying to Survive",
+      "awardYear": 2018,
+      "winner": "Xu Zheng",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7362036"
+      },
+      "originalTitle": "我不是藥神"
+    },
+    {
+      "id": "golden-horse-2019-best-actor-tt10883506",
+      "mediaType": "movie",
+      "title": "A Sun",
+      "awardYear": 2019,
+      "winner": "Chen Yi-wen",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10883506"
+      },
+      "originalTitle": "陽光普照"
+    },
+    {
+      "id": "golden-horse-2020-best-actor-tt12359272",
+      "mediaType": "movie",
+      "title": "Dear Tenant",
+      "awardYear": 2020,
+      "winner": "Mo Tzu-yi",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt12359272"
+      },
+      "originalTitle": "親愛的房客"
+    },
+    {
+      "id": "golden-horse-2021-best-actor-tt13598976",
+      "mediaType": "movie",
+      "title": "The Soul",
+      "awardYear": 2021,
+      "winner": "Chang Chen",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt13598976"
+      },
+      "originalTitle": "緝魂"
+    },
+    {
+      "id": "golden-horse-2022-best-actor-tt18280126",
+      "mediaType": "movie",
+      "title": "The Sunny Side of the Street",
+      "awardYear": 2022,
+      "winner": "Anthony Wong",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt18280126"
+      },
+      "originalTitle": "白日青春"
+    },
+    {
+      "id": "golden-horse-2023-best-actor-tt27445004",
+      "mediaType": "movie",
+      "title": "Abang Adik",
+      "awardYear": 2023,
+      "winner": "Wu Kang-ren",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt27445004"
+      },
+      "originalTitle": "富都青年"
+    },
+    {
+      "id": "golden-horse-2024-best-actor-tt33616511",
+      "mediaType": "movie",
+      "title": "Bel Ami",
+      "awardYear": 2024,
+      "winner": "Chang Chih-yung",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt33616511"
+      },
+      "originalTitle": "漂亮朋友"
+    },
+    {
+      "id": "golden-horse-2025-best-actor-tt34000545",
+      "mediaType": "movie",
+      "title": "Lucky Lu",
+      "awardYear": 2025,
+      "winner": "Chang Chen",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt34000545"
+      },
+      "originalTitle": "幸福之路"
+    }
+  ],
+  "tags": [
+    "award",
+    "taipei",
+    "prize"
+  ]
+}

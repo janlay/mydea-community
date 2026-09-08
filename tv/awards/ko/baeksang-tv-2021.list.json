@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-21T00:00:00Z",
+  "title": "백상예술대상 — 2021",
+  "description": "2021년 백상예술대상 방송 부문 수상 기록.",
+  "items": [
+    {
+      "id": "baeksang-2021-tv-grand-how-do-you-play",
+      "mediaType": "tv",
+      "title": "놀면 뭐하니?",
+      "englishTitle": "How Do You Play?",
+      "award": "방송부문 대상",
+      "awardYear": 2021,
+      "awardOrder": 1,
+      "winner": "Yoo Jae-suk",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt15334046"
+      }
+    },
+    {
+      "id": "baeksang-2021-tv-best-beyond-evil",
+      "mediaType": "tv",
+      "title": "괴물",
+      "englishTitle": "Beyond Evil",
+      "award": "방송부문 작품상 드라마",
+      "awardYear": 2021,
+      "awardOrder": 2,
+      "winner": "괴물",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt13634872"
+      }
+    },
+    {
+      "id": "baeksang-2021-tv-director-flower-evil",
+      "mediaType": "tv",
+      "title": "악의 꽃",
+      "englishTitle": "Flower of Evil",
+      "award": "방송부문 연출상",
+      "awardYear": 2021,
+      "awardOrder": 3,
+      "winner": "Kim Cheol-kyu",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt11691684"
+      }
+    },
+    {
+      "id": "baeksang-2021-tv-actor-beyond-evil",
+      "mediaType": "tv",
+      "title": "괴물",
+      "englishTitle": "Beyond Evil",
+      "award": "방송부문 남자 최우수 연기상",
+      "awardYear": 2021,
+      "awardOrder": 4,
+      "winner": "Shin Ha-kyun",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt13634872"
+      }
+    },
+    {
+      "id": "baeksang-2021-tv-actress-penthouse",
+      "mediaType": "tv",
+      "title": "펜트하우스",
+      "englishTitle": "The Penthouse: War in Life",
+      "award": "방송부문 여자 최우수 연기상",
+      "awardYear": 2021,
+      "awardOrder": 5,
+      "winner": "Kim So-yeon",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt13067118"
+      }
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "골든 글로브 2022",
+  "description": "2022 골든 글로브 영화 작품 부문 수상 목록.",
+  "items": [
+    {
+      "id": "golden-globes-2022-drama-the-power-of-the-dog",
+      "mediaType": "movie",
+      "title": "파워 오브 도그",
+      "englishTitle": "The Power of the Dog",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt10293406"
+      },
+      "award": "작품상 드라마",
+      "awardYear": 2022,
+      "awardOrder": 1,
+      "winner": "파워 오브 도그"
+    },
+    {
+      "id": "golden-globes-2022-comedy-west-side-story",
+      "mediaType": "movie",
+      "title": "웨스트 사이드 스토리",
+      "englishTitle": "West Side Story",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt3581652"
+      },
+      "award": "작품상 뮤지컬·코미디",
+      "awardYear": 2022,
+      "awardOrder": 2,
+      "winner": "웨스트 사이드 스토리"
+    },
+    {
+      "id": "golden-globes-2022-animated-encanto",
+      "mediaType": "movie",
+      "title": "엔칸토: 마법의 세계",
+      "englishTitle": "Encanto",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt2953050"
+      },
+      "award": "애니메이션 영화상",
+      "awardYear": 2022,
+      "awardOrder": 3,
+      "winner": "엔칸토: 마법의 세계"
+    },
+    {
+      "id": "golden-globes-2022-foreign-drive-my-car",
+      "mediaType": "movie",
+      "title": "드라이브 마이 카",
+      "englishTitle": "Drive My Car",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14039582"
+      },
+      "award": "비영어권 영화상",
+      "awardYear": 2022,
+      "awardOrder": 4,
+      "winner": "드라이브 마이 카"
+    }
+  ]
+}

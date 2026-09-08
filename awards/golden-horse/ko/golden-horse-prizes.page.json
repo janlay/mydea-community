@@ -1,0 +1,197 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "title": "금마장 — 부문별",
+  "icon": "ticket",
+  "sections": [
+    {
+      "title": "금마장 — 최우수 작품상",
+      "description": "금마장 최우수 작품상 부문의 신설 이후 2025년까지 전체 수상 기록.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "carousel",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "golden-horse-best-feature.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "금마장 — 감독상",
+      "description": "금마장 감독상 부문의 신설 이후 2025년까지 전체 수상 기록.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "golden-horse-best-director.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "금마장 — 남우주연상",
+      "description": "금마장 남우주연상 부문의 신설 이후 2025년까지 전체 수상 기록.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "golden-horse-best-actor.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "금마장 — 여우주연상",
+      "description": "금마장 여우주연상 부문의 신설 이후 2025년까지 전체 수상 기록.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "golden-horse-best-actress.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "금마장 — 남우조연상",
+      "description": "금마장 남우조연상 부문의 신설 이후 2025년까지 전체 수상 기록.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "golden-horse-best-supporting-actor.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "금마장 — 여우조연상",
+      "description": "금마장 여우조연상 부문의 신설 이후 2025년까지 전체 수상 기록.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "golden-horse-best-supporting-actress.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "금마장 — 신인감독상",
+      "description": "금마장 신인감독상 부문의 신설 이후 2025년까지 전체 수상 기록.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "golden-horse-best-new-director.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "금마장 — 신인배우상",
+      "description": "금마장 신인배우상 부문의 신설 이후 2025년까지 전체 수상 기록.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "golden-horse-best-new-performer.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    }
+  ],
+  "description": "금마장 전 부문에 걸친 전체 수상 목록. 1964년과 1974년은 개최되지 않았다.",
+  "tags": [
+    "award",
+    "prize"
+  ]
+}

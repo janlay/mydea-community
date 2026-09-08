@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T02:53:58Z",
+  "title": "百想藝術大賞 — 2023",
+  "description": "2023 年百想藝術大賞電視主要獎項獲獎記錄。",
+  "items": [
+    {
+      "id": "baeksang-2023-tv-grand-attorney-woo",
+      "mediaType": "tv",
+      "title": "非常律師禹英禑",
+      "originalTitle": "이상한 변호사 우영우",
+      "award": "電視大獎",
+      "awardYear": 2023,
+      "awardOrder": 1,
+      "winner": "Park Eun-bin",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt20869502"
+      }
+    },
+    {
+      "id": "baeksang-2023-tv-best-glory",
+      "mediaType": "tv",
+      "title": "黑暗榮耀",
+      "originalTitle": "더 글로리",
+      "award": "最佳電視劇",
+      "awardYear": 2023,
+      "awardOrder": 2,
+      "winner": "黑暗榮耀",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt21344706"
+      }
+    },
+    {
+      "id": "baeksang-2023-tv-director-attorney-woo",
+      "mediaType": "tv",
+      "title": "非常律師禹英禑",
+      "originalTitle": "이상한 변호사 우영우",
+      "award": "電視最佳導演",
+      "awardYear": 2023,
+      "awardOrder": 3,
+      "winner": "Yoo In-shik",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt20869502"
+      }
+    },
+    {
+      "id": "baeksang-2023-tv-actor-reborn-rich",
+      "mediaType": "tv",
+      "title": "財閥家的小兒子",
+      "originalTitle": "재벌집 막내아들",
+      "award": "電視最佳男主角",
+      "awardYear": 2023,
+      "awardOrder": 4,
+      "winner": "Lee Sung-min",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt18352538"
+      }
+    },
+    {
+      "id": "baeksang-2023-tv-actress-glory",
+      "mediaType": "tv",
+      "title": "黑暗榮耀",
+      "originalTitle": "더 글로리",
+      "award": "電視最佳女主角",
+      "awardYear": 2023,
+      "awardOrder": 5,
+      "winner": "Song Hye-kyo",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt21344706"
+      }
+    }
+  ]
+}

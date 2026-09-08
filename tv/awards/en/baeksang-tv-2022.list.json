@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T02:53:58Z",
+  "title": "Baeksang Arts Awards — 2022",
+  "description": "Broadcast category winners at the 2022 Baeksang Arts Awards.",
+  "items": [
+    {
+      "id": "baeksang-2022-tv-grand-squid-game",
+      "mediaType": "tv",
+      "title": "Squid Game",
+      "originalTitle": "오징어 게임",
+      "award": "Broadcast Grand Prize",
+      "awardYear": 2022,
+      "awardOrder": 1,
+      "winner": "Squid Game",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt10919420"
+      }
+    },
+    {
+      "id": "baeksang-2022-tv-best-dp",
+      "mediaType": "tv",
+      "title": "D.P.",
+      "originalTitle": "D.P.",
+      "award": "Best Drama",
+      "awardYear": 2022,
+      "awardOrder": 2,
+      "winner": "D.P.",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt13024974"
+      }
+    },
+    {
+      "id": "baeksang-2022-tv-director-squid-game",
+      "mediaType": "tv",
+      "title": "Squid Game",
+      "originalTitle": "오징어 게임",
+      "award": "Best Director Broadcast",
+      "awardYear": 2022,
+      "awardOrder": 3,
+      "winner": "Hwang Dong-hyuk",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt10919420"
+      }
+    },
+    {
+      "id": "baeksang-2022-tv-actor-red-sleeve",
+      "mediaType": "tv",
+      "title": "The Red Sleeve",
+      "originalTitle": "옷소매 붉은 끝동",
+      "award": "Best Actor Broadcast",
+      "awardYear": 2022,
+      "awardOrder": 4,
+      "winner": "Lee Jun-ho",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14687200"
+      }
+    },
+    {
+      "id": "baeksang-2022-tv-actress-2521",
+      "mediaType": "tv",
+      "title": "Twenty-Five Twenty-One",
+      "originalTitle": "스물다섯 스물하나",
+      "award": "Best Actress Broadcast",
+      "awardYear": 2022,
+      "awardOrder": 5,
+      "winner": "Kim Tae-ri",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt17513352"
+      }
+    }
+  ]
+}

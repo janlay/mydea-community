@@ -1,0 +1,1165 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "icon": "calendar",
+  "title": "豆瓣 2016 年度榜单",
+  "description": "豆瓣 2016 年度榜单全部分类的收藏片单，共 50 个分类。",
+  "tags": [
+    "douban",
+    "chart",
+    "annual"
+  ],
+  "sections": [
+    {
+      "title": "评分最高华语电影",
+      "description": "豆瓣 2016 年度榜单「评分最高华语电影」的收藏片单。",
+      "layout": "carousel",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "annual",
+      "params": [
+        {
+          "name": "annual_year",
+          "value": "2016"
+        },
+        {
+          "name": "annual_category",
+          "value": "评分最高华语电影"
+        }
+      ]
+    },
+    {
+      "title": "评分最高外语电影",
+      "description": "豆瓣 2016 年度榜单「评分最高外语电影」的收藏片单。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "annual",
+      "params": [
+        {
+          "name": "annual_year",
+          "value": "2016"
+        },
+        {
+          "name": "annual_category",
+          "value": "评分最高外语电影"
+        }
+      ]
+    },
+    {
+      "title": "冷门佳片",
+      "description": "豆瓣 2016 年度榜单「冷门佳片」的收藏片单。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "annual",
+      "params": [
+        {
+          "name": "annual_year",
+          "value": "2016"
+        },
+        {
+          "name": "annual_category",
+          "value": "冷门佳片"
+        }
+      ]
+    },
+    {
+      "title": "评分最高日本电影",
+      "description": "豆瓣 2016 年度榜单「评分最高日本电影」的收藏片单。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "annual",
+      "params": [
+        {
+          "name": "annual_year",
+          "value": "2016"
+        },
+        {
+          "name": "annual_category",
+          "value": "评分最高日本电影"
+        }
+      ]
+    },
+    {
+      "title": "评分最高韩国电影",
+      "description": "豆瓣 2016 年度榜单「评分最高韩国电影」的收藏片单。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "annual",
+      "params": [
+        {
+          "name": "annual_year",
+          "value": "2016"
+        },
+        {
+          "name": "annual_category",
+          "value": "评分最高韩国电影"
+        }
+      ]
+    },
+    {
+      "title": "评分最高欧洲电影",
+      "description": "豆瓣 2016 年度榜单「评分最高欧洲电影」的收藏片单。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "annual",
+      "params": [
+        {
+          "name": "annual_year",
+          "value": "2016"
+        },
+        {
+          "name": "annual_category",
+          "value": "评分最高欧洲电影"
+        }
+      ]
+    },
+    {
+      "title": "评分最高喜剧片",
+      "description": "豆瓣 2016 年度榜单「评分最高喜剧片」的收藏片单。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "annual",
+      "params": [
+        {
+          "name": "annual_year",
+          "value": "2016"
+        },
+        {
+          "name": "annual_category",
+          "value": "评分最高喜剧片"
+        }
+      ]
+    },
+    {
+      "title": "评分最高爱情片",
+      "description": "豆瓣 2016 年度榜单「评分最高爱情片」的收藏片单。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "annual",
+      "params": [
+        {
+          "name": "annual_year",
+          "value": "2016"
+        },
+        {
+          "name": "annual_category",
+          "value": "评分最高爱情片"
+        }
+      ]
+    },
+    {
+      "title": "评分最高恐怖片",
+      "description": "豆瓣 2016 年度榜单「评分最高恐怖片」的收藏片单。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "annual",
+      "params": [
+        {
+          "name": "annual_year",
+          "value": "2016"
+        },
+        {
+          "name": "annual_category",
+          "value": "评分最高恐怖片"
+        }
+      ]
+    },
+    {
+      "title": "评分最高科幻/动作片",
+      "description": "豆瓣 2016 年度榜单「评分最高科幻/动作片」的收藏片单。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "annual",
+      "params": [
+        {
+          "name": "annual_year",
+          "value": "2016"
+        },
+        {
+          "name": "annual_category",
+          "value": "评分最高科幻/动作片"
+        }
+      ]
+    },
+    {
+      "title": "评分最高动画片",
+      "description": "豆瓣 2016 年度榜单「评分最高动画片」的收藏片单。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "annual",
+      "params": [
+        {
+          "name": "annual_year",
+          "value": "2016"
+        },
+        {
+          "name": "annual_category",
+          "value": "评分最高动画片"
+        }
+      ]
+    },
+    {
+      "title": "评分最高纪录片",
+      "description": "豆瓣 2016 年度榜单「评分最高纪录片」的收藏片单。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "annual",
+      "params": [
+        {
+          "name": "annual_year",
+          "value": "2016"
+        },
+        {
+          "name": "annual_category",
+          "value": "评分最高纪录片"
+        }
+      ]
+    },
+    {
+      "title": "评分最高短片",
+      "description": "豆瓣 2016 年度榜单「评分最高短片」的收藏片单。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "annual",
+      "params": [
+        {
+          "name": "annual_year",
+          "value": "2016"
+        },
+        {
+          "name": "annual_category",
+          "value": "评分最高短片"
+        }
+      ]
+    },
+    {
+      "title": "LGBT电影",
+      "description": "豆瓣 2016 年度榜单「LGBT电影」的收藏片单。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "annual",
+      "params": [
+        {
+          "name": "annual_year",
+          "value": "2016"
+        },
+        {
+          "name": "annual_category",
+          "value": "LGBT电影"
+        }
+      ]
+    },
+    {
+      "title": "最受关注院线电影",
+      "description": "豆瓣 2016 年度榜单「最受关注院线电影」的收藏片单。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "annual",
+      "params": [
+        {
+          "name": "annual_year",
+          "value": "2016"
+        },
+        {
+          "name": "annual_category",
+          "value": "最受关注院线电影"
+        }
+      ]
+    },
+    {
+      "title": "最受关注非院线电影",
+      "description": "豆瓣 2016 年度榜单「最受关注非院线电影」的收藏片单。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "annual",
+      "params": [
+        {
+          "name": "annual_year",
+          "value": "2016"
+        },
+        {
+          "name": "annual_category",
+          "value": "最受关注非院线电影"
+        }
+      ]
+    },
+    {
+      "title": "大陆独立佳作",
+      "description": "豆瓣 2016 年度榜单「大陆独立佳作」的收藏片单。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "annual",
+      "params": [
+        {
+          "name": "annual_year",
+          "value": "2016"
+        },
+        {
+          "name": "annual_category",
+          "value": "大陆独立佳作"
+        }
+      ]
+    },
+    {
+      "title": "北美颁奖季热门佳片",
+      "description": "豆瓣 2016 年度榜单「北美颁奖季热门佳片」的收藏片单。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "annual",
+      "params": [
+        {
+          "name": "annual_year",
+          "value": "2016"
+        },
+        {
+          "name": "annual_category",
+          "value": "北美颁奖季热门佳片"
+        }
+      ]
+    },
+    {
+      "title": "上映10周年电影",
+      "description": "豆瓣 2016 年度榜单「上映10周年电影」的收藏片单。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "annual",
+      "params": [
+        {
+          "name": "annual_year",
+          "value": "2016"
+        },
+        {
+          "name": "annual_category",
+          "value": "上映10周年电影"
+        }
+      ]
+    },
+    {
+      "title": "上映20周年电影",
+      "description": "豆瓣 2016 年度榜单「上映20周年电影」的收藏片单。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "annual",
+      "params": [
+        {
+          "name": "annual_year",
+          "value": "2016"
+        },
+        {
+          "name": "annual_category",
+          "value": "上映20周年电影"
+        }
+      ]
+    },
+    {
+      "title": "上映30周年电影",
+      "description": "豆瓣 2016 年度榜单「上映30周年电影」的收藏片单。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "annual",
+      "params": [
+        {
+          "name": "annual_year",
+          "value": "2016"
+        },
+        {
+          "name": "annual_category",
+          "value": "上映30周年电影"
+        }
+      ]
+    },
+    {
+      "title": "上映40周年电影",
+      "description": "豆瓣 2016 年度榜单「上映40周年电影」的收藏片单。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "annual",
+      "params": [
+        {
+          "name": "annual_year",
+          "value": "2016"
+        },
+        {
+          "name": "annual_category",
+          "value": "上映40周年电影"
+        }
+      ]
+    },
+    {
+      "title": "上映50周年电影",
+      "description": "豆瓣 2016 年度榜单「上映50周年电影」的收藏片单。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "annual",
+      "params": [
+        {
+          "name": "annual_year",
+          "value": "2016"
+        },
+        {
+          "name": "annual_category",
+          "value": "上映50周年电影"
+        }
+      ]
+    },
+    {
+      "title": "1月最热门电影",
+      "description": "豆瓣 2016 年度榜单「1月最热门电影」的收藏片单。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "annual",
+      "params": [
+        {
+          "name": "annual_year",
+          "value": "2016"
+        },
+        {
+          "name": "annual_category",
+          "value": "1月最热门电影"
+        }
+      ]
+    },
+    {
+      "title": "2月最热门电影",
+      "description": "豆瓣 2016 年度榜单「2月最热门电影」的收藏片单。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "annual",
+      "params": [
+        {
+          "name": "annual_year",
+          "value": "2016"
+        },
+        {
+          "name": "annual_category",
+          "value": "2月最热门电影"
+        }
+      ]
+    },
+    {
+      "title": "3月最热门电影",
+      "description": "豆瓣 2016 年度榜单「3月最热门电影」的收藏片单。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "annual",
+      "params": [
+        {
+          "name": "annual_year",
+          "value": "2016"
+        },
+        {
+          "name": "annual_category",
+          "value": "3月最热门电影"
+        }
+      ]
+    },
+    {
+      "title": "4月最热门电影",
+      "description": "豆瓣 2016 年度榜单「4月最热门电影」的收藏片单。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "annual",
+      "params": [
+        {
+          "name": "annual_year",
+          "value": "2016"
+        },
+        {
+          "name": "annual_category",
+          "value": "4月最热门电影"
+        }
+      ]
+    },
+    {
+      "title": "5月最热门电影",
+      "description": "豆瓣 2016 年度榜单「5月最热门电影」的收藏片单。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "annual",
+      "params": [
+        {
+          "name": "annual_year",
+          "value": "2016"
+        },
+        {
+          "name": "annual_category",
+          "value": "5月最热门电影"
+        }
+      ]
+    },
+    {
+      "title": "6月最热门电影",
+      "description": "豆瓣 2016 年度榜单「6月最热门电影」的收藏片单。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "annual",
+      "params": [
+        {
+          "name": "annual_year",
+          "value": "2016"
+        },
+        {
+          "name": "annual_category",
+          "value": "6月最热门电影"
+        }
+      ]
+    },
+    {
+      "title": "7月最热门电影",
+      "description": "豆瓣 2016 年度榜单「7月最热门电影」的收藏片单。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "annual",
+      "params": [
+        {
+          "name": "annual_year",
+          "value": "2016"
+        },
+        {
+          "name": "annual_category",
+          "value": "7月最热门电影"
+        }
+      ]
+    },
+    {
+      "title": "8月最热门电影",
+      "description": "豆瓣 2016 年度榜单「8月最热门电影」的收藏片单。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "annual",
+      "params": [
+        {
+          "name": "annual_year",
+          "value": "2016"
+        },
+        {
+          "name": "annual_category",
+          "value": "8月最热门电影"
+        }
+      ]
+    },
+    {
+      "title": "9月最热门电影",
+      "description": "豆瓣 2016 年度榜单「9月最热门电影」的收藏片单。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "annual",
+      "params": [
+        {
+          "name": "annual_year",
+          "value": "2016"
+        },
+        {
+          "name": "annual_category",
+          "value": "9月最热门电影"
+        }
+      ]
+    },
+    {
+      "title": "10月最热门电影",
+      "description": "豆瓣 2016 年度榜单「10月最热门电影」的收藏片单。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "annual",
+      "params": [
+        {
+          "name": "annual_year",
+          "value": "2016"
+        },
+        {
+          "name": "annual_category",
+          "value": "10月最热门电影"
+        }
+      ]
+    },
+    {
+      "title": "11月最热门电影",
+      "description": "豆瓣 2016 年度榜单「11月最热门电影」的收藏片单。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "annual",
+      "params": [
+        {
+          "name": "annual_year",
+          "value": "2016"
+        },
+        {
+          "name": "annual_category",
+          "value": "11月最热门电影"
+        }
+      ]
+    },
+    {
+      "title": "12月最热门电影",
+      "description": "豆瓣 2016 年度榜单「12月最热门电影」的收藏片单。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "annual",
+      "params": [
+        {
+          "name": "annual_year",
+          "value": "2016"
+        },
+        {
+          "name": "annual_category",
+          "value": "12月最热门电影"
+        }
+      ]
+    },
+    {
+      "title": "最值得期待华语电影",
+      "description": "豆瓣 2016 年度榜单「最值得期待华语电影」的收藏片单。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "annual",
+      "params": [
+        {
+          "name": "annual_year",
+          "value": "2016"
+        },
+        {
+          "name": "annual_category",
+          "value": "最值得期待华语电影"
+        }
+      ]
+    },
+    {
+      "title": "最值得期待外语电影",
+      "description": "豆瓣 2016 年度榜单「最值得期待外语电影」的收藏片单。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "annual",
+      "params": [
+        {
+          "name": "annual_year",
+          "value": "2016"
+        },
+        {
+          "name": "annual_category",
+          "value": "最值得期待外语电影"
+        }
+      ]
+    },
+    {
+      "title": "评分最高大陆电视剧",
+      "description": "豆瓣 2016 年度榜单「评分最高大陆电视剧」的收藏片单。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "annual",
+      "params": [
+        {
+          "name": "annual_year",
+          "value": "2016"
+        },
+        {
+          "name": "annual_category",
+          "value": "评分最高大陆电视剧"
+        }
+      ]
+    },
+    {
+      "title": "评分最高英美剧(新剧)",
+      "description": "豆瓣 2016 年度榜单「评分最高英美剧(新剧)」的收藏片单。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "annual",
+      "params": [
+        {
+          "name": "annual_year",
+          "value": "2016"
+        },
+        {
+          "name": "annual_category",
+          "value": "评分最高英美剧(新剧)"
+        }
+      ]
+    },
+    {
+      "title": "评分最高英美剧(非新剧)",
+      "description": "豆瓣 2016 年度榜单「评分最高英美剧(非新剧)」的收藏片单。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "annual",
+      "params": [
+        {
+          "name": "annual_year",
+          "value": "2016"
+        },
+        {
+          "name": "annual_category",
+          "value": "评分最高英美剧(非新剧)"
+        }
+      ]
+    },
+    {
+      "title": "评分最高日剧",
+      "description": "豆瓣 2016 年度榜单「评分最高日剧」的收藏片单。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "annual",
+      "params": [
+        {
+          "name": "annual_year",
+          "value": "2016"
+        },
+        {
+          "name": "annual_category",
+          "value": "评分最高日剧"
+        }
+      ]
+    },
+    {
+      "title": "评分最高韩剧",
+      "description": "豆瓣 2016 年度榜单「评分最高韩剧」的收藏片单。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "annual",
+      "params": [
+        {
+          "name": "annual_year",
+          "value": "2016"
+        },
+        {
+          "name": "annual_category",
+          "value": "评分最高韩剧"
+        }
+      ]
+    },
+    {
+      "title": "评分最高其他地区剧集",
+      "description": "豆瓣 2016 年度榜单「评分最高其他地区剧集」的收藏片单。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "annual",
+      "params": [
+        {
+          "name": "annual_year",
+          "value": "2016"
+        },
+        {
+          "name": "annual_category",
+          "value": "评分最高其他地区剧集"
+        }
+      ]
+    },
+    {
+      "title": "评分最高动画剧集",
+      "description": "豆瓣 2016 年度榜单「评分最高动画剧集」的收藏片单。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "annual",
+      "params": [
+        {
+          "name": "annual_year",
+          "value": "2016"
+        },
+        {
+          "name": "annual_category",
+          "value": "评分最高动画剧集"
+        }
+      ]
+    },
+    {
+      "title": "评分最高纪录剧集",
+      "description": "豆瓣 2016 年度榜单「评分最高纪录剧集」的收藏片单。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "annual",
+      "params": [
+        {
+          "name": "annual_year",
+          "value": "2016"
+        },
+        {
+          "name": "annual_category",
+          "value": "评分最高纪录剧集"
+        }
+      ]
+    },
+    {
+      "title": "开播10周年剧集",
+      "description": "豆瓣 2016 年度榜单「开播10周年剧集」的收藏片单。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "annual",
+      "params": [
+        {
+          "name": "annual_year",
+          "value": "2016"
+        },
+        {
+          "name": "annual_category",
+          "value": "开播10周年剧集"
+        }
+      ]
+    },
+    {
+      "title": "开播20周年剧集",
+      "description": "豆瓣 2016 年度榜单「开播20周年剧集」的收藏片单。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "annual",
+      "params": [
+        {
+          "name": "annual_year",
+          "value": "2016"
+        },
+        {
+          "name": "annual_category",
+          "value": "开播20周年剧集"
+        }
+      ]
+    },
+    {
+      "title": "开播30周年剧集",
+      "description": "豆瓣 2016 年度榜单「开播30周年剧集」的收藏片单。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "annual",
+      "params": [
+        {
+          "name": "annual_year",
+          "value": "2016"
+        },
+        {
+          "name": "annual_category",
+          "value": "开播30周年剧集"
+        }
+      ]
+    },
+    {
+      "title": "最受关注大陆电视综艺",
+      "description": "豆瓣 2016 年度榜单「最受关注大陆电视综艺」的收藏片单。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "annual",
+      "params": [
+        {
+          "name": "annual_year",
+          "value": "2016"
+        },
+        {
+          "name": "annual_category",
+          "value": "最受关注大陆电视综艺"
+        }
+      ]
+    },
+    {
+      "title": "最受关注大陆网络综艺",
+      "description": "豆瓣 2016 年度榜单「最受关注大陆网络综艺」的收藏片单。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "annual",
+      "params": [
+        {
+          "name": "annual_year",
+          "value": "2016"
+        },
+        {
+          "name": "annual_category",
+          "value": "最受关注大陆网络综艺"
+        }
+      ]
+    }
+  ]
+}

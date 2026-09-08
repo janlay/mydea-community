@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T02:53:58Z",
+  "title": "Baeksang Arts Awards — 2022",
+  "description": "Film category winners at the 2022 Baeksang Arts Awards.",
+  "items": [
+    {
+      "id": "baeksang-2022-film-grand-mogadishu",
+      "mediaType": "movie",
+      "title": "Escape from Mogadishu",
+      "originalTitle": "모가디슈",
+      "award": "Film Grand Prize",
+      "awardYear": 2022,
+      "awardOrder": 1,
+      "winner": "Ryoo Seung-wan",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14810692"
+      }
+    },
+    {
+      "id": "baeksang-2022-film-best-mogadishu",
+      "mediaType": "movie",
+      "title": "Escape from Mogadishu",
+      "originalTitle": "모가디슈",
+      "award": "Best Film",
+      "awardYear": 2022,
+      "awardOrder": 2,
+      "winner": "Escape from Mogadishu",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14810692"
+      }
+    },
+    {
+      "id": "baeksang-2022-film-director-kingmaker",
+      "mediaType": "movie",
+      "title": "Kingmaker",
+      "originalTitle": "킹메이커",
+      "award": "Best Director Film",
+      "awardYear": 2022,
+      "awardOrder": 3,
+      "winner": "Byun Sung-hyun",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt17491616"
+      }
+    },
+    {
+      "id": "baeksang-2022-film-actor-kingmaker",
+      "mediaType": "movie",
+      "title": "Kingmaker",
+      "originalTitle": "킹메이커",
+      "award": "Best Actor Film",
+      "awardYear": 2022,
+      "awardOrder": 4,
+      "winner": "Sol Kyung-gu",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt17491616"
+      }
+    },
+    {
+      "id": "baeksang-2022-film-actress-in-front",
+      "mediaType": "movie",
+      "title": "In Front of Your Face",
+      "originalTitle": "당신얼굴 앞에서",
+      "award": "Best Actress Film",
+      "awardYear": 2022,
+      "awardOrder": 5,
+      "winner": "Lee Hye-young",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14776918"
+      }
+    }
+  ]
+}

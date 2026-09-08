@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T02:58:14Z",
+  "title": "百想芸術大賞 — 2017",
+  "description": "2017年の百想芸術大賞における映画部門の受賞作品。",
+  "items": [
+    {
+      "id": "baeksang-2017-film-grand-handmaiden",
+      "mediaType": "movie",
+      "title": "お嬢さん",
+      "originalTitle": "아가씨",
+      "award": "映画部門 大賞",
+      "awardYear": 2017,
+      "awardOrder": 1,
+      "winner": "パク・チャヌク",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4016934"
+      }
+    },
+    {
+      "id": "baeksang-2017-film-best-wailing",
+      "mediaType": "movie",
+      "title": "哭声／コクソン",
+      "originalTitle": "곡성",
+      "award": "映画部門 作品賞",
+      "awardYear": 2017,
+      "awardOrder": 2,
+      "winner": "哭声／コクソン",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5215952"
+      }
+    },
+    {
+      "id": "baeksang-2017-film-director-age-shadows",
+      "mediaType": "movie",
+      "title": "密偵",
+      "originalTitle": "밀정",
+      "award": "映画部門 監督賞",
+      "awardYear": 2017,
+      "awardOrder": 3,
+      "winner": "キム・ジウン",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4914580"
+      }
+    },
+    {
+      "id": "baeksang-2017-film-actor-age-shadows",
+      "mediaType": "movie",
+      "title": "密偵",
+      "originalTitle": "밀정",
+      "award": "映画部門 男性最優秀演技賞",
+      "awardYear": 2017,
+      "awardOrder": 4,
+      "winner": "ソン・ガンホ",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4914580"
+      }
+    },
+    {
+      "id": "baeksang-2017-film-actress-last-princess",
+      "mediaType": "movie",
+      "title": "ラスト・プリンセス 大韓帝国最後の皇女",
+      "originalTitle": "덕혜옹주",
+      "award": "映画部門 女性最優秀演技賞",
+      "awardYear": 2017,
+      "awardOrder": 5,
+      "winner": "ソン・イェジン",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5947416"
+      }
+    }
+  ]
+}

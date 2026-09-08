@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T02:53:58Z",
+  "title": "百想藝術大賞 — 2017",
+  "description": "2017 年百想藝術大賞電視主要獎項獲獎記錄。",
+  "items": [
+    {
+      "id": "baeksang-2017-tv-grand-goblin",
+      "mediaType": "tv",
+      "title": "孤單又燦爛的神：鬼怪",
+      "originalTitle": "도깨비",
+      "award": "電視大獎",
+      "awardYear": 2017,
+      "awardOrder": 1,
+      "winner": "Kim Eun-sook",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5994364"
+      }
+    },
+    {
+      "id": "baeksang-2017-tv-best-dear-friends",
+      "mediaType": "tv",
+      "title": "我親愛的朋友們",
+      "originalTitle": "디어 마이 프렌즈",
+      "award": "最佳電視劇",
+      "awardYear": 2017,
+      "awardOrder": 2,
+      "winner": "我親愛的朋友們",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5689030"
+      }
+    },
+    {
+      "id": "baeksang-2017-tv-director-dr-romantic",
+      "mediaType": "tv",
+      "title": "浪漫醫生金師傅",
+      "originalTitle": "낭만닥터 김사부",
+      "award": "電視最佳導演",
+      "awardYear": 2017,
+      "awardOrder": 3,
+      "winner": "Yu In-sik",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt6157190"
+      }
+    },
+    {
+      "id": "baeksang-2017-tv-actor-goblin",
+      "mediaType": "tv",
+      "title": "孤單又燦爛的神：鬼怪",
+      "originalTitle": "도깨비",
+      "award": "電視最佳男主角",
+      "awardYear": 2017,
+      "awardOrder": 4,
+      "winner": "Gong Yoo",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5994364"
+      }
+    },
+    {
+      "id": "baeksang-2017-tv-actress-another-miss-oh",
+      "mediaType": "tv",
+      "title": "又是吳海英",
+      "originalTitle": "또 오해영",
+      "award": "電視最佳女主角",
+      "awardYear": 2017,
+      "awardOrder": 5,
+      "winner": "Seo Hyun-jin",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5679572"
+      }
+    }
+  ]
+}

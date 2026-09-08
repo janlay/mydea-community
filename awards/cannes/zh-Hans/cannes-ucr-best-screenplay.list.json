@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "title": "戛纳 — 一种关注最佳编剧",
+  "author": "Mydea",
+  "updatedAt": "2026-09-16T04:43:24Z",
+  "description": "戛纳电影节一种关注单元历届奖项。 一种关注最佳编剧.",
+  "tags": [
+    "award",
+    "cannes",
+    "prize"
+  ],
+  "items": [
+    {
+      "id": "cannes-ucr-screenplay-2016-the-stopover",
+      "mediaType": "movie",
+      "title": "The Stopover",
+      "awardYear": 2016,
+      "winner": "Delphine Coulin & Muriel Coulin"
+    },
+    {
+      "id": "cannes-ucr-screenplay-2018-sofia",
+      "mediaType": "movie",
+      "title": "索菲亚",
+      "awardYear": 2018,
+      "winner": "Meryem Benm'Barek",
+      "externalIds": {
+        "imdb": "tt8296592"
+      },
+      "releaseDate": "2018"
+    },
+    {
+      "id": "cannes-ucr-screenplay-2022-mediterranean-fever",
+      "mediaType": "movie",
+      "title": "地中海热",
+      "awardYear": 2022,
+      "winner": "Maha Haj",
+      "externalIds": {
+        "imdb": "tt19785426"
+      },
+      "releaseDate": "2022"
+    },
+    {
+      "id": "cannes-ucr-screenplay-2025-pillion",
+      "mediaType": "movie",
+      "title": "后座",
+      "awardYear": 2025,
+      "winner": "Harry Lighton",
+      "externalIds": {
+        "imdb": "tt32321317"
+      },
+      "releaseDate": "2025"
+    }
+  ]
+}

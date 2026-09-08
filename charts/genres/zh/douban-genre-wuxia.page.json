@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "icon": "chart.bar",
+  "title": "武侠片榜单",
+  "description": "豆瓣武侠片榜单，涵盖 2 个国家和地区。",
+  "tags": [
+    "douban",
+    "chart",
+    "genre",
+    "wuxia"
+  ],
+  "sections": [
+    {
+      "title": "华语武侠片",
+      "layout": "carousel",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECEAOOAHI"
+        }
+      ]
+    },
+    {
+      "title": "中国大陆武侠片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "EC6YOLGQQ"
+        }
+      ]
+    }
+  ]
+}

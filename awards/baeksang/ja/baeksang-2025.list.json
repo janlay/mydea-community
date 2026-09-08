@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T02:58:14Z",
+  "title": "百想芸術大賞 — 2025",
+  "description": "2025年の百想芸術大賞における映画部門の受賞作品。",
+  "items": [
+    {
+      "id": "baeksang-2025-film-grand-harbin",
+      "mediaType": "movie",
+      "title": "ハルビン",
+      "originalTitle": "하얼빈",
+      "award": "映画部門 大賞",
+      "awardYear": 2025,
+      "awardOrder": 1,
+      "winner": "ホン・ギョンピョ",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt23630030"
+      }
+    },
+    {
+      "id": "baeksang-2025-film-best-harbin",
+      "mediaType": "movie",
+      "title": "ハルビン",
+      "originalTitle": "하얼빈",
+      "award": "映画部門 作品賞",
+      "awardYear": 2025,
+      "awardOrder": 2,
+      "winner": "ハルビン",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt23630030"
+      }
+    },
+    {
+      "id": "baeksang-2025-film-director-revolver",
+      "mediaType": "movie",
+      "title": "リボルバー",
+      "originalTitle": "리볼버",
+      "award": "映画部門 監督賞",
+      "awardYear": 2025,
+      "awardOrder": 3,
+      "winner": "オ・スンウク",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt28284984"
+      }
+    },
+    {
+      "id": "baeksang-2025-film-actor-pilot",
+      "mediaType": "movie",
+      "title": "パイロット",
+      "originalTitle": "파일럿",
+      "award": "映画部門 男性最優秀演技賞",
+      "awardYear": 2025,
+      "awardOrder": 4,
+      "winner": "チョ・ジョンソク",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt32175399"
+      }
+    },
+    {
+      "id": "baeksang-2025-film-actress-revolver",
+      "mediaType": "movie",
+      "title": "リボルバー",
+      "originalTitle": "리볼버",
+      "award": "映画部門 女性最優秀演技賞",
+      "awardYear": 2025,
+      "awardOrder": 5,
+      "winner": "チョン・ドヨン",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt28284984"
+      }
+    }
+  ]
+}

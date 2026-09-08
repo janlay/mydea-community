@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-16T04:39:02Z",
+  "title": "圣丹斯电影节 2018 年获奖名单",
+  "description": "2018 年圣丹斯电影节四项核心长片评审团大奖获奖作品。",
+  "tags": [
+    "award",
+    "park-city",
+    "decade"
+  ],
+  "items": [
+    {
+      "id": "sundance-us-dramatic-2018-the-miseducation-of-cameron-post",
+      "mediaType": "movie",
+      "title": "卡梅伦的错误教育",
+      "englishTitle": "The Miseducation of Cameron Post",
+      "award": "美国剧情片评审团大奖",
+      "awardYear": 2018,
+      "awardOrder": 1,
+      "winner": "Desiree Akhavan",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt6257174"
+      }
+    },
+    {
+      "id": "sundance-us-documentary-2018-kailash",
+      "mediaType": "movie",
+      "title": "Kailash",
+      "award": "美国纪录片评审团大奖",
+      "awardYear": 2018,
+      "awardOrder": 2,
+      "winner": "Derek Doneen",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7689912"
+      }
+    },
+    {
+      "id": "sundance-world-dramatic-2018-butterflies",
+      "mediaType": "movie",
+      "title": "Butterflies",
+      "award": "世界电影剧情片评审团大奖",
+      "awardYear": 2018,
+      "awardOrder": 3,
+      "winner": "Tolga Karaçelik",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7318202"
+      }
+    },
+    {
+      "id": "sundance-world-documentary-2018-of-fathers-and-sons",
+      "mediaType": "movie",
+      "title": "父子之间",
+      "englishTitle": "Of Fathers and Sons",
+      "award": "世界电影纪录片评审团大奖",
+      "awardYear": 2018,
+      "awardOrder": 4,
+      "winner": "Talal Derki",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7519174"
+      }
+    }
+  ]
+}

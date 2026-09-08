@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "골든 글로브 2018",
+  "description": "2018 골든 글로브 텔레비전 작품 부문 수상 목록.",
+  "items": [
+    {
+      "id": "golden-globes-2018-tv_drama-the-handmaid-s-tale",
+      "mediaType": "tv",
+      "title": "핸드메이즈 테일",
+      "englishTitle": "The Handmaid's Tale",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5834204"
+      },
+      "award": "TV 드라마 작품상",
+      "awardYear": 2018,
+      "awardOrder": 1,
+      "winner": "핸드메이즈 테일"
+    },
+    {
+      "id": "golden-globes-2018-tv_comedy-the-marvelous-mrs-maisel",
+      "mediaType": "tv",
+      "title": "마블러스 미세스 메이즐",
+      "englishTitle": "The Marvelous Mrs. Maisel",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5788792"
+      },
+      "award": "TV 뮤지컬·코미디 작품상",
+      "awardYear": 2018,
+      "awardOrder": 2,
+      "winner": "마블러스 미세스 메이즐"
+    },
+    {
+      "id": "golden-globes-2018-limited-big-little-lies",
+      "mediaType": "tv",
+      "title": "빅 리틀 라이즈",
+      "englishTitle": "Big Little Lies",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt3920596"
+      },
+      "award": "리미티드 시리즈·앤솔러지·TV 영화상",
+      "awardYear": 2018,
+      "awardOrder": 3,
+      "winner": "빅 리틀 라이즈"
+    }
+  ]
+}

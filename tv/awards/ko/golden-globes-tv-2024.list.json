@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "골든 글로브 2024",
+  "description": "2024 골든 글로브 텔레비전 작품 부문 수상 목록.",
+  "items": [
+    {
+      "id": "golden-globes-2024-tv_drama-succession",
+      "mediaType": "tv",
+      "title": "석세션",
+      "englishTitle": "Succession",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7660850"
+      },
+      "award": "TV 드라마 작품상",
+      "awardYear": 2024,
+      "awardOrder": 1,
+      "winner": "석세션"
+    },
+    {
+      "id": "golden-globes-2024-tv_comedy-the-bear",
+      "mediaType": "tv",
+      "title": "더 베어",
+      "englishTitle": "The Bear",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt14452776"
+      },
+      "award": "TV 뮤지컬·코미디 작품상",
+      "awardYear": 2024,
+      "awardOrder": 2,
+      "winner": "더 베어"
+    },
+    {
+      "id": "golden-globes-2024-limited-beef",
+      "mediaType": "tv",
+      "title": "성난 사람들",
+      "englishTitle": "Beef",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt14403178"
+      },
+      "award": "리미티드 시리즈·앤솔러지·TV 영화상",
+      "awardYear": 2024,
+      "awardOrder": 3,
+      "winner": "성난 사람들"
+    }
+  ]
+}

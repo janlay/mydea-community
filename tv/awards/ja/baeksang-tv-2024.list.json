@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T02:58:14Z",
+  "title": "百想芸術大賞 — 2024",
+  "description": "2024年の百想芸術大賞におけるテレビ部門の受賞作品。",
+  "items": [
+    {
+      "id": "baeksang-2024-tv-grand-moving",
+      "mediaType": "tv",
+      "title": "ムービング",
+      "originalTitle": "무빙",
+      "award": "テレビ部門 大賞",
+      "awardYear": 2024,
+      "awardOrder": 1,
+      "winner": "ムービング",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt24640580"
+      }
+    },
+    {
+      "id": "baeksang-2024-tv-best-my-dearest",
+      "mediaType": "tv",
+      "title": "恋人～あの日聞いた花の咲く音～",
+      "originalTitle": "연인",
+      "award": "テレビ部門 作品賞",
+      "awardYear": 2024,
+      "awardOrder": 2,
+      "winner": "恋人～あの日聞いた花の咲く音～",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt26228190"
+      }
+    },
+    {
+      "id": "baeksang-2024-tv-director-worst-evil",
+      "mediaType": "tv",
+      "title": "最悪の悪",
+      "originalTitle": "최악의 악",
+      "award": "テレビ部門 演出賞",
+      "awardYear": 2024,
+      "awardOrder": 3,
+      "winner": "ハン・ドンウク",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt20600022"
+      }
+    },
+    {
+      "id": "baeksang-2024-tv-actor-my-dearest",
+      "mediaType": "tv",
+      "title": "恋人～あの日聞いた花の咲く音～",
+      "originalTitle": "연인",
+      "award": "テレビ部門 男性最優秀演技賞",
+      "awardYear": 2024,
+      "awardOrder": 4,
+      "winner": "ナムグン・ミン",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt26228190"
+      }
+    },
+    {
+      "id": "baeksang-2024-tv-actress-knight-flower",
+      "mediaType": "tv",
+      "title": "夜に咲く花",
+      "originalTitle": "밤에 피는 꽃",
+      "award": "テレビ部門 女性最優秀演技賞",
+      "awardYear": 2024,
+      "awardOrder": 5,
+      "winner": "イ・ハニ",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt30012439"
+      }
+    }
+  ]
+}

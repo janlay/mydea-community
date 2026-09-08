@@ -1,0 +1,284 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "title": "釜山国際映画祭 10年",
+  "description": "釜山国際映画祭の直近10回（2016–2025）の主要コンペティション受賞作品。",
+  "tags": [
+    "award",
+    "decade"
+  ],
+  "icon": "ticket",
+  "sections": [
+    {
+      "title": "釜山国際映画祭 — 2025",
+      "description": "釜山国際映画祭 2025 の主要コンペティション受賞作品。",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ],
+        [
+          "awardOrder",
+          "asc"
+        ]
+      ],
+      "layout": "carousel",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "biff-2025.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ]
+    },
+    {
+      "title": "釜山国際映画祭 — 2024",
+      "description": "釜山国際映画祭 2024 の主要コンペティション受賞作品。",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ],
+        [
+          "awardOrder",
+          "asc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "biff-2024.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ]
+    },
+    {
+      "title": "釜山国際映画祭 — 2023",
+      "description": "釜山国際映画祭 2023 の主要コンペティション受賞作品。",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ],
+        [
+          "awardOrder",
+          "asc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "biff-2023.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ]
+    },
+    {
+      "title": "釜山国際映画祭 — 2022",
+      "description": "釜山国際映画祭 2022 の主要コンペティション受賞作品。",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ],
+        [
+          "awardOrder",
+          "asc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "biff-2022.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ]
+    },
+    {
+      "title": "釜山国際映画祭 — 2021",
+      "description": "釜山国際映画祭 2021 の主要コンペティション受賞作品。",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ],
+        [
+          "awardOrder",
+          "asc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "biff-2021.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ]
+    },
+    {
+      "title": "釜山国際映画祭 — 2020",
+      "description": "釜山国際映画祭 2020 の主要コンペティション受賞作品。",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ],
+        [
+          "awardOrder",
+          "asc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "biff-2020.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ]
+    },
+    {
+      "title": "釜山国際映画祭 — 2019",
+      "description": "釜山国際映画祭 2019 の主要コンペティション受賞作品。",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ],
+        [
+          "awardOrder",
+          "asc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "biff-2019.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ]
+    },
+    {
+      "title": "釜山国際映画祭 — 2018",
+      "description": "釜山国際映画祭 2018 の主要コンペティション受賞作品。",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ],
+        [
+          "awardOrder",
+          "asc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "biff-2018.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ]
+    },
+    {
+      "title": "釜山国際映画祭 — 2017",
+      "description": "釜山国際映画祭 2017 の主要コンペティション受賞作品。",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ],
+        [
+          "awardOrder",
+          "asc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "biff-2017.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ]
+    },
+    {
+      "title": "釜山国際映画祭 — 2016",
+      "description": "釜山国際映画祭 2016 の主要コンペティション受賞作品。",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ],
+        [
+          "awardOrder",
+          "asc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "biff-2016.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T02:53:58Z",
+  "title": "Baeksang Arts Awards — 2024",
+  "description": "Broadcast category winners at the 2024 Baeksang Arts Awards.",
+  "items": [
+    {
+      "id": "baeksang-2024-tv-grand-moving",
+      "mediaType": "tv",
+      "title": "Moving",
+      "originalTitle": "무빙",
+      "award": "Broadcast Grand Prize",
+      "awardYear": 2024,
+      "awardOrder": 1,
+      "winner": "Moving",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt24640580"
+      }
+    },
+    {
+      "id": "baeksang-2024-tv-best-my-dearest",
+      "mediaType": "tv",
+      "title": "My Dearest",
+      "originalTitle": "연인",
+      "award": "Best Drama",
+      "awardYear": 2024,
+      "awardOrder": 2,
+      "winner": "My Dearest",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt26228190"
+      }
+    },
+    {
+      "id": "baeksang-2024-tv-director-worst-evil",
+      "mediaType": "tv",
+      "title": "The Worst of Evil",
+      "originalTitle": "최악의 악",
+      "award": "Best Director Broadcast",
+      "awardYear": 2024,
+      "awardOrder": 3,
+      "winner": "Han Dong-wook",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt20600022"
+      }
+    },
+    {
+      "id": "baeksang-2024-tv-actor-my-dearest",
+      "mediaType": "tv",
+      "title": "My Dearest",
+      "originalTitle": "연인",
+      "award": "Best Actor Broadcast",
+      "awardYear": 2024,
+      "awardOrder": 4,
+      "winner": "Namkoong Min",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt26228190"
+      }
+    },
+    {
+      "id": "baeksang-2024-tv-actress-knight-flower",
+      "mediaType": "tv",
+      "title": "Knight Flower",
+      "originalTitle": "밤에 피는 꽃",
+      "award": "Best Actress Broadcast",
+      "awardYear": 2024,
+      "awardOrder": 5,
+      "winner": "Lee Hanee",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt30012439"
+      }
+    }
+  ]
+}

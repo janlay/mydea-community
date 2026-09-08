@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T05:03:35Z",
+  "title": "プライムタイム・エミー賞 2022 受賞一覧",
+  "description": "第74回プライムタイム・エミー賞の主要部門受賞記録。",
+  "items": [
+    {
+      "id": "emmys-2022-drama-series-succession",
+      "mediaType": "tv",
+      "title": "メディア王 〜華麗なる一族〜",
+      "originalTitle": "Succession",
+      "award": "作品賞 ドラマ・シリーズ部門",
+      "awardYear": 2022,
+      "awardOrder": 1,
+      "winner": "Succession",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7660850"
+      }
+    },
+    {
+      "id": "emmys-2022-comedy-series-ted-lasso",
+      "mediaType": "tv",
+      "title": "テッド・ラッソ：破天荒コーチがゆく",
+      "originalTitle": "Ted Lasso",
+      "award": "作品賞 コメディ・シリーズ部門",
+      "awardYear": 2022,
+      "awardOrder": 2,
+      "winner": "Ted Lasso",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10986410"
+      }
+    },
+    {
+      "id": "emmys-2022-limited-series-the-white-lotus",
+      "mediaType": "tv",
+      "title": "ホワイト・ロータス / 諸事情だらけのリゾートホテル",
+      "originalTitle": "The White Lotus",
+      "award": "作品賞 リミテッド／アンソロジー・シリーズ部門",
+      "awardYear": 2022,
+      "awardOrder": 3,
+      "winner": "The White Lotus",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt13406094"
+      }
+    },
+    {
+      "id": "emmys-2022-lead-actor-drama-squid-game",
+      "mediaType": "tv",
+      "title": "イカゲーム",
+      "originalTitle": "Squid Game",
+      "award": "主演男優賞 ドラマ・シリーズ部門",
+      "awardYear": 2022,
+      "awardOrder": 4,
+      "winner": "Lee Jung-jae",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt10919420"
+      }
+    },
+    {
+      "id": "emmys-2022-lead-actress-drama-euphoria",
+      "mediaType": "tv",
+      "title": "ユーフォリア",
+      "originalTitle": "Euphoria",
+      "award": "主演女優賞 ドラマ・シリーズ部門",
+      "awardYear": 2022,
+      "awardOrder": 5,
+      "winner": "Zendaya",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt8772296"
+      }
+    },
+    {
+      "id": "emmys-2022-lead-actor-comedy-ted-lasso",
+      "mediaType": "tv",
+      "title": "テッド・ラッソ：破天荒コーチがゆく",
+      "originalTitle": "Ted Lasso",
+      "award": "主演男優賞 コメディ・シリーズ部門",
+      "awardYear": 2022,
+      "awardOrder": 6,
+      "winner": "Jason Sudeikis",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10986410"
+      }
+    },
+    {
+      "id": "emmys-2022-lead-actress-comedy-hacks",
+      "mediaType": "tv",
+      "title": "Hacks",
+      "award": "主演女優賞 コメディ・シリーズ部門",
+      "awardYear": 2022,
+      "awardOrder": 7,
+      "winner": "Jean Smart",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt11815682"
+      }
+    }
+  ]
+}

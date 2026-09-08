@@ -1,0 +1,875 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "title": "칸 — 심사위원상",
+  "author": "Mydea",
+  "updatedAt": "2026-09-16T04:43:24Z",
+  "description": "칸 영화제 장편영화 부문의 역대 수상작입니다. 심사위원상.",
+  "tags": [
+    "award",
+    "cannes",
+    "prize"
+  ],
+  "items": [
+    {
+      "id": "cannes-jury-prize-1946-the-battle-of-the-rails",
+      "mediaType": "movie",
+      "title": "The Battle of the Rails",
+      "awardYear": 1946,
+      "winner": "René Clément",
+      "externalIds": {
+        "tmdb": "39142"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-1951-all-about-eve",
+      "mediaType": "movie",
+      "title": "All About Eve",
+      "awardYear": 1951,
+      "winner": "Joseph L. Mankiewicz",
+      "externalIds": {
+        "tmdb": "705"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-1952-we-are-all-murderers",
+      "mediaType": "movie",
+      "title": "We Are All Murderers",
+      "awardYear": 1952,
+      "winner": "André Cayatte",
+      "externalIds": {
+        "tmdb": "199503"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-1954-knave-of-hearts",
+      "mediaType": "movie",
+      "title": "Knave of Hearts",
+      "awardYear": 1954,
+      "winner": "René Clément",
+      "externalIds": {
+        "imdb": "tt0047243"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-1955-lost-continent",
+      "mediaType": "movie",
+      "title": "Lost Continent",
+      "awardYear": 1955,
+      "winner": "Enrico Gras; Giorgio Moser; Leonardo Bonzi",
+      "externalIds": {
+        "tmdb": "199249"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-1956-the-mystery-of-picasso",
+      "mediaType": "movie",
+      "title": "The Mystery of Picasso",
+      "awardYear": 1956,
+      "winner": "Henri-Georges Clouzot",
+      "externalIds": {
+        "tmdb": "71822"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-1957-kanał",
+      "mediaType": "movie",
+      "title": "Kanał",
+      "awardYear": 1957,
+      "winner": "Andrzej Wajda",
+      "externalIds": {
+        "tmdb": "29933"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-1957-the-seventh-seal",
+      "mediaType": "movie",
+      "title": "The Seventh Seal",
+      "awardYear": 1957,
+      "winner": "Ingmar Bergman",
+      "externalIds": {
+        "tmdb": "490"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-1958-mon-oncle",
+      "mediaType": "movie",
+      "title": "Mon Oncle",
+      "awardYear": 1958,
+      "winner": "Jacques Tati",
+      "externalIds": {
+        "tmdb": "427"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-1959-stars",
+      "mediaType": "movie",
+      "title": "Stars",
+      "awardYear": 1959,
+      "winner": "Konrad Wolf",
+      "externalIds": {
+        "tmdb": "199177"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-1960-l-avventura",
+      "mediaType": "movie",
+      "title": "L'Avventura",
+      "awardYear": 1960,
+      "winner": "Michelangelo Antonioni",
+      "externalIds": {
+        "tmdb": "5165"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-1960-odd-obsession",
+      "mediaType": "movie",
+      "title": "Odd Obsession",
+      "awardYear": 1960,
+      "winner": "Kon Ichikawa",
+      "externalIds": {
+        "tmdb": "43095"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-1961-mother-joan-of-the-angels",
+      "mediaType": "movie",
+      "title": "Mother Joan of the Angels",
+      "awardYear": 1961,
+      "winner": "Jerzy Kawalerowicz",
+      "externalIds": {
+        "tmdb": "113458"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-1962-l-eclisse",
+      "mediaType": "movie",
+      "title": "L'Eclisse",
+      "awardYear": 1962,
+      "winner": "Michelangelo Antonioni",
+      "externalIds": {
+        "tmdb": "21135"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-1962-the-trial-of-joan-of-arc",
+      "mediaType": "movie",
+      "title": "The Trial of Joan of Arc",
+      "awardYear": 1962,
+      "winner": "Robert Bresson",
+      "externalIds": {
+        "tmdb": "48764"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-1963-harakiri",
+      "mediaType": "movie",
+      "title": "Harakiri",
+      "awardYear": 1963,
+      "winner": "Masaki Kobayashi",
+      "externalIds": {
+        "tmdb": "14537"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-1963-the-cassandra-cat",
+      "mediaType": "movie",
+      "title": "The Cassandra Cat",
+      "awardYear": 1963,
+      "winner": "Vojtěch Jasný",
+      "externalIds": {
+        "tmdb": "47852"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-1964-woman-in-the-dunes",
+      "mediaType": "movie",
+      "title": "Woman in the Dunes",
+      "awardYear": 1964,
+      "winner": "Hiroshi Teshigahara",
+      "externalIds": {
+        "tmdb": "16672"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-1965-kwaidan",
+      "mediaType": "movie",
+      "title": "Kwaidan",
+      "awardYear": 1965,
+      "winner": "Masaki Kobayashi",
+      "externalIds": {
+        "tmdb": "30959"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-1966-alfie",
+      "mediaType": "movie",
+      "title": "Alfie",
+      "awardYear": 1966,
+      "winner": "Lewis Gilbert",
+      "externalIds": {
+        "tmdb": "15598"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-1969-z",
+      "mediaType": "movie",
+      "title": "Z",
+      "awardYear": 1969,
+      "winner": "Costa-Gavras",
+      "externalIds": {
+        "tmdb": "2721"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-1970-the-falcons",
+      "mediaType": "movie",
+      "title": "The Falcons",
+      "awardYear": 1970,
+      "winner": "István Gaál",
+      "externalIds": {
+        "tmdb": "198659"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-1970-the-strawberry-statement",
+      "mediaType": "movie",
+      "title": "The Strawberry Statement",
+      "awardYear": 1970,
+      "winner": "Stuart Hagmann",
+      "externalIds": {
+        "tmdb": "51956"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-1971-joe-hill",
+      "mediaType": "movie",
+      "title": "Joe Hill",
+      "awardYear": 1971,
+      "winner": "Bo Widerberg",
+      "externalIds": {
+        "tmdb": "74746"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-1971-love",
+      "mediaType": "movie",
+      "title": "Love",
+      "awardYear": 1971,
+      "winner": "Károly Makk",
+      "externalIds": {
+        "tmdb": "42516"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-1972-slaughterhouse-five",
+      "mediaType": "movie",
+      "title": "Slaughterhouse-Five",
+      "awardYear": 1972,
+      "winner": "George Roy Hill",
+      "externalIds": {
+        "tmdb": "24559"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-1973-the-hourglass-sanatorium",
+      "mediaType": "movie",
+      "title": "The Hourglass Sanatorium",
+      "awardYear": 1973,
+      "winner": "Wojciech Has",
+      "externalIds": {
+        "tmdb": "45698"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-1973-the-invitation",
+      "mediaType": "movie",
+      "title": "The Invitation",
+      "awardYear": 1973,
+      "winner": "Claude Goretta",
+      "externalIds": {
+        "tmdb": "109815"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-1974-la-prima-angélica",
+      "mediaType": "movie",
+      "title": "La prima Angélica",
+      "awardYear": 1974,
+      "winner": "Carlos Saura",
+      "externalIds": {
+        "tmdb": "54236"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-1980-the-constant-factor",
+      "mediaType": "movie",
+      "title": "The Constant Factor",
+      "awardYear": 1980,
+      "winner": "Krzysztof Zanussi",
+      "externalIds": {
+        "tmdb": "198500"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-1983-kharij",
+      "mediaType": "movie",
+      "title": "Kharij",
+      "awardYear": 1983,
+      "winner": "Mrinal Sen",
+      "externalIds": {
+        "tmdb": "133751"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-1985-colonel-redl",
+      "mediaType": "movie",
+      "title": "Colonel Redl",
+      "awardYear": 1985,
+      "winner": "István Szabó",
+      "externalIds": {
+        "tmdb": "29471"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-1986-thérèse",
+      "mediaType": "movie",
+      "title": "Thérèse",
+      "awardYear": 1986,
+      "winner": "Alain Cavalier",
+      "externalIds": {
+        "tmdb": "42029"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-1987-shinran-path-to-purity",
+      "mediaType": "movie",
+      "title": "Shinran: Path to Purity",
+      "awardYear": 1987,
+      "winner": "Rentarō Mikuni",
+      "externalIds": {
+        "tmdb": "198454"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-1987-yeelen",
+      "mediaType": "movie",
+      "title": "Yeelen",
+      "awardYear": 1987,
+      "winner": "Souleymane Cissé",
+      "externalIds": {
+        "tmdb": "71329"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-1988-a-short-film-about-killing",
+      "mediaType": "movie",
+      "title": "A Short Film About Killing",
+      "awardYear": 1988,
+      "winner": "Krzysztof Kieślowski",
+      "externalIds": {
+        "tmdb": "10754"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-1989-jesus-of-montreal",
+      "mediaType": "movie",
+      "title": "Jesus of Montreal",
+      "awardYear": 1989,
+      "winner": "Denys Arcand",
+      "externalIds": {
+        "tmdb": "4486"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-1990-hidden-agenda",
+      "mediaType": "movie",
+      "title": "Hidden Agenda",
+      "awardYear": 1990,
+      "winner": "Ken Loach",
+      "externalIds": {
+        "tmdb": "47869"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-1991-europa",
+      "mediaType": "movie",
+      "title": "Europa",
+      "awardYear": 1991,
+      "winner": "Lars von Trier",
+      "externalIds": {
+        "tmdb": "9065"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-1991-out-of-life",
+      "mediaType": "movie",
+      "title": "Out of Life",
+      "awardYear": 1991,
+      "winner": "Maroun Bagdadi",
+      "externalIds": {
+        "tmdb": "66753"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-1992-an-independent-life",
+      "mediaType": "movie",
+      "title": "An Independent Life",
+      "awardYear": 1992,
+      "winner": "Vitali Kanevsky",
+      "externalIds": {
+        "tmdb": "196929"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-1992-dream-of-light",
+      "mediaType": "movie",
+      "title": "Dream of Light",
+      "awardYear": 1992,
+      "winner": "Víctor Erice",
+      "externalIds": {
+        "tmdb": "94706"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-1993-raining-stones",
+      "mediaType": "movie",
+      "title": "Raining Stones",
+      "awardYear": 1993,
+      "winner": "Ken Loach",
+      "externalIds": {
+        "tmdb": "62463"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-1993-the-puppetmaster",
+      "mediaType": "movie",
+      "title": "The Puppetmaster",
+      "awardYear": 1993,
+      "winner": "Hou Hsiao-hsien",
+      "externalIds": {
+        "tmdb": "96712"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-1994-la-reine-margot",
+      "mediaType": "movie",
+      "title": "La Reine Margot",
+      "awardYear": 1994,
+      "winner": "Patrice Chéreau",
+      "externalIds": {
+        "tmdb": "10452"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-1995-carrington",
+      "mediaType": "movie",
+      "title": "Carrington",
+      "awardYear": 1995,
+      "winner": "Christopher Hampton",
+      "externalIds": {
+        "tmdb": "47018"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-1995-don-t-forget-you-re-going-to-die",
+      "mediaType": "movie",
+      "title": "Don't Forget You're Going to Die",
+      "awardYear": 1995,
+      "winner": "Xavier Beauvois",
+      "externalIds": {
+        "tmdb": "72368"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-1996-crash",
+      "mediaType": "movie",
+      "title": "Crash",
+      "awardYear": 1996,
+      "winner": "David Cronenberg",
+      "externalIds": {
+        "tmdb": "884"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-1997-western",
+      "mediaType": "movie",
+      "title": "Western",
+      "awardYear": 1997,
+      "winner": "Manuel Poirier",
+      "externalIds": {
+        "tmdb": "39968"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-1998-class-trip",
+      "mediaType": "movie",
+      "title": "Class Trip",
+      "awardYear": 1998,
+      "winner": "Claude Miller",
+      "externalIds": {
+        "tmdb": "46817"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-1998-the-celebration",
+      "mediaType": "movie",
+      "title": "The Celebration",
+      "awardYear": 1998,
+      "winner": "Thomas Vinterberg",
+      "externalIds": {
+        "tmdb": "309"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-1999-the-letter",
+      "mediaType": "movie",
+      "title": "The Letter",
+      "awardYear": 1999,
+      "winner": "Manoel de Oliveira",
+      "externalIds": {
+        "tmdb": "105448"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-2000-blackboards",
+      "mediaType": "movie",
+      "title": "Blackboards",
+      "awardYear": 2000,
+      "winner": "Samira Makhmalbaf",
+      "externalIds": {
+        "tmdb": "28988"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-2000-songs-from-the-second-floor",
+      "mediaType": "movie",
+      "title": "Songs from the Second Floor",
+      "awardYear": 2000,
+      "winner": "Roy Andersson",
+      "externalIds": {
+        "tmdb": "34070"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-2002-divine-intervention",
+      "mediaType": "movie",
+      "title": "Divine Intervention",
+      "awardYear": 2002,
+      "winner": "Elia Suleiman",
+      "externalIds": {
+        "tmdb": "27744"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-2003-at-five-in-the-afternoon",
+      "mediaType": "movie",
+      "title": "At Five in the Afternoon",
+      "awardYear": 2003,
+      "winner": "Samira Makhmalbaf",
+      "externalIds": {
+        "tmdb": "43969"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-2004-the-ladykillers",
+      "mediaType": "movie",
+      "title": "The Ladykillers",
+      "awardYear": 2004,
+      "winner": "Irma P. Hall",
+      "externalIds": {
+        "tmdb": "5516"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-2004-tropical-malady",
+      "mediaType": "movie",
+      "title": "Tropical Malady",
+      "awardYear": 2004,
+      "winner": "Apichatpong Weerasethakul",
+      "externalIds": {
+        "tmdb": "11534"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-2005-shanghai-dreams",
+      "mediaType": "movie",
+      "title": "Shanghai Dreams",
+      "awardYear": 2005,
+      "winner": "Wang Xiaoshuai",
+      "externalIds": {
+        "tmdb": "101908"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-2006-red-road",
+      "mediaType": "movie",
+      "title": "Red Road",
+      "awardYear": 2006,
+      "winner": "Andrea Arnold",
+      "externalIds": {
+        "tmdb": "11705"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-2007-persepolis",
+      "mediaType": "movie",
+      "title": "Persepolis",
+      "awardYear": 2007,
+      "winner": "Marjane Satrapi; Vincent Paronnaud",
+      "externalIds": {
+        "tmdb": "2011"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-2007-silent-light",
+      "mediaType": "movie",
+      "title": "Silent Light",
+      "awardYear": 2007,
+      "winner": "Carlos Reygadas",
+      "externalIds": {
+        "tmdb": "2012"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-2008-il-divo",
+      "mediaType": "movie",
+      "title": "일 디보",
+      "awardYear": 2008,
+      "winner": "Paolo Sorrentino",
+      "externalIds": {
+        "tmdb": "8832"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-2009-fish-tank",
+      "mediaType": "movie",
+      "title": "Fish Tank",
+      "awardYear": 2009,
+      "winner": "Andrea Arnold",
+      "externalIds": {
+        "tmdb": "24469"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-2009-thirst",
+      "mediaType": "movie",
+      "title": "Thirst",
+      "awardYear": 2009,
+      "winner": "Park Chan-wook",
+      "externalIds": {
+        "tmdb": "22536"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-2010-a-screaming-man",
+      "mediaType": "movie",
+      "title": "A Screaming Man",
+      "awardYear": 2010,
+      "winner": "Mahamat-Saleh Haroun",
+      "externalIds": {
+        "tmdb": "57602"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-2011-polisse",
+      "mediaType": "movie",
+      "title": "Polisse",
+      "awardYear": 2011,
+      "winner": "Maïwenn",
+      "externalIds": {
+        "tmdb": "71157"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-2012-the-angels-share",
+      "mediaType": "movie",
+      "title": "The Angels' Share",
+      "awardYear": 2012,
+      "winner": "Ken Loach",
+      "externalIds": {
+        "tmdb": "103747"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-2013-like-father-like-son",
+      "mediaType": "movie",
+      "title": "Like Father, Like Son",
+      "awardYear": 2013,
+      "winner": "Hirokazu Kore-eda",
+      "externalIds": {
+        "tmdb": "177945"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-2014-goodbye-to-language",
+      "mediaType": "movie",
+      "title": "Goodbye to Language",
+      "awardYear": 2014,
+      "winner": "Jean-Luc Godard",
+      "externalIds": {
+        "tmdb": "114982"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-2014-mommy",
+      "mediaType": "movie",
+      "title": "Mommy",
+      "awardYear": 2014,
+      "winner": "Xavier Dolan",
+      "externalIds": {
+        "tmdb": "265177"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-2015-the-lobster",
+      "mediaType": "movie",
+      "title": "The Lobster",
+      "awardYear": 2015,
+      "winner": "Yorgos Lanthimos",
+      "externalIds": {
+        "tmdb": "254320"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-2016-american-honey",
+      "mediaType": "movie",
+      "title": "American Honey",
+      "awardYear": 2016,
+      "winner": "Andrea Arnold",
+      "externalIds": {
+        "tmdb": "340485"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-2017-loveless",
+      "mediaType": "movie",
+      "title": "Loveless",
+      "awardYear": 2017,
+      "winner": "Andrey Zvyagintsev",
+      "externalIds": {
+        "tmdb": "429174"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-2018-capernaum",
+      "mediaType": "movie",
+      "title": "Capernaum",
+      "awardYear": 2018,
+      "winner": "Nadine Labaki",
+      "externalIds": {
+        "tmdb": "517814"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-2019-bacurau",
+      "mediaType": "movie",
+      "title": "Bacurau",
+      "awardYear": 2019,
+      "winner": "Kleber Mendonça Filho; Juliano Dornelles",
+      "externalIds": {
+        "tmdb": "446159"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-2019-les-misérables",
+      "mediaType": "movie",
+      "title": "Les Misérables",
+      "awardYear": 2019,
+      "winner": "Ladj Ly",
+      "externalIds": {
+        "tmdb": "586863"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-2021-ahed-s-knee",
+      "mediaType": "movie",
+      "title": "Ahed's Knee",
+      "awardYear": 2021,
+      "winner": "Nadav Lapid",
+      "externalIds": {
+        "tmdb": "662029"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-2021-memoria",
+      "mediaType": "movie",
+      "title": "Memoria",
+      "awardYear": 2021,
+      "winner": "Apichatpong Weerasethakul",
+      "externalIds": {
+        "tmdb": "511819"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-2022-eo",
+      "mediaType": "movie",
+      "title": "EO",
+      "awardYear": 2022,
+      "winner": "Jerzy Skolimowski",
+      "externalIds": {
+        "tmdb": "785398"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-2022-the-eight-mountains",
+      "mediaType": "movie",
+      "title": "The Eight Mountains",
+      "awardYear": 2022,
+      "winner": "Felix van Groeningen; Charlotte Vandermeersch",
+      "externalIds": {
+        "tmdb": "803700"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-2023-fallen-leaves",
+      "mediaType": "movie",
+      "title": "Fallen Leaves",
+      "awardYear": 2023,
+      "winner": "Aki Kaurismäki",
+      "externalIds": {
+        "tmdb": "986280"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-2024-emilia-pérez",
+      "mediaType": "movie",
+      "title": "에밀리아 페레즈",
+      "awardYear": 2024,
+      "winner": "Jacques Audiard",
+      "externalIds": {
+        "tmdb": "974950"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-2025-sirāt",
+      "mediaType": "movie",
+      "title": "Sirāt",
+      "awardYear": 2025,
+      "winner": "Oliver Laxe",
+      "externalIds": {
+        "tmdb": "1151272"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-2025-sound-of-falling",
+      "mediaType": "movie",
+      "title": "Sound of Falling",
+      "awardYear": 2025,
+      "winner": "Mascha Schilinski",
+      "externalIds": {
+        "tmdb": "1221061"
+      }
+    },
+    {
+      "id": "cannes-jury-prize-2026-the-dreamed-adventure",
+      "mediaType": "movie",
+      "title": "The Dreamed Adventure",
+      "awardYear": 2026,
+      "winner": "Valeska Grisebach",
+      "externalIds": {
+        "tmdb": "1013822"
+      }
+    }
+  ]
+}

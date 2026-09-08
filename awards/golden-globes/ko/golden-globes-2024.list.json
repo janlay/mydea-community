@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "골든 글로브 2024",
+  "description": "2024 골든 글로브 영화 작품 부문 수상 목록.",
+  "items": [
+    {
+      "id": "golden-globes-2024-drama-oppenheimer",
+      "mediaType": "movie",
+      "title": "오펜하이머",
+      "englishTitle": "Oppenheimer",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt15398776"
+      },
+      "award": "작품상 드라마",
+      "awardYear": 2024,
+      "awardOrder": 1,
+      "winner": "오펜하이머"
+    },
+    {
+      "id": "golden-globes-2024-comedy-poor-things",
+      "mediaType": "movie",
+      "title": "가여운 것들",
+      "englishTitle": "Poor Things",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt14230458"
+      },
+      "award": "작품상 뮤지컬·코미디",
+      "awardYear": 2024,
+      "awardOrder": 2,
+      "winner": "가여운 것들"
+    },
+    {
+      "id": "golden-globes-2024-animated-the-boy-and-the-heron",
+      "mediaType": "movie",
+      "title": "그대들은 어떻게 살 것인가",
+      "englishTitle": "The Boy and the Heron",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt6587046"
+      },
+      "award": "애니메이션 영화상",
+      "awardYear": 2024,
+      "awardOrder": 3,
+      "winner": "그대들은 어떻게 살 것인가"
+    },
+    {
+      "id": "golden-globes-2024-foreign-anatomy-of-a-fall",
+      "mediaType": "movie",
+      "title": "추락의 해부",
+      "englishTitle": "Anatomy of a Fall",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt17009710"
+      },
+      "award": "비영어권 영화상",
+      "awardYear": 2024,
+      "awardOrder": 4,
+      "winner": "추락의 해부"
+    },
+    {
+      "id": "golden-globes-2024-boxoffice-barbie",
+      "mediaType": "movie",
+      "title": "바비",
+      "englishTitle": "Barbie",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt1517268"
+      },
+      "award": "시네마틱 및 박스오피스 성취상",
+      "awardYear": 2024,
+      "awardOrder": 5,
+      "winner": "바비"
+    }
+  ]
+}

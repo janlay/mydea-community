@@ -1,0 +1,284 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "title": "柏林十年",
+  "description": "柏林电影节最近十届（2017–2026）主竞赛获奖名单。",
+  "tags": [
+    "award",
+    "decade"
+  ],
+  "icon": "ticket",
+  "sections": [
+    {
+      "title": "柏林 — 2026",
+      "description": "柏林国际电影节 2026 年主竞赛国际评审团主要奖项获奖影片。",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "berlinale-2026.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ],
+        [
+          "awardOrder",
+          "asc"
+        ]
+      ],
+      "layout": "carousel",
+      "bindings": [
+        "winner",
+        "award"
+      ]
+    },
+    {
+      "title": "柏林 — 2025",
+      "description": "柏林国际电影节 2025 年主竞赛国际评审团主要奖项获奖影片。",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "berlinale-2025.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ],
+        [
+          "awardOrder",
+          "asc"
+        ]
+      ],
+      "layout": "grid",
+      "bindings": [
+        "winner",
+        "award"
+      ]
+    },
+    {
+      "title": "柏林 — 2024",
+      "description": "柏林国际电影节 2024 年主竞赛国际评审团主要奖项获奖影片。",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "berlinale-2024.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ],
+        [
+          "awardOrder",
+          "asc"
+        ]
+      ],
+      "layout": "grid",
+      "bindings": [
+        "winner",
+        "award"
+      ]
+    },
+    {
+      "title": "柏林 — 2023",
+      "description": "柏林国际电影节 2023 年主竞赛国际评审团主要奖项获奖影片。",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "berlinale-2023.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ],
+        [
+          "awardOrder",
+          "asc"
+        ]
+      ],
+      "layout": "grid",
+      "bindings": [
+        "winner",
+        "award"
+      ]
+    },
+    {
+      "title": "柏林 — 2022",
+      "description": "柏林国际电影节 2022 年主竞赛国际评审团主要奖项获奖影片。",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "berlinale-2022.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ],
+        [
+          "awardOrder",
+          "asc"
+        ]
+      ],
+      "layout": "grid",
+      "bindings": [
+        "winner",
+        "award"
+      ]
+    },
+    {
+      "title": "柏林 — 2021",
+      "description": "柏林国际电影节 2021 年主竞赛国际评审团主要奖项获奖影片。",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "berlinale-2021.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ],
+        [
+          "awardOrder",
+          "asc"
+        ]
+      ],
+      "layout": "grid",
+      "bindings": [
+        "winner",
+        "award"
+      ]
+    },
+    {
+      "title": "柏林 — 2020",
+      "description": "柏林国际电影节 2020 年主竞赛国际评审团主要奖项获奖影片。",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "berlinale-2020.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ],
+        [
+          "awardOrder",
+          "asc"
+        ]
+      ],
+      "layout": "grid",
+      "bindings": [
+        "winner",
+        "award"
+      ]
+    },
+    {
+      "title": "柏林 — 2019",
+      "description": "柏林国际电影节 2019 年主竞赛国际评审团主要奖项获奖影片。",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "berlinale-2019.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ],
+        [
+          "awardOrder",
+          "asc"
+        ]
+      ],
+      "layout": "grid",
+      "bindings": [
+        "winner",
+        "award"
+      ]
+    },
+    {
+      "title": "柏林 — 2018",
+      "description": "柏林国际电影节 2018 年主竞赛国际评审团主要奖项获奖影片。",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "berlinale-2018.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ],
+        [
+          "awardOrder",
+          "asc"
+        ]
+      ],
+      "layout": "grid",
+      "bindings": [
+        "winner",
+        "award"
+      ]
+    },
+    {
+      "title": "柏林 — 2017",
+      "description": "柏林国际电影节 2017 年主竞赛国际评审团主要奖项获奖影片。",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "berlinale-2017.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ],
+        [
+          "awardOrder",
+          "asc"
+        ]
+      ],
+      "layout": "grid",
+      "bindings": [
+        "winner",
+        "award"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "title": "金球獎",
+  "description": "金球獎主要電視作品類獎項獲獎資料。",
+  "tags": [
+    "award",
+    "tv"
+  ],
+  "icon": "ticket",
+  "sections": [
+    {
+      "title": "金球獎 — 最佳劇情類影集",
+      "description": "2017–2026 年金球獎最佳劇情類影集获奖作品。",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "carousel",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "golden-globes-tv-drama.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "金球獎 — 最佳音樂或喜劇類影集",
+      "description": "2017–2026 年金球獎最佳音樂或喜劇類影集获奖作品。",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "golden-globes-tv-comedy.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "金球獎 — 最佳有限影集、選集影集或電視電影",
+      "description": "2017–2026 年金球獎最佳有限影集、選集影集或電視電影获奖作品。",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "golden-globes-limited.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    }
+  ]
+}

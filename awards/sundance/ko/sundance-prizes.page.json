@@ -1,0 +1,112 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "updatedAt": "2026-09-16T04:39:02Z",
+  "title": "선댄스 영화제 수상 부문",
+  "description": "선댄스 영화제 4개 핵심 장편 경쟁 부문 심사위원대상의 역대 수상작.",
+  "tags": [
+    "award",
+    "park-city",
+    "prize"
+  ],
+  "icon": "ticket",
+  "sections": [
+    {
+      "title": "선댄스 영화제 — 미국 극영화 심사위원대상",
+      "description": "선댄스 영화제 “미국 극영화 심사위원대상” 역대 수상작. 1985년부터의 전체 수상 기록을 수록하며 공동 수상은 개별 항목으로 유지.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "carousel",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "sundance-us-grand-jury-dramatic.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "선댄스 영화제 — 미국 다큐멘터리 심사위원대상",
+      "description": "선댄스 영화제 “미국 다큐멘터리 심사위원대상” 역대 수상작. 1985년부터의 전체 수상 기록을 수록하며 공동 수상은 개별 항목으로 유지.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "sundance-us-grand-jury-documentary.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "선댄스 영화제 — 월드 시네마 극영화 심사위원대상",
+      "description": "선댄스 영화제 “월드 시네마 극영화 심사위원대상” 역대 수상작. 2005년부터의 전체 수상 기록을 수록하며 공동 수상은 개별 항목으로 유지.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "sundance-world-cinema-grand-jury-dramatic.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "선댄스 영화제 — 월드 시네마 다큐멘터리 심사위원대상",
+      "description": "선댄스 영화제 “월드 시네마 다큐멘터리 심사위원대상” 역대 수상작. 2005년부터의 전체 수상 기록을 수록하며 공동 수상은 개별 항목으로 유지.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "sundance-world-cinema-grand-jury-documentary.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    }
+  ]
+}

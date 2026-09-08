@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "icon": "chart.bar",
+  "title": "Global Top Movies",
+  "description": "Long-running, stable rankings built from years of ratings and viewing data — not day-to-day popularity swings. Covers IMDb, TMDB, Letterboxd, Trakt, Rotten Tomatoes, and MDBList.",
+  "tags": [
+    "chart",
+    "top",
+    "global"
+  ],
+  "sections": [
+    {
+      "title": "IMDb Top 250",
+      "description": "IMDb's long-running Top 250, ranked by weighted user rating.",
+      "layout": "carousel",
+      "service": "imdb",
+      "query": "imdb_custom_list",
+      "params": [
+        {
+          "name": "chart_shortcut",
+          "value": "top"
+        },
+        {
+          "name": "list_url",
+          "value": "top"
+        }
+      ]
+    },
+    {
+      "title": "IMDb Top English Movies",
+      "description": "IMDb's top-rated English-language movies.",
+      "layout": "grid",
+      "service": "imdb",
+      "query": "imdb_custom_list",
+      "params": [
+        {
+          "name": "chart_shortcut",
+          "value": "top-english-movies"
+        },
+        {
+          "name": "list_url",
+          "value": "top-english-movies"
+        }
+      ]
+    },
+    {
+      "title": "TMDB — Top Rated",
+      "description": "TMDB's all-time highest-rated movies by community votes.",
+      "layout": "grid",
+      "service": "tmdb",
+      "query": "tmdb_top_rated",
+      "params": [
+        {
+          "name": "media_type",
+          "value": "movie"
+        }
+      ]
+    },
+    {
+      "title": "Letterboxd — Popular All Time",
+      "description": "The films most logged by Letterboxd members of all time.",
+      "layout": "grid",
+      "service": "letterboxd",
+      "query": "letterboxd_custom_list",
+      "params": [
+        {
+          "name": "list_shortcut",
+          "value": "/"
+        },
+        {
+          "name": "list_url",
+          "value": "/"
+        }
+      ]
+    },
+    {
+      "title": "Trakt — Most Watched All Time",
+      "description": "Movies watched by the most Trakt users of all time.",
+      "layout": "grid",
+      "service": "trakt",
+      "query": "trakt_most_watched",
+      "params": [
+        {
+          "name": "media_type",
+          "value": "movies"
+        },
+        {
+          "name": "period",
+          "value": "all"
+        },
+        {
+          "name": "genre",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "title": "Rotten Tomatoes — Top Critic Picks",
+      "description": "Movies at home ranked by the highest Tomatometer scores.",
+      "layout": "grid",
+      "service": "rottentomatoes",
+      "query": "rotten_tomatoes_custom_list",
+      "params": [
+        {
+          "name": "list_shortcut",
+          "value": "https://www.rottentomatoes.com/browse/movies_at_home/sort:critic_highest"
+        },
+        {
+          "name": "list_url",
+          "value": "https://www.rottentomatoes.com/browse/movies_at_home/sort:critic_highest"
+        }
+      ]
+    },
+    {
+      "title": "MDBList — RT Top 300",
+      "description": "Rotten Tomatoes' 300 best movies of all time. Requires an MDBList API key configured in the service settings.",
+      "layout": "grid",
+      "service": "mdblist",
+      "query": "mdblist_list",
+      "params": [
+        {
+          "name": "award_shortcut",
+          "value": "tbotcotw/rotten-tomatoes-300-best-movies-of-all-time"
+        },
+        {
+          "name": "list",
+          "value": "tbotcotw/rotten-tomatoes-300-best-movies-of-all-time"
+        }
+      ]
+    }
+  ]
+}

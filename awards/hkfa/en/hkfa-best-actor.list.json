@@ -1,0 +1,494 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-10T15:07:00Z",
+  "title": "Hong Kong Film Awards — Best Actor",
+  "description": "Complete historical winners of the Hong Kong Film Award for Actor.",
+  "items": [
+    {
+      "id": "hkfa-best-actor-1982-hkfa-film",
+      "mediaType": "movie",
+      "title": "Security Unlimited",
+      "releaseDate": "1981",
+      "externalIds": {
+        "imdb": "tt0082761"
+      },
+      "awardYear": 1982,
+      "winner": "許冠文"
+    },
+    {
+      "id": "hkfa-best-actor-1983-hkfa-film",
+      "mediaType": "movie",
+      "title": "Aces Go Places",
+      "releaseDate": "1982",
+      "externalIds": {
+        "imdb": "tt0084955"
+      },
+      "awardYear": 1983,
+      "winner": "麥嘉"
+    },
+    {
+      "id": "hkfa-best-actor-1984-hkfa-film",
+      "mediaType": "movie",
+      "title": "Reign Behind a Curtain",
+      "releaseDate": "1983",
+      "externalIds": {
+        "imdb": "tt0085336"
+      },
+      "awardYear": 1984,
+      "winner": "梁家輝"
+    },
+    {
+      "id": "hkfa-best-actor-1985-hkfa-film",
+      "mediaType": "movie",
+      "title": "Law with Two Phases",
+      "releaseDate": "1984",
+      "externalIds": {
+        "imdb": "tt0087352"
+      },
+      "awardYear": 1985,
+      "winner": "李修賢"
+    },
+    {
+      "id": "hkfa-best-actor-1986-hkfa-film",
+      "mediaType": "movie",
+      "title": "Why Me?",
+      "releaseDate": "1985",
+      "externalIds": {
+        "imdb": "tt0089259"
+      },
+      "awardYear": 1986,
+      "winner": "鄭則仕"
+    },
+    {
+      "id": "hkfa-best-actor-1987-hkfa-film",
+      "mediaType": "movie",
+      "title": "A Better Tomorrow",
+      "releaseDate": "1986",
+      "externalIds": {
+        "imdb": "tt0092263"
+      },
+      "awardYear": 1987,
+      "winner": "周潤發"
+    },
+    {
+      "id": "hkfa-best-actor-1988-hkfa-film",
+      "mediaType": "movie",
+      "title": "City on Fire",
+      "releaseDate": "1987",
+      "externalIds": {
+        "imdb": "tt0093435"
+      },
+      "awardYear": 1988,
+      "winner": "周潤發"
+    },
+    {
+      "id": "hkfa-best-actor-1989-hkfa-film",
+      "mediaType": "movie",
+      "title": "Painted Faces",
+      "releaseDate": "1988",
+      "externalIds": {
+        "imdb": "tt0095937"
+      },
+      "awardYear": 1989,
+      "winner": "洪金寶"
+    },
+    {
+      "id": "hkfa-best-actor-1990-hkfa-film",
+      "mediaType": "movie",
+      "title": "All About Ah-Long",
+      "releaseDate": "1989",
+      "externalIds": {
+        "imdb": "tt0098694"
+      },
+      "awardYear": 1990,
+      "winner": "周潤發"
+    },
+    {
+      "id": "hkfa-best-actor-1991-hkfa-film",
+      "mediaType": "movie",
+      "title": "Days of Being Wild",
+      "releaseDate": "1990",
+      "externalIds": {
+        "imdb": "tt0101258"
+      },
+      "awardYear": 1991,
+      "winner": "張國榮"
+    },
+    {
+      "id": "hkfa-best-actor-1992-hkfa-film",
+      "mediaType": "movie",
+      "title": "Alan and Eric: Between Hello and Goodbye",
+      "releaseDate": "1991",
+      "externalIds": {
+        "imdb": "tt0102886"
+      },
+      "awardYear": 1992,
+      "winner": "曾志偉"
+    },
+    {
+      "id": "hkfa-best-actor-1993-92",
+      "mediaType": "movie",
+      "title": "92黑玫瑰對黑玫瑰",
+      "releaseDate": "1992",
+      "externalIds": {
+        "letterboxd": "92"
+      },
+      "awardYear": 1993,
+      "winner": "梁家輝"
+    },
+    {
+      "id": "hkfa-best-actor-1994-hkfa-film",
+      "mediaType": "movie",
+      "title": "The Untold Story",
+      "releaseDate": "1993",
+      "externalIds": {
+        "imdb": "tt0103743"
+      },
+      "awardYear": 1994,
+      "winner": "黃秋生"
+    },
+    {
+      "id": "hkfa-best-actor-1995-hkfa-film",
+      "mediaType": "movie",
+      "title": "Chungking Express",
+      "releaseDate": "1994",
+      "externalIds": {
+        "imdb": "tt0109424"
+      },
+      "awardYear": 1995,
+      "winner": "梁朝偉"
+    },
+    {
+      "id": "hkfa-best-actor-1996-hkfa-film",
+      "mediaType": "movie",
+      "title": "Summer Snow",
+      "releaseDate": "1995",
+      "externalIds": {
+        "imdb": "tt0111767"
+      },
+      "awardYear": 1996,
+      "winner": "喬宏"
+    },
+    {
+      "id": "hkfa-best-actor-1997-hkfa-film",
+      "mediaType": "movie",
+      "title": "The Log",
+      "releaseDate": "1996",
+      "externalIds": {
+        "imdb": "tt0116902"
+      },
+      "awardYear": 1997,
+      "winner": "鄭則仕"
+    },
+    {
+      "id": "hkfa-best-actor-1998-hkfa-film",
+      "mediaType": "movie",
+      "title": "Happy Together",
+      "releaseDate": "1997",
+      "externalIds": {
+        "imdb": "tt0118845"
+      },
+      "awardYear": 1998,
+      "winner": "梁朝偉"
+    },
+    {
+      "id": "hkfa-best-actor-1999-hkfa-film",
+      "mediaType": "movie",
+      "title": "Beast Cops",
+      "releaseDate": "1998",
+      "externalIds": {
+        "imdb": "tt0157366"
+      },
+      "awardYear": 1999,
+      "winner": "黃秋生"
+    },
+    {
+      "id": "hkfa-best-actor-2000-hkfa-film",
+      "mediaType": "movie",
+      "title": "Running Out of Time",
+      "releaseDate": "1999",
+      "externalIds": {
+        "imdb": "tt0216165"
+      },
+      "awardYear": 2000,
+      "winner": "劉德華"
+    },
+    {
+      "id": "hkfa-best-actor-2001-hkfa-film",
+      "mediaType": "movie",
+      "title": "In the Mood for Love",
+      "releaseDate": "2000",
+      "externalIds": {
+        "imdb": "tt0118694"
+      },
+      "awardYear": 2001,
+      "winner": "梁朝偉"
+    },
+    {
+      "id": "hkfa-best-actor-2002-hkfa-film",
+      "mediaType": "movie",
+      "title": "Shaolin Soccer",
+      "releaseDate": "2001",
+      "externalIds": {
+        "imdb": "tt0286112"
+      },
+      "awardYear": 2002,
+      "winner": "周星馳"
+    },
+    {
+      "id": "hkfa-best-actor-2003-hkfa-film",
+      "mediaType": "movie",
+      "title": "Infernal Affairs",
+      "releaseDate": "2002",
+      "externalIds": {
+        "imdb": "tt0338564"
+      },
+      "awardYear": 2003,
+      "winner": "梁朝偉"
+    },
+    {
+      "id": "hkfa-best-actor-2004-hkfa-film",
+      "mediaType": "movie",
+      "title": "Running on Karma",
+      "releaseDate": "2003",
+      "externalIds": {
+        "imdb": "tt0374184"
+      },
+      "awardYear": 2004,
+      "winner": "劉德華"
+    },
+    {
+      "id": "hkfa-best-actor-2005-2046",
+      "mediaType": "movie",
+      "title": "2046",
+      "releaseDate": "2004",
+      "externalIds": {
+        "letterboxd": "2046"
+      },
+      "awardYear": 2005,
+      "winner": "梁朝偉"
+    },
+    {
+      "id": "hkfa-best-actor-2006-hkfa-film",
+      "mediaType": "movie",
+      "title": "Election",
+      "releaseDate": "2005",
+      "externalIds": {
+        "imdb": "tt0434008"
+      },
+      "awardYear": 2006,
+      "winner": "梁家輝"
+    },
+    {
+      "id": "hkfa-best-actor-2007-hkfa-film",
+      "mediaType": "movie",
+      "title": "My Name Is Fame",
+      "releaseDate": "2006",
+      "externalIds": {
+        "imdb": "tt0843287"
+      },
+      "awardYear": 2007,
+      "winner": "劉青雲"
+    },
+    {
+      "id": "hkfa-best-actor-2008-hkfa-film",
+      "mediaType": "movie",
+      "title": "The Warlords",
+      "releaseDate": "2007",
+      "externalIds": {
+        "imdb": "tt0913968"
+      },
+      "awardYear": 2008,
+      "winner": "李連杰"
+    },
+    {
+      "id": "hkfa-best-actor-2009-hkfa-film",
+      "mediaType": "movie",
+      "title": "Beast Stalker",
+      "releaseDate": "2008",
+      "externalIds": {
+        "imdb": "tt1330525"
+      },
+      "awardYear": 2009,
+      "winner": "張家輝"
+    },
+    {
+      "id": "hkfa-best-actor-2010-hkfa-film",
+      "mediaType": "movie",
+      "title": "Echoes of the Rainbow",
+      "releaseDate": "2009",
+      "externalIds": {
+        "imdb": "tt1602572"
+      },
+      "awardYear": 2010,
+      "winner": "任達華"
+    },
+    {
+      "id": "hkfa-best-actor-2011-hkfa-film",
+      "mediaType": "movie",
+      "title": "The Stool Pigeon",
+      "releaseDate": "2010",
+      "externalIds": {
+        "imdb": "tt1535492"
+      },
+      "awardYear": 2011,
+      "winner": "謝霆鋒"
+    },
+    {
+      "id": "hkfa-best-actor-2012-hkfa-film",
+      "mediaType": "movie",
+      "title": "A Simple Life",
+      "releaseDate": "2011",
+      "externalIds": {
+        "imdb": "tt2008006"
+      },
+      "awardYear": 2012,
+      "winner": "劉德華"
+    },
+    {
+      "id": "hkfa-best-actor-2013-hkfa-film",
+      "mediaType": "movie",
+      "title": "Cold War",
+      "releaseDate": "2012",
+      "externalIds": {
+        "imdb": "tt2186715"
+      },
+      "awardYear": 2013,
+      "winner": "梁家輝"
+    },
+    {
+      "id": "hkfa-best-actor-2014-hkfa-film",
+      "mediaType": "movie",
+      "title": "Unbeatable",
+      "releaseDate": "2013",
+      "externalIds": {
+        "imdb": "tt3003668"
+      },
+      "awardYear": 2014,
+      "winner": "張家輝"
+    },
+    {
+      "id": "hkfa-best-actor-2015-3",
+      "mediaType": "movie",
+      "title": "竊聽風雲3",
+      "releaseDate": "2014",
+      "externalIds": {
+        "letterboxd": "3"
+      },
+      "awardYear": 2015,
+      "winner": "劉青雲"
+    },
+    {
+      "id": "hkfa-best-actor-2016-hkfa-film",
+      "mediaType": "movie",
+      "title": "Port of Call",
+      "releaseDate": "2015",
+      "externalIds": {
+        "imdb": "tt4417522"
+      },
+      "awardYear": 2016,
+      "winner": "郭富城"
+    },
+    {
+      "id": "hkfa-2017-best-actor-4379800",
+      "mediaType": "movie",
+      "title": "Trivisa",
+      "awardYear": 2017,
+      "winner": "林家棟",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4379800"
+      }
+    },
+    {
+      "id": "hkfa-2018-best-actor-7245176",
+      "mediaType": "movie",
+      "title": "Paradox",
+      "awardYear": 2018,
+      "winner": "古天樂",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7245176"
+      }
+    },
+    {
+      "id": "hkfa-2019-best-actor-8497794",
+      "mediaType": "movie",
+      "title": "Still Human",
+      "awardYear": 2019,
+      "winner": "黃秋生",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8497794"
+      }
+    },
+    {
+      "id": "hkfa-2020-best-actor-10975520",
+      "mediaType": "movie",
+      "title": "Twilight's Kiss",
+      "awardYear": 2020,
+      "winner": "太保",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10975520"
+      }
+    },
+    {
+      "id": "hkfa-2022-best-actor-14713814",
+      "mediaType": "movie",
+      "title": "Time",
+      "awardYear": 2022,
+      "winner": "謝賢",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14713814"
+      }
+    },
+    {
+      "id": "hkfa-2023-best-actor-10283270",
+      "mediaType": "movie",
+      "title": "Detective vs. Sleuths",
+      "awardYear": 2023,
+      "winner": "劉青雲",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt10283270"
+      }
+    },
+    {
+      "id": "hkfa-2024-best-actor-14099796",
+      "mediaType": "movie",
+      "title": "The Goldfinger",
+      "awardYear": 2024,
+      "winner": "梁朝偉",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt14099796"
+      }
+    },
+    {
+      "id": "hkfa-2025-best-actor-33499985",
+      "mediaType": "movie",
+      "title": "Papa",
+      "awardYear": 2025,
+      "winner": "劉青雲",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt33499985"
+      }
+    },
+    {
+      "id": "hkfa-2026-best-actor-34610311",
+      "mediaType": "movie",
+      "title": "The Shadow's Edge",
+      "awardYear": 2026,
+      "winner": "梁家輝",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt34610311"
+      }
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-22T08:41:11Z",
+  "cacheTtlInDays": 365,
+  "title": "2024年 金馬奨 主要賞受賞作品",
+  "description": "2024年金馬奨の主要賞受賞作品と受賞者。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "golden-horse-2024-best-feature-tt32186579",
+      "mediaType": "movie",
+      "title": "未完成の映画",
+      "award": "最優秀作品賞",
+      "awardYear": 2024,
+      "winner": "Lou Ye",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt32186579"
+      },
+      "awardOrder": 1,
+      "originalTitle": "一部未完成的電影"
+    },
+    {
+      "id": "golden-horse-2024-best-director-tt32186579",
+      "mediaType": "movie",
+      "title": "未完成の映画",
+      "award": "最優秀監督賞",
+      "awardYear": 2024,
+      "winner": "Lou Ye",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt32186579"
+      },
+      "awardOrder": 2,
+      "originalTitle": "一部未完成的電影"
+    },
+    {
+      "id": "golden-horse-2024-best-actor-tt33616511",
+      "mediaType": "movie",
+      "title": "ベ・ラ・ミ 気になるあなた",
+      "award": "最優秀主演男優賞",
+      "awardYear": 2024,
+      "winner": "Chang Chih-yung",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt33616511"
+      },
+      "awardOrder": 3,
+      "originalTitle": "漂亮朋友"
+    },
+    {
+      "id": "golden-horse-2024-best-actress-tt31660693",
+      "mediaType": "movie",
+      "title": "私たちの話し方",
+      "award": "最優秀主演女優賞",
+      "awardYear": 2024,
+      "winner": "Chung Suet-ying",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt31660693"
+      },
+      "awardOrder": 4,
+      "originalTitle": "看我今天怎麼說"
+    },
+    {
+      "id": "golden-horse-2024-best-supporting-actor-tt32915791",
+      "mediaType": "movie",
+      "title": "角頭",
+      "award": "最優秀助演男優賞",
+      "awardYear": 2024,
+      "winner": "Shih Ming-shuai",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt32915791"
+      },
+      "awardOrder": 5,
+      "originalTitle": "角頭－大橋頭"
+    },
+    {
+      "id": "golden-horse-2024-best-supporting-actress-tt33290581",
+      "mediaType": "movie",
+      "title": "イェンとアイリー",
+      "award": "最優秀助演女優賞",
+      "awardYear": 2024,
+      "winner": "Yang Gui Mei",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt33290581"
+      },
+      "awardOrder": 6,
+      "originalTitle": "小雁與吳愛麗"
+    },
+    {
+      "id": "golden-horse-2024-best-new-director-tt11101808",
+      "mediaType": "movie",
+      "title": "Mongrel",
+      "award": "最優秀新人監督賞",
+      "awardYear": 2024,
+      "winner": "Cengwei Liang, Yin You Qiao",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt11101808"
+      },
+      "awardOrder": 7,
+      "originalTitle": "白衣蒼狗"
+    },
+    {
+      "id": "golden-horse-2024-best-new-performer-tt29195650",
+      "mediaType": "movie",
+      "title": "BIG",
+      "award": "最優秀新人俳優賞",
+      "awardYear": 2024,
+      "winner": "Jheng You-fei",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt29195650"
+      },
+      "awardOrder": 8
+    }
+  ],
+  "tags": [
+    "award",
+    "taipei",
+    "decade"
+  ]
+}

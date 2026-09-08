@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T02:53:58Z",
+  "title": "Baeksang Arts Awards — 2025",
+  "description": "Broadcast category winners at the 2025 Baeksang Arts Awards.",
+  "items": [
+    {
+      "id": "baeksang-2025-tv-grand-culinary",
+      "mediaType": "tv",
+      "title": "Culinary Class Wars",
+      "originalTitle": "흑백요리사: 요리 계급 전쟁",
+      "award": "Broadcast Grand Prize",
+      "awardYear": 2025,
+      "awardOrder": 1,
+      "winner": "Culinary Class Wars",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt33040785"
+      }
+    },
+    {
+      "id": "baeksang-2025-tv-best-tangerines",
+      "mediaType": "tv",
+      "title": "When Life Gives You Tangerines",
+      "originalTitle": "폭싹 속았수다",
+      "award": "Best Drama",
+      "awardYear": 2025,
+      "awardOrder": 2,
+      "winner": "When Life Gives You Tangerines",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt26471411"
+      }
+    },
+    {
+      "id": "baeksang-2025-tv-director-doubt",
+      "mediaType": "tv",
+      "title": "Doubt",
+      "originalTitle": "이토록 친밀한 배신자",
+      "award": "Best Director Broadcast",
+      "awardYear": 2025,
+      "awardOrder": 3,
+      "winner": "Song Yeon-hwa",
+      "releaseDate": "2024",
+      "externalIds": {
+        "tmdb": "240942"
+      }
+    },
+    {
+      "id": "baeksang-2025-tv-actor-trauma",
+      "mediaType": "tv",
+      "title": "The Trauma Code: Heroes on Call",
+      "originalTitle": "중증외상센터",
+      "award": "Best Actor Broadcast",
+      "awardYear": 2025,
+      "awardOrder": 4,
+      "winner": "Ju Ji-hoon",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt28106730"
+      }
+    },
+    {
+      "id": "baeksang-2025-tv-actress-jeongnyeon",
+      "mediaType": "tv",
+      "title": "Jeongnyeon: The Star Is Born",
+      "originalTitle": "정년이",
+      "award": "Best Actress Broadcast",
+      "awardYear": 2025,
+      "awardOrder": 5,
+      "winner": "Kim Tae-ri",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt28197611"
+      }
+    }
+  ]
+}

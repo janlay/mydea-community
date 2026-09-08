@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "title": "칸 — 황금카메라상",
+  "author": "Mydea",
+  "updatedAt": "2026-09-16T04:43:24Z",
+  "description": "칸 영화제 황금카메라상의 역대 수상작입니다.",
+  "tags": [
+    "award",
+    "cannes",
+    "prize"
+  ],
+  "icon": "ticket",
+  "sections": [
+    {
+      "title": "칸 — 황금카메라상",
+      "description": "칸 영화제 황금카메라상의 역대 수상작입니다. 황금카메라상.",
+      "layout": "carousel",
+      "limit": 10,
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "cannes-camera-dor.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "칸 — 황금카메라 특별언급",
+      "description": "칸 영화제 황금카메라상의 역대 수상작입니다. 황금카메라 특별언급.",
+      "layout": "grid",
+      "limit": 10,
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "cannes-camera-dor-special-mention.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    }
+  ]
+}

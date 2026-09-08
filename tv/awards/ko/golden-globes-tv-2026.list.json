@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "골든 글로브 2026",
+  "description": "2026 골든 글로브 텔레비전 작품 부문 수상 목록.",
+  "items": [
+    {
+      "id": "golden-globes-2026-tv_drama-the-pitt",
+      "mediaType": "tv",
+      "title": "더 피트",
+      "englishTitle": "The Pitt",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31938062"
+      },
+      "award": "TV 드라마 작품상",
+      "awardYear": 2026,
+      "awardOrder": 1,
+      "winner": "더 피트"
+    },
+    {
+      "id": "golden-globes-2026-tv_comedy-the-studio",
+      "mediaType": "tv",
+      "title": "더 스튜디오",
+      "englishTitle": "The Studio",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt23649128"
+      },
+      "award": "TV 뮤지컬·코미디 작품상",
+      "awardYear": 2026,
+      "awardOrder": 2,
+      "winner": "더 스튜디오"
+    },
+    {
+      "id": "golden-globes-2026-limited-adolescence",
+      "mediaType": "tv",
+      "title": "소년의 시간",
+      "englishTitle": "Adolescence",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31806037"
+      },
+      "award": "리미티드 시리즈·앤솔러지·TV 영화상",
+      "awardYear": 2026,
+      "awardOrder": 3,
+      "winner": "소년의 시간"
+    }
+  ]
+}

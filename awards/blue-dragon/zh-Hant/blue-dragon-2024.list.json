@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T02:54:20Z",
+  "title": "青龍電影獎 — 2024",
+  "description": "2024年韓國青龍電影獎10個主要電影獎項獲獎作品。",
+  "items": [
+    {
+      "id": "blue-dragon-2024-best-film-1212",
+      "mediaType": "movie",
+      "title": "首爾之春",
+      "originalTitle": "서울의 봄",
+      "englishTitle": "12.12: The Day",
+      "award": "最佳影片",
+      "awardYear": 2024,
+      "awardOrder": 1,
+      "winner": "Kim Sung-su",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt22507524"
+      }
+    },
+    {
+      "id": "blue-dragon-2024-best-director-exhuma",
+      "mediaType": "movie",
+      "title": "破墓",
+      "originalTitle": "파묘",
+      "englishTitle": "Exhuma",
+      "award": "最佳導演",
+      "awardYear": 2024,
+      "awardOrder": 2,
+      "winner": "Jang Jae-hyun",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt27802490"
+      }
+    },
+    {
+      "id": "blue-dragon-2024-best-actor-1212",
+      "mediaType": "movie",
+      "title": "首爾之春",
+      "originalTitle": "서울의 봄",
+      "englishTitle": "12.12: The Day",
+      "award": "最佳男主角",
+      "awardYear": 2024,
+      "awardOrder": 3,
+      "winner": "Hwang Jung-min",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt22507524"
+      }
+    },
+    {
+      "id": "blue-dragon-2024-best-actress-exhuma",
+      "mediaType": "movie",
+      "title": "破墓",
+      "originalTitle": "파묘",
+      "englishTitle": "Exhuma",
+      "award": "最佳女主角",
+      "awardYear": 2024,
+      "awardOrder": 4,
+      "winner": "Kim Go-eun",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt27802490"
+      }
+    },
+    {
+      "id": "blue-dragon-2024-best-supporting-actor-i-executioner",
+      "mediaType": "movie",
+      "title": "老手2",
+      "originalTitle": "베테랑2",
+      "englishTitle": "I, the Executioner",
+      "award": "最佳男配角",
+      "awardYear": 2024,
+      "awardOrder": 5,
+      "winner": "Jung Hae-in",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt30287778"
+      }
+    },
+    {
+      "id": "blue-dragon-2024-best-supporting-actress-loh-kiwan",
+      "mediaType": "movie",
+      "title": "路基完",
+      "originalTitle": "로기완",
+      "englishTitle": "My Name Is Loh Kiwan",
+      "award": "最佳女配角",
+      "awardYear": 2024,
+      "awardOrder": 6,
+      "winner": "Lee Sang-hee",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt26672512"
+      }
+    },
+    {
+      "id": "blue-dragon-2024-best-new-director-dream-songs",
+      "mediaType": "movie",
+      "title": "你和我",
+      "originalTitle": "너와 나",
+      "englishTitle": "The Dream Songs",
+      "award": "最佳新人導演",
+      "awardYear": 2024,
+      "awardOrder": 7,
+      "winner": "Cho Hyun-chul",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt26757183"
+      }
+    },
+    {
+      "id": "blue-dragon-2024-best-new-actor-love-big-city",
+      "mediaType": "movie",
+      "title": "大都市的愛情法",
+      "originalTitle": "대도시의 사랑법",
+      "englishTitle": "Love in the Big City",
+      "award": "最佳新人男演員",
+      "awardYear": 2024,
+      "awardOrder": 8,
+      "winner": "Noh Sang-hyun",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt33022813"
+      }
+    },
+    {
+      "id": "blue-dragon-2024-best-new-actress-drive",
+      "mediaType": "movie",
+      "title": "駕駛",
+      "originalTitle": "드라이브",
+      "englishTitle": "Drive",
+      "award": "最佳新人女演員",
+      "awardYear": 2024,
+      "awardOrder": 9,
+      "winner": "Park Ju-hyun",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt32322546"
+      }
+    },
+    {
+      "id": "blue-dragon-2024-best-screenplay-dream-songs",
+      "mediaType": "movie",
+      "title": "你和我",
+      "originalTitle": "너와 나",
+      "englishTitle": "The Dream Songs",
+      "award": "最佳劇本",
+      "awardYear": 2024,
+      "awardOrder": 10,
+      "winner": "Cho Hyun-chul",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt26757183"
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-16T04:39:02Z",
+  "title": "圣丹斯电影节 2020 年获奖名单",
+  "description": "2020 年圣丹斯电影节四项核心长片评审团大奖获奖作品。",
+  "tags": [
+    "award",
+    "park-city",
+    "decade"
+  ],
+  "items": [
+    {
+      "id": "sundance-us-dramatic-2020-minari",
+      "mediaType": "movie",
+      "title": "米纳里",
+      "englishTitle": "Minari",
+      "award": "美国剧情片评审团大奖",
+      "awardYear": 2020,
+      "awardOrder": 1,
+      "winner": "Lee Isaac Chung",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10633456"
+      }
+    },
+    {
+      "id": "sundance-us-documentary-2020-boys-state",
+      "mediaType": "movie",
+      "title": "Boys State",
+      "award": "美国纪录片评审团大奖",
+      "awardYear": 2020,
+      "awardOrder": 2,
+      "winner": "Jesse Moss & Amanda McBaine",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt11095742"
+      }
+    },
+    {
+      "id": "sundance-world-dramatic-2020-yalda-a-night-for-forgiveness",
+      "mediaType": "movie",
+      "title": "Yalda, a Night for Forgiveness",
+      "originalTitle": "Yalda",
+      "award": "世界电影剧情片评审团大奖",
+      "awardYear": 2020,
+      "awardOrder": 3,
+      "winner": "Massoud Bakhshi",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt9834492"
+      }
+    },
+    {
+      "id": "sundance-world-documentary-2020-epicentro",
+      "mediaType": "movie",
+      "title": "Epicentro",
+      "award": "世界电影纪录片评审团大奖",
+      "awardYear": 2020,
+      "awardOrder": 4,
+      "winner": "Hubert Sauper",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt11393948"
+      }
+    }
+  ]
+}

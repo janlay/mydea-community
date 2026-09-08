@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "金球奖 2020",
+  "description": "2020 金球奖电影类获奖名单。",
+  "items": [
+    {
+      "id": "golden-globes-2020-drama-1917",
+      "mediaType": "movie",
+      "title": "1917",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt8579674"
+      },
+      "award": "最佳剧情片",
+      "awardYear": 2020,
+      "awardOrder": 1,
+      "winner": "1917"
+    },
+    {
+      "id": "golden-globes-2020-comedy-once-upon-a-time-in-hollywood",
+      "mediaType": "movie",
+      "title": "好莱坞往事",
+      "englishTitle": "Once Upon a Time... in Hollywood",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt7131622"
+      },
+      "award": "最佳音乐或喜剧片",
+      "awardYear": 2020,
+      "awardOrder": 2,
+      "winner": "好莱坞往事"
+    },
+    {
+      "id": "golden-globes-2020-animated-missing-link",
+      "mediaType": "movie",
+      "title": "遗失的环节",
+      "englishTitle": "Missing Link",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6348138"
+      },
+      "award": "最佳动画片",
+      "awardYear": 2020,
+      "awardOrder": 3,
+      "winner": "遗失的环节"
+    },
+    {
+      "id": "golden-globes-2020-foreign-parasite",
+      "mediaType": "movie",
+      "title": "寄生虫",
+      "englishTitle": "Parasite",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6751668"
+      },
+      "award": "最佳非英语片",
+      "awardYear": 2020,
+      "awardOrder": 4,
+      "winner": "寄生虫"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T05:03:35Z",
+  "title": "プライムタイム・エミー賞 — 主演女優賞 ドラマ・シリーズ部門",
+  "description": "プライムタイム・エミー賞「主演女優賞 ドラマ・シリーズ部門」の受賞記録。",
+  "items": [
+    {
+      "id": "emmys-2017-lead-actress-drama-the-handmaid-s-tale",
+      "mediaType": "tv",
+      "title": "ハンドメイズ・テイル／侍女の物語",
+      "originalTitle": "The Handmaid's Tale",
+      "awardYear": 2017,
+      "winner": "Elisabeth Moss",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5834204"
+      }
+    },
+    {
+      "id": "emmys-2018-lead-actress-drama-the-crown",
+      "mediaType": "tv",
+      "title": "ザ・クラウン",
+      "originalTitle": "The Crown",
+      "awardYear": 2018,
+      "winner": "Claire Foy",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4786824"
+      }
+    },
+    {
+      "id": "emmys-2019-lead-actress-drama-killing-eve",
+      "mediaType": "tv",
+      "title": "キリング・イヴ／Killing Eve",
+      "originalTitle": "Killing Eve",
+      "awardYear": 2019,
+      "winner": "Jodie Comer",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7016936"
+      }
+    },
+    {
+      "id": "emmys-2020-lead-actress-drama-euphoria",
+      "mediaType": "tv",
+      "title": "ユーフォリア",
+      "originalTitle": "Euphoria",
+      "awardYear": 2020,
+      "winner": "Zendaya",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt8772296"
+      }
+    },
+    {
+      "id": "emmys-2021-lead-actress-drama-the-crown",
+      "mediaType": "tv",
+      "title": "ザ・クラウン",
+      "originalTitle": "The Crown",
+      "awardYear": 2021,
+      "winner": "Olivia Colman",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4786824"
+      }
+    },
+    {
+      "id": "emmys-2022-lead-actress-drama-euphoria",
+      "mediaType": "tv",
+      "title": "ユーフォリア",
+      "originalTitle": "Euphoria",
+      "awardYear": 2022,
+      "winner": "Zendaya",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt8772296"
+      }
+    },
+    {
+      "id": "emmys-2023-lead-actress-drama-succession",
+      "mediaType": "tv",
+      "title": "メディア王 〜華麗なる一族〜",
+      "originalTitle": "Succession",
+      "awardYear": 2023,
+      "winner": "Sarah Snook",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7660850"
+      }
+    },
+    {
+      "id": "emmys-2024-lead-actress-drama-shogun",
+      "mediaType": "tv",
+      "title": "SHOGUN 将軍",
+      "originalTitle": "Shōgun",
+      "awardYear": 2024,
+      "winner": "Anna Sawai",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt2788316"
+      }
+    },
+    {
+      "id": "emmys-2025-lead-actress-drama-severance",
+      "mediaType": "tv",
+      "title": "セヴェランス",
+      "originalTitle": "Severance",
+      "awardYear": 2025,
+      "winner": "Britt Lower",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt11280740"
+      }
+    },
+    {
+      "id": "emmys-2026-lead-actress-drama-pluribus",
+      "mediaType": "tv",
+      "title": "プルリブス",
+      "originalTitle": "Pluribus",
+      "awardYear": 2026,
+      "winner": "Rhea Seehorn",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt22202452"
+      }
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T02:53:58Z",
+  "title": "百想藝術大賞 — 電視最佳男主角",
+  "description": "2017–2026 年百想藝術大賞電視最佳男主角獲獎記錄。",
+  "items": [
+    {
+      "id": "baeksang-2017-tv-actor-goblin",
+      "mediaType": "tv",
+      "title": "孤單又燦爛的神：鬼怪",
+      "originalTitle": "도깨비",
+      "awardYear": 2017,
+      "winner": "Gong Yoo",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5994364"
+      }
+    },
+    {
+      "id": "baeksang-2018-tv-actor-stranger",
+      "mediaType": "tv",
+      "title": "祕密森林",
+      "originalTitle": "비밀의 숲",
+      "awardYear": 2018,
+      "winner": "Cho Seung-woo",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6461346"
+      }
+    },
+    {
+      "id": "baeksang-2019-tv-actor-mr-sunshine",
+      "mediaType": "tv",
+      "title": "陽光先生",
+      "originalTitle": "미스터 션샤인",
+      "awardYear": 2019,
+      "winner": "Lee Byung-hun",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7094780"
+      }
+    },
+    {
+      "id": "baeksang-2020-tv-actor-camellia",
+      "mediaType": "tv",
+      "title": "山茶花開時",
+      "originalTitle": "동백꽃 필 무렵",
+      "awardYear": 2020,
+      "winner": "Kang Ha-neul",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10826064"
+      }
+    },
+    {
+      "id": "baeksang-2021-tv-actor-beyond-evil",
+      "mediaType": "tv",
+      "title": "怪物",
+      "originalTitle": "괴물",
+      "awardYear": 2021,
+      "winner": "Shin Ha-kyun",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt13634872"
+      }
+    },
+    {
+      "id": "baeksang-2022-tv-actor-red-sleeve",
+      "mediaType": "tv",
+      "title": "衣袖紅鑲邊",
+      "originalTitle": "옷소매 붉은 끝동",
+      "awardYear": 2022,
+      "winner": "Lee Jun-ho",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14687200"
+      }
+    },
+    {
+      "id": "baeksang-2023-tv-actor-reborn-rich",
+      "mediaType": "tv",
+      "title": "財閥家的小兒子",
+      "originalTitle": "재벌집 막내아들",
+      "awardYear": 2023,
+      "winner": "Lee Sung-min",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt18352538"
+      }
+    },
+    {
+      "id": "baeksang-2024-tv-actor-my-dearest",
+      "mediaType": "tv",
+      "title": "戀人",
+      "originalTitle": "연인",
+      "awardYear": 2024,
+      "winner": "Namkoong Min",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt26228190"
+      }
+    },
+    {
+      "id": "baeksang-2025-tv-actor-trauma",
+      "mediaType": "tv",
+      "title": "重症外傷中心",
+      "originalTitle": "중증외상센터",
+      "awardYear": 2025,
+      "winner": "Ju Ji-hoon",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt28106730"
+      }
+    },
+    {
+      "id": "baeksang-2026-tv-actor-made-korea",
+      "mediaType": "tv",
+      "title": "韓國製造",
+      "originalTitle": "메이드 인 코리아",
+      "awardYear": 2026,
+      "winner": "Hyun Bin",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt33298903"
+      }
+    }
+  ]
+}

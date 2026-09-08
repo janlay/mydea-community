@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "title": "坎城 — 一種注目最佳表演",
+  "author": "Mydea",
+  "updatedAt": "2026-09-16T04:43:24Z",
+  "description": "坎城影展一種注目單元歷屆獎項。 一種注目最佳表演.",
+  "tags": [
+    "award",
+    "cannes",
+    "prize"
+  ],
+  "items": [
+    {
+      "id": "cannes-ucr-performance-2022-corsage",
+      "mediaType": "movie",
+      "title": "束縛",
+      "awardYear": 2022,
+      "winner": "Vicky Krieps",
+      "externalIds": {
+        "imdb": "tt11992694"
+      },
+      "releaseDate": "2022"
+    },
+    {
+      "id": "cannes-ucr-performance-2022-harka",
+      "mediaType": "movie",
+      "title": "燃起希望之火",
+      "awardYear": 2022,
+      "winner": "Adam Bessa",
+      "externalIds": {
+        "imdb": "tt9317274"
+      },
+      "releaseDate": "2022"
+    },
+    {
+      "id": "cannes-ucr-performance-2024-souleymane-s-story",
+      "mediaType": "movie",
+      "title": "借來的人生故事",
+      "awardYear": 2024,
+      "winner": "Abou Sangaré",
+      "externalIds": {
+        "imdb": "tt32086046"
+      },
+      "releaseDate": "2024"
+    },
+    {
+      "id": "cannes-ucr-performance-2024-the-shameless",
+      "mediaType": "movie",
+      "title": "無懼",
+      "awardYear": 2024,
+      "winner": "Anasuya Sengupta",
+      "externalIds": {
+        "imdb": "tt15437986"
+      },
+      "releaseDate": "2024"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "金球奖 2017",
+  "description": "2017 金球奖电影类获奖名单。",
+  "items": [
+    {
+      "id": "golden-globes-2017-drama-moonlight",
+      "mediaType": "movie",
+      "title": "月光男孩",
+      "englishTitle": "Moonlight",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4975722"
+      },
+      "award": "最佳剧情片",
+      "awardYear": 2017,
+      "awardOrder": 1,
+      "winner": "月光男孩"
+    },
+    {
+      "id": "golden-globes-2017-comedy-la-la-land",
+      "mediaType": "movie",
+      "title": "爱乐之城",
+      "englishTitle": "La La Land",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt3783958"
+      },
+      "award": "最佳音乐或喜剧片",
+      "awardYear": 2017,
+      "awardOrder": 2,
+      "winner": "爱乐之城"
+    },
+    {
+      "id": "golden-globes-2017-animated-zootopia",
+      "mediaType": "movie",
+      "title": "疯狂动物城",
+      "englishTitle": "Zootopia",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt2948356"
+      },
+      "award": "最佳动画片",
+      "awardYear": 2017,
+      "awardOrder": 3,
+      "winner": "疯狂动物城"
+    },
+    {
+      "id": "golden-globes-2017-foreign-elle",
+      "mediaType": "movie",
+      "title": "她",
+      "englishTitle": "Elle",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt3716530"
+      },
+      "award": "最佳非英语片",
+      "awardYear": 2017,
+      "awardOrder": 4,
+      "winner": "她"
+    }
+  ]
+}

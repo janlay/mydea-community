@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "金球奖 2021",
+  "description": "2021 金球奖电视作品类获奖名单。",
+  "items": [
+    {
+      "id": "golden-globes-2021-tv_drama-the-crown",
+      "mediaType": "tv",
+      "title": "王冠",
+      "englishTitle": "The Crown",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4786824"
+      },
+      "award": "最佳剧情类剧集",
+      "awardYear": 2021,
+      "awardOrder": 1,
+      "winner": "王冠"
+    },
+    {
+      "id": "golden-globes-2021-tv_comedy-schitt-s-creek",
+      "mediaType": "tv",
+      "title": "富家穷路",
+      "englishTitle": "Schitt's Creek",
+      "releaseDate": "2015",
+      "externalIds": {
+        "imdb": "tt3526078"
+      },
+      "award": "最佳音乐或喜剧类剧集",
+      "awardYear": 2021,
+      "awardOrder": 2,
+      "winner": "富家穷路"
+    },
+    {
+      "id": "golden-globes-2021-limited-the-queen-s-gambit",
+      "mediaType": "tv",
+      "title": "后翼弃兵",
+      "englishTitle": "The Queen's Gambit",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10048342"
+      },
+      "award": "最佳限定剧、选集剧或电视电影",
+      "awardYear": 2021,
+      "awardOrder": 3,
+      "winner": "后翼弃兵"
+    }
+  ]
+}

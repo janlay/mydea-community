@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-22T08:41:11Z",
+  "cacheTtlInDays": 365,
+  "title": "2023年 金馬奨 主要賞受賞作品",
+  "description": "2023年金馬奨の主要賞受賞作品と受賞者。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "golden-horse-2023-best-feature-tt14071684",
+      "mediaType": "movie",
+      "title": "石門",
+      "award": "最優秀作品賞",
+      "awardYear": 2023,
+      "winner": "Huang Ji & Ryuji Otsuka",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt14071684"
+      },
+      "awardOrder": 1,
+      "originalTitle": "石門"
+    },
+    {
+      "id": "golden-horse-2023-best-director-tt29452517",
+      "mediaType": "movie",
+      "title": "オールドフォックス 11歳の選択",
+      "award": "最優秀監督賞",
+      "awardYear": 2023,
+      "winner": "Xiao Ya Quan",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt29452517"
+      },
+      "awardOrder": 2,
+      "originalTitle": "老狐狸"
+    },
+    {
+      "id": "golden-horse-2023-best-actor-tt27445004",
+      "mediaType": "movie",
+      "title": "ブラザー　富都（プドゥ）のふたり",
+      "award": "最優秀主演男優賞",
+      "awardYear": 2023,
+      "winner": "Wu Kang-ren",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt27445004"
+      },
+      "awardOrder": 3,
+      "originalTitle": "富都青年"
+    },
+    {
+      "id": "golden-horse-2023-best-actress-tt29566160",
+      "mediaType": "movie",
+      "title": "トラブル・ガール",
+      "award": "最優秀主演女優賞",
+      "awardYear": 2023,
+      "winner": "Audrey Lin",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt29566160"
+      },
+      "awardOrder": 4,
+      "originalTitle": "小曉"
+    },
+    {
+      "id": "golden-horse-2023-best-supporting-actor-tt29452517",
+      "mediaType": "movie",
+      "title": "オールドフォックス 11歳の選択",
+      "award": "最優秀助演男優賞",
+      "awardYear": 2023,
+      "winner": "Akio Chen",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt29452517"
+      },
+      "awardOrder": 5,
+      "originalTitle": "老狐狸"
+    },
+    {
+      "id": "golden-horse-2023-best-supporting-actress-tt26686277",
+      "mediaType": "movie",
+      "title": "本日公休",
+      "award": "最優秀助演女優賞",
+      "awardYear": 2023,
+      "winner": "Beatrice Fang",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt26686277"
+      },
+      "awardOrder": 6,
+      "originalTitle": "本日公休"
+    },
+    {
+      "id": "golden-horse-2023-best-new-director-tt27881474",
+      "mediaType": "movie",
+      "title": "年少日記",
+      "award": "最優秀新人監督賞",
+      "awardYear": 2023,
+      "winner": "Nick Cheuk",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt27881474"
+      },
+      "awardOrder": 7,
+      "originalTitle": "年少日記"
+    },
+    {
+      "id": "golden-horse-2023-best-new-performer-tt27139786",
+      "mediaType": "movie",
+      "title": "離れていても",
+      "award": "最優秀新人俳優賞",
+      "awardYear": 2023,
+      "winner": "Jennifer Yu?",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt27139786"
+      },
+      "awardOrder": 8,
+      "originalTitle": "但願人長久"
+    }
+  ],
+  "tags": [
+    "award",
+    "taipei",
+    "decade"
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "title": "百想芸術大賞",
+  "description": "2017年から2026年までの百想芸術大賞テレビ部門の受賞記録。",
+  "tags": [
+    "award",
+    "tv"
+  ],
+  "icon": "ticket",
+  "sections": [
+    {
+      "title": "百想芸術大賞 — テレビ部門 大賞",
+      "description": "百想芸術大賞のテレビ部門大賞受賞作。 2017年から2026年までを収録。",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "carousel",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "baeksang-tv-grand.list.json"
+        }
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "百想芸術大賞 — テレビ部門 作品賞",
+      "description": "百想芸術大賞のテレビ部門作品賞受賞作。 2017年から2026年までを収録。",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "baeksang-tv-best.list.json"
+        }
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "百想芸術大賞 — テレビ部門 演出賞",
+      "description": "百想芸術大賞のテレビ部門演出賞受賞作。 2017年から2026年までを収録。",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "baeksang-tv-director.list.json"
+        }
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "百想芸術大賞 — テレビ部門 男性最優秀演技賞",
+      "description": "百想芸術大賞のテレビ部門男性最優秀演技賞受賞作。 2017年から2026年までを収録。",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "baeksang-tv-actor.list.json"
+        }
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "百想芸術大賞 — テレビ部門 女性最優秀演技賞",
+      "description": "百想芸術大賞のテレビ部門女性最優秀演技賞受賞作。 2017年から2026年までを収録。",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "baeksang-tv-actress.list.json"
+        }
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    }
+  ]
+}

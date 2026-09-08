@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "金球獎 2021",
+  "description": "2021 金球獎電影類獲獎名單。",
+  "items": [
+    {
+      "id": "golden-globes-2021-drama-nomadland",
+      "mediaType": "movie",
+      "title": "游牧人生",
+      "englishTitle": "Nomadland",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt9770150"
+      },
+      "award": "最佳劇情片",
+      "awardYear": 2021,
+      "awardOrder": 1,
+      "winner": "游牧人生"
+    },
+    {
+      "id": "golden-globes-2021-comedy-borat-subsequent-moviefilm",
+      "mediaType": "movie",
+      "title": "Borat Subsequent Moviefilm",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt13143964"
+      },
+      "award": "最佳音樂或喜劇片",
+      "awardYear": 2021,
+      "awardOrder": 2,
+      "winner": "Borat Subsequent Moviefilm"
+    },
+    {
+      "id": "golden-globes-2021-animated-soul",
+      "mediaType": "movie",
+      "title": "靈魂急轉彎",
+      "englishTitle": "Soul",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt2948372"
+      },
+      "award": "最佳動畫片",
+      "awardYear": 2021,
+      "awardOrder": 3,
+      "winner": "靈魂急轉彎"
+    },
+    {
+      "id": "golden-globes-2021-foreign-minari",
+      "mediaType": "movie",
+      "title": "夢想之地",
+      "englishTitle": "Minari",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10633456"
+      },
+      "award": "最佳非英語片",
+      "awardYear": 2021,
+      "awardOrder": 4,
+      "winner": "夢想之地"
+    }
+  ]
+}

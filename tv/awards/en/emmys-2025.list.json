@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T05:03:35Z",
+  "title": "Primetime Emmy Awards 2025 Winners",
+  "description": "Major-category winners from the 77th Primetime Emmy Awards.",
+  "items": [
+    {
+      "id": "emmys-2025-drama-series-the-pitt",
+      "mediaType": "tv",
+      "title": "The Pitt",
+      "award": "Outstanding Drama Series",
+      "awardYear": 2025,
+      "awardOrder": 1,
+      "winner": "The Pitt",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31938062"
+      }
+    },
+    {
+      "id": "emmys-2025-comedy-series-the-studio",
+      "mediaType": "tv",
+      "title": "The Studio",
+      "award": "Outstanding Comedy Series",
+      "awardYear": 2025,
+      "awardOrder": 2,
+      "winner": "The Studio",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt23649128"
+      }
+    },
+    {
+      "id": "emmys-2025-limited-series-adolescence",
+      "mediaType": "tv",
+      "title": "Adolescence",
+      "award": "Outstanding Limited or Anthology Series",
+      "awardYear": 2025,
+      "awardOrder": 3,
+      "winner": "Adolescence",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31806037"
+      }
+    },
+    {
+      "id": "emmys-2025-lead-actor-drama-the-pitt",
+      "mediaType": "tv",
+      "title": "The Pitt",
+      "award": "Outstanding Lead Actor in a Drama Series",
+      "awardYear": 2025,
+      "awardOrder": 4,
+      "winner": "Noah Wyle",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31938062"
+      }
+    },
+    {
+      "id": "emmys-2025-lead-actress-drama-severance",
+      "mediaType": "tv",
+      "title": "Severance",
+      "award": "Outstanding Lead Actress in a Drama Series",
+      "awardYear": 2025,
+      "awardOrder": 5,
+      "winner": "Britt Lower",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt11280740"
+      }
+    },
+    {
+      "id": "emmys-2025-lead-actor-comedy-the-studio",
+      "mediaType": "tv",
+      "title": "The Studio",
+      "award": "Outstanding Lead Actor in a Comedy Series",
+      "awardYear": 2025,
+      "awardOrder": 6,
+      "winner": "Seth Rogen",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt23649128"
+      }
+    },
+    {
+      "id": "emmys-2025-lead-actress-comedy-hacks",
+      "mediaType": "tv",
+      "title": "Hacks",
+      "award": "Outstanding Lead Actress in a Comedy Series",
+      "awardYear": 2025,
+      "awardOrder": 7,
+      "winner": "Jean Smart",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt11815682"
+      }
+    }
+  ]
+}

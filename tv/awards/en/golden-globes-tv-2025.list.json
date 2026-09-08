@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "Golden Globes 2025",
+  "description": "Television category winners at the 2025 Golden Globes.",
+  "items": [
+    {
+      "id": "golden-globes-2025-tv_drama-shogun",
+      "mediaType": "tv",
+      "title": "Shōgun",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt2788316"
+      },
+      "award": "Best Television Series – Drama",
+      "awardYear": 2025,
+      "awardOrder": 1,
+      "winner": "Shōgun"
+    },
+    {
+      "id": "golden-globes-2025-tv_comedy-hacks",
+      "mediaType": "tv",
+      "title": "Hacks",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt11815682"
+      },
+      "award": "Best Television Series – Musical or Comedy",
+      "awardYear": 2025,
+      "awardOrder": 2,
+      "winner": "Hacks"
+    },
+    {
+      "id": "golden-globes-2025-limited-baby-reindeer",
+      "mediaType": "tv",
+      "title": "Baby Reindeer",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt13649112"
+      },
+      "award": "Best Television Limited Series, Anthology Series or Motion Picture Made for Television",
+      "awardYear": 2025,
+      "awardOrder": 3,
+      "winner": "Baby Reindeer"
+    }
+  ]
+}

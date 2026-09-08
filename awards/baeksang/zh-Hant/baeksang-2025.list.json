@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T02:53:58Z",
+  "title": "百想藝術大賞 — 2025",
+  "description": "2025 年百想藝術大賞電影主要獎項獲獎記錄。",
+  "items": [
+    {
+      "id": "baeksang-2025-film-grand-harbin",
+      "mediaType": "movie",
+      "title": "哈爾濱",
+      "originalTitle": "하얼빈",
+      "award": "電影大獎",
+      "awardYear": 2025,
+      "awardOrder": 1,
+      "winner": "Hong Kyung-pyo",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt23630030"
+      }
+    },
+    {
+      "id": "baeksang-2025-film-best-harbin",
+      "mediaType": "movie",
+      "title": "哈爾濱",
+      "originalTitle": "하얼빈",
+      "award": "最佳電影",
+      "awardYear": 2025,
+      "awardOrder": 2,
+      "winner": "哈爾濱",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt23630030"
+      }
+    },
+    {
+      "id": "baeksang-2025-film-director-revolver",
+      "mediaType": "movie",
+      "title": "左輪手槍",
+      "originalTitle": "리볼버",
+      "award": "電影最佳導演",
+      "awardYear": 2025,
+      "awardOrder": 3,
+      "winner": "Oh Seung-uk",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt28284984"
+      }
+    },
+    {
+      "id": "baeksang-2025-film-actor-pilot",
+      "mediaType": "movie",
+      "title": "飛行員",
+      "originalTitle": "파일럿",
+      "award": "電影最佳男主角",
+      "awardYear": 2025,
+      "awardOrder": 4,
+      "winner": "Cho Jung-seok",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt32175399"
+      }
+    },
+    {
+      "id": "baeksang-2025-film-actress-revolver",
+      "mediaType": "movie",
+      "title": "左輪手槍",
+      "originalTitle": "리볼버",
+      "award": "電影最佳女主角",
+      "awardYear": 2025,
+      "awardOrder": 5,
+      "winner": "Jeon Do-yeon",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt28284984"
+      }
+    }
+  ]
+}

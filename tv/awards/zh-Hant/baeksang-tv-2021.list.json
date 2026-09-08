@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-21T00:00:00Z",
+  "title": "百想藝術大賞 — 2021",
+  "description": "2021 年百想藝術大賞電視主要獎項獲獎記錄。",
+  "items": [
+    {
+      "id": "baeksang-2021-tv-grand-how-do-you-play",
+      "mediaType": "tv",
+      "title": "玩什麼好呢?",
+      "originalTitle": "놀면 뭐하니?",
+      "award": "電視大獎",
+      "awardYear": 2021,
+      "awardOrder": 1,
+      "winner": "Yoo Jae-suk",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt15334046"
+      }
+    },
+    {
+      "id": "baeksang-2021-tv-best-beyond-evil",
+      "mediaType": "tv",
+      "title": "怪物",
+      "originalTitle": "괴물",
+      "award": "最佳電視劇",
+      "awardYear": 2021,
+      "awardOrder": 2,
+      "winner": "怪物",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt13634872"
+      }
+    },
+    {
+      "id": "baeksang-2021-tv-director-flower-evil",
+      "mediaType": "tv",
+      "title": "惡之花",
+      "originalTitle": "악의 꽃",
+      "award": "電視最佳導演",
+      "awardYear": 2021,
+      "awardOrder": 3,
+      "winner": "Kim Cheol-kyu",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt11691684"
+      }
+    },
+    {
+      "id": "baeksang-2021-tv-actor-beyond-evil",
+      "mediaType": "tv",
+      "title": "怪物",
+      "originalTitle": "괴물",
+      "award": "電視最佳男主角",
+      "awardYear": 2021,
+      "awardOrder": 4,
+      "winner": "Shin Ha-kyun",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt13634872"
+      }
+    },
+    {
+      "id": "baeksang-2021-tv-actress-penthouse",
+      "mediaType": "tv",
+      "title": "頂樓",
+      "originalTitle": "펜트하우스",
+      "award": "電視最佳女主角",
+      "awardYear": 2021,
+      "awardOrder": 5,
+      "winner": "Kim So-yeon",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt13067118"
+      }
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T02:53:58Z",
+  "title": "백상예술대상 — 2026",
+  "description": "2026년 백상예술대상 영화 부문 수상 기록.",
+  "items": [
+    {
+      "id": "baeksang-2026-film-grand-kings-warden",
+      "mediaType": "movie",
+      "title": "왕과 사는 남자",
+      "englishTitle": "The King’s Warden",
+      "award": "영화부문 대상",
+      "awardYear": 2026,
+      "awardOrder": 1,
+      "winner": "Yoo Hae-jin",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt38626703"
+      }
+    },
+    {
+      "id": "baeksang-2026-film-best-no-other-choice",
+      "mediaType": "movie",
+      "title": "어쩔수가없다",
+      "englishTitle": "No Other Choice",
+      "award": "영화부문 작품상",
+      "awardYear": 2026,
+      "awardOrder": 2,
+      "winner": "어쩔수가없다",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt1527793"
+      }
+    },
+    {
+      "id": "baeksang-2026-film-director-world-love",
+      "mediaType": "movie",
+      "title": "세계의 주인",
+      "englishTitle": "The World of Love",
+      "award": "영화부문 감독상",
+      "awardYear": 2026,
+      "awardOrder": 3,
+      "winner": "Yoon Ga-eun",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt37661885"
+      }
+    },
+    {
+      "id": "baeksang-2026-film-actor-ugly",
+      "mediaType": "movie",
+      "title": "얼굴",
+      "englishTitle": "The Ugly",
+      "award": "영화부문 남자 최우수 연기상",
+      "awardYear": 2026,
+      "awardOrder": 4,
+      "winner": "Park Jeong-min",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt33514451"
+      }
+    },
+    {
+      "id": "baeksang-2026-film-actress-once-us",
+      "mediaType": "movie",
+      "title": "만약에 우리",
+      "englishTitle": "Once We Were Us",
+      "award": "영화부문 여자 최우수 연기상",
+      "awardYear": 2026,
+      "awardOrder": 5,
+      "winner": "Moon Ga-young",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt37764737"
+      }
+    }
+  ]
+}

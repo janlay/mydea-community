@@ -1,0 +1,206 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "title": "威尼斯獎項",
+  "description": "威尼斯影展各獎項完整獲獎名單。1969–1979 年停頒競賽獎項。",
+  "tags": [
+    "award",
+    "prize"
+  ],
+  "icon": "ticket",
+  "sections": [
+    {
+      "title": "威尼斯 — 金獅獎",
+      "description": "威尼斯影展歷屆金獅獎獲獎影片/表演記錄；按該獎項現行或歷史等價類別整理。",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "carousel",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "venice-golden-lion.list.json"
+        }
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "威尼斯 — 銀獅獎·評審團大獎",
+      "description": "威尼斯影展歷屆銀獅獎·評審團大獎獲獎影片/表演記錄；按該獎項現行或歷史等價類別整理。",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "venice-grand-jury-prize.list.json"
+        }
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "威尼斯 — 銀獅獎·最佳導演",
+      "description": "威尼斯影展歷屆銀獅獎·最佳導演獲獎影片/表演記錄；按該獎項現行或歷史等價類別整理。",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "venice-best-director.list.json"
+        }
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "威尼斯 — 沃爾皮杯·最佳女演員",
+      "description": "威尼斯影展歷屆沃爾皮杯·最佳女演員獲獎影片/表演記錄；按該獎項現行或歷史等價類別整理。",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "venice-best-actress.list.json"
+        }
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "威尼斯 — 沃爾皮杯·最佳男演員",
+      "description": "威尼斯影展歷屆沃爾皮杯·最佳男演員獲獎影片/表演記錄；按該獎項現行或歷史等價類別整理。",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "venice-best-actor.list.json"
+        }
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "威尼斯 — 最佳編劇獎",
+      "description": "威尼斯影展歷屆最佳編劇獎獲獎影片/表演記錄；按該獎項現行或歷史等價類別整理。",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "venice-best-screenplay.list.json"
+        }
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "威尼斯 — 評審團特別獎",
+      "description": "威尼斯影展歷屆評審團特別獎獲獎影片/表演記錄；按該獎項現行或歷史等價類別整理。",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "venice-special-jury-prize.list.json"
+        }
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "威尼斯 — 馬塞洛·馬斯楚安尼獎",
+      "description": "威尼斯影展歷屆馬塞洛·馬斯楚安尼獎獲獎影片/表演記錄；按該獎項現行或歷史等價類別整理。",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "venice-mastroianni.list.json"
+        }
+      ],
+      "limit": 10,
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    }
+  ]
+}

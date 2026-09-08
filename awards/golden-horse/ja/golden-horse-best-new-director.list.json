@@ -1,0 +1,218 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-22T08:41:11Z",
+  "title": "金馬奨 — 最優秀新人監督賞",
+  "description": "金馬奨「最優秀新人監督賞」の創設時から2025年までの全受賞記録。",
+  "cacheTtlInDays": 365,
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "golden-horse-2010-best-new-director-item-1",
+      "mediaType": "movie",
+      "title": "ピノイ･サンデー",
+      "awardYear": 2010,
+      "winner": "Ho Wi-ding",
+      "releaseDate": "2010",
+      "originalTitle": "台北星期天",
+      "externalIds": {
+        "imdb": "tt1121985"
+      }
+    },
+    {
+      "id": "golden-horse-2011-best-new-director-item-2",
+      "mediaType": "movie",
+      "title": "ソード・ロワイヤル",
+      "awardYear": 2011,
+      "winner": "Wuershan",
+      "releaseDate": "2011",
+      "originalTitle": "刀見笑",
+      "externalIds": {
+        "imdb": "tt1722513"
+      }
+    },
+    {
+      "id": "golden-horse-2012-best-new-director-item-3",
+      "mediaType": "movie",
+      "title": "光にふれる",
+      "awardYear": 2012,
+      "winner": "Chang Jung-chi",
+      "releaseDate": "2012",
+      "originalTitle": "逆光飛翔",
+      "externalIds": {
+        "imdb": "tt2368920"
+      }
+    },
+    {
+      "id": "golden-horse-2013-best-new-director-item-4",
+      "mediaType": "movie",
+      "title": "イロイロ　ぬくもりの記憶",
+      "awardYear": 2013,
+      "winner": "Anthony Chen",
+      "releaseDate": "2013",
+      "originalTitle": "爸媽不在家",
+      "externalIds": {
+        "imdb": "tt2901736"
+      }
+    },
+    {
+      "id": "golden-horse-2014-best-new-director-item-5",
+      "mediaType": "movie",
+      "title": "A Fool",
+      "awardYear": 2014,
+      "winner": "Chen Jianbin",
+      "releaseDate": "2014",
+      "originalTitle": "一個勺子",
+      "externalIds": {
+        "imdb": "tt3856504"
+      }
+    },
+    {
+      "id": "golden-horse-2015-best-new-director-item-6",
+      "mediaType": "movie",
+      "title": "凱里ブルース",
+      "awardYear": 2015,
+      "winner": "Bi Gan",
+      "releaseDate": "2015",
+      "originalTitle": "路邊野餐",
+      "externalIds": {
+        "imdb": "tt4613272"
+      }
+    },
+    {
+      "id": "golden-horse-2016-best-new-director-tt6041030",
+      "mediaType": "movie",
+      "title": "誰がための日々",
+      "awardYear": 2016,
+      "winner": "Wong Chun",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt6041030"
+      },
+      "originalTitle": "一念無明"
+    },
+    {
+      "id": "golden-horse-2017-best-new-director-tt7010412",
+      "mediaType": "movie",
+      "title": "大仏⁺",
+      "awardYear": 2017,
+      "winner": "Huang Hsin-yao",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7010412"
+      },
+      "originalTitle": "大佛普拉斯"
+    },
+    {
+      "id": "golden-horse-2018-best-new-director-tt7362036",
+      "mediaType": "movie",
+      "title": "ニセ薬じゃない!",
+      "awardYear": 2018,
+      "winner": "Wen Muye",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7362036"
+      },
+      "originalTitle": "我不是藥神"
+    },
+    {
+      "id": "golden-horse-2019-best-new-director-tt10805432",
+      "mediaType": "movie",
+      "title": "返校 言葉が消えた日",
+      "awardYear": 2019,
+      "winner": "Xu Han Qiang",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10805432"
+      },
+      "originalTitle": "返校"
+    },
+    {
+      "id": "golden-horse-2020-best-new-director-tt13212046",
+      "mediaType": "movie",
+      "title": "The Story of Southern Islet",
+      "awardYear": 2020,
+      "winner": "Chong Keat Aun",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt13212046"
+      },
+      "originalTitle": "南巫"
+    },
+    {
+      "id": "golden-horse-2021-best-new-director-tt15620158",
+      "mediaType": "movie",
+      "title": "アメリカから来た少女",
+      "awardYear": 2021,
+      "winner": "Fiona Roan Feng-i",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt15620158"
+      },
+      "originalTitle": "美國女孩"
+    },
+    {
+      "id": "golden-horse-2022-best-new-director-tt18280126",
+      "mediaType": "movie",
+      "title": "白日青春 生きてこそ",
+      "awardYear": 2022,
+      "winner": "Lau Kok-rui",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt18280126"
+      },
+      "originalTitle": "白日青春"
+    },
+    {
+      "id": "golden-horse-2023-best-new-director-tt27881474",
+      "mediaType": "movie",
+      "title": "年少日記",
+      "awardYear": 2023,
+      "winner": "Nick Cheuk",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt27881474"
+      },
+      "originalTitle": "年少日記"
+    },
+    {
+      "id": "golden-horse-2024-best-new-director-tt11101808",
+      "mediaType": "movie",
+      "title": "Mongrel",
+      "awardYear": 2024,
+      "winner": "Cengwei Liang, Yin You Qiao",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt11101808"
+      },
+      "originalTitle": "白衣蒼狗"
+    },
+    {
+      "id": "golden-horse-2025-best-new-director-tt34000545",
+      "mediaType": "movie",
+      "title": "Lucky Lu",
+      "awardYear": 2025,
+      "winner": "Lloyd Lee CHOI",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt34000545"
+      },
+      "originalTitle": "幸福之路"
+    }
+  ],
+  "tags": [
+    "award",
+    "taipei",
+    "prize"
+  ]
+}

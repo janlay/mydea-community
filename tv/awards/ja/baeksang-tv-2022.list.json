@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T02:58:14Z",
+  "title": "百想芸術大賞 — 2022",
+  "description": "2022年の百想芸術大賞におけるテレビ部門の受賞作品。",
+  "items": [
+    {
+      "id": "baeksang-2022-tv-grand-squid-game",
+      "mediaType": "tv",
+      "title": "イカゲーム",
+      "originalTitle": "오징어 게임",
+      "award": "テレビ部門 大賞",
+      "awardYear": 2022,
+      "awardOrder": 1,
+      "winner": "イカゲーム",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt10919420"
+      }
+    },
+    {
+      "id": "baeksang-2022-tv-best-dp",
+      "mediaType": "tv",
+      "title": "D.P. －脱走兵追跡官－",
+      "originalTitle": "D.P.",
+      "award": "テレビ部門 作品賞",
+      "awardYear": 2022,
+      "awardOrder": 2,
+      "winner": "D.P. －脱走兵追跡官－",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt13024974"
+      }
+    },
+    {
+      "id": "baeksang-2022-tv-director-squid-game",
+      "mediaType": "tv",
+      "title": "イカゲーム",
+      "originalTitle": "오징어 게임",
+      "award": "テレビ部門 演出賞",
+      "awardYear": 2022,
+      "awardOrder": 3,
+      "winner": "ファン・ドンヒョク",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt10919420"
+      }
+    },
+    {
+      "id": "baeksang-2022-tv-actor-red-sleeve",
+      "mediaType": "tv",
+      "title": "赤い袖先",
+      "originalTitle": "옷소매 붉은 끝동",
+      "award": "テレビ部門 男性最優秀演技賞",
+      "awardYear": 2022,
+      "awardOrder": 4,
+      "winner": "イ・ジュノ",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14687200"
+      }
+    },
+    {
+      "id": "baeksang-2022-tv-actress-2521",
+      "mediaType": "tv",
+      "title": "二十五、二十一",
+      "originalTitle": "스물다섯 스물하나",
+      "award": "テレビ部門 女性最優秀演技賞",
+      "awardYear": 2022,
+      "awardOrder": 5,
+      "winner": "キム・テリ",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt17513352"
+      }
+    }
+  ]
+}

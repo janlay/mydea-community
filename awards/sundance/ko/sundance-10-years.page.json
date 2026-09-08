@@ -1,0 +1,286 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "updatedAt": "2026-09-16T04:39:02Z",
+  "title": "선댄스 영화제 10년",
+  "description": "선댄스 영화제 최근 10회에서 선정된 4개 핵심 장편 경쟁 부문 심사위원대상 수상작.",
+  "tags": [
+    "award",
+    "park-city",
+    "decade"
+  ],
+  "icon": "ticket",
+  "sections": [
+    {
+      "title": "선댄스 영화제 — 2026",
+      "description": "2026 선댄스 영화제 4개 핵심 장편 경쟁 부문 심사위원대상 수상작.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ],
+        [
+          "awardOrder",
+          "asc"
+        ]
+      ],
+      "layout": "carousel",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "sundance-2026.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ]
+    },
+    {
+      "title": "선댄스 영화제 — 2025",
+      "description": "2025 선댄스 영화제 4개 핵심 장편 경쟁 부문 심사위원대상 수상작.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ],
+        [
+          "awardOrder",
+          "asc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "sundance-2025.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ]
+    },
+    {
+      "title": "선댄스 영화제 — 2024",
+      "description": "2024 선댄스 영화제 4개 핵심 장편 경쟁 부문 심사위원대상 수상작.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ],
+        [
+          "awardOrder",
+          "asc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "sundance-2024.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ]
+    },
+    {
+      "title": "선댄스 영화제 — 2023",
+      "description": "2023 선댄스 영화제 4개 핵심 장편 경쟁 부문 심사위원대상 수상작.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ],
+        [
+          "awardOrder",
+          "asc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "sundance-2023.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ]
+    },
+    {
+      "title": "선댄스 영화제 — 2022",
+      "description": "2022 선댄스 영화제 4개 핵심 장편 경쟁 부문 심사위원대상 수상작.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ],
+        [
+          "awardOrder",
+          "asc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "sundance-2022.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ]
+    },
+    {
+      "title": "선댄스 영화제 — 2021",
+      "description": "2021 선댄스 영화제 4개 핵심 장편 경쟁 부문 심사위원대상 수상작.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ],
+        [
+          "awardOrder",
+          "asc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "sundance-2021.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ]
+    },
+    {
+      "title": "선댄스 영화제 — 2020",
+      "description": "2020 선댄스 영화제 4개 핵심 장편 경쟁 부문 심사위원대상 수상작.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ],
+        [
+          "awardOrder",
+          "asc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "sundance-2020.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ]
+    },
+    {
+      "title": "선댄스 영화제 — 2019",
+      "description": "2019 선댄스 영화제 4개 핵심 장편 경쟁 부문 심사위원대상 수상작.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ],
+        [
+          "awardOrder",
+          "asc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "sundance-2019.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ]
+    },
+    {
+      "title": "선댄스 영화제 — 2018",
+      "description": "2018 선댄스 영화제 4개 핵심 장편 경쟁 부문 심사위원대상 수상작.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ],
+        [
+          "awardOrder",
+          "asc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "sundance-2018.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ]
+    },
+    {
+      "title": "선댄스 영화제 — 2017",
+      "description": "2017 선댄스 영화제 4개 핵심 장편 경쟁 부문 심사위원대상 수상작.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ],
+        [
+          "awardOrder",
+          "asc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "sundance-2017.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ]
+    }
+  ]
+}

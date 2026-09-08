@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T05:03:58Z",
+  "title": "奥斯卡 2025 年获奖名单",
+  "description": "第 97 届奥斯卡核心电影奖项获奖影片与获奖者。",
+  "items": [
+    {
+      "id": "oscars-2025-best-picture-anora",
+      "mediaType": "movie",
+      "title": "阿诺拉",
+      "award": "最佳影片",
+      "awardYear": 2025,
+      "awardOrder": 1,
+      "winner": "Alex Coco, Samantha Quan & Sean Baker",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt28607951"
+      }
+    },
+    {
+      "id": "oscars-2025-best-director-anora",
+      "mediaType": "movie",
+      "title": "阿诺拉",
+      "award": "最佳导演",
+      "awardYear": 2025,
+      "awardOrder": 2,
+      "winner": "Sean Baker",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt28607951"
+      }
+    },
+    {
+      "id": "oscars-2025-best-actor-the-brutalist",
+      "mediaType": "movie",
+      "title": "粗野派",
+      "award": "最佳男主角",
+      "awardYear": 2025,
+      "awardOrder": 3,
+      "winner": "Adrien Brody",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt8999762"
+      }
+    },
+    {
+      "id": "oscars-2025-best-actress-anora",
+      "mediaType": "movie",
+      "title": "阿诺拉",
+      "award": "最佳女主角",
+      "awardYear": 2025,
+      "awardOrder": 4,
+      "winner": "Mikey Madison",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt28607951"
+      }
+    },
+    {
+      "id": "oscars-2025-best-supporting-actor-a-real-pain",
+      "mediaType": "movie",
+      "title": "A Real Pain",
+      "award": "最佳男配角",
+      "awardYear": 2025,
+      "awardOrder": 5,
+      "winner": "Kieran Culkin",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt21823606"
+      }
+    },
+    {
+      "id": "oscars-2025-best-supporting-actress-emilia-p-rez",
+      "mediaType": "movie",
+      "title": "艾米莉亚·佩雷斯",
+      "award": "最佳女配角",
+      "awardYear": 2025,
+      "awardOrder": 6,
+      "winner": "Zoe Saldaña",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt20221436"
+      }
+    },
+    {
+      "id": "oscars-2025-best-original-screenplay-anora",
+      "mediaType": "movie",
+      "title": "阿诺拉",
+      "award": "最佳原创剧本",
+      "awardYear": 2025,
+      "awardOrder": 7,
+      "winner": "Sean Baker",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt28607951"
+      }
+    },
+    {
+      "id": "oscars-2025-best-adapted-screenplay-conclave",
+      "mediaType": "movie",
+      "title": "Conclave",
+      "award": "最佳改编剧本",
+      "awardYear": 2025,
+      "awardOrder": 8,
+      "winner": "Peter Straughan",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt20215234"
+      }
+    },
+    {
+      "id": "oscars-2025-best-animated-feature-flow",
+      "mediaType": "movie",
+      "title": "猫猫的奇幻漂流",
+      "award": "最佳动画长片",
+      "awardYear": 2025,
+      "awardOrder": 9,
+      "winner": "Gints Zilbalodis, Matīss Kaža, Ron Dyens & Gregory Zalcman",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt4772188"
+      }
+    },
+    {
+      "id": "oscars-2025-best-international-feature-i-m-still-here",
+      "mediaType": "movie",
+      "title": "I'm Still Here",
+      "award": "最佳国际影片",
+      "awardYear": 2025,
+      "awardOrder": 10,
+      "winner": "Brazil",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt14961016"
+      }
+    }
+  ]
+}

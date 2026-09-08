@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "ゴールデングローブ賞 2018",
+  "description": "2018年のゴールデングローブ賞テレビ作品部門の受賞一覧。",
+  "items": [
+    {
+      "id": "golden-globes-2018-tv_drama-the-handmaid-s-tale",
+      "mediaType": "tv",
+      "title": "ハンドメイズ・テイル／侍女の物語",
+      "englishTitle": "The Handmaid's Tale",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5834204"
+      },
+      "award": "テレビドラマ作品賞",
+      "awardYear": 2018,
+      "awardOrder": 1,
+      "winner": "ハンドメイズ・テイル／侍女の物語"
+    },
+    {
+      "id": "golden-globes-2018-tv_comedy-the-marvelous-mrs-maisel",
+      "mediaType": "tv",
+      "title": "マーベラス・ミセス・メイゼル",
+      "englishTitle": "The Marvelous Mrs. Maisel",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5788792"
+      },
+      "award": "テレビ作品賞 ミュージカル・コメディ部門",
+      "awardYear": 2018,
+      "awardOrder": 2,
+      "winner": "マーベラス・ミセス・メイゼル"
+    },
+    {
+      "id": "golden-globes-2018-limited-big-little-lies",
+      "mediaType": "tv",
+      "title": "ビッグ・リトル・ライズ",
+      "englishTitle": "Big Little Lies",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt3920596"
+      },
+      "award": "リミテッドシリーズ・アンソロジー・テレビ映画賞",
+      "awardYear": 2018,
+      "awardOrder": 3,
+      "winner": "ビッグ・リトル・ライズ"
+    }
+  ]
+}

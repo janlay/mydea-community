@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "金球獎 — 最佳劇情片",
+  "description": "2017–2026 年金球獎最佳劇情片获奖作品。",
+  "items": [
+    {
+      "id": "golden-globes-drama-2017-moonlight",
+      "mediaType": "movie",
+      "title": "月光下的藍色男孩",
+      "englishTitle": "Moonlight",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4975722"
+      },
+      "awardYear": 2017,
+      "winner": "月光下的藍色男孩"
+    },
+    {
+      "id": "golden-globes-drama-2018-three-billboards-outside-ebbing-missouri",
+      "mediaType": "movie",
+      "title": "意外",
+      "englishTitle": "Three Billboards Outside Ebbing, Missouri",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5027774"
+      },
+      "awardYear": 2018,
+      "winner": "意外"
+    },
+    {
+      "id": "golden-globes-drama-2019-bohemian-rhapsody",
+      "mediaType": "movie",
+      "title": "波希米亞狂想曲",
+      "englishTitle": "Bohemian Rhapsody",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt1727824"
+      },
+      "awardYear": 2019,
+      "winner": "波希米亞狂想曲"
+    },
+    {
+      "id": "golden-globes-drama-2020-1917",
+      "mediaType": "movie",
+      "title": "1917",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt8579674"
+      },
+      "awardYear": 2020,
+      "winner": "1917"
+    },
+    {
+      "id": "golden-globes-drama-2021-nomadland",
+      "mediaType": "movie",
+      "title": "游牧人生",
+      "englishTitle": "Nomadland",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt9770150"
+      },
+      "awardYear": 2021,
+      "winner": "游牧人生"
+    },
+    {
+      "id": "golden-globes-drama-2022-the-power-of-the-dog",
+      "mediaType": "movie",
+      "title": "犬山記",
+      "englishTitle": "The Power of the Dog",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt10293406"
+      },
+      "awardYear": 2022,
+      "winner": "犬山記"
+    },
+    {
+      "id": "golden-globes-drama-2023-the-fabelmans",
+      "mediaType": "movie",
+      "title": "法貝爾曼",
+      "englishTitle": "The Fabelmans",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt14208870"
+      },
+      "awardYear": 2023,
+      "winner": "法貝爾曼"
+    },
+    {
+      "id": "golden-globes-drama-2024-oppenheimer",
+      "mediaType": "movie",
+      "title": "奧本海默",
+      "englishTitle": "Oppenheimer",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt15398776"
+      },
+      "awardYear": 2024,
+      "winner": "奧本海默"
+    },
+    {
+      "id": "golden-globes-drama-2025-the-brutalist",
+      "mediaType": "movie",
+      "title": "粗獷派建築師",
+      "englishTitle": "The Brutalist",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt8999762"
+      },
+      "awardYear": 2025,
+      "winner": "粗獷派建築師"
+    },
+    {
+      "id": "golden-globes-drama-2026-hamnet",
+      "mediaType": "movie",
+      "title": "哈姆奈特",
+      "englishTitle": "Hamnet",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt14905854"
+      },
+      "awardYear": 2026,
+      "winner": "哈姆奈特"
+    }
+  ]
+}

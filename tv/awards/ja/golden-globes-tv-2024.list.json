@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "ゴールデングローブ賞 2024",
+  "description": "2024年のゴールデングローブ賞テレビ作品部門の受賞一覧。",
+  "items": [
+    {
+      "id": "golden-globes-2024-tv_drama-succession",
+      "mediaType": "tv",
+      "title": "メディア王 〜華麗なる一族〜",
+      "englishTitle": "Succession",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7660850"
+      },
+      "award": "テレビドラマ作品賞",
+      "awardYear": 2024,
+      "awardOrder": 1,
+      "winner": "メディア王 〜華麗なる一族〜"
+    },
+    {
+      "id": "golden-globes-2024-tv_comedy-the-bear",
+      "mediaType": "tv",
+      "title": "一流シェフのファミリーレストラン",
+      "englishTitle": "The Bear",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt14452776"
+      },
+      "award": "テレビ作品賞 ミュージカル・コメディ部門",
+      "awardYear": 2024,
+      "awardOrder": 2,
+      "winner": "一流シェフのファミリーレストラン"
+    },
+    {
+      "id": "golden-globes-2024-limited-beef",
+      "mediaType": "tv",
+      "title": "BEEF／ビーフ",
+      "englishTitle": "Beef",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt14403178"
+      },
+      "award": "リミテッドシリーズ・アンソロジー・テレビ映画賞",
+      "awardYear": 2024,
+      "awardOrder": 3,
+      "winner": "BEEF／ビーフ"
+    }
+  ]
+}

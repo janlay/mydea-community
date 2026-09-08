@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "icon": "chart.bar",
+  "title": "豆瓣俄罗斯类型片",
+  "description": "豆瓣俄罗斯各类型片榜单，涵盖 1 个类型。",
+  "tags": [
+    "douban",
+    "chart",
+    "region",
+    "russia"
+  ],
+  "sections": [
+    {
+      "title": "俄罗斯战争片",
+      "layout": "carousel",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECF4OMYDQ"
+        }
+      ]
+    }
+  ]
+}

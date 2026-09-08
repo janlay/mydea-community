@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T02:53:58Z",
+  "title": "百想艺术大赏 — 2024",
+  "description": "2024 年百想艺术大赏电视主要奖项获奖记录。",
+  "items": [
+    {
+      "id": "baeksang-2024-tv-grand-moving",
+      "mediaType": "tv",
+      "title": "超异能族",
+      "originalTitle": "무빙",
+      "award": "电视大奖",
+      "awardYear": 2024,
+      "awardOrder": 1,
+      "winner": "超异能族",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt24640580"
+      }
+    },
+    {
+      "id": "baeksang-2024-tv-best-my-dearest",
+      "mediaType": "tv",
+      "title": "恋人",
+      "originalTitle": "연인",
+      "award": "最佳电视剧",
+      "awardYear": 2024,
+      "awardOrder": 2,
+      "winner": "恋人",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt26228190"
+      }
+    },
+    {
+      "id": "baeksang-2024-tv-director-worst-evil",
+      "mediaType": "tv",
+      "title": "最恶之恶",
+      "originalTitle": "최악의 악",
+      "award": "电视最佳导演",
+      "awardYear": 2024,
+      "awardOrder": 3,
+      "winner": "Han Dong-wook",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt20600022"
+      }
+    },
+    {
+      "id": "baeksang-2024-tv-actor-my-dearest",
+      "mediaType": "tv",
+      "title": "恋人",
+      "originalTitle": "연인",
+      "award": "电视最佳男主角",
+      "awardYear": 2024,
+      "awardOrder": 4,
+      "winner": "Namkoong Min",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt26228190"
+      }
+    },
+    {
+      "id": "baeksang-2024-tv-actress-knight-flower",
+      "mediaType": "tv",
+      "title": "夜晚开的花",
+      "originalTitle": "밤에 피는 꽃",
+      "award": "电视最佳女主角",
+      "awardYear": 2024,
+      "awardOrder": 5,
+      "winner": "Lee Hanee",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt30012439"
+      }
+    }
+  ]
+}

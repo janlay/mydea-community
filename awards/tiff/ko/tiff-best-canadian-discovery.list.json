@@ -1,0 +1,340 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:47:39Z",
+  "title": "토론토 — 캐나다 디스커버리상",
+  "description": "토론토국제영화제 캐나다 디스커버리상 역대 수상작.",
+  "items": [
+    {
+      "id": "tiff-best-canadian-discovery-1997-cube",
+      "mediaType": "movie",
+      "title": "Cube",
+      "releaseDate": "1997",
+      "externalIds": {
+        "letterboxd": "cube"
+      },
+      "awardYear": 1997,
+      "winner": "Vincenzo Natali"
+    },
+    {
+      "id": "tiff-best-canadian-discovery-1998-last-night",
+      "mediaType": "movie",
+      "title": "Last Night",
+      "releaseDate": "1998",
+      "externalIds": {
+        "letterboxd": "last-night"
+      },
+      "awardYear": 1998,
+      "winner": "Don McKellar"
+    },
+    {
+      "id": "tiff-best-canadian-discovery-1999-just-watch-me-trudeau-and-the-70s-generation",
+      "mediaType": "movie",
+      "title": "Just Watch Me: Trudeau and the '70s Generation",
+      "releaseDate": "1999",
+      "externalIds": {
+        "letterboxd": "just-watch-me-trudeau-and-the-70s-generation"
+      },
+      "awardYear": 1999,
+      "winner": "Catherine Annau"
+    },
+    {
+      "id": "tiff-best-canadian-discovery-1999-full-blast",
+      "mediaType": "movie",
+      "title": "Full Blast",
+      "releaseDate": "1999",
+      "externalIds": {
+        "letterboxd": "full-blast"
+      },
+      "awardYear": 1999,
+      "winner": "Rodrigue Jean"
+    },
+    {
+      "id": "tiff-best-canadian-discovery-2000-the-left-hand-side-of-the-fridge",
+      "mediaType": "movie",
+      "title": "The Left-Hand Side of the Fridge",
+      "releaseDate": "2000",
+      "externalIds": {
+        "letterboxd": "the-left-hand-side-of-the-fridge"
+      },
+      "awardYear": 2000,
+      "winner": "Philippe Falardeau"
+    },
+    {
+      "id": "tiff-best-canadian-discovery-2000-red-deer",
+      "mediaType": "movie",
+      "title": "Red Deer",
+      "releaseDate": "2000",
+      "externalIds": {
+        "letterboxd": "red-deer"
+      },
+      "awardYear": 2000,
+      "winner": "Anthony Couture"
+    },
+    {
+      "id": "tiff-best-canadian-discovery-2001-inertia",
+      "mediaType": "movie",
+      "title": "Inertia",
+      "releaseDate": "2001",
+      "externalIds": {
+        "letterboxd": "inertia"
+      },
+      "awardYear": 2001,
+      "winner": "Sean Garrity"
+    },
+    {
+      "id": "tiff-best-canadian-discovery-2002-marion-bridge",
+      "mediaType": "movie",
+      "title": "Marion Bridge",
+      "releaseDate": "2002",
+      "externalIds": {
+        "letterboxd": "marion-bridge"
+      },
+      "awardYear": 2002,
+      "winner": "Wiebke von Carolsfeld"
+    },
+    {
+      "id": "tiff-best-canadian-discovery-2003-love-sex-and-eating-the-bones",
+      "mediaType": "movie",
+      "title": "Love, Sex and Eating the Bones",
+      "releaseDate": "2003",
+      "externalIds": {
+        "letterboxd": "love-sex-and-eating-the-bones"
+      },
+      "awardYear": 2003,
+      "winner": "Sudz Sutherland"
+    },
+    {
+      "id": "tiff-best-canadian-discovery-2004-white-skin",
+      "mediaType": "movie",
+      "title": "White Skin",
+      "releaseDate": "2004",
+      "externalIds": {
+        "letterboxd": "white-skin"
+      },
+      "awardYear": 2004,
+      "winner": "Daniel Roby"
+    },
+    {
+      "id": "tiff-best-canadian-discovery-2005-the-life-and-hard-times-of-guy-terrifico",
+      "mediaType": "movie",
+      "title": "The Life and Hard Times of Guy Terrifico",
+      "releaseDate": "2005",
+      "externalIds": {
+        "letterboxd": "the-life-and-hard-times-of-guy-terrifico"
+      },
+      "awardYear": 2005,
+      "winner": "Michael Mabbott"
+    },
+    {
+      "id": "tiff-best-canadian-discovery-2006-on-the-trail-of-igor-rizzi",
+      "mediaType": "movie",
+      "title": "On the Trail of Igor Rizzi",
+      "releaseDate": "2006",
+      "externalIds": {
+        "letterboxd": "on-the-trail-of-igor-rizzi"
+      },
+      "awardYear": 2006,
+      "winner": "Noël Mitrani"
+    },
+    {
+      "id": "tiff-best-canadian-discovery-2007-continental-a-film-without-guns",
+      "mediaType": "movie",
+      "title": "Continental, a Film Without Guns",
+      "releaseDate": "2007",
+      "externalIds": {
+        "letterboxd": "continental-a-film-without-guns"
+      },
+      "awardYear": 2007,
+      "winner": "Stéphane Lafleur"
+    },
+    {
+      "id": "tiff-best-canadian-discovery-2008-before-tomorrow",
+      "mediaType": "movie",
+      "title": "Before Tomorrow",
+      "releaseDate": "2008",
+      "externalIds": {
+        "letterboxd": "before-tomorrow"
+      },
+      "awardYear": 2008,
+      "winner": "Marie-Hélène Cousineau & Madeline Ivalu"
+    },
+    {
+      "id": "tiff-best-canadian-discovery-2008-borderline",
+      "mediaType": "movie",
+      "title": "Borderline",
+      "releaseDate": "2008",
+      "externalIds": {
+        "letterboxd": "borderline"
+      },
+      "awardYear": 2008,
+      "winner": "Lyne Charlebois"
+    },
+    {
+      "id": "tiff-best-canadian-discovery-2009-the-wild-hunt",
+      "mediaType": "movie",
+      "title": "The Wild Hunt",
+      "releaseDate": "2009",
+      "externalIds": {
+        "letterboxd": "the-wild-hunt"
+      },
+      "awardYear": 2009,
+      "winner": "Alexandre Franchi"
+    },
+    {
+      "id": "tiff-best-canadian-discovery-2010-the-high-cost-of-living",
+      "mediaType": "movie",
+      "title": "The High Cost of Living",
+      "releaseDate": "2010",
+      "externalIds": {
+        "letterboxd": "the-high-cost-of-living"
+      },
+      "awardYear": 2010,
+      "winner": "Deborah Chow"
+    },
+    {
+      "id": "tiff-best-canadian-discovery-2011-citizen-gangster",
+      "mediaType": "movie",
+      "title": "Citizen Gangster",
+      "releaseDate": "2011",
+      "externalIds": {
+        "letterboxd": "citizen-gangster"
+      },
+      "awardYear": 2011,
+      "winner": "Nathan Morlando"
+    },
+    {
+      "id": "tiff-best-canadian-discovery-2011-nuit-1",
+      "mediaType": "movie",
+      "title": "Nuit #1",
+      "releaseDate": "2011",
+      "externalIds": {
+        "letterboxd": "nuit-1"
+      },
+      "awardYear": 2011,
+      "winner": "Anne Émond"
+    },
+    {
+      "id": "tiff-best-canadian-discovery-2012-antiviral",
+      "mediaType": "movie",
+      "title": "Antiviral",
+      "releaseDate": "2012",
+      "externalIds": {
+        "letterboxd": "antiviral"
+      },
+      "awardYear": 2012,
+      "winner": "Brandon Cronenberg"
+    },
+    {
+      "id": "tiff-best-canadian-discovery-2012-blackbird",
+      "mediaType": "movie",
+      "title": "Blackbird",
+      "releaseDate": "2012",
+      "externalIds": {
+        "letterboxd": "blackbird"
+      },
+      "awardYear": 2012,
+      "winner": "Jason Buxton"
+    },
+    {
+      "id": "tiff-best-canadian-discovery-2013-asphalt-watches",
+      "mediaType": "movie",
+      "title": "Asphalt Watches",
+      "releaseDate": "2013",
+      "externalIds": {
+        "letterboxd": "asphalt-watches"
+      },
+      "awardYear": 2013,
+      "winner": "Shayne Ehman & Seth Scriver"
+    },
+    {
+      "id": "tiff-best-canadian-discovery-2014-bang-bang-baby",
+      "mediaType": "movie",
+      "title": "Bang Bang Baby",
+      "releaseDate": "2014",
+      "externalIds": {
+        "letterboxd": "bang-bang-baby"
+      },
+      "awardYear": 2014,
+      "winner": "Jeffrey St. Jules"
+    },
+    {
+      "id": "tiff-best-canadian-discovery-2015-sleeping-giant",
+      "mediaType": "movie",
+      "title": "Sleeping Giant",
+      "releaseDate": "2015",
+      "externalIds": {
+        "letterboxd": "sleeping-giant"
+      },
+      "awardYear": 2015,
+      "winner": "Andrew Cividino"
+    },
+    {
+      "id": "tiff-best-canadian-discovery-2016-old-stone",
+      "mediaType": "movie",
+      "title": "Old Stone",
+      "releaseDate": "2016",
+      "externalIds": {
+        "letterboxd": "old-stone"
+      },
+      "awardYear": 2016,
+      "winner": "Johnny Ma"
+    },
+    {
+      "id": "tiff-best-canadian-discovery-2017-luk-luk-i",
+      "mediaType": "movie",
+      "title": "Luk'Luk'I",
+      "releaseDate": "2017",
+      "externalIds": {
+        "letterboxd": "luk-luk-i"
+      },
+      "awardYear": 2017,
+      "winner": "Wayne Wapeemukwa"
+    },
+    {
+      "id": "tiff-best-canadian-discovery-2018-roads-in-february",
+      "mediaType": "movie",
+      "title": "Roads in February",
+      "releaseDate": "2018",
+      "externalIds": {
+        "letterboxd": "roads-in-february"
+      },
+      "awardYear": 2018,
+      "winner": "Katherine Jerkovic"
+    },
+    {
+      "id": "tiff-best-canadian-discovery-2019-the-twentieth-century",
+      "mediaType": "movie",
+      "title": "The Twentieth Century",
+      "releaseDate": "2019",
+      "externalIds": {
+        "letterboxd": "the-twentieth-century"
+      },
+      "awardYear": 2019,
+      "winner": "Matthew Rankin"
+    },
+    {
+      "id": "tiff-best-canadian-discovery-2024-universal-language",
+      "mediaType": "movie",
+      "title": "Universal Language",
+      "releaseDate": "2024",
+      "externalIds": {
+        "letterboxd": "universal-language"
+      },
+      "awardYear": 2024,
+      "winner": "Matthew Rankin"
+    },
+    {
+      "id": "tiff-best-canadian-discovery-2025-blue-heron",
+      "mediaType": "movie",
+      "title": "Blue Heron",
+      "releaseDate": "2025",
+      "externalIds": {
+        "letterboxd": "blue-heron"
+      },
+      "awardYear": 2025,
+      "winner": "Sophy Romvari"
+    }
+  ]
+}

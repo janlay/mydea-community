@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "金球獎 2018",
+  "description": "2018 金球獎電視作品類獲獎名單。",
+  "items": [
+    {
+      "id": "golden-globes-2018-tv_drama-the-handmaid-s-tale",
+      "mediaType": "tv",
+      "title": "使女的故事",
+      "englishTitle": "The Handmaid's Tale",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5834204"
+      },
+      "award": "最佳劇情類影集",
+      "awardYear": 2018,
+      "awardOrder": 1,
+      "winner": "使女的故事"
+    },
+    {
+      "id": "golden-globes-2018-tv_comedy-the-marvelous-mrs-maisel",
+      "mediaType": "tv",
+      "title": "漫才梅索太太",
+      "englishTitle": "The Marvelous Mrs. Maisel",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5788792"
+      },
+      "award": "最佳音樂或喜劇類影集",
+      "awardYear": 2018,
+      "awardOrder": 2,
+      "winner": "漫才梅索太太"
+    },
+    {
+      "id": "golden-globes-2018-limited-big-little-lies",
+      "mediaType": "tv",
+      "title": "美麗心計",
+      "englishTitle": "Big Little Lies",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt3920596"
+      },
+      "award": "最佳有限影集、選集影集或電視電影",
+      "awardYear": 2018,
+      "awardOrder": 3,
+      "winner": "美麗心計"
+    }
+  ]
+}

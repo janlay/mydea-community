@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T02:53:58Z",
+  "title": "Baeksang Arts Awards — 2025",
+  "description": "Film category winners at the 2025 Baeksang Arts Awards.",
+  "items": [
+    {
+      "id": "baeksang-2025-film-grand-harbin",
+      "mediaType": "movie",
+      "title": "Harbin",
+      "originalTitle": "하얼빈",
+      "award": "Film Grand Prize",
+      "awardYear": 2025,
+      "awardOrder": 1,
+      "winner": "Hong Kyung-pyo",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt23630030"
+      }
+    },
+    {
+      "id": "baeksang-2025-film-best-harbin",
+      "mediaType": "movie",
+      "title": "Harbin",
+      "originalTitle": "하얼빈",
+      "award": "Best Film",
+      "awardYear": 2025,
+      "awardOrder": 2,
+      "winner": "Harbin",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt23630030"
+      }
+    },
+    {
+      "id": "baeksang-2025-film-director-revolver",
+      "mediaType": "movie",
+      "title": "Revolver",
+      "originalTitle": "리볼버",
+      "award": "Best Director Film",
+      "awardYear": 2025,
+      "awardOrder": 3,
+      "winner": "Oh Seung-uk",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt28284984"
+      }
+    },
+    {
+      "id": "baeksang-2025-film-actor-pilot",
+      "mediaType": "movie",
+      "title": "Pilot",
+      "originalTitle": "파일럿",
+      "award": "Best Actor Film",
+      "awardYear": 2025,
+      "awardOrder": 4,
+      "winner": "Cho Jung-seok",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt32175399"
+      }
+    },
+    {
+      "id": "baeksang-2025-film-actress-revolver",
+      "mediaType": "movie",
+      "title": "Revolver",
+      "originalTitle": "리볼버",
+      "award": "Best Actress Film",
+      "awardYear": 2025,
+      "awardOrder": 5,
+      "winner": "Jeon Do-yeon",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt28284984"
+      }
+    }
+  ]
+}

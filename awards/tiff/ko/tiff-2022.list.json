@@ -1,0 +1,180 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:47:39Z",
+  "title": "토론토 — 2022",
+  "description": "2022년 토론토국제영화제 영화 부문 수상작.",
+  "items": [
+    {
+      "id": "tiff-2022-peoples-choice-2022-the-fabelmans",
+      "mediaType": "movie",
+      "title": "파벨만스",
+      "englishTitle": "The Fabelmans",
+      "releaseDate": "2022",
+      "externalIds": {
+        "letterboxd": "the-fabelmans"
+      },
+      "awardYear": 2022,
+      "winner": "Steven Spielberg",
+      "award": "관객상",
+      "awardOrder": 1
+    },
+    {
+      "id": "tiff-2022-documentary-peoples-choice-2022-black-ice",
+      "mediaType": "movie",
+      "title": "Black Ice",
+      "releaseDate": "2022",
+      "externalIds": {
+        "letterboxd": "black-ice"
+      },
+      "awardYear": 2022,
+      "winner": "Hubert Davis",
+      "award": "다큐멘터리 관객상",
+      "awardOrder": 2
+    },
+    {
+      "id": "tiff-2022-midnight-madness-peoples-choice-2022-weird-the-al-yankovic-story",
+      "mediaType": "movie",
+      "title": "Weird: The Al Yankovic Story",
+      "releaseDate": "2022",
+      "externalIds": {
+        "letterboxd": "weird-the-al-yankovic-story"
+      },
+      "awardYear": 2022,
+      "winner": "Eric Appel",
+      "award": "미드나잇 매드니스 관객상",
+      "awardOrder": 3
+    },
+    {
+      "id": "tiff-2022-platform-prize-2022-riceboy-sleeps",
+      "mediaType": "movie",
+      "title": "Riceboy Sleeps",
+      "releaseDate": "2022",
+      "externalIds": {
+        "letterboxd": "riceboy-sleeps"
+      },
+      "awardYear": 2022,
+      "winner": "Anthony Shim",
+      "award": "플랫폼상",
+      "awardOrder": 4
+    },
+    {
+      "id": "tiff-2022-best-canadian-feature-2022-to-kill-a-tiger",
+      "mediaType": "movie",
+      "title": "To Kill a Tiger",
+      "releaseDate": "2022",
+      "externalIds": {
+        "letterboxd": "to-kill-a-tiger"
+      },
+      "awardYear": 2022,
+      "winner": "Nisha Pahuja",
+      "award": "캐나다 장편영화상",
+      "awardOrder": 5
+    },
+    {
+      "id": "tiff-2022-best-canadian-short-film-2022-simo",
+      "mediaType": "movie",
+      "title": "Simo",
+      "releaseDate": "2022",
+      "externalIds": {
+        "letterboxd": "simo"
+      },
+      "awardYear": 2022,
+      "winner": "Aziz Zoromba",
+      "award": "캐나다 단편영화상",
+      "awardOrder": 6
+    },
+    {
+      "id": "tiff-2022-best-international-short-film-2022-snow-in-september",
+      "mediaType": "movie",
+      "title": "Snow in September",
+      "releaseDate": "2022",
+      "externalIds": {
+        "letterboxd": "snow-in-september"
+      },
+      "awardYear": 2022,
+      "winner": "Lkhagvadulam Purev-Ochir",
+      "award": "국제 단편영화상",
+      "awardOrder": 7
+    },
+    {
+      "id": "tiff-2022-fipresci-prize-2022-a-gaza-weekend",
+      "mediaType": "movie",
+      "title": "A Gaza Weekend",
+      "releaseDate": "2022",
+      "externalIds": {
+        "letterboxd": "a-gaza-weekend"
+      },
+      "awardYear": 2022,
+      "winner": "Basil Khalil",
+      "award": "FIPRESCI상",
+      "awardOrder": 8
+    },
+    {
+      "id": "tiff-2022-netpac-award-2022-sweet-as",
+      "mediaType": "movie",
+      "title": "Sweet As",
+      "releaseDate": "2022",
+      "externalIds": {
+        "letterboxd": "sweet-as"
+      },
+      "awardYear": 2022,
+      "winner": "Jub Clerc",
+      "award": "NETPAC상",
+      "awardOrder": 9
+    },
+    {
+      "id": "tiff-2022-amplify-voices-award-2022-leonor-will-never-die",
+      "mediaType": "movie",
+      "title": "Leonor Will Never Die",
+      "releaseDate": "2022",
+      "externalIds": {
+        "letterboxd": "leonor-will-never-die"
+      },
+      "awardYear": 2022,
+      "winner": "Martika Ramirez Escobar",
+      "award": "Amplify Voices상",
+      "awardOrder": 10
+    },
+    {
+      "id": "tiff-2022-amplify-voices-award-2022-while-we-watched",
+      "mediaType": "movie",
+      "title": "While We Watched",
+      "releaseDate": "2022",
+      "externalIds": {
+        "letterboxd": "while-we-watched"
+      },
+      "awardYear": 2022,
+      "winner": "Vinay Shukla",
+      "award": "Amplify Voices상",
+      "awardOrder": 11
+    },
+    {
+      "id": "tiff-2022-changemaker-award-2022-something-you-said-last-night",
+      "mediaType": "movie",
+      "title": "Something You Said Last Night",
+      "releaseDate": "2022",
+      "externalIds": {
+        "letterboxd": "something-you-said-last-night"
+      },
+      "awardYear": 2022,
+      "winner": "Luis De Filippis",
+      "award": "Changemaker상",
+      "awardOrder": 12
+    },
+    {
+      "id": "tiff-2022-share-her-journey-award-2022-nanitic",
+      "mediaType": "movie",
+      "title": "Nanitic",
+      "releaseDate": "2022",
+      "externalIds": {
+        "letterboxd": "nanitic"
+      },
+      "awardYear": 2022,
+      "winner": "Carol Nguyen",
+      "award": "Share Her Journey상",
+      "awardOrder": 13
+    }
+  ]
+}

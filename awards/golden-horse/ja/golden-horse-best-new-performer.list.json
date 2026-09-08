@@ -1,0 +1,361 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-22T08:41:11Z",
+  "title": "金馬奨 — 最優秀新人俳優賞",
+  "description": "金馬奨「最優秀新人俳優賞」の創設時から2025年までの全受賞記録。",
+  "cacheTtlInDays": 365,
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "golden-horse-2000-best-new-performer-item-1",
+      "mediaType": "movie",
+      "title": "リトル・チュン",
+      "awardYear": 2000,
+      "winner": "Yao Yue Ming",
+      "releaseDate": "2000",
+      "originalTitle": "細路祥",
+      "externalIds": {
+        "imdb": "tt0234116"
+      }
+    },
+    {
+      "id": "golden-horse-2001-best-new-performer-tt0255327",
+      "mediaType": "movie",
+      "title": "ドリアン ドリアン",
+      "awardYear": 2001,
+      "winner": "Qin Hailu",
+      "releaseDate": "2001",
+      "externalIds": {
+        "imdb": "tt0255327"
+      },
+      "originalTitle": "榴槤飄飄"
+    },
+    {
+      "id": "golden-horse-2002-best-new-performer-item-3",
+      "mediaType": "movie",
+      "title": "July Rhapsody",
+      "awardYear": 2002,
+      "winner": "Karena Lam",
+      "releaseDate": "2002",
+      "originalTitle": "男人四十",
+      "externalIds": {
+        "imdb": "tt0312886"
+      }
+    },
+    {
+      "id": "golden-horse-2003-best-new-performer-item-4",
+      "mediaType": "movie",
+      "title": "Blind Shaft",
+      "awardYear": 2003,
+      "winner": "Wang Bao Qiang",
+      "releaseDate": "2003",
+      "originalTitle": "盲井",
+      "externalIds": {
+        "imdb": "tt0351299"
+      }
+    },
+    {
+      "id": "golden-horse-2003-best-new-performer-item-5",
+      "mediaType": "movie",
+      "title": "Homerun",
+      "awardYear": 2003,
+      "winner": "Zheng Zhiyun",
+      "releaseDate": "2003",
+      "originalTitle": "跑吧孩子",
+      "externalIds": {
+        "imdb": "tt0356696"
+      }
+    },
+    {
+      "id": "golden-horse-2004-best-new-performer-item-6",
+      "mediaType": "movie",
+      "title": "Bear Hug",
+      "awardYear": 2004,
+      "winner": "Honghao Xuan",
+      "releaseDate": "2004",
+      "originalTitle": "擁抱大白熊",
+      "externalIds": {
+        "imdb": "tt0446927"
+      }
+    },
+    {
+      "id": "golden-horse-2004-best-new-performer-item-7",
+      "mediaType": "movie",
+      "title": "僕の恋、彼の秘密",
+      "awardYear": 2004,
+      "winner": "Yang You Ning",
+      "releaseDate": "2004",
+      "originalTitle": "十七歲的天空",
+      "externalIds": {
+        "imdb": "tt0420627"
+      }
+    },
+    {
+      "id": "golden-horse-2005-best-new-performer-item-8",
+      "mediaType": "movie",
+      "title": "頭文字D: The Movie",
+      "awardYear": 2005,
+      "winner": "Jay Chou",
+      "releaseDate": "2005",
+      "originalTitle": "頭文字D",
+      "externalIds": {
+        "imdb": "tt0439630"
+      }
+    },
+    {
+      "id": "golden-horse-2006-best-new-performer-item-9",
+      "mediaType": "movie",
+      "title": "花蓮の夏",
+      "awardYear": 2006,
+      "winner": "Zhang Ruijia",
+      "releaseDate": "2006",
+      "originalTitle": "盛夏光年",
+      "externalIds": {
+        "imdb": "tt0885520"
+      }
+    },
+    {
+      "id": "golden-horse-2007-best-new-performer-item-10",
+      "mediaType": "movie",
+      "title": "ラスト、コーション",
+      "awardYear": 2007,
+      "winner": "Tang Wei",
+      "releaseDate": "2007",
+      "originalTitle": "色，戒",
+      "externalIds": {
+        "imdb": "tt0808357"
+      }
+    },
+    {
+      "id": "golden-horse-2008-best-new-performer-item-11",
+      "mediaType": "movie",
+      "title": "Hopscotch",
+      "awardYear": 2008,
+      "winner": "Jiang Sheng Min",
+      "releaseDate": "2008",
+      "originalTitle": "跳格子",
+      "externalIds": {
+        "imdb": "tt4010870"
+      }
+    },
+    {
+      "id": "golden-horse-2009-best-new-performer-item-12",
+      "mediaType": "movie",
+      "title": "花の生涯〜梅蘭芳〜",
+      "awardYear": 2009,
+      "winner": "Yu Shao Qun",
+      "releaseDate": "2009",
+      "originalTitle": "梅蘭芳",
+      "externalIds": {
+        "imdb": "tt0851532"
+      }
+    },
+    {
+      "id": "golden-horse-2010-best-new-performer-item-13",
+      "mediaType": "movie",
+      "title": "ジュリエット",
+      "awardYear": 2010,
+      "winner": "Li Qian Na",
+      "releaseDate": "2010",
+      "originalTitle": "茱麗葉",
+      "externalIds": {
+        "imdb": "tt1532348"
+      }
+    },
+    {
+      "id": "golden-horse-2011-best-new-performer-item-14",
+      "mediaType": "movie",
+      "title": "あの頃、君を追いかけた",
+      "awardYear": 2011,
+      "winner": "Kai Ko",
+      "releaseDate": "2011",
+      "originalTitle": "那些年，我們一起追的女孩",
+      "externalIds": {
+        "imdb": "tt2036416"
+      }
+    },
+    {
+      "id": "golden-horse-2012-best-new-performer-item-15",
+      "mediaType": "movie",
+      "title": "二重生活（2012）",
+      "awardYear": 2012,
+      "winner": "Qi Xi",
+      "releaseDate": "2012",
+      "originalTitle": "浮城謎事",
+      "externalIds": {
+        "imdb": "tt2369127"
+      }
+    },
+    {
+      "id": "golden-horse-2013-best-new-performer-item-16",
+      "mediaType": "movie",
+      "title": "Step Back to Glory",
+      "awardYear": 2013,
+      "winner": "Kuo Shu-yao",
+      "releaseDate": "2013",
+      "originalTitle": "志氣",
+      "externalIds": {
+        "imdb": "tt3145558"
+      }
+    },
+    {
+      "id": "golden-horse-2014-best-new-performer-item-17",
+      "mediaType": "movie",
+      "title": "ブラインド・マッサージ",
+      "awardYear": 2014,
+      "winner": "Zhang Lei",
+      "releaseDate": "2014",
+      "originalTitle": "推拿",
+      "externalIds": {
+        "imdb": "tt3469964"
+      }
+    },
+    {
+      "id": "golden-horse-2015-best-new-performer-item-18",
+      "mediaType": "movie",
+      "title": "Thanatos, Drunk",
+      "awardYear": 2015,
+      "winner": "Lee Hong-chi",
+      "releaseDate": "2015",
+      "originalTitle": "醉·生夢死",
+      "externalIds": {
+        "imdb": "tt4471428"
+      }
+    },
+    {
+      "id": "golden-horse-2016-best-new-performer-tt6118258",
+      "mediaType": "movie",
+      "title": "The Summer Is Gone",
+      "awardYear": 2016,
+      "winner": "Kong Weiyi",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt6118258"
+      },
+      "originalTitle": "八月"
+    },
+    {
+      "id": "golden-horse-2017-best-new-performer-tt7010456",
+      "mediaType": "movie",
+      "title": "台北暮色",
+      "awardYear": 2017,
+      "winner": "Rima Zeidan",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7010456"
+      },
+      "originalTitle": "強尼．凱克"
+    },
+    {
+      "id": "golden-horse-2018-best-new-performer-tt7475882",
+      "mediaType": "movie",
+      "title": "Long Time No Sea",
+      "awardYear": 2018,
+      "winner": "Zhong Jia Jun",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7475882"
+      },
+      "originalTitle": "只有大海知道"
+    },
+    {
+      "id": "golden-horse-2019-best-new-performer-tt10869364",
+      "mediaType": "movie",
+      "title": "運命のマッチアップ",
+      "awardYear": 2019,
+      "winner": "Fandy Fan",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10869364"
+      },
+      "originalTitle": "下半場"
+    },
+    {
+      "id": "golden-horse-2020-best-new-performer-tt12396992",
+      "mediaType": "movie",
+      "title": "無聲 the Silent Forest",
+      "awardYear": 2020,
+      "winner": "Buffy Chen",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt12396992"
+      },
+      "originalTitle": "無聲"
+    },
+    {
+      "id": "golden-horse-2021-best-new-performer-tt15620158",
+      "mediaType": "movie",
+      "title": "アメリカから来た少女",
+      "awardYear": 2021,
+      "winner": "Caitlin Fang",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt15620158"
+      },
+      "originalTitle": "美國女孩"
+    },
+    {
+      "id": "golden-horse-2022-best-new-performer-tt22335454",
+      "mediaType": "movie",
+      "title": "Coo-Coo 043",
+      "awardYear": 2022,
+      "winner": "Hu Jhih-ciang",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt22335454"
+      },
+      "originalTitle": "一家子兒咕咕叫"
+    },
+    {
+      "id": "golden-horse-2023-best-new-performer-tt27139786",
+      "mediaType": "movie",
+      "title": "離れていても",
+      "awardYear": 2023,
+      "winner": "Jennifer Yu?",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt27139786"
+      },
+      "originalTitle": "但願人長久"
+    },
+    {
+      "id": "golden-horse-2024-best-new-performer-tt29195650",
+      "mediaType": "movie",
+      "title": "BIG",
+      "awardYear": 2024,
+      "winner": "Jheng You-fei",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt29195650"
+      }
+    },
+    {
+      "id": "golden-horse-2025-best-new-performer-tt27722618",
+      "mediaType": "movie",
+      "title": "左利きの少女",
+      "awardYear": 2025,
+      "winner": "Ma Shi Yuan",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt27722618"
+      },
+      "originalTitle": "左撇子女孩"
+    }
+  ],
+  "tags": [
+    "award",
+    "taipei",
+    "prize"
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "updatedAt": "2026-09-16T04:39:02Z",
+  "title": "サンダンス映画祭 受賞部門",
+  "description": "サンダンス映画祭の主要4長編コンペティション審査員大賞の歴代受賞作品。",
+  "tags": [
+    "award",
+    "park-city",
+    "prize"
+  ],
+  "icon": "ticket",
+  "sections": [
+    {
+      "title": "サンダンス映画祭 — 米国ドラマ部門 審査員大賞",
+      "description": "サンダンス映画祭「米国ドラマ部門 審査員大賞」の歴代受賞作品。1985年以降の全受賞記録を収録し、同年の複数受賞も個別項目として保持。",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "carousel",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "sundance-us-grand-jury-dramatic.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "サンダンス映画祭 — 米国ドキュメンタリー部門 審査員大賞",
+      "description": "サンダンス映画祭「米国ドキュメンタリー部門 審査員大賞」の歴代受賞作品。1985年以降の全受賞記録を収録し、同年の複数受賞も個別項目として保持。",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "sundance-us-grand-jury-documentary.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "サンダンス映画祭 — ワールドシネマ・ドラマ部門 審査員大賞",
+      "description": "サンダンス映画祭「ワールドシネマ・ドラマ部門 審査員大賞」の歴代受賞作品。2005年以降の全受賞記録を収録し、同年の複数受賞も個別項目として保持。",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "sundance-world-cinema-grand-jury-dramatic.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "サンダンス映画祭 — ワールドシネマ・ドキュメンタリー部門 審査員大賞",
+      "description": "サンダンス映画祭「ワールドシネマ・ドキュメンタリー部門 審査員大賞」の歴代受賞作品。2005年以降の全受賞記録を収録し、同年の複数受賞も個別項目として保持。",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "sundance-world-cinema-grand-jury-documentary.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T03:05:36Z",
+  "title": "カンヌ国際映画祭 過去10年",
+  "description": "カンヌ国際映画祭の直近10暦年における開催回の受賞作品。2020年は映画祭が中止されたため含まれません。",
+  "tags": [
+    "award",
+    "decade"
+  ],
+  "icon": "ticket",
+  "sections": [
+    {
+      "title": "カンヌ — 2026",
+      "description": "2026年カンヌ国際映画祭の公式な映画関連受賞作品一覧。",
+      "layout": "carousel",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "cannes-2026.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ]
+    },
+    {
+      "title": "カンヌ — 2025",
+      "description": "2025年カンヌ国際映画祭の公式な映画関連受賞作品一覧。",
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "cannes-2025.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ]
+    },
+    {
+      "title": "カンヌ — 2024",
+      "description": "2024年カンヌ国際映画祭の公式な映画関連受賞作品一覧。",
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "cannes-2024.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ]
+    },
+    {
+      "title": "カンヌ — 2023",
+      "description": "2023年カンヌ国際映画祭の公式な映画関連受賞作品一覧。",
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "cannes-2023.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ]
+    },
+    {
+      "title": "カンヌ — 2022",
+      "description": "2022年カンヌ国際映画祭の公式な映画関連受賞作品一覧。",
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "cannes-2022.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ]
+    },
+    {
+      "title": "カンヌ — 2021",
+      "description": "2021年カンヌ国際映画祭の公式な映画関連受賞作品一覧。",
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "cannes-2021.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ]
+    },
+    {
+      "title": "カンヌ — 2019",
+      "description": "2019年カンヌ国際映画祭の公式な映画関連受賞作品一覧。",
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "cannes-2019.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ]
+    },
+    {
+      "title": "カンヌ — 2018",
+      "description": "2018年カンヌ国際映画祭の公式な映画関連受賞作品一覧。",
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "cannes-2018.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ]
+    },
+    {
+      "title": "カンヌ — 2017",
+      "description": "2017年カンヌ国際映画祭の公式な映画関連受賞作品一覧。",
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "cannes-2017.list.json"
+        }
+      ],
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T02:53:58Z",
+  "title": "百想艺术大赏 — 2017",
+  "description": "2017 年百想艺术大赏电影主要奖项获奖记录。",
+  "items": [
+    {
+      "id": "baeksang-2017-film-grand-handmaiden",
+      "mediaType": "movie",
+      "title": "小姐",
+      "originalTitle": "아가씨",
+      "award": "电影大奖",
+      "awardYear": 2017,
+      "awardOrder": 1,
+      "winner": "Park Chan-wook",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4016934"
+      }
+    },
+    {
+      "id": "baeksang-2017-film-best-wailing",
+      "mediaType": "movie",
+      "title": "哭声",
+      "originalTitle": "곡성",
+      "award": "最佳电影",
+      "awardYear": 2017,
+      "awardOrder": 2,
+      "winner": "哭声",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5215952"
+      }
+    },
+    {
+      "id": "baeksang-2017-film-director-age-shadows",
+      "mediaType": "movie",
+      "title": "密探",
+      "originalTitle": "밀정",
+      "award": "电影最佳导演",
+      "awardYear": 2017,
+      "awardOrder": 3,
+      "winner": "Kim Jee-woon",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4914580"
+      }
+    },
+    {
+      "id": "baeksang-2017-film-actor-age-shadows",
+      "mediaType": "movie",
+      "title": "密探",
+      "originalTitle": "밀정",
+      "award": "电影最佳男主角",
+      "awardYear": 2017,
+      "awardOrder": 4,
+      "winner": "Song Kang-ho",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4914580"
+      }
+    },
+    {
+      "id": "baeksang-2017-film-actress-last-princess",
+      "mediaType": "movie",
+      "title": "德惠翁主",
+      "originalTitle": "덕혜옹주",
+      "award": "电影最佳女主角",
+      "awardYear": 2017,
+      "awardOrder": 5,
+      "winner": "Son Ye-jin",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5947416"
+      }
+    }
+  ]
+}

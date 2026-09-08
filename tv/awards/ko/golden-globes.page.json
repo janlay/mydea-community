@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "title": "골든 글로브상",
+  "description": "골든 글로브 주요 텔레비전 작품 부문 수상 데이터.",
+  "tags": [
+    "award",
+    "tv"
+  ],
+  "icon": "ticket",
+  "sections": [
+    {
+      "title": "골든 글로브 — TV 드라마 작품상",
+      "description": "2017–2026 골든 글로브 TV 드라마 작품상 수상작.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "carousel",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "golden-globes-tv-drama.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "골든 글로브 — TV 뮤지컬·코미디 작품상",
+      "description": "2017–2026 골든 글로브 TV 뮤지컬·코미디 작품상 수상작.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "golden-globes-tv-comedy.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "골든 글로브 — 리미티드 시리즈·앤솔러지·TV 영화상",
+      "description": "2017–2026 골든 글로브 리미티드 시리즈·앤솔러지·TV 영화상 수상작.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "golden-globes-limited.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    }
+  ]
+}

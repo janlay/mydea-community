@@ -1,0 +1,197 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "title": "Golden Horse Awards — Awards",
+  "icon": "ticket",
+  "sections": [
+    {
+      "title": "Golden Horse Awards — Best Narrative Feature",
+      "description": "Complete historical winners of the Golden Horse Award for Best Narrative Feature, from the category’s first presentation through 2025.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "carousel",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "golden-horse-best-feature.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "Golden Horse Awards — Best Director",
+      "description": "Complete historical winners of the Golden Horse Award for Best Director, from the category’s first presentation through 2025.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "golden-horse-best-director.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "Golden Horse Awards — Best Leading Actor",
+      "description": "Complete historical winners of the Golden Horse Award for Best Leading Actor, from the category’s first presentation through 2025.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "golden-horse-best-actor.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "Golden Horse Awards — Best Leading Actress",
+      "description": "Complete historical winners of the Golden Horse Award for Best Leading Actress, from the category’s first presentation through 2025.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "golden-horse-best-actress.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "Golden Horse Awards — Best Supporting Actor",
+      "description": "Complete historical winners of the Golden Horse Award for Best Supporting Actor, from the category’s first presentation through 2025.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "golden-horse-best-supporting-actor.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "Golden Horse Awards — Best Supporting Actress",
+      "description": "Complete historical winners of the Golden Horse Award for Best Supporting Actress, from the category’s first presentation through 2025.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "golden-horse-best-supporting-actress.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "Golden Horse Awards — Best New Director",
+      "description": "Complete historical winners of the Golden Horse Award for Best New Director, from the category’s first presentation through 2025.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "golden-horse-best-new-director.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "Golden Horse Awards — Best New Performer",
+      "description": "Complete historical winners of the Golden Horse Award for Best New Performer, from the category’s first presentation through 2025.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "golden-horse-best-new-performer.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    }
+  ],
+  "description": "Complete winner list of every Golden Horse Award category. 1964 and 1974 were not held.",
+  "tags": [
+    "award",
+    "prize"
+  ]
+}

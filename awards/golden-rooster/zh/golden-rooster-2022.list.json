@@ -1,0 +1,245 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T00:56:00Z",
+  "title": "中国电影金鸡奖 2022 年获奖名单",
+  "description": "第35届中国电影金鸡奖主要获奖影片与影人。",
+  "items": [
+    {
+      "id": "golden-rooster-2022-best-feature-film-25389892",
+      "mediaType": "movie",
+      "title": "长津湖",
+      "releaseDate": "2021",
+      "externalIds": {
+        "tmdb": "752623",
+        "imdb": "tt13462900"
+      },
+      "awardYear": 2022,
+      "awardOrder": 1,
+      "award": "最佳故事片",
+      "winner": "陈凯歌、徐克、林超贤"
+    },
+    {
+      "id": "golden-rooster-2022-jury-special-prize-10129648",
+      "mediaType": "movie",
+      "title": "我和我的父辈",
+      "awardYear": 2022,
+      "awardOrder": 2,
+      "award": "评委会特别奖"
+    },
+    {
+      "id": "golden-rooster-2022-best-director-88682721",
+      "mediaType": "movie",
+      "title": "长津湖",
+      "releaseDate": "2021",
+      "externalIds": {
+        "tmdb": "752623",
+        "imdb": "tt13462900"
+      },
+      "awardYear": 2022,
+      "awardOrder": 3,
+      "award": "最佳导演",
+      "winner": "陈凯歌、徐克、林超贤"
+    },
+    {
+      "id": "golden-rooster-2022-best-actor-60895427",
+      "mediaType": "movie",
+      "title": "人生大事",
+      "releaseDate": "2022",
+      "externalIds": {
+        "tmdb": "938008",
+        "imdb": "tt15801594"
+      },
+      "awardYear": 2022,
+      "awardOrder": 4,
+      "award": "最佳男主角",
+      "winner": "朱一龙"
+    },
+    {
+      "id": "golden-rooster-2022-best-actress-93111993",
+      "mediaType": "movie",
+      "title": "妈妈！",
+      "releaseDate": "2022",
+      "externalIds": {
+        "tmdb": "1004968",
+        "imdb": "tt21379562"
+      },
+      "awardYear": 2022,
+      "awardOrder": 5,
+      "award": "最佳女主角",
+      "winner": "奚美娟"
+    },
+    {
+      "id": "golden-rooster-2022-best-supporting-actor-70932939",
+      "mediaType": "movie",
+      "title": "漫长的告白",
+      "releaseDate": "2021",
+      "awardYear": 2022,
+      "awardOrder": 6,
+      "award": "最佳男配角",
+      "winner": "辛柏青"
+    },
+    {
+      "id": "golden-rooster-2022-best-supporting-actress-05637408",
+      "mediaType": "movie",
+      "title": "奇迹·笨小孩",
+      "releaseDate": "2022",
+      "externalIds": {
+        "tmdb": "926899",
+        "imdb": "tt15783426"
+      },
+      "awardYear": 2022,
+      "awardOrder": 7,
+      "award": "最佳女配角",
+      "winner": "齐溪"
+    },
+    {
+      "id": "golden-rooster-2022-best-screenplay-95538829",
+      "mediaType": "movie",
+      "title": "爱情神话",
+      "releaseDate": "2021",
+      "externalIds": {
+        "tmdb": "897160",
+        "imdb": "tt16411742"
+      },
+      "awardYear": 2022,
+      "awardOrder": 8,
+      "award": "最佳编剧",
+      "winner": "邵艺辉"
+    },
+    {
+      "id": "golden-rooster-2022-best-directorial-debut-70087040",
+      "mediaType": "movie",
+      "title": "人生大事",
+      "releaseDate": "2022",
+      "externalIds": {
+        "tmdb": "938008",
+        "imdb": "tt15801594"
+      },
+      "awardYear": 2022,
+      "awardOrder": 9,
+      "award": "最佳导演处女作",
+      "winner": "刘江江"
+    },
+    {
+      "id": "golden-rooster-2022-best-documentary-25714468",
+      "mediaType": "movie",
+      "title": "1950他们正年轻",
+      "awardYear": 2022,
+      "awardOrder": 10,
+      "award": "最佳纪录片"
+    },
+    {
+      "id": "golden-rooster-2022-best-foreign-language-film-17931187",
+      "mediaType": "movie",
+      "title": "漫漫寻子路",
+      "awardYear": 2022,
+      "awardOrder": 11,
+      "award": "最佳外语片"
+    },
+    {
+      "id": "golden-rooster-2022-best-low-budget-feature-68452020",
+      "mediaType": "movie",
+      "title": "漫长的告白",
+      "releaseDate": "2021",
+      "awardYear": 2022,
+      "awardOrder": 12,
+      "award": "最佳中小成本故事片"
+    },
+    {
+      "id": "golden-rooster-2022-best-children-film-38241425",
+      "mediaType": "movie",
+      "title": "再见土拨鼠",
+      "awardYear": 2022,
+      "awardOrder": 13,
+      "award": "最佳儿童片"
+    },
+    {
+      "id": "golden-rooster-2022-best-opera-film-45605848",
+      "mediaType": "movie",
+      "title": "敦煌女儿",
+      "awardYear": 2022,
+      "awardOrder": 14,
+      "award": "最佳戏曲片"
+    },
+    {
+      "id": "golden-rooster-2022-best-animation-76319602",
+      "mediaType": "movie",
+      "title": "熊出没·重返地球",
+      "awardYear": 2022,
+      "awardOrder": 15,
+      "award": "最佳美术片"
+    },
+    {
+      "id": "golden-rooster-2022-best-sound-54568505",
+      "mediaType": "movie",
+      "title": "狙击手",
+      "releaseDate": "2022",
+      "externalIds": {
+        "tmdb": "888195",
+        "imdb": "tt13317320"
+      },
+      "awardYear": 2022,
+      "awardOrder": 16,
+      "award": "最佳录音",
+      "winner": "杨江、赵楠"
+    },
+    {
+      "id": "golden-rooster-2022-best-cinematography-72793848",
+      "mediaType": "movie",
+      "title": "狙击手",
+      "releaseDate": "2022",
+      "externalIds": {
+        "tmdb": "888195",
+        "imdb": "tt13317320"
+      },
+      "awardYear": 2022,
+      "awardOrder": 17,
+      "award": "最佳摄影",
+      "winner": "赵小丁"
+    },
+    {
+      "id": "golden-rooster-2022-best-art-direction-65002762",
+      "mediaType": "movie",
+      "title": "独行月球",
+      "releaseDate": "2022",
+      "externalIds": {
+        "tmdb": "928344",
+        "imdb": "tt14557302"
+      },
+      "awardYear": 2022,
+      "awardOrder": 18,
+      "award": "最佳美术",
+      "winner": "李淼"
+    },
+    {
+      "id": "golden-rooster-2022-best-music-10708537",
+      "mediaType": "movie",
+      "title": "独行月球",
+      "releaseDate": "2022",
+      "externalIds": {
+        "tmdb": "928344",
+        "imdb": "tt14557302"
+      },
+      "awardYear": 2022,
+      "awardOrder": 19,
+      "award": "最佳音乐",
+      "winner": "彭飞"
+    },
+    {
+      "id": "golden-rooster-2022-best-editing-47637197",
+      "mediaType": "movie",
+      "title": "爱情神话",
+      "releaseDate": "2021",
+      "externalIds": {
+        "tmdb": "897160",
+        "imdb": "tt16411742"
+      },
+      "awardYear": 2022,
+      "awardOrder": 20,
+      "award": "最佳剪辑",
+      "winner": "黄琼逸"
+    }
+  ]
+}

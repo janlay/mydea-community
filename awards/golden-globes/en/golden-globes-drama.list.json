@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "Golden Globes — Best Motion Picture – Drama",
+  "description": "Winners of the Golden Globe Best Motion Picture – Drama category from 2017 through 2026.",
+  "items": [
+    {
+      "id": "golden-globes-drama-2017-moonlight",
+      "mediaType": "movie",
+      "title": "Moonlight",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4975722"
+      },
+      "awardYear": 2017,
+      "winner": "Moonlight"
+    },
+    {
+      "id": "golden-globes-drama-2018-three-billboards-outside-ebbing-missouri",
+      "mediaType": "movie",
+      "title": "Three Billboards Outside Ebbing, Missouri",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5027774"
+      },
+      "awardYear": 2018,
+      "winner": "Three Billboards Outside Ebbing, Missouri"
+    },
+    {
+      "id": "golden-globes-drama-2019-bohemian-rhapsody",
+      "mediaType": "movie",
+      "title": "Bohemian Rhapsody",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt1727824"
+      },
+      "awardYear": 2019,
+      "winner": "Bohemian Rhapsody"
+    },
+    {
+      "id": "golden-globes-drama-2020-1917",
+      "mediaType": "movie",
+      "title": "1917",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt8579674"
+      },
+      "awardYear": 2020,
+      "winner": "1917"
+    },
+    {
+      "id": "golden-globes-drama-2021-nomadland",
+      "mediaType": "movie",
+      "title": "Nomadland",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt9770150"
+      },
+      "awardYear": 2021,
+      "winner": "Nomadland"
+    },
+    {
+      "id": "golden-globes-drama-2022-the-power-of-the-dog",
+      "mediaType": "movie",
+      "title": "The Power of the Dog",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt10293406"
+      },
+      "awardYear": 2022,
+      "winner": "The Power of the Dog"
+    },
+    {
+      "id": "golden-globes-drama-2023-the-fabelmans",
+      "mediaType": "movie",
+      "title": "The Fabelmans",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt14208870"
+      },
+      "awardYear": 2023,
+      "winner": "The Fabelmans"
+    },
+    {
+      "id": "golden-globes-drama-2024-oppenheimer",
+      "mediaType": "movie",
+      "title": "Oppenheimer",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt15398776"
+      },
+      "awardYear": 2024,
+      "winner": "Oppenheimer"
+    },
+    {
+      "id": "golden-globes-drama-2025-the-brutalist",
+      "mediaType": "movie",
+      "title": "The Brutalist",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt8999762"
+      },
+      "awardYear": 2025,
+      "winner": "The Brutalist"
+    },
+    {
+      "id": "golden-globes-drama-2026-hamnet",
+      "mediaType": "movie",
+      "title": "Hamnet",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt14905854"
+      },
+      "awardYear": 2026,
+      "winner": "Hamnet"
+    }
+  ]
+}

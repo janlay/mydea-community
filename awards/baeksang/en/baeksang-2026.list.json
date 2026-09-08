@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T02:53:58Z",
+  "title": "Baeksang Arts Awards — 2026",
+  "description": "Film category winners at the 2026 Baeksang Arts Awards.",
+  "items": [
+    {
+      "id": "baeksang-2026-film-grand-kings-warden",
+      "mediaType": "movie",
+      "title": "The King’s Warden",
+      "originalTitle": "왕과 사는 남자",
+      "award": "Film Grand Prize",
+      "awardYear": 2026,
+      "awardOrder": 1,
+      "winner": "Yoo Hae-jin",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt38626703"
+      }
+    },
+    {
+      "id": "baeksang-2026-film-best-no-other-choice",
+      "mediaType": "movie",
+      "title": "No Other Choice",
+      "originalTitle": "어쩔수가없다",
+      "award": "Best Film",
+      "awardYear": 2026,
+      "awardOrder": 2,
+      "winner": "No Other Choice",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt1527793"
+      }
+    },
+    {
+      "id": "baeksang-2026-film-director-world-love",
+      "mediaType": "movie",
+      "title": "The World of Love",
+      "originalTitle": "세계의 주인",
+      "award": "Best Director Film",
+      "awardYear": 2026,
+      "awardOrder": 3,
+      "winner": "Yoon Ga-eun",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt37661885"
+      }
+    },
+    {
+      "id": "baeksang-2026-film-actor-ugly",
+      "mediaType": "movie",
+      "title": "The Ugly",
+      "originalTitle": "얼굴",
+      "award": "Best Actor Film",
+      "awardYear": 2026,
+      "awardOrder": 4,
+      "winner": "Park Jeong-min",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt33514451"
+      }
+    },
+    {
+      "id": "baeksang-2026-film-actress-once-us",
+      "mediaType": "movie",
+      "title": "Once We Were Us",
+      "originalTitle": "만약에 우리",
+      "award": "Best Actress Film",
+      "awardYear": 2026,
+      "awardOrder": 5,
+      "winner": "Moon Ga-young",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt37764737"
+      }
+    }
+  ]
+}

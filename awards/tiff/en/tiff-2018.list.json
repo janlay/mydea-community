@@ -1,0 +1,179 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:47:39Z",
+  "title": "Toronto — 2018",
+  "description": "Film award winners at the 2018 Toronto International Film Festival.",
+  "items": [
+    {
+      "id": "tiff-2018-peoples-choice-2018-green-book",
+      "mediaType": "movie",
+      "title": "Green Book",
+      "releaseDate": "2018",
+      "externalIds": {
+        "letterboxd": "green-book"
+      },
+      "awardYear": 2018,
+      "winner": "Peter Farrelly",
+      "award": "People's Choice Award",
+      "awardOrder": 1
+    },
+    {
+      "id": "tiff-2018-documentary-peoples-choice-2018-free-solo",
+      "mediaType": "movie",
+      "title": "Free Solo",
+      "releaseDate": "2018",
+      "externalIds": {
+        "letterboxd": "free-solo"
+      },
+      "awardYear": 2018,
+      "winner": "E. Chai Vasarhelyi & Jimmy Chin",
+      "award": "People's Choice Documentary Award",
+      "awardOrder": 2
+    },
+    {
+      "id": "tiff-2018-midnight-madness-peoples-choice-2018-the-man-who-feels-no-pain",
+      "mediaType": "movie",
+      "title": "The Man Who Feels No Pain",
+      "releaseDate": "2018",
+      "externalIds": {
+        "letterboxd": "the-man-who-feels-no-pain"
+      },
+      "awardYear": 2018,
+      "winner": "Vasan Bala",
+      "award": "People's Choice Midnight Madness Award",
+      "awardOrder": 3
+    },
+    {
+      "id": "tiff-2018-platform-prize-2018-cities-of-last-things",
+      "mediaType": "movie",
+      "title": "Cities of Last Things",
+      "releaseDate": "2018",
+      "externalIds": {
+        "letterboxd": "cities-of-last-things"
+      },
+      "awardYear": 2018,
+      "winner": "Ho Wi-ding",
+      "award": "Platform Prize",
+      "awardOrder": 4
+    },
+    {
+      "id": "tiff-2018-best-canadian-feature-2018-the-fireflies-are-gone",
+      "mediaType": "movie",
+      "title": "The Fireflies Are Gone",
+      "releaseDate": "2018",
+      "externalIds": {
+        "letterboxd": "the-fireflies-are-gone"
+      },
+      "awardYear": 2018,
+      "winner": "Sébastien Pilote",
+      "award": "Best Canadian Feature Film",
+      "awardOrder": 5
+    },
+    {
+      "id": "tiff-2018-best-canadian-discovery-2018-roads-in-february",
+      "mediaType": "movie",
+      "title": "Roads in February",
+      "releaseDate": "2018",
+      "externalIds": {
+        "letterboxd": "roads-in-february"
+      },
+      "awardYear": 2018,
+      "winner": "Katherine Jerkovic",
+      "award": "Best Canadian Discovery",
+      "awardOrder": 6
+    },
+    {
+      "id": "tiff-2018-best-canadian-short-film-2018-brotherhood",
+      "mediaType": "movie",
+      "title": "Brotherhood",
+      "releaseDate": "2018",
+      "externalIds": {
+        "letterboxd": "brotherhood"
+      },
+      "awardYear": 2018,
+      "winner": "Meryam Joobeur",
+      "award": "Best Canadian Short Film",
+      "awardOrder": 7
+    },
+    {
+      "id": "tiff-2018-best-canadian-first-feature-2018-roads-in-february",
+      "mediaType": "movie",
+      "title": "Roads in February",
+      "releaseDate": "2018",
+      "externalIds": {
+        "letterboxd": "roads-in-february"
+      },
+      "awardYear": 2018,
+      "winner": "Katherine Jerkovic",
+      "award": "Best Canadian First Feature",
+      "awardOrder": 8
+    },
+    {
+      "id": "tiff-2018-fipresci-prize-discovery-2018-float-like-a-butterfly",
+      "mediaType": "movie",
+      "title": "Float Like a Butterfly",
+      "releaseDate": "2018",
+      "externalIds": {
+        "letterboxd": "float-like-a-butterfly"
+      },
+      "awardYear": 2018,
+      "winner": "Carmel Winters",
+      "award": "FIPRESCI Prize — Discovery",
+      "awardOrder": 9
+    },
+    {
+      "id": "tiff-2018-fipresci-prize-special-presentations-2018-skin",
+      "mediaType": "movie",
+      "title": "Skin",
+      "releaseDate": "2018",
+      "externalIds": {
+        "letterboxd": "skin"
+      },
+      "awardYear": 2018,
+      "winner": "Guy Nattiv",
+      "award": "FIPRESCI Prize — Special Presentations",
+      "awardOrder": 10
+    },
+    {
+      "id": "tiff-2018-best-international-short-film-2018-the-field",
+      "mediaType": "movie",
+      "title": "The Field",
+      "releaseDate": "2018",
+      "externalIds": {
+        "letterboxd": "the-field"
+      },
+      "awardYear": 2018,
+      "winner": "Sandhya Suri",
+      "award": "Best International Short Film",
+      "awardOrder": 11
+    },
+    {
+      "id": "tiff-2018-netpac-award-2018-the-third-wife",
+      "mediaType": "movie",
+      "title": "The Third Wife",
+      "releaseDate": "2018",
+      "externalIds": {
+        "letterboxd": "the-third-wife"
+      },
+      "awardYear": 2018,
+      "winner": "Ash Mayfair",
+      "award": "NETPAC Award",
+      "awardOrder": 12
+    },
+    {
+      "id": "tiff-2018-eurimages-audentia-award-2018-fig-tree",
+      "mediaType": "movie",
+      "title": "Fig Tree",
+      "releaseDate": "2018",
+      "externalIds": {
+        "letterboxd": "fig-tree"
+      },
+      "awardYear": 2018,
+      "winner": "Aäläm-Wärqe Davidian",
+      "award": "Eurimages Audentia Award",
+      "awardOrder": 13
+    }
+  ]
+}

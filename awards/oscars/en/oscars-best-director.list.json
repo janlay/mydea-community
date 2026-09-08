@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T05:03:58Z",
+  "title": "Oscars — Best Director",
+  "description": "Ten-year winner history for the Academy Award for Best Director.",
+  "items": [
+    {
+      "id": "oscars-best-director-2017-la-la-land",
+      "mediaType": "movie",
+      "title": "La La Land",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt3783958"
+      },
+      "awardYear": 2017,
+      "winner": "Damien Chazelle"
+    },
+    {
+      "id": "oscars-best-director-2018-the-shape-of-water",
+      "mediaType": "movie",
+      "title": "The Shape of Water",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5580390"
+      },
+      "awardYear": 2018,
+      "winner": "Guillermo del Toro"
+    },
+    {
+      "id": "oscars-best-director-2019-roma",
+      "mediaType": "movie",
+      "title": "Roma",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt6155172"
+      },
+      "awardYear": 2019,
+      "winner": "Alfonso Cuarón"
+    },
+    {
+      "id": "oscars-best-director-2020-parasite",
+      "mediaType": "movie",
+      "title": "Parasite",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6751668"
+      },
+      "awardYear": 2020,
+      "winner": "Bong Joon Ho"
+    },
+    {
+      "id": "oscars-best-director-2021-nomadland",
+      "mediaType": "movie",
+      "title": "Nomadland",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt9770150"
+      },
+      "awardYear": 2021,
+      "winner": "Chloé Zhao"
+    },
+    {
+      "id": "oscars-best-director-2022-the-power-of-the-dog",
+      "mediaType": "movie",
+      "title": "The Power of the Dog",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt10293406"
+      },
+      "awardYear": 2022,
+      "winner": "Jane Campion"
+    },
+    {
+      "id": "oscars-best-director-2023-everything-everywhere-all-at-once",
+      "mediaType": "movie",
+      "title": "Everything Everywhere All at Once",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt6710474"
+      },
+      "awardYear": 2023,
+      "winner": "Daniel Kwan & Daniel Scheinert"
+    },
+    {
+      "id": "oscars-best-director-2024-oppenheimer",
+      "mediaType": "movie",
+      "title": "Oppenheimer",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt15398776"
+      },
+      "awardYear": 2024,
+      "winner": "Christopher Nolan"
+    },
+    {
+      "id": "oscars-best-director-2025-anora",
+      "mediaType": "movie",
+      "title": "Anora",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt28607951"
+      },
+      "awardYear": 2025,
+      "winner": "Sean Baker"
+    },
+    {
+      "id": "oscars-best-director-2026-one-battle-after-another",
+      "mediaType": "movie",
+      "title": "One Battle After Another",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt30144839"
+      },
+      "awardYear": 2026,
+      "winner": "Paul Thomas Anderson"
+    }
+  ]
+}

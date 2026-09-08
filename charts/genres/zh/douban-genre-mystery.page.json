@@ -1,0 +1,172 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "icon": "chart.bar",
+  "title": "悬疑片榜单",
+  "description": "豆瓣悬疑片榜单，涵盖 13 个国家和地区。",
+  "tags": [
+    "douban",
+    "chart",
+    "genre",
+    "mystery"
+  ],
+  "sections": [
+    {
+      "title": "华语悬疑片",
+      "layout": "carousel",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECRMOX2JI"
+        }
+      ]
+    },
+    {
+      "title": "欧洲悬疑片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECUMPB7SA"
+        }
+      ]
+    },
+    {
+      "title": "美国悬疑片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECJUO3L7I"
+        }
+      ]
+    },
+    {
+      "title": "中国香港悬疑片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECV4OU2WA"
+        }
+      ]
+    },
+    {
+      "title": "日本悬疑片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECVYOVDIA"
+        }
+      ]
+    },
+    {
+      "title": "韩国悬疑片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECSYOYZWI"
+        }
+      ]
+    },
+    {
+      "title": "英国悬疑片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "EC5YPE3OI"
+        }
+      ]
+    },
+    {
+      "title": "法国悬疑片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECQUO7FVQ"
+        }
+      ]
+    },
+    {
+      "title": "德国悬疑片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECZQO7KSQ"
+        }
+      ]
+    },
+    {
+      "title": "意大利悬疑片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECVEO7MPI"
+        }
+      ]
+    },
+    {
+      "title": "西班牙悬疑片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECAYOVXFA"
+        }
+      ]
+    },
+    {
+      "title": "加拿大悬疑片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECYMPDCTI"
+        }
+      ]
+    },
+    {
+      "title": "澳大利亚悬疑片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECIMOWR2I"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "Golden Globes 2017",
+  "description": "Film category winners at the 2017 Golden Globes.",
+  "items": [
+    {
+      "id": "golden-globes-2017-drama-moonlight",
+      "mediaType": "movie",
+      "title": "Moonlight",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4975722"
+      },
+      "award": "Best Motion Picture – Drama",
+      "awardYear": 2017,
+      "awardOrder": 1,
+      "winner": "Moonlight"
+    },
+    {
+      "id": "golden-globes-2017-comedy-la-la-land",
+      "mediaType": "movie",
+      "title": "La La Land",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt3783958"
+      },
+      "award": "Best Motion Picture – Musical or Comedy",
+      "awardYear": 2017,
+      "awardOrder": 2,
+      "winner": "La La Land"
+    },
+    {
+      "id": "golden-globes-2017-animated-zootopia",
+      "mediaType": "movie",
+      "title": "Zootopia",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt2948356"
+      },
+      "award": "Best Motion Picture – Animated",
+      "awardYear": 2017,
+      "awardOrder": 3,
+      "winner": "Zootopia"
+    },
+    {
+      "id": "golden-globes-2017-foreign-elle",
+      "mediaType": "movie",
+      "title": "Elle",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt3716530"
+      },
+      "award": "Best Motion Picture – Non-English Language",
+      "awardYear": 2017,
+      "awardOrder": 4,
+      "winner": "Elle"
+    }
+  ]
+}

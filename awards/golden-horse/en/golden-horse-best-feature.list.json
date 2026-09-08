@@ -1,0 +1,770 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-22T08:41:11Z",
+  "title": "Golden Horse Awards — Best Narrative Feature",
+  "description": "Complete historical winners of the Golden Horse Award for Best Narrative Feature, from the category’s first presentation through 2025.",
+  "cacheTtlInDays": 365,
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "golden-horse-1962-best-feature-tt0211753",
+      "mediaType": "movie",
+      "title": "Sun, Moon and Star",
+      "awardYear": 1962,
+      "winner": "Yi Wen",
+      "releaseDate": "1962",
+      "externalIds": {
+        "imdb": "tt0211753"
+      },
+      "originalTitle": "星星月亮太陽"
+    },
+    {
+      "id": "golden-horse-1963-best-feature-tt0057248",
+      "mediaType": "movie",
+      "title": "The Love Eterne",
+      "awardYear": 1963,
+      "winner": "Li Han-hsiang",
+      "releaseDate": "1963",
+      "externalIds": {
+        "imdb": "tt0057248"
+      },
+      "originalTitle": "梁山伯與祝英台"
+    },
+    {
+      "id": "golden-horse-1965-best-feature-tt1345532",
+      "mediaType": "movie",
+      "title": "Beautiful Duckling",
+      "awardYear": 1965,
+      "winner": "Li Hsing",
+      "releaseDate": "1965",
+      "externalIds": {
+        "imdb": "tt1345532"
+      },
+      "originalTitle": "養鴨人家"
+    },
+    {
+      "id": "golden-horse-1966-best-feature-tt0311305",
+      "mediaType": "movie",
+      "title": "Hsi-Shih, Beauty of Beauties",
+      "awardYear": 1966,
+      "winner": "Li Han-hsiang",
+      "releaseDate": "1966",
+      "externalIds": {
+        "imdb": "tt0311305"
+      },
+      "originalTitle": "西施"
+    },
+    {
+      "id": "golden-horse-1967-best-feature-tt0185582",
+      "mediaType": "movie",
+      "title": "Orchids and My Love",
+      "awardYear": 1967,
+      "winner": "Li Jia",
+      "releaseDate": "1967",
+      "externalIds": {
+        "imdb": "tt0185582"
+      },
+      "originalTitle": "我女若蘭"
+    },
+    {
+      "id": "golden-horse-1968-best-feature-tt7176712",
+      "mediaType": "movie",
+      "title": "The Road",
+      "awardYear": 1968,
+      "winner": "Li Hsing",
+      "releaseDate": "1968",
+      "externalIds": {
+        "imdb": "tt7176712"
+      },
+      "originalTitle": "路"
+    },
+    {
+      "id": "golden-horse-1969-best-feature-item-7",
+      "mediaType": "movie",
+      "title": "Spring in a Small Town",
+      "awardYear": 1969,
+      "winner": "Yang Wen Gan",
+      "releaseDate": "1969",
+      "originalTitle": "小鎮春回",
+      "externalIds": {
+        "imdb": "tt4302792"
+      }
+    },
+    {
+      "id": "golden-horse-1970-best-feature-tt0978620",
+      "mediaType": "movie",
+      "title": "Home Sweet Home",
+      "awardYear": 1970,
+      "winner": "Pai Ching-jui",
+      "releaseDate": "1970",
+      "externalIds": {
+        "imdb": "tt0978620"
+      },
+      "originalTitle": "家在台北"
+    },
+    {
+      "id": "golden-horse-1971-best-feature-tt0067797",
+      "mediaType": "movie",
+      "title": "The Story of Ti-Ying",
+      "awardYear": 1971,
+      "winner": "Li Han-hsiang",
+      "releaseDate": "1971",
+      "externalIds": {
+        "imdb": "tt0067797"
+      },
+      "originalTitle": "緹縈"
+    },
+    {
+      "id": "golden-horse-1972-best-feature-item-10",
+      "mediaType": "movie",
+      "title": "Execution in Autumn",
+      "awardYear": 1972,
+      "winner": "Li Hsing",
+      "releaseDate": "1972",
+      "originalTitle": "秋決",
+      "externalIds": {
+        "imdb": "tt1033618"
+      }
+    },
+    {
+      "id": "golden-horse-1973-best-feature-item-11",
+      "mediaType": "movie",
+      "title": "The Escape",
+      "awardYear": 1973,
+      "winner": "Wu Min Xiong",
+      "releaseDate": "1973",
+      "originalTitle": "忍",
+      "externalIds": {
+        "imdb": "tt1427286"
+      }
+    },
+    {
+      "id": "golden-horse-1975-best-feature-tt0314902",
+      "mediaType": "movie",
+      "title": "Land of the Undaunted",
+      "awardYear": 1975,
+      "winner": "Li Hsing",
+      "releaseDate": "1975",
+      "externalIds": {
+        "imdb": "tt0314902"
+      },
+      "originalTitle": "吾土吾民"
+    },
+    {
+      "id": "golden-horse-1976-best-feature-tt0195050",
+      "mediaType": "movie",
+      "title": "Victory",
+      "awardYear": 1976,
+      "winner": "Liu Jia Chang",
+      "releaseDate": "1976",
+      "externalIds": {
+        "imdb": "tt0195050"
+      },
+      "originalTitle": "梅花"
+    },
+    {
+      "id": "golden-horse-1977-best-feature-tt0184567",
+      "mediaType": "movie",
+      "title": "Heroes of the Eastern Skies",
+      "awardYear": 1977,
+      "winner": "Zhang Cengze",
+      "releaseDate": "1977",
+      "externalIds": {
+        "imdb": "tt0184567"
+      },
+      "originalTitle": "筧橋英烈傳"
+    },
+    {
+      "id": "golden-horse-1978-best-feature-tt0079277",
+      "mediaType": "movie",
+      "title": "He Never Gives Up",
+      "awardYear": 1978,
+      "winner": "Li Hsing",
+      "releaseDate": "1978",
+      "externalIds": {
+        "imdb": "tt0079277"
+      },
+      "originalTitle": "汪洋中的一條船"
+    },
+    {
+      "id": "golden-horse-1979-best-feature-tt0314907",
+      "mediaType": "movie",
+      "title": "The Story of a Small Town",
+      "awardYear": 1979,
+      "winner": "Li Hsing",
+      "releaseDate": "1979",
+      "externalIds": {
+        "imdb": "tt0314907"
+      },
+      "originalTitle": "小城故事"
+    },
+    {
+      "id": "golden-horse-1980-best-feature-tt0314939",
+      "mediaType": "movie",
+      "title": "Good Morning, Taipei",
+      "awardYear": 1980,
+      "winner": "Li Hsing",
+      "releaseDate": "1980",
+      "externalIds": {
+        "imdb": "tt0314939"
+      },
+      "originalTitle": "早安台北"
+    },
+    {
+      "id": "golden-horse-1981-best-feature-tt0289112",
+      "mediaType": "movie",
+      "title": "If I Were for Real",
+      "awardYear": 1981,
+      "winner": "Wang Toon",
+      "releaseDate": "1981",
+      "externalIds": {
+        "imdb": "tt0289112"
+      },
+      "originalTitle": "假如我是真的"
+    },
+    {
+      "id": "golden-horse-1982-best-feature-tt0083346",
+      "mediaType": "movie",
+      "title": "The Battle for the Republic of China",
+      "awardYear": 1982,
+      "winner": "Ting Shan-hsi",
+      "releaseDate": "1982",
+      "externalIds": {
+        "imdb": "tt0083346"
+      },
+      "originalTitle": "辛亥雙十"
+    },
+    {
+      "id": "golden-horse-1983-best-feature-item-20",
+      "mediaType": "movie",
+      "title": "Growing Up",
+      "awardYear": 1983,
+      "winner": "Chen Kun Hou",
+      "releaseDate": "1983",
+      "originalTitle": "小畢的故事",
+      "externalIds": {
+        "imdb": "tt0085695"
+      }
+    },
+    {
+      "id": "golden-horse-1984-best-feature-item-21",
+      "mediaType": "movie",
+      "title": "Old Mao's Second Spring",
+      "awardYear": 1984,
+      "winner": "Li You Ning",
+      "releaseDate": "1984",
+      "originalTitle": "老莫的第二個春天",
+      "externalIds": {
+        "imdb": "tt0183390"
+      }
+    },
+    {
+      "id": "golden-horse-1985-best-feature-item-22",
+      "mediaType": "movie",
+      "title": "Kuei-Mei, a Woman",
+      "awardYear": 1985,
+      "winner": "Zhang Yi",
+      "releaseDate": "1985",
+      "originalTitle": "我這樣過了一生",
+      "externalIds": {
+        "imdb": "tt0092231"
+      }
+    },
+    {
+      "id": "golden-horse-1986-best-feature-tt0091355",
+      "mediaType": "movie",
+      "title": "The Terrorizers",
+      "awardYear": 1986,
+      "winner": "Edward Yang",
+      "releaseDate": "1986",
+      "externalIds": {
+        "imdb": "tt0091355"
+      },
+      "originalTitle": "恐怖分子"
+    },
+    {
+      "id": "golden-horse-1987-best-feature-tt0092829",
+      "mediaType": "movie",
+      "title": "Strawman",
+      "awardYear": 1987,
+      "winner": "Wang Toon",
+      "releaseDate": "1987",
+      "externalIds": {
+        "imdb": "tt0092829"
+      },
+      "originalTitle": "稻草人"
+    },
+    {
+      "id": "golden-horse-1988-best-feature-tt0095937",
+      "mediaType": "movie",
+      "title": "Painted Faces",
+      "awardYear": 1988,
+      "winner": "Alex Law",
+      "releaseDate": "1988",
+      "externalIds": {
+        "imdb": "tt0095937"
+      },
+      "originalTitle": "七小福"
+    },
+    {
+      "id": "golden-horse-1989-best-feature-item-26",
+      "mediaType": "movie",
+      "title": "Full Moon in New York",
+      "awardYear": 1989,
+      "winner": "Mabel Cheung",
+      "releaseDate": "1989",
+      "originalTitle": "三個女人的故事",
+      "externalIds": {
+        "imdb": "tt0098187"
+      }
+    },
+    {
+      "id": "golden-horse-1990-best-feature-tt0099719",
+      "mediaType": "movie",
+      "title": "Red Dust",
+      "awardYear": 1990,
+      "winner": "Yim Ho",
+      "releaseDate": "1990",
+      "externalIds": {
+        "imdb": "tt0099719"
+      },
+      "originalTitle": "滾滾紅塵"
+    },
+    {
+      "id": "golden-horse-1991-best-feature-item-28",
+      "mediaType": "movie",
+      "title": "A Brighter Summer Day",
+      "awardYear": 1991,
+      "winner": "Edward Yang",
+      "releaseDate": "1991",
+      "originalTitle": "牯嶺街少年殺人事件",
+      "externalIds": {
+        "imdb": "tt0101985"
+      }
+    },
+    {
+      "id": "golden-horse-1992-best-feature-item-29",
+      "mediaType": "movie",
+      "title": "Hill of No Return",
+      "awardYear": 1992,
+      "winner": "Wang Toon",
+      "releaseDate": "1992",
+      "originalTitle": "無言的山丘",
+      "externalIds": {
+        "imdb": "tt0108602"
+      }
+    },
+    {
+      "id": "golden-horse-1993-best-feature-item-30",
+      "mediaType": "movie",
+      "title": "The Wedding Banquet",
+      "awardYear": 1993,
+      "winner": "Ang Lee",
+      "releaseDate": "1993",
+      "originalTitle": "囍宴",
+      "externalIds": {
+        "imdb": "tt0107156"
+      }
+    },
+    {
+      "id": "golden-horse-1994-best-feature-item-31",
+      "mediaType": "movie",
+      "title": "Vive L'Amour",
+      "awardYear": 1994,
+      "winner": "Tsai Ming-liang",
+      "releaseDate": "1994",
+      "originalTitle": "愛情萬歲",
+      "externalIds": {
+        "imdb": "tt0109066"
+      }
+    },
+    {
+      "id": "golden-horse-1995-best-feature-item-32",
+      "mediaType": "movie",
+      "title": "Summer Snow",
+      "awardYear": 1995,
+      "winner": "Ann Hui",
+      "releaseDate": "1995",
+      "originalTitle": "女人四十",
+      "externalIds": {
+        "imdb": "tt0111767"
+      }
+    },
+    {
+      "id": "golden-horse-1996-best-feature-item-33",
+      "mediaType": "movie",
+      "title": "In the Heat of the Sun",
+      "awardYear": 1996,
+      "winner": "Jiang Wen",
+      "releaseDate": "1996",
+      "originalTitle": "陽光燦爛的日子",
+      "externalIds": {
+        "imdb": "tt0111786"
+      }
+    },
+    {
+      "id": "golden-horse-1997-best-feature-tt0117905",
+      "mediaType": "movie",
+      "title": "Comrades: Almost a Love Story",
+      "awardYear": 1997,
+      "winner": "Peter Chan",
+      "releaseDate": "1997",
+      "externalIds": {
+        "imdb": "tt0117905"
+      },
+      "originalTitle": "甜蜜蜜"
+    },
+    {
+      "id": "golden-horse-1998-best-feature-tt0115005",
+      "mediaType": "movie",
+      "title": "Xiu Xiu: The Sent Down Girl",
+      "awardYear": 1998,
+      "winner": "Joan Chen",
+      "releaseDate": "1998",
+      "externalIds": {
+        "imdb": "tt0115005"
+      },
+      "originalTitle": "天浴"
+    },
+    {
+      "id": "golden-horse-1999-best-feature-item-36",
+      "mediaType": "movie",
+      "title": "Ordinary Heroes",
+      "awardYear": 1999,
+      "winner": "Ann Hui",
+      "releaseDate": "1999",
+      "originalTitle": "千言萬語",
+      "externalIds": {
+        "imdb": "tt0189954"
+      }
+    },
+    {
+      "id": "golden-horse-2000-best-feature-item-37",
+      "mediaType": "movie",
+      "title": "Crouching Tiger, Hidden Dragon",
+      "awardYear": 2000,
+      "winner": "Ang Lee",
+      "releaseDate": "2000",
+      "originalTitle": "臥虎藏龍",
+      "externalIds": {
+        "imdb": "tt0190332"
+      }
+    },
+    {
+      "id": "golden-horse-2001-best-feature-tt0255327",
+      "mediaType": "movie",
+      "title": "Durian Durian",
+      "awardYear": 2001,
+      "winner": "Fruit Chan",
+      "releaseDate": "2001",
+      "externalIds": {
+        "imdb": "tt0255327"
+      },
+      "originalTitle": "榴槤飄飄"
+    },
+    {
+      "id": "golden-horse-2002-best-feature-tt0333902",
+      "mediaType": "movie",
+      "title": "The Best of Times",
+      "awardYear": 2002,
+      "winner": "Chang Tso-chi",
+      "releaseDate": "2002",
+      "externalIds": {
+        "imdb": "tt0333902"
+      },
+      "originalTitle": "美麗時光"
+    },
+    {
+      "id": "golden-horse-2003-best-feature-item-40",
+      "mediaType": "movie",
+      "title": "Infernal Affairs",
+      "awardYear": 2003,
+      "winner": "Andrew Lau & Alan Mak",
+      "releaseDate": "2003",
+      "originalTitle": "無間道",
+      "externalIds": {
+        "imdb": "tt0338564"
+      }
+    },
+    {
+      "id": "golden-horse-2004-best-feature-item-41",
+      "mediaType": "movie",
+      "title": "Kekexili: Mountain Patrol",
+      "awardYear": 2004,
+      "winner": "Lu Chuan",
+      "releaseDate": "2004",
+      "originalTitle": "可可西里",
+      "externalIds": {
+        "imdb": "tt0386651"
+      }
+    },
+    {
+      "id": "golden-horse-2005-best-feature-item-42",
+      "mediaType": "movie",
+      "title": "Kung Fu Hustle",
+      "awardYear": 2005,
+      "winner": "Stephen Chow",
+      "releaseDate": "2005",
+      "originalTitle": "功夫",
+      "externalIds": {
+        "imdb": "tt0373074"
+      }
+    },
+    {
+      "id": "golden-horse-2006-best-feature-item-43",
+      "mediaType": "movie",
+      "title": "After This Our Exile",
+      "awardYear": 2006,
+      "winner": "Patrick Tam",
+      "releaseDate": "2006",
+      "originalTitle": "父子",
+      "externalIds": {
+        "imdb": "tt0768114"
+      }
+    },
+    {
+      "id": "golden-horse-2007-best-feature-item-44",
+      "mediaType": "movie",
+      "title": "Lust, Caution",
+      "awardYear": 2007,
+      "winner": "Ang Lee",
+      "releaseDate": "2007",
+      "originalTitle": "色，戒",
+      "externalIds": {
+        "imdb": "tt0808357"
+      }
+    },
+    {
+      "id": "golden-horse-2008-best-feature-item-45",
+      "mediaType": "movie",
+      "title": "The Warlords",
+      "awardYear": 2008,
+      "winner": "Peter Chan",
+      "releaseDate": "2008",
+      "originalTitle": "投名狀",
+      "externalIds": {
+        "imdb": "tt0913968"
+      }
+    },
+    {
+      "id": "golden-horse-2009-best-feature-item-46",
+      "mediaType": "movie",
+      "title": "Cannot Live Without You",
+      "awardYear": 2009,
+      "winner": "Dai Li Ren",
+      "releaseDate": "2009",
+      "originalTitle": "不能沒有你",
+      "externalIds": {
+        "imdb": "tt1456584"
+      }
+    },
+    {
+      "id": "golden-horse-2010-best-feature-item-47",
+      "mediaType": "movie",
+      "title": "When Love Comes",
+      "awardYear": 2010,
+      "winner": "Chang Tso-chi",
+      "releaseDate": "2010",
+      "originalTitle": "當愛來的時候",
+      "externalIds": {
+        "imdb": "tt1829658"
+      }
+    },
+    {
+      "id": "golden-horse-2011-best-feature-item-48",
+      "mediaType": "movie",
+      "title": "Warriors of the Rainbow: Seediq Bale",
+      "awardYear": 2011,
+      "winner": "Wei Te-sheng",
+      "releaseDate": "2011",
+      "originalTitle": "賽德克·巴萊",
+      "externalIds": {
+        "imdb": "tt2007993"
+      }
+    },
+    {
+      "id": "golden-horse-2012-best-feature-item-49",
+      "mediaType": "movie",
+      "title": "Beijing Blues",
+      "awardYear": 2012,
+      "winner": "Gao Qun Shu",
+      "releaseDate": "2012",
+      "originalTitle": "神探亨特張",
+      "externalIds": {
+        "imdb": "tt2273470"
+      }
+    },
+    {
+      "id": "golden-horse-2013-best-feature-item-50",
+      "mediaType": "movie",
+      "title": "Ilo Ilo",
+      "awardYear": 2013,
+      "winner": "Anthony Chen",
+      "releaseDate": "2013",
+      "originalTitle": "爸媽不在家",
+      "externalIds": {
+        "imdb": "tt2901736"
+      }
+    },
+    {
+      "id": "golden-horse-2014-best-feature-item-51",
+      "mediaType": "movie",
+      "title": "Blind Massage",
+      "awardYear": 2014,
+      "winner": "Lou Ye",
+      "releaseDate": "2014",
+      "originalTitle": "推拿",
+      "externalIds": {
+        "imdb": "tt3469964"
+      }
+    },
+    {
+      "id": "golden-horse-2015-best-feature-item-52",
+      "mediaType": "movie",
+      "title": "The Assassin",
+      "awardYear": 2015,
+      "winner": "Hou Hsiao-hsien",
+      "releaseDate": "2015",
+      "originalTitle": "刺客聶隱娘",
+      "externalIds": {
+        "imdb": "tt3508840"
+      }
+    },
+    {
+      "id": "golden-horse-2016-best-feature-tt6118258",
+      "mediaType": "movie",
+      "title": "The Summer Is Gone",
+      "awardYear": 2016,
+      "winner": "Zhang Dalei",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt6118258"
+      },
+      "originalTitle": "八月"
+    },
+    {
+      "id": "golden-horse-2017-best-feature-tt7479784",
+      "mediaType": "movie",
+      "title": "The Bold, the Corrupt, and the Beautiful",
+      "awardYear": 2017,
+      "winner": "Yang Ya-che",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7479784"
+      },
+      "originalTitle": "血觀音"
+    },
+    {
+      "id": "golden-horse-2018-best-feature-tt8020896",
+      "mediaType": "movie",
+      "title": "An Elephant Sitting Still",
+      "awardYear": 2018,
+      "winner": "Hu Bo",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8020896"
+      },
+      "originalTitle": "大象席地而坐"
+    },
+    {
+      "id": "golden-horse-2019-best-feature-tt10883506",
+      "mediaType": "movie",
+      "title": "A Sun",
+      "awardYear": 2019,
+      "winner": "Chung Mong-hong",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10883506"
+      },
+      "originalTitle": "陽光普照"
+    },
+    {
+      "id": "golden-horse-2020-best-feature-tt13105824",
+      "mediaType": "movie",
+      "title": "My Missing Valentine",
+      "awardYear": 2020,
+      "winner": "Chen Yu-hsun",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt13105824"
+      },
+      "originalTitle": "消失的情人節"
+    },
+    {
+      "id": "golden-horse-2021-best-feature-tt15119668",
+      "mediaType": "movie",
+      "title": "The Falls",
+      "awardYear": 2021,
+      "winner": "Chung Mong-hong",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt15119668"
+      },
+      "originalTitle": "瀑布"
+    },
+    {
+      "id": "golden-horse-2022-best-feature-tt22335454",
+      "mediaType": "movie",
+      "title": "Coo-Coo 043",
+      "awardYear": 2022,
+      "winner": "Chan Ching-lin",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt22335454"
+      },
+      "originalTitle": "一家子兒咕咕叫"
+    },
+    {
+      "id": "golden-horse-2023-best-feature-tt14071684",
+      "mediaType": "movie",
+      "title": "Stonewalling",
+      "awardYear": 2023,
+      "winner": "Huang Ji & Ryuji Otsuka",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt14071684"
+      },
+      "originalTitle": "石門"
+    },
+    {
+      "id": "golden-horse-2024-best-feature-tt32186579",
+      "mediaType": "movie",
+      "title": "An Unfinished Film",
+      "awardYear": 2024,
+      "winner": "Lou Ye",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt32186579"
+      },
+      "originalTitle": "一部未完成的電影"
+    },
+    {
+      "id": "golden-horse-2025-best-feature-tt32080855",
+      "mediaType": "movie",
+      "title": "A Foggy Tale",
+      "awardYear": 2025,
+      "winner": "Chen Yu-hsun",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt32080855"
+      },
+      "originalTitle": "大濛"
+    }
+  ],
+  "tags": [
+    "award",
+    "taipei",
+    "prize"
+  ]
+}

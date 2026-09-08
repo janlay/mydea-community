@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "골든 글로브 2017",
+  "description": "2017 골든 글로브 영화 작품 부문 수상 목록.",
+  "items": [
+    {
+      "id": "golden-globes-2017-drama-moonlight",
+      "mediaType": "movie",
+      "title": "문라이트",
+      "englishTitle": "Moonlight",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4975722"
+      },
+      "award": "작품상 드라마",
+      "awardYear": 2017,
+      "awardOrder": 1,
+      "winner": "문라이트"
+    },
+    {
+      "id": "golden-globes-2017-comedy-la-la-land",
+      "mediaType": "movie",
+      "title": "라라랜드",
+      "englishTitle": "La La Land",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt3783958"
+      },
+      "award": "작품상 뮤지컬·코미디",
+      "awardYear": 2017,
+      "awardOrder": 2,
+      "winner": "라라랜드"
+    },
+    {
+      "id": "golden-globes-2017-animated-zootopia",
+      "mediaType": "movie",
+      "title": "주토피아",
+      "englishTitle": "Zootopia",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt2948356"
+      },
+      "award": "애니메이션 영화상",
+      "awardYear": 2017,
+      "awardOrder": 3,
+      "winner": "주토피아"
+    },
+    {
+      "id": "golden-globes-2017-foreign-elle",
+      "mediaType": "movie",
+      "title": "엘르",
+      "englishTitle": "Elle",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt3716530"
+      },
+      "award": "비영어권 영화상",
+      "awardYear": 2017,
+      "awardOrder": 4,
+      "winner": "엘르"
+    }
+  ]
+}

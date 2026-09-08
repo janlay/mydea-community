@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "icon": "chart.bar",
+  "title": "历史片榜单",
+  "description": "豆瓣历史片榜单，涵盖 10 个国家和地区。",
+  "tags": [
+    "douban",
+    "chart",
+    "genre",
+    "history"
+  ],
+  "sections": [
+    {
+      "title": "华语历史片",
+      "layout": "carousel",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECV4N7YWY"
+        }
+      ]
+    },
+    {
+      "title": "欧洲历史片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECIAOE4OY"
+        }
+      ]
+    },
+    {
+      "title": "美国历史片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECK4OGBSA"
+        }
+      ]
+    },
+    {
+      "title": "中国香港历史片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECPYOEZNY"
+        }
+      ]
+    },
+    {
+      "title": "日本历史片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "EC54OCODY"
+        }
+      ]
+    },
+    {
+      "title": "韩国历史片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECMAOINLA"
+        }
+      ]
+    },
+    {
+      "title": "英国历史片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECSEOEISY"
+        }
+      ]
+    },
+    {
+      "title": "法国历史片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECUMONVJQ"
+        }
+      ]
+    },
+    {
+      "title": "德国历史片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECNQODGKI"
+        }
+      ]
+    },
+    {
+      "title": "意大利历史片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECL4OLRCY"
+        }
+      ]
+    }
+  ]
+}

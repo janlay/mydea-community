@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "title": "Cannes — Caméra d’or",
+  "author": "Mydea",
+  "updatedAt": "2026-09-16T04:43:24Z",
+  "description": "Historical Caméra d’or awards.",
+  "tags": [
+    "award",
+    "cannes",
+    "prize"
+  ],
+  "icon": "ticket",
+  "sections": [
+    {
+      "title": "Cannes — Caméra d’or",
+      "description": "Cannes Film Festival Caméra d'Or winning films.",
+      "layout": "carousel",
+      "limit": 10,
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "cannes-camera-dor.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "title with Year"
+      ]
+    },
+    {
+      "title": "Cannes — Caméra d’or Special Mention",
+      "description": "Historical Caméra d’or awards. Caméra d’or Special Mention.",
+      "layout": "grid",
+      "limit": 10,
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "cannes-camera-dor-special-mention.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    }
+  ]
+}

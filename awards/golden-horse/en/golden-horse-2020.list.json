@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-22T08:41:11Z",
+  "cacheTtlInDays": 365,
+  "title": "Golden Horse Awards 2020 Core Award Winners",
+  "description": "Core award-winning films and filmmakers from the 2020 Golden Horse Awards.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "golden-horse-2020-best-feature-tt13105824",
+      "mediaType": "movie",
+      "title": "My Missing Valentine",
+      "award": "Best Narrative Feature",
+      "awardYear": 2020,
+      "winner": "Chen Yu-hsun",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt13105824"
+      },
+      "awardOrder": 1,
+      "originalTitle": "消失的情人節"
+    },
+    {
+      "id": "golden-horse-2020-best-director-tt13105824",
+      "mediaType": "movie",
+      "title": "My Missing Valentine",
+      "award": "Best Director",
+      "awardYear": 2020,
+      "winner": "Chen Yu-hsun",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt13105824"
+      },
+      "awardOrder": 2,
+      "originalTitle": "消失的情人節"
+    },
+    {
+      "id": "golden-horse-2020-best-actor-tt12359272",
+      "mediaType": "movie",
+      "title": "Dear Tenant",
+      "award": "Best Leading Actor",
+      "awardYear": 2020,
+      "winner": "Mo Tzu-yi",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt12359272"
+      },
+      "awardOrder": 3,
+      "originalTitle": "親愛的房客"
+    },
+    {
+      "id": "golden-horse-2020-best-actress-tt12397078",
+      "mediaType": "movie",
+      "title": "Little Big Women",
+      "award": "Best Leading Actress",
+      "awardYear": 2020,
+      "winner": "Chen Shu-fang",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt12397078"
+      },
+      "awardOrder": 4,
+      "originalTitle": "孤味"
+    },
+    {
+      "id": "golden-horse-2020-best-supporting-actor-tt12899858",
+      "mediaType": "movie",
+      "title": "Classmates Minus",
+      "award": "Best Supporting Actor",
+      "awardYear": 2020,
+      "winner": "Nadow Lin",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt12899858"
+      },
+      "awardOrder": 5,
+      "originalTitle": "同學麥娜絲"
+    },
+    {
+      "id": "golden-horse-2020-best-supporting-actress-tt12359272",
+      "mediaType": "movie",
+      "title": "Dear Tenant",
+      "award": "Best Supporting Actress",
+      "awardYear": 2020,
+      "winner": "Chen Shu-fang",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt12359272"
+      },
+      "awardOrder": 6,
+      "originalTitle": "親愛的房客"
+    },
+    {
+      "id": "golden-horse-2020-best-new-director-tt13212046",
+      "mediaType": "movie",
+      "title": "The Story of Southern Islet",
+      "award": "Best New Director",
+      "awardYear": 2020,
+      "winner": "Chong Keat Aun",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt13212046"
+      },
+      "awardOrder": 7,
+      "originalTitle": "南巫"
+    },
+    {
+      "id": "golden-horse-2020-best-new-performer-tt12396992",
+      "mediaType": "movie",
+      "title": "The Silent Forest",
+      "award": "Best New Performer",
+      "awardYear": 2020,
+      "winner": "Buffy Chen",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt12396992"
+      },
+      "awardOrder": 8,
+      "originalTitle": "無聲"
+    }
+  ],
+  "tags": [
+    "award",
+    "taipei",
+    "decade"
+  ]
+}

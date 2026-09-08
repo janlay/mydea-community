@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "ゴールデングローブ賞 2025",
+  "description": "2025年のゴールデングローブ賞映画部門の受賞一覧。",
+  "items": [
+    {
+      "id": "golden-globes-2025-drama-the-brutalist",
+      "mediaType": "movie",
+      "title": "ブルータリスト",
+      "englishTitle": "The Brutalist",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt8999762"
+      },
+      "award": "作品賞 ドラマ部門",
+      "awardYear": 2025,
+      "awardOrder": 1,
+      "winner": "ブルータリスト"
+    },
+    {
+      "id": "golden-globes-2025-comedy-emilia-perez",
+      "mediaType": "movie",
+      "title": "エミリア・ペレス",
+      "englishTitle": "Emilia Pérez",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt20221436"
+      },
+      "award": "作品賞 ミュージカル・コメディ部門",
+      "awardYear": 2025,
+      "awardOrder": 2,
+      "winner": "エミリア・ペレス"
+    },
+    {
+      "id": "golden-globes-2025-animated-flow",
+      "mediaType": "movie",
+      "title": "Flow",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt4772188"
+      },
+      "award": "アニメーション映画賞",
+      "awardYear": 2025,
+      "awardOrder": 3,
+      "winner": "Flow"
+    },
+    {
+      "id": "golden-globes-2025-foreign-emilia-perez",
+      "mediaType": "movie",
+      "title": "エミリア・ペレス",
+      "englishTitle": "Emilia Pérez",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt20221436"
+      },
+      "award": "非英語映画賞",
+      "awardYear": 2025,
+      "awardOrder": 4,
+      "winner": "エミリア・ペレス"
+    },
+    {
+      "id": "golden-globes-2025-boxoffice-wicked",
+      "mediaType": "movie",
+      "title": "ウィキッド ふたりの魔女",
+      "englishTitle": "Wicked",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt1262426"
+      },
+      "award": "シネマティック＆ボックスオフィス・アチーブメント賞",
+      "awardYear": 2025,
+      "awardOrder": 5,
+      "winner": "ウィキッド ふたりの魔女"
+    }
+  ]
+}

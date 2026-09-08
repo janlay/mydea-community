@@ -1,0 +1,112 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "updatedAt": "2026-09-16T04:39:02Z",
+  "title": "日舞獎項",
+  "description": "日舞影展四項核心長片評審團大獎的歷屆得獎作品。",
+  "tags": [
+    "award",
+    "park-city",
+    "prize"
+  ],
+  "icon": "ticket",
+  "sections": [
+    {
+      "title": "日舞 — 美國劇情片評審團大獎",
+      "description": "日舞影展「美國劇情片評審團大獎」歷屆得獎作品，收錄自 1985 年起的完整得獎紀錄；並列得獎以獨立項目保留。",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "carousel",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "sundance-us-grand-jury-dramatic.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "日舞 — 美國紀錄片評審團大獎",
+      "description": "日舞影展「美國紀錄片評審團大獎」歷屆得獎作品，收錄自 1985 年起的完整得獎紀錄；並列得獎以獨立項目保留。",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "sundance-us-grand-jury-documentary.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "日舞 — 世界電影劇情片評審團大獎",
+      "description": "日舞影展「世界電影劇情片評審團大獎」歷屆得獎作品，收錄自 2005 年起的完整得獎紀錄；並列得獎以獨立項目保留。",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "sundance-world-cinema-grand-jury-dramatic.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "日舞 — 世界電影紀錄片評審團大獎",
+      "description": "日舞影展「世界電影紀錄片評審團大獎」歷屆得獎作品，收錄自 2005 年起的完整得獎紀錄；並列得獎以獨立項目保留。",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "sundance-world-cinema-grand-jury-documentary.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    }
+  ]
+}

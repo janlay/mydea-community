@@ -1,0 +1,286 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "updatedAt": "2026-09-16T04:39:02Z",
+  "title": "Sundance Decade",
+  "description": "Winners of the four core feature Grand Jury Prizes from the ten most recent Sundance Film Festival editions.",
+  "tags": [
+    "award",
+    "park-city",
+    "decade"
+  ],
+  "icon": "ticket",
+  "sections": [
+    {
+      "title": "Sundance — 2026",
+      "description": "Winners of the four core feature Grand Jury Prizes at the 2026 Sundance Film Festival.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ],
+        [
+          "awardOrder",
+          "asc"
+        ]
+      ],
+      "layout": "carousel",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "sundance-2026.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ]
+    },
+    {
+      "title": "Sundance — 2025",
+      "description": "Winners of the four core feature Grand Jury Prizes at the 2025 Sundance Film Festival.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ],
+        [
+          "awardOrder",
+          "asc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "sundance-2025.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ]
+    },
+    {
+      "title": "Sundance — 2024",
+      "description": "Winners of the four core feature Grand Jury Prizes at the 2024 Sundance Film Festival.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ],
+        [
+          "awardOrder",
+          "asc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "sundance-2024.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ]
+    },
+    {
+      "title": "Sundance — 2023",
+      "description": "Winners of the four core feature Grand Jury Prizes at the 2023 Sundance Film Festival.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ],
+        [
+          "awardOrder",
+          "asc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "sundance-2023.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ]
+    },
+    {
+      "title": "Sundance — 2022",
+      "description": "Winners of the four core feature Grand Jury Prizes at the 2022 Sundance Film Festival.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ],
+        [
+          "awardOrder",
+          "asc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "sundance-2022.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ]
+    },
+    {
+      "title": "Sundance — 2021",
+      "description": "Winners of the four core feature Grand Jury Prizes at the 2021 Sundance Film Festival.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ],
+        [
+          "awardOrder",
+          "asc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "sundance-2021.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ]
+    },
+    {
+      "title": "Sundance — 2020",
+      "description": "Winners of the four core feature Grand Jury Prizes at the 2020 Sundance Film Festival.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ],
+        [
+          "awardOrder",
+          "asc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "sundance-2020.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ]
+    },
+    {
+      "title": "Sundance — 2019",
+      "description": "Winners of the four core feature Grand Jury Prizes at the 2019 Sundance Film Festival.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ],
+        [
+          "awardOrder",
+          "asc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "sundance-2019.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ]
+    },
+    {
+      "title": "Sundance — 2018",
+      "description": "Winners of the four core feature Grand Jury Prizes at the 2018 Sundance Film Festival.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ],
+        [
+          "awardOrder",
+          "asc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "sundance-2018.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ]
+    },
+    {
+      "title": "Sundance — 2017",
+      "description": "Winners of the four core feature Grand Jury Prizes at the 2017 Sundance Film Festival.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ],
+        [
+          "awardOrder",
+          "asc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "sundance-2017.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ]
+    }
+  ]
+}

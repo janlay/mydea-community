@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "Golden Globes 2023",
+  "description": "Film category winners at the 2023 Golden Globes.",
+  "items": [
+    {
+      "id": "golden-globes-2023-drama-the-fabelmans",
+      "mediaType": "movie",
+      "title": "The Fabelmans",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt14208870"
+      },
+      "award": "Best Motion Picture – Drama",
+      "awardYear": 2023,
+      "awardOrder": 1,
+      "winner": "The Fabelmans"
+    },
+    {
+      "id": "golden-globes-2023-comedy-the-banshees-of-inisherin",
+      "mediaType": "movie",
+      "title": "The Banshees of Inisherin",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt11813216"
+      },
+      "award": "Best Motion Picture – Musical or Comedy",
+      "awardYear": 2023,
+      "awardOrder": 2,
+      "winner": "The Banshees of Inisherin"
+    },
+    {
+      "id": "golden-globes-2023-animated-guillermo-del-toro-s-pinocchio",
+      "mediaType": "movie",
+      "title": "Guillermo del Toro's Pinocchio",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt1488589"
+      },
+      "award": "Best Motion Picture – Animated",
+      "awardYear": 2023,
+      "awardOrder": 3,
+      "winner": "Guillermo del Toro's Pinocchio"
+    },
+    {
+      "id": "golden-globes-2023-foreign-argentina-1985",
+      "mediaType": "movie",
+      "title": "Argentina, 1985",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt15301048"
+      },
+      "award": "Best Motion Picture – Non-English Language",
+      "awardYear": 2023,
+      "awardOrder": 4,
+      "winner": "Argentina, 1985"
+    }
+  ]
+}

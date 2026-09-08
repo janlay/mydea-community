@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "金球奖 2026",
+  "description": "2026 金球奖电影类获奖名单。",
+  "items": [
+    {
+      "id": "golden-globes-2026-drama-hamnet",
+      "mediaType": "movie",
+      "title": "哈姆奈特",
+      "englishTitle": "Hamnet",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt14905854"
+      },
+      "award": "最佳剧情片",
+      "awardYear": 2026,
+      "awardOrder": 1,
+      "winner": "哈姆奈特"
+    },
+    {
+      "id": "golden-globes-2026-comedy-one-battle-after-another",
+      "mediaType": "movie",
+      "title": "一战再战",
+      "englishTitle": "One Battle After Another",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt30144839"
+      },
+      "award": "最佳音乐或喜剧片",
+      "awardYear": 2026,
+      "awardOrder": 2,
+      "winner": "一战再战"
+    },
+    {
+      "id": "golden-globes-2026-animated-kpop-demon-hunters",
+      "mediaType": "movie",
+      "title": "K-Pop 猎魔女团",
+      "englishTitle": "KPop Demon Hunters",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt14205554"
+      },
+      "award": "最佳动画片",
+      "awardYear": 2026,
+      "awardOrder": 3,
+      "winner": "KPop 猎魔女团"
+    },
+    {
+      "id": "golden-globes-2026-foreign-the-secret-agent",
+      "mediaType": "movie",
+      "title": "秘密特工",
+      "englishTitle": "The Secret Agent",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt27847051"
+      },
+      "award": "最佳非英语片",
+      "awardYear": 2026,
+      "awardOrder": 4,
+      "winner": "秘密特工"
+    },
+    {
+      "id": "golden-globes-2026-boxoffice-sinners",
+      "mediaType": "movie",
+      "title": "罪人",
+      "englishTitle": "Sinners",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31193180"
+      },
+      "award": "电影和票房成就奖",
+      "awardYear": 2026,
+      "awardOrder": 5,
+      "winner": "罪人"
+    }
+  ]
+}

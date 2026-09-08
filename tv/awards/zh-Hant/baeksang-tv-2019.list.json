@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T02:53:58Z",
+  "title": "百想藝術大賞 — 2019",
+  "description": "2019 年百想藝術大賞電視主要獎項獲獎記錄。",
+  "items": [
+    {
+      "id": "baeksang-2019-tv-grand-light-eyes",
+      "mediaType": "tv",
+      "title": "耀眼",
+      "originalTitle": "눈이 부시게",
+      "award": "電視大獎",
+      "awardYear": 2019,
+      "awardOrder": 1,
+      "winner": "Kim Hye-ja",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt9466968"
+      }
+    },
+    {
+      "id": "baeksang-2019-tv-best-my-mister",
+      "mediaType": "tv",
+      "title": "我的叔叔",
+      "originalTitle": "나의 아저씨",
+      "award": "最佳電視劇",
+      "awardYear": 2019,
+      "awardOrder": 2,
+      "winner": "我的叔叔",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7923710"
+      }
+    },
+    {
+      "id": "baeksang-2019-tv-director-sky-castle",
+      "mediaType": "tv",
+      "title": "天空之城",
+      "originalTitle": "SKY 캐슬",
+      "award": "電視最佳導演",
+      "awardYear": 2019,
+      "awardOrder": 3,
+      "winner": "Jo Hyun-tak",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt9151274"
+      }
+    },
+    {
+      "id": "baeksang-2019-tv-actor-mr-sunshine",
+      "mediaType": "tv",
+      "title": "陽光先生",
+      "originalTitle": "미스터 션샤인",
+      "award": "電視最佳男主角",
+      "awardYear": 2019,
+      "awardOrder": 4,
+      "winner": "Lee Byung-hun",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7094780"
+      }
+    },
+    {
+      "id": "baeksang-2019-tv-actress-sky-castle",
+      "mediaType": "tv",
+      "title": "天空之城",
+      "originalTitle": "SKY 캐슬",
+      "award": "電視最佳女主角",
+      "awardYear": 2019,
+      "awardOrder": 5,
+      "winner": "Yum Jung-ah",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt9151274"
+      }
+    }
+  ]
+}

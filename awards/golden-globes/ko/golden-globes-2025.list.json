@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "골든 글로브 2025",
+  "description": "2025 골든 글로브 영화 작품 부문 수상 목록.",
+  "items": [
+    {
+      "id": "golden-globes-2025-drama-the-brutalist",
+      "mediaType": "movie",
+      "title": "브루탈리스트",
+      "englishTitle": "The Brutalist",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt8999762"
+      },
+      "award": "작품상 드라마",
+      "awardYear": 2025,
+      "awardOrder": 1,
+      "winner": "브루탈리스트"
+    },
+    {
+      "id": "golden-globes-2025-comedy-emilia-perez",
+      "mediaType": "movie",
+      "title": "에밀리아 페레즈",
+      "englishTitle": "Emilia Pérez",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt20221436"
+      },
+      "award": "작품상 뮤지컬·코미디",
+      "awardYear": 2025,
+      "awardOrder": 2,
+      "winner": "에밀리아 페레즈"
+    },
+    {
+      "id": "golden-globes-2025-animated-flow",
+      "mediaType": "movie",
+      "title": "플로우",
+      "englishTitle": "Flow",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt4772188"
+      },
+      "award": "애니메이션 영화상",
+      "awardYear": 2025,
+      "awardOrder": 3,
+      "winner": "플로우"
+    },
+    {
+      "id": "golden-globes-2025-foreign-emilia-perez",
+      "mediaType": "movie",
+      "title": "에밀리아 페레즈",
+      "englishTitle": "Emilia Pérez",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt20221436"
+      },
+      "award": "비영어권 영화상",
+      "awardYear": 2025,
+      "awardOrder": 4,
+      "winner": "에밀리아 페레즈"
+    },
+    {
+      "id": "golden-globes-2025-boxoffice-wicked",
+      "mediaType": "movie",
+      "title": "위키드",
+      "englishTitle": "Wicked",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt1262426"
+      },
+      "award": "시네마틱 및 박스오피스 성취상",
+      "awardYear": 2025,
+      "awardOrder": 5,
+      "winner": "위키드"
+    }
+  ]
+}

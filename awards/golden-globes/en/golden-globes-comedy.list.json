@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "Golden Globes — Best Motion Picture – Musical or Comedy",
+  "description": "Winners of the Golden Globe Best Motion Picture – Musical or Comedy category from 2017 through 2026.",
+  "items": [
+    {
+      "id": "golden-globes-comedy-2017-la-la-land",
+      "mediaType": "movie",
+      "title": "La La Land",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt3783958"
+      },
+      "awardYear": 2017,
+      "winner": "La La Land"
+    },
+    {
+      "id": "golden-globes-comedy-2018-lady-bird",
+      "mediaType": "movie",
+      "title": "Lady Bird",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt4925292"
+      },
+      "awardYear": 2018,
+      "winner": "Lady Bird"
+    },
+    {
+      "id": "golden-globes-comedy-2019-green-book",
+      "mediaType": "movie",
+      "title": "Green Book",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt6966692"
+      },
+      "awardYear": 2019,
+      "winner": "Green Book"
+    },
+    {
+      "id": "golden-globes-comedy-2020-once-upon-a-time-in-hollywood",
+      "mediaType": "movie",
+      "title": "Once Upon a Time... in Hollywood",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt7131622"
+      },
+      "awardYear": 2020,
+      "winner": "Once Upon a Time... in Hollywood"
+    },
+    {
+      "id": "golden-globes-comedy-2021-borat-subsequent-moviefilm",
+      "mediaType": "movie",
+      "title": "Borat Subsequent Moviefilm",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt13143964"
+      },
+      "awardYear": 2021,
+      "winner": "Borat Subsequent Moviefilm"
+    },
+    {
+      "id": "golden-globes-comedy-2022-west-side-story",
+      "mediaType": "movie",
+      "title": "West Side Story",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt3581652"
+      },
+      "awardYear": 2022,
+      "winner": "West Side Story"
+    },
+    {
+      "id": "golden-globes-comedy-2023-the-banshees-of-inisherin",
+      "mediaType": "movie",
+      "title": "The Banshees of Inisherin",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt11813216"
+      },
+      "awardYear": 2023,
+      "winner": "The Banshees of Inisherin"
+    },
+    {
+      "id": "golden-globes-comedy-2024-poor-things",
+      "mediaType": "movie",
+      "title": "Poor Things",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt14230458"
+      },
+      "awardYear": 2024,
+      "winner": "Poor Things"
+    },
+    {
+      "id": "golden-globes-comedy-2025-emilia-perez",
+      "mediaType": "movie",
+      "title": "Emilia Pérez",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt20221436"
+      },
+      "awardYear": 2025,
+      "winner": "Emilia Pérez"
+    },
+    {
+      "id": "golden-globes-comedy-2026-one-battle-after-another",
+      "mediaType": "movie",
+      "title": "One Battle After Another",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt30144839"
+      },
+      "awardYear": 2026,
+      "winner": "One Battle After Another"
+    }
+  ]
+}

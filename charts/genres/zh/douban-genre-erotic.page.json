@@ -1,0 +1,112 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "icon": "chart.bar",
+  "title": "情色片榜单",
+  "description": "豆瓣情色片榜单，涵盖 8 个国家和地区。",
+  "tags": [
+    "douban",
+    "chart",
+    "genre",
+    "erotic"
+  ],
+  "sections": [
+    {
+      "title": "华语情色片",
+      "layout": "carousel",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECKQOVFTY"
+        }
+      ]
+    },
+    {
+      "title": "欧洲情色片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECVUONKTI"
+        }
+      ]
+    },
+    {
+      "title": "美国情色片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECTQOQ6XQ"
+        }
+      ]
+    },
+    {
+      "title": "日本情色片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECLUOK4TA"
+        }
+      ]
+    },
+    {
+      "title": "韩国情色片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECDMOZMVI"
+        }
+      ]
+    },
+    {
+      "title": "英国情色片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECA4OSUNA"
+        }
+      ]
+    },
+    {
+      "title": "法国情色片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECDAOW2PY"
+        }
+      ]
+    },
+    {
+      "title": "意大利情色片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECM4OVMRY"
+        }
+      ]
+    }
+  ]
+}

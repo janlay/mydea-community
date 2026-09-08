@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "Golden Globes 2019",
+  "description": "Television category winners at the 2019 Golden Globes.",
+  "items": [
+    {
+      "id": "golden-globes-2019-tv_drama-bodyguard",
+      "mediaType": "tv",
+      "title": "Bodyguard",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7493974"
+      },
+      "award": "Best Television Series – Drama",
+      "awardYear": 2019,
+      "awardOrder": 1,
+      "winner": "Bodyguard"
+    },
+    {
+      "id": "golden-globes-2019-tv_comedy-the-kominsky-method",
+      "mediaType": "tv",
+      "title": "The Kominsky Method",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7255502"
+      },
+      "award": "Best Television Series – Musical or Comedy",
+      "awardYear": 2019,
+      "awardOrder": 2,
+      "winner": "The Kominsky Method"
+    },
+    {
+      "id": "golden-globes-2019-limited-the-assassination-of-gianni-versace-american-crime-story",
+      "mediaType": "tv",
+      "title": "American Crime Story",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt2788432"
+      },
+      "award": "Best Television Limited Series, Anthology Series or Motion Picture Made for Television",
+      "awardYear": 2019,
+      "awardOrder": 3,
+      "winner": "The Assassination of Gianni Versace: American Crime Story"
+    }
+  ]
+}

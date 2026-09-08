@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T05:03:58Z",
+  "title": "Oscars 2025 Winners",
+  "description": "Winners in core film categories at the 97th Academy Awards.",
+  "items": [
+    {
+      "id": "oscars-2025-best-picture-anora",
+      "mediaType": "movie",
+      "title": "Anora",
+      "award": "Best Picture",
+      "awardYear": 2025,
+      "awardOrder": 1,
+      "winner": "Alex Coco, Samantha Quan & Sean Baker",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt28607951"
+      }
+    },
+    {
+      "id": "oscars-2025-best-director-anora",
+      "mediaType": "movie",
+      "title": "Anora",
+      "award": "Best Director",
+      "awardYear": 2025,
+      "awardOrder": 2,
+      "winner": "Sean Baker",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt28607951"
+      }
+    },
+    {
+      "id": "oscars-2025-best-actor-the-brutalist",
+      "mediaType": "movie",
+      "title": "The Brutalist",
+      "award": "Best Actor",
+      "awardYear": 2025,
+      "awardOrder": 3,
+      "winner": "Adrien Brody",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt8999762"
+      }
+    },
+    {
+      "id": "oscars-2025-best-actress-anora",
+      "mediaType": "movie",
+      "title": "Anora",
+      "award": "Best Actress",
+      "awardYear": 2025,
+      "awardOrder": 4,
+      "winner": "Mikey Madison",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt28607951"
+      }
+    },
+    {
+      "id": "oscars-2025-best-supporting-actor-a-real-pain",
+      "mediaType": "movie",
+      "title": "A Real Pain",
+      "award": "Best Supporting Actor",
+      "awardYear": 2025,
+      "awardOrder": 5,
+      "winner": "Kieran Culkin",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt21823606"
+      }
+    },
+    {
+      "id": "oscars-2025-best-supporting-actress-emilia-p-rez",
+      "mediaType": "movie",
+      "title": "Emilia Pérez",
+      "award": "Best Supporting Actress",
+      "awardYear": 2025,
+      "awardOrder": 6,
+      "winner": "Zoe Saldaña",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt20221436"
+      }
+    },
+    {
+      "id": "oscars-2025-best-original-screenplay-anora",
+      "mediaType": "movie",
+      "title": "Anora",
+      "award": "Best Original Screenplay",
+      "awardYear": 2025,
+      "awardOrder": 7,
+      "winner": "Sean Baker",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt28607951"
+      }
+    },
+    {
+      "id": "oscars-2025-best-adapted-screenplay-conclave",
+      "mediaType": "movie",
+      "title": "Conclave",
+      "award": "Best Adapted Screenplay",
+      "awardYear": 2025,
+      "awardOrder": 8,
+      "winner": "Peter Straughan",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt20215234"
+      }
+    },
+    {
+      "id": "oscars-2025-best-animated-feature-flow",
+      "mediaType": "movie",
+      "title": "Flow",
+      "award": "Best Animated Feature",
+      "awardYear": 2025,
+      "awardOrder": 9,
+      "winner": "Gints Zilbalodis, Matīss Kaža, Ron Dyens & Gregory Zalcman",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt4772188"
+      }
+    },
+    {
+      "id": "oscars-2025-best-international-feature-i-m-still-here",
+      "mediaType": "movie",
+      "title": "I'm Still Here",
+      "award": "Best International Feature Film",
+      "awardYear": 2025,
+      "awardOrder": 10,
+      "winner": "Brazil",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt14961016"
+      }
+    }
+  ]
+}

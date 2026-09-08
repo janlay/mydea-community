@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "골든 글로브 2025",
+  "description": "2025 골든 글로브 텔레비전 작품 부문 수상 목록.",
+  "items": [
+    {
+      "id": "golden-globes-2025-tv_drama-shogun",
+      "mediaType": "tv",
+      "title": "쇼군",
+      "englishTitle": "Shōgun",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt2788316"
+      },
+      "award": "TV 드라마 작품상",
+      "awardYear": 2025,
+      "awardOrder": 1,
+      "winner": "쇼군"
+    },
+    {
+      "id": "golden-globes-2025-tv_comedy-hacks",
+      "mediaType": "tv",
+      "title": "나의 직장상사는 코미디언",
+      "englishTitle": "Hacks",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt11815682"
+      },
+      "award": "TV 뮤지컬·코미디 작품상",
+      "awardYear": 2025,
+      "awardOrder": 2,
+      "winner": "핵스"
+    },
+    {
+      "id": "golden-globes-2025-limited-baby-reindeer",
+      "mediaType": "tv",
+      "title": "베이비 레인디어",
+      "englishTitle": "Baby Reindeer",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt13649112"
+      },
+      "award": "리미티드 시리즈·앤솔러지·TV 영화상",
+      "awardYear": 2025,
+      "awardOrder": 3,
+      "winner": "베이비 레인디어"
+    }
+  ]
+}

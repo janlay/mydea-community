@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "icon": "flame",
+  "title": "グローバル人気",
+  "description": "TMDB・Trakt・Letterboxd・Rotten Tomatoes・MDBList、5大プラットフォームそれぞれの短期流行チャートを1ページに集約。",
+  "tags": [
+    "chart",
+    "popular",
+    "global"
+  ],
+  "sections": [
+    {
+      "title": "TMDB · 今のトレンド",
+      "description": "TMDB の世界的リアルタイム人気チャート。映画とドラマが混在。",
+      "layout": "carousel",
+      "service": "tmdb",
+      "query": "tmdb_trending",
+      "params": [
+        {
+          "name": "media_type",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "title": "Trakt · トレンド映画",
+      "description": "Trakt コミュニティが今まさに最も視聴している映画。",
+      "layout": "grid",
+      "service": "trakt",
+      "query": "trakt_trending",
+      "params": [
+        {
+          "name": "media_type",
+          "value": "movies"
+        }
+      ]
+    },
+    {
+      "title": "Letterboxd · 今週の人気作",
+      "description": "今週 Letterboxd コミュニティが最も記録・評価した映画。",
+      "layout": "grid",
+      "service": "letterboxd",
+      "query": "letterboxd_custom_list",
+      "params": [
+        {
+          "name": "list_shortcut",
+          "value": "this/week"
+        },
+        {
+          "name": "list_url",
+          "value": "this/week"
+        }
+      ]
+    },
+    {
+      "title": "Rotten Tomatoes · フレッシュ認定 · 自宅で観る",
+      "description": "批評家の「フレッシュ認定」を受け、現在自宅で視聴できる映画を人気順に。",
+      "layout": "grid",
+      "service": "rottentomatoes",
+      "query": "rotten_tomatoes_custom_list",
+      "params": [
+        {
+          "name": "list_shortcut",
+          "value": "https://www.rottentomatoes.com/browse/movies_at_home/critics:certified_fresh~sort:popular"
+        },
+        {
+          "name": "list_url",
+          "value": "https://www.rottentomatoes.com/browse/movies_at_home/critics:certified_fresh~sort:popular"
+        }
+      ]
+    },
+    {
+      "title": "MDBList · 人気ランキング",
+      "description": "MDBList 公式「人気」チャート。複数のソースを集約。サービス設定で MDBList API キーの設定が必要です。",
+      "layout": "grid",
+      "service": "mdblist",
+      "query": "mdblist_official",
+      "params": [
+        {
+          "name": "official_shortcut",
+          "value": "popular"
+        },
+        {
+          "name": "official_slug",
+          "value": "popular"
+        },
+        {
+          "name": "official_mediatype",
+          "value": "movies"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "金球奖 2025",
+  "description": "2025 金球奖电视作品类获奖名单。",
+  "items": [
+    {
+      "id": "golden-globes-2025-tv_drama-shogun",
+      "mediaType": "tv",
+      "title": "幕府将军",
+      "englishTitle": "Shōgun",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt2788316"
+      },
+      "award": "最佳剧情类剧集",
+      "awardYear": 2025,
+      "awardOrder": 1,
+      "winner": "幕府将军"
+    },
+    {
+      "id": "golden-globes-2025-tv_comedy-hacks",
+      "mediaType": "tv",
+      "title": "绝望写手",
+      "englishTitle": "Hacks",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt11815682"
+      },
+      "award": "最佳音乐或喜剧类剧集",
+      "awardYear": 2025,
+      "awardOrder": 2,
+      "winner": "绝望写手"
+    },
+    {
+      "id": "golden-globes-2025-limited-baby-reindeer",
+      "mediaType": "tv",
+      "title": "驯鹿宝贝",
+      "englishTitle": "Baby Reindeer",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt13649112"
+      },
+      "award": "最佳限定剧、选集剧或电视电影",
+      "awardYear": 2025,
+      "awardOrder": 3,
+      "winner": "驯鹿宝贝"
+    }
+  ]
+}

@@ -1,0 +1,544 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "icon": "calendar",
+  "title": "豆瓣 2025 年度榜单",
+  "description": "豆瓣 2025 年度榜单全部分类的收藏片单，共 23 个分类。",
+  "tags": [
+    "douban",
+    "chart",
+    "annual"
+  ],
+  "sections": [
+    {
+      "title": "评分最高华语电影",
+      "description": "豆瓣 2025 年度榜单「评分最高华语电影」的收藏片单。",
+      "layout": "carousel",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "annual",
+      "params": [
+        {
+          "name": "annual_year",
+          "value": "2025"
+        },
+        {
+          "name": "annual_category",
+          "value": "评分最高华语电影"
+        }
+      ]
+    },
+    {
+      "title": "评分最高外语电影",
+      "description": "豆瓣 2025 年度榜单「评分最高外语电影」的收藏片单。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "annual",
+      "params": [
+        {
+          "name": "annual_year",
+          "value": "2025"
+        },
+        {
+          "name": "annual_category",
+          "value": "评分最高外语电影"
+        }
+      ]
+    },
+    {
+      "title": "冷门佳片",
+      "description": "豆瓣 2025 年度榜单「冷门佳片」的收藏片单。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "annual",
+      "params": [
+        {
+          "name": "annual_year",
+          "value": "2025"
+        },
+        {
+          "name": "annual_category",
+          "value": "冷门佳片"
+        }
+      ]
+    },
+    {
+      "title": "评分最高喜剧片",
+      "description": "豆瓣 2025 年度榜单「评分最高喜剧片」的收藏片单。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "annual",
+      "params": [
+        {
+          "name": "annual_year",
+          "value": "2025"
+        },
+        {
+          "name": "annual_category",
+          "value": "评分最高喜剧片"
+        }
+      ]
+    },
+    {
+      "title": "评分最高爱情片",
+      "description": "豆瓣 2025 年度榜单「评分最高爱情片」的收藏片单。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "annual",
+      "params": [
+        {
+          "name": "annual_year",
+          "value": "2025"
+        },
+        {
+          "name": "annual_category",
+          "value": "评分最高爱情片"
+        }
+      ]
+    },
+    {
+      "title": "评分最高恐怖片",
+      "description": "豆瓣 2025 年度榜单「评分最高恐怖片」的收藏片单。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "annual",
+      "params": [
+        {
+          "name": "annual_year",
+          "value": "2025"
+        },
+        {
+          "name": "annual_category",
+          "value": "评分最高恐怖片"
+        }
+      ]
+    },
+    {
+      "title": "评分最高动画片",
+      "description": "豆瓣 2025 年度榜单「评分最高动画片」的收藏片单。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "annual",
+      "params": [
+        {
+          "name": "annual_year",
+          "value": "2025"
+        },
+        {
+          "name": "annual_category",
+          "value": "评分最高动画片"
+        }
+      ]
+    },
+    {
+      "title": "评分最高纪录片",
+      "description": "豆瓣 2025 年度榜单「评分最高纪录片」的收藏片单。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "annual",
+      "params": [
+        {
+          "name": "annual_year",
+          "value": "2025"
+        },
+        {
+          "name": "annual_category",
+          "value": "评分最高纪录片"
+        }
+      ]
+    },
+    {
+      "title": "上映10周年电影",
+      "description": "豆瓣 2025 年度榜单「上映10周年电影」的收藏片单。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "annual",
+      "params": [
+        {
+          "name": "annual_year",
+          "value": "2025"
+        },
+        {
+          "name": "annual_category",
+          "value": "上映10周年电影"
+        }
+      ]
+    },
+    {
+      "title": "上映20周年电影",
+      "description": "豆瓣 2025 年度榜单「上映20周年电影」的收藏片单。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "annual",
+      "params": [
+        {
+          "name": "annual_year",
+          "value": "2025"
+        },
+        {
+          "name": "annual_category",
+          "value": "上映20周年电影"
+        }
+      ]
+    },
+    {
+      "title": "上映30周年电影",
+      "description": "豆瓣 2025 年度榜单「上映30周年电影」的收藏片单。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "annual",
+      "params": [
+        {
+          "name": "annual_year",
+          "value": "2025"
+        },
+        {
+          "name": "annual_category",
+          "value": "上映30周年电影"
+        }
+      ]
+    },
+    {
+      "title": "上映40周年电影",
+      "description": "豆瓣 2025 年度榜单「上映40周年电影」的收藏片单。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "annual",
+      "params": [
+        {
+          "name": "annual_year",
+          "value": "2025"
+        },
+        {
+          "name": "annual_category",
+          "value": "上映40周年电影"
+        }
+      ]
+    },
+    {
+      "title": "上映50周年电影",
+      "description": "豆瓣 2025 年度榜单「上映50周年电影」的收藏片单。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "annual",
+      "params": [
+        {
+          "name": "annual_year",
+          "value": "2025"
+        },
+        {
+          "name": "annual_category",
+          "value": "上映50周年电影"
+        }
+      ]
+    },
+    {
+      "title": "最值得期待华语电影",
+      "description": "豆瓣 2025 年度榜单「最值得期待华语电影」的收藏片单。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "annual",
+      "params": [
+        {
+          "name": "annual_year",
+          "value": "2025"
+        },
+        {
+          "name": "annual_category",
+          "value": "最值得期待华语电影"
+        }
+      ]
+    },
+    {
+      "title": "最值得期待外语电影",
+      "description": "豆瓣 2025 年度榜单「最值得期待外语电影」的收藏片单。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "annual",
+      "params": [
+        {
+          "name": "annual_year",
+          "value": "2025"
+        },
+        {
+          "name": "annual_category",
+          "value": "最值得期待外语电影"
+        }
+      ]
+    },
+    {
+      "title": "评分最高华语剧集",
+      "description": "豆瓣 2025 年度榜单「评分最高华语剧集」的收藏片单。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "annual",
+      "params": [
+        {
+          "name": "annual_year",
+          "value": "2025"
+        },
+        {
+          "name": "annual_category",
+          "value": "评分最高华语剧集"
+        }
+      ]
+    },
+    {
+      "title": "评分最高大陆微短剧",
+      "description": "豆瓣 2025 年度榜单「评分最高大陆微短剧」的收藏片单。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "annual",
+      "params": [
+        {
+          "name": "annual_year",
+          "value": "2025"
+        },
+        {
+          "name": "annual_category",
+          "value": "评分最高大陆微短剧"
+        }
+      ]
+    },
+    {
+      "title": "评分最高英美新剧",
+      "description": "豆瓣 2025 年度榜单「评分最高英美新剧」的收藏片单。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "annual",
+      "params": [
+        {
+          "name": "annual_year",
+          "value": "2025"
+        },
+        {
+          "name": "annual_category",
+          "value": "评分最高英美新剧"
+        }
+      ]
+    },
+    {
+      "title": "评分最高英美续订剧",
+      "description": "豆瓣 2025 年度榜单「评分最高英美续订剧」的收藏片单。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "annual",
+      "params": [
+        {
+          "name": "annual_year",
+          "value": "2025"
+        },
+        {
+          "name": "annual_category",
+          "value": "评分最高英美续订剧"
+        }
+      ]
+    },
+    {
+      "title": "评分最高动画剧集",
+      "description": "豆瓣 2025 年度榜单「评分最高动画剧集」的收藏片单。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "annual",
+      "params": [
+        {
+          "name": "annual_year",
+          "value": "2025"
+        },
+        {
+          "name": "annual_category",
+          "value": "评分最高动画剧集"
+        }
+      ]
+    },
+    {
+      "title": "评分最高纪录剧集",
+      "description": "豆瓣 2025 年度榜单「评分最高纪录剧集」的收藏片单。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "annual",
+      "params": [
+        {
+          "name": "annual_year",
+          "value": "2025"
+        },
+        {
+          "name": "annual_category",
+          "value": "评分最高纪录剧集"
+        }
+      ]
+    },
+    {
+      "title": "最值得期待剧集",
+      "description": "豆瓣 2025 年度榜单「最值得期待剧集」的收藏片单。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "annual",
+      "params": [
+        {
+          "name": "annual_year",
+          "value": "2025"
+        },
+        {
+          "name": "annual_category",
+          "value": "最值得期待剧集"
+        }
+      ]
+    },
+    {
+      "title": "最受关注综艺",
+      "description": "豆瓣 2025 年度榜单「最受关注综艺」的收藏片单。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "annual",
+      "params": [
+        {
+          "name": "annual_year",
+          "value": "2025"
+        },
+        {
+          "name": "annual_category",
+          "value": "最受关注综艺"
+        }
+      ]
+    }
+  ]
+}

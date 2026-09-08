@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T00:00:00Z",
+  "title": "青龍映画賞 — 2023",
+  "description": "2023年青龍映画賞、主要10部門の受賞記録。",
+  "items": [
+    {
+      "id": "blue-dragon-2023-best-film-smugglers",
+      "mediaType": "movie",
+      "title": "密輸 1970",
+      "originalTitle": "밀수",
+      "award": "最優秀作品賞",
+      "awardYear": 2023,
+      "awardOrder": 1,
+      "winner": "リュ・スンワン",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt28106766"
+      }
+    },
+    {
+      "id": "blue-dragon-2023-best-director-concrete-utopia",
+      "mediaType": "movie",
+      "title": "コンクリート・ユートピア",
+      "originalTitle": "콘크리트 유토피아",
+      "award": "監督賞",
+      "awardYear": 2023,
+      "awardOrder": 2,
+      "winner": "オム・テファ",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt13086266"
+      }
+    },
+    {
+      "id": "blue-dragon-2023-best-actor-concrete-utopia",
+      "mediaType": "movie",
+      "title": "コンクリート・ユートピア",
+      "originalTitle": "콘크리트 유토피아",
+      "award": "主演男優賞",
+      "awardYear": 2023,
+      "awardOrder": 3,
+      "winner": "イ・ビョンホン",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt13086266"
+      }
+    },
+    {
+      "id": "blue-dragon-2023-best-actress-sleep",
+      "mediaType": "movie",
+      "title": "スリープ",
+      "originalTitle": "잠",
+      "award": "主演女優賞",
+      "awardYear": 2023,
+      "awardOrder": 4,
+      "winner": "チョン・ユミ",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt8209702"
+      }
+    },
+    {
+      "id": "blue-dragon-2023-best-supporting-actor-smugglers",
+      "mediaType": "movie",
+      "title": "密輸 1970",
+      "originalTitle": "밀수",
+      "award": "助演男優賞",
+      "awardYear": 2023,
+      "awardOrder": 5,
+      "winner": "チョ・インソン",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt28106766"
+      }
+    },
+    {
+      "id": "blue-dragon-2023-best-supporting-actress-cobweb",
+      "mediaType": "movie",
+      "title": "Cobweb",
+      "originalTitle": "거미집",
+      "award": "助演女優賞",
+      "awardYear": 2023,
+      "awardOrder": 6,
+      "winner": "チョン・ヨビン",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt21254598"
+      }
+    },
+    {
+      "id": "blue-dragon-2023-best-new-director-night-owl",
+      "mediaType": "movie",
+      "title": "梟―フクロウ―",
+      "originalTitle": "올빼미",
+      "award": "新人監督賞",
+      "awardYear": 2023,
+      "awardOrder": 7,
+      "winner": "アン・テジン",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt23871504"
+      }
+    },
+    {
+      "id": "blue-dragon-2023-best-new-actor-hopeless",
+      "mediaType": "movie",
+      "title": "Hopeless",
+      "originalTitle": "화란",
+      "award": "新人男優賞",
+      "awardYear": 2023,
+      "awardOrder": 8,
+      "winner": "ホン・サビン",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt27502351"
+      }
+    },
+    {
+      "id": "blue-dragon-2023-best-new-actress-smugglers",
+      "mediaType": "movie",
+      "title": "密輸 1970",
+      "originalTitle": "밀수",
+      "award": "新人女優賞",
+      "awardYear": 2023,
+      "awardOrder": 9,
+      "winner": "コ・ミンシ",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt28106766"
+      }
+    },
+    {
+      "id": "blue-dragon-2023-best-screenplay-next-sohee",
+      "mediaType": "movie",
+      "title": "あしたの少女",
+      "originalTitle": "다음 소희",
+      "award": "脚本賞",
+      "awardYear": 2023,
+      "awardOrder": 10,
+      "winner": "チョン・ジュリ",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt19820538"
+      }
+    }
+  ]
+}

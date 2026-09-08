@@ -1,0 +1,243 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "title": "金馬奨 — 直近10回",
+  "icon": "ticket",
+  "sections": [
+    {
+      "title": "金馬奨 — 2025",
+      "description": "2025年金馬奨の主要賞受賞作品と受賞者。",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "carousel",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "golden-horse-2025.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ]
+    },
+    {
+      "title": "金馬奨 — 2024",
+      "description": "2024年金馬奨の主要賞受賞作品と受賞者。",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "golden-horse-2024.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ]
+    },
+    {
+      "title": "金馬奨 — 2023",
+      "description": "2023年金馬奨の主要賞受賞作品と受賞者。",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "golden-horse-2023.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ]
+    },
+    {
+      "title": "金馬奨 — 2022",
+      "description": "2022年金馬奨の主要賞受賞作品と受賞者。",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "golden-horse-2022.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ]
+    },
+    {
+      "title": "金馬奨 — 2021",
+      "description": "2021年金馬奨の主要賞受賞作品と受賞者。",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "golden-horse-2021.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ]
+    },
+    {
+      "title": "金馬奨 — 2020",
+      "description": "2020年金馬奨の主要賞受賞作品と受賞者。",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "golden-horse-2020.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ]
+    },
+    {
+      "title": "金馬奨 — 2019",
+      "description": "2019年金馬奨の主要賞受賞作品と受賞者。",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "golden-horse-2019.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ]
+    },
+    {
+      "title": "金馬奨 — 2018",
+      "description": "2018年金馬奨の主要賞受賞作品と受賞者。",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "golden-horse-2018.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ]
+    },
+    {
+      "title": "金馬奨 — 2017",
+      "description": "2017年金馬奨の主要賞受賞作品と受賞者。",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "golden-horse-2017.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ]
+    },
+    {
+      "title": "金馬奨 — 2016",
+      "description": "2016年金馬奨の主要賞受賞作品と受賞者。",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "golden-horse-2016.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ]
+    }
+  ],
+  "description": "直近10回（2016〜2025年）の金馬奨における主要部門の受賞リスト。",
+  "tags": [
+    "award",
+    "decade"
+  ]
+}

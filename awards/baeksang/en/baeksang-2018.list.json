@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T02:53:58Z",
+  "title": "Baeksang Arts Awards — 2018",
+  "description": "Film category winners at the 2018 Baeksang Arts Awards.",
+  "items": [
+    {
+      "id": "baeksang-2018-film-grand-1987",
+      "mediaType": "movie",
+      "title": "1987: When the Day Comes",
+      "originalTitle": "1987",
+      "award": "Film Grand Prize",
+      "awardYear": 2018,
+      "awardOrder": 1,
+      "winner": "1987: When the Day Comes",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6493286"
+      }
+    },
+    {
+      "id": "baeksang-2018-film-best-fortress",
+      "mediaType": "movie",
+      "title": "The Fortress",
+      "originalTitle": "남한산성",
+      "award": "Best Film",
+      "awardYear": 2018,
+      "awardOrder": 2,
+      "winner": "The Fortress",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7160176"
+      }
+    },
+    {
+      "id": "baeksang-2018-film-director-along-gods",
+      "mediaType": "movie",
+      "title": "Along with the Gods: The Two Worlds",
+      "originalTitle": "신과함께-죄와 벌",
+      "award": "Best Director Film",
+      "awardYear": 2018,
+      "awardOrder": 3,
+      "winner": "Kim Yong-hwa",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7160070"
+      }
+    },
+    {
+      "id": "baeksang-2018-film-actor-1987",
+      "mediaType": "movie",
+      "title": "1987: When the Day Comes",
+      "originalTitle": "1987",
+      "award": "Best Actor Film",
+      "awardYear": 2018,
+      "awardOrder": 4,
+      "winner": "Kim Yoon-seok",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6493286"
+      }
+    },
+    {
+      "id": "baeksang-2018-film-actress-i-can-speak",
+      "mediaType": "movie",
+      "title": "I Can Speak",
+      "originalTitle": "아이 캔 스피크",
+      "award": "Best Actress Film",
+      "awardYear": 2018,
+      "awardOrder": 5,
+      "winner": "Na Moon-hee",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7342204"
+      }
+    }
+  ]
+}

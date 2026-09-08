@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T02:53:58Z",
+  "title": "백상예술대상 — 영화부문 여자 최우수 연기상",
+  "description": "2017–2026년 백상예술대상 영화부문 여자 최우수 연기상 수상 기록.",
+  "items": [
+    {
+      "id": "baeksang-2017-film-actress-last-princess",
+      "mediaType": "movie",
+      "title": "덕혜옹주",
+      "englishTitle": "The Last Princess",
+      "awardYear": 2017,
+      "winner": "Son Ye-jin",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5947416"
+      }
+    },
+    {
+      "id": "baeksang-2018-film-actress-i-can-speak",
+      "mediaType": "movie",
+      "title": "아이 캔 스피크",
+      "englishTitle": "I Can Speak",
+      "awardYear": 2018,
+      "winner": "Na Moon-hee",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7342204"
+      }
+    },
+    {
+      "id": "baeksang-2019-film-actress-miss-baek",
+      "mediaType": "movie",
+      "title": "미쓰백",
+      "englishTitle": "Miss Baek",
+      "awardYear": 2019,
+      "winner": "Han Ji-min",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt6479534"
+      }
+    },
+    {
+      "id": "baeksang-2020-film-actress-birthday",
+      "mediaType": "movie",
+      "title": "생일",
+      "englishTitle": "Birthday",
+      "awardYear": 2020,
+      "winner": "Jeon Do-yeon",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10248334"
+      }
+    },
+    {
+      "id": "baeksang-2021-film-actress-call",
+      "mediaType": "movie",
+      "title": "콜",
+      "englishTitle": "The Call",
+      "awardYear": 2021,
+      "winner": "Jeon Jong-seo",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10530176"
+      }
+    },
+    {
+      "id": "baeksang-2022-film-actress-in-front",
+      "mediaType": "movie",
+      "title": "당신얼굴 앞에서",
+      "englishTitle": "In Front of Your Face",
+      "awardYear": 2022,
+      "winner": "Lee Hye-young",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14776918"
+      }
+    },
+    {
+      "id": "baeksang-2023-film-actress-decision",
+      "mediaType": "movie",
+      "title": "헤어질 결심",
+      "englishTitle": "Decision to Leave",
+      "awardYear": 2023,
+      "winner": "Tang Wei",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt12477480"
+      }
+    },
+    {
+      "id": "baeksang-2024-film-actress-exhuma",
+      "mediaType": "movie",
+      "title": "파묘",
+      "englishTitle": "Exhuma",
+      "awardYear": 2024,
+      "winner": "Kim Go-eun",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt27802490"
+      }
+    },
+    {
+      "id": "baeksang-2025-film-actress-revolver",
+      "mediaType": "movie",
+      "title": "리볼버",
+      "englishTitle": "Revolver",
+      "awardYear": 2025,
+      "winner": "Jeon Do-yeon",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt28284984"
+      }
+    },
+    {
+      "id": "baeksang-2026-film-actress-once-us",
+      "mediaType": "movie",
+      "title": "만약에 우리",
+      "englishTitle": "Once We Were Us",
+      "awardYear": 2026,
+      "winner": "Moon Ga-young",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt37764737"
+      }
+    }
+  ]
+}

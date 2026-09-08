@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "ゴールデングローブ賞 2022",
+  "description": "2022年のゴールデングローブ賞テレビ作品部門の受賞一覧。",
+  "items": [
+    {
+      "id": "golden-globes-2022-tv_drama-succession",
+      "mediaType": "tv",
+      "title": "メディア王 〜華麗なる一族〜",
+      "englishTitle": "Succession",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7660850"
+      },
+      "award": "テレビドラマ作品賞",
+      "awardYear": 2022,
+      "awardOrder": 1,
+      "winner": "メディア王 〜華麗なる一族〜"
+    },
+    {
+      "id": "golden-globes-2022-tv_comedy-hacks",
+      "mediaType": "tv",
+      "title": "Hacks",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt11815682"
+      },
+      "award": "テレビ作品賞 ミュージカル・コメディ部門",
+      "awardYear": 2022,
+      "awardOrder": 2,
+      "winner": "Hacks"
+    },
+    {
+      "id": "golden-globes-2022-limited-the-underground-railroad",
+      "mediaType": "tv",
+      "title": "The Underground Railroad",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt6704972"
+      },
+      "award": "リミテッドシリーズ・アンソロジー・テレビ映画賞",
+      "awardYear": 2022,
+      "awardOrder": 3,
+      "winner": "The Underground Railroad"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T02:53:58Z",
+  "title": "백상예술대상 — 2024",
+  "description": "2024년 백상예술대상 영화 부문 수상 기록.",
+  "items": [
+    {
+      "id": "baeksang-2024-film-grand-seoul-spring",
+      "mediaType": "movie",
+      "title": "서울의 봄",
+      "englishTitle": "12.12: The Day",
+      "award": "영화부문 대상",
+      "awardYear": 2024,
+      "awardOrder": 1,
+      "winner": "Kim Sung-su",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt22507524"
+      }
+    },
+    {
+      "id": "baeksang-2024-film-best-seoul-spring",
+      "mediaType": "movie",
+      "title": "서울의 봄",
+      "englishTitle": "12.12: The Day",
+      "award": "영화부문 작품상",
+      "awardYear": 2024,
+      "awardOrder": 2,
+      "winner": "서울의 봄",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt22507524"
+      }
+    },
+    {
+      "id": "baeksang-2024-film-director-exhuma",
+      "mediaType": "movie",
+      "title": "파묘",
+      "englishTitle": "Exhuma",
+      "award": "영화부문 감독상",
+      "awardYear": 2024,
+      "awardOrder": 3,
+      "winner": "Jang Jae-hyun",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt27802490"
+      }
+    },
+    {
+      "id": "baeksang-2024-film-actor-seoul-spring",
+      "mediaType": "movie",
+      "title": "서울의 봄",
+      "englishTitle": "12.12: The Day",
+      "award": "영화부문 남자 최우수 연기상",
+      "awardYear": 2024,
+      "awardOrder": 4,
+      "winner": "Hwang Jung-min",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt22507524"
+      }
+    },
+    {
+      "id": "baeksang-2024-film-actress-exhuma",
+      "mediaType": "movie",
+      "title": "파묘",
+      "englishTitle": "Exhuma",
+      "award": "영화부문 여자 최우수 연기상",
+      "awardYear": 2024,
+      "awardOrder": 5,
+      "winner": "Kim Go-eun",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt27802490"
+      }
+    }
+  ]
+}

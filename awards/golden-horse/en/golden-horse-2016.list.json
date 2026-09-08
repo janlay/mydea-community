@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-22T08:41:11Z",
+  "cacheTtlInDays": 365,
+  "title": "Golden Horse Awards 2016 Core Award Winners",
+  "description": "Core award-winning films and filmmakers from the 2016 Golden Horse Awards.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "golden-horse-2016-best-feature-tt6118258",
+      "mediaType": "movie",
+      "title": "The Summer Is Gone",
+      "award": "Best Narrative Feature",
+      "awardYear": 2016,
+      "winner": "Zhang Dalei",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt6118258"
+      },
+      "awardOrder": 1,
+      "originalTitle": "八月"
+    },
+    {
+      "id": "golden-horse-2016-best-director-tt5918090",
+      "mediaType": "movie",
+      "title": "I Am Not Madame Bovary",
+      "award": "Best Director",
+      "awardYear": 2016,
+      "winner": "Feng Xiaogang",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5918090"
+      },
+      "awardOrder": 2,
+      "originalTitle": "我不是潘金蓮"
+    },
+    {
+      "id": "golden-horse-2016-best-actor-tt6128782",
+      "mediaType": "movie",
+      "title": "Mr. No Problem",
+      "award": "Best Leading Actor",
+      "awardYear": 2016,
+      "winner": "Fan Wei",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt6128782"
+      },
+      "awardOrder": 3,
+      "originalTitle": "不成問題的問題"
+    },
+    {
+      "id": "golden-horse-2016-best-actress-tt6054290",
+      "mediaType": "movie",
+      "title": "Soul Mate",
+      "award": "Best Leading Actress",
+      "awardYear": 2016,
+      "winner": "Zhou Dongyu & Ma Sichun",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt6054290"
+      },
+      "awardOrder": 4,
+      "originalTitle": "七月與安生"
+    },
+    {
+      "id": "golden-horse-2016-best-supporting-actor-tt5827496",
+      "mediaType": "movie",
+      "title": "At Cafe 6",
+      "award": "Best Supporting Actor",
+      "awardYear": 2016,
+      "winner": "Austin Lin",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5827496"
+      },
+      "awardOrder": 5,
+      "originalTitle": "六弄咖啡館"
+    },
+    {
+      "id": "golden-horse-2016-best-supporting-actress-tt6041030",
+      "mediaType": "movie",
+      "title": "Mad World",
+      "award": "Best Supporting Actress",
+      "awardYear": 2016,
+      "winner": "Elaine Jin",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt6041030"
+      },
+      "awardOrder": 6,
+      "originalTitle": "一念無明"
+    },
+    {
+      "id": "golden-horse-2016-best-new-director-tt6041030",
+      "mediaType": "movie",
+      "title": "Mad World",
+      "award": "Best New Director",
+      "awardYear": 2016,
+      "winner": "Wong Chun",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt6041030"
+      },
+      "awardOrder": 7,
+      "originalTitle": "一念無明"
+    },
+    {
+      "id": "golden-horse-2016-best-new-performer-tt6118258",
+      "mediaType": "movie",
+      "title": "The Summer Is Gone",
+      "award": "Best New Performer",
+      "awardYear": 2016,
+      "winner": "Kong Weiyi",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt6118258"
+      },
+      "awardOrder": 8,
+      "originalTitle": "八月"
+    }
+  ],
+  "tags": [
+    "award",
+    "taipei",
+    "decade"
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T02:58:14Z",
+  "title": "百想芸術大賞 — 2019",
+  "description": "2019年の百想芸術大賞におけるテレビ部門の受賞作品。",
+  "items": [
+    {
+      "id": "baeksang-2019-tv-grand-light-eyes",
+      "mediaType": "tv",
+      "title": "まぶしくて ―私たちの輝く時間―",
+      "originalTitle": "눈이 부시게",
+      "award": "テレビ部門 大賞",
+      "awardYear": 2019,
+      "awardOrder": 1,
+      "winner": "キム・ヘジャ",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt9466968"
+      }
+    },
+    {
+      "id": "baeksang-2019-tv-best-my-mister",
+      "mediaType": "tv",
+      "title": "マイ・ディア・ミスター ～私のおじさん～",
+      "originalTitle": "나의 아저씨",
+      "award": "テレビ部門 作品賞",
+      "awardYear": 2019,
+      "awardOrder": 2,
+      "winner": "マイ・ディア・ミスター ～私のおじさん～",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7923710"
+      }
+    },
+    {
+      "id": "baeksang-2019-tv-director-sky-castle",
+      "mediaType": "tv",
+      "title": "SKYキャッスル ～上流階級の妻たち～",
+      "originalTitle": "SKY 캐슬",
+      "award": "テレビ部門 演出賞",
+      "awardYear": 2019,
+      "awardOrder": 3,
+      "winner": "チョ・ヒョンタク",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt9151274"
+      }
+    },
+    {
+      "id": "baeksang-2019-tv-actor-mr-sunshine",
+      "mediaType": "tv",
+      "title": "ミスター・サンシャイン",
+      "originalTitle": "미스터 션샤인",
+      "award": "テレビ部門 男性最優秀演技賞",
+      "awardYear": 2019,
+      "awardOrder": 4,
+      "winner": "イ・ビョンホン",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7094780"
+      }
+    },
+    {
+      "id": "baeksang-2019-tv-actress-sky-castle",
+      "mediaType": "tv",
+      "title": "SKYキャッスル ～上流階級の妻たち～",
+      "originalTitle": "SKY 캐슬",
+      "award": "テレビ部門 女性最優秀演技賞",
+      "awardYear": 2019,
+      "awardOrder": 5,
+      "winner": "ヨム・ジョンア",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt9151274"
+      }
+    }
+  ]
+}

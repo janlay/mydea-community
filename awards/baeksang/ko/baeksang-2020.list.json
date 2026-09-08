@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T02:53:58Z",
+  "title": "백상예술대상 — 2020",
+  "description": "2020년 백상예술대상 영화 부문 수상 기록.",
+  "items": [
+    {
+      "id": "baeksang-2020-film-grand-parasite",
+      "mediaType": "movie",
+      "title": "기생충",
+      "englishTitle": "Parasite",
+      "award": "영화부문 대상",
+      "awardYear": 2020,
+      "awardOrder": 1,
+      "winner": "Bong Joon-ho",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6751668"
+      }
+    },
+    {
+      "id": "baeksang-2020-film-best-parasite",
+      "mediaType": "movie",
+      "title": "기생충",
+      "englishTitle": "Parasite",
+      "award": "영화부문 작품상",
+      "awardYear": 2020,
+      "awardOrder": 2,
+      "winner": "기생충",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6751668"
+      }
+    },
+    {
+      "id": "baeksang-2020-film-director-hummingbird",
+      "mediaType": "movie",
+      "title": "벌새",
+      "englishTitle": "House of Hummingbird",
+      "award": "영화부문 감독상",
+      "awardYear": 2020,
+      "awardOrder": 3,
+      "winner": "Kim Bora",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8951086"
+      }
+    },
+    {
+      "id": "baeksang-2020-film-actor-man-standing",
+      "mediaType": "movie",
+      "title": "남산의 부장들",
+      "englishTitle": "The Man Standing Next",
+      "award": "영화부문 남자 최우수 연기상",
+      "awardYear": 2020,
+      "awardOrder": 4,
+      "winner": "Lee Byung-hun",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt11358398"
+      }
+    },
+    {
+      "id": "baeksang-2020-film-actress-birthday",
+      "mediaType": "movie",
+      "title": "생일",
+      "englishTitle": "Birthday",
+      "award": "영화부문 여자 최우수 연기상",
+      "awardYear": 2020,
+      "awardOrder": 5,
+      "winner": "Jeon Do-yeon",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10248334"
+      }
+    }
+  ]
+}

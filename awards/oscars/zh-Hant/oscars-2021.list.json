@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T05:03:58Z",
+  "title": "奧斯卡 2021 年得獎名單",
+  "description": "第 93 屆奧斯卡核心電影獎項得獎影片與得獎者。",
+  "items": [
+    {
+      "id": "oscars-2021-best-picture-nomadland",
+      "mediaType": "movie",
+      "title": "游牧人生",
+      "award": "最佳影片",
+      "awardYear": 2021,
+      "awardOrder": 1,
+      "winner": "Frances McDormand, Peter Spears, Mollye Asher, Dan Janvey & Chloé Zhao",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt9770150"
+      }
+    },
+    {
+      "id": "oscars-2021-best-director-nomadland",
+      "mediaType": "movie",
+      "title": "游牧人生",
+      "award": "最佳導演",
+      "awardYear": 2021,
+      "awardOrder": 2,
+      "winner": "Chloé Zhao",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt9770150"
+      }
+    },
+    {
+      "id": "oscars-2021-best-actor-the-father",
+      "mediaType": "movie",
+      "title": "The Father",
+      "award": "最佳男主角",
+      "awardYear": 2021,
+      "awardOrder": 3,
+      "winner": "Anthony Hopkins",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10272386"
+      }
+    },
+    {
+      "id": "oscars-2021-best-actress-nomadland",
+      "mediaType": "movie",
+      "title": "游牧人生",
+      "award": "最佳女主角",
+      "awardYear": 2021,
+      "awardOrder": 4,
+      "winner": "Frances McDormand",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt9770150"
+      }
+    },
+    {
+      "id": "oscars-2021-best-supporting-actor-judas-and-the-black-messiah",
+      "mediaType": "movie",
+      "title": "Judas and the Black Messiah",
+      "award": "最佳男配角",
+      "awardYear": 2021,
+      "awardOrder": 5,
+      "winner": "Daniel Kaluuya",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt9784798"
+      }
+    },
+    {
+      "id": "oscars-2021-best-supporting-actress-minari",
+      "mediaType": "movie",
+      "title": "夢想之地",
+      "award": "最佳女配角",
+      "awardYear": 2021,
+      "awardOrder": 6,
+      "winner": "Youn Yuh-jung",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10633456"
+      }
+    },
+    {
+      "id": "oscars-2021-best-original-screenplay-promising-young-woman",
+      "mediaType": "movie",
+      "title": "Promising Young Woman",
+      "award": "最佳原創劇本",
+      "awardYear": 2021,
+      "awardOrder": 7,
+      "winner": "Emerald Fennell",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt9620292"
+      }
+    },
+    {
+      "id": "oscars-2021-best-adapted-screenplay-the-father",
+      "mediaType": "movie",
+      "title": "The Father",
+      "award": "最佳改編劇本",
+      "awardYear": 2021,
+      "awardOrder": 8,
+      "winner": "Christopher Hampton & Florian Zeller",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10272386"
+      }
+    },
+    {
+      "id": "oscars-2021-best-animated-feature-soul",
+      "mediaType": "movie",
+      "title": "靈魂急轉彎",
+      "award": "最佳動畫長片",
+      "awardYear": 2021,
+      "awardOrder": 9,
+      "winner": "Pete Docter & Dana Murray",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt2948372"
+      }
+    },
+    {
+      "id": "oscars-2021-best-international-feature-another-round",
+      "mediaType": "movie",
+      "title": "Another Round",
+      "award": "最佳國際影片",
+      "awardYear": 2021,
+      "awardOrder": 10,
+      "winner": "Denmark",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10288566"
+      }
+    }
+  ]
+}

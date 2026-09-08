@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T02:53:58Z",
+  "title": "백상예술대상 — 2022",
+  "description": "2022년 백상예술대상 방송 부문 수상 기록.",
+  "items": [
+    {
+      "id": "baeksang-2022-tv-grand-squid-game",
+      "mediaType": "tv",
+      "title": "오징어 게임",
+      "englishTitle": "Squid Game",
+      "award": "방송부문 대상",
+      "awardYear": 2022,
+      "awardOrder": 1,
+      "winner": "오징어 게임",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt10919420"
+      }
+    },
+    {
+      "id": "baeksang-2022-tv-best-dp",
+      "mediaType": "tv",
+      "title": "D.P.",
+      "englishTitle": "D.P.",
+      "award": "방송부문 작품상 드라마",
+      "awardYear": 2022,
+      "awardOrder": 2,
+      "winner": "D.P.",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt13024974"
+      }
+    },
+    {
+      "id": "baeksang-2022-tv-director-squid-game",
+      "mediaType": "tv",
+      "title": "오징어 게임",
+      "englishTitle": "Squid Game",
+      "award": "방송부문 연출상",
+      "awardYear": 2022,
+      "awardOrder": 3,
+      "winner": "Hwang Dong-hyuk",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt10919420"
+      }
+    },
+    {
+      "id": "baeksang-2022-tv-actor-red-sleeve",
+      "mediaType": "tv",
+      "title": "옷소매 붉은 끝동",
+      "englishTitle": "The Red Sleeve",
+      "award": "방송부문 남자 최우수 연기상",
+      "awardYear": 2022,
+      "awardOrder": 4,
+      "winner": "Lee Jun-ho",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14687200"
+      }
+    },
+    {
+      "id": "baeksang-2022-tv-actress-2521",
+      "mediaType": "tv",
+      "title": "스물다섯 스물하나",
+      "englishTitle": "Twenty-Five Twenty-One",
+      "award": "방송부문 여자 최우수 연기상",
+      "awardYear": 2022,
+      "awardOrder": 5,
+      "winner": "Kim Tae-ri",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt17513352"
+      }
+    }
+  ]
+}

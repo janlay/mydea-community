@@ -1,0 +1,243 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "title": "Golden Horse Awards — Recent 10 Editions",
+  "icon": "ticket",
+  "sections": [
+    {
+      "title": "Golden Horse Awards — 2025",
+      "description": "Core award-winning films and filmmakers from the 2025 Golden Horse Awards.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "carousel",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "golden-horse-2025.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ]
+    },
+    {
+      "title": "Golden Horse Awards — 2024",
+      "description": "Core award-winning films and filmmakers from the 2024 Golden Horse Awards.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "golden-horse-2024.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ]
+    },
+    {
+      "title": "Golden Horse Awards — 2023",
+      "description": "Core award-winning films and filmmakers from the 2023 Golden Horse Awards.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "golden-horse-2023.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ]
+    },
+    {
+      "title": "Golden Horse Awards — 2022",
+      "description": "Core award-winning films and filmmakers from the 2022 Golden Horse Awards.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "golden-horse-2022.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ]
+    },
+    {
+      "title": "Golden Horse Awards — 2021",
+      "description": "Core award-winning films and filmmakers from the 2021 Golden Horse Awards.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "golden-horse-2021.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ]
+    },
+    {
+      "title": "Golden Horse Awards — 2020",
+      "description": "Core award-winning films and filmmakers from the 2020 Golden Horse Awards.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "golden-horse-2020.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ]
+    },
+    {
+      "title": "Golden Horse Awards — 2019",
+      "description": "Core award-winning films and filmmakers from the 2019 Golden Horse Awards.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "golden-horse-2019.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ]
+    },
+    {
+      "title": "Golden Horse Awards — 2018",
+      "description": "Core award-winning films and filmmakers from the 2018 Golden Horse Awards.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "golden-horse-2018.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ]
+    },
+    {
+      "title": "Golden Horse Awards — 2017",
+      "description": "Core award-winning films and filmmakers from the 2017 Golden Horse Awards.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "golden-horse-2017.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ]
+    },
+    {
+      "title": "Golden Horse Awards — 2016",
+      "description": "Core award-winning films and filmmakers from the 2016 Golden Horse Awards.",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "golden-horse-2016.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "award"
+      ]
+    }
+  ],
+  "description": "Winner list of the core categories from the last ten Golden Horse Awards ceremonies (2016–2025).",
+  "tags": [
+    "award",
+    "decade"
+  ]
+}

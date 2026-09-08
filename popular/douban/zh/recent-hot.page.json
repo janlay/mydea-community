@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "icon": "chart.bar",
+  "title": "近期热门类型片",
+  "description": "豆瓣各类型片的近期热门榜。共 12 个类型。",
+  "tags": [
+    "douban",
+    "popular",
+    "genre"
+  ],
+  "sections": [
+    {
+      "title": "喜剧片",
+      "layout": "carousel",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECAYN54KI"
+        }
+      ]
+    },
+    {
+      "title": "爱情片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECSAOJFTA"
+        }
+      ]
+    },
+    {
+      "title": "动作片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECBUOLQGY"
+        }
+      ]
+    },
+    {
+      "title": "科幻片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECZYOJPLI"
+        }
+      ]
+    },
+    {
+      "title": "动画片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "EC3UOBDQY"
+        }
+      ]
+    },
+    {
+      "title": "悬疑片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECPQOJP5Q"
+        }
+      ]
+    },
+    {
+      "title": "犯罪片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECLAN6LHQ"
+        }
+      ]
+    },
+    {
+      "title": "惊悚片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECBUOL2DA"
+        }
+      ]
+    },
+    {
+      "title": "冒险片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECDYOE7WY"
+        }
+      ]
+    },
+    {
+      "title": "恐怖片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECV4N4FBI"
+        }
+      ]
+    },
+    {
+      "title": "战争片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "EC6MOCTVQ"
+        }
+      ]
+    },
+    {
+      "title": "传记片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "EC3EOHEYY"
+        }
+      ]
+    }
+  ]
+}

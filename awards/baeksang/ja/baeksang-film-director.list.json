@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T02:58:14Z",
+  "title": "百想芸術大賞 — 映画部門 監督賞",
+  "description": "百想芸術大賞の映画部門監督賞受賞作。 2017年から2026年までを収録。",
+  "items": [
+    {
+      "id": "baeksang-2017-film-director-age-shadows",
+      "mediaType": "movie",
+      "title": "密偵",
+      "originalTitle": "밀정",
+      "awardYear": 2017,
+      "winner": "キム・ジウン",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4914580"
+      }
+    },
+    {
+      "id": "baeksang-2018-film-director-along-gods",
+      "mediaType": "movie",
+      "title": "神と共に 第一章：罪と罰",
+      "originalTitle": "신과함께-죄와 벌",
+      "awardYear": 2018,
+      "winner": "キム・ヨンファ",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7160070"
+      }
+    },
+    {
+      "id": "baeksang-2019-film-director-swing-kids",
+      "mediaType": "movie",
+      "title": "スウィング・キッズ",
+      "originalTitle": "스윙키즈",
+      "awardYear": 2019,
+      "winner": "カン・ヒョンチョル",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7046974"
+      }
+    },
+    {
+      "id": "baeksang-2020-film-director-hummingbird",
+      "mediaType": "movie",
+      "title": "はちどり",
+      "originalTitle": "벌새",
+      "awardYear": 2020,
+      "winner": "キム・ボラ",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8951086"
+      }
+    },
+    {
+      "id": "baeksang-2021-film-director-voice-silence",
+      "mediaType": "movie",
+      "title": "声もなく",
+      "originalTitle": "소리도 없이",
+      "awardYear": 2021,
+      "winner": "ホン・ウィジョン",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10431572"
+      }
+    },
+    {
+      "id": "baeksang-2022-film-director-kingmaker",
+      "mediaType": "movie",
+      "title": "キングメーカー 大統領を作った男",
+      "originalTitle": "킹메이커",
+      "awardYear": 2022,
+      "winner": "ピョン・ソンヒョン",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt17491616"
+      }
+    },
+    {
+      "id": "baeksang-2023-film-director-decision",
+      "mediaType": "movie",
+      "title": "別れる決心",
+      "originalTitle": "헤어질 결심",
+      "awardYear": 2023,
+      "winner": "パク・チャヌク",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt12477480"
+      }
+    },
+    {
+      "id": "baeksang-2024-film-director-exhuma",
+      "mediaType": "movie",
+      "title": "破墓／パミョ",
+      "originalTitle": "파묘",
+      "awardYear": 2024,
+      "winner": "チャン・ジェヒョン",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt27802490"
+      }
+    },
+    {
+      "id": "baeksang-2025-film-director-revolver",
+      "mediaType": "movie",
+      "title": "リボルバー",
+      "originalTitle": "리볼버",
+      "awardYear": 2025,
+      "winner": "オ・スンウク",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt28284984"
+      }
+    },
+    {
+      "id": "baeksang-2026-film-director-world-love",
+      "mediaType": "movie",
+      "title": "世界の主人",
+      "originalTitle": "세계의 주인",
+      "awardYear": 2026,
+      "winner": "ユン・ガウン",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt37661885"
+      }
+    }
+  ]
+}

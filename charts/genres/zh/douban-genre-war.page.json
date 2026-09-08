@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "icon": "chart.bar",
+  "title": "战争片榜单",
+  "description": "豆瓣战争片榜单，涵盖 11 个国家和地区。",
+  "tags": [
+    "douban",
+    "chart",
+    "genre",
+    "war"
+  ],
+  "sections": [
+    {
+      "title": "华语战争片",
+      "layout": "carousel",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECWUOKOLY"
+        }
+      ]
+    },
+    {
+      "title": "欧洲战争片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECUIOKO6I"
+        }
+      ]
+    },
+    {
+      "title": "美国战争片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECDYONLLI"
+        }
+      ]
+    },
+    {
+      "title": "中国香港战争片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECO4OUYWI"
+        }
+      ]
+    },
+    {
+      "title": "日本战争片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECFYOK3AQ"
+        }
+      ]
+    },
+    {
+      "title": "韩国战争片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "EC2UOS6AQ"
+        }
+      ]
+    },
+    {
+      "title": "英国战争片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECVIOP57A"
+        }
+      ]
+    },
+    {
+      "title": "法国战争片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "EC6UOQ3TY"
+        }
+      ]
+    },
+    {
+      "title": "德国战争片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECV4OGCIA"
+        }
+      ]
+    },
+    {
+      "title": "意大利战争片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECYUOU5TA"
+        }
+      ]
+    },
+    {
+      "title": "俄罗斯战争片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECF4OMYDQ"
+        }
+      ]
+    }
+  ]
+}

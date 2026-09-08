@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "골든 글로브 2023",
+  "description": "2023 골든 글로브 텔레비전 작품 부문 수상 목록.",
+  "items": [
+    {
+      "id": "golden-globes-2023-tv_drama-house-of-the-dragon",
+      "mediaType": "tv",
+      "title": "하우스 오브 드래곤",
+      "englishTitle": "House of the Dragon",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt11198330"
+      },
+      "award": "TV 드라마 작품상",
+      "awardYear": 2023,
+      "awardOrder": 1,
+      "winner": "하우스 오브 드래곤"
+    },
+    {
+      "id": "golden-globes-2023-tv_comedy-abbott-elementary",
+      "mediaType": "tv",
+      "title": "애봇 초등학교",
+      "englishTitle": "Abbott Elementary",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14218830"
+      },
+      "award": "TV 뮤지컬·코미디 작품상",
+      "awardYear": 2023,
+      "awardOrder": 2,
+      "winner": "애봇 초등학교"
+    },
+    {
+      "id": "golden-globes-2023-limited-the-white-lotus",
+      "mediaType": "tv",
+      "title": "화이트 로투스",
+      "englishTitle": "The White Lotus",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt13406094"
+      },
+      "award": "리미티드 시리즈·앤솔러지·TV 영화상",
+      "awardYear": 2023,
+      "awardOrder": 3,
+      "winner": "화이트 로투스"
+    }
+  ]
+}

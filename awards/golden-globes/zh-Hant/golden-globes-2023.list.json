@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "金球獎 2023",
+  "description": "2023 金球獎電影類獲獎名單。",
+  "items": [
+    {
+      "id": "golden-globes-2023-drama-the-fabelmans",
+      "mediaType": "movie",
+      "title": "法貝爾曼",
+      "englishTitle": "The Fabelmans",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt14208870"
+      },
+      "award": "最佳劇情片",
+      "awardYear": 2023,
+      "awardOrder": 1,
+      "winner": "法貝爾曼"
+    },
+    {
+      "id": "golden-globes-2023-comedy-the-banshees-of-inisherin",
+      "mediaType": "movie",
+      "title": "伊尼舍林的女妖",
+      "englishTitle": "The Banshees of Inisherin",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt11813216"
+      },
+      "award": "最佳音樂或喜劇片",
+      "awardYear": 2023,
+      "awardOrder": 2,
+      "winner": "伊尼舍林的女妖"
+    },
+    {
+      "id": "golden-globes-2023-animated-guillermo-del-toro-s-pinocchio",
+      "mediaType": "movie",
+      "title": "Guillermo del Toro's Pinocchio",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt1488589"
+      },
+      "award": "最佳動畫片",
+      "awardYear": 2023,
+      "awardOrder": 3,
+      "winner": "Guillermo del Toro's Pinocchio"
+    },
+    {
+      "id": "golden-globes-2023-foreign-argentina-1985",
+      "mediaType": "movie",
+      "title": "Argentina, 1985",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt15301048"
+      },
+      "award": "最佳非英語片",
+      "awardYear": 2023,
+      "awardOrder": 4,
+      "winner": "Argentina, 1985"
+    }
+  ]
+}

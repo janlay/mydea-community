@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "金球獎 2020",
+  "description": "2020 金球獎電視作品類獲獎名單。",
+  "items": [
+    {
+      "id": "golden-globes-2020-tv_drama-succession",
+      "mediaType": "tv",
+      "title": "繼承之戰",
+      "englishTitle": "Succession",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7660850"
+      },
+      "award": "最佳劇情類影集",
+      "awardYear": 2020,
+      "awardOrder": 1,
+      "winner": "繼承之戰"
+    },
+    {
+      "id": "golden-globes-2020-tv_comedy-fleabag",
+      "mediaType": "tv",
+      "title": "邋遢女郎",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5687612"
+      },
+      "award": "最佳音樂或喜劇類影集",
+      "awardYear": 2020,
+      "awardOrder": 2,
+      "winner": "Fleabag"
+    },
+    {
+      "id": "golden-globes-2020-limited-chernobyl",
+      "mediaType": "tv",
+      "title": "核爆家園",
+      "englishTitle": "Chernobyl",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt7366338"
+      },
+      "award": "最佳有限影集、選集影集或電視電影",
+      "awardYear": 2020,
+      "awardOrder": 3,
+      "winner": "核爆家園"
+    }
+  ]
+}

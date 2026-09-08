@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T02:53:58Z",
+  "title": "百想藝術大賞 — 電影最佳男主角",
+  "description": "2017–2026 年百想藝術大賞電影最佳男主角獲獎記錄。",
+  "items": [
+    {
+      "id": "baeksang-2017-film-actor-age-shadows",
+      "mediaType": "movie",
+      "title": "密探",
+      "originalTitle": "밀정",
+      "awardYear": 2017,
+      "winner": "Song Kang-ho",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4914580"
+      }
+    },
+    {
+      "id": "baeksang-2018-film-actor-1987",
+      "mediaType": "movie",
+      "title": "1987：黎明到來的那一天",
+      "originalTitle": "1987",
+      "awardYear": 2018,
+      "winner": "Kim Yoon-seok",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6493286"
+      }
+    },
+    {
+      "id": "baeksang-2019-film-actor-spy-north",
+      "mediaType": "movie",
+      "title": "特工",
+      "originalTitle": "공작",
+      "awardYear": 2019,
+      "winner": "Lee Sung-min",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8290698"
+      }
+    },
+    {
+      "id": "baeksang-2020-film-actor-man-standing",
+      "mediaType": "movie",
+      "title": "南山的部長們",
+      "originalTitle": "남산의 부장들",
+      "awardYear": 2020,
+      "winner": "Lee Byung-hun",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt11358398"
+      }
+    },
+    {
+      "id": "baeksang-2021-film-actor-voice-silence",
+      "mediaType": "movie",
+      "title": "無聲",
+      "originalTitle": "소리도 없이",
+      "awardYear": 2021,
+      "winner": "Yoo Ah-in",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10431572"
+      }
+    },
+    {
+      "id": "baeksang-2022-film-actor-kingmaker",
+      "mediaType": "movie",
+      "title": "王者製造",
+      "originalTitle": "킹메이커",
+      "awardYear": 2022,
+      "winner": "Sol Kyung-gu",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt17491616"
+      }
+    },
+    {
+      "id": "baeksang-2023-film-actor-night-owl",
+      "mediaType": "movie",
+      "title": "夜梟",
+      "originalTitle": "올빼미",
+      "awardYear": 2023,
+      "winner": "Ryu Jun-yeol",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt23871504"
+      }
+    },
+    {
+      "id": "baeksang-2024-film-actor-seoul-spring",
+      "mediaType": "movie",
+      "title": "首爾之春",
+      "originalTitle": "서울의 봄",
+      "awardYear": 2024,
+      "winner": "Hwang Jung-min",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt22507524"
+      }
+    },
+    {
+      "id": "baeksang-2025-film-actor-pilot",
+      "mediaType": "movie",
+      "title": "飛行員",
+      "originalTitle": "파일럿",
+      "awardYear": 2025,
+      "winner": "Cho Jung-seok",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt32175399"
+      }
+    },
+    {
+      "id": "baeksang-2026-film-actor-ugly",
+      "mediaType": "movie",
+      "title": "臉龐",
+      "originalTitle": "얼굴",
+      "awardYear": 2026,
+      "winner": "Park Jeong-min",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt33514451"
+      }
+    }
+  ]
+}

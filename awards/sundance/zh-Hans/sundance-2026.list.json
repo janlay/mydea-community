@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-16T04:39:02Z",
+  "title": "圣丹斯电影节 2026 年获奖名单",
+  "description": "2026 年圣丹斯电影节四项核心长片评审团大奖获奖作品。",
+  "tags": [
+    "award",
+    "park-city",
+    "decade"
+  ],
+  "items": [
+    {
+      "id": "sundance-us-dramatic-2026-josephine",
+      "mediaType": "movie",
+      "title": "Josephine",
+      "award": "美国剧情片评审团大奖",
+      "awardYear": 2026,
+      "awardOrder": 1,
+      "winner": "Beth de Araújo",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt32321285"
+      }
+    },
+    {
+      "id": "sundance-us-documentary-2026-nuisance-bear",
+      "mediaType": "movie",
+      "title": "Nuisance Bear",
+      "award": "美国纪录片评审团大奖",
+      "awardYear": 2026,
+      "awardOrder": 2,
+      "winner": "Gabriela Osio Vanden & Jack Weisman",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt39150922"
+      }
+    },
+    {
+      "id": "sundance-world-dramatic-2026-shame-and-money",
+      "mediaType": "movie",
+      "title": "Shame and Money",
+      "award": "世界电影剧情片评审团大奖",
+      "awardYear": 2026,
+      "awardOrder": 3,
+      "winner": "Visar Morina",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt39140264"
+      }
+    },
+    {
+      "id": "sundance-world-documentary-2026-to-hold-a-mountain",
+      "mediaType": "movie",
+      "title": "To Hold a Mountain",
+      "award": "世界电影纪录片评审团大奖",
+      "awardYear": 2026,
+      "awardOrder": 4,
+      "winner": "Biljana Tutorov & Petar Glomazić",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt39150043"
+      }
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T02:53:58Z",
+  "title": "백상예술대상 — 2026",
+  "description": "2026년 백상예술대상 방송 부문 수상 기록.",
+  "items": [
+    {
+      "id": "baeksang-2026-tv-grand-dream-kim",
+      "mediaType": "tv",
+      "title": "서울 자가에 대기업 다니는 김 부장 이야기",
+      "englishTitle": "The Dream Life of Mr. Kim",
+      "award": "방송부문 대상",
+      "awardYear": 2026,
+      "awardOrder": 1,
+      "winner": "Ryu Seung-ryong",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt38570528"
+      }
+    },
+    {
+      "id": "baeksang-2026-tv-best-you-everything",
+      "mediaType": "tv",
+      "title": "은중과 상연",
+      "englishTitle": "You and Everything Else",
+      "award": "방송부문 작품상 드라마",
+      "awardYear": 2026,
+      "awardOrder": 2,
+      "winner": "은중과 상연",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31014107"
+      }
+    },
+    {
+      "id": "baeksang-2026-tv-director-unwritten-seoul",
+      "mediaType": "tv",
+      "title": "미지의 서울",
+      "englishTitle": "Our Unwritten Seoul",
+      "award": "방송부문 연출상",
+      "awardYear": 2026,
+      "awardOrder": 3,
+      "winner": "Park Shin-woo",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt36724865"
+      }
+    },
+    {
+      "id": "baeksang-2026-tv-actor-made-korea",
+      "mediaType": "tv",
+      "title": "메이드 인 코리아",
+      "englishTitle": "Made in Korea",
+      "award": "방송부문 남자 최우수 연기상",
+      "awardYear": 2026,
+      "awardOrder": 4,
+      "winner": "Hyun Bin",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt33298903"
+      }
+    },
+    {
+      "id": "baeksang-2026-tv-actress-unwritten-seoul",
+      "mediaType": "tv",
+      "title": "미지의 서울",
+      "englishTitle": "Our Unwritten Seoul",
+      "award": "방송부문 여자 최우수 연기상",
+      "awardYear": 2026,
+      "awardOrder": 5,
+      "winner": "Park Bo-young",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt36724865"
+      }
+    }
+  ]
+}

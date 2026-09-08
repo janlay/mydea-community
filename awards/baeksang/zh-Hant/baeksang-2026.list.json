@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T02:53:58Z",
+  "title": "百想藝術大賞 — 2026",
+  "description": "2026 年百想藝術大賞電影主要獎項獲獎記錄。",
+  "items": [
+    {
+      "id": "baeksang-2026-film-grand-kings-warden",
+      "mediaType": "movie",
+      "title": "與王生活的男人",
+      "originalTitle": "왕과 사는 남자",
+      "award": "電影大獎",
+      "awardYear": 2026,
+      "awardOrder": 1,
+      "winner": "Yoo Hae-jin",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt38626703"
+      }
+    },
+    {
+      "id": "baeksang-2026-film-best-no-other-choice",
+      "mediaType": "movie",
+      "title": "無可奈何",
+      "originalTitle": "어쩔수가없다",
+      "award": "最佳電影",
+      "awardYear": 2026,
+      "awardOrder": 2,
+      "winner": "無可奈何",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt1527793"
+      }
+    },
+    {
+      "id": "baeksang-2026-film-director-world-love",
+      "mediaType": "movie",
+      "title": "世界的主人",
+      "originalTitle": "세계의 주인",
+      "award": "電影最佳導演",
+      "awardYear": 2026,
+      "awardOrder": 3,
+      "winner": "Yoon Ga-eun",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt37661885"
+      }
+    },
+    {
+      "id": "baeksang-2026-film-actor-ugly",
+      "mediaType": "movie",
+      "title": "臉龐",
+      "originalTitle": "얼굴",
+      "award": "電影最佳男主角",
+      "awardYear": 2026,
+      "awardOrder": 4,
+      "winner": "Park Jeong-min",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt33514451"
+      }
+    },
+    {
+      "id": "baeksang-2026-film-actress-once-us",
+      "mediaType": "movie",
+      "title": "如果我們",
+      "originalTitle": "만약에 우리",
+      "award": "電影最佳女主角",
+      "awardYear": 2026,
+      "awardOrder": 5,
+      "winner": "Moon Ga-young",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt37764737"
+      }
+    }
+  ]
+}

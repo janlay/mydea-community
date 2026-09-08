@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T05:03:58Z",
+  "title": "奧斯卡 2024 年得獎名單",
+  "description": "第 96 屆奧斯卡核心電影獎項得獎影片與得獎者。",
+  "items": [
+    {
+      "id": "oscars-2024-best-picture-oppenheimer",
+      "mediaType": "movie",
+      "title": "奧本海默",
+      "award": "最佳影片",
+      "awardYear": 2024,
+      "awardOrder": 1,
+      "winner": "Emma Thomas, Charles Roven & Christopher Nolan",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt15398776"
+      }
+    },
+    {
+      "id": "oscars-2024-best-director-oppenheimer",
+      "mediaType": "movie",
+      "title": "奧本海默",
+      "award": "最佳導演",
+      "awardYear": 2024,
+      "awardOrder": 2,
+      "winner": "Christopher Nolan",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt15398776"
+      }
+    },
+    {
+      "id": "oscars-2024-best-actor-oppenheimer",
+      "mediaType": "movie",
+      "title": "奧本海默",
+      "award": "最佳男主角",
+      "awardYear": 2024,
+      "awardOrder": 3,
+      "winner": "Cillian Murphy",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt15398776"
+      }
+    },
+    {
+      "id": "oscars-2024-best-actress-poor-things",
+      "mediaType": "movie",
+      "title": "可憐的東西",
+      "award": "最佳女主角",
+      "awardYear": 2024,
+      "awardOrder": 4,
+      "winner": "Emma Stone",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt14230458"
+      }
+    },
+    {
+      "id": "oscars-2024-best-supporting-actor-oppenheimer",
+      "mediaType": "movie",
+      "title": "奧本海默",
+      "award": "最佳男配角",
+      "awardYear": 2024,
+      "awardOrder": 5,
+      "winner": "Robert Downey Jr.",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt15398776"
+      }
+    },
+    {
+      "id": "oscars-2024-best-supporting-actress-the-holdovers",
+      "mediaType": "movie",
+      "title": "The Holdovers",
+      "award": "最佳女配角",
+      "awardYear": 2024,
+      "awardOrder": 6,
+      "winner": "Da'Vine Joy Randolph",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt14849194"
+      }
+    },
+    {
+      "id": "oscars-2024-best-original-screenplay-anatomy-of-a-fall",
+      "mediaType": "movie",
+      "title": "墜惡真相",
+      "award": "最佳原創劇本",
+      "awardYear": 2024,
+      "awardOrder": 7,
+      "winner": "Justine Triet & Arthur Harari",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt17009710"
+      }
+    },
+    {
+      "id": "oscars-2024-best-adapted-screenplay-american-fiction",
+      "mediaType": "movie",
+      "title": "American Fiction",
+      "award": "最佳改編劇本",
+      "awardYear": 2024,
+      "awardOrder": 8,
+      "winner": "Cord Jefferson",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt23561236"
+      }
+    },
+    {
+      "id": "oscars-2024-best-animated-feature-the-boy-and-the-heron",
+      "mediaType": "movie",
+      "title": "蒼鷺與少年",
+      "award": "最佳動畫長片",
+      "awardYear": 2024,
+      "awardOrder": 9,
+      "winner": "Hayao Miyazaki & Toshio Suzuki",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt6587046"
+      }
+    },
+    {
+      "id": "oscars-2024-best-international-feature-the-zone-of-interest",
+      "mediaType": "movie",
+      "title": "夢想集中營",
+      "award": "最佳國際影片",
+      "awardYear": 2024,
+      "awardOrder": 10,
+      "winner": "United Kingdom",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt7160372"
+      }
+    }
+  ]
+}

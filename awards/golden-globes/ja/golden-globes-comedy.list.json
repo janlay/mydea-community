@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "ゴールデングローブ賞 — 作品賞 ミュージカル・コメディ部門",
+  "description": "2017年から2026年までのゴールデングローブ賞「作品賞 ミュージカル・コメディ部門」受賞作品。",
+  "items": [
+    {
+      "id": "golden-globes-comedy-2017-la-la-land",
+      "mediaType": "movie",
+      "title": "ラ・ラ・ランド",
+      "englishTitle": "La La Land",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt3783958"
+      },
+      "awardYear": 2017,
+      "winner": "ラ・ラ・ランド"
+    },
+    {
+      "id": "golden-globes-comedy-2018-lady-bird",
+      "mediaType": "movie",
+      "title": "レディ・バード",
+      "englishTitle": "Lady Bird",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt4925292"
+      },
+      "awardYear": 2018,
+      "winner": "レディ・バード"
+    },
+    {
+      "id": "golden-globes-comedy-2019-green-book",
+      "mediaType": "movie",
+      "title": "グリーンブック",
+      "englishTitle": "Green Book",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt6966692"
+      },
+      "awardYear": 2019,
+      "winner": "グリーンブック"
+    },
+    {
+      "id": "golden-globes-comedy-2020-once-upon-a-time-in-hollywood",
+      "mediaType": "movie",
+      "title": "ワンス・アポン・ア・タイム・イン・ハリウッド",
+      "englishTitle": "Once Upon a Time... in Hollywood",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt7131622"
+      },
+      "awardYear": 2020,
+      "winner": "ワンス・アポン・ア・タイム・イン・ハリウッド"
+    },
+    {
+      "id": "golden-globes-comedy-2021-borat-subsequent-moviefilm",
+      "mediaType": "movie",
+      "title": "Borat Subsequent Moviefilm",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt13143964"
+      },
+      "awardYear": 2021,
+      "winner": "Borat Subsequent Moviefilm"
+    },
+    {
+      "id": "golden-globes-comedy-2022-west-side-story",
+      "mediaType": "movie",
+      "title": "ウエスト・サイド・ストーリー",
+      "englishTitle": "West Side Story",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt3581652"
+      },
+      "awardYear": 2022,
+      "winner": "ウエスト・サイド・ストーリー"
+    },
+    {
+      "id": "golden-globes-comedy-2023-the-banshees-of-inisherin",
+      "mediaType": "movie",
+      "title": "イニシェリン島の精霊",
+      "englishTitle": "The Banshees of Inisherin",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt11813216"
+      },
+      "awardYear": 2023,
+      "winner": "イニシェリン島の精霊"
+    },
+    {
+      "id": "golden-globes-comedy-2024-poor-things",
+      "mediaType": "movie",
+      "title": "哀れなるものたち",
+      "englishTitle": "Poor Things",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt14230458"
+      },
+      "awardYear": 2024,
+      "winner": "哀れなるものたち"
+    },
+    {
+      "id": "golden-globes-comedy-2025-emilia-perez",
+      "mediaType": "movie",
+      "title": "エミリア・ペレス",
+      "englishTitle": "Emilia Pérez",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt20221436"
+      },
+      "awardYear": 2025,
+      "winner": "エミリア・ペレス"
+    },
+    {
+      "id": "golden-globes-comedy-2026-one-battle-after-another",
+      "mediaType": "movie",
+      "title": "ワン・バトル・アフター・アナザー",
+      "englishTitle": "One Battle After Another",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt30144839"
+      },
+      "awardYear": 2026,
+      "winner": "ワン・バトル・アフター・アナザー"
+    }
+  ]
+}

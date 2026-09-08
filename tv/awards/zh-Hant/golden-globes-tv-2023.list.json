@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "金球獎 2023",
+  "description": "2023 金球獎電視作品類獲獎名單。",
+  "items": [
+    {
+      "id": "golden-globes-2023-tv_drama-house-of-the-dragon",
+      "mediaType": "tv",
+      "title": "龍族前傳",
+      "englishTitle": "House of the Dragon",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt11198330"
+      },
+      "award": "最佳劇情類影集",
+      "awardYear": 2023,
+      "awardOrder": 1,
+      "winner": "龍族前傳"
+    },
+    {
+      "id": "golden-globes-2023-tv_comedy-abbott-elementary",
+      "mediaType": "tv",
+      "title": "小學風雲",
+      "englishTitle": "Abbott Elementary",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14218830"
+      },
+      "award": "最佳音樂或喜劇類影集",
+      "awardYear": 2023,
+      "awardOrder": 2,
+      "winner": "小學風雲"
+    },
+    {
+      "id": "golden-globes-2023-limited-the-white-lotus",
+      "mediaType": "tv",
+      "title": "白蓮花大飯店",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt13406094"
+      },
+      "award": "最佳有限影集、選集影集或電視電影",
+      "awardYear": 2023,
+      "awardOrder": 3,
+      "winner": "The White Lotus"
+    }
+  ]
+}

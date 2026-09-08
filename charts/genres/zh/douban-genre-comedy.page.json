@@ -1,0 +1,244 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "icon": "chart.bar",
+  "title": "喜剧片榜单",
+  "description": "豆瓣喜剧片榜单，涵盖 19 个国家和地区。",
+  "tags": [
+    "douban",
+    "chart",
+    "genre",
+    "comedy"
+  ],
+  "sections": [
+    {
+      "title": "华语喜剧片",
+      "layout": "carousel",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECVUOUD7A"
+        }
+      ]
+    },
+    {
+      "title": "欧洲喜剧片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECPQO4BPA"
+        }
+      ]
+    },
+    {
+      "title": "中国大陆喜剧片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECKIO6SXI"
+        }
+      ]
+    },
+    {
+      "title": "美国喜剧片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECGUO62ZA"
+        }
+      ]
+    },
+    {
+      "title": "中国香港喜剧片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECOYO2QPA"
+        }
+      ]
+    },
+    {
+      "title": "中国台湾喜剧片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECEAOX2BI"
+        }
+      ]
+    },
+    {
+      "title": "日本喜剧片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECFIOT7JA"
+        }
+      ]
+    },
+    {
+      "title": "韩国喜剧片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECOIOVQPY"
+        }
+      ]
+    },
+    {
+      "title": "英国喜剧片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "EC6IOYROI"
+        }
+      ]
+    },
+    {
+      "title": "法国喜剧片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECIEOY5UI"
+        }
+      ]
+    },
+    {
+      "title": "德国喜剧片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECFQO5B4A"
+        }
+      ]
+    },
+    {
+      "title": "意大利喜剧片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECREOTSEI"
+        }
+      ]
+    },
+    {
+      "title": "西班牙喜剧片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "EC6UO37NQ"
+        }
+      ]
+    },
+    {
+      "title": "瑞典喜剧片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECPMPBHBI"
+        }
+      ]
+    },
+    {
+      "title": "印度喜剧片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECTIOYBOY"
+        }
+      ]
+    },
+    {
+      "title": "泰国喜剧片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECAIO3EWI"
+        }
+      ]
+    },
+    {
+      "title": "加拿大喜剧片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECYUPAHZY"
+        }
+      ]
+    },
+    {
+      "title": "澳大利亚喜剧片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECKMOXL6Q"
+        }
+      ]
+    },
+    {
+      "title": "爱尔兰喜剧片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECOAOZY7Y"
+        }
+      ]
+    }
+  ]
+}

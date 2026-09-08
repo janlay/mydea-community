@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T05:03:58Z",
+  "title": "奧斯卡 2017 年得獎名單",
+  "description": "第 89 屆奧斯卡核心電影獎項得獎影片與得獎者。",
+  "items": [
+    {
+      "id": "oscars-2017-best-picture-moonlight",
+      "mediaType": "movie",
+      "title": "月光下的藍色男孩",
+      "award": "最佳影片",
+      "awardYear": 2017,
+      "awardOrder": 1,
+      "winner": "Dede Gardner, Jeremy Kleiner & Adele Romanski",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4975722"
+      }
+    },
+    {
+      "id": "oscars-2017-best-director-la-la-land",
+      "mediaType": "movie",
+      "title": "樂來越愛你",
+      "award": "最佳導演",
+      "awardYear": 2017,
+      "awardOrder": 2,
+      "winner": "Damien Chazelle",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt3783958"
+      }
+    },
+    {
+      "id": "oscars-2017-best-actor-manchester-by-the-sea",
+      "mediaType": "movie",
+      "title": "Manchester by the Sea",
+      "award": "最佳男主角",
+      "awardYear": 2017,
+      "awardOrder": 3,
+      "winner": "Casey Affleck",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4034228"
+      }
+    },
+    {
+      "id": "oscars-2017-best-actress-la-la-land",
+      "mediaType": "movie",
+      "title": "樂來越愛你",
+      "award": "最佳女主角",
+      "awardYear": 2017,
+      "awardOrder": 4,
+      "winner": "Emma Stone",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt3783958"
+      }
+    },
+    {
+      "id": "oscars-2017-best-supporting-actor-moonlight",
+      "mediaType": "movie",
+      "title": "月光下的藍色男孩",
+      "award": "最佳男配角",
+      "awardYear": 2017,
+      "awardOrder": 5,
+      "winner": "Mahershala Ali",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4975722"
+      }
+    },
+    {
+      "id": "oscars-2017-best-supporting-actress-fences",
+      "mediaType": "movie",
+      "title": "Fences",
+      "award": "最佳女配角",
+      "awardYear": 2017,
+      "awardOrder": 6,
+      "winner": "Viola Davis",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt2671706"
+      }
+    },
+    {
+      "id": "oscars-2017-best-original-screenplay-manchester-by-the-sea",
+      "mediaType": "movie",
+      "title": "Manchester by the Sea",
+      "award": "最佳原創劇本",
+      "awardYear": 2017,
+      "awardOrder": 7,
+      "winner": "Kenneth Lonergan",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4034228"
+      }
+    },
+    {
+      "id": "oscars-2017-best-adapted-screenplay-moonlight",
+      "mediaType": "movie",
+      "title": "月光下的藍色男孩",
+      "award": "最佳改編劇本",
+      "awardYear": 2017,
+      "awardOrder": 8,
+      "winner": "Barry Jenkins & Tarell Alvin McCraney",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4975722"
+      }
+    },
+    {
+      "id": "oscars-2017-best-animated-feature-zootopia",
+      "mediaType": "movie",
+      "title": "動物方城市",
+      "award": "最佳動畫長片",
+      "awardYear": 2017,
+      "awardOrder": 9,
+      "winner": "Byron Howard, Rich Moore & Clark Spencer",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt2948356"
+      }
+    },
+    {
+      "id": "oscars-2017-best-international-feature-the-salesman",
+      "mediaType": "movie",
+      "title": "The Salesman",
+      "award": "最佳國際影片",
+      "awardYear": 2017,
+      "awardOrder": 10,
+      "winner": "Asghar Farhadi",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5186714"
+      }
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T02:53:58Z",
+  "title": "Baeksang Arts Awards — Best Director Broadcast",
+  "description": "Baeksang Arts Awards Best Director Broadcast winners from 2017 to 2026.",
+  "items": [
+    {
+      "id": "baeksang-2017-tv-director-dr-romantic",
+      "mediaType": "tv",
+      "title": "Dr. Romantic",
+      "originalTitle": "낭만닥터 김사부",
+      "awardYear": 2017,
+      "winner": "Yu In-sik",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt6157190"
+      }
+    },
+    {
+      "id": "baeksang-2018-tv-director-lady-dignity",
+      "mediaType": "tv",
+      "title": "The Lady in Dignity",
+      "originalTitle": "품위있는 그녀",
+      "awardYear": 2018,
+      "winner": "Kim Yun-cheol",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6898288"
+      }
+    },
+    {
+      "id": "baeksang-2019-tv-director-sky-castle",
+      "mediaType": "tv",
+      "title": "SKY Castle",
+      "originalTitle": "SKY 캐슬",
+      "awardYear": 2019,
+      "winner": "Jo Hyun-tak",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt9151274"
+      }
+    },
+    {
+      "id": "baeksang-2020-tv-director-world-married",
+      "mediaType": "tv",
+      "title": "The World of the Married",
+      "originalTitle": "부부의 세계",
+      "awardYear": 2020,
+      "winner": "Mo Wan-il",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt12042964"
+      }
+    },
+    {
+      "id": "baeksang-2021-tv-director-flower-evil",
+      "mediaType": "tv",
+      "title": "Flower of Evil",
+      "originalTitle": "악의 꽃",
+      "awardYear": 2021,
+      "winner": "Kim Cheol-kyu",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt11691684"
+      }
+    },
+    {
+      "id": "baeksang-2022-tv-director-squid-game",
+      "mediaType": "tv",
+      "title": "Squid Game",
+      "originalTitle": "오징어 게임",
+      "awardYear": 2022,
+      "winner": "Hwang Dong-hyuk",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt10919420"
+      }
+    },
+    {
+      "id": "baeksang-2023-tv-director-attorney-woo",
+      "mediaType": "tv",
+      "title": "Extraordinary Attorney Woo",
+      "originalTitle": "이상한 변호사 우영우",
+      "awardYear": 2023,
+      "winner": "Yoo In-shik",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt20869502"
+      }
+    },
+    {
+      "id": "baeksang-2024-tv-director-worst-evil",
+      "mediaType": "tv",
+      "title": "The Worst of Evil",
+      "originalTitle": "최악의 악",
+      "awardYear": 2024,
+      "winner": "Han Dong-wook",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt20600022"
+      }
+    },
+    {
+      "id": "baeksang-2025-tv-director-doubt",
+      "mediaType": "tv",
+      "title": "Doubt",
+      "originalTitle": "이토록 친밀한 배신자",
+      "awardYear": 2025,
+      "winner": "Song Yeon-hwa",
+      "releaseDate": "2024",
+      "externalIds": {
+        "tmdb": "240942"
+      }
+    },
+    {
+      "id": "baeksang-2026-tv-director-unwritten-seoul",
+      "mediaType": "tv",
+      "title": "Our Unwritten Seoul",
+      "originalTitle": "미지의 서울",
+      "awardYear": 2026,
+      "winner": "Park Shin-woo",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt36724865"
+      }
+    }
+  ]
+}

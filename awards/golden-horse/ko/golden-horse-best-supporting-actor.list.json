@@ -1,0 +1,770 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-22T08:41:11Z",
+  "title": "금마장 — 남우조연상",
+  "description": "금마장 남우조연상 부문의 신설 이후 2025년까지 전체 수상 기록.",
+  "cacheTtlInDays": 365,
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "golden-horse-1962-best-supporting-actor-item-1",
+      "mediaType": "movie",
+      "title": "Under One Roof",
+      "awardYear": 1962,
+      "winner": "Aizi Cai",
+      "releaseDate": "1962",
+      "originalTitle": "宜室宜家",
+      "externalIds": {
+        "imdb": "tt1389794"
+      }
+    },
+    {
+      "id": "golden-horse-1963-best-supporting-actor-item-2",
+      "mediaType": "movie",
+      "title": "White Cloud Home Town",
+      "awardYear": 1963,
+      "winner": "Ma Ji",
+      "releaseDate": "1963",
+      "originalTitle": "白雲故鄉",
+      "externalIds": {
+        "tmdb": "1382284"
+      }
+    },
+    {
+      "id": "golden-horse-1965-best-supporting-actor-item-3",
+      "mediaType": "movie",
+      "title": "Between Tears and Smiles",
+      "awardYear": 1965,
+      "winner": "Jing Miao",
+      "releaseDate": "1965",
+      "originalTitle": "故都春夢",
+      "externalIds": {
+        "imdb": "tt0456741"
+      }
+    },
+    {
+      "id": "golden-horse-1966-best-supporting-actor-item-4",
+      "mediaType": "movie",
+      "title": "The Beggar's Daughter",
+      "awardYear": 1966,
+      "winner": "Wu Jia Xiang",
+      "releaseDate": "1966",
+      "originalTitle": "金玉奴",
+      "externalIds": {
+        "imdb": "tt0198577"
+      }
+    },
+    {
+      "id": "golden-horse-1967-best-supporting-actor-item-5",
+      "mediaType": "movie",
+      "title": "The Monument of Virtue",
+      "awardYear": 1967,
+      "winner": "Tsui Fu-sheng",
+      "releaseDate": "1967",
+      "originalTitle": "貞節牌坊",
+      "externalIds": {
+        "imdb": "tt1332129"
+      }
+    },
+    {
+      "id": "golden-horse-1968-best-supporting-actor-item-6",
+      "mediaType": "movie",
+      "title": "Too Late for Love",
+      "awardYear": 1968,
+      "winner": "Jing Miao",
+      "releaseDate": "1968",
+      "originalTitle": "烽火萬里情",
+      "externalIds": {
+        "imdb": "tt0186095"
+      }
+    },
+    {
+      "id": "golden-horse-1969-best-supporting-actor-item-7",
+      "mediaType": "movie",
+      "title": "Storm Over the Yangtze River",
+      "awardYear": 1969,
+      "winner": "Sun Yueh",
+      "releaseDate": "1969",
+      "originalTitle": "揚子江風雲",
+      "externalIds": {
+        "imdb": "tt5592298"
+      }
+    },
+    {
+      "id": "golden-horse-1970-best-supporting-actor-item-8",
+      "mediaType": "movie",
+      "title": "Ge Sheng Mei Ying",
+      "awardYear": 1970,
+      "winner": "Yi Ming",
+      "releaseDate": "1970",
+      "originalTitle": "歌聲魅影",
+      "externalIds": {
+        "imdb": "tt10642962"
+      }
+    },
+    {
+      "id": "golden-horse-1971-best-supporting-actor-item-9",
+      "mediaType": "movie",
+      "title": "You Can't Tell Him",
+      "awardYear": 1971,
+      "winner": "Wang Rong",
+      "releaseDate": "1971",
+      "originalTitle": "庭院深深",
+      "externalIds": {
+        "imdb": "tt4837196"
+      }
+    },
+    {
+      "id": "golden-horse-1972-best-supporting-actor-item-10",
+      "mediaType": "movie",
+      "title": "The Widow Takes Revenge",
+      "awardYear": 1972,
+      "winner": "Wei Su",
+      "releaseDate": "1972",
+      "originalTitle": "大地春雷",
+      "externalIds": {
+        "imdb": "tt7177020"
+      }
+    },
+    {
+      "id": "golden-horse-1973-best-supporting-actor-item-11",
+      "mediaType": "movie",
+      "title": "Operation White Shirt",
+      "awardYear": 1973,
+      "winner": "Wang Yu",
+      "releaseDate": "1973",
+      "originalTitle": "突破國際死亡線",
+      "externalIds": {
+        "tmdb": "494215"
+      }
+    },
+    {
+      "id": "golden-horse-1975-best-supporting-actor-item-12",
+      "mediaType": "movie",
+      "title": "Deep in the Clouds",
+      "awardYear": 1975,
+      "winner": "Yi Ming",
+      "releaseDate": "1975",
+      "originalTitle": "雲深不知處",
+      "externalIds": {
+        "imdb": "tt3981820"
+      }
+    },
+    {
+      "id": "golden-horse-1976-best-supporting-actor-item-13",
+      "mediaType": "movie",
+      "title": "The Venturer",
+      "awardYear": 1976,
+      "winner": "Sihung Lung",
+      "releaseDate": "1976",
+      "originalTitle": "狼牙口",
+      "externalIds": {
+        "imdb": "tt1399203"
+      }
+    },
+    {
+      "id": "golden-horse-1977-best-supporting-actor-item-14",
+      "mediaType": "movie",
+      "title": "천도만리추",
+      "awardYear": 1977,
+      "winner": "Baiying",
+      "releaseDate": "1977",
+      "originalTitle": "千刀萬里追",
+      "externalIds": {
+        "imdb": "tt0165742"
+      }
+    },
+    {
+      "id": "golden-horse-1978-best-supporting-actor-item-15",
+      "mediaType": "movie",
+      "title": "Sunset in Beijing City",
+      "awardYear": 1978,
+      "winner": "Gu Ming Lun",
+      "releaseDate": "1978",
+      "originalTitle": "日落北京城",
+      "externalIds": {
+        "imdb": "tt6931790"
+      }
+    },
+    {
+      "id": "golden-horse-1979-best-supporting-actor-item-16",
+      "mediaType": "movie",
+      "title": "A Special Smile",
+      "awardYear": 1979,
+      "winner": "Han Su",
+      "releaseDate": "1979",
+      "originalTitle": "歡顏",
+      "externalIds": {
+        "imdb": "tt0260959"
+      }
+    },
+    {
+      "id": "golden-horse-1980-best-supporting-actor-item-17",
+      "mediaType": "movie",
+      "title": "The Orientation",
+      "awardYear": 1980,
+      "winner": "Xiang Yun Peng",
+      "releaseDate": "1980",
+      "originalTitle": "鄉野人",
+      "externalIds": {
+        "imdb": "tt2154743"
+      }
+    },
+    {
+      "id": "golden-horse-1981-best-supporting-actor-item-18",
+      "mediaType": "movie",
+      "title": "북경의 붉은 물결",
+      "awardYear": 1981,
+      "winner": "Wang Jue",
+      "releaseDate": "1981",
+      "originalTitle": "皇天后土",
+      "externalIds": {
+        "imdb": "tt0082189"
+      }
+    },
+    {
+      "id": "golden-horse-1982-best-supporting-actor-item-19",
+      "mediaType": "movie",
+      "title": "무송",
+      "awardYear": 1982,
+      "winner": "Ku Feng",
+      "releaseDate": "1982",
+      "originalTitle": "武松",
+      "externalIds": {
+        "imdb": "tt0084922"
+      }
+    },
+    {
+      "id": "golden-horse-1983-best-supporting-actor-item-20",
+      "mediaType": "movie",
+      "title": "Dai Zui De Nu Hai",
+      "awardYear": 1983,
+      "winner": "Ku Feng",
+      "releaseDate": "1983",
+      "originalTitle": "待罪的女孩",
+      "externalIds": {
+        "imdb": "tt5094808"
+      }
+    },
+    {
+      "id": "golden-horse-1984-best-supporting-actor-item-21",
+      "mediaType": "movie",
+      "title": "The Fragrance of the Garden",
+      "awardYear": 1984,
+      "winner": "Chang Feng",
+      "releaseDate": "1984",
+      "originalTitle": "頤園飄香",
+      "externalIds": {
+        "imdb": "tt5092470"
+      }
+    },
+    {
+      "id": "golden-horse-1985-best-supporting-actor-item-22",
+      "mediaType": "movie",
+      "title": "Super Citizen",
+      "awardYear": 1985,
+      "winner": "Chen Bo Zheng",
+      "releaseDate": "1985",
+      "originalTitle": "超級市民",
+      "externalIds": {
+        "imdb": "tt0271216"
+      }
+    },
+    {
+      "id": "golden-horse-1986-best-supporting-actor-item-23",
+      "mediaType": "movie",
+      "title": "전로정전",
+      "awardYear": 1986,
+      "winner": "Paul Chun",
+      "releaseDate": "1986",
+      "originalTitle": "癲佬正傳",
+      "externalIds": {
+        "imdb": "tt0090940"
+      }
+    },
+    {
+      "id": "golden-horse-1987-best-supporting-actor-item-24",
+      "mediaType": "movie",
+      "title": "천녀유혼",
+      "awardYear": 1987,
+      "winner": "Wu Ma",
+      "releaseDate": "1987",
+      "originalTitle": "倩女幽魂",
+      "externalIds": {
+        "imdb": "tt0093978"
+      }
+    },
+    {
+      "id": "golden-horse-1988-best-supporting-actor-item-25",
+      "mediaType": "movie",
+      "title": "주성치의 벽력선봉",
+      "awardYear": 1988,
+      "winner": "Stephen Chow",
+      "releaseDate": "1988",
+      "originalTitle": "霹靂先鋒",
+      "externalIds": {
+        "imdb": "tt0126301"
+      }
+    },
+    {
+      "id": "golden-horse-1989-best-supporting-actor-item-26",
+      "mediaType": "movie",
+      "title": "Banana Paradise",
+      "awardYear": 1989,
+      "winner": "Zhang Shi",
+      "releaseDate": "1989",
+      "originalTitle": "香蕉天堂",
+      "externalIds": {
+        "imdb": "tt0490518"
+      }
+    },
+    {
+      "id": "golden-horse-1990-best-supporting-actor-item-27",
+      "mediaType": "movie",
+      "title": "소오강호",
+      "awardYear": 1990,
+      "winner": "Jacky Cheung",
+      "releaseDate": "1990",
+      "originalTitle": "笑傲江湖",
+      "externalIds": {
+        "imdb": "tt0100973"
+      }
+    },
+    {
+      "id": "golden-horse-1991-best-supporting-actor-item-28",
+      "mediaType": "movie",
+      "title": "여락",
+      "awardYear": 1991,
+      "winner": "Kwan Hoi-san",
+      "releaseDate": "1991",
+      "originalTitle": "五億探長雷洛傳",
+      "externalIds": {
+        "imdb": "tt0103292"
+      }
+    },
+    {
+      "id": "golden-horse-1992-best-supporting-actor-item-29",
+      "mediaType": "movie",
+      "title": "Secret Love for the Peach Blossom Spring",
+      "awardYear": 1992,
+      "winner": "Ku Pao-ming",
+      "releaseDate": "1992",
+      "originalTitle": "暗戀桃花源",
+      "externalIds": {
+        "imdb": "tt0103699"
+      }
+    },
+    {
+      "id": "golden-horse-1993-best-supporting-actor-item-30",
+      "mediaType": "movie",
+      "title": "결혼 피로연",
+      "awardYear": 1993,
+      "winner": "Sihung Lung",
+      "releaseDate": "1993",
+      "originalTitle": "囍宴",
+      "externalIds": {
+        "imdb": "tt0107156"
+      }
+    },
+    {
+      "id": "golden-horse-1994-best-supporting-actor-item-31",
+      "mediaType": "movie",
+      "title": "독립시대",
+      "awardYear": 1994,
+      "winner": "Wang Bai Sen",
+      "releaseDate": "1994",
+      "originalTitle": "獨立時代",
+      "externalIds": {
+        "imdb": "tt0109685"
+      }
+    },
+    {
+      "id": "golden-horse-1995-best-supporting-actor-item-32",
+      "mediaType": "movie",
+      "title": "여인사십",
+      "awardYear": 1995,
+      "winner": "Luo Jia Ying",
+      "releaseDate": "1995",
+      "originalTitle": "女人四十",
+      "externalIds": {
+        "imdb": "tt0111767"
+      }
+    },
+    {
+      "id": "golden-horse-1996-best-supporting-actor-item-33",
+      "mediaType": "movie",
+      "title": "마작",
+      "awardYear": 1996,
+      "winner": "Wang Qi Zan",
+      "releaseDate": "1996",
+      "originalTitle": "麻將",
+      "externalIds": {
+        "imdb": "tt0116962"
+      }
+    },
+    {
+      "id": "golden-horse-1997-best-supporting-actor-item-34",
+      "mediaType": "movie",
+      "title": "러브 고고",
+      "awardYear": 1997,
+      "winner": "Chen Jin Xing",
+      "releaseDate": "1997",
+      "originalTitle": "愛情來了",
+      "externalIds": {
+        "imdb": "tt0168973"
+      }
+    },
+    {
+      "id": "golden-horse-1998-best-supporting-actor-item-35",
+      "mediaType": "movie",
+      "title": "쾌락과 타락",
+      "awardYear": 1998,
+      "winner": "Eric Tsang",
+      "releaseDate": "1998",
+      "originalTitle": "愈快樂愈墮落",
+      "externalIds": {
+        "imdb": "tt0144029"
+      }
+    },
+    {
+      "id": "golden-horse-1999-best-supporting-actor-item-36",
+      "mediaType": "movie",
+      "title": "A Chance to Die",
+      "awardYear": 1999,
+      "winner": "Dai Li Ren",
+      "releaseDate": "1999",
+      "originalTitle": "想死趁現在",
+      "externalIds": {
+        "imdb": "tt0270271"
+      }
+    },
+    {
+      "id": "golden-horse-2000-best-supporting-actor-item-37",
+      "mediaType": "movie",
+      "title": "The Cabbie",
+      "awardYear": 2000,
+      "winner": "Tai Bo",
+      "releaseDate": "2000",
+      "originalTitle": "運轉手之戀",
+      "externalIds": {
+        "imdb": "tt0265107"
+      }
+    },
+    {
+      "id": "golden-horse-2001-best-supporting-actor-item-38",
+      "mediaType": "movie",
+      "title": "Born Wild",
+      "awardYear": 2001,
+      "winner": "Tan Yao Wen",
+      "releaseDate": "2001",
+      "originalTitle": "野獸之瞳",
+      "externalIds": {
+        "imdb": "tt0287155"
+      }
+    },
+    {
+      "id": "golden-horse-2002-best-supporting-actor-item-39",
+      "mediaType": "movie",
+      "title": "Princess D",
+      "awardYear": 2002,
+      "winner": "Anthony Wong",
+      "releaseDate": "2002",
+      "originalTitle": "想飛",
+      "externalIds": {
+        "imdb": "tt0282860"
+      }
+    },
+    {
+      "id": "golden-horse-2003-best-supporting-actor-item-40",
+      "mediaType": "movie",
+      "title": "무간도",
+      "awardYear": 2003,
+      "winner": "Anthony Wong",
+      "releaseDate": "2003",
+      "originalTitle": "無間道",
+      "externalIds": {
+        "imdb": "tt0338564"
+      }
+    },
+    {
+      "id": "golden-horse-2004-best-supporting-actor-item-41",
+      "mediaType": "movie",
+      "title": "뉴 폴리스 스토리",
+      "awardYear": 2004,
+      "winner": "Daniel Wu",
+      "releaseDate": "2004",
+      "originalTitle": "新警察故事",
+      "externalIds": {
+        "imdb": "tt0386005"
+      }
+    },
+    {
+      "id": "golden-horse-2005-best-supporting-actor-item-42",
+      "mediaType": "movie",
+      "title": "이니셜 D",
+      "awardYear": 2005,
+      "winner": "Anthony Wong",
+      "releaseDate": "2005",
+      "originalTitle": "頭文字D",
+      "externalIds": {
+        "imdb": "tt0439630"
+      }
+    },
+    {
+      "id": "golden-horse-2006-best-supporting-actor-item-43",
+      "mediaType": "movie",
+      "title": "아버지와 아들",
+      "awardYear": 2006,
+      "winner": "Wu Hong Tao",
+      "releaseDate": "2006",
+      "originalTitle": "父子",
+      "externalIds": {
+        "imdb": "tt0768114"
+      }
+    },
+    {
+      "id": "golden-horse-2007-best-supporting-actor-item-44",
+      "mediaType": "movie",
+      "title": "드러머",
+      "awardYear": 2007,
+      "winner": "Tony Leung Ka-fai",
+      "releaseDate": "2007",
+      "originalTitle": "戰·鼓",
+      "externalIds": {
+        "imdb": "tt0831386"
+      }
+    },
+    {
+      "id": "golden-horse-2008-best-supporting-actor-item-45",
+      "mediaType": "movie",
+      "title": "하이자오 7번지",
+      "awardYear": 2008,
+      "winner": "Ma Ru Long",
+      "releaseDate": "2008",
+      "originalTitle": "海角七號",
+      "externalIds": {
+        "imdb": "tt1267160"
+      }
+    },
+    {
+      "id": "golden-horse-2009-best-supporting-actor-item-46",
+      "mediaType": "movie",
+      "title": "매란방",
+      "awardYear": 2009,
+      "winner": "Wang Xue Qi",
+      "releaseDate": "2009",
+      "originalTitle": "梅蘭芳",
+      "externalIds": {
+        "imdb": "tt0851532"
+      }
+    },
+    {
+      "id": "golden-horse-2010-best-supporting-actor-item-47",
+      "mediaType": "movie",
+      "title": "Seven Days in Heaven",
+      "awardYear": 2010,
+      "winner": "Wu Peng Feng",
+      "releaseDate": "2010",
+      "originalTitle": "父後七日",
+      "externalIds": {
+        "imdb": "tt1745704"
+      }
+    },
+    {
+      "id": "golden-horse-2011-best-supporting-actor-item-48",
+      "mediaType": "movie",
+      "title": "워리어스 레인보우: 항전의 시작",
+      "awardYear": 2011,
+      "winner": "Xu Yi Fan",
+      "releaseDate": "2011",
+      "originalTitle": "賽德克·巴萊",
+      "externalIds": {
+        "imdb": "tt2007993"
+      }
+    },
+    {
+      "id": "golden-horse-2012-best-supporting-actor-item-49",
+      "mediaType": "movie",
+      "title": "저속희극",
+      "awardYear": 2012,
+      "winner": "Zheng Zhong Ji",
+      "releaseDate": "2012",
+      "originalTitle": "低俗喜劇",
+      "externalIds": {
+        "imdb": "tt2266938"
+      }
+    },
+    {
+      "id": "golden-horse-2013-best-supporting-actor-item-50",
+      "mediaType": "movie",
+      "title": "Back to 1942",
+      "awardYear": 2013,
+      "winner": "Li Xue Jian",
+      "releaseDate": "2013",
+      "originalTitle": "一九四二",
+      "externalIds": {
+        "imdb": "tt2113822"
+      }
+    },
+    {
+      "id": "golden-horse-2014-best-supporting-actor-item-51",
+      "mediaType": "movie",
+      "title": "군중낙원",
+      "awardYear": 2014,
+      "winner": "Chen Jianbin",
+      "releaseDate": "2014",
+      "originalTitle": "軍中樂園",
+      "externalIds": {
+        "imdb": "tt4012914"
+      }
+    },
+    {
+      "id": "golden-horse-2015-best-supporting-actor-item-52",
+      "mediaType": "movie",
+      "title": "기항지",
+      "awardYear": 2015,
+      "winner": "Michael Ning",
+      "releaseDate": "2015",
+      "originalTitle": "踏血尋梅",
+      "externalIds": {
+        "imdb": "tt4417522"
+      }
+    },
+    {
+      "id": "golden-horse-2016-best-supporting-actor-tt5827496",
+      "mediaType": "movie",
+      "title": "카페 6",
+      "awardYear": 2016,
+      "winner": "Austin Lin",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5827496"
+      },
+      "originalTitle": "六弄咖啡館"
+    },
+    {
+      "id": "golden-horse-2017-best-supporting-actor-tt7491398",
+      "mediaType": "movie",
+      "title": "Alifu, the Prince/ss",
+      "awardYear": 2017,
+      "winner": "Chen Zhusheng",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7491398"
+      },
+      "originalTitle": "阿莉芙"
+    },
+    {
+      "id": "golden-horse-2018-best-supporting-actor-tt7762748",
+      "mediaType": "movie",
+      "title": "트레이시",
+      "awardYear": 2018,
+      "winner": "Ben Yuen",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7762748"
+      },
+      "originalTitle": "翠絲"
+    },
+    {
+      "id": "golden-horse-2019-best-supporting-actor-tt10883506",
+      "mediaType": "movie",
+      "title": "아호, 나의 아들",
+      "awardYear": 2019,
+      "winner": "Liu Kuan-ting",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10883506"
+      },
+      "originalTitle": "陽光普照"
+    },
+    {
+      "id": "golden-horse-2020-best-supporting-actor-tt12899858",
+      "mediaType": "movie",
+      "title": "클래스메이트 마이너스",
+      "awardYear": 2020,
+      "winner": "Nadow Lin",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt12899858"
+      },
+      "originalTitle": "同學麥娜絲"
+    },
+    {
+      "id": "golden-horse-2021-best-supporting-actor-tt15445440",
+      "mediaType": "movie",
+      "title": "속거나 속이거나",
+      "awardYear": 2021,
+      "winner": "Liu Kuan-ting",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt15445440"
+      },
+      "originalTitle": "詭扯"
+    },
+    {
+      "id": "golden-horse-2022-best-supporting-actor-tt22476934",
+      "mediaType": "movie",
+      "title": "흑교육",
+      "awardYear": 2022,
+      "winner": "Berant Zhu",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt22476934"
+      },
+      "originalTitle": "黑的教育"
+    },
+    {
+      "id": "golden-horse-2023-best-supporting-actor-tt29452517",
+      "mediaType": "movie",
+      "title": "여우 아저씨",
+      "awardYear": 2023,
+      "winner": "Akio Chen",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt29452517"
+      },
+      "originalTitle": "老狐狸"
+    },
+    {
+      "id": "golden-horse-2024-best-supporting-actor-tt32915791",
+      "mediaType": "movie",
+      "title": "가타오: 부전자전",
+      "awardYear": 2024,
+      "winner": "Shih Ming-shuai",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt32915791"
+      },
+      "originalTitle": "角頭－大橋頭"
+    },
+    {
+      "id": "golden-horse-2025-best-supporting-actor-tt35834522",
+      "mediaType": "movie",
+      "title": "즐거운 나의 집",
+      "awardYear": 2025,
+      "winner": "Tseng Jing-hua",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt35834522"
+      },
+      "originalTitle": "我家的事"
+    }
+  ],
+  "tags": [
+    "award",
+    "taipei",
+    "prize"
+  ]
+}

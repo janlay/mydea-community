@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T02:53:58Z",
+  "title": "百想藝術大賞 — 2018",
+  "description": "2018 年百想藝術大賞電視主要獎項獲獎記錄。",
+  "items": [
+    {
+      "id": "baeksang-2018-tv-grand-stranger",
+      "mediaType": "tv",
+      "title": "祕密森林",
+      "originalTitle": "비밀의 숲",
+      "award": "電視大獎",
+      "awardYear": 2018,
+      "awardOrder": 1,
+      "winner": "祕密森林",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6461346"
+      }
+    },
+    {
+      "id": "baeksang-2018-tv-best-mother",
+      "mediaType": "tv",
+      "title": "母親",
+      "originalTitle": "마더",
+      "award": "最佳電視劇",
+      "awardYear": 2018,
+      "awardOrder": 2,
+      "winner": "母親",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7795226"
+      }
+    },
+    {
+      "id": "baeksang-2018-tv-director-lady-dignity",
+      "mediaType": "tv",
+      "title": "有品位的她",
+      "originalTitle": "품위있는 그녀",
+      "award": "電視最佳導演",
+      "awardYear": 2018,
+      "awardOrder": 3,
+      "winner": "Kim Yun-cheol",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6898288"
+      }
+    },
+    {
+      "id": "baeksang-2018-tv-actor-stranger",
+      "mediaType": "tv",
+      "title": "祕密森林",
+      "originalTitle": "비밀의 숲",
+      "award": "電視最佳男主角",
+      "awardYear": 2018,
+      "awardOrder": 4,
+      "winner": "Cho Seung-woo",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6461346"
+      }
+    },
+    {
+      "id": "baeksang-2018-tv-actress-misty",
+      "mediaType": "tv",
+      "title": "迷霧",
+      "originalTitle": "미스티",
+      "award": "電視最佳女主角",
+      "awardYear": 2018,
+      "awardOrder": 5,
+      "winner": "Kim Nam-joo",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7890244"
+      }
+    }
+  ]
+}

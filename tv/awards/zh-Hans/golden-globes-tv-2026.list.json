@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "金球奖 2026",
+  "description": "2026 金球奖电视作品类获奖名单。",
+  "items": [
+    {
+      "id": "golden-globes-2026-tv_drama-the-pitt",
+      "mediaType": "tv",
+      "title": "匹兹堡医护前线",
+      "englishTitle": "The Pitt",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31938062"
+      },
+      "award": "最佳剧情类剧集",
+      "awardYear": 2026,
+      "awardOrder": 1,
+      "winner": "匹兹堡医护前线"
+    },
+    {
+      "id": "golden-globes-2026-tv_comedy-the-studio",
+      "mediaType": "tv",
+      "title": "片厂风云",
+      "englishTitle": "The Studio",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt23649128"
+      },
+      "award": "最佳音乐或喜剧类剧集",
+      "awardYear": 2026,
+      "awardOrder": 2,
+      "winner": "片厂风云"
+    },
+    {
+      "id": "golden-globes-2026-limited-adolescence",
+      "mediaType": "tv",
+      "title": "混沌少年时",
+      "englishTitle": "Adolescence",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31806037"
+      },
+      "award": "最佳限定剧、选集剧或电视电影",
+      "awardYear": 2026,
+      "awardOrder": 3,
+      "winner": "混沌少年时"
+    }
+  ]
+}

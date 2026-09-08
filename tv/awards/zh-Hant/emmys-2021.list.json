@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T05:03:35Z",
+  "title": "黃金時段艾美獎 2021 年獲獎名單",
+  "description": "第 73 屆黃金時段艾美獎主要獎項獲獎記錄。",
+  "items": [
+    {
+      "id": "emmys-2021-drama-series-the-crown",
+      "mediaType": "tv",
+      "title": "王冠",
+      "originalTitle": "The Crown",
+      "award": "最佳劇情類影集",
+      "awardYear": 2021,
+      "awardOrder": 1,
+      "winner": "The Crown",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4786824"
+      }
+    },
+    {
+      "id": "emmys-2021-comedy-series-ted-lasso",
+      "mediaType": "tv",
+      "title": "足球教練",
+      "originalTitle": "Ted Lasso",
+      "award": "最佳喜劇類影集",
+      "awardYear": 2021,
+      "awardOrder": 2,
+      "winner": "Ted Lasso",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10986410"
+      }
+    },
+    {
+      "id": "emmys-2021-limited-series-the-queen-s-gambit",
+      "mediaType": "tv",
+      "title": "后翼棄兵",
+      "originalTitle": "The Queen's Gambit",
+      "award": "最佳有限影集或詩選影集",
+      "awardYear": 2021,
+      "awardOrder": 3,
+      "winner": "The Queen's Gambit",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10048342"
+      }
+    },
+    {
+      "id": "emmys-2021-lead-actor-drama-the-crown",
+      "mediaType": "tv",
+      "title": "王冠",
+      "originalTitle": "The Crown",
+      "award": "劇情類最佳男主角",
+      "awardYear": 2021,
+      "awardOrder": 4,
+      "winner": "Josh O'Connor",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4786824"
+      }
+    },
+    {
+      "id": "emmys-2021-lead-actress-drama-the-crown",
+      "mediaType": "tv",
+      "title": "王冠",
+      "originalTitle": "The Crown",
+      "award": "劇情類最佳女主角",
+      "awardYear": 2021,
+      "awardOrder": 5,
+      "winner": "Olivia Colman",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4786824"
+      }
+    },
+    {
+      "id": "emmys-2021-lead-actor-comedy-ted-lasso",
+      "mediaType": "tv",
+      "title": "足球教練",
+      "originalTitle": "Ted Lasso",
+      "award": "喜劇類最佳男主角",
+      "awardYear": 2021,
+      "awardOrder": 6,
+      "winner": "Jason Sudeikis",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10986410"
+      }
+    },
+    {
+      "id": "emmys-2021-lead-actress-comedy-hacks",
+      "mediaType": "tv",
+      "title": "天后與草莓",
+      "originalTitle": "Hacks",
+      "award": "喜劇類最佳女主角",
+      "awardYear": 2021,
+      "awardOrder": 7,
+      "winner": "Jean Smart",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt11815682"
+      }
+    }
+  ]
+}

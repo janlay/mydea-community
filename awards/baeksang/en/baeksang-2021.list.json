@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-21T00:00:00Z",
+  "title": "Baeksang Arts Awards — 2021",
+  "description": "Film category winners at the 2021 Baeksang Arts Awards.",
+  "items": [
+    {
+      "id": "baeksang-2021-film-grand-book-fish",
+      "mediaType": "movie",
+      "title": "The Book of Fish",
+      "originalTitle": "자산어보",
+      "award": "Film Grand Prize",
+      "awardYear": 2021,
+      "awardOrder": 1,
+      "winner": "Lee Joon-ik",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14371900"
+      }
+    },
+    {
+      "id": "baeksang-2021-film-best-samjin",
+      "mediaType": "movie",
+      "title": "Samjin Company English Class",
+      "originalTitle": "삼진그룹 영어토익반",
+      "award": "Best Film",
+      "awardYear": 2021,
+      "awardOrder": 2,
+      "winner": "Samjin Company English Class",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt13210996"
+      }
+    },
+    {
+      "id": "baeksang-2021-film-director-voice-silence",
+      "mediaType": "movie",
+      "title": "Voice of Silence",
+      "originalTitle": "소리도 없이",
+      "award": "Best Director Film",
+      "awardYear": 2021,
+      "awardOrder": 3,
+      "winner": "Hong Eui-jeong",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10431572"
+      }
+    },
+    {
+      "id": "baeksang-2021-film-actor-voice-silence",
+      "mediaType": "movie",
+      "title": "Voice of Silence",
+      "originalTitle": "소리도 없이",
+      "award": "Best Actor Film",
+      "awardYear": 2021,
+      "awardOrder": 4,
+      "winner": "Yoo Ah-in",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10431572"
+      }
+    },
+    {
+      "id": "baeksang-2021-film-actress-call",
+      "mediaType": "movie",
+      "title": "The Call",
+      "originalTitle": "콜",
+      "award": "Best Actress Film",
+      "awardYear": 2021,
+      "awardOrder": 5,
+      "winner": "Jeon Jong-seo",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10530176"
+      }
+    }
+  ]
+}

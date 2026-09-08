@@ -1,0 +1,524 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-16T04:39:02Z",
+  "title": "日舞 — 美國劇情片評審團大獎",
+  "description": "日舞影展「美國劇情片評審團大獎」歷屆得獎作品，收錄自 1985 年起的完整得獎紀錄；並列得獎以獨立項目保留。",
+  "tags": [
+    "award",
+    "park-city",
+    "prize"
+  ],
+  "items": [
+    {
+      "id": "sundance-us-dramatic-1985-blood-simple",
+      "mediaType": "movie",
+      "title": "Blood Simple",
+      "awardYear": 1985,
+      "winner": "Joel Coen & Ethan Coen",
+      "releaseDate": "1984",
+      "externalIds": {
+        "imdb": "tt0086979"
+      }
+    },
+    {
+      "id": "sundance-us-dramatic-1986-smooth-talk",
+      "mediaType": "movie",
+      "title": "Smooth Talk",
+      "awardYear": 1986,
+      "winner": "Joyce Chopra",
+      "releaseDate": "1985",
+      "externalIds": {
+        "imdb": "tt0090037"
+      }
+    },
+    {
+      "id": "sundance-us-dramatic-1987-trouble-with-dick",
+      "mediaType": "movie",
+      "title": "Trouble with Dick",
+      "awardYear": 1987,
+      "winner": "Gary Walkow",
+      "releaseDate": "1987",
+      "externalIds": {
+        "imdb": "tt0094187"
+      }
+    },
+    {
+      "id": "sundance-us-dramatic-1987-waiting-for-the-moon",
+      "mediaType": "movie",
+      "title": "Waiting for the Moon",
+      "awardYear": 1987,
+      "winner": "Jill Godmilow",
+      "releaseDate": "1987",
+      "externalIds": {
+        "imdb": "tt0094286"
+      }
+    },
+    {
+      "id": "sundance-us-dramatic-1988-heat-and-sunlight",
+      "mediaType": "movie",
+      "title": "Heat and Sunlight",
+      "awardYear": 1988,
+      "winner": "Rob Nilsson",
+      "releaseDate": "1987",
+      "externalIds": {
+        "imdb": "tt0093165"
+      }
+    },
+    {
+      "id": "sundance-us-dramatic-1989-true-love",
+      "mediaType": "movie",
+      "title": "True Love",
+      "awardYear": 1989,
+      "winner": "Nancy Savoca",
+      "releaseDate": "1989",
+      "externalIds": {
+        "imdb": "tt0098528"
+      }
+    },
+    {
+      "id": "sundance-us-dramatic-1990-chameleon-street",
+      "mediaType": "movie",
+      "title": "Chameleon Street",
+      "awardYear": 1990,
+      "winner": "Wendell B. Harris Jr.",
+      "releaseDate": "1989",
+      "externalIds": {
+        "imdb": "tt0101561"
+      }
+    },
+    {
+      "id": "sundance-us-dramatic-1991-poison",
+      "mediaType": "movie",
+      "title": "Poison",
+      "awardYear": 1991,
+      "winner": "Todd Haynes",
+      "releaseDate": "1991",
+      "externalIds": {
+        "imdb": "tt0102687"
+      }
+    },
+    {
+      "id": "sundance-us-dramatic-1992-in-the-soup",
+      "mediaType": "movie",
+      "title": "In the Soup",
+      "awardYear": 1992,
+      "winner": "Alexandre Rockwell",
+      "releaseDate": "1992",
+      "externalIds": {
+        "imdb": "tt0104503"
+      }
+    },
+    {
+      "id": "sundance-us-dramatic-1993-ruby-in-paradise",
+      "mediaType": "movie",
+      "title": "Ruby in Paradise",
+      "awardYear": 1993,
+      "winner": "Victor Nuñez",
+      "releaseDate": "1993",
+      "externalIds": {
+        "imdb": "tt0108000"
+      }
+    },
+    {
+      "id": "sundance-us-dramatic-1993-public-access",
+      "mediaType": "movie",
+      "title": "Public Access",
+      "awardYear": 1993,
+      "winner": "Bryan Singer",
+      "releaseDate": "1993",
+      "externalIds": {
+        "imdb": "tt0107895"
+      }
+    },
+    {
+      "id": "sundance-us-dramatic-1994-what-happened-was",
+      "mediaType": "movie",
+      "title": "What Happened Was...",
+      "awardYear": 1994,
+      "winner": "Tom Noonan",
+      "releaseDate": "1994",
+      "externalIds": {
+        "imdb": "tt0111689"
+      }
+    },
+    {
+      "id": "sundance-us-dramatic-1995-the-brothers-mcmullen",
+      "mediaType": "movie",
+      "title": "The Brothers McMullen",
+      "awardYear": 1995,
+      "winner": "Edward Burns",
+      "releaseDate": "1995",
+      "externalIds": {
+        "imdb": "tt0112585"
+      }
+    },
+    {
+      "id": "sundance-us-dramatic-1995-the-young-poisoner-s-handbook",
+      "mediaType": "movie",
+      "title": "The Young Poisoner's Handbook",
+      "awardYear": 1995,
+      "winner": "Benjamin Ross",
+      "releaseDate": "1995",
+      "externalIds": {
+        "imdb": "tt0115033"
+      }
+    },
+    {
+      "id": "sundance-us-dramatic-1996-welcome-to-the-dollhouse",
+      "mediaType": "movie",
+      "title": "Welcome to the Dollhouse",
+      "awardYear": 1996,
+      "winner": "Todd Solondz",
+      "releaseDate": "1995",
+      "externalIds": {
+        "imdb": "tt0114906"
+      }
+    },
+    {
+      "id": "sundance-us-dramatic-1997-sunday",
+      "mediaType": "movie",
+      "title": "Sunday",
+      "awardYear": 1997,
+      "winner": "Jonathan Nossiter",
+      "releaseDate": "1997",
+      "externalIds": {
+        "imdb": "tt0120244"
+      }
+    },
+    {
+      "id": "sundance-us-dramatic-1998-slam",
+      "mediaType": "movie",
+      "title": "Slam",
+      "awardYear": 1998,
+      "winner": "Marc Levin",
+      "releaseDate": "1998",
+      "externalIds": {
+        "imdb": "tt0139615"
+      }
+    },
+    {
+      "id": "sundance-us-dramatic-1999-three-seasons",
+      "mediaType": "movie",
+      "title": "Three Seasons",
+      "awardYear": 1999,
+      "winner": "Tony Bui",
+      "releaseDate": "1999",
+      "externalIds": {
+        "imdb": "tt0138874"
+      }
+    },
+    {
+      "id": "sundance-us-dramatic-2000-girlfight",
+      "mediaType": "movie",
+      "title": "Girlfight",
+      "awardYear": 2000,
+      "winner": "Karyn Kusama",
+      "releaseDate": "2000",
+      "externalIds": {
+        "imdb": "tt0210075"
+      }
+    },
+    {
+      "id": "sundance-us-dramatic-2000-you-can-count-on-me",
+      "mediaType": "movie",
+      "title": "You Can Count on Me",
+      "awardYear": 2000,
+      "winner": "Kenneth Lonergan",
+      "releaseDate": "2000",
+      "externalIds": {
+        "imdb": "tt0203230"
+      }
+    },
+    {
+      "id": "sundance-us-dramatic-2001-the-believer",
+      "mediaType": "movie",
+      "title": "The Believer",
+      "awardYear": 2001,
+      "winner": "Henry Bean",
+      "releaseDate": "2001",
+      "externalIds": {
+        "imdb": "tt0247199"
+      }
+    },
+    {
+      "id": "sundance-us-dramatic-2002-personal-velocity",
+      "mediaType": "movie",
+      "title": "Personal Velocity",
+      "awardYear": 2002,
+      "winner": "Rebecca Miller",
+      "releaseDate": "2002",
+      "externalIds": {
+        "imdb": "tt0295238"
+      }
+    },
+    {
+      "id": "sundance-us-dramatic-2003-american-splendor",
+      "mediaType": "movie",
+      "title": "American Splendor",
+      "awardYear": 2003,
+      "winner": "Shari Springer Berman & Robert Pulcini",
+      "releaseDate": "2003",
+      "externalIds": {
+        "imdb": "tt0305206"
+      }
+    },
+    {
+      "id": "sundance-us-dramatic-2004-primer",
+      "mediaType": "movie",
+      "title": "Primer",
+      "awardYear": 2004,
+      "winner": "Shane Carruth",
+      "releaseDate": "2004",
+      "externalIds": {
+        "imdb": "tt0390384"
+      }
+    },
+    {
+      "id": "sundance-us-dramatic-2005-forty-shades-of-blue",
+      "mediaType": "movie",
+      "title": "Forty Shades of Blue",
+      "awardYear": 2005,
+      "winner": "Ira Sachs",
+      "releaseDate": "2005",
+      "externalIds": {
+        "imdb": "tt0395543"
+      }
+    },
+    {
+      "id": "sundance-us-dramatic-2006-quinceanera",
+      "mediaType": "movie",
+      "title": "Quinceañera",
+      "awardYear": 2006,
+      "winner": "Richard Glatzer & Wash Westmoreland",
+      "releaseDate": "2006",
+      "externalIds": {
+        "imdb": "tt0451176"
+      }
+    },
+    {
+      "id": "sundance-us-dramatic-2007-padre-nuestro",
+      "mediaType": "movie",
+      "title": "Padre Nuestro",
+      "awardYear": 2007,
+      "winner": "Christopher Zalla",
+      "releaseDate": "2007",
+      "externalIds": {
+        "imdb": "tt0834938"
+      }
+    },
+    {
+      "id": "sundance-us-dramatic-2008-frozen-river",
+      "mediaType": "movie",
+      "title": "Frozen River",
+      "awardYear": 2008,
+      "winner": "Courtney Hunt",
+      "releaseDate": "2008",
+      "externalIds": {
+        "imdb": "tt0978759"
+      }
+    },
+    {
+      "id": "sundance-us-dramatic-2009-precious-based-on-the-novel-push-by-sapphire",
+      "mediaType": "movie",
+      "title": "Precious: Based on the Novel 'Push' by Sapphire",
+      "awardYear": 2009,
+      "winner": "Lee Daniels",
+      "releaseDate": "2009",
+      "externalIds": {
+        "imdb": "tt0929632"
+      }
+    },
+    {
+      "id": "sundance-us-dramatic-2010-winter-s-bone",
+      "mediaType": "movie",
+      "title": "Winter's Bone",
+      "awardYear": 2010,
+      "winner": "Debra Granik",
+      "releaseDate": "2010",
+      "externalIds": {
+        "imdb": "tt1399683"
+      }
+    },
+    {
+      "id": "sundance-us-dramatic-2011-like-crazy",
+      "mediaType": "movie",
+      "title": "Like Crazy",
+      "awardYear": 2011,
+      "winner": "Drake Doremus",
+      "releaseDate": "2011",
+      "externalIds": {
+        "imdb": "tt1758692"
+      }
+    },
+    {
+      "id": "sundance-us-dramatic-2012-beasts-of-the-southern-wild",
+      "mediaType": "movie",
+      "title": "Beasts of the Southern Wild",
+      "awardYear": 2012,
+      "winner": "Benh Zeitlin",
+      "releaseDate": "2012",
+      "externalIds": {
+        "imdb": "tt2125435"
+      }
+    },
+    {
+      "id": "sundance-us-dramatic-2013-fruitvale-station",
+      "mediaType": "movie",
+      "title": "Fruitvale Station",
+      "awardYear": 2013,
+      "winner": "Ryan Coogler",
+      "releaseDate": "2013",
+      "externalIds": {
+        "imdb": "tt2334649"
+      }
+    },
+    {
+      "id": "sundance-us-dramatic-2014-whiplash",
+      "mediaType": "movie",
+      "title": "進擊的鼓手",
+      "englishTitle": "Whiplash",
+      "awardYear": 2014,
+      "winner": "Damien Chazelle",
+      "releaseDate": "2014",
+      "externalIds": {
+        "imdb": "tt2582802"
+      }
+    },
+    {
+      "id": "sundance-us-dramatic-2015-me-and-earl-and-the-dying-girl",
+      "mediaType": "movie",
+      "title": "Me and Earl and the Dying Girl",
+      "awardYear": 2015,
+      "winner": "Alfonso Gomez-Rejon",
+      "releaseDate": "2015",
+      "externalIds": {
+        "imdb": "tt2582496"
+      }
+    },
+    {
+      "id": "sundance-us-dramatic-2016-the-birth-of-a-nation",
+      "mediaType": "movie",
+      "title": "The Birth of a Nation",
+      "awardYear": 2016,
+      "winner": "Nate Parker",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4196450"
+      }
+    },
+    {
+      "id": "sundance-us-dramatic-2017-i-don-t-feel-at-home-in-this-world-anymore",
+      "mediaType": "movie",
+      "title": "I Don't Feel at Home in This World Anymore",
+      "awardYear": 2017,
+      "winner": "Macon Blair",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5710514"
+      }
+    },
+    {
+      "id": "sundance-us-dramatic-2018-the-miseducation-of-cameron-post",
+      "mediaType": "movie",
+      "title": "The Miseducation of Cameron Post",
+      "awardYear": 2018,
+      "winner": "Desiree Akhavan",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt6257174"
+      }
+    },
+    {
+      "id": "sundance-us-dramatic-2019-clemency",
+      "mediaType": "movie",
+      "title": "Clemency",
+      "awardYear": 2019,
+      "winner": "Chinonye Chukwu",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt5577494"
+      }
+    },
+    {
+      "id": "sundance-us-dramatic-2020-minari",
+      "mediaType": "movie",
+      "title": "夢想之地",
+      "englishTitle": "Minari",
+      "awardYear": 2020,
+      "winner": "Lee Isaac Chung",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10633456"
+      }
+    },
+    {
+      "id": "sundance-us-dramatic-2021-coda",
+      "mediaType": "movie",
+      "title": "樂動心旋律",
+      "englishTitle": "CODA",
+      "awardYear": 2021,
+      "winner": "Siân Heder",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt10366460"
+      }
+    },
+    {
+      "id": "sundance-us-dramatic-2022-nanny",
+      "mediaType": "movie",
+      "title": "Nanny",
+      "awardYear": 2022,
+      "winner": "Nikyatu Jusu",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt10931784"
+      }
+    },
+    {
+      "id": "sundance-us-dramatic-2023-a-thousand-and-one",
+      "mediaType": "movie",
+      "title": "A Thousand and One",
+      "awardYear": 2023,
+      "winner": "A.V. Rockwell",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt12427158"
+      }
+    },
+    {
+      "id": "sundance-us-dramatic-2024-in-the-summers",
+      "mediaType": "movie",
+      "title": "In the Summers",
+      "awardYear": 2024,
+      "winner": "Alessandra Lacorazza",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt24805832"
+      }
+    },
+    {
+      "id": "sundance-us-dramatic-2025-atropia",
+      "mediaType": "movie",
+      "title": "Atropia",
+      "awardYear": 2025,
+      "winner": "Hailey Gates",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31122579"
+      }
+    },
+    {
+      "id": "sundance-us-dramatic-2026-josephine",
+      "mediaType": "movie",
+      "title": "Josephine",
+      "awardYear": 2026,
+      "winner": "Beth de Araújo",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt32321285"
+      }
+    }
+  ]
+}

@@ -1,0 +1,265 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-16T04:39:02Z",
+  "title": "日舞 — 世界電影劇情片評審團大獎",
+  "description": "日舞影展「世界電影劇情片評審團大獎」歷屆得獎作品，收錄自 2005 年起的完整得獎紀錄；並列得獎以獨立項目保留。",
+  "tags": [
+    "award",
+    "park-city",
+    "prize"
+  ],
+  "items": [
+    {
+      "id": "sundance-world-dramatic-2005-the-hero",
+      "mediaType": "movie",
+      "title": "The Hero",
+      "awardYear": 2005,
+      "winner": "Zézé Gamboa",
+      "releaseDate": "2004",
+      "externalIds": {
+        "imdb": "tt0424142"
+      }
+    },
+    {
+      "id": "sundance-world-dramatic-2006-13-tzameti",
+      "mediaType": "movie",
+      "title": "13 Tzameti",
+      "awardYear": 2006,
+      "winner": "Géla Babluani",
+      "releaseDate": "2005",
+      "externalIds": {
+        "imdb": "tt0475169"
+      }
+    },
+    {
+      "id": "sundance-world-dramatic-2007-sweet-mud",
+      "mediaType": "movie",
+      "title": "Sweet Mud",
+      "originalTitle": "Adama Meshuga'at",
+      "awardYear": 2007,
+      "winner": "Dror Shaul",
+      "releaseDate": "2006",
+      "externalIds": {
+        "imdb": "tt0498846"
+      }
+    },
+    {
+      "id": "sundance-world-dramatic-2008-the-king-of-ping-pong",
+      "mediaType": "movie",
+      "title": "The King of Ping Pong",
+      "awardYear": 2008,
+      "winner": "Jens Jonsson",
+      "releaseDate": "2008",
+      "externalIds": {
+        "imdb": "tt1110272"
+      }
+    },
+    {
+      "id": "sundance-world-dramatic-2009-the-maid",
+      "mediaType": "movie",
+      "title": "The Maid",
+      "originalTitle": "La nana",
+      "awardYear": 2009,
+      "winner": "Sebastián Silva",
+      "releaseDate": "2009",
+      "externalIds": {
+        "imdb": "tt1187044"
+      }
+    },
+    {
+      "id": "sundance-world-dramatic-2010-animal-kingdom",
+      "mediaType": "movie",
+      "title": "動物王國",
+      "englishTitle": "Animal Kingdom",
+      "awardYear": 2010,
+      "winner": "David Michôd",
+      "releaseDate": "2010",
+      "externalIds": {
+        "imdb": "tt1313092"
+      }
+    },
+    {
+      "id": "sundance-world-dramatic-2011-happy-happy",
+      "mediaType": "movie",
+      "title": "Happy, Happy",
+      "awardYear": 2011,
+      "winner": "Anne Sewitsky",
+      "releaseDate": "2010",
+      "externalIds": {
+        "imdb": "tt1664892"
+      }
+    },
+    {
+      "id": "sundance-world-dramatic-2012-violeta-went-to-heaven",
+      "mediaType": "movie",
+      "title": "Violeta Went to Heaven",
+      "originalTitle": "Violeta se fue a los cielos",
+      "awardYear": 2012,
+      "winner": "Andrés Wood",
+      "releaseDate": "2011",
+      "externalIds": {
+        "imdb": "tt2014392"
+      }
+    },
+    {
+      "id": "sundance-world-dramatic-2013-jiseul",
+      "mediaType": "movie",
+      "title": "Jiseul",
+      "awardYear": 2013,
+      "winner": "O Muel",
+      "releaseDate": "2012",
+      "externalIds": {
+        "imdb": "tt2526138"
+      }
+    },
+    {
+      "id": "sundance-world-dramatic-2014-to-kill-a-man",
+      "mediaType": "movie",
+      "title": "To Kill a Man",
+      "originalTitle": "Matar a un Hombre",
+      "awardYear": 2014,
+      "winner": "Alejandro Fernández Almendras",
+      "releaseDate": "2014",
+      "externalIds": {
+        "imdb": "tt3460152"
+      }
+    },
+    {
+      "id": "sundance-world-dramatic-2015-slow-west",
+      "mediaType": "movie",
+      "title": "Slow West",
+      "awardYear": 2015,
+      "winner": "John Maclean",
+      "releaseDate": "2015",
+      "externalIds": {
+        "imdb": "tt3205376"
+      }
+    },
+    {
+      "id": "sundance-world-dramatic-2016-sand-storm",
+      "mediaType": "movie",
+      "title": "Sand Storm",
+      "awardYear": 2016,
+      "winner": "Elite Zexer",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4365518"
+      }
+    },
+    {
+      "id": "sundance-world-dramatic-2017-the-nile-hilton-incident",
+      "mediaType": "movie",
+      "title": "The Nile Hilton Incident",
+      "awardYear": 2017,
+      "winner": "Tarik Saleh",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5540188"
+      }
+    },
+    {
+      "id": "sundance-world-dramatic-2018-butterflies",
+      "mediaType": "movie",
+      "title": "Butterflies",
+      "awardYear": 2018,
+      "winner": "Tolga Karaçelik",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7318202"
+      }
+    },
+    {
+      "id": "sundance-world-dramatic-2019-the-souvenir",
+      "mediaType": "movie",
+      "title": "The Souvenir",
+      "awardYear": 2019,
+      "winner": "Joanna Hogg",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6920356"
+      }
+    },
+    {
+      "id": "sundance-world-dramatic-2020-yalda-a-night-for-forgiveness",
+      "mediaType": "movie",
+      "title": "Yalda, a Night for Forgiveness",
+      "originalTitle": "Yalda",
+      "awardYear": 2020,
+      "winner": "Massoud Bakhshi",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt9834492"
+      }
+    },
+    {
+      "id": "sundance-world-dramatic-2021-hive",
+      "mediaType": "movie",
+      "title": "Hive",
+      "originalTitle": "Zgjoi",
+      "awardYear": 2021,
+      "winner": "Blerta Basholli",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt13648212"
+      }
+    },
+    {
+      "id": "sundance-world-dramatic-2022-utama",
+      "mediaType": "movie",
+      "title": "Utama",
+      "awardYear": 2022,
+      "winner": "Alejandro Loayza Grisi",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt10984580"
+      }
+    },
+    {
+      "id": "sundance-world-dramatic-2023-scrapper",
+      "mediaType": "movie",
+      "title": "Scrapper",
+      "awardYear": 2023,
+      "winner": "Charlotte Regan",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt8649252"
+      }
+    },
+    {
+      "id": "sundance-world-dramatic-2024-sujo",
+      "mediaType": "movie",
+      "title": "Sujo",
+      "awardYear": 2024,
+      "winner": "Astrid Rondero & Fernanda Valadez",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt30320410"
+      }
+    },
+    {
+      "id": "sundance-world-dramatic-2025-sabar-bonda-cactus-pears",
+      "mediaType": "movie",
+      "title": "Sabar Bonda (Cactus Pears)",
+      "originalTitle": "Sabar Bonda",
+      "awardYear": 2025,
+      "winner": "Rohan Parashuram Kanawade",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt29310002"
+      }
+    },
+    {
+      "id": "sundance-world-dramatic-2026-shame-and-money",
+      "mediaType": "movie",
+      "title": "Shame and Money",
+      "awardYear": 2026,
+      "winner": "Visar Morina",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt39140264"
+      }
+    }
+  ]
+}

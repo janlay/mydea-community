@@ -1,0 +1,314 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "title": "豆瓣大师徽章",
+  "description": "豆瓣徽章计划中 13 位电影大师与影人徽章的收藏片单。",
+  "tags": [
+    "douban",
+    "badge",
+    "plan"
+  ],
+  "icon": "rosette",
+  "sections": [
+    {
+      "title": "$$collection",
+      "description": "豆瓣徽章计划「希区柯克 · 麦格芬徽章」的收藏片单，按豆瓣评分从高到低排列。",
+      "layout": "carousel",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "badge_plan_shortcut",
+          "value": "1930"
+        },
+        {
+          "name": "collection",
+          "value": "1930"
+        }
+      ]
+    },
+    {
+      "title": "$$collection",
+      "description": "豆瓣徽章计划「库布里克 · 黑石碑徽章」的收藏片单，按豆瓣评分从高到低排列。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "badge_plan_shortcut",
+          "value": "1924"
+        },
+        {
+          "name": "collection",
+          "value": "1924"
+        }
+      ]
+    },
+    {
+      "title": "$$collection",
+      "description": "豆瓣徽章计划「黑泽明 · 武士徽章」的收藏片单，按豆瓣评分从高到低排列。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "badge_plan_shortcut",
+          "value": "1936"
+        },
+        {
+          "name": "collection",
+          "value": "1936"
+        }
+      ]
+    },
+    {
+      "title": "$$collection",
+      "description": "豆瓣徽章计划「费里尼 · 马戏团徽章」的收藏片单，按豆瓣评分从高到低排列。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "badge_plan_shortcut",
+          "value": "1959"
+        },
+        {
+          "name": "collection",
+          "value": "1959"
+        }
+      ]
+    },
+    {
+      "title": "$$collection",
+      "description": "豆瓣徽章计划「侯麦 · 绿光徽章」的收藏片单，按豆瓣评分从高到低排列。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "badge_plan_shortcut",
+          "value": "1972"
+        },
+        {
+          "name": "collection",
+          "value": "1972"
+        }
+      ]
+    },
+    {
+      "title": "$$collection",
+      "description": "豆瓣徽章计划「伯格曼 · 假面徽章」的收藏片单，按豆瓣评分从高到低排列。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "badge_plan_shortcut",
+          "value": "1942"
+        },
+        {
+          "name": "collection",
+          "value": "1942"
+        }
+      ]
+    },
+    {
+      "title": "$$collection",
+      "description": "豆瓣徽章计划「塔可夫斯基 · 潜行者徽章」的收藏片单，按豆瓣评分从高到低排列。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "badge_plan_shortcut",
+          "value": "1956"
+        },
+        {
+          "name": "collection",
+          "value": "1956"
+        }
+      ]
+    },
+    {
+      "title": "$$collection",
+      "description": "豆瓣徽章计划「安东尼奥尼 · 放大徽章」的收藏片单，按豆瓣评分从高到低排列。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "badge_plan_shortcut",
+          "value": "1963"
+        },
+        {
+          "name": "collection",
+          "value": "1963"
+        }
+      ]
+    },
+    {
+      "title": "$$collection",
+      "description": "豆瓣徽章计划「安哲罗普洛斯 · 时间徽章」的收藏片单，按豆瓣评分从高到低排列。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "badge_plan_shortcut",
+          "value": "1970"
+        },
+        {
+          "name": "collection",
+          "value": "1970"
+        }
+      ]
+    },
+    {
+      "title": "$$collection",
+      "description": "豆瓣徽章计划「今敏 · 造梦徽章」的收藏片单，按豆瓣评分从高到低排列。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "badge_plan_shortcut",
+          "value": "1933"
+        },
+        {
+          "name": "collection",
+          "value": "1933"
+        }
+      ]
+    },
+    {
+      "title": "$$collection",
+      "description": "豆瓣徽章计划「杨德昌 · 追风徽章」的收藏片单，按豆瓣评分从高到低排列。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "badge_plan_shortcut",
+          "value": "1943"
+        },
+        {
+          "name": "collection",
+          "value": "1943"
+        }
+      ]
+    },
+    {
+      "title": "$$collection",
+      "description": "豆瓣徽章计划「张国荣 · 无脚鸟徽章」的收藏片单，按豆瓣评分从高到低排列。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "badge_plan_shortcut",
+          "value": "2254"
+        },
+        {
+          "name": "collection",
+          "value": "2254"
+        }
+      ]
+    },
+    {
+      "title": "$$collection",
+      "description": "豆瓣徽章计划「奥黛丽·赫本 · 丽人徽章」的收藏片单，按豆瓣评分从高到低排列。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "badge_plan_shortcut",
+          "value": "2313"
+        },
+        {
+          "name": "collection",
+          "value": "2313"
+        }
+      ]
+    }
+  ]
+}

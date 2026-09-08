@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T02:54:20Z",
+  "title": "青龙电影奖 — 最佳新人男演员",
+  "description": "韩国青龙电影奖最佳新人男演员2016–2025年获奖记录。",
+  "items": [
+    {
+      "id": "blue-dragon-2016-best-new-actor-dongju",
+      "mediaType": "movie",
+      "title": "东柱",
+      "originalTitle": "동주",
+      "englishTitle": "Dongju: The Portrait of a Poet",
+      "awardYear": 2016,
+      "winner": "Park Jeong-min",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5799928"
+      }
+    },
+    {
+      "id": "blue-dragon-2017-best-new-actor-my-annoying-brother",
+      "mediaType": "movie",
+      "title": "哥哥",
+      "originalTitle": "형",
+      "englishTitle": "My Annoying Brother",
+      "awardYear": 2017,
+      "winner": "Do Kyung-soo",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt6388082"
+      }
+    },
+    {
+      "id": "blue-dragon-2018-best-new-actor-great-battle",
+      "mediaType": "movie",
+      "title": "安市城",
+      "originalTitle": "안시성",
+      "englishTitle": "The Great Battle",
+      "awardYear": 2018,
+      "winner": "Nam Joo-hyuk",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt6931414"
+      }
+    },
+    {
+      "id": "blue-dragon-2019-best-new-actor-quantum-physics",
+      "mediaType": "movie",
+      "title": "量子物理学",
+      "originalTitle": "양자물리학",
+      "englishTitle": "By Quantum Physics: A Nightlife Venture",
+      "awardYear": 2019,
+      "winner": "Park Hae-soo",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt11022284"
+      }
+    },
+    {
+      "id": "blue-dragon-2020-best-new-actor-vertigo",
+      "mediaType": "movie",
+      "title": "眩晕",
+      "originalTitle": "버티고",
+      "englishTitle": "Vertigo",
+      "awardYear": 2020,
+      "winner": "Yoo Teo",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt11135842"
+      }
+    },
+    {
+      "id": "blue-dragon-2021-best-new-actor-not-out",
+      "mediaType": "movie",
+      "title": "未出局",
+      "originalTitle": "낫아웃",
+      "englishTitle": "Not Out",
+      "awardYear": 2021,
+      "winner": "Jeong Jae-kwang",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14627004"
+      }
+    },
+    {
+      "id": "blue-dragon-2022-best-new-actor-in-our-prime",
+      "mediaType": "movie",
+      "title": "奇怪国家的数学家",
+      "originalTitle": "이상한 나라의 수학자",
+      "englishTitle": "In Our Prime",
+      "awardYear": 2022,
+      "winner": "Kim Dong-hwi",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt12663772"
+      }
+    },
+    {
+      "id": "blue-dragon-2023-best-new-actor-hopeless",
+      "mediaType": "movie",
+      "title": "祸乱",
+      "originalTitle": "화란",
+      "englishTitle": "Hopeless",
+      "awardYear": 2023,
+      "winner": "Hong Sa-bin",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt27502351"
+      }
+    },
+    {
+      "id": "blue-dragon-2024-best-new-actor-love-big-city",
+      "mediaType": "movie",
+      "title": "大都市的爱情法",
+      "originalTitle": "대도시의 사랑법",
+      "englishTitle": "Love in the Big City",
+      "awardYear": 2024,
+      "winner": "Noh Sang-hyun",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt33022813"
+      }
+    },
+    {
+      "id": "blue-dragon-2025-best-new-actor-pretty-crazy",
+      "mediaType": "movie",
+      "title": "恶魔搬进来了",
+      "originalTitle": "악마가 이사왔다",
+      "englishTitle": "Pretty Crazy",
+      "awardYear": 2025,
+      "winner": "Ahn Bo-hyun",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt35382678"
+      }
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T00:00:00Z",
+  "title": "青龍映画賞 — 2022",
+  "description": "2022年青龍映画賞、主要10部門の受賞記録。",
+  "items": [
+    {
+      "id": "blue-dragon-2022-best-film-decision-leave",
+      "mediaType": "movie",
+      "title": "別れる決心",
+      "originalTitle": "헤어질 결심",
+      "award": "最優秀作品賞",
+      "awardYear": 2022,
+      "awardOrder": 1,
+      "winner": "パク・チャヌク",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt12477480"
+      }
+    },
+    {
+      "id": "blue-dragon-2022-best-director-decision-leave",
+      "mediaType": "movie",
+      "title": "別れる決心",
+      "originalTitle": "헤어질 결심",
+      "award": "監督賞",
+      "awardYear": 2022,
+      "awardOrder": 2,
+      "winner": "パク・チャヌク",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt12477480"
+      }
+    },
+    {
+      "id": "blue-dragon-2022-best-actor-decision-leave",
+      "mediaType": "movie",
+      "title": "別れる決心",
+      "originalTitle": "헤어질 결심",
+      "award": "主演男優賞",
+      "awardYear": 2022,
+      "awardOrder": 3,
+      "winner": "パク・ヘイル",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt12477480"
+      }
+    },
+    {
+      "id": "blue-dragon-2022-best-actress-decision-leave",
+      "mediaType": "movie",
+      "title": "別れる決心",
+      "originalTitle": "헤어질 결심",
+      "award": "主演女優賞",
+      "awardYear": 2022,
+      "awardOrder": 4,
+      "winner": "タン・ウェイ",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt12477480"
+      }
+    },
+    {
+      "id": "blue-dragon-2022-best-supporting-actor-hansan",
+      "mediaType": "movie",
+      "title": "ハンサン ―龍の出現―",
+      "originalTitle": "한산: 용의 출현",
+      "award": "助演男優賞",
+      "awardYear": 2022,
+      "awardOrder": 5,
+      "winner": "ピョン・ヨハン",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt21109538"
+      }
+    },
+    {
+      "id": "blue-dragon-2022-best-supporting-actress-perhaps-love",
+      "mediaType": "movie",
+      "title": "Perhaps Love",
+      "originalTitle": "장르만 로맨스",
+      "award": "助演女優賞",
+      "awardYear": 2022,
+      "awardOrder": 6,
+      "winner": "オ・ナラ",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt15587126"
+      }
+    },
+    {
+      "id": "blue-dragon-2022-best-new-director-hunt",
+      "mediaType": "movie",
+      "title": "ハント",
+      "originalTitle": "헌트",
+      "award": "新人監督賞",
+      "awardYear": 2022,
+      "awardOrder": 7,
+      "winner": "イ・ジョンジェ",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt6931658"
+      }
+    },
+    {
+      "id": "blue-dragon-2022-best-new-actor-in-our-prime",
+      "mediaType": "movie",
+      "title": "In Our Prime",
+      "originalTitle": "이상한 나라의 수학자",
+      "award": "新人男優賞",
+      "awardYear": 2022,
+      "awardOrder": 8,
+      "winner": "キム・ドンフィ",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt12663772"
+      }
+    },
+    {
+      "id": "blue-dragon-2022-best-new-actress-bulldozer-girl",
+      "mediaType": "movie",
+      "title": "The Girl on a Bulldozer",
+      "originalTitle": "불도저에 탄 소녀",
+      "award": "新人女優賞",
+      "awardYear": 2022,
+      "awardOrder": 9,
+      "winner": "キム・ヘユン",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt19632924"
+      }
+    },
+    {
+      "id": "blue-dragon-2022-best-screenplay-decision-leave",
+      "mediaType": "movie",
+      "title": "別れる決心",
+      "originalTitle": "헤어질 결심",
+      "award": "脚本賞",
+      "awardYear": 2022,
+      "awardOrder": 10,
+      "winner": "パク・チャヌク & チョン・ソギョン",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt12477480"
+      }
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "ゴールデングローブ賞 2024",
+  "description": "2024年のゴールデングローブ賞映画部門の受賞一覧。",
+  "items": [
+    {
+      "id": "golden-globes-2024-drama-oppenheimer",
+      "mediaType": "movie",
+      "title": "オッペンハイマー",
+      "englishTitle": "Oppenheimer",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt15398776"
+      },
+      "award": "作品賞 ドラマ部門",
+      "awardYear": 2024,
+      "awardOrder": 1,
+      "winner": "オッペンハイマー"
+    },
+    {
+      "id": "golden-globes-2024-comedy-poor-things",
+      "mediaType": "movie",
+      "title": "哀れなるものたち",
+      "englishTitle": "Poor Things",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt14230458"
+      },
+      "award": "作品賞 ミュージカル・コメディ部門",
+      "awardYear": 2024,
+      "awardOrder": 2,
+      "winner": "哀れなるものたち"
+    },
+    {
+      "id": "golden-globes-2024-animated-the-boy-and-the-heron",
+      "mediaType": "movie",
+      "title": "君たちはどう生きるか",
+      "englishTitle": "The Boy and the Heron",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt6587046"
+      },
+      "award": "アニメーション映画賞",
+      "awardYear": 2024,
+      "awardOrder": 3,
+      "winner": "君たちはどう生きるか"
+    },
+    {
+      "id": "golden-globes-2024-foreign-anatomy-of-a-fall",
+      "mediaType": "movie",
+      "title": "落下の解剖学",
+      "englishTitle": "Anatomy of a Fall",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt17009710"
+      },
+      "award": "非英語映画賞",
+      "awardYear": 2024,
+      "awardOrder": 4,
+      "winner": "落下の解剖学"
+    },
+    {
+      "id": "golden-globes-2024-boxoffice-barbie",
+      "mediaType": "movie",
+      "title": "バービー",
+      "englishTitle": "Barbie",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt1517268"
+      },
+      "award": "シネマティック＆ボックスオフィス・アチーブメント賞",
+      "awardYear": 2024,
+      "awardOrder": 5,
+      "winner": "バービー"
+    }
+  ]
+}

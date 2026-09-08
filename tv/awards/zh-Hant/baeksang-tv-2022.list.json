@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T02:53:58Z",
+  "title": "百想藝術大賞 — 2022",
+  "description": "2022 年百想藝術大賞電視主要獎項獲獎記錄。",
+  "items": [
+    {
+      "id": "baeksang-2022-tv-grand-squid-game",
+      "mediaType": "tv",
+      "title": "魷魚遊戲",
+      "originalTitle": "오징어 게임",
+      "award": "電視大獎",
+      "awardYear": 2022,
+      "awardOrder": 1,
+      "winner": "魷魚遊戲",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt10919420"
+      }
+    },
+    {
+      "id": "baeksang-2022-tv-best-dp",
+      "mediaType": "tv",
+      "title": "D.P：逃兵追緝令",
+      "originalTitle": "D.P.",
+      "award": "最佳電視劇",
+      "awardYear": 2022,
+      "awardOrder": 2,
+      "winner": "D.P：逃兵追緝令",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt13024974"
+      }
+    },
+    {
+      "id": "baeksang-2022-tv-director-squid-game",
+      "mediaType": "tv",
+      "title": "魷魚遊戲",
+      "originalTitle": "오징어 게임",
+      "award": "電視最佳導演",
+      "awardYear": 2022,
+      "awardOrder": 3,
+      "winner": "Hwang Dong-hyuk",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt10919420"
+      }
+    },
+    {
+      "id": "baeksang-2022-tv-actor-red-sleeve",
+      "mediaType": "tv",
+      "title": "衣袖紅鑲邊",
+      "originalTitle": "옷소매 붉은 끝동",
+      "award": "電視最佳男主角",
+      "awardYear": 2022,
+      "awardOrder": 4,
+      "winner": "Lee Jun-ho",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14687200"
+      }
+    },
+    {
+      "id": "baeksang-2022-tv-actress-2521",
+      "mediaType": "tv",
+      "title": "二十五，二十一",
+      "originalTitle": "스물다섯 스물하나",
+      "award": "電視最佳女主角",
+      "awardYear": 2022,
+      "awardOrder": 5,
+      "winner": "Kim Tae-ri",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt17513352"
+      }
+    }
+  ]
+}

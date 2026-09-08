@@ -1,0 +1,243 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "icon": "chart.bar",
+  "title": "冷门佳作类型片",
+  "description": "豆瓣各类型片的冷门佳作榜。共 19 个类型。",
+  "tags": [
+    "douban",
+    "obscure",
+    "genre"
+  ],
+  "sections": [
+    {
+      "title": "喜剧片",
+      "layout": "carousel",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECLYOFOKA"
+        }
+      ]
+    },
+    {
+      "title": "爱情片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "EC2UOKRRQ"
+        }
+      ]
+    },
+    {
+      "title": "动作片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECVIOHY6A"
+        }
+      ]
+    },
+    {
+      "title": "科幻片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "EC2IOENJA"
+        }
+      ]
+    },
+    {
+      "title": "动画片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECTUO3I3A"
+        }
+      ]
+    },
+    {
+      "title": "悬疑片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECK4OEBJY"
+        }
+      ]
+    },
+    {
+      "title": "犯罪片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "EC7EOG3RI"
+        }
+      ]
+    },
+    {
+      "title": "惊悚片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECY4ODRSY"
+        }
+      ]
+    },
+    {
+      "title": "冒险片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECEMN5MLA"
+        }
+      ]
+    },
+    {
+      "title": "音乐片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "EC2UOKJFQ"
+        }
+      ]
+    },
+    {
+      "title": "历史片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECBAOKDHQ"
+        }
+      ]
+    },
+    {
+      "title": "奇幻片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECCMOLZQA"
+        }
+      ]
+    },
+    {
+      "title": "恐怖片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECTMOHSQY"
+        }
+      ]
+    },
+    {
+      "title": "战争片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECGEOIWRA"
+        }
+      ]
+    },
+    {
+      "title": "传记片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECRAODXXI"
+        }
+      ]
+    },
+    {
+      "title": "歌舞片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECZMOHQ3Q"
+        }
+      ]
+    },
+    {
+      "title": "武侠片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECWAOLLZQ"
+        }
+      ]
+    },
+    {
+      "title": "情色片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECGYN6NHI"
+        }
+      ]
+    },
+    {
+      "title": "灾难片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECHMOGZLQ"
+        }
+      ]
+    }
+  ]
+}

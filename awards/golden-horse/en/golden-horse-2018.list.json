@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-22T08:41:11Z",
+  "cacheTtlInDays": 365,
+  "title": "Golden Horse Awards 2018 Core Award Winners",
+  "description": "Core award-winning films and filmmakers from the 2018 Golden Horse Awards.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "golden-horse-2018-best-feature-tt8020896",
+      "mediaType": "movie",
+      "title": "An Elephant Sitting Still",
+      "award": "Best Narrative Feature",
+      "awardYear": 2018,
+      "winner": "Hu Bo",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8020896"
+      },
+      "awardOrder": 1,
+      "originalTitle": "大象席地而坐"
+    },
+    {
+      "id": "golden-horse-2018-best-director-tt6864046",
+      "mediaType": "movie",
+      "title": "Shadow",
+      "award": "Best Director",
+      "awardYear": 2018,
+      "winner": "Zhang Yimou",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt6864046"
+      },
+      "awardOrder": 2,
+      "originalTitle": "影"
+    },
+    {
+      "id": "golden-horse-2018-best-actor-tt7362036",
+      "mediaType": "movie",
+      "title": "Dying to Survive",
+      "award": "Best Leading Actor",
+      "awardYear": 2018,
+      "winner": "Xu Zheng",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7362036"
+      },
+      "awardOrder": 3,
+      "originalTitle": "我不是藥神"
+    },
+    {
+      "id": "golden-horse-2018-best-actress-tt8443704",
+      "mediaType": "movie",
+      "title": "Dear Ex",
+      "award": "Best Leading Actress",
+      "awardYear": 2018,
+      "winner": "Hsieh Ying-xuan",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8443704"
+      },
+      "awardOrder": 4,
+      "originalTitle": "誰先愛上他的"
+    },
+    {
+      "id": "golden-horse-2018-best-supporting-actor-tt7762748",
+      "mediaType": "movie",
+      "title": "Tracey",
+      "award": "Best Supporting Actor",
+      "awardYear": 2018,
+      "winner": "Ben Yuen",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7762748"
+      },
+      "awardOrder": 5,
+      "originalTitle": "翠絲"
+    },
+    {
+      "id": "golden-horse-2018-best-supporting-actress-tt4397342",
+      "mediaType": "movie",
+      "title": "Cities of Last Things",
+      "award": "Best Supporting Actress",
+      "awardYear": 2018,
+      "winner": "Ding Ning",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt4397342"
+      },
+      "awardOrder": 6,
+      "originalTitle": "幸福城市"
+    },
+    {
+      "id": "golden-horse-2018-best-new-director-tt7362036",
+      "mediaType": "movie",
+      "title": "Dying to Survive",
+      "award": "Best New Director",
+      "awardYear": 2018,
+      "winner": "Wen Muye",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7362036"
+      },
+      "awardOrder": 7,
+      "originalTitle": "我不是藥神"
+    },
+    {
+      "id": "golden-horse-2018-best-new-performer-tt7475882",
+      "mediaType": "movie",
+      "title": "Long Time No Sea",
+      "award": "Best New Performer",
+      "awardYear": 2018,
+      "winner": "Zhong Jia Jun",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7475882"
+      },
+      "awardOrder": 8,
+      "originalTitle": "只有大海知道"
+    }
+  ],
+  "tags": [
+    "award",
+    "taipei",
+    "decade"
+  ]
+}

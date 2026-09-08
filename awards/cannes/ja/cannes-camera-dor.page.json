@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "title": "カンヌ — カメラ・ドール",
+  "author": "Mydea",
+  "updatedAt": "2026-09-16T04:43:24Z",
+  "description": "カンヌ国際映画祭カメラ・ドールの歴代受賞作。",
+  "tags": [
+    "award",
+    "cannes",
+    "prize"
+  ],
+  "icon": "ticket",
+  "sections": [
+    {
+      "title": "カンヌ — カメラ・ドール",
+      "description": "カンヌ国際映画祭カメラ・ドールの歴代受賞作。 カメラ・ドール.",
+      "layout": "carousel",
+      "limit": 10,
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "cannes-camera-dor.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "カンヌ — カメラ・ドール特別賞",
+      "description": "カンヌ国際映画祭カメラ・ドールの歴代受賞作。 カメラ・ドール特別賞.",
+      "layout": "grid",
+      "limit": 10,
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "cannes-camera-dor-special-mention.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    }
+  ]
+}

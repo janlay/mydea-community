@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-16T04:39:02Z",
+  "title": "2019 선댄스 영화제 수상작",
+  "description": "2019 선댄스 영화제 4개 핵심 장편 경쟁 부문 심사위원대상 수상작.",
+  "tags": [
+    "award",
+    "park-city",
+    "decade"
+  ],
+  "items": [
+    {
+      "id": "sundance-us-dramatic-2019-clemency",
+      "mediaType": "movie",
+      "title": "Clemency",
+      "award": "미국 극영화 심사위원대상",
+      "awardYear": 2019,
+      "awardOrder": 1,
+      "winner": "Chinonye Chukwu",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt5577494"
+      }
+    },
+    {
+      "id": "sundance-us-documentary-2019-one-child-nation",
+      "mediaType": "movie",
+      "title": "One Child Nation",
+      "award": "미국 다큐멘터리 심사위원대상",
+      "awardYear": 2019,
+      "awardOrder": 2,
+      "winner": "Nanfu Wang & Jialing Zhang",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt8923482"
+      }
+    },
+    {
+      "id": "sundance-world-dramatic-2019-the-souvenir",
+      "mediaType": "movie",
+      "title": "The Souvenir",
+      "award": "월드 시네마 극영화 심사위원대상",
+      "awardYear": 2019,
+      "awardOrder": 3,
+      "winner": "Joanna Hogg",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6920356"
+      }
+    },
+    {
+      "id": "sundance-world-documentary-2019-honeyland",
+      "mediaType": "movie",
+      "title": "허니랜드",
+      "englishTitle": "Honeyland",
+      "originalTitle": "Medena zemja",
+      "award": "월드 시네마 다큐멘터리 심사위원대상",
+      "awardYear": 2019,
+      "awardOrder": 4,
+      "winner": "Tamara Kotevska & Ljubomir Stefanov",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt8991268"
+      }
+    }
+  ]
+}

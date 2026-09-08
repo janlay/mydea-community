@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-22T08:41:11Z",
+  "cacheTtlInDays": 365,
+  "title": "2025년 금마장 주요 부문 수상작",
+  "description": "2025년 금마장 주요 부문 수상작과 수상자.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "golden-horse-2025-best-feature-tt32080855",
+      "mediaType": "movie",
+      "title": "안개 낀 시절",
+      "award": "최우수 작품상",
+      "awardYear": 2025,
+      "winner": "Chen Yu-hsun",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt32080855"
+      },
+      "awardOrder": 1,
+      "originalTitle": "大濛"
+    },
+    {
+      "id": "golden-horse-2025-best-director-tt35453155",
+      "mediaType": "movie",
+      "title": "퀴어파노라마",
+      "award": "감독상",
+      "awardYear": 2025,
+      "winner": "Jun Li",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt35453155"
+      },
+      "awardOrder": 2,
+      "originalTitle": "眾生相"
+    },
+    {
+      "id": "golden-horse-2025-best-actor-tt34000545",
+      "mediaType": "movie",
+      "title": "루의 운수 좋은 날",
+      "award": "남우주연상",
+      "awardYear": 2025,
+      "winner": "Chang Chen",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt34000545"
+      },
+      "awardOrder": 3,
+      "originalTitle": "幸福之路"
+    },
+    {
+      "id": "golden-horse-2025-best-actress-tt33708662",
+      "mediaType": "movie",
+      "title": "마더 부미",
+      "award": "여우주연상",
+      "awardYear": 2025,
+      "winner": "Fan Bingbing",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt33708662"
+      },
+      "awardOrder": 4,
+      "originalTitle": "地母"
+    },
+    {
+      "id": "golden-horse-2025-best-supporting-actor-tt35834522",
+      "mediaType": "movie",
+      "title": "즐거운 나의 집",
+      "award": "남우조연상",
+      "awardYear": 2025,
+      "winner": "Tseng Jing-hua",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt35834522"
+      },
+      "awardOrder": 5,
+      "originalTitle": "我家的事"
+    },
+    {
+      "id": "golden-horse-2025-best-supporting-actress-tt38589615",
+      "mediaType": "movie",
+      "title": "The Waves Will Carry Us",
+      "award": "여우조연상",
+      "awardYear": 2025,
+      "winner": "Chen Xue Zhen",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt38589615"
+      },
+      "awardOrder": 6,
+      "originalTitle": "人生海海"
+    },
+    {
+      "id": "golden-horse-2025-best-new-director-tt34000545",
+      "mediaType": "movie",
+      "title": "루의 운수 좋은 날",
+      "award": "신인감독상",
+      "awardYear": 2025,
+      "winner": "Lloyd Lee CHOI",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt34000545"
+      },
+      "awardOrder": 7,
+      "originalTitle": "幸福之路"
+    },
+    {
+      "id": "golden-horse-2025-best-new-performer-tt27722618",
+      "mediaType": "movie",
+      "title": "왼손잡이 소녀",
+      "award": "신인배우상",
+      "awardYear": 2025,
+      "winner": "Ma Shi Yuan",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt27722618"
+      },
+      "awardOrder": 8,
+      "originalTitle": "左撇子女孩"
+    }
+  ],
+  "tags": [
+    "award",
+    "taipei",
+    "decade"
+  ]
+}

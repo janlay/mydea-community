@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T00:00:00Z",
+  "title": "青龍映画賞 — 2024",
+  "description": "2024年青龍映画賞、主要10部門の受賞記録。",
+  "items": [
+    {
+      "id": "blue-dragon-2024-best-film-1212",
+      "mediaType": "movie",
+      "title": "ソウルの春",
+      "originalTitle": "서울의 봄",
+      "award": "最優秀作品賞",
+      "awardYear": 2024,
+      "awardOrder": 1,
+      "winner": "キム・ソンス",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt22507524"
+      }
+    },
+    {
+      "id": "blue-dragon-2024-best-director-exhuma",
+      "mediaType": "movie",
+      "title": "破墓/パミョ",
+      "originalTitle": "파묘",
+      "award": "監督賞",
+      "awardYear": 2024,
+      "awardOrder": 2,
+      "winner": "チャン・ジェヒョン",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt27802490"
+      }
+    },
+    {
+      "id": "blue-dragon-2024-best-actor-1212",
+      "mediaType": "movie",
+      "title": "ソウルの春",
+      "originalTitle": "서울의 봄",
+      "award": "主演男優賞",
+      "awardYear": 2024,
+      "awardOrder": 3,
+      "winner": "ファン・ジョンミン",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt22507524"
+      }
+    },
+    {
+      "id": "blue-dragon-2024-best-actress-exhuma",
+      "mediaType": "movie",
+      "title": "破墓/パミョ",
+      "originalTitle": "파묘",
+      "award": "主演女優賞",
+      "awardYear": 2024,
+      "awardOrder": 4,
+      "winner": "キム・ゴウン",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt27802490"
+      }
+    },
+    {
+      "id": "blue-dragon-2024-best-supporting-actor-i-executioner",
+      "mediaType": "movie",
+      "title": "ベテラン 凶悪犯罪捜査班",
+      "originalTitle": "베테랑2",
+      "award": "助演男優賞",
+      "awardYear": 2024,
+      "awardOrder": 5,
+      "winner": "チョン・ヘイン",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt30287778"
+      }
+    },
+    {
+      "id": "blue-dragon-2024-best-supporting-actress-loh-kiwan",
+      "mediaType": "movie",
+      "title": "ロ・ギワン",
+      "originalTitle": "로기완",
+      "award": "助演女優賞",
+      "awardYear": 2024,
+      "awardOrder": 6,
+      "winner": "イ・サンヒ",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt26672512"
+      }
+    },
+    {
+      "id": "blue-dragon-2024-best-new-director-dream-songs",
+      "mediaType": "movie",
+      "title": "The Dream Songs",
+      "originalTitle": "너와 나",
+      "award": "新人監督賞",
+      "awardYear": 2024,
+      "awardOrder": 7,
+      "winner": "チョ・ヒョンチョル",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt26757183"
+      }
+    },
+    {
+      "id": "blue-dragon-2024-best-new-actor-love-big-city",
+      "mediaType": "movie",
+      "title": "Love in the Big City",
+      "originalTitle": "대도시의 사랑법",
+      "award": "新人男優賞",
+      "awardYear": 2024,
+      "awardOrder": 8,
+      "winner": "ノ・サンヒョン",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt33022813"
+      }
+    },
+    {
+      "id": "blue-dragon-2024-best-new-actress-drive",
+      "mediaType": "movie",
+      "title": "Drive",
+      "originalTitle": "드라이브",
+      "award": "新人女優賞",
+      "awardYear": 2024,
+      "awardOrder": 9,
+      "winner": "パク・ジュヒョン",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt32322546"
+      }
+    },
+    {
+      "id": "blue-dragon-2024-best-screenplay-dream-songs",
+      "mediaType": "movie",
+      "title": "The Dream Songs",
+      "originalTitle": "너와 나",
+      "award": "脚本賞",
+      "awardYear": 2024,
+      "awardOrder": 10,
+      "winner": "チョ・ヒョンチョル",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt26757183"
+      }
+    }
+  ]
+}

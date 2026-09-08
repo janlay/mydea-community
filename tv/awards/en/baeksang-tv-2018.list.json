@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T02:53:58Z",
+  "title": "Baeksang Arts Awards — 2018",
+  "description": "Broadcast category winners at the 2018 Baeksang Arts Awards.",
+  "items": [
+    {
+      "id": "baeksang-2018-tv-grand-stranger",
+      "mediaType": "tv",
+      "title": "Stranger",
+      "originalTitle": "비밀의 숲",
+      "award": "Broadcast Grand Prize",
+      "awardYear": 2018,
+      "awardOrder": 1,
+      "winner": "Stranger",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6461346"
+      }
+    },
+    {
+      "id": "baeksang-2018-tv-best-mother",
+      "mediaType": "tv",
+      "title": "Mother",
+      "originalTitle": "마더",
+      "award": "Best Drama",
+      "awardYear": 2018,
+      "awardOrder": 2,
+      "winner": "Mother",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7795226"
+      }
+    },
+    {
+      "id": "baeksang-2018-tv-director-lady-dignity",
+      "mediaType": "tv",
+      "title": "The Lady in Dignity",
+      "originalTitle": "품위있는 그녀",
+      "award": "Best Director Broadcast",
+      "awardYear": 2018,
+      "awardOrder": 3,
+      "winner": "Kim Yun-cheol",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6898288"
+      }
+    },
+    {
+      "id": "baeksang-2018-tv-actor-stranger",
+      "mediaType": "tv",
+      "title": "Stranger",
+      "originalTitle": "비밀의 숲",
+      "award": "Best Actor Broadcast",
+      "awardYear": 2018,
+      "awardOrder": 4,
+      "winner": "Cho Seung-woo",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6461346"
+      }
+    },
+    {
+      "id": "baeksang-2018-tv-actress-misty",
+      "mediaType": "tv",
+      "title": "Misty",
+      "originalTitle": "미스티",
+      "award": "Best Actress Broadcast",
+      "awardYear": 2018,
+      "awardOrder": 5,
+      "winner": "Kim Nam-joo",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7890244"
+      }
+    }
+  ]
+}

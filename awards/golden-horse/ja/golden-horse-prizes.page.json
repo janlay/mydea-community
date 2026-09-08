@@ -1,0 +1,197 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "title": "金馬奨 — 賞別",
+  "icon": "ticket",
+  "sections": [
+    {
+      "title": "金馬奨 — 最優秀作品賞",
+      "description": "金馬奨「最優秀作品賞」の創設時から2025年までの全受賞記録。",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "carousel",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "golden-horse-best-feature.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "金馬奨 — 最優秀監督賞",
+      "description": "金馬奨「最優秀監督賞」の創設時から2025年までの全受賞記録。",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "golden-horse-best-director.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "金馬奨 — 最優秀主演男優賞",
+      "description": "金馬奨「最優秀主演男優賞」の創設時から2025年までの全受賞記録。",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "golden-horse-best-actor.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "金馬奨 — 最優秀主演女優賞",
+      "description": "金馬奨「最優秀主演女優賞」の創設時から2025年までの全受賞記録。",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "golden-horse-best-actress.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "金馬奨 — 最優秀助演男優賞",
+      "description": "金馬奨「最優秀助演男優賞」の創設時から2025年までの全受賞記録。",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "golden-horse-best-supporting-actor.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "金馬奨 — 最優秀助演女優賞",
+      "description": "金馬奨「最優秀助演女優賞」の創設時から2025年までの全受賞記録。",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "golden-horse-best-supporting-actress.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "金馬奨 — 最優秀新人監督賞",
+      "description": "金馬奨「最優秀新人監督賞」の創設時から2025年までの全受賞記録。",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "golden-horse-best-new-director.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "金馬奨 — 最優秀新人俳優賞",
+      "description": "金馬奨「最優秀新人俳優賞」の創設時から2025年までの全受賞記録。",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "golden-horse-best-new-performer.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    }
+  ],
+  "description": "金馬奨の全部門にわたる完全な受賞リスト。1964年と1974年は開催されなかった。",
+  "tags": [
+    "award",
+    "prize"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "title": "豆瓣系列徽章",
+  "description": "豆瓣徽章计划中 3 个电影系列徽章的收藏片单。",
+  "tags": [
+    "douban",
+    "badge",
+    "plan",
+    "series"
+  ],
+  "icon": "rosette",
+  "sections": [
+    {
+      "title": "$$collection",
+      "description": "豆瓣徽章计划「哈利·波特 9¾ 徽章」的收藏片单，按豆瓣评分从高到低排列。",
+      "layout": "carousel",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "badge_plan_shortcut",
+          "value": "3016"
+        },
+        {
+          "name": "collection",
+          "value": "3016"
+        }
+      ]
+    },
+    {
+      "title": "$$collection",
+      "description": "豆瓣徽章计划「指环王护戒徽章」的收藏片单，按豆瓣评分从高到低排列。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "badge_plan_shortcut",
+          "value": "3010"
+        },
+        {
+          "name": "collection",
+          "value": "3010"
+        }
+      ]
+    },
+    {
+      "title": "$$collection",
+      "description": "豆瓣徽章计划「异形抱脸徽章」的收藏片单，按豆瓣评分从高到低排列。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "badge_plan_shortcut",
+          "value": "3041"
+        },
+        {
+          "name": "collection",
+          "value": "3041"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-22T08:41:11Z",
+  "cacheTtlInDays": 365,
+  "title": "2018年 金馬奨 主要賞受賞作品",
+  "description": "2018年金馬奨の主要賞受賞作品と受賞者。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "golden-horse-2018-best-feature-tt8020896",
+      "mediaType": "movie",
+      "title": "象は静かに座っている",
+      "award": "最優秀作品賞",
+      "awardYear": 2018,
+      "winner": "Hu Bo",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8020896"
+      },
+      "awardOrder": 1,
+      "originalTitle": "大象席地而坐"
+    },
+    {
+      "id": "golden-horse-2018-best-director-tt6864046",
+      "mediaType": "movie",
+      "title": "SHADOW 影武者",
+      "award": "最優秀監督賞",
+      "awardYear": 2018,
+      "winner": "Zhang Yimou",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt6864046"
+      },
+      "awardOrder": 2,
+      "originalTitle": "影"
+    },
+    {
+      "id": "golden-horse-2018-best-actor-tt7362036",
+      "mediaType": "movie",
+      "title": "ニセ薬じゃない!",
+      "award": "最優秀主演男優賞",
+      "awardYear": 2018,
+      "winner": "Xu Zheng",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7362036"
+      },
+      "awardOrder": 3,
+      "originalTitle": "我不是藥神"
+    },
+    {
+      "id": "golden-horse-2018-best-actress-tt8443704",
+      "mediaType": "movie",
+      "title": "先に愛した人",
+      "award": "最優秀主演女優賞",
+      "awardYear": 2018,
+      "winner": "Hsieh Ying-xuan",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8443704"
+      },
+      "awardOrder": 4,
+      "originalTitle": "誰先愛上他的"
+    },
+    {
+      "id": "golden-horse-2018-best-supporting-actor-tt7762748",
+      "mediaType": "movie",
+      "title": "トレイシー",
+      "award": "最優秀助演男優賞",
+      "awardYear": 2018,
+      "winner": "Ben Yuen",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7762748"
+      },
+      "awardOrder": 5,
+      "originalTitle": "翠絲"
+    },
+    {
+      "id": "golden-horse-2018-best-supporting-actress-tt4397342",
+      "mediaType": "movie",
+      "title": "幸福都市",
+      "award": "最優秀助演女優賞",
+      "awardYear": 2018,
+      "winner": "Ding Ning",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt4397342"
+      },
+      "awardOrder": 6,
+      "originalTitle": "幸福城市"
+    },
+    {
+      "id": "golden-horse-2018-best-new-director-tt7362036",
+      "mediaType": "movie",
+      "title": "ニセ薬じゃない!",
+      "award": "最優秀新人監督賞",
+      "awardYear": 2018,
+      "winner": "Wen Muye",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7362036"
+      },
+      "awardOrder": 7,
+      "originalTitle": "我不是藥神"
+    },
+    {
+      "id": "golden-horse-2018-best-new-performer-tt7475882",
+      "mediaType": "movie",
+      "title": "Long Time No Sea",
+      "award": "最優秀新人俳優賞",
+      "awardYear": 2018,
+      "winner": "Zhong Jia Jun",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7475882"
+      },
+      "awardOrder": 8,
+      "originalTitle": "只有大海知道"
+    }
+  ],
+  "tags": [
+    "award",
+    "taipei",
+    "decade"
+  ]
+}

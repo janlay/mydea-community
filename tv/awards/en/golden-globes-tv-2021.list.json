@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "Golden Globes 2021",
+  "description": "Television category winners at the 2021 Golden Globes.",
+  "items": [
+    {
+      "id": "golden-globes-2021-tv_drama-the-crown",
+      "mediaType": "tv",
+      "title": "The Crown",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4786824"
+      },
+      "award": "Best Television Series – Drama",
+      "awardYear": 2021,
+      "awardOrder": 1,
+      "winner": "The Crown"
+    },
+    {
+      "id": "golden-globes-2021-tv_comedy-schitt-s-creek",
+      "mediaType": "tv",
+      "title": "Schitt's Creek",
+      "releaseDate": "2015",
+      "externalIds": {
+        "imdb": "tt3526078"
+      },
+      "award": "Best Television Series – Musical or Comedy",
+      "awardYear": 2021,
+      "awardOrder": 2,
+      "winner": "Schitt's Creek"
+    },
+    {
+      "id": "golden-globes-2021-limited-the-queen-s-gambit",
+      "mediaType": "tv",
+      "title": "The Queen's Gambit",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10048342"
+      },
+      "award": "Best Television Limited Series, Anthology Series or Motion Picture Made for Television",
+      "awardYear": 2021,
+      "awardOrder": 3,
+      "winner": "The Queen's Gambit"
+    }
+  ]
+}

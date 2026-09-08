@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "icon": "chart.bar",
+  "title": "豆瓣中国台湾类型片",
+  "description": "豆瓣中国台湾各类型片榜单，涵盖 3 个类型。",
+  "tags": [
+    "douban",
+    "chart",
+    "region",
+    "taiwan"
+  ],
+  "sections": [
+    {
+      "title": "中国台湾动作片",
+      "layout": "carousel",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECTMO64KY"
+        }
+      ]
+    },
+    {
+      "title": "中国台湾喜剧片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECEAOX2BI"
+        }
+      ]
+    },
+    {
+      "title": "中国台湾爱情片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECWQOQO4A"
+        }
+      ]
+    }
+  ]
+}

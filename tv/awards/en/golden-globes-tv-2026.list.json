@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "Golden Globes 2026",
+  "description": "Television category winners at the 2026 Golden Globes.",
+  "items": [
+    {
+      "id": "golden-globes-2026-tv_drama-the-pitt",
+      "mediaType": "tv",
+      "title": "The Pitt",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31938062"
+      },
+      "award": "Best Television Series – Drama",
+      "awardYear": 2026,
+      "awardOrder": 1,
+      "winner": "The Pitt"
+    },
+    {
+      "id": "golden-globes-2026-tv_comedy-the-studio",
+      "mediaType": "tv",
+      "title": "The Studio",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt23649128"
+      },
+      "award": "Best Television Series – Musical or Comedy",
+      "awardYear": 2026,
+      "awardOrder": 2,
+      "winner": "The Studio"
+    },
+    {
+      "id": "golden-globes-2026-limited-adolescence",
+      "mediaType": "tv",
+      "title": "Adolescence",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31806037"
+      },
+      "award": "Best Television Limited Series, Anthology Series or Motion Picture Made for Television",
+      "awardYear": 2026,
+      "awardOrder": 3,
+      "winner": "Adolescence"
+    }
+  ]
+}

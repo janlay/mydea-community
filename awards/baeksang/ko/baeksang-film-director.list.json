@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T02:53:58Z",
+  "title": "백상예술대상 — 영화부문 감독상",
+  "description": "2017–2026년 백상예술대상 영화부문 감독상 수상 기록.",
+  "items": [
+    {
+      "id": "baeksang-2017-film-director-age-shadows",
+      "mediaType": "movie",
+      "title": "밀정",
+      "englishTitle": "The Age of Shadows",
+      "awardYear": 2017,
+      "winner": "Kim Jee-woon",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4914580"
+      }
+    },
+    {
+      "id": "baeksang-2018-film-director-along-gods",
+      "mediaType": "movie",
+      "title": "신과함께-죄와 벌",
+      "englishTitle": "Along with the Gods: The Two Worlds",
+      "awardYear": 2018,
+      "winner": "Kim Yong-hwa",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7160070"
+      }
+    },
+    {
+      "id": "baeksang-2019-film-director-swing-kids",
+      "mediaType": "movie",
+      "title": "스윙키즈",
+      "englishTitle": "Swing Kids",
+      "awardYear": 2019,
+      "winner": "Kang Hyoung-chul",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7046974"
+      }
+    },
+    {
+      "id": "baeksang-2020-film-director-hummingbird",
+      "mediaType": "movie",
+      "title": "벌새",
+      "englishTitle": "House of Hummingbird",
+      "awardYear": 2020,
+      "winner": "Kim Bora",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8951086"
+      }
+    },
+    {
+      "id": "baeksang-2021-film-director-voice-silence",
+      "mediaType": "movie",
+      "title": "소리도 없이",
+      "englishTitle": "Voice of Silence",
+      "awardYear": 2021,
+      "winner": "Hong Eui-jeong",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10431572"
+      }
+    },
+    {
+      "id": "baeksang-2022-film-director-kingmaker",
+      "mediaType": "movie",
+      "title": "킹메이커",
+      "englishTitle": "Kingmaker",
+      "awardYear": 2022,
+      "winner": "Byun Sung-hyun",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt17491616"
+      }
+    },
+    {
+      "id": "baeksang-2023-film-director-decision",
+      "mediaType": "movie",
+      "title": "헤어질 결심",
+      "englishTitle": "Decision to Leave",
+      "awardYear": 2023,
+      "winner": "Park Chan-wook",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt12477480"
+      }
+    },
+    {
+      "id": "baeksang-2024-film-director-exhuma",
+      "mediaType": "movie",
+      "title": "파묘",
+      "englishTitle": "Exhuma",
+      "awardYear": 2024,
+      "winner": "Jang Jae-hyun",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt27802490"
+      }
+    },
+    {
+      "id": "baeksang-2025-film-director-revolver",
+      "mediaType": "movie",
+      "title": "리볼버",
+      "englishTitle": "Revolver",
+      "awardYear": 2025,
+      "winner": "Oh Seung-uk",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt28284984"
+      }
+    },
+    {
+      "id": "baeksang-2026-film-director-world-love",
+      "mediaType": "movie",
+      "title": "세계의 주인",
+      "englishTitle": "The World of Love",
+      "awardYear": 2026,
+      "winner": "Yoon Ga-eun",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt37661885"
+      }
+    }
+  ]
+}

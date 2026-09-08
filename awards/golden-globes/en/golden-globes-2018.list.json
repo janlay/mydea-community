@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "Golden Globes 2018",
+  "description": "Film category winners at the 2018 Golden Globes.",
+  "items": [
+    {
+      "id": "golden-globes-2018-drama-three-billboards-outside-ebbing-missouri",
+      "mediaType": "movie",
+      "title": "Three Billboards Outside Ebbing, Missouri",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5027774"
+      },
+      "award": "Best Motion Picture – Drama",
+      "awardYear": 2018,
+      "awardOrder": 1,
+      "winner": "Three Billboards Outside Ebbing, Missouri"
+    },
+    {
+      "id": "golden-globes-2018-comedy-lady-bird",
+      "mediaType": "movie",
+      "title": "Lady Bird",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt4925292"
+      },
+      "award": "Best Motion Picture – Musical or Comedy",
+      "awardYear": 2018,
+      "awardOrder": 2,
+      "winner": "Lady Bird"
+    },
+    {
+      "id": "golden-globes-2018-animated-coco",
+      "mediaType": "movie",
+      "title": "Coco",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt2380307"
+      },
+      "award": "Best Motion Picture – Animated",
+      "awardYear": 2018,
+      "awardOrder": 3,
+      "winner": "Coco"
+    },
+    {
+      "id": "golden-globes-2018-foreign-in-the-fade",
+      "mediaType": "movie",
+      "title": "In the Fade",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5723272"
+      },
+      "award": "Best Motion Picture – Non-English Language",
+      "awardYear": 2018,
+      "awardOrder": 4,
+      "winner": "In the Fade"
+    }
+  ]
+}

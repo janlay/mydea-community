@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-22T08:41:11Z",
+  "cacheTtlInDays": 365,
+  "title": "2019年 金馬奨 主要賞受賞作品",
+  "description": "2019年金馬奨の主要賞受賞作品と受賞者。",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "golden-horse-2019-best-feature-tt10883506",
+      "mediaType": "movie",
+      "title": "ひとつの太陽",
+      "award": "最優秀作品賞",
+      "awardYear": 2019,
+      "winner": "Chung Mong-hong",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10883506"
+      },
+      "awardOrder": 1,
+      "originalTitle": "陽光普照"
+    },
+    {
+      "id": "golden-horse-2019-best-director-tt10883506",
+      "mediaType": "movie",
+      "title": "ひとつの太陽",
+      "award": "最優秀監督賞",
+      "awardYear": 2019,
+      "winner": "Chung Mong-hong",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10883506"
+      },
+      "awardOrder": 2,
+      "originalTitle": "陽光普照"
+    },
+    {
+      "id": "golden-horse-2019-best-actor-tt10883506",
+      "mediaType": "movie",
+      "title": "ひとつの太陽",
+      "award": "最優秀主演男優賞",
+      "awardYear": 2019,
+      "winner": "Chen Yi-wen",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10883506"
+      },
+      "awardOrder": 3,
+      "originalTitle": "陽光普照"
+    },
+    {
+      "id": "golden-horse-2019-best-actress-tt9822706",
+      "mediaType": "movie",
+      "title": "熱帯雨",
+      "award": "最優秀主演女優賞",
+      "awardYear": 2019,
+      "winner": "Yang Yan Yan",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt9822706"
+      },
+      "awardOrder": 4,
+      "originalTitle": "熱帶雨"
+    },
+    {
+      "id": "golden-horse-2019-best-supporting-actor-tt10883506",
+      "mediaType": "movie",
+      "title": "ひとつの太陽",
+      "award": "最優秀助演男優賞",
+      "awardYear": 2019,
+      "winner": "Liu Kuan-ting",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10883506"
+      },
+      "awardOrder": 5,
+      "originalTitle": "陽光普照"
+    },
+    {
+      "id": "golden-horse-2019-best-supporting-actress-tt11070412",
+      "mediaType": "movie",
+      "title": "The Teacher",
+      "award": "最優秀助演女優賞",
+      "awardYear": 2019,
+      "winner": "Zhang Shi Ying",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt11070412"
+      },
+      "awardOrder": 6,
+      "originalTitle": "我的靈魂是愛做的"
+    },
+    {
+      "id": "golden-horse-2019-best-new-director-tt10805432",
+      "mediaType": "movie",
+      "title": "返校 言葉が消えた日",
+      "award": "最優秀新人監督賞",
+      "awardYear": 2019,
+      "winner": "Xu Han Qiang",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10805432"
+      },
+      "awardOrder": 7,
+      "originalTitle": "返校"
+    },
+    {
+      "id": "golden-horse-2019-best-new-performer-tt10869364",
+      "mediaType": "movie",
+      "title": "運命のマッチアップ",
+      "award": "最優秀新人俳優賞",
+      "awardYear": 2019,
+      "winner": "Fandy Fan",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10869364"
+      },
+      "awardOrder": 8,
+      "originalTitle": "下半場"
+    }
+  ],
+  "tags": [
+    "award",
+    "taipei",
+    "decade"
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T02:58:14Z",
+  "title": "百想芸術大賞 — 2018",
+  "description": "2018年の百想芸術大賞におけるテレビ部門の受賞作品。",
+  "items": [
+    {
+      "id": "baeksang-2018-tv-grand-stranger",
+      "mediaType": "tv",
+      "title": "秘密の森",
+      "originalTitle": "비밀의 숲",
+      "award": "テレビ部門 大賞",
+      "awardYear": 2018,
+      "awardOrder": 1,
+      "winner": "秘密の森",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6461346"
+      }
+    },
+    {
+      "id": "baeksang-2018-tv-best-mother",
+      "mediaType": "tv",
+      "title": "マザー 無償の愛",
+      "originalTitle": "마더",
+      "award": "テレビ部門 作品賞",
+      "awardYear": 2018,
+      "awardOrder": 2,
+      "winner": "マザー 無償の愛",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7795226"
+      }
+    },
+    {
+      "id": "baeksang-2018-tv-director-lady-dignity",
+      "mediaType": "tv",
+      "title": "品位のある彼女",
+      "originalTitle": "품위있는 그녀",
+      "award": "テレビ部門 演出賞",
+      "awardYear": 2018,
+      "awardOrder": 3,
+      "winner": "キム・ユンチョル",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6898288"
+      }
+    },
+    {
+      "id": "baeksang-2018-tv-actor-stranger",
+      "mediaType": "tv",
+      "title": "秘密の森",
+      "originalTitle": "비밀의 숲",
+      "award": "テレビ部門 男性最優秀演技賞",
+      "awardYear": 2018,
+      "awardOrder": 4,
+      "winner": "チョ・スンウ",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6461346"
+      }
+    },
+    {
+      "id": "baeksang-2018-tv-actress-misty",
+      "mediaType": "tv",
+      "title": "ミスティ～愛の真実～",
+      "originalTitle": "미스티",
+      "award": "テレビ部門 女性最優秀演技賞",
+      "awardYear": 2018,
+      "awardOrder": 5,
+      "winner": "キム・ナムジュ",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7890244"
+      }
+    }
+  ]
+}

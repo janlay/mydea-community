@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "Golden Globes 2021",
+  "description": "Film category winners at the 2021 Golden Globes.",
+  "items": [
+    {
+      "id": "golden-globes-2021-drama-nomadland",
+      "mediaType": "movie",
+      "title": "Nomadland",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt9770150"
+      },
+      "award": "Best Motion Picture – Drama",
+      "awardYear": 2021,
+      "awardOrder": 1,
+      "winner": "Nomadland"
+    },
+    {
+      "id": "golden-globes-2021-comedy-borat-subsequent-moviefilm",
+      "mediaType": "movie",
+      "title": "Borat Subsequent Moviefilm",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt13143964"
+      },
+      "award": "Best Motion Picture – Musical or Comedy",
+      "awardYear": 2021,
+      "awardOrder": 2,
+      "winner": "Borat Subsequent Moviefilm"
+    },
+    {
+      "id": "golden-globes-2021-animated-soul",
+      "mediaType": "movie",
+      "title": "Soul",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt2948372"
+      },
+      "award": "Best Motion Picture – Animated",
+      "awardYear": 2021,
+      "awardOrder": 3,
+      "winner": "Soul"
+    },
+    {
+      "id": "golden-globes-2021-foreign-minari",
+      "mediaType": "movie",
+      "title": "Minari",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10633456"
+      },
+      "award": "Best Motion Picture – Non-English Language",
+      "awardYear": 2021,
+      "awardOrder": 4,
+      "winner": "Minari"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T02:53:58Z",
+  "title": "百想艺术大赏 — 2020",
+  "description": "2020 年百想艺术大赏电影主要奖项获奖记录。",
+  "items": [
+    {
+      "id": "baeksang-2020-film-grand-parasite",
+      "mediaType": "movie",
+      "title": "寄生虫",
+      "originalTitle": "기생충",
+      "award": "电影大奖",
+      "awardYear": 2020,
+      "awardOrder": 1,
+      "winner": "Bong Joon-ho",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6751668"
+      }
+    },
+    {
+      "id": "baeksang-2020-film-best-parasite",
+      "mediaType": "movie",
+      "title": "寄生虫",
+      "originalTitle": "기생충",
+      "award": "最佳电影",
+      "awardYear": 2020,
+      "awardOrder": 2,
+      "winner": "寄生虫",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6751668"
+      }
+    },
+    {
+      "id": "baeksang-2020-film-director-hummingbird",
+      "mediaType": "movie",
+      "title": "蜂鸟",
+      "originalTitle": "벌새",
+      "award": "电影最佳导演",
+      "awardYear": 2020,
+      "awardOrder": 3,
+      "winner": "Kim Bora",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8951086"
+      }
+    },
+    {
+      "id": "baeksang-2020-film-actor-man-standing",
+      "mediaType": "movie",
+      "title": "南山的部长们",
+      "originalTitle": "남산의 부장들",
+      "award": "电影最佳男主角",
+      "awardYear": 2020,
+      "awardOrder": 4,
+      "winner": "Lee Byung-hun",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt11358398"
+      }
+    },
+    {
+      "id": "baeksang-2020-film-actress-birthday",
+      "mediaType": "movie",
+      "title": "生日",
+      "originalTitle": "생일",
+      "award": "电影最佳女主角",
+      "awardYear": 2020,
+      "awardOrder": 5,
+      "winner": "Jeon Do-yeon",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10248334"
+      }
+    }
+  ]
+}

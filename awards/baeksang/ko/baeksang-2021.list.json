@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-21T00:00:00Z",
+  "title": "백상예술대상 — 2021",
+  "description": "2021년 백상예술대상 영화 부문 수상 기록.",
+  "items": [
+    {
+      "id": "baeksang-2021-film-grand-book-fish",
+      "mediaType": "movie",
+      "title": "자산어보",
+      "englishTitle": "The Book of Fish",
+      "award": "영화부문 대상",
+      "awardYear": 2021,
+      "awardOrder": 1,
+      "winner": "Lee Joon-ik",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14371900"
+      }
+    },
+    {
+      "id": "baeksang-2021-film-best-samjin",
+      "mediaType": "movie",
+      "title": "삼진그룹 영어토익반",
+      "englishTitle": "Samjin Company English Class",
+      "award": "영화부문 작품상",
+      "awardYear": 2021,
+      "awardOrder": 2,
+      "winner": "삼진그룹 영어토익반",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt13210996"
+      }
+    },
+    {
+      "id": "baeksang-2021-film-director-voice-silence",
+      "mediaType": "movie",
+      "title": "소리도 없이",
+      "englishTitle": "Voice of Silence",
+      "award": "영화부문 감독상",
+      "awardYear": 2021,
+      "awardOrder": 3,
+      "winner": "Hong Eui-jeong",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10431572"
+      }
+    },
+    {
+      "id": "baeksang-2021-film-actor-voice-silence",
+      "mediaType": "movie",
+      "title": "소리도 없이",
+      "englishTitle": "Voice of Silence",
+      "award": "영화부문 남자 최우수 연기상",
+      "awardYear": 2021,
+      "awardOrder": 4,
+      "winner": "Yoo Ah-in",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10431572"
+      }
+    },
+    {
+      "id": "baeksang-2021-film-actress-call",
+      "mediaType": "movie",
+      "title": "콜",
+      "englishTitle": "The Call",
+      "award": "영화부문 여자 최우수 연기상",
+      "awardYear": 2021,
+      "awardOrder": 5,
+      "winner": "Jeon Jong-seo",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10530176"
+      }
+    }
+  ]
+}

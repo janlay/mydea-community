@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T02:53:58Z",
+  "title": "백상예술대상 — 2018",
+  "description": "2018년 백상예술대상 방송 부문 수상 기록.",
+  "items": [
+    {
+      "id": "baeksang-2018-tv-grand-stranger",
+      "mediaType": "tv",
+      "title": "비밀의 숲",
+      "englishTitle": "Stranger",
+      "award": "방송부문 대상",
+      "awardYear": 2018,
+      "awardOrder": 1,
+      "winner": "비밀의 숲",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6461346"
+      }
+    },
+    {
+      "id": "baeksang-2018-tv-best-mother",
+      "mediaType": "tv",
+      "title": "마더",
+      "englishTitle": "Mother",
+      "award": "방송부문 작품상 드라마",
+      "awardYear": 2018,
+      "awardOrder": 2,
+      "winner": "마더",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7795226"
+      }
+    },
+    {
+      "id": "baeksang-2018-tv-director-lady-dignity",
+      "mediaType": "tv",
+      "title": "품위있는 그녀",
+      "englishTitle": "The Lady in Dignity",
+      "award": "방송부문 연출상",
+      "awardYear": 2018,
+      "awardOrder": 3,
+      "winner": "Kim Yun-cheol",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6898288"
+      }
+    },
+    {
+      "id": "baeksang-2018-tv-actor-stranger",
+      "mediaType": "tv",
+      "title": "비밀의 숲",
+      "englishTitle": "Stranger",
+      "award": "방송부문 남자 최우수 연기상",
+      "awardYear": 2018,
+      "awardOrder": 4,
+      "winner": "Cho Seung-woo",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6461346"
+      }
+    },
+    {
+      "id": "baeksang-2018-tv-actress-misty",
+      "mediaType": "tv",
+      "title": "미스티",
+      "englishTitle": "Misty",
+      "award": "방송부문 여자 최우수 연기상",
+      "awardYear": 2018,
+      "awardOrder": 5,
+      "winner": "Kim Nam-joo",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7890244"
+      }
+    }
+  ]
+}

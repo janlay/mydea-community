@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T02:53:58Z",
+  "title": "백상예술대상 — 2023",
+  "description": "2023년 백상예술대상 영화 부문 수상 기록.",
+  "items": [
+    {
+      "id": "baeksang-2023-film-grand-decision",
+      "mediaType": "movie",
+      "title": "헤어질 결심",
+      "englishTitle": "Decision to Leave",
+      "award": "영화부문 대상",
+      "awardYear": 2023,
+      "awardOrder": 1,
+      "winner": "헤어질 결심",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt12477480"
+      }
+    },
+    {
+      "id": "baeksang-2023-film-best-night-owl",
+      "mediaType": "movie",
+      "title": "올빼미",
+      "englishTitle": "The Night Owl",
+      "award": "영화부문 작품상",
+      "awardYear": 2023,
+      "awardOrder": 2,
+      "winner": "올빼미",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt23871504"
+      }
+    },
+    {
+      "id": "baeksang-2023-film-director-decision",
+      "mediaType": "movie",
+      "title": "헤어질 결심",
+      "englishTitle": "Decision to Leave",
+      "award": "영화부문 감독상",
+      "awardYear": 2023,
+      "awardOrder": 3,
+      "winner": "Park Chan-wook",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt12477480"
+      }
+    },
+    {
+      "id": "baeksang-2023-film-actor-night-owl",
+      "mediaType": "movie",
+      "title": "올빼미",
+      "englishTitle": "The Night Owl",
+      "award": "영화부문 남자 최우수 연기상",
+      "awardYear": 2023,
+      "awardOrder": 4,
+      "winner": "Ryu Jun-yeol",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt23871504"
+      }
+    },
+    {
+      "id": "baeksang-2023-film-actress-decision",
+      "mediaType": "movie",
+      "title": "헤어질 결심",
+      "englishTitle": "Decision to Leave",
+      "award": "영화부문 여자 최우수 연기상",
+      "awardYear": 2023,
+      "awardOrder": 5,
+      "winner": "Tang Wei",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt12477480"
+      }
+    }
+  ]
+}

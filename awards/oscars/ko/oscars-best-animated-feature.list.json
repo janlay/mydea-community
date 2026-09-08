@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T05:03:58Z",
+  "title": "아카데미상 — 장편 애니메이션상",
+  "description": "아카데미상 장편 애니메이션상 최근 10회 수상 기록.",
+  "items": [
+    {
+      "id": "oscars-best-animated-feature-2017-zootopia",
+      "mediaType": "movie",
+      "title": "주토피아",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt2948356"
+      },
+      "awardYear": 2017,
+      "winner": "Byron Howard, Rich Moore & Clark Spencer"
+    },
+    {
+      "id": "oscars-best-animated-feature-2018-coco",
+      "mediaType": "movie",
+      "title": "코코",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt2380307"
+      },
+      "awardYear": 2018,
+      "winner": "Lee Unkrich & Darla K. Anderson"
+    },
+    {
+      "id": "oscars-best-animated-feature-2019-spider-man-into-the-spider-verse",
+      "mediaType": "movie",
+      "title": "스파이더맨: 뉴 유니버스",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt4633694"
+      },
+      "awardYear": 2019,
+      "winner": "Bob Persichetti, Peter Ramsey, Rodney Rothman, Phil Lord & Christopher Miller"
+    },
+    {
+      "id": "oscars-best-animated-feature-2020-toy-story-4",
+      "mediaType": "movie",
+      "title": "Toy Story 4",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt1979376"
+      },
+      "awardYear": 2020,
+      "winner": "Josh Cooley, Mark Nielsen & Jonas Rivera"
+    },
+    {
+      "id": "oscars-best-animated-feature-2021-soul",
+      "mediaType": "movie",
+      "title": "소울",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt2948372"
+      },
+      "awardYear": 2021,
+      "winner": "Pete Docter & Dana Murray"
+    },
+    {
+      "id": "oscars-best-animated-feature-2022-encanto",
+      "mediaType": "movie",
+      "title": "엔칸토: 마법의 세계",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt2953050"
+      },
+      "awardYear": 2022,
+      "winner": "Jared Bush, Byron Howard, Yvett Merino & Clark Spencer"
+    },
+    {
+      "id": "oscars-best-animated-feature-2023-guillermo-del-toro-s-pinocchio",
+      "mediaType": "movie",
+      "title": "기예르모 델토로의 피노키오",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt1488589"
+      },
+      "awardYear": 2023,
+      "winner": "Guillermo del Toro, Mark Gustafson, Gary Ungar & Alex Bulkley"
+    },
+    {
+      "id": "oscars-best-animated-feature-2024-the-boy-and-the-heron",
+      "mediaType": "movie",
+      "title": "그대들은 어떻게 살 것인가",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt6587046"
+      },
+      "awardYear": 2024,
+      "winner": "Hayao Miyazaki & Toshio Suzuki"
+    },
+    {
+      "id": "oscars-best-animated-feature-2025-flow",
+      "mediaType": "movie",
+      "title": "플로우",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt4772188"
+      },
+      "awardYear": 2025,
+      "winner": "Gints Zilbalodis, Matīss Kaža, Ron Dyens & Gregory Zalcman"
+    },
+    {
+      "id": "oscars-best-animated-feature-2026-kpop-demon-hunters",
+      "mediaType": "movie",
+      "title": "케이팝 데몬 헌터스",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt14205554"
+      },
+      "awardYear": 2026,
+      "winner": "Maggie Kang, Chris Appelhans & Michelle L.M. Wong"
+    }
+  ]
+}

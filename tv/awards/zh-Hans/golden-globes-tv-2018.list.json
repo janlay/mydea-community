@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "金球奖 2018",
+  "description": "2018 金球奖电视作品类获奖名单。",
+  "items": [
+    {
+      "id": "golden-globes-2018-tv_drama-the-handmaid-s-tale",
+      "mediaType": "tv",
+      "title": "使女的故事",
+      "englishTitle": "The Handmaid's Tale",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5834204"
+      },
+      "award": "最佳剧情类剧集",
+      "awardYear": 2018,
+      "awardOrder": 1,
+      "winner": "使女的故事"
+    },
+    {
+      "id": "golden-globes-2018-tv_comedy-the-marvelous-mrs-maisel",
+      "mediaType": "tv",
+      "title": "了不起的麦瑟尔夫人",
+      "englishTitle": "The Marvelous Mrs. Maisel",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5788792"
+      },
+      "award": "最佳音乐或喜剧类剧集",
+      "awardYear": 2018,
+      "awardOrder": 2,
+      "winner": "了不起的麦瑟尔夫人"
+    },
+    {
+      "id": "golden-globes-2018-limited-big-little-lies",
+      "mediaType": "tv",
+      "title": "大小谎言",
+      "englishTitle": "Big Little Lies",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt3920596"
+      },
+      "award": "最佳限定剧、选集剧或电视电影",
+      "awardYear": 2018,
+      "awardOrder": 3,
+      "winner": "大小谎言"
+    }
+  ]
+}

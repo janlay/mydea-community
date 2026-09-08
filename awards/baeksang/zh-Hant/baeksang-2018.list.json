@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T02:53:58Z",
+  "title": "百想藝術大賞 — 2018",
+  "description": "2018 年百想藝術大賞電影主要獎項獲獎記錄。",
+  "items": [
+    {
+      "id": "baeksang-2018-film-grand-1987",
+      "mediaType": "movie",
+      "title": "1987：黎明到來的那一天",
+      "originalTitle": "1987",
+      "award": "電影大獎",
+      "awardYear": 2018,
+      "awardOrder": 1,
+      "winner": "1987：黎明到來的那一天",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6493286"
+      }
+    },
+    {
+      "id": "baeksang-2018-film-best-fortress",
+      "mediaType": "movie",
+      "title": "南漢山城",
+      "originalTitle": "남한산성",
+      "award": "最佳電影",
+      "awardYear": 2018,
+      "awardOrder": 2,
+      "winner": "南漢山城",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7160176"
+      }
+    },
+    {
+      "id": "baeksang-2018-film-director-along-gods",
+      "mediaType": "movie",
+      "title": "與神同行：罪與罰",
+      "originalTitle": "신과함께-죄와 벌",
+      "award": "電影最佳導演",
+      "awardYear": 2018,
+      "awardOrder": 3,
+      "winner": "Kim Yong-hwa",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7160070"
+      }
+    },
+    {
+      "id": "baeksang-2018-film-actor-1987",
+      "mediaType": "movie",
+      "title": "1987：黎明到來的那一天",
+      "originalTitle": "1987",
+      "award": "電影最佳男主角",
+      "awardYear": 2018,
+      "awardOrder": 4,
+      "winner": "Kim Yoon-seok",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6493286"
+      }
+    },
+    {
+      "id": "baeksang-2018-film-actress-i-can-speak",
+      "mediaType": "movie",
+      "title": "我能說",
+      "originalTitle": "아이 캔 스피크",
+      "award": "電影最佳女主角",
+      "awardYear": 2018,
+      "awardOrder": 5,
+      "winner": "Na Moon-hee",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7342204"
+      }
+    }
+  ]
+}

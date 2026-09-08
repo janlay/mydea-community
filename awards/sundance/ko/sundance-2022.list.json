@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-16T04:39:02Z",
+  "title": "2022 선댄스 영화제 수상작",
+  "description": "2022 선댄스 영화제 4개 핵심 장편 경쟁 부문 심사위원대상 수상작.",
+  "tags": [
+    "award",
+    "park-city",
+    "decade"
+  ],
+  "items": [
+    {
+      "id": "sundance-us-dramatic-2022-nanny",
+      "mediaType": "movie",
+      "title": "Nanny",
+      "award": "미국 극영화 심사위원대상",
+      "awardYear": 2022,
+      "awardOrder": 1,
+      "winner": "Nikyatu Jusu",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt10931784"
+      }
+    },
+    {
+      "id": "sundance-us-documentary-2022-the-exiles",
+      "mediaType": "movie",
+      "title": "The Exiles",
+      "award": "미국 다큐멘터리 심사위원대상",
+      "awardYear": 2022,
+      "awardOrder": 2,
+      "winner": "Ben Klein & Violet Columbus",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt16227006"
+      }
+    },
+    {
+      "id": "sundance-world-dramatic-2022-utama",
+      "mediaType": "movie",
+      "title": "Utama",
+      "award": "월드 시네마 극영화 심사위원대상",
+      "awardYear": 2022,
+      "awardOrder": 3,
+      "winner": "Alejandro Loayza Grisi",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt10984580"
+      }
+    },
+    {
+      "id": "sundance-world-documentary-2022-all-that-breathes",
+      "mediaType": "movie",
+      "title": "All That Breathes",
+      "award": "월드 시네마 다큐멘터리 심사위원대상",
+      "awardYear": 2022,
+      "awardOrder": 4,
+      "winner": "Shaunak Sen",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt16377862"
+      }
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-16T04:39:02Z",
+  "title": "圣丹斯电影节 2021 年获奖名单",
+  "description": "2021 年圣丹斯电影节四项核心长片评审团大奖获奖作品。",
+  "tags": [
+    "award",
+    "park-city",
+    "decade"
+  ],
+  "items": [
+    {
+      "id": "sundance-us-dramatic-2021-coda",
+      "mediaType": "movie",
+      "title": "健听女孩",
+      "englishTitle": "CODA",
+      "award": "美国剧情片评审团大奖",
+      "awardYear": 2021,
+      "awardOrder": 1,
+      "winner": "Siân Heder",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt10366460"
+      }
+    },
+    {
+      "id": "sundance-us-documentary-2021-summer-of-soul-or-when-the-revolution-could-not-be-televised",
+      "mediaType": "movie",
+      "title": "Summer of Soul (...Or, When the Revolution Could Not Be Televised)",
+      "award": "美国纪录片评审团大奖",
+      "awardYear": 2021,
+      "awardOrder": 2,
+      "winner": "Ahmir “Questlove” Thompson",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt11422728"
+      }
+    },
+    {
+      "id": "sundance-world-dramatic-2021-hive",
+      "mediaType": "movie",
+      "title": "Hive",
+      "originalTitle": "Zgjoi",
+      "award": "世界电影剧情片评审团大奖",
+      "awardYear": 2021,
+      "awardOrder": 3,
+      "winner": "Blerta Basholli",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt13648212"
+      }
+    },
+    {
+      "id": "sundance-world-documentary-2021-flee",
+      "mediaType": "movie",
+      "title": "逃亡",
+      "englishTitle": "Flee",
+      "originalTitle": "Flugt",
+      "award": "世界电影纪录片评审团大奖",
+      "awardYear": 2021,
+      "awardOrder": 4,
+      "winner": "Jonas Poher Rasmussen",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt8430054"
+      }
+    }
+  ]
+}

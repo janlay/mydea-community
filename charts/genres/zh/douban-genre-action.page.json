@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "icon": "chart.bar",
+  "title": "动作片榜单",
+  "description": "豆瓣动作片榜单，涵盖 12 个国家和地区。",
+  "tags": [
+    "douban",
+    "chart",
+    "genre",
+    "action"
+  ],
+  "sections": [
+    {
+      "title": "华语动作片",
+      "layout": "carousel",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "EC2YO2M2A"
+        }
+      ]
+    },
+    {
+      "title": "欧洲动作片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECHUOXOUA"
+        }
+      ]
+    },
+    {
+      "title": "美国动作片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECPMPC7JA"
+        }
+      ]
+    },
+    {
+      "title": "中国台湾动作片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECTMO64KY"
+        }
+      ]
+    },
+    {
+      "title": "日本动作片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECBAPBW2Y"
+        }
+      ]
+    },
+    {
+      "title": "韩国动作片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECWQOU2HI"
+        }
+      ]
+    },
+    {
+      "title": "英国动作片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECCUPDBHQ"
+        }
+      ]
+    },
+    {
+      "title": "法国动作片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "EC5UOWEFY"
+        }
+      ]
+    },
+    {
+      "title": "德国动作片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "EC7AOW57Q"
+        }
+      ]
+    },
+    {
+      "title": "印度动作片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECMQO4F2I"
+        }
+      ]
+    },
+    {
+      "title": "加拿大动作片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECUQPDN7Y"
+        }
+      ]
+    },
+    {
+      "title": "澳大利亚动作片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "EC4QPALEI"
+        }
+      ]
+    }
+  ]
+}

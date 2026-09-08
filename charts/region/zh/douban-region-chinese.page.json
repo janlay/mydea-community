@@ -1,0 +1,196 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "icon": "chart.bar",
+  "title": "豆瓣华语类型片",
+  "description": "豆瓣华语各类型片榜单，涵盖 15 个类型。",
+  "tags": [
+    "douban",
+    "chart",
+    "region",
+    "chinese"
+  ],
+  "sections": [
+    {
+      "title": "华语动作片",
+      "layout": "carousel",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "EC2YO2M2A"
+        }
+      ]
+    },
+    {
+      "title": "华语冒险片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECAUOWGNQ"
+        }
+      ]
+    },
+    {
+      "title": "华语动画片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECFMOYMKA"
+        }
+      ]
+    },
+    {
+      "title": "华语传记片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECVYOEEUA"
+        }
+      ]
+    },
+    {
+      "title": "华语喜剧片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECVUOUD7A"
+        }
+      ]
+    },
+    {
+      "title": "华语犯罪片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECVUO4O4Q"
+        }
+      ]
+    },
+    {
+      "title": "华语情色片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECKQOVFTY"
+        }
+      ]
+    },
+    {
+      "title": "华语奇幻片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "EC5MOJAZY"
+        }
+      ]
+    },
+    {
+      "title": "华语历史片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECV4N7YWY"
+        }
+      ]
+    },
+    {
+      "title": "华语恐怖片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "EC54OE5HA"
+        }
+      ]
+    },
+    {
+      "title": "华语悬疑片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECRMOX2JI"
+        }
+      ]
+    },
+    {
+      "title": "华语爱情片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECOIOTUGY"
+        }
+      ]
+    },
+    {
+      "title": "华语惊悚片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "EC5MPCA7Y"
+        }
+      ]
+    },
+    {
+      "title": "华语战争片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECWUOKOLY"
+        }
+      ]
+    },
+    {
+      "title": "华语武侠片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECEAOOAHI"
+        }
+      ]
+    }
+  ]
+}

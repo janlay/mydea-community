@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-16T04:39:02Z",
+  "title": "日舞影展 2017 年得獎名單",
+  "description": "2017 年日舞影展四項核心長片評審團大獎得獎作品。",
+  "tags": [
+    "award",
+    "park-city",
+    "decade"
+  ],
+  "items": [
+    {
+      "id": "sundance-us-dramatic-2017-i-don-t-feel-at-home-in-this-world-anymore",
+      "mediaType": "movie",
+      "title": "I Don't Feel at Home in This World Anymore",
+      "award": "美國劇情片評審團大獎",
+      "awardYear": 2017,
+      "awardOrder": 1,
+      "winner": "Macon Blair",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5710514"
+      }
+    },
+    {
+      "id": "sundance-us-documentary-2017-dina",
+      "mediaType": "movie",
+      "title": "Dina",
+      "award": "美國紀錄片評審團大獎",
+      "awardYear": 2017,
+      "awardOrder": 2,
+      "winner": "Antonio Santini & Dan Sickles",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6333058"
+      }
+    },
+    {
+      "id": "sundance-world-dramatic-2017-the-nile-hilton-incident",
+      "mediaType": "movie",
+      "title": "The Nile Hilton Incident",
+      "award": "世界電影劇情片評審團大獎",
+      "awardYear": 2017,
+      "awardOrder": 3,
+      "winner": "Tarik Saleh",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5540188"
+      }
+    },
+    {
+      "id": "sundance-world-documentary-2017-last-men-in-aleppo",
+      "mediaType": "movie",
+      "title": "Last Men in Aleppo",
+      "award": "世界電影紀錄片評審團大獎",
+      "awardYear": 2017,
+      "awardOrder": 4,
+      "winner": "Feras Fayyad",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6333074"
+      }
+    }
+  ]
+}

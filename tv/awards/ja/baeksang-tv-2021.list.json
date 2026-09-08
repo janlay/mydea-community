@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-21T00:00:00Z",
+  "title": "百想芸術大賞 — 2021",
+  "description": "2021年の百想芸術大賞におけるテレビ部門の受賞作品。",
+  "items": [
+    {
+      "id": "baeksang-2021-tv-grand-how-do-you-play",
+      "mediaType": "tv",
+      "title": "놀면 뭐하니?",
+      "originalTitle": "놀면 뭐하니?",
+      "award": "テレビ部門 大賞",
+      "awardYear": 2021,
+      "awardOrder": 1,
+      "winner": "ユ・ジェソク",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt15334046"
+      }
+    },
+    {
+      "id": "baeksang-2021-tv-best-beyond-evil",
+      "mediaType": "tv",
+      "title": "怪物",
+      "originalTitle": "괴물",
+      "award": "テレビ部門 作品賞",
+      "awardYear": 2021,
+      "awardOrder": 2,
+      "winner": "怪物",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt13634872"
+      }
+    },
+    {
+      "id": "baeksang-2021-tv-director-flower-evil",
+      "mediaType": "tv",
+      "title": "悪の花",
+      "originalTitle": "악의 꽃",
+      "award": "テレビ部門 演出賞",
+      "awardYear": 2021,
+      "awardOrder": 3,
+      "winner": "キム・チョルギュ",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt11691684"
+      }
+    },
+    {
+      "id": "baeksang-2021-tv-actor-beyond-evil",
+      "mediaType": "tv",
+      "title": "怪物",
+      "originalTitle": "괴물",
+      "award": "テレビ部門 男性最優秀演技賞",
+      "awardYear": 2021,
+      "awardOrder": 4,
+      "winner": "シン・ハギュン",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt13634872"
+      }
+    },
+    {
+      "id": "baeksang-2021-tv-actress-penthouse",
+      "mediaType": "tv",
+      "title": "ペントハウス",
+      "originalTitle": "펜트하우스",
+      "award": "テレビ部門 女性最優秀演技賞",
+      "awardYear": 2021,
+      "awardOrder": 5,
+      "winner": "キム・ソヨン",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt13067118"
+      }
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-16T04:39:02Z",
+  "title": "サンダンス映画祭 2021 受賞作品",
+  "description": "2021年サンダンス映画祭の主要4長編コンペティション審査員大賞の受賞作品。",
+  "tags": [
+    "award",
+    "park-city",
+    "decade"
+  ],
+  "items": [
+    {
+      "id": "sundance-us-dramatic-2021-coda",
+      "mediaType": "movie",
+      "title": "コーダ あいのうた",
+      "englishTitle": "CODA",
+      "award": "米国ドラマ部門 審査員大賞",
+      "awardYear": 2021,
+      "awardOrder": 1,
+      "winner": "Siân Heder",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt10366460"
+      }
+    },
+    {
+      "id": "sundance-us-documentary-2021-summer-of-soul-or-when-the-revolution-could-not-be-televised",
+      "mediaType": "movie",
+      "title": "Summer of Soul (...Or, When the Revolution Could Not Be Televised)",
+      "award": "米国ドキュメンタリー部門 審査員大賞",
+      "awardYear": 2021,
+      "awardOrder": 2,
+      "winner": "Ahmir “Questlove” Thompson",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt11422728"
+      }
+    },
+    {
+      "id": "sundance-world-dramatic-2021-hive",
+      "mediaType": "movie",
+      "title": "Hive",
+      "originalTitle": "Zgjoi",
+      "award": "ワールドシネマ・ドラマ部門 審査員大賞",
+      "awardYear": 2021,
+      "awardOrder": 3,
+      "winner": "Blerta Basholli",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt13648212"
+      }
+    },
+    {
+      "id": "sundance-world-documentary-2021-flee",
+      "mediaType": "movie",
+      "title": "FLEE フリー",
+      "englishTitle": "Flee",
+      "originalTitle": "Flugt",
+      "award": "ワールドシネマ・ドキュメンタリー部門 審査員大賞",
+      "awardYear": 2021,
+      "awardOrder": 4,
+      "winner": "Jonas Poher Rasmussen",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt8430054"
+      }
+    }
+  ]
+}

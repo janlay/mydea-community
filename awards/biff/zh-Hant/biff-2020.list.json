@@ -1,0 +1,114 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "釜山國際影展 2020 年得獎名單",
+  "description": "釜山國際影展 2020 年核心競賽獎得獎影片。",
+  "items": [
+    {
+      "id": "biff-2020-new-currents-a-balance",
+      "mediaType": "movie",
+      "title": "A Balance",
+      "award": "新浪潮獎",
+      "awardYear": 2020,
+      "awardOrder": 1,
+      "winner": "HARUMOTO Yujiro",
+      "releaseDate": "2020",
+      "externalIds": {
+        "letterboxd": "a-balance"
+      }
+    },
+    {
+      "id": "biff-2020-new-currents-three",
+      "mediaType": "movie",
+      "title": "Three",
+      "award": "新浪潮獎",
+      "awardYear": 2020,
+      "awardOrder": 2,
+      "winner": "PAK Ruslan",
+      "releaseDate": "2020",
+      "externalIds": {
+        "letterboxd": "three"
+      }
+    },
+    {
+      "id": "biff-2020-kim-jiseok-drowning-in-holy-water",
+      "mediaType": "movie",
+      "title": "Drowning in Holy Water",
+      "award": "金智奭獎",
+      "awardYear": 2020,
+      "awardOrder": 3,
+      "winner": "Navid MAHMOUDI",
+      "releaseDate": "2020",
+      "externalIds": {
+        "letterboxd": "drowning-in-holy-water"
+      }
+    },
+    {
+      "id": "biff-2020-kim-jiseok-the-slaughterhouse",
+      "mediaType": "movie",
+      "title": "The Slaughterhouse",
+      "award": "金智奭獎",
+      "awardYear": 2020,
+      "awardOrder": 4,
+      "winner": "Abbas AMINI",
+      "releaseDate": "2020",
+      "externalIds": {
+        "letterboxd": "the-slaughterhouse"
+      }
+    },
+    {
+      "id": "biff-2020-mecenat-the-art-of-living-in-danger",
+      "mediaType": "movie",
+      "title": "The Art of Living in Danger",
+      "award": "BIFF Mecenat獎",
+      "awardYear": 2020,
+      "awardOrder": 5,
+      "winner": "Mina KESHAVARZ",
+      "releaseDate": "2020",
+      "externalIds": {
+        "letterboxd": "the-art-of-living-in-danger"
+      }
+    },
+    {
+      "id": "biff-2020-mecenat-sister-j",
+      "mediaType": "movie",
+      "title": "Sister J",
+      "award": "BIFF Mecenat獎",
+      "awardYear": 2020,
+      "awardOrder": 6,
+      "winner": "LEE Soojung",
+      "releaseDate": "2020",
+      "externalIds": {
+        "letterboxd": "sister-j"
+      }
+    },
+    {
+      "id": "biff-2020-sonje-georgia",
+      "mediaType": "movie",
+      "title": "Georgia",
+      "award": "Sonje獎",
+      "awardYear": 2020,
+      "awardOrder": 7,
+      "winner": "Jayil PAK",
+      "releaseDate": "2020",
+      "externalIds": {
+        "letterboxd": "georgia"
+      }
+    },
+    {
+      "id": "biff-2020-sonje-mountain-cat",
+      "mediaType": "movie",
+      "title": "Mountain Cat",
+      "award": "Sonje獎",
+      "awardYear": 2020,
+      "awardOrder": 8,
+      "winner": "Lkhagvadulam PUREV-OCHIR",
+      "releaseDate": "2020",
+      "externalIds": {
+        "letterboxd": "mountain-cat"
+      }
+    }
+  ]
+}

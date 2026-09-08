@@ -1,0 +1,124 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "icon": "chart.bar",
+  "title": "冒险片榜单",
+  "description": "豆瓣冒险片榜单，涵盖 9 个国家和地区。",
+  "tags": [
+    "douban",
+    "chart",
+    "genre",
+    "adventure"
+  ],
+  "sections": [
+    {
+      "title": "华语冒险片",
+      "layout": "carousel",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECAUOWGNQ"
+        }
+      ]
+    },
+    {
+      "title": "欧洲冒险片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECW4O3GHY"
+        }
+      ]
+    },
+    {
+      "title": "美国冒险片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECOMON43Q"
+        }
+      ]
+    },
+    {
+      "title": "日本冒险片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECOUOVT2Q"
+        }
+      ]
+    },
+    {
+      "title": "英国冒险片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECFUORHLY"
+        }
+      ]
+    },
+    {
+      "title": "法国冒险片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "EC5YO53DI"
+        }
+      ]
+    },
+    {
+      "title": "德国冒险片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECMYOXC2Y"
+        }
+      ]
+    },
+    {
+      "title": "加拿大冒险片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECRYO5ULY"
+        }
+      ]
+    },
+    {
+      "title": "澳大利亚冒险片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECFIOR3MY"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-21T00:00:00Z",
+  "title": "Baeksang Arts Awards — 2021",
+  "description": "Broadcast category winners at the 2021 Baeksang Arts Awards.",
+  "items": [
+    {
+      "id": "baeksang-2021-tv-grand-how-do-you-play",
+      "mediaType": "tv",
+      "title": "How Do You Play?",
+      "originalTitle": "놀면 뭐하니?",
+      "award": "Broadcast Grand Prize",
+      "awardYear": 2021,
+      "awardOrder": 1,
+      "winner": "Yoo Jae-suk",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt15334046"
+      }
+    },
+    {
+      "id": "baeksang-2021-tv-best-beyond-evil",
+      "mediaType": "tv",
+      "title": "Beyond Evil",
+      "originalTitle": "괴물",
+      "award": "Best Drama",
+      "awardYear": 2021,
+      "awardOrder": 2,
+      "winner": "Beyond Evil",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt13634872"
+      }
+    },
+    {
+      "id": "baeksang-2021-tv-director-flower-evil",
+      "mediaType": "tv",
+      "title": "Flower of Evil",
+      "originalTitle": "악의 꽃",
+      "award": "Best Director Broadcast",
+      "awardYear": 2021,
+      "awardOrder": 3,
+      "winner": "Kim Cheol-kyu",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt11691684"
+      }
+    },
+    {
+      "id": "baeksang-2021-tv-actor-beyond-evil",
+      "mediaType": "tv",
+      "title": "Beyond Evil",
+      "originalTitle": "괴물",
+      "award": "Best Actor Broadcast",
+      "awardYear": 2021,
+      "awardOrder": 4,
+      "winner": "Shin Ha-kyun",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt13634872"
+      }
+    },
+    {
+      "id": "baeksang-2021-tv-actress-penthouse",
+      "mediaType": "tv",
+      "title": "The Penthouse: War in Life",
+      "originalTitle": "펜트하우스",
+      "award": "Best Actress Broadcast",
+      "awardYear": 2021,
+      "awardOrder": 5,
+      "winner": "Kim So-yeon",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt13067118"
+      }
+    }
+  ]
+}

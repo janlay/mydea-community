@@ -1,0 +1,532 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-16T04:39:02Z",
+  "title": "선댄스 영화제 — 미국 다큐멘터리 심사위원대상",
+  "description": "선댄스 영화제 “미국 다큐멘터리 심사위원대상” 역대 수상작. 1985년부터의 전체 수상 기록을 수록하며 공동 수상은 개별 항목으로 유지.",
+  "tags": [
+    "award",
+    "park-city",
+    "prize"
+  ],
+  "items": [
+    {
+      "id": "sundance-us-documentary-1985-seventeen",
+      "mediaType": "movie",
+      "title": "Seventeen",
+      "awardYear": 1985,
+      "winner": "Joel DeMott & Jeff Kreines",
+      "releaseDate": "1983",
+      "externalIds": {
+        "imdb": "tt0086290"
+      }
+    },
+    {
+      "id": "sundance-us-documentary-1986-private-conversations",
+      "mediaType": "movie",
+      "title": "Private Conversations",
+      "awardYear": 1986,
+      "winner": "Christian Blackwood",
+      "releaseDate": "1985",
+      "externalIds": {
+        "imdb": "tt0123230"
+      }
+    },
+    {
+      "id": "sundance-us-documentary-1987-sherman-s-march",
+      "mediaType": "movie",
+      "title": "Sherman's March",
+      "awardYear": 1987,
+      "winner": "Ross McElwee",
+      "releaseDate": "1985",
+      "externalIds": {
+        "imdb": "tt0091943"
+      }
+    },
+    {
+      "id": "sundance-us-documentary-1988-beirut-the-last-home-movie",
+      "mediaType": "movie",
+      "title": "Beirut: The Last Home Movie",
+      "awardYear": 1988,
+      "winner": "Jennifer Fox",
+      "releaseDate": "1987",
+      "externalIds": {
+        "imdb": "tt0092630"
+      }
+    },
+    {
+      "id": "sundance-us-documentary-1989-for-all-mankind",
+      "mediaType": "movie",
+      "title": "For All Mankind",
+      "awardYear": 1989,
+      "winner": "Al Reinert",
+      "releaseDate": "1989",
+      "externalIds": {
+        "imdb": "tt0097372"
+      }
+    },
+    {
+      "id": "sundance-us-documentary-1990-h-2-worker",
+      "mediaType": "movie",
+      "title": "H-2 Worker",
+      "awardYear": 1990,
+      "winner": "Stephanie Black",
+      "releaseDate": "1990",
+      "externalIds": {
+        "imdb": "tt0123097"
+      }
+    },
+    {
+      "id": "sundance-us-documentary-1990-water-and-power",
+      "mediaType": "movie",
+      "title": "Water and Power",
+      "awardYear": 1990,
+      "winner": "Pat O'Neill",
+      "releaseDate": "1989",
+      "externalIds": {
+        "imdb": "tt0098624"
+      }
+    },
+    {
+      "id": "sundance-us-documentary-1991-american-dream",
+      "mediaType": "movie",
+      "title": "American Dream",
+      "awardYear": 1991,
+      "winner": "Cathy Caplan & Thomas Haneke & Barbara Kopple & Lawrence Silk",
+      "releaseDate": "1990",
+      "externalIds": {
+        "imdb": "tt0099028"
+      }
+    },
+    {
+      "id": "sundance-us-documentary-1991-paris-is-burning",
+      "mediaType": "movie",
+      "title": "Paris Is Burning",
+      "awardYear": 1991,
+      "winner": "Jennie Livingston",
+      "releaseDate": "1990",
+      "externalIds": {
+        "imdb": "tt0100332"
+      }
+    },
+    {
+      "id": "sundance-us-documentary-1992-a-brief-history-of-time",
+      "mediaType": "movie",
+      "title": "A Brief History of Time",
+      "awardYear": 1992,
+      "winner": "Errol Morris",
+      "releaseDate": "1991",
+      "externalIds": {
+        "imdb": "tt0103882"
+      }
+    },
+    {
+      "id": "sundance-us-documentary-1992-finding-christa",
+      "mediaType": "movie",
+      "title": "Finding Christa",
+      "awardYear": 1992,
+      "winner": "Camille Billops & James Hatch",
+      "releaseDate": "1991",
+      "externalIds": {
+        "imdb": "tt0123071"
+      }
+    },
+    {
+      "id": "sundance-us-documentary-1993-children-of-fate-life-and-death-in-a-sicilian-family",
+      "mediaType": "movie",
+      "title": "Children of Fate: Life and Death in a Sicilian Family",
+      "awardYear": 1993,
+      "winner": "Michael Roemer & Susan Todd & Andrew Young & Robert M. Young",
+      "releaseDate": "1993",
+      "externalIds": {
+        "imdb": "tt0106556"
+      }
+    },
+    {
+      "id": "sundance-us-documentary-1993-silverlake-life-the-view-from-here",
+      "mediaType": "movie",
+      "title": "Silverlake Life: The View from Here",
+      "awardYear": 1993,
+      "winner": "Tom Joslin & Peter Friedman",
+      "releaseDate": "1993",
+      "externalIds": {
+        "imdb": "tt0108138"
+      }
+    },
+    {
+      "id": "sundance-us-documentary-1994-freedom-on-my-mind",
+      "mediaType": "movie",
+      "title": "Freedom on My Mind",
+      "awardYear": 1994,
+      "winner": "Connie Field & Marilyn Mulford",
+      "releaseDate": "1994",
+      "externalIds": {
+        "imdb": "tt0109839"
+      }
+    },
+    {
+      "id": "sundance-us-documentary-1995-crumb",
+      "mediaType": "movie",
+      "title": "Crumb",
+      "awardYear": 1995,
+      "winner": "Terry Zwigoff",
+      "releaseDate": "1994",
+      "externalIds": {
+        "imdb": "tt0109508"
+      }
+    },
+    {
+      "id": "sundance-us-documentary-1996-troublesome-creek-a-midwestern",
+      "mediaType": "movie",
+      "title": "Troublesome Creek: A Midwestern",
+      "awardYear": 1996,
+      "winner": "Steven Ascher & Jeanne Jordan",
+      "releaseDate": "1995",
+      "externalIds": {
+        "imdb": "tt1614420"
+      }
+    },
+    {
+      "id": "sundance-us-documentary-1997-girls-like-us",
+      "mediaType": "movie",
+      "title": "Girls Like Us",
+      "awardYear": 1997,
+      "winner": "Jane C. Wagner & Tina DiFeliciantonio",
+      "releaseDate": "1997",
+      "externalIds": {
+        "imdb": "tt0116415"
+      }
+    },
+    {
+      "id": "sundance-us-documentary-1998-the-farm-angola-usa",
+      "mediaType": "movie",
+      "title": "The Farm: Angola, USA",
+      "awardYear": 1998,
+      "winner": "Liz Garbus & Wilbert Rideau & Jonathan Stack",
+      "releaseDate": "1998",
+      "externalIds": {
+        "imdb": "tt0139193"
+      }
+    },
+    {
+      "id": "sundance-us-documentary-1998-frat-house",
+      "mediaType": "movie",
+      "title": "Frat House",
+      "awardYear": 1998,
+      "winner": "Andrew Gurland & Todd Phillips",
+      "releaseDate": "1998",
+      "externalIds": {
+        "imdb": "tt0139221"
+      }
+    },
+    {
+      "id": "sundance-us-documentary-1999-american-movie",
+      "mediaType": "movie",
+      "title": "American Movie",
+      "awardYear": 1999,
+      "winner": "Chris Smith",
+      "releaseDate": "1999",
+      "externalIds": {
+        "imdb": "tt0181288"
+      }
+    },
+    {
+      "id": "sundance-us-documentary-2000-long-night-s-journey-into-day",
+      "mediaType": "movie",
+      "title": "Long Night's Journey Into Day",
+      "awardYear": 2000,
+      "winner": "Deborah Hoffmann & Frances Reid",
+      "releaseDate": "2000",
+      "externalIds": {
+        "imdb": "tt0236447"
+      }
+    },
+    {
+      "id": "sundance-us-documentary-2001-southern-comfort",
+      "mediaType": "movie",
+      "title": "Southern Comfort",
+      "awardYear": 2001,
+      "winner": "Kate Davis",
+      "releaseDate": "2001",
+      "externalIds": {
+        "imdb": "tt0276515"
+      }
+    },
+    {
+      "id": "sundance-us-documentary-2002-daughter-from-danang",
+      "mediaType": "movie",
+      "title": "Daughter from Danang",
+      "awardYear": 2002,
+      "winner": "Gail Dolgin & Vicente Franco",
+      "releaseDate": "2002",
+      "externalIds": {
+        "imdb": "tt0303281"
+      }
+    },
+    {
+      "id": "sundance-us-documentary-2003-capturing-the-friedmans",
+      "mediaType": "movie",
+      "title": "Capturing the Friedmans",
+      "awardYear": 2003,
+      "winner": "Andrew Jarecki",
+      "releaseDate": "2003",
+      "externalIds": {
+        "imdb": "tt0342172"
+      }
+    },
+    {
+      "id": "sundance-us-documentary-2004-dig",
+      "mediaType": "movie",
+      "title": "DIG!",
+      "awardYear": 2004,
+      "winner": "Ondi Timoner",
+      "releaseDate": "2004",
+      "externalIds": {
+        "imdb": "tt0388888"
+      }
+    },
+    {
+      "id": "sundance-us-documentary-2005-why-we-fight",
+      "mediaType": "movie",
+      "title": "Why We Fight",
+      "awardYear": 2005,
+      "winner": "Eugene Jarecki",
+      "releaseDate": "2005",
+      "externalIds": {
+        "imdb": "tt0436971"
+      }
+    },
+    {
+      "id": "sundance-us-documentary-2006-god-grew-tired-of-us",
+      "mediaType": "movie",
+      "title": "God Grew Tired of Us",
+      "awardYear": 2006,
+      "winner": "Christopher Dillon Quinn & Tommy Walker",
+      "releaseDate": "2006",
+      "externalIds": {
+        "imdb": "tt0301555"
+      }
+    },
+    {
+      "id": "sundance-us-documentary-2007-manda-bala-send-a-bullet",
+      "mediaType": "movie",
+      "title": "Manda Bala (Send a Bullet)",
+      "awardYear": 2007,
+      "winner": "Jason Kohn",
+      "releaseDate": "2007",
+      "externalIds": {
+        "imdb": "tt0912590"
+      }
+    },
+    {
+      "id": "sundance-us-documentary-2008-trouble-the-water",
+      "mediaType": "movie",
+      "title": "Trouble the Water",
+      "awardYear": 2008,
+      "winner": "Carl Deal & Tia Lessin",
+      "releaseDate": "2008",
+      "externalIds": {
+        "imdb": "tt1149405"
+      }
+    },
+    {
+      "id": "sundance-us-documentary-2009-we-live-in-public",
+      "mediaType": "movie",
+      "title": "We Live in Public",
+      "awardYear": 2009,
+      "winner": "Ondi Timoner",
+      "releaseDate": "2009",
+      "externalIds": {
+        "imdb": "tt0498329"
+      }
+    },
+    {
+      "id": "sundance-us-documentary-2010-restrepo",
+      "mediaType": "movie",
+      "title": "Restrepo",
+      "awardYear": 2010,
+      "winner": "Tim Hetherington & Sebastian Junger",
+      "releaseDate": "2010",
+      "externalIds": {
+        "imdb": "tt1559549"
+      }
+    },
+    {
+      "id": "sundance-us-documentary-2011-how-to-die-in-oregon",
+      "mediaType": "movie",
+      "title": "How to Die in Oregon",
+      "awardYear": 2011,
+      "winner": "Peter Richardson",
+      "releaseDate": "2011",
+      "externalIds": {
+        "imdb": "tt1715802"
+      }
+    },
+    {
+      "id": "sundance-us-documentary-2012-the-house-i-live-in",
+      "mediaType": "movie",
+      "title": "The House I Live In",
+      "awardYear": 2012,
+      "winner": "Eugene Jarecki",
+      "releaseDate": "2012",
+      "externalIds": {
+        "imdb": "tt2125653"
+      }
+    },
+    {
+      "id": "sundance-us-documentary-2013-blood-brother",
+      "mediaType": "movie",
+      "title": "Blood Brother",
+      "awardYear": 2013,
+      "winner": "Steve Hoover",
+      "releaseDate": "2013",
+      "externalIds": {
+        "imdb": "tt2265179"
+      }
+    },
+    {
+      "id": "sundance-us-documentary-2014-rich-hill",
+      "mediaType": "movie",
+      "title": "Rich Hill",
+      "awardYear": 2014,
+      "winner": "Andrew Droz Palermo & Tracy Droz Tragos",
+      "releaseDate": "2014",
+      "externalIds": {
+        "imdb": "tt2548738"
+      }
+    },
+    {
+      "id": "sundance-us-documentary-2015-the-wolfpack",
+      "mediaType": "movie",
+      "title": "The Wolfpack",
+      "awardYear": 2015,
+      "winner": "Crystal Moselle",
+      "releaseDate": "2015",
+      "externalIds": {
+        "imdb": "tt2415458"
+      }
+    },
+    {
+      "id": "sundance-us-documentary-2016-weiner",
+      "mediaType": "movie",
+      "title": "Weiner",
+      "awardYear": 2016,
+      "winner": "Josh Kriegman & Elyse Steinberg",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5278596"
+      }
+    },
+    {
+      "id": "sundance-us-documentary-2017-dina",
+      "mediaType": "movie",
+      "title": "Dina",
+      "awardYear": 2017,
+      "winner": "Antonio Santini & Dan Sickles",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6333058"
+      }
+    },
+    {
+      "id": "sundance-us-documentary-2018-kailash",
+      "mediaType": "movie",
+      "title": "Kailash",
+      "awardYear": 2018,
+      "winner": "Derek Doneen",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7689912"
+      }
+    },
+    {
+      "id": "sundance-us-documentary-2019-one-child-nation",
+      "mediaType": "movie",
+      "title": "One Child Nation",
+      "awardYear": 2019,
+      "winner": "Nanfu Wang & Jialing Zhang",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt8923482"
+      }
+    },
+    {
+      "id": "sundance-us-documentary-2020-boys-state",
+      "mediaType": "movie",
+      "title": "Boys State",
+      "awardYear": 2020,
+      "winner": "Jesse Moss & Amanda McBaine",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt11095742"
+      }
+    },
+    {
+      "id": "sundance-us-documentary-2021-summer-of-soul-or-when-the-revolution-could-not-be-televised",
+      "mediaType": "movie",
+      "title": "Summer of Soul (...Or, When the Revolution Could Not Be Televised)",
+      "awardYear": 2021,
+      "winner": "Ahmir “Questlove” Thompson",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt11422728"
+      }
+    },
+    {
+      "id": "sundance-us-documentary-2022-the-exiles",
+      "mediaType": "movie",
+      "title": "The Exiles",
+      "awardYear": 2022,
+      "winner": "Ben Klein & Violet Columbus",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt16227006"
+      }
+    },
+    {
+      "id": "sundance-us-documentary-2023-going-to-mars-the-nikki-giovanni-project",
+      "mediaType": "movie",
+      "title": "Going to Mars: The Nikki Giovanni Project",
+      "awardYear": 2023,
+      "winner": "Joe Brewster & Michèle Stephenson",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt7196012"
+      }
+    },
+    {
+      "id": "sundance-us-documentary-2024-porcelain-war",
+      "mediaType": "movie",
+      "title": "Porcelain War",
+      "awardYear": 2024,
+      "winner": "Brendan Bellomo & Slava Leontyev",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt30294282"
+      }
+    },
+    {
+      "id": "sundance-us-documentary-2025-seeds",
+      "mediaType": "movie",
+      "title": "Seeds",
+      "awardYear": 2025,
+      "winner": "Brittany Shyne",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt34963731"
+      }
+    },
+    {
+      "id": "sundance-us-documentary-2026-nuisance-bear",
+      "mediaType": "movie",
+      "title": "Nuisance Bear",
+      "awardYear": 2026,
+      "winner": "Gabriela Osio Vanden & Jack Weisman",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt39150922"
+      }
+    }
+  ]
+}

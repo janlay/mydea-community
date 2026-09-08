@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "金球奖 2019",
+  "description": "2019 金球奖电影类获奖名单。",
+  "items": [
+    {
+      "id": "golden-globes-2019-drama-bohemian-rhapsody",
+      "mediaType": "movie",
+      "title": "波西米亚狂想曲",
+      "englishTitle": "Bohemian Rhapsody",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt1727824"
+      },
+      "award": "最佳剧情片",
+      "awardYear": 2019,
+      "awardOrder": 1,
+      "winner": "波西米亚狂想曲"
+    },
+    {
+      "id": "golden-globes-2019-comedy-green-book",
+      "mediaType": "movie",
+      "title": "绿皮书",
+      "englishTitle": "Green Book",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt6966692"
+      },
+      "award": "最佳音乐或喜剧片",
+      "awardYear": 2019,
+      "awardOrder": 2,
+      "winner": "绿皮书"
+    },
+    {
+      "id": "golden-globes-2019-animated-spider-man-into-the-spider-verse",
+      "mediaType": "movie",
+      "title": "蜘蛛侠：平行宇宙",
+      "englishTitle": "Spider-Man: Into the Spider-Verse",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt4633694"
+      },
+      "award": "最佳动画片",
+      "awardYear": 2019,
+      "awardOrder": 3,
+      "winner": "蜘蛛侠：平行宇宙"
+    },
+    {
+      "id": "golden-globes-2019-foreign-roma",
+      "mediaType": "movie",
+      "title": "罗马",
+      "englishTitle": "Roma",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt6155172"
+      },
+      "award": "最佳非英语片",
+      "awardYear": 2019,
+      "awardOrder": 4,
+      "winner": "罗马"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "icon": "chart.bar",
+  "title": "全球 Top 剧集",
+  "description": "基于长年评分与观看数据沉淀的稳定长期剧集榜单，不追逐每日热度波动。",
+  "tags": [
+    "chart",
+    "top",
+    "global",
+    "tv"
+  ],
+  "sections": [
+    {
+      "title": "IMDb Top 250 剧集",
+      "description": "IMDb Top 250 剧集榜单，按加权用户评分排序。",
+      "layout": "carousel",
+      "service": "imdb",
+      "query": "imdb_custom_list",
+      "params": [
+        {
+          "name": "chart_shortcut",
+          "value": "toptv"
+        },
+        {
+          "name": "list_url",
+          "value": "toptv"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T05:03:58Z",
+  "title": "Oscars 2026 Winners",
+  "description": "Winners in core film categories at the 98th Academy Awards.",
+  "items": [
+    {
+      "id": "oscars-2026-best-picture-one-battle-after-another",
+      "mediaType": "movie",
+      "title": "One Battle After Another",
+      "award": "Best Picture",
+      "awardYear": 2026,
+      "awardOrder": 1,
+      "winner": "Adam Somner, Sara Murphy & Paul Thomas Anderson",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt30144839"
+      }
+    },
+    {
+      "id": "oscars-2026-best-director-one-battle-after-another",
+      "mediaType": "movie",
+      "title": "One Battle After Another",
+      "award": "Best Director",
+      "awardYear": 2026,
+      "awardOrder": 2,
+      "winner": "Paul Thomas Anderson",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt30144839"
+      }
+    },
+    {
+      "id": "oscars-2026-best-actor-sinners",
+      "mediaType": "movie",
+      "title": "Sinners",
+      "award": "Best Actor",
+      "awardYear": 2026,
+      "awardOrder": 3,
+      "winner": "Michael B. Jordan",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31193180"
+      }
+    },
+    {
+      "id": "oscars-2026-best-actress-hamnet",
+      "mediaType": "movie",
+      "title": "Hamnet",
+      "award": "Best Actress",
+      "awardYear": 2026,
+      "awardOrder": 4,
+      "winner": "Jessie Buckley",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt14905854"
+      }
+    },
+    {
+      "id": "oscars-2026-best-supporting-actor-one-battle-after-another",
+      "mediaType": "movie",
+      "title": "One Battle After Another",
+      "award": "Best Supporting Actor",
+      "awardYear": 2026,
+      "awardOrder": 5,
+      "winner": "Sean Penn",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt30144839"
+      }
+    },
+    {
+      "id": "oscars-2026-best-supporting-actress-weapons",
+      "mediaType": "movie",
+      "title": "Weapons",
+      "award": "Best Supporting Actress",
+      "awardYear": 2026,
+      "awardOrder": 6,
+      "winner": "Amy Madigan",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt26581740"
+      }
+    },
+    {
+      "id": "oscars-2026-best-original-screenplay-sinners",
+      "mediaType": "movie",
+      "title": "Sinners",
+      "award": "Best Original Screenplay",
+      "awardYear": 2026,
+      "awardOrder": 7,
+      "winner": "Ryan Coogler",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31193180"
+      }
+    },
+    {
+      "id": "oscars-2026-best-adapted-screenplay-one-battle-after-another",
+      "mediaType": "movie",
+      "title": "One Battle After Another",
+      "award": "Best Adapted Screenplay",
+      "awardYear": 2026,
+      "awardOrder": 8,
+      "winner": "Paul Thomas Anderson",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt30144839"
+      }
+    },
+    {
+      "id": "oscars-2026-best-animated-feature-kpop-demon-hunters",
+      "mediaType": "movie",
+      "title": "KPop Demon Hunters",
+      "award": "Best Animated Feature",
+      "awardYear": 2026,
+      "awardOrder": 9,
+      "winner": "Maggie Kang, Chris Appelhans & Michelle L.M. Wong",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt14205554"
+      }
+    },
+    {
+      "id": "oscars-2026-best-international-feature-sentimental-value",
+      "mediaType": "movie",
+      "title": "Sentimental Value",
+      "award": "Best International Feature Film",
+      "awardYear": 2026,
+      "awardOrder": 10,
+      "winner": "Norway",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt27714581"
+      }
+    }
+  ]
+}

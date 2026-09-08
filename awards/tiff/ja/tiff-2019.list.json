@@ -1,0 +1,169 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:47:39Z",
+  "title": "トロント — 2019",
+  "description": "2019年トロント国際映画祭の映画賞受賞作。",
+  "items": [
+    {
+      "id": "tiff-2019-peoples-choice-2019-jojo-rabbit",
+      "mediaType": "movie",
+      "title": "ジョジョ・ラビット",
+      "englishTitle": "Jojo Rabbit",
+      "releaseDate": "2019",
+      "externalIds": {
+        "letterboxd": "jojo-rabbit"
+      },
+      "awardYear": 2019,
+      "winner": "Taika Waititi",
+      "award": "観客賞",
+      "awardOrder": 1
+    },
+    {
+      "id": "tiff-2019-documentary-peoples-choice-2019-the-cave",
+      "mediaType": "movie",
+      "title": "The Cave",
+      "releaseDate": "2019",
+      "externalIds": {
+        "letterboxd": "the-cave"
+      },
+      "awardYear": 2019,
+      "winner": "Feras Fayyad",
+      "award": "ドキュメンタリー観客賞",
+      "awardOrder": 2
+    },
+    {
+      "id": "tiff-2019-midnight-madness-peoples-choice-2019-the-platform",
+      "mediaType": "movie",
+      "title": "プラットフォーム",
+      "englishTitle": "The Platform",
+      "releaseDate": "2019",
+      "externalIds": {
+        "letterboxd": "the-platform"
+      },
+      "awardYear": 2019,
+      "winner": "Galder Gaztelu-Urrutia",
+      "award": "ミッドナイト・マッドネス観客賞",
+      "awardOrder": 3
+    },
+    {
+      "id": "tiff-2019-platform-prize-2019-martin-eden",
+      "mediaType": "movie",
+      "title": "Martin Eden",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt4516162",
+        "letterboxd": "martin-eden"
+      },
+      "awardYear": 2019,
+      "winner": "Pietro Marcello",
+      "award": "プラットフォーム賞",
+      "awardOrder": 4
+    },
+    {
+      "id": "tiff-2019-best-canadian-feature-2019-antigone",
+      "mediaType": "movie",
+      "title": "Antigone",
+      "releaseDate": "2019",
+      "externalIds": {
+        "letterboxd": "antigone"
+      },
+      "awardYear": 2019,
+      "winner": "Sophie Deraspe",
+      "award": "最優秀カナダ長編映画賞",
+      "awardOrder": 5
+    },
+    {
+      "id": "tiff-2019-best-canadian-discovery-2019-the-twentieth-century",
+      "mediaType": "movie",
+      "title": "The Twentieth Century",
+      "releaseDate": "2019",
+      "externalIds": {
+        "letterboxd": "the-twentieth-century"
+      },
+      "awardYear": 2019,
+      "winner": "Matthew Rankin",
+      "award": "最優秀カナダ・ディスカバリー賞",
+      "awardOrder": 6
+    },
+    {
+      "id": "tiff-2019-best-canadian-short-film-2019-delphine",
+      "mediaType": "movie",
+      "title": "Delphine",
+      "releaseDate": "2019",
+      "externalIds": {
+        "letterboxd": "delphine"
+      },
+      "awardYear": 2019,
+      "winner": "Chloé Robichaud",
+      "award": "最優秀カナダ短編映画賞",
+      "awardOrder": 7
+    },
+    {
+      "id": "tiff-2019-best-canadian-first-feature-2019-the-twentieth-century",
+      "mediaType": "movie",
+      "title": "The Twentieth Century",
+      "releaseDate": "2019",
+      "externalIds": {
+        "letterboxd": "the-twentieth-century"
+      },
+      "awardYear": 2019,
+      "winner": "Matthew Rankin",
+      "award": "最優秀カナダ新人長編映画賞",
+      "awardOrder": 8
+    },
+    {
+      "id": "tiff-2019-fipresci-prize-discovery-2019-murmur",
+      "mediaType": "movie",
+      "title": "Murmur",
+      "releaseDate": "2019",
+      "externalIds": {
+        "letterboxd": "murmur"
+      },
+      "awardYear": 2019,
+      "winner": "Heather Young",
+      "award": "FIPRESCI賞 — Discovery",
+      "awardOrder": 9
+    },
+    {
+      "id": "tiff-2019-fipresci-prize-special-presentations-2019-how-to-build-a-girl",
+      "mediaType": "movie",
+      "title": "How to Build a Girl",
+      "releaseDate": "2019",
+      "externalIds": {
+        "letterboxd": "how-to-build-a-girl"
+      },
+      "awardYear": 2019,
+      "winner": "Coky Giedroyc",
+      "award": "FIPRESCI賞 — Special Presentations",
+      "awardOrder": 10
+    },
+    {
+      "id": "tiff-2019-best-international-short-film-2019-all-cats-are-grey-in-the-dark",
+      "mediaType": "movie",
+      "title": "All Cats Are Grey in the Dark",
+      "releaseDate": "2019",
+      "externalIds": {
+        "letterboxd": "all-cats-are-grey-in-the-dark"
+      },
+      "awardYear": 2019,
+      "winner": "Lasse Linder",
+      "award": "最優秀国際短編映画賞",
+      "awardOrder": 11
+    },
+    {
+      "id": "tiff-2019-netpac-award-2019-1982",
+      "mediaType": "movie",
+      "title": "1982",
+      "releaseDate": "2019",
+      "externalIds": {
+        "letterboxd": "1982"
+      },
+      "awardYear": 2019,
+      "winner": "Oualid Mouaness",
+      "award": "NETPAC賞",
+      "awardOrder": 12
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "icon": "chart.bar",
+  "title": "爱情片榜单",
+  "description": "豆瓣爱情片榜单，涵盖 18 个国家和地区。",
+  "tags": [
+    "douban",
+    "chart",
+    "genre",
+    "romance"
+  ],
+  "sections": [
+    {
+      "title": "华语爱情片",
+      "layout": "carousel",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECOIOTUGY"
+        }
+      ]
+    },
+    {
+      "title": "欧洲爱情片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECUAOYUCA"
+        }
+      ]
+    },
+    {
+      "title": "中国大陆爱情片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "EC64OQVEQ"
+        }
+      ]
+    },
+    {
+      "title": "美国爱情片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "EC4EOSAQA"
+        }
+      ]
+    },
+    {
+      "title": "中国台湾爱情片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECWQOQO4A"
+        }
+      ]
+    },
+    {
+      "title": "日本爱情片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECKMOVF3Y"
+        }
+      ]
+    },
+    {
+      "title": "韩国爱情片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECHIOXXIQ"
+        }
+      ]
+    },
+    {
+      "title": "英国爱情片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECHAO4AAQ"
+        }
+      ]
+    },
+    {
+      "title": "法国爱情片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECTAOT7GQ"
+        }
+      ]
+    },
+    {
+      "title": "德国爱情片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECNIOS7EQ"
+        }
+      ]
+    },
+    {
+      "title": "意大利爱情片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "EC3UOSWUY"
+        }
+      ]
+    },
+    {
+      "title": "西班牙爱情片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECU4OWMMI"
+        }
+      ]
+    },
+    {
+      "title": "瑞典爱情片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECCEOUVAA"
+        }
+      ]
+    },
+    {
+      "title": "印度爱情片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECLUOQWVY"
+        }
+      ]
+    },
+    {
+      "title": "泰国爱情片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECYQO7YPQ"
+        }
+      ]
+    },
+    {
+      "title": "加拿大爱情片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECEAOXFIQ"
+        }
+      ]
+    },
+    {
+      "title": "澳大利亚爱情片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECOUOXYUA"
+        }
+      ]
+    },
+    {
+      "title": "爱尔兰爱情片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECJMO2O5Y"
+        }
+      ]
+    }
+  ]
+}

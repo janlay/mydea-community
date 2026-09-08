@@ -1,0 +1,114 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "釜山国際映画祭 2017 受賞作品",
+  "description": "釜山国際映画祭 2017 の主要コンペティション受賞作品。",
+  "items": [
+    {
+      "id": "biff-2017-new-currents-after-my-death",
+      "mediaType": "movie",
+      "title": "After My Death",
+      "award": "ニューカレンツ賞",
+      "awardYear": 2017,
+      "awardOrder": 1,
+      "winner": "KIM Uiseok",
+      "releaseDate": "2017",
+      "externalIds": {
+        "letterboxd": "after-my-death"
+      }
+    },
+    {
+      "id": "biff-2017-new-currents-blockage",
+      "mediaType": "movie",
+      "title": "Blockage",
+      "award": "ニューカレンツ賞",
+      "awardYear": 2017,
+      "awardOrder": 2,
+      "winner": "Mohsen GHARAEI",
+      "releaseDate": "2017",
+      "externalIds": {
+        "letterboxd": "blockage"
+      }
+    },
+    {
+      "id": "biff-2017-kim-jiseok-malila-the-farewell-flower",
+      "mediaType": "movie",
+      "title": "Malila: The Farewell Flower",
+      "award": "キム・ジソク賞",
+      "awardYear": 2017,
+      "awardOrder": 3,
+      "winner": "Anucha BOONYAWATANA",
+      "releaseDate": "2017",
+      "externalIds": {
+        "letterboxd": "malila-the-farewell-flower"
+      }
+    },
+    {
+      "id": "biff-2017-kim-jiseok-the-scythian-lamb",
+      "mediaType": "movie",
+      "title": "The Scythian Lamb",
+      "award": "キム・ジソク賞",
+      "awardYear": 2017,
+      "awardOrder": 4,
+      "winner": "YOSHIDA Daihachi",
+      "releaseDate": "2017",
+      "externalIds": {
+        "letterboxd": "the-scythian-lamb"
+      }
+    },
+    {
+      "id": "biff-2017-mecenat-soseongri",
+      "mediaType": "movie",
+      "title": "Soseongri",
+      "award": "BIFFメセナ賞",
+      "awardYear": 2017,
+      "awardOrder": 5,
+      "winner": "PARK Baeil",
+      "releaseDate": "2017",
+      "externalIds": {
+        "letterboxd": "soseongri"
+      }
+    },
+    {
+      "id": "biff-2017-mecenat-sennan-asbestos-disaster",
+      "mediaType": "movie",
+      "title": "Sennan Asbestos Disaster",
+      "award": "BIFFメセナ賞",
+      "awardYear": 2017,
+      "awardOrder": 6,
+      "winner": "HARA Kazuo",
+      "releaseDate": "2017",
+      "externalIds": {
+        "letterboxd": "sennan-asbestos-disaster"
+      }
+    },
+    {
+      "id": "biff-2017-sonje-madonna",
+      "mediaType": "movie",
+      "title": "Madonna",
+      "award": "ソンジェ賞",
+      "awardYear": 2017,
+      "awardOrder": 7,
+      "winner": "Sinung WINAHYOKO",
+      "releaseDate": "2017",
+      "externalIds": {
+        "letterboxd": "madonna"
+      }
+    },
+    {
+      "id": "biff-2017-sonje-a-hand-written-poster",
+      "mediaType": "movie",
+      "title": "A Hand-written Poster",
+      "award": "ソンジェ賞",
+      "awardYear": 2017,
+      "awardOrder": 8,
+      "winner": "KWAK Eunmi",
+      "releaseDate": "2017",
+      "externalIds": {
+        "letterboxd": "a-hand-written-poster"
+      }
+    }
+  ]
+}

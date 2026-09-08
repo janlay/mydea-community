@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T02:53:58Z",
+  "title": "百想藝術大賞 — 2023",
+  "description": "2023 年百想藝術大賞電影主要獎項獲獎記錄。",
+  "items": [
+    {
+      "id": "baeksang-2023-film-grand-decision",
+      "mediaType": "movie",
+      "title": "分手的決心",
+      "originalTitle": "헤어질 결심",
+      "award": "電影大獎",
+      "awardYear": 2023,
+      "awardOrder": 1,
+      "winner": "分手的決心",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt12477480"
+      }
+    },
+    {
+      "id": "baeksang-2023-film-best-night-owl",
+      "mediaType": "movie",
+      "title": "夜梟",
+      "originalTitle": "올빼미",
+      "award": "最佳電影",
+      "awardYear": 2023,
+      "awardOrder": 2,
+      "winner": "夜梟",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt23871504"
+      }
+    },
+    {
+      "id": "baeksang-2023-film-director-decision",
+      "mediaType": "movie",
+      "title": "分手的決心",
+      "originalTitle": "헤어질 결심",
+      "award": "電影最佳導演",
+      "awardYear": 2023,
+      "awardOrder": 3,
+      "winner": "Park Chan-wook",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt12477480"
+      }
+    },
+    {
+      "id": "baeksang-2023-film-actor-night-owl",
+      "mediaType": "movie",
+      "title": "夜梟",
+      "originalTitle": "올빼미",
+      "award": "電影最佳男主角",
+      "awardYear": 2023,
+      "awardOrder": 4,
+      "winner": "Ryu Jun-yeol",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt23871504"
+      }
+    },
+    {
+      "id": "baeksang-2023-film-actress-decision",
+      "mediaType": "movie",
+      "title": "分手的決心",
+      "originalTitle": "헤어질 결심",
+      "award": "電影最佳女主角",
+      "awardYear": 2023,
+      "awardOrder": 5,
+      "winner": "Tang Wei",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt12477480"
+      }
+    }
+  ]
+}

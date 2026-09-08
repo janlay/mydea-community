@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "title": "カンヌ — 短編映画賞",
+  "author": "Mydea",
+  "updatedAt": "2026-09-16T04:43:24Z",
+  "description": "カンヌ国際映画祭の短編映画部門における歴代受賞作。",
+  "tags": [
+    "award",
+    "cannes",
+    "prize"
+  ],
+  "icon": "ticket",
+  "sections": [
+    {
+      "title": "カンヌ — 短編パルム・ドール",
+      "description": "カンヌ国際映画祭の短編映画部門における歴代受賞作。 短編パルム・ドール.",
+      "layout": "carousel",
+      "limit": 10,
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "cannes-short-film-palme-dor.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "カンヌ — 短編審査員賞・特別賞",
+      "description": "カンヌ国際映画祭の短編映画部門における歴代受賞作。 短編審査員賞・特別賞.",
+      "layout": "grid",
+      "limit": 10,
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "cannes-short-film-jury-distinction.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    }
+  ]
+}

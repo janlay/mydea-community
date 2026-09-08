@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T02:58:14Z",
+  "title": "百想芸術大賞 — テレビ部門 作品賞",
+  "description": "百想芸術大賞のテレビ部門作品賞受賞作。 2017年から2026年までを収録。",
+  "items": [
+    {
+      "id": "baeksang-2017-tv-best-dear-friends",
+      "mediaType": "tv",
+      "title": "ディア・マイ・フレンズ",
+      "originalTitle": "디어 마이 프렌즈",
+      "awardYear": 2017,
+      "winner": "ディア・マイ・フレンズ",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5689030"
+      }
+    },
+    {
+      "id": "baeksang-2018-tv-best-mother",
+      "mediaType": "tv",
+      "title": "マザー 無償の愛",
+      "originalTitle": "마더",
+      "awardYear": 2018,
+      "winner": "マザー 無償の愛",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7795226"
+      }
+    },
+    {
+      "id": "baeksang-2019-tv-best-my-mister",
+      "mediaType": "tv",
+      "title": "マイ・ディア・ミスター ～私のおじさん～",
+      "originalTitle": "나의 아저씨",
+      "awardYear": 2019,
+      "winner": "マイ・ディア・ミスター ～私のおじさん～",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7923710"
+      }
+    },
+    {
+      "id": "baeksang-2020-tv-best-stove",
+      "mediaType": "tv",
+      "title": "ストーブリーグ",
+      "originalTitle": "스토브리그",
+      "awardYear": 2020,
+      "winner": "ストーブリーグ",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt11378124"
+      }
+    },
+    {
+      "id": "baeksang-2021-tv-best-beyond-evil",
+      "mediaType": "tv",
+      "title": "怪物",
+      "originalTitle": "괴물",
+      "awardYear": 2021,
+      "winner": "怪物",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt13634872"
+      }
+    },
+    {
+      "id": "baeksang-2022-tv-best-dp",
+      "mediaType": "tv",
+      "title": "D.P. －脱走兵追跡官－",
+      "originalTitle": "D.P.",
+      "awardYear": 2022,
+      "winner": "D.P. －脱走兵追跡官－",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt13024974"
+      }
+    },
+    {
+      "id": "baeksang-2023-tv-best-glory",
+      "mediaType": "tv",
+      "title": "ザ・グローリー ～輝かしき復讐～",
+      "originalTitle": "더 글로리",
+      "awardYear": 2023,
+      "winner": "ザ・グローリー ～輝かしき復讐～",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt21344706"
+      }
+    },
+    {
+      "id": "baeksang-2024-tv-best-my-dearest",
+      "mediaType": "tv",
+      "title": "恋人～あの日聞いた花の咲く音～",
+      "originalTitle": "연인",
+      "awardYear": 2024,
+      "winner": "恋人～あの日聞いた花の咲く音～",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt26228190"
+      }
+    },
+    {
+      "id": "baeksang-2025-tv-best-tangerines",
+      "mediaType": "tv",
+      "title": "おつかれさま",
+      "originalTitle": "폭싹 속았수다",
+      "awardYear": 2025,
+      "winner": "おつかれさま",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt26471411"
+      }
+    },
+    {
+      "id": "baeksang-2026-tv-best-you-everything",
+      "mediaType": "tv",
+      "title": "ウンジュンとサンヨン",
+      "originalTitle": "은중과 상연",
+      "awardYear": 2026,
+      "winner": "ウンジュンとサンヨン",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31014107"
+      }
+    }
+  ]
+}

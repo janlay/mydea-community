@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "title": "カンヌ — ある視点 特別賞",
+  "author": "Mydea",
+  "updatedAt": "2026-09-16T04:43:24Z",
+  "description": "カンヌ国際映画祭「ある視点」の歴代受賞作。 ある視点 特別賞.",
+  "tags": [
+    "award",
+    "cannes",
+    "prize"
+  ],
+  "items": [
+    {
+      "id": "cannes-ucr-mention-2000-me-you-them",
+      "mediaType": "movie",
+      "title": "Me You Them",
+      "awardYear": 2000,
+      "winner": "Andrucha Waddington"
+    },
+    {
+      "id": "cannes-ucr-mention-2012-children-of-sarajevo",
+      "mediaType": "movie",
+      "title": "Children of Sarajevo",
+      "awardYear": 2012,
+      "winner": "Aida Begić"
+    },
+    {
+      "id": "cannes-ucr-mention-2019-joan-of-arc",
+      "mediaType": "movie",
+      "title": "Joan of Arc",
+      "awardYear": 2019,
+      "winner": "Bruno Dumont",
+      "externalIds": {
+        "imdb": "tt8669356"
+      },
+      "releaseDate": "2019"
+    },
+    {
+      "id": "cannes-ucr-mention-2021-prayers-for-the-stolen",
+      "mediaType": "movie",
+      "title": "Prayers for the Stolen",
+      "awardYear": 2021,
+      "winner": "Tatiana Huezo",
+      "externalIds": {
+        "imdb": "tt10366574"
+      },
+      "releaseDate": "2021"
+    },
+    {
+      "id": "cannes-ucr-mention-2024-norah",
+      "mediaType": "movie",
+      "title": "Norah",
+      "awardYear": 2024,
+      "winner": "Tawfik Alzaidi",
+      "externalIds": {
+        "imdb": "tt9376490",
+        "letterboxd": "norah"
+      },
+      "releaseDate": "2024"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "金球奖 2022",
+  "description": "2022 金球奖电影类获奖名单。",
+  "items": [
+    {
+      "id": "golden-globes-2022-drama-the-power-of-the-dog",
+      "mediaType": "movie",
+      "title": "犬之力",
+      "englishTitle": "The Power of the Dog",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt10293406"
+      },
+      "award": "最佳剧情片",
+      "awardYear": 2022,
+      "awardOrder": 1,
+      "winner": "犬之力"
+    },
+    {
+      "id": "golden-globes-2022-comedy-west-side-story",
+      "mediaType": "movie",
+      "title": "西区故事",
+      "englishTitle": "West Side Story",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt3581652"
+      },
+      "award": "最佳音乐或喜剧片",
+      "awardYear": 2022,
+      "awardOrder": 2,
+      "winner": "西区故事"
+    },
+    {
+      "id": "golden-globes-2022-animated-encanto",
+      "mediaType": "movie",
+      "title": "魔法满屋",
+      "englishTitle": "Encanto",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt2953050"
+      },
+      "award": "最佳动画片",
+      "awardYear": 2022,
+      "awardOrder": 3,
+      "winner": "魔法满屋"
+    },
+    {
+      "id": "golden-globes-2022-foreign-drive-my-car",
+      "mediaType": "movie",
+      "title": "驾驶我的车",
+      "englishTitle": "Drive My Car",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14039582"
+      },
+      "award": "最佳非英语片",
+      "awardYear": 2022,
+      "awardOrder": 4,
+      "winner": "驾驶我的车"
+    }
+  ]
+}

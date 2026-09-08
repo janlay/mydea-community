@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-22T08:41:11Z",
+  "cacheTtlInDays": 365,
+  "title": "Golden Horse Awards 2021 Core Award Winners",
+  "description": "Core award-winning films and filmmakers from the 2021 Golden Horse Awards.",
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "golden-horse-2021-best-feature-tt15119668",
+      "mediaType": "movie",
+      "title": "The Falls",
+      "award": "Best Narrative Feature",
+      "awardYear": 2021,
+      "winner": "Chung Mong-hong",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt15119668"
+      },
+      "awardOrder": 1,
+      "originalTitle": "瀑布"
+    },
+    {
+      "id": "golden-horse-2021-best-director-tt15575176",
+      "mediaType": "movie",
+      "title": "Drifting Petals",
+      "award": "Best Director",
+      "awardYear": 2021,
+      "winner": "Clara Law",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt15575176"
+      },
+      "awardOrder": 2,
+      "originalTitle": "花果飄零"
+    },
+    {
+      "id": "golden-horse-2021-best-actor-tt13598976",
+      "mediaType": "movie",
+      "title": "The Soul",
+      "award": "Best Leading Actor",
+      "awardYear": 2021,
+      "winner": "Chang Chen",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt13598976"
+      },
+      "awardOrder": 3,
+      "originalTitle": "緝魂"
+    },
+    {
+      "id": "golden-horse-2021-best-actress-tt15119668",
+      "mediaType": "movie",
+      "title": "The Falls",
+      "award": "Best Leading Actress",
+      "awardYear": 2021,
+      "winner": "Alyssa Chia",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt15119668"
+      },
+      "awardOrder": 4,
+      "originalTitle": "瀑布"
+    },
+    {
+      "id": "golden-horse-2021-best-supporting-actor-tt15445440",
+      "mediaType": "movie",
+      "title": "Treat or Trick",
+      "award": "Best Supporting Actor",
+      "awardYear": 2021,
+      "winner": "Liu Kuan-ting",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt15445440"
+      },
+      "awardOrder": 5,
+      "originalTitle": "詭扯"
+    },
+    {
+      "id": "golden-horse-2021-best-supporting-actress-tt15742308",
+      "mediaType": "movie",
+      "title": "Goddamned Asura",
+      "award": "Best Supporting Actress",
+      "awardYear": 2021,
+      "winner": "Wang Yu-xuan",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt15742308"
+      },
+      "awardOrder": 6,
+      "originalTitle": "該死的阿修羅"
+    },
+    {
+      "id": "golden-horse-2021-best-new-director-tt15620158",
+      "mediaType": "movie",
+      "title": "American Girl",
+      "award": "Best New Director",
+      "awardYear": 2021,
+      "winner": "Fiona Roan Feng-i",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt15620158"
+      },
+      "awardOrder": 7,
+      "originalTitle": "美國女孩"
+    },
+    {
+      "id": "golden-horse-2021-best-new-performer-tt15620158",
+      "mediaType": "movie",
+      "title": "American Girl",
+      "award": "Best New Performer",
+      "awardYear": 2021,
+      "winner": "Caitlin Fang",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt15620158"
+      },
+      "awardOrder": 8,
+      "originalTitle": "美國女孩"
+    }
+  ],
+  "tags": [
+    "award",
+    "taipei",
+    "decade"
+  ]
+}

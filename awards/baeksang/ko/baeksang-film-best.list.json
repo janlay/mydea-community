@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T02:53:58Z",
+  "title": "백상예술대상 — 영화부문 작품상",
+  "description": "2017–2026년 백상예술대상 영화부문 작품상 수상 기록.",
+  "items": [
+    {
+      "id": "baeksang-2017-film-best-wailing",
+      "mediaType": "movie",
+      "title": "곡성",
+      "englishTitle": "The Wailing",
+      "awardYear": 2017,
+      "winner": "곡성",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5215952"
+      }
+    },
+    {
+      "id": "baeksang-2018-film-best-fortress",
+      "mediaType": "movie",
+      "title": "남한산성",
+      "englishTitle": "The Fortress",
+      "awardYear": 2018,
+      "winner": "남한산성",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7160176"
+      }
+    },
+    {
+      "id": "baeksang-2019-film-best-spy-north",
+      "mediaType": "movie",
+      "title": "공작",
+      "englishTitle": "The Spy Gone North",
+      "awardYear": 2019,
+      "winner": "공작",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8290698"
+      }
+    },
+    {
+      "id": "baeksang-2020-film-best-parasite",
+      "mediaType": "movie",
+      "title": "기생충",
+      "englishTitle": "Parasite",
+      "awardYear": 2020,
+      "winner": "기생충",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt6751668"
+      }
+    },
+    {
+      "id": "baeksang-2021-film-best-samjin",
+      "mediaType": "movie",
+      "title": "삼진그룹 영어토익반",
+      "englishTitle": "Samjin Company English Class",
+      "awardYear": 2021,
+      "winner": "삼진그룹 영어토익반",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt13210996"
+      }
+    },
+    {
+      "id": "baeksang-2022-film-best-mogadishu",
+      "mediaType": "movie",
+      "title": "모가디슈",
+      "englishTitle": "Escape from Mogadishu",
+      "awardYear": 2022,
+      "winner": "모가디슈",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14810692"
+      }
+    },
+    {
+      "id": "baeksang-2023-film-best-night-owl",
+      "mediaType": "movie",
+      "title": "올빼미",
+      "englishTitle": "The Night Owl",
+      "awardYear": 2023,
+      "winner": "올빼미",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt23871504"
+      }
+    },
+    {
+      "id": "baeksang-2024-film-best-seoul-spring",
+      "mediaType": "movie",
+      "title": "서울의 봄",
+      "englishTitle": "12.12: The Day",
+      "awardYear": 2024,
+      "winner": "서울의 봄",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt22507524"
+      }
+    },
+    {
+      "id": "baeksang-2025-film-best-harbin",
+      "mediaType": "movie",
+      "title": "하얼빈",
+      "englishTitle": "Harbin",
+      "awardYear": 2025,
+      "winner": "하얼빈",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt23630030"
+      }
+    },
+    {
+      "id": "baeksang-2026-film-best-no-other-choice",
+      "mediaType": "movie",
+      "title": "어쩔수가없다",
+      "englishTitle": "No Other Choice",
+      "awardYear": 2026,
+      "winner": "어쩔수가없다",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt1527793"
+      }
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T02:53:58Z",
+  "title": "Baeksang Arts Awards — 2026",
+  "description": "Broadcast category winners at the 2026 Baeksang Arts Awards.",
+  "items": [
+    {
+      "id": "baeksang-2026-tv-grand-dream-kim",
+      "mediaType": "tv",
+      "title": "The Dream Life of Mr. Kim",
+      "originalTitle": "서울 자가에 대기업 다니는 김 부장 이야기",
+      "award": "Broadcast Grand Prize",
+      "awardYear": 2026,
+      "awardOrder": 1,
+      "winner": "Ryu Seung-ryong",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt38570528"
+      }
+    },
+    {
+      "id": "baeksang-2026-tv-best-you-everything",
+      "mediaType": "tv",
+      "title": "You and Everything Else",
+      "originalTitle": "은중과 상연",
+      "award": "Best Drama",
+      "awardYear": 2026,
+      "awardOrder": 2,
+      "winner": "You and Everything Else",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31014107"
+      }
+    },
+    {
+      "id": "baeksang-2026-tv-director-unwritten-seoul",
+      "mediaType": "tv",
+      "title": "Our Unwritten Seoul",
+      "originalTitle": "미지의 서울",
+      "award": "Best Director Broadcast",
+      "awardYear": 2026,
+      "awardOrder": 3,
+      "winner": "Park Shin-woo",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt36724865"
+      }
+    },
+    {
+      "id": "baeksang-2026-tv-actor-made-korea",
+      "mediaType": "tv",
+      "title": "Made in Korea",
+      "originalTitle": "메이드 인 코리아",
+      "award": "Best Actor Broadcast",
+      "awardYear": 2026,
+      "awardOrder": 4,
+      "winner": "Hyun Bin",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt33298903"
+      }
+    },
+    {
+      "id": "baeksang-2026-tv-actress-unwritten-seoul",
+      "mediaType": "tv",
+      "title": "Our Unwritten Seoul",
+      "originalTitle": "미지의 서울",
+      "award": "Best Actress Broadcast",
+      "awardYear": 2026,
+      "awardOrder": 5,
+      "winner": "Park Bo-young",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt36724865"
+      }
+    }
+  ]
+}

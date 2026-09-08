@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "ゴールデングローブ賞 2023",
+  "description": "2023年のゴールデングローブ賞テレビ作品部門の受賞一覧。",
+  "items": [
+    {
+      "id": "golden-globes-2023-tv_drama-house-of-the-dragon",
+      "mediaType": "tv",
+      "title": "ハウス・オブ・ザ・ドラゴン",
+      "englishTitle": "House of the Dragon",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt11198330"
+      },
+      "award": "テレビドラマ作品賞",
+      "awardYear": 2023,
+      "awardOrder": 1,
+      "winner": "ハウス・オブ・ザ・ドラゴン"
+    },
+    {
+      "id": "golden-globes-2023-tv_comedy-abbott-elementary",
+      "mediaType": "tv",
+      "title": "アボット エレメンタリー",
+      "englishTitle": "Abbott Elementary",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14218830"
+      },
+      "award": "テレビ作品賞 ミュージカル・コメディ部門",
+      "awardYear": 2023,
+      "awardOrder": 2,
+      "winner": "アボット エレメンタリー"
+    },
+    {
+      "id": "golden-globes-2023-limited-the-white-lotus",
+      "mediaType": "tv",
+      "title": "ホワイト・ロータス / 諸事情だらけのリゾートホテル",
+      "englishTitle": "The White Lotus",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt13406094"
+      },
+      "award": "リミテッドシリーズ・アンソロジー・テレビ映画賞",
+      "awardYear": 2023,
+      "awardOrder": 3,
+      "winner": "ホワイト・ロータス"
+    }
+  ]
+}

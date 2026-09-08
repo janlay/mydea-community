@@ -1,0 +1,825 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "title": "カンヌ — 男優賞",
+  "author": "Mydea",
+  "updatedAt": "2026-09-16T04:43:24Z",
+  "description": "カンヌ国際映画祭の長編映画部門における歴代受賞作。 男優賞.",
+  "tags": [
+    "award",
+    "cannes",
+    "prize"
+  ],
+  "items": [
+    {
+      "id": "cannes-best-actor-1946-the-lost-weekend",
+      "mediaType": "movie",
+      "title": "The Lost Weekend",
+      "awardYear": 1946,
+      "winner": "Ray Milland",
+      "externalIds": {
+        "tmdb": "28580"
+      }
+    },
+    {
+      "id": "cannes-best-actor-1949-house-of-strangers",
+      "mediaType": "movie",
+      "title": "House of Strangers",
+      "awardYear": 1949,
+      "winner": "Edward G. Robinson",
+      "externalIds": {
+        "tmdb": "20003"
+      }
+    },
+    {
+      "id": "cannes-best-actor-1951-the-browning-version",
+      "mediaType": "movie",
+      "title": "The Browning Version",
+      "awardYear": 1951,
+      "winner": "Michael Redgrave",
+      "externalIds": {
+        "tmdb": "39946"
+      }
+    },
+    {
+      "id": "cannes-best-actor-1952-viva-zapata",
+      "mediaType": "movie",
+      "title": "Viva Zapata!",
+      "awardYear": 1952,
+      "winner": "Marlon Brando",
+      "externalIds": {
+        "tmdb": "1810"
+      }
+    },
+    {
+      "id": "cannes-best-actor-1955-a-big-family",
+      "mediaType": "movie",
+      "title": "A Big Family",
+      "awardYear": 1955,
+      "winner": "Aleksei Batalov; Sergei Lukyanov; Sergei Kurilov; Boris Andreyev; Vadim Medvedev; Nikolai Gritsenko; Pavel Kadochnikov; Boris Bityukov",
+      "externalIds": {
+        "tmdb": "199248"
+      }
+    },
+    {
+      "id": "cannes-best-actor-1955-bad-day-at-black-rock",
+      "mediaType": "movie",
+      "title": "Bad Day at Black Rock",
+      "awardYear": 1955,
+      "winner": "Spencer Tracy",
+      "externalIds": {
+        "tmdb": "14554"
+      }
+    },
+    {
+      "id": "cannes-best-actor-1957-valley-of-peace",
+      "mediaType": "movie",
+      "title": "Valley of Peace",
+      "awardYear": 1957,
+      "winner": "John Kitzmiller",
+      "externalIds": {
+        "tmdb": "106765"
+      }
+    },
+    {
+      "id": "cannes-best-actor-1958-the-long-hot-summer",
+      "mediaType": "movie",
+      "title": "The Long, Hot Summer",
+      "awardYear": 1958,
+      "winner": "Paul Newman",
+      "externalIds": {
+        "tmdb": "40085"
+      }
+    },
+    {
+      "id": "cannes-best-actor-1959-compulsion",
+      "mediaType": "movie",
+      "title": "Compulsion",
+      "awardYear": 1959,
+      "winner": "Bradford Dillman; Dean Stockwell; Orson Welles",
+      "externalIds": {
+        "tmdb": "35921"
+      }
+    },
+    {
+      "id": "cannes-best-actor-1961-goodbye-again",
+      "mediaType": "movie",
+      "title": "Goodbye Again",
+      "awardYear": 1961,
+      "winner": "Anthony Perkins",
+      "externalIds": {
+        "tmdb": "84119"
+      }
+    },
+    {
+      "id": "cannes-best-actor-1962-a-taste-of-honey",
+      "mediaType": "movie",
+      "title": "A Taste of Honey",
+      "awardYear": 1962,
+      "winner": "Murray Melvin",
+      "externalIds": {
+        "tmdb": "25062"
+      }
+    },
+    {
+      "id": "cannes-best-actor-1962-long-day-s-journey-into-night",
+      "mediaType": "movie",
+      "title": "Long Day's Journey into Night",
+      "awardYear": 1962,
+      "winner": "Ralph Richardson; Jason Robards; Dean Stockwell",
+      "externalIds": {
+        "tmdb": "43004"
+      }
+    },
+    {
+      "id": "cannes-best-actor-1963-this-sporting-life",
+      "mediaType": "movie",
+      "title": "This Sporting Life",
+      "awardYear": 1963,
+      "winner": "Richard Harris",
+      "externalIds": {
+        "tmdb": "18774"
+      }
+    },
+    {
+      "id": "cannes-best-actor-1964-drama-of-the-lark",
+      "mediaType": "movie",
+      "title": "Drama of the Lark",
+      "awardYear": 1964,
+      "winner": "Antal Páger",
+      "externalIds": {
+        "imdb": "tt0057394"
+      }
+    },
+    {
+      "id": "cannes-best-actor-1964-seduced-and-abandoned",
+      "mediaType": "movie",
+      "title": "Seduced and Abandoned",
+      "awardYear": 1964,
+      "winner": "Saro Urzì",
+      "externalIds": {
+        "tmdb": "42790"
+      }
+    },
+    {
+      "id": "cannes-best-actor-1965-the-collector",
+      "mediaType": "movie",
+      "title": "The Collector",
+      "awardYear": 1965,
+      "winner": "Terence Stamp",
+      "externalIds": {
+        "tmdb": "42740"
+      }
+    },
+    {
+      "id": "cannes-best-actor-1966-hunger",
+      "mediaType": "movie",
+      "title": "Hunger",
+      "awardYear": 1966,
+      "winner": "Per Oscarsson",
+      "externalIds": {
+        "tmdb": "76235"
+      }
+    },
+    {
+      "id": "cannes-best-actor-1967-three-days-and-a-child",
+      "mediaType": "movie",
+      "title": "Three Days and a Child",
+      "awardYear": 1967,
+      "winner": "Oded Kotler",
+      "externalIds": {
+        "tmdb": "115639"
+      }
+    },
+    {
+      "id": "cannes-best-actor-1969-z",
+      "mediaType": "movie",
+      "title": "Z",
+      "awardYear": 1969,
+      "winner": "Jean-Louis Trintignant",
+      "externalIds": {
+        "tmdb": "2721"
+      }
+    },
+    {
+      "id": "cannes-best-actor-1970-the-pizza-triangle",
+      "mediaType": "movie",
+      "title": "The Pizza Triangle",
+      "awardYear": 1970,
+      "winner": "Marcello Mastroianni",
+      "externalIds": {
+        "imdb": "tt0065662"
+      }
+    },
+    {
+      "id": "cannes-best-actor-1971-sacco-vanzetti",
+      "mediaType": "movie",
+      "title": "Sacco & Vanzetti",
+      "awardYear": 1971,
+      "winner": "Riccardo Cucciolla",
+      "externalIds": {
+        "tmdb": "48211"
+      }
+    },
+    {
+      "id": "cannes-best-actor-1972-we-won-t-grow-old-together",
+      "mediaType": "movie",
+      "title": "We Won't Grow Old Together",
+      "awardYear": 1972,
+      "winner": "Jean Yanne",
+      "externalIds": {
+        "tmdb": "63230"
+      }
+    },
+    {
+      "id": "cannes-best-actor-1973-love-and-anarchy",
+      "mediaType": "movie",
+      "title": "Love and Anarchy",
+      "awardYear": 1973,
+      "winner": "Giancarlo Giannini",
+      "externalIds": {
+        "tmdb": "65332"
+      }
+    },
+    {
+      "id": "cannes-best-actor-1974-the-last-detail",
+      "mediaType": "movie",
+      "title": "The Last Detail",
+      "awardYear": 1974,
+      "winner": "Jack Nicholson",
+      "externalIds": {
+        "tmdb": "14886"
+      }
+    },
+    {
+      "id": "cannes-best-actor-1975-scent-of-a-woman",
+      "mediaType": "movie",
+      "title": "Scent of a Woman",
+      "awardYear": 1975,
+      "winner": "Vittorio Gassman",
+      "externalIds": {
+        "tmdb": "47848"
+      }
+    },
+    {
+      "id": "cannes-best-actor-1976-pascual-duarte",
+      "mediaType": "movie",
+      "title": "Pascual Duarte",
+      "awardYear": 1976,
+      "winner": "José Luis Gómez",
+      "externalIds": {
+        "tmdb": "98964"
+      }
+    },
+    {
+      "id": "cannes-best-actor-1977-elisa-my-life",
+      "mediaType": "movie",
+      "title": "Elisa, My Life",
+      "awardYear": 1977,
+      "winner": "Fernando Rey",
+      "externalIds": {
+        "tmdb": "114337"
+      }
+    },
+    {
+      "id": "cannes-best-actor-1978-coming-home",
+      "mediaType": "movie",
+      "title": "Coming Home",
+      "awardYear": 1978,
+      "winner": "Jon Voight",
+      "externalIds": {
+        "tmdb": "31657"
+      }
+    },
+    {
+      "id": "cannes-best-actor-1979-dear-father",
+      "mediaType": "movie",
+      "title": "Dear Father",
+      "awardYear": 1979,
+      "winner": "Stefano Madia",
+      "externalIds": {
+        "tmdb": "65480"
+      }
+    },
+    {
+      "id": "cannes-best-actor-1979-the-china-syndrome",
+      "mediaType": "movie",
+      "title": "The China Syndrome",
+      "awardYear": 1979,
+      "winner": "Jack Lemmon",
+      "externalIds": {
+        "tmdb": "988"
+      }
+    },
+    {
+      "id": "cannes-best-actor-1980-a-leap-in-the-dark",
+      "mediaType": "movie",
+      "title": "A Leap in the Dark",
+      "awardYear": 1980,
+      "winner": "Michel Piccoli",
+      "externalIds": {
+        "tmdb": "51882"
+      }
+    },
+    {
+      "id": "cannes-best-actor-1980-breaker-morant",
+      "mediaType": "movie",
+      "title": "Breaker Morant",
+      "awardYear": 1980,
+      "winner": "Jack Thompson",
+      "externalIds": {
+        "tmdb": "13783"
+      }
+    },
+    {
+      "id": "cannes-best-actor-1981-chariots-of-fire",
+      "mediaType": "movie",
+      "title": "Chariots of Fire",
+      "awardYear": 1981,
+      "winner": "Ian Holm",
+      "externalIds": {
+        "tmdb": "9443"
+      }
+    },
+    {
+      "id": "cannes-best-actor-1981-tragedy-of-a-ridiculous-man",
+      "mediaType": "movie",
+      "title": "Tragedy of a Ridiculous Man",
+      "awardYear": 1981,
+      "winner": "Ugo Tognazzi",
+      "externalIds": {
+        "tmdb": "42144"
+      }
+    },
+    {
+      "id": "cannes-best-actor-1982-missing",
+      "mediaType": "movie",
+      "title": "Missing",
+      "awardYear": 1982,
+      "winner": "Jack Lemmon",
+      "externalIds": {
+        "tmdb": "15600"
+      }
+    },
+    {
+      "id": "cannes-best-actor-1983-the-death-of-mario-ricci",
+      "mediaType": "movie",
+      "title": "The Death of Mario Ricci",
+      "awardYear": 1983,
+      "winner": "Gian Maria Volonté",
+      "externalIds": {
+        "tmdb": "133752"
+      }
+    },
+    {
+      "id": "cannes-best-actor-1984-the-holy-innocents",
+      "mediaType": "movie",
+      "title": "The Holy Innocents",
+      "awardYear": 1984,
+      "winner": "Alfredo Landa; Francisco Rabal",
+      "externalIds": {
+        "tmdb": "75877"
+      }
+    },
+    {
+      "id": "cannes-best-actor-1985-kiss-of-the-spider-woman",
+      "mediaType": "movie",
+      "title": "Kiss of the Spider Woman",
+      "awardYear": 1985,
+      "winner": "William Hurt",
+      "externalIds": {
+        "tmdb": "11703"
+      }
+    },
+    {
+      "id": "cannes-best-actor-1986-evening-dress",
+      "mediaType": "movie",
+      "title": "Evening Dress",
+      "awardYear": 1986,
+      "winner": "Michel Blanc",
+      "externalIds": {
+        "imdb": "tt0092068"
+      }
+    },
+    {
+      "id": "cannes-best-actor-1986-mona-lisa",
+      "mediaType": "movie",
+      "title": "Mona Lisa",
+      "awardYear": 1986,
+      "winner": "Bob Hoskins",
+      "externalIds": {
+        "tmdb": "10002"
+      }
+    },
+    {
+      "id": "cannes-best-actor-1987-dark-eyes",
+      "mediaType": "movie",
+      "title": "Dark Eyes",
+      "awardYear": 1987,
+      "winner": "Marcello Mastroianni",
+      "externalIds": {
+        "tmdb": "44658"
+      }
+    },
+    {
+      "id": "cannes-best-actor-1988-bird",
+      "mediaType": "movie",
+      "title": "Bird",
+      "awardYear": 1988,
+      "winner": "Forest Whitaker",
+      "externalIds": {
+        "tmdb": "24679"
+      }
+    },
+    {
+      "id": "cannes-best-actor-1989-sex-lies-and-videotape",
+      "mediaType": "movie",
+      "title": "Sex, Lies, and Videotape",
+      "awardYear": 1989,
+      "winner": "James Spader",
+      "externalIds": {
+        "tmdb": "1412"
+      }
+    },
+    {
+      "id": "cannes-best-actor-1990-cyrano-de-bergerac",
+      "mediaType": "movie",
+      "title": "Cyrano de Bergerac",
+      "awardYear": 1990,
+      "winner": "Gérard Depardieu",
+      "externalIds": {
+        "tmdb": "11673"
+      }
+    },
+    {
+      "id": "cannes-best-actor-1991-barton-fink",
+      "mediaType": "movie",
+      "title": "Barton Fink",
+      "awardYear": 1991,
+      "winner": "John Turturro",
+      "externalIds": {
+        "tmdb": "290"
+      }
+    },
+    {
+      "id": "cannes-best-actor-1991-jungle-fever",
+      "mediaType": "movie",
+      "title": "Jungle Fever",
+      "awardYear": 1991,
+      "winner": "Samuel L. Jackson",
+      "externalIds": {
+        "tmdb": "1713"
+      }
+    },
+    {
+      "id": "cannes-best-actor-1992-the-player",
+      "mediaType": "movie",
+      "title": "The Player",
+      "awardYear": 1992,
+      "winner": "Tim Robbins",
+      "externalIds": {
+        "tmdb": "10403"
+      }
+    },
+    {
+      "id": "cannes-best-actor-1993-naked",
+      "mediaType": "movie",
+      "title": "Naked",
+      "awardYear": 1993,
+      "winner": "David Thewlis",
+      "externalIds": {
+        "tmdb": "21450"
+      }
+    },
+    {
+      "id": "cannes-best-actor-1994-to-live",
+      "mediaType": "movie",
+      "title": "To Live",
+      "awardYear": 1994,
+      "winner": "Ge You",
+      "externalIds": {
+        "tmdb": "31439"
+      }
+    },
+    {
+      "id": "cannes-best-actor-1995-carrington",
+      "mediaType": "movie",
+      "title": "Carrington",
+      "awardYear": 1995,
+      "winner": "Jonathan Pryce",
+      "externalIds": {
+        "tmdb": "47018"
+      }
+    },
+    {
+      "id": "cannes-best-actor-1996-the-eighth-day",
+      "mediaType": "movie",
+      "title": "The Eighth Day",
+      "awardYear": 1996,
+      "winner": "Daniel Auteuil; Pascal Duquenne",
+      "externalIds": {
+        "tmdb": "36998"
+      }
+    },
+    {
+      "id": "cannes-best-actor-1997-she-s-so-lovely",
+      "mediaType": "movie",
+      "title": "She's So Lovely",
+      "awardYear": 1997,
+      "winner": "Sean Penn",
+      "externalIds": {
+        "tmdb": "38295"
+      }
+    },
+    {
+      "id": "cannes-best-actor-1998-my-name-is-joe",
+      "mediaType": "movie",
+      "title": "My Name Is Joe",
+      "awardYear": 1998,
+      "winner": "Peter Mullan",
+      "externalIds": {
+        "tmdb": "8129"
+      }
+    },
+    {
+      "id": "cannes-best-actor-1999-humanité",
+      "mediaType": "movie",
+      "title": "Humanité",
+      "awardYear": 1999,
+      "winner": "Emmanuel Schotté",
+      "externalIds": {
+        "tmdb": "65296"
+      }
+    },
+    {
+      "id": "cannes-best-actor-2000-in-the-mood-for-love",
+      "mediaType": "movie",
+      "title": "花様年華",
+      "awardYear": 2000,
+      "winner": "Tony Leung Chiu-wai",
+      "externalIds": {
+        "tmdb": "843"
+      }
+    },
+    {
+      "id": "cannes-best-actor-2001-the-piano-teacher",
+      "mediaType": "movie",
+      "title": "The Piano Teacher",
+      "awardYear": 2001,
+      "winner": "Benoît Magimel",
+      "externalIds": {
+        "tmdb": "1791"
+      }
+    },
+    {
+      "id": "cannes-best-actor-2002-the-son",
+      "mediaType": "movie",
+      "title": "The Son",
+      "awardYear": 2002,
+      "winner": "Olivier Gourmet",
+      "externalIds": {
+        "tmdb": "35172"
+      }
+    },
+    {
+      "id": "cannes-best-actor-2003-uzak",
+      "mediaType": "movie",
+      "title": "Uzak",
+      "awardYear": 2003,
+      "winner": "Muzaffer Özdemir; Mehmet Emin Toprak",
+      "externalIds": {
+        "tmdb": "31026"
+      }
+    },
+    {
+      "id": "cannes-best-actor-2004-nobody-knows",
+      "mediaType": "movie",
+      "title": "Nobody Knows",
+      "awardYear": 2004,
+      "winner": "Yūya Yagira",
+      "externalIds": {
+        "tmdb": "2517"
+      }
+    },
+    {
+      "id": "cannes-best-actor-2005-the-three-burials-of-melquiades-estrada",
+      "mediaType": "movie",
+      "title": "The Three Burials of Melquiades Estrada",
+      "awardYear": 2005,
+      "winner": "Tommy Lee Jones",
+      "externalIds": {
+        "tmdb": "8053"
+      }
+    },
+    {
+      "id": "cannes-best-actor-2006-days-of-glory",
+      "mediaType": "movie",
+      "title": "Days of Glory",
+      "awardYear": 2006,
+      "winner": "Roschdy Zem; Bernard Blancan; Jamel Debbouze; Samy Naceri; Sami Bouajila",
+      "externalIds": {
+        "tmdb": "2016"
+      }
+    },
+    {
+      "id": "cannes-best-actor-2007-the-banishment",
+      "mediaType": "movie",
+      "title": "The Banishment",
+      "awardYear": 2007,
+      "winner": "Konstantin Lavronenko",
+      "externalIds": {
+        "tmdb": "25142"
+      }
+    },
+    {
+      "id": "cannes-best-actor-2008-che",
+      "mediaType": "movie",
+      "title": "Che",
+      "awardYear": 2008,
+      "winner": "Benicio del Toro",
+      "externalIds": {
+        "imdb": "tt0892255"
+      }
+    },
+    {
+      "id": "cannes-best-actor-2009-inglourious-basterds",
+      "mediaType": "movie",
+      "title": "Inglourious Basterds",
+      "awardYear": 2009,
+      "winner": "Christoph Waltz",
+      "externalIds": {
+        "tmdb": "16869"
+      }
+    },
+    {
+      "id": "cannes-best-actor-2010-biutiful",
+      "mediaType": "movie",
+      "title": "Biutiful",
+      "awardYear": 2010,
+      "winner": "Javier Bardem",
+      "externalIds": {
+        "tmdb": "45958"
+      }
+    },
+    {
+      "id": "cannes-best-actor-2010-la-nostra-vita",
+      "mediaType": "movie",
+      "title": "La nostra vita",
+      "awardYear": 2010,
+      "winner": "Elio Germano",
+      "externalIds": {
+        "tmdb": "46920"
+      }
+    },
+    {
+      "id": "cannes-best-actor-2011-the-artist",
+      "mediaType": "movie",
+      "title": "The Artist",
+      "awardYear": 2011,
+      "winner": "Jean Dujardin",
+      "externalIds": {
+        "tmdb": "74643"
+      }
+    },
+    {
+      "id": "cannes-best-actor-2012-the-hunt",
+      "mediaType": "movie",
+      "title": "The Hunt",
+      "awardYear": 2012,
+      "winner": "Mads Mikkelsen",
+      "externalIds": {
+        "tmdb": "103663"
+      }
+    },
+    {
+      "id": "cannes-best-actor-2013-nebraska",
+      "mediaType": "movie",
+      "title": "Nebraska",
+      "awardYear": 2013,
+      "winner": "Bruce Dern",
+      "externalIds": {
+        "tmdb": "129670"
+      }
+    },
+    {
+      "id": "cannes-best-actor-2014-mr-turner",
+      "mediaType": "movie",
+      "title": "Mr. Turner",
+      "awardYear": 2014,
+      "winner": "Timothy Spall",
+      "externalIds": {
+        "tmdb": "245700"
+      }
+    },
+    {
+      "id": "cannes-best-actor-2015-the-measure-of-a-man",
+      "mediaType": "movie",
+      "title": "The Measure of a Man",
+      "awardYear": 2015,
+      "winner": "Vincent Lindon",
+      "externalIds": {
+        "tmdb": "329712"
+      }
+    },
+    {
+      "id": "cannes-best-actor-2016-the-salesman",
+      "mediaType": "movie",
+      "title": "The Salesman",
+      "awardYear": 2016,
+      "winner": "Shahab Hosseini",
+      "externalIds": {
+        "tmdb": "375315"
+      }
+    },
+    {
+      "id": "cannes-best-actor-2017-you-were-never-really-here",
+      "mediaType": "movie",
+      "title": "You Were Never Really Here",
+      "awardYear": 2017,
+      "winner": "Joaquin Phoenix",
+      "externalIds": {
+        "tmdb": "398181"
+      }
+    },
+    {
+      "id": "cannes-best-actor-2018-dogman",
+      "mediaType": "movie",
+      "title": "Dogman",
+      "awardYear": 2018,
+      "winner": "Marcello Fonte",
+      "externalIds": {
+        "tmdb": "483184"
+      }
+    },
+    {
+      "id": "cannes-best-actor-2019-pain-and-glory",
+      "mediaType": "movie",
+      "title": "Pain and Glory",
+      "awardYear": 2019,
+      "winner": "Antonio Banderas",
+      "externalIds": {
+        "tmdb": "519010"
+      }
+    },
+    {
+      "id": "cannes-best-actor-2021-nitram",
+      "mediaType": "movie",
+      "title": "Nitram",
+      "awardYear": 2021,
+      "winner": "Caleb Landry Jones",
+      "externalIds": {
+        "tmdb": "797457"
+      }
+    },
+    {
+      "id": "cannes-best-actor-2022-broker",
+      "mediaType": "movie",
+      "title": "Broker",
+      "awardYear": 2022,
+      "winner": "Song Kang-ho",
+      "externalIds": {
+        "tmdb": "736732"
+      }
+    },
+    {
+      "id": "cannes-best-actor-2023-perfect-days",
+      "mediaType": "movie",
+      "title": "Perfect Days",
+      "awardYear": 2023,
+      "winner": "Koji Yakusho",
+      "externalIds": {
+        "tmdb": "976893"
+      }
+    },
+    {
+      "id": "cannes-best-actor-2024-kinds-of-kindness",
+      "mediaType": "movie",
+      "title": "Kinds of Kindness",
+      "awardYear": 2024,
+      "winner": "Jesse Plemons",
+      "externalIds": {
+        "tmdb": "1029955"
+      }
+    },
+    {
+      "id": "cannes-best-actor-2025-the-secret-agent",
+      "mediaType": "movie",
+      "title": "シークレット・エージェント",
+      "awardYear": 2025,
+      "winner": "Wagner Moura",
+      "externalIds": {
+        "tmdb": "1220564"
+      }
+    },
+    {
+      "id": "cannes-best-actor-2026-coward",
+      "mediaType": "movie",
+      "title": "Coward",
+      "awardYear": 2026,
+      "winner": "Emmanuel Macchia; Valentin Campagne",
+      "externalIds": {
+        "tmdb": "1437981"
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "title": "칸 — 주목할 만한 시선 남우주연상",
+  "author": "Mydea",
+  "updatedAt": "2026-09-16T04:43:24Z",
+  "description": "칸 영화제 주목할 만한 시선 부문의 역대 수상작입니다. 주목할 만한 시선 남우주연상.",
+  "tags": [
+    "award",
+    "cannes",
+    "prize"
+  ],
+  "items": [
+    {
+      "id": "cannes-ucr-actor-2006-the-violin",
+      "mediaType": "movie",
+      "title": "The Violin",
+      "awardYear": 2006,
+      "winner": "Ángel Tavira"
+    },
+    {
+      "id": "cannes-ucr-actor-2014-charlie-s-country",
+      "mediaType": "movie",
+      "title": "Charlie's Country",
+      "awardYear": 2014,
+      "winner": "David Gulpilil"
+    },
+    {
+      "id": "cannes-ucr-actor-2018-girl",
+      "mediaType": "movie",
+      "title": "Girl",
+      "awardYear": 2018,
+      "winner": "Victor Polster",
+      "externalIds": {
+        "tmdb": "515916",
+        "imdb": "tt8254556"
+      },
+      "releaseDate": "2018"
+    },
+    {
+      "id": "cannes-ucr-actor-2025-urchin",
+      "mediaType": "movie",
+      "title": "Urchin",
+      "awardYear": 2025,
+      "winner": "Frank Dillane",
+      "externalIds": {
+        "imdb": "tt35715953"
+      },
+      "releaseDate": "2025"
+    },
+    {
+      "id": "cannes-ucr-actor-2026-congo-boy",
+      "mediaType": "movie",
+      "title": "Congo Boy",
+      "awardYear": 2026,
+      "winner": "Bradley Fiomona Dembeasset",
+      "externalIds": {
+        "imdb": "tt41592086"
+      }
+    }
+  ]
+}

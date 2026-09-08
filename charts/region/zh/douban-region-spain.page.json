@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "icon": "chart.bar",
+  "title": "豆瓣西班牙类型片",
+  "description": "豆瓣西班牙各类型片榜单，涵盖 6 个类型。",
+  "tags": [
+    "douban",
+    "chart",
+    "region",
+    "spain"
+  ],
+  "sections": [
+    {
+      "title": "西班牙喜剧片",
+      "layout": "carousel",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "EC6UO37NQ"
+        }
+      ]
+    },
+    {
+      "title": "西班牙犯罪片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECPAPDKZA"
+        }
+      ]
+    },
+    {
+      "title": "西班牙恐怖片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECWUOILKA"
+        }
+      ]
+    },
+    {
+      "title": "西班牙悬疑片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECAYOVXFA"
+        }
+      ]
+    },
+    {
+      "title": "西班牙爱情片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECU4OWMMI"
+        }
+      ]
+    },
+    {
+      "title": "西班牙惊悚片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECLMPAEZY"
+        }
+      ]
+    }
+  ]
+}

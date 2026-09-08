@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-16T04:39:02Z",
+  "title": "2025 선댄스 영화제 수상작",
+  "description": "2025 선댄스 영화제 4개 핵심 장편 경쟁 부문 심사위원대상 수상작.",
+  "tags": [
+    "award",
+    "park-city",
+    "decade"
+  ],
+  "items": [
+    {
+      "id": "sundance-us-dramatic-2025-atropia",
+      "mediaType": "movie",
+      "title": "Atropia",
+      "award": "미국 극영화 심사위원대상",
+      "awardYear": 2025,
+      "awardOrder": 1,
+      "winner": "Hailey Gates",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31122579"
+      }
+    },
+    {
+      "id": "sundance-us-documentary-2025-seeds",
+      "mediaType": "movie",
+      "title": "Seeds",
+      "award": "미국 다큐멘터리 심사위원대상",
+      "awardYear": 2025,
+      "awardOrder": 2,
+      "winner": "Brittany Shyne",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt34963731"
+      }
+    },
+    {
+      "id": "sundance-world-dramatic-2025-sabar-bonda-cactus-pears",
+      "mediaType": "movie",
+      "title": "Sabar Bonda (Cactus Pears)",
+      "originalTitle": "Sabar Bonda",
+      "award": "월드 시네마 극영화 심사위원대상",
+      "awardYear": 2025,
+      "awardOrder": 3,
+      "winner": "Rohan Parashuram Kanawade",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt29310002"
+      }
+    },
+    {
+      "id": "sundance-world-documentary-2025-cutting-through-rocks",
+      "mediaType": "movie",
+      "title": "Cutting Through Rocks",
+      "award": "월드 시네마 다큐멘터리 심사위원대상",
+      "awardYear": 2025,
+      "awardOrder": 4,
+      "winner": "Sara Khaki & Mohammadreza Eyni",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt10196414"
+      }
+    }
+  ]
+}

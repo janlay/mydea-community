@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T02:53:58Z",
+  "title": "백상예술대상 — 2019",
+  "description": "2019년 백상예술대상 영화 부문 수상 기록.",
+  "items": [
+    {
+      "id": "baeksang-2019-film-grand-innocent-witness",
+      "mediaType": "movie",
+      "title": "증인",
+      "englishTitle": "Innocent Witness",
+      "award": "영화부문 대상",
+      "awardYear": 2019,
+      "awardOrder": 1,
+      "winner": "Jung Woo-sung",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt8562562"
+      }
+    },
+    {
+      "id": "baeksang-2019-film-best-spy-north",
+      "mediaType": "movie",
+      "title": "공작",
+      "englishTitle": "The Spy Gone North",
+      "award": "영화부문 작품상",
+      "awardYear": 2019,
+      "awardOrder": 2,
+      "winner": "공작",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8290698"
+      }
+    },
+    {
+      "id": "baeksang-2019-film-director-swing-kids",
+      "mediaType": "movie",
+      "title": "스윙키즈",
+      "englishTitle": "Swing Kids",
+      "award": "영화부문 감독상",
+      "awardYear": 2019,
+      "awardOrder": 3,
+      "winner": "Kang Hyoung-chul",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7046974"
+      }
+    },
+    {
+      "id": "baeksang-2019-film-actor-spy-north",
+      "mediaType": "movie",
+      "title": "공작",
+      "englishTitle": "The Spy Gone North",
+      "award": "영화부문 남자 최우수 연기상",
+      "awardYear": 2019,
+      "awardOrder": 4,
+      "winner": "Lee Sung-min",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8290698"
+      }
+    },
+    {
+      "id": "baeksang-2019-film-actress-miss-baek",
+      "mediaType": "movie",
+      "title": "미쓰백",
+      "englishTitle": "Miss Baek",
+      "award": "영화부문 여자 최우수 연기상",
+      "awardYear": 2019,
+      "awardOrder": 5,
+      "winner": "Han Ji-min",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt6479534"
+      }
+    }
+  ]
+}

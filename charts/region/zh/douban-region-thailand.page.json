@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "icon": "chart.bar",
+  "title": "豆瓣泰国类型片",
+  "description": "豆瓣泰国各类型片榜单，涵盖 3 个类型。",
+  "tags": [
+    "douban",
+    "chart",
+    "region",
+    "thailand"
+  ],
+  "sections": [
+    {
+      "title": "泰国喜剧片",
+      "layout": "carousel",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECAIO3EWI"
+        }
+      ]
+    },
+    {
+      "title": "泰国恐怖片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "EC2AOMMKY"
+        }
+      ]
+    },
+    {
+      "title": "泰国爱情片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECYQO7YPQ"
+        }
+      ]
+    }
+  ]
+}

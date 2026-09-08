@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T02:58:14Z",
+  "title": "百想芸術大賞 — 2023",
+  "description": "2023年の百想芸術大賞における映画部門の受賞作品。",
+  "items": [
+    {
+      "id": "baeksang-2023-film-grand-decision",
+      "mediaType": "movie",
+      "title": "別れる決心",
+      "originalTitle": "헤어질 결심",
+      "award": "映画部門 大賞",
+      "awardYear": 2023,
+      "awardOrder": 1,
+      "winner": "別れる決心",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt12477480"
+      }
+    },
+    {
+      "id": "baeksang-2023-film-best-night-owl",
+      "mediaType": "movie",
+      "title": "梟―フクロウ―",
+      "originalTitle": "올빼미",
+      "award": "映画部門 作品賞",
+      "awardYear": 2023,
+      "awardOrder": 2,
+      "winner": "梟－フクロウ－",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt23871504"
+      }
+    },
+    {
+      "id": "baeksang-2023-film-director-decision",
+      "mediaType": "movie",
+      "title": "別れる決心",
+      "originalTitle": "헤어질 결심",
+      "award": "映画部門 監督賞",
+      "awardYear": 2023,
+      "awardOrder": 3,
+      "winner": "パク・チャヌク",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt12477480"
+      }
+    },
+    {
+      "id": "baeksang-2023-film-actor-night-owl",
+      "mediaType": "movie",
+      "title": "梟―フクロウ―",
+      "originalTitle": "올빼미",
+      "award": "映画部門 男性最優秀演技賞",
+      "awardYear": 2023,
+      "awardOrder": 4,
+      "winner": "リュ・ジュンヨル",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt23871504"
+      }
+    },
+    {
+      "id": "baeksang-2023-film-actress-decision",
+      "mediaType": "movie",
+      "title": "別れる決心",
+      "originalTitle": "헤어질 결심",
+      "award": "映画部門 女性最優秀演技賞",
+      "awardYear": 2023,
+      "awardOrder": 5,
+      "winner": "タン・ウェイ",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt12477480"
+      }
+    }
+  ]
+}

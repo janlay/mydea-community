@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "ゴールデングローブ賞 2017",
+  "description": "2017年のゴールデングローブ賞映画部門の受賞一覧。",
+  "items": [
+    {
+      "id": "golden-globes-2017-drama-moonlight",
+      "mediaType": "movie",
+      "title": "ムーンライト",
+      "englishTitle": "Moonlight",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4975722"
+      },
+      "award": "作品賞 ドラマ部門",
+      "awardYear": 2017,
+      "awardOrder": 1,
+      "winner": "ムーンライト"
+    },
+    {
+      "id": "golden-globes-2017-comedy-la-la-land",
+      "mediaType": "movie",
+      "title": "ラ・ラ・ランド",
+      "englishTitle": "La La Land",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt3783958"
+      },
+      "award": "作品賞 ミュージカル・コメディ部門",
+      "awardYear": 2017,
+      "awardOrder": 2,
+      "winner": "ラ・ラ・ランド"
+    },
+    {
+      "id": "golden-globes-2017-animated-zootopia",
+      "mediaType": "movie",
+      "title": "ズートピア",
+      "englishTitle": "Zootopia",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt2948356"
+      },
+      "award": "アニメーション映画賞",
+      "awardYear": 2017,
+      "awardOrder": 3,
+      "winner": "ズートピア"
+    },
+    {
+      "id": "golden-globes-2017-foreign-elle",
+      "mediaType": "movie",
+      "title": "エル ELLE",
+      "englishTitle": "Elle",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt3716530"
+      },
+      "award": "非英語映画賞",
+      "awardYear": 2017,
+      "awardOrder": 4,
+      "winner": "エル ELLE"
+    }
+  ]
+}

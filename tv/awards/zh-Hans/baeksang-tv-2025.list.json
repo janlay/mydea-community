@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T02:53:58Z",
+  "title": "百想艺术大赏 — 2025",
+  "description": "2025 年百想艺术大赏电视主要奖项获奖记录。",
+  "items": [
+    {
+      "id": "baeksang-2025-tv-grand-culinary",
+      "mediaType": "tv",
+      "title": "黑白厨师：料理阶级战争",
+      "originalTitle": "흑백요리사: 요리 계급 전쟁",
+      "award": "电视大奖",
+      "awardYear": 2025,
+      "awardOrder": 1,
+      "winner": "黑白厨师：料理阶级战争",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt33040785"
+      }
+    },
+    {
+      "id": "baeksang-2025-tv-best-tangerines",
+      "mediaType": "tv",
+      "title": "苦尽柑来遇见你",
+      "originalTitle": "폭싹 속았수다",
+      "award": "最佳电视剧",
+      "awardYear": 2025,
+      "awardOrder": 2,
+      "winner": "苦尽柑来遇见你",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt26471411"
+      }
+    },
+    {
+      "id": "baeksang-2025-tv-director-doubt",
+      "mediaType": "tv",
+      "title": "如此亲密的背叛者",
+      "originalTitle": "이토록 친밀한 배신자",
+      "award": "电视最佳导演",
+      "awardYear": 2025,
+      "awardOrder": 3,
+      "winner": "Song Yeon-hwa",
+      "releaseDate": "2024",
+      "externalIds": {
+        "tmdb": "240942"
+      }
+    },
+    {
+      "id": "baeksang-2025-tv-actor-trauma",
+      "mediaType": "tv",
+      "title": "重症外伤中心",
+      "originalTitle": "중증외상센터",
+      "award": "电视最佳男主角",
+      "awardYear": 2025,
+      "awardOrder": 4,
+      "winner": "Ju Ji-hoon",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt28106730"
+      }
+    },
+    {
+      "id": "baeksang-2025-tv-actress-jeongnyeon",
+      "mediaType": "tv",
+      "title": "正年",
+      "originalTitle": "정년이",
+      "award": "电视最佳女主角",
+      "awardYear": 2025,
+      "awardOrder": 5,
+      "winner": "Kim Tae-ri",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt28197611"
+      }
+    }
+  ]
+}

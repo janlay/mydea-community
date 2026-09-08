@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T05:03:58Z",
+  "title": "奥斯卡 2019 年获奖名单",
+  "description": "第 91 届奥斯卡核心电影奖项获奖影片与获奖者。",
+  "items": [
+    {
+      "id": "oscars-2019-best-picture-green-book",
+      "mediaType": "movie",
+      "title": "绿皮书",
+      "award": "最佳影片",
+      "awardYear": 2019,
+      "awardOrder": 1,
+      "winner": "Jim Burke, Charles B. Wessler, Brian Currie, Peter Farrelly & Nick Vallelonga",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt6966692"
+      }
+    },
+    {
+      "id": "oscars-2019-best-director-roma",
+      "mediaType": "movie",
+      "title": "罗马",
+      "award": "最佳导演",
+      "awardYear": 2019,
+      "awardOrder": 2,
+      "winner": "Alfonso Cuarón",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt6155172"
+      }
+    },
+    {
+      "id": "oscars-2019-best-actor-bohemian-rhapsody",
+      "mediaType": "movie",
+      "title": "波西米亚狂想曲",
+      "award": "最佳男主角",
+      "awardYear": 2019,
+      "awardOrder": 3,
+      "winner": "Rami Malek",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt1727824"
+      }
+    },
+    {
+      "id": "oscars-2019-best-actress-the-favourite",
+      "mediaType": "movie",
+      "title": "The Favourite",
+      "award": "最佳女主角",
+      "awardYear": 2019,
+      "awardOrder": 4,
+      "winner": "Olivia Colman",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt5083738"
+      }
+    },
+    {
+      "id": "oscars-2019-best-supporting-actor-green-book",
+      "mediaType": "movie",
+      "title": "绿皮书",
+      "award": "最佳男配角",
+      "awardYear": 2019,
+      "awardOrder": 5,
+      "winner": "Mahershala Ali",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt6966692"
+      }
+    },
+    {
+      "id": "oscars-2019-best-supporting-actress-if-beale-street-could-talk",
+      "mediaType": "movie",
+      "title": "If Beale Street Could Talk",
+      "award": "最佳女配角",
+      "awardYear": 2019,
+      "awardOrder": 6,
+      "winner": "Regina King",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7125860"
+      }
+    },
+    {
+      "id": "oscars-2019-best-original-screenplay-green-book",
+      "mediaType": "movie",
+      "title": "绿皮书",
+      "award": "最佳原创剧本",
+      "awardYear": 2019,
+      "awardOrder": 7,
+      "winner": "Nick Vallelonga, Brian Currie & Peter Farrelly",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt6966692"
+      }
+    },
+    {
+      "id": "oscars-2019-best-adapted-screenplay-blackkklansman",
+      "mediaType": "movie",
+      "title": "黑色党徒",
+      "award": "最佳改编剧本",
+      "awardYear": 2019,
+      "awardOrder": 8,
+      "winner": "Charlie Wachtel, David Rabinowitz, Kevin Willmott & Spike Lee",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7349662"
+      }
+    },
+    {
+      "id": "oscars-2019-best-animated-feature-spider-man-into-the-spider-verse",
+      "mediaType": "movie",
+      "title": "蜘蛛侠：平行宇宙",
+      "award": "最佳动画长片",
+      "awardYear": 2019,
+      "awardOrder": 9,
+      "winner": "Bob Persichetti, Peter Ramsey, Rodney Rothman, Phil Lord & Christopher Miller",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt4633694"
+      }
+    },
+    {
+      "id": "oscars-2019-best-international-feature-roma",
+      "mediaType": "movie",
+      "title": "罗马",
+      "award": "最佳国际影片",
+      "awardYear": 2019,
+      "awardOrder": 10,
+      "winner": "Alfonso Cuarón",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt6155172"
+      }
+    }
+  ]
+}

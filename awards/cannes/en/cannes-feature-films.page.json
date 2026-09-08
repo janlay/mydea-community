@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "title": "Cannes — Feature Films",
+  "author": "Mydea",
+  "updatedAt": "2026-09-16T04:43:24Z",
+  "description": "Historical Cannes Feature Film awards.",
+  "tags": [
+    "award",
+    "cannes",
+    "prize"
+  ],
+  "icon": "ticket",
+  "sections": [
+    {
+      "title": "Cannes — Palme d’Or",
+      "description": "Cannes Film Festival Palme d'Or and historical top-prize winning films.",
+      "layout": "carousel",
+      "limit": 10,
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "cannes-palme-dor.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "title with Year"
+      ]
+    },
+    {
+      "title": "Cannes — Grand Prix",
+      "description": "Cannes Film Festival Grand Prix winning films.",
+      "layout": "grid",
+      "limit": 10,
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "cannes-grand-prix.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "title with Year"
+      ]
+    },
+    {
+      "title": "Cannes — Jury Prize",
+      "description": "Cannes Film Festival Jury Prize winning films.",
+      "layout": "grid",
+      "limit": 10,
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "cannes-jury-prize.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "title with Year"
+      ]
+    },
+    {
+      "title": "Cannes — Best Director",
+      "description": "Films associated with Cannes Film Festival Best Director winners.",
+      "layout": "grid",
+      "limit": 10,
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "cannes-best-director.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "title with Year"
+      ]
+    },
+    {
+      "title": "Cannes — Best Screenplay",
+      "description": "Films associated with Cannes Film Festival Best Screenplay winners.",
+      "layout": "grid",
+      "limit": 10,
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "cannes-best-screenplay.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "title with Year"
+      ]
+    },
+    {
+      "title": "Cannes — Best Actress",
+      "description": "Films associated with Cannes Film Festival Best Actress winners.",
+      "layout": "grid",
+      "limit": 10,
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "cannes-best-actress.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "title with Year"
+      ]
+    },
+    {
+      "title": "Cannes — Best Actor",
+      "description": "Films associated with Cannes Film Festival Best Actor winners.",
+      "layout": "grid",
+      "limit": 10,
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "cannes-best-actor.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "title with Year"
+      ]
+    }
+  ]
+}

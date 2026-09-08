@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T02:53:58Z",
+  "title": "百想藝術大賞 — 2022",
+  "description": "2022 年百想藝術大賞電影主要獎項獲獎記錄。",
+  "items": [
+    {
+      "id": "baeksang-2022-film-grand-mogadishu",
+      "mediaType": "movie",
+      "title": "摩加迪沙",
+      "originalTitle": "모가디슈",
+      "award": "電影大獎",
+      "awardYear": 2022,
+      "awardOrder": 1,
+      "winner": "Ryoo Seung-wan",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14810692"
+      }
+    },
+    {
+      "id": "baeksang-2022-film-best-mogadishu",
+      "mediaType": "movie",
+      "title": "摩加迪沙",
+      "originalTitle": "모가디슈",
+      "award": "最佳電影",
+      "awardYear": 2022,
+      "awardOrder": 2,
+      "winner": "摩加迪沙",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14810692"
+      }
+    },
+    {
+      "id": "baeksang-2022-film-director-kingmaker",
+      "mediaType": "movie",
+      "title": "王者製造",
+      "originalTitle": "킹메이커",
+      "award": "電影最佳導演",
+      "awardYear": 2022,
+      "awardOrder": 3,
+      "winner": "Byun Sung-hyun",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt17491616"
+      }
+    },
+    {
+      "id": "baeksang-2022-film-actor-kingmaker",
+      "mediaType": "movie",
+      "title": "王者製造",
+      "originalTitle": "킹메이커",
+      "award": "電影最佳男主角",
+      "awardYear": 2022,
+      "awardOrder": 4,
+      "winner": "Sol Kyung-gu",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt17491616"
+      }
+    },
+    {
+      "id": "baeksang-2022-film-actress-in-front",
+      "mediaType": "movie",
+      "title": "在你面前",
+      "originalTitle": "당신얼굴 앞에서",
+      "award": "電影最佳女主角",
+      "awardYear": 2022,
+      "awardOrder": 5,
+      "winner": "Lee Hye-young",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14776918"
+      }
+    }
+  ]
+}

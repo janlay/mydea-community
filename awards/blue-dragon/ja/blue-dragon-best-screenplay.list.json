@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T00:00:00Z",
+  "title": "青龍映画賞 — 脚本賞",
+  "description": "青龍映画賞脚本賞の歴代受賞者。",
+  "items": [
+    {
+      "id": "blue-dragon-2016-best-screenplay-dongju",
+      "mediaType": "movie",
+      "title": "Dongju: The Portrait of a Poet",
+      "originalTitle": "동주",
+      "awardYear": 2016,
+      "winner": "シン・ヨンシク",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5799928"
+      }
+    },
+    {
+      "id": "blue-dragon-2017-best-screenplay-fortress",
+      "mediaType": "movie",
+      "title": "天命の城",
+      "originalTitle": "남한산성",
+      "awardYear": 2017,
+      "winner": "ファン・ドンヒョク",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7160176"
+      }
+    },
+    {
+      "id": "blue-dragon-2018-best-screenplay-dark-figure-crime",
+      "mediaType": "movie",
+      "title": "Dark Figure of Crime",
+      "originalTitle": "암수살인",
+      "awardYear": 2018,
+      "winner": "クァク・キョンテク & キム・テギュン",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8119680"
+      }
+    },
+    {
+      "id": "blue-dragon-2019-best-screenplay-house-hummingbird",
+      "mediaType": "movie",
+      "title": "はちどり",
+      "originalTitle": "벌새",
+      "awardYear": 2019,
+      "winner": "キム・ボラ",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8951086"
+      }
+    },
+    {
+      "id": "blue-dragon-2020-best-screenplay-moonlit-winter",
+      "mediaType": "movie",
+      "title": "ユンヒへ",
+      "originalTitle": "윤희에게",
+      "awardYear": 2020,
+      "winner": "イム・デヒョン",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt11311974"
+      }
+    },
+    {
+      "id": "blue-dragon-2021-best-screenplay-book-fish",
+      "mediaType": "movie",
+      "title": "자산어보",
+      "originalTitle": "자산어보",
+      "awardYear": 2021,
+      "winner": "キム・セギョム",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt14371900"
+      }
+    },
+    {
+      "id": "blue-dragon-2022-best-screenplay-decision-leave",
+      "mediaType": "movie",
+      "title": "別れる決心",
+      "originalTitle": "헤어질 결심",
+      "awardYear": 2022,
+      "winner": "パク・チャヌク & チョン・ソギョン",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt12477480"
+      }
+    },
+    {
+      "id": "blue-dragon-2023-best-screenplay-next-sohee",
+      "mediaType": "movie",
+      "title": "あしたの少女",
+      "originalTitle": "다음 소희",
+      "awardYear": 2023,
+      "winner": "チョン・ジュリ",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt19820538"
+      }
+    },
+    {
+      "id": "blue-dragon-2024-best-screenplay-dream-songs",
+      "mediaType": "movie",
+      "title": "The Dream Songs",
+      "originalTitle": "너와 나",
+      "awardYear": 2024,
+      "winner": "チョ・ヒョンチョル",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt26757183"
+      }
+    },
+    {
+      "id": "blue-dragon-2025-best-screenplay-match",
+      "mediaType": "movie",
+      "title": "The Match",
+      "originalTitle": "승부",
+      "awardYear": 2025,
+      "winner": "キム・ヒョンジュ & ユン・ジョンビン",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt13498824"
+      }
+    }
+  ]
+}

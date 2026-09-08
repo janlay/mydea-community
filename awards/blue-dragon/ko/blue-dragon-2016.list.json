@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T02:54:20Z",
+  "title": "청룡영화상 — 2016",
+  "description": "2016년 청룡영화상 주요 10개 영화 부문 수상작.",
+  "items": [
+    {
+      "id": "blue-dragon-2016-best-film-inside-men",
+      "mediaType": "movie",
+      "title": "내부자들",
+      "englishTitle": "Inside Men",
+      "award": "최우수작품상",
+      "awardYear": 2016,
+      "awardOrder": 1,
+      "winner": "Woo Min-ho",
+      "releaseDate": "2015",
+      "externalIds": {
+        "imdb": "tt3779028"
+      }
+    },
+    {
+      "id": "blue-dragon-2016-best-director-wailing",
+      "mediaType": "movie",
+      "title": "곡성",
+      "englishTitle": "The Wailing",
+      "award": "감독상",
+      "awardYear": 2016,
+      "awardOrder": 2,
+      "winner": "Na Hong-jin",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5215952"
+      }
+    },
+    {
+      "id": "blue-dragon-2016-best-actor-inside-men",
+      "mediaType": "movie",
+      "title": "내부자들",
+      "englishTitle": "Inside Men",
+      "award": "남우주연상",
+      "awardYear": 2016,
+      "awardOrder": 3,
+      "winner": "Lee Byung-hun",
+      "releaseDate": "2015",
+      "externalIds": {
+        "imdb": "tt3779028"
+      }
+    },
+    {
+      "id": "blue-dragon-2016-best-actress-handmaiden",
+      "mediaType": "movie",
+      "title": "아가씨",
+      "englishTitle": "The Handmaiden",
+      "award": "여우주연상",
+      "awardYear": 2016,
+      "awardOrder": 4,
+      "winner": "Kim Min-hee",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4016934"
+      }
+    },
+    {
+      "id": "blue-dragon-2016-best-supporting-actor-wailing",
+      "mediaType": "movie",
+      "title": "곡성",
+      "englishTitle": "The Wailing",
+      "award": "남우조연상",
+      "awardYear": 2016,
+      "awardOrder": 5,
+      "winner": "Jun Kunimura",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5215952"
+      }
+    },
+    {
+      "id": "blue-dragon-2016-best-supporting-actress-priests",
+      "mediaType": "movie",
+      "title": "검은 사제들",
+      "englishTitle": "The Priests",
+      "award": "여우조연상",
+      "awardYear": 2016,
+      "awardOrder": 6,
+      "winner": "Park So-dam",
+      "releaseDate": "2015",
+      "externalIds": {
+        "imdb": "tt5049302"
+      }
+    },
+    {
+      "id": "blue-dragon-2016-best-new-director-world-of-us",
+      "mediaType": "movie",
+      "title": "우리들",
+      "englishTitle": "The World of Us",
+      "award": "신인감독상",
+      "awardYear": 2016,
+      "awardOrder": 7,
+      "winner": "Yoon Ga-eun",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5502816"
+      }
+    },
+    {
+      "id": "blue-dragon-2016-best-new-actor-dongju",
+      "mediaType": "movie",
+      "title": "동주",
+      "englishTitle": "Dongju: The Portrait of a Poet",
+      "award": "신인남우상",
+      "awardYear": 2016,
+      "awardOrder": 8,
+      "winner": "Park Jeong-min",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5799928"
+      }
+    },
+    {
+      "id": "blue-dragon-2016-best-new-actress-handmaiden",
+      "mediaType": "movie",
+      "title": "아가씨",
+      "englishTitle": "The Handmaiden",
+      "award": "신인여우상",
+      "awardYear": 2016,
+      "awardOrder": 9,
+      "winner": "Kim Tae-ri",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4016934"
+      }
+    },
+    {
+      "id": "blue-dragon-2016-best-screenplay-dongju",
+      "mediaType": "movie",
+      "title": "동주",
+      "englishTitle": "Dongju: The Portrait of a Poet",
+      "award": "각본상",
+      "awardYear": 2016,
+      "awardOrder": 10,
+      "winner": "Shin Yeon-shick",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5799928"
+      }
+    }
+  ]
+}

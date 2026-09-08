@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "金球獎 2022",
+  "description": "2022 金球獎電視作品類獲獎名單。",
+  "items": [
+    {
+      "id": "golden-globes-2022-tv_drama-succession",
+      "mediaType": "tv",
+      "title": "繼承之戰",
+      "englishTitle": "Succession",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7660850"
+      },
+      "award": "最佳劇情類影集",
+      "awardYear": 2022,
+      "awardOrder": 1,
+      "winner": "繼承之戰"
+    },
+    {
+      "id": "golden-globes-2022-tv_comedy-hacks",
+      "mediaType": "tv",
+      "title": "天后與草莓",
+      "englishTitle": "Hacks",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt11815682"
+      },
+      "award": "最佳音樂或喜劇類影集",
+      "awardYear": 2022,
+      "awardOrder": 2,
+      "winner": "天后與草莓"
+    },
+    {
+      "id": "golden-globes-2022-limited-the-underground-railroad",
+      "mediaType": "tv",
+      "title": "The Underground Railroad",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt6704972"
+      },
+      "award": "最佳有限影集、選集影集或電視電影",
+      "awardYear": 2022,
+      "awardOrder": 3,
+      "winner": "The Underground Railroad"
+    }
+  ]
+}

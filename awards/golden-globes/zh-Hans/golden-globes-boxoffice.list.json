@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "金球奖 — 电影和票房成就奖",
+  "description": "2017–2026 年金球奖电影和票房成就奖获奖作品。",
+  "items": [
+    {
+      "id": "golden-globes-boxoffice-2024-barbie",
+      "mediaType": "movie",
+      "title": "芭比",
+      "englishTitle": "Barbie",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt1517268"
+      },
+      "awardYear": 2024,
+      "winner": "芭比"
+    },
+    {
+      "id": "golden-globes-boxoffice-2025-wicked",
+      "mediaType": "movie",
+      "title": "魔法坏女巫",
+      "englishTitle": "Wicked",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt1262426"
+      },
+      "awardYear": 2025,
+      "winner": "魔法坏女巫"
+    },
+    {
+      "id": "golden-globes-boxoffice-2026-sinners",
+      "mediaType": "movie",
+      "title": "罪人",
+      "englishTitle": "Sinners",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31193180"
+      },
+      "awardYear": 2026,
+      "winner": "罪人"
+    }
+  ]
+}

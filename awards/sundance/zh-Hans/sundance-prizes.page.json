@@ -1,0 +1,112 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "updatedAt": "2026-09-16T04:39:02Z",
+  "title": "圣丹斯奖项",
+  "description": "圣丹斯电影节四项核心长片评审团大奖的历届获奖作品。",
+  "tags": [
+    "award",
+    "park-city",
+    "prize"
+  ],
+  "icon": "ticket",
+  "sections": [
+    {
+      "title": "圣丹斯 — 美国剧情片评审团大奖",
+      "description": "圣丹斯电影节“美国剧情片评审团大奖”历届获奖作品，收录自 1985 年起的完整获奖记录；并列获奖按独立条目保留。",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "carousel",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "sundance-us-grand-jury-dramatic.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "圣丹斯 — 美国纪录片评审团大奖",
+      "description": "圣丹斯电影节“美国纪录片评审团大奖”历届获奖作品，收录自 1985 年起的完整获奖记录；并列获奖按独立条目保留。",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "sundance-us-grand-jury-documentary.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "圣丹斯 — 世界电影剧情片评审团大奖",
+      "description": "圣丹斯电影节“世界电影剧情片评审团大奖”历届获奖作品，收录自 2005 年起的完整获奖记录；并列获奖按独立条目保留。",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "sundance-world-cinema-grand-jury-dramatic.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    },
+    {
+      "title": "圣丹斯 — 世界电影纪录片评审团大奖",
+      "description": "圣丹斯电影节“世界电影纪录片评审团大奖”历届获奖作品，收录自 2005 年起的完整获奖记录；并列获奖按独立条目保留。",
+      "sortBy": [
+        [
+          "awardYear",
+          "desc"
+        ]
+      ],
+      "layout": "grid",
+      "limit": 10,
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "sundance-world-cinema-grand-jury-documentary.list.json"
+        }
+      ],
+      "bindings": [
+        "winner",
+        "Title with Year"
+      ]
+    }
+  ]
+}

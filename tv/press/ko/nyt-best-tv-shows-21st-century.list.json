@@ -1,0 +1,1411 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-26T01:59:06Z",
+  "title": "뉴욕 타임스 — 21세기 최고의 TV 프로그램 100선",
+  "description": "뉴욕 타임스 “The 100 Best TV Shows of the 21st Century”의 100개 작품을 원래 순위대로 수록합니다.",
+  "tags": [
+    "press",
+    "tv",
+    "nytimes"
+  ],
+  "items": [
+    {
+      "id": "nyt-best-tv-001",
+      "mediaType": "tv",
+      "title": "브레이킹 배드",
+      "releaseDate": "2008",
+      "externalIds": {
+        "imdb": "tt0903747"
+      },
+      "rank": 1,
+      "ranking": "#1",
+      "startYear": 2008,
+      "runYears": "2008–2013",
+      "englishTitle": "Breaking Bad"
+    },
+    {
+      "id": "nyt-best-tv-002",
+      "mediaType": "tv",
+      "title": "더 와이어",
+      "releaseDate": "2002",
+      "externalIds": {
+        "imdb": "tt0306414"
+      },
+      "rank": 2,
+      "ranking": "#2",
+      "startYear": 2002,
+      "runYears": "2002–2008",
+      "englishTitle": "The Wire"
+    },
+    {
+      "id": "nyt-best-tv-003",
+      "mediaType": "tv",
+      "title": "매드맨",
+      "releaseDate": "2007",
+      "externalIds": {
+        "imdb": "tt0804503"
+      },
+      "rank": 3,
+      "ranking": "#3",
+      "startYear": 2007,
+      "runYears": "2007–2015",
+      "englishTitle": "Mad Men"
+    },
+    {
+      "id": "nyt-best-tv-004",
+      "mediaType": "tv",
+      "title": "석세션",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7660850"
+      },
+      "rank": 4,
+      "ranking": "#4",
+      "startYear": 2018,
+      "runYears": "2018–2023",
+      "englishTitle": "Succession"
+    },
+    {
+      "id": "nyt-best-tv-005",
+      "mediaType": "tv",
+      "title": "플리백",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5687612"
+      },
+      "rank": 5,
+      "ranking": "#5",
+      "startYear": 2016,
+      "runYears": "2016–2019",
+      "englishTitle": "Fleabag"
+    },
+    {
+      "id": "nyt-best-tv-006",
+      "mediaType": "tv",
+      "title": "왕좌의 게임",
+      "releaseDate": "2011",
+      "externalIds": {
+        "imdb": "tt0944947"
+      },
+      "rank": 6,
+      "ranking": "#6",
+      "startYear": 2011,
+      "runYears": "2011–2019",
+      "englishTitle": "Game of Thrones"
+    },
+    {
+      "id": "nyt-best-tv-007",
+      "mediaType": "tv",
+      "title": "부통령이 필요해",
+      "releaseDate": "2012",
+      "externalIds": {
+        "imdb": "tt1759761"
+      },
+      "rank": 7,
+      "ranking": "#7",
+      "startYear": 2012,
+      "runYears": "2012–2019",
+      "englishTitle": "Veep"
+    },
+    {
+      "id": "nyt-best-tv-008",
+      "mediaType": "tv",
+      "title": "30 ROCK",
+      "releaseDate": "2006",
+      "externalIds": {
+        "imdb": "tt0496424"
+      },
+      "rank": 8,
+      "ranking": "#8",
+      "startYear": 2006,
+      "runYears": "2006–2013",
+      "englishTitle": "30 Rock"
+    },
+    {
+      "id": "nyt-best-tv-009",
+      "mediaType": "tv",
+      "title": "Curb Your Enthusiasm",
+      "releaseDate": "2000",
+      "externalIds": {
+        "imdb": "tt0264235"
+      },
+      "rank": 9,
+      "ranking": "#9",
+      "startYear": 2000,
+      "runYears": "2000–2024"
+    },
+    {
+      "id": "nyt-best-tv-010",
+      "mediaType": "tv",
+      "title": "애틀랜타",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4288182"
+      },
+      "rank": 10,
+      "ranking": "#10",
+      "startYear": 2016,
+      "runYears": "2016–2022",
+      "englishTitle": "Atlanta"
+    },
+    {
+      "id": "nyt-best-tv-011",
+      "mediaType": "tv",
+      "title": "오피스（미국）",
+      "releaseDate": "2005",
+      "externalIds": {
+        "imdb": "tt0386676"
+      },
+      "rank": 11,
+      "ranking": "#11",
+      "startYear": 2005,
+      "runYears": "2005–2013",
+      "englishTitle": "The Office (U.S.)"
+    },
+    {
+      "id": "nyt-best-tv-012",
+      "mediaType": "tv",
+      "title": "못 말리는 패밀리",
+      "releaseDate": "2003",
+      "externalIds": {
+        "imdb": "tt0367279"
+      },
+      "rank": 12,
+      "ranking": "#12",
+      "startYear": 2003,
+      "runYears": "2003–2019",
+      "englishTitle": "Arrested Development"
+    },
+    {
+      "id": "nyt-best-tv-013",
+      "mediaType": "tv",
+      "title": "걸스",
+      "releaseDate": "2012",
+      "externalIds": {
+        "imdb": "tt1723816"
+      },
+      "rank": 13,
+      "ranking": "#13",
+      "startYear": 2012,
+      "runYears": "2012–2017",
+      "englishTitle": "Girls"
+    },
+    {
+      "id": "nyt-best-tv-014",
+      "mediaType": "tv",
+      "title": "프라이데이 나이트 라이츠",
+      "releaseDate": "2006",
+      "externalIds": {
+        "imdb": "tt0758745"
+      },
+      "rank": 14,
+      "ranking": "#14",
+      "startYear": 2006,
+      "runYears": "2006–2011",
+      "englishTitle": "Friday Night Lights"
+    },
+    {
+      "id": "nyt-best-tv-015",
+      "mediaType": "tv",
+      "title": "식스 핏 언더",
+      "releaseDate": "2001",
+      "externalIds": {
+        "imdb": "tt0248654"
+      },
+      "rank": 15,
+      "ranking": "#15",
+      "startYear": 2001,
+      "runYears": "2001–2005",
+      "englishTitle": "Six Feet Under"
+    },
+    {
+      "id": "nyt-best-tv-016",
+      "mediaType": "tv",
+      "title": "오피스（영국）",
+      "releaseDate": "2001",
+      "externalIds": {
+        "imdb": "tt0290978"
+      },
+      "rank": 16,
+      "ranking": "#16",
+      "startYear": 2001,
+      "runYears": "2001–2003",
+      "englishTitle": "The Office (U.K.)"
+    },
+    {
+      "id": "nyt-best-tv-017",
+      "mediaType": "tv",
+      "title": "디 아메리칸즈",
+      "releaseDate": "2013",
+      "externalIds": {
+        "imdb": "tt2149175"
+      },
+      "rank": 17,
+      "ranking": "#17",
+      "startYear": 2013,
+      "runYears": "2013–2018",
+      "englishTitle": "The Americans"
+    },
+    {
+      "id": "nyt-best-tv-018",
+      "mediaType": "tv",
+      "title": "아이 메이 디스트로이 유",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt11204260"
+      },
+      "rank": 18,
+      "ranking": "#18",
+      "startYear": 2020,
+      "runYears": "2020",
+      "englishTitle": "I May Destroy You"
+    },
+    {
+      "id": "nyt-best-tv-019",
+      "mediaType": "tv",
+      "title": "체르노빌",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt7366338"
+      },
+      "rank": 19,
+      "ranking": "#19",
+      "startYear": 2019,
+      "runYears": "2019",
+      "englishTitle": "Chernobyl"
+    },
+    {
+      "id": "nyt-best-tv-020",
+      "mediaType": "tv",
+      "title": "더 크라운",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4786824"
+      },
+      "rank": 20,
+      "ranking": "#20",
+      "startYear": 2016,
+      "runYears": "2016–2023",
+      "englishTitle": "The Crown"
+    },
+    {
+      "id": "nyt-best-tv-021",
+      "mediaType": "tv",
+      "title": "화이트 로투스",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt13406094"
+      },
+      "rank": 21,
+      "ranking": "#21",
+      "startYear": 2021,
+      "runYears": "2021–present",
+      "englishTitle": "The White Lotus"
+    },
+    {
+      "id": "nyt-best-tv-022",
+      "mediaType": "tv",
+      "title": "로스트",
+      "releaseDate": "2004",
+      "externalIds": {
+        "imdb": "tt0411008"
+      },
+      "rank": 22,
+      "ranking": "#22",
+      "startYear": 2004,
+      "runYears": "2004–2010",
+      "englishTitle": "Lost"
+    },
+    {
+      "id": "nyt-best-tv-023",
+      "mediaType": "tv",
+      "title": "컴백",
+      "releaseDate": "2005",
+      "externalIds": {
+        "imdb": "tt0434672"
+      },
+      "rank": 23,
+      "ranking": "#23",
+      "startYear": 2005,
+      "runYears": "2005–2026",
+      "englishTitle": "The Comeback"
+    },
+    {
+      "id": "nyt-best-tv-024",
+      "mediaType": "tv",
+      "title": "데드우드",
+      "releaseDate": "2004",
+      "externalIds": {
+        "imdb": "tt0348914"
+      },
+      "rank": 24,
+      "ranking": "#24",
+      "startYear": 2004,
+      "runYears": "2004–2006",
+      "englishTitle": "Deadwood"
+    },
+    {
+      "id": "nyt-best-tv-025",
+      "mediaType": "tv",
+      "title": "레프트오버",
+      "releaseDate": "2014",
+      "externalIds": {
+        "imdb": "tt2699128"
+      },
+      "rank": 25,
+      "ranking": "#25",
+      "startYear": 2014,
+      "runYears": "2014–2017",
+      "englishTitle": "The Leftovers"
+    },
+    {
+      "id": "nyt-best-tv-026",
+      "mediaType": "tv",
+      "title": "블랙 미러",
+      "releaseDate": "2011",
+      "externalIds": {
+        "imdb": "tt2085059"
+      },
+      "rank": 26,
+      "ranking": "#26",
+      "startYear": 2011,
+      "runYears": "2011–present",
+      "englishTitle": "Black Mirror"
+    },
+    {
+      "id": "nyt-best-tv-027",
+      "mediaType": "tv",
+      "title": "베터 콜 사울",
+      "releaseDate": "2015",
+      "externalIds": {
+        "imdb": "tt3032476"
+      },
+      "rank": 27,
+      "ranking": "#27",
+      "startYear": 2015,
+      "runYears": "2015–2022",
+      "englishTitle": "Better Call Saul"
+    },
+    {
+      "id": "nyt-best-tv-028",
+      "mediaType": "tv",
+      "title": "밴드 오브 브라더스",
+      "releaseDate": "2001",
+      "externalIds": {
+        "imdb": "tt0185906"
+      },
+      "rank": 28,
+      "ranking": "#28",
+      "startYear": 2001,
+      "runYears": "2001",
+      "englishTitle": "Band of Brothers"
+    },
+    {
+      "id": "nyt-best-tv-029",
+      "mediaType": "tv",
+      "title": "키 앤 필",
+      "releaseDate": "2012",
+      "externalIds": {
+        "imdb": "tt1981558"
+      },
+      "rank": 29,
+      "ranking": "#29",
+      "startYear": 2012,
+      "runYears": "2012–2015",
+      "englishTitle": "Key & Peele"
+    },
+    {
+      "id": "nyt-best-tv-030",
+      "mediaType": "tv",
+      "title": "세브란스: 단절",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt11280740"
+      },
+      "rank": 30,
+      "ranking": "#30",
+      "startYear": 2022,
+      "runYears": "2022–present",
+      "englishTitle": "Severance"
+    },
+    {
+      "id": "nyt-best-tv-031",
+      "mediaType": "tv",
+      "title": "서바이버",
+      "releaseDate": "2000",
+      "externalIds": {
+        "imdb": "tt0239195"
+      },
+      "rank": 31,
+      "ranking": "#31",
+      "startYear": 2000,
+      "runYears": "2000–present",
+      "englishTitle": "Survivor"
+    },
+    {
+      "id": "nyt-best-tv-032",
+      "mediaType": "tv",
+      "title": "안도르",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt9253284"
+      },
+      "rank": 32,
+      "ranking": "#32",
+      "startYear": 2022,
+      "runYears": "2022–2025",
+      "englishTitle": "Andor"
+    },
+    {
+      "id": "nyt-best-tv-033",
+      "mediaType": "tv",
+      "title": "인라이튼드",
+      "releaseDate": "2011",
+      "externalIds": {
+        "imdb": "tt1509004"
+      },
+      "rank": 33,
+      "ranking": "#33",
+      "startYear": 2011,
+      "runYears": "2011–2013",
+      "englishTitle": "Enlightened"
+    },
+    {
+      "id": "nyt-best-tv-034",
+      "mediaType": "tv",
+      "title": "시트 크릭 패밀리",
+      "releaseDate": "2015",
+      "externalIds": {
+        "imdb": "tt3526078"
+      },
+      "rank": 34,
+      "ranking": "#34",
+      "startYear": 2015,
+      "runYears": "2015–2020",
+      "englishTitle": "Schitt's Creek"
+    },
+    {
+      "id": "nyt-best-tv-035",
+      "mediaType": "tv",
+      "title": "트루 디텍티브 시즌 1",
+      "releaseDate": "2014",
+      "externalIds": {
+        "imdb": "tt2356777"
+      },
+      "rank": 35,
+      "ranking": "#35",
+      "startYear": 2014,
+      "runYears": "2014",
+      "englishTitle": "True Detective (Season 1)"
+    },
+    {
+      "id": "nyt-best-tv-036",
+      "mediaType": "tv",
+      "title": "더 피트",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31938062"
+      },
+      "rank": 36,
+      "ranking": "#36",
+      "startYear": 2025,
+      "runYears": "2025–present",
+      "englishTitle": "The Pitt"
+    },
+    {
+      "id": "nyt-best-tv-037",
+      "mediaType": "tv",
+      "title": "배틀스타 갤럭티카",
+      "releaseDate": "2005",
+      "externalIds": {
+        "imdb": "tt0407362"
+      },
+      "rank": 37,
+      "ranking": "#37",
+      "startYear": 2005,
+      "runYears": "2005–2009",
+      "englishTitle": "Battlestar Galactica"
+    },
+    {
+      "id": "nyt-best-tv-038",
+      "mediaType": "tv",
+      "title": "홈랜드",
+      "releaseDate": "2011",
+      "externalIds": {
+        "imdb": "tt1796960"
+      },
+      "rank": 38,
+      "ranking": "#38",
+      "startYear": 2011,
+      "runYears": "2011–2020",
+      "englishTitle": "Homeland"
+    },
+    {
+      "id": "nyt-best-tv-039",
+      "mediaType": "tv",
+      "title": "왓치맨",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt7049682"
+      },
+      "rank": 39,
+      "ranking": "#39",
+      "startYear": 2019,
+      "runYears": "2019",
+      "englishTitle": "Watchmen"
+    },
+    {
+      "id": "nyt-best-tv-040",
+      "mediaType": "tv",
+      "title": "소년의 시간",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt31806037"
+      },
+      "rank": 40,
+      "ranking": "#40",
+      "startYear": 2025,
+      "runYears": "2025"
+    },
+    {
+      "id": "nyt-best-tv-041",
+      "mediaType": "tv",
+      "title": "루이",
+      "releaseDate": "2010",
+      "externalIds": {
+        "imdb": "tt1492966"
+      },
+      "rank": 41,
+      "ranking": "#41",
+      "startYear": 2010,
+      "runYears": "2010–2015",
+      "englishTitle": "Louie"
+    },
+    {
+      "id": "nyt-best-tv-042",
+      "mediaType": "tv",
+      "title": "해크스",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt11815682"
+      },
+      "rank": 42,
+      "ranking": "#42",
+      "startYear": 2021,
+      "runYears": "2021–2026",
+      "englishTitle": "Hacks"
+    },
+    {
+      "id": "nyt-best-tv-043",
+      "mediaType": "tv",
+      "title": "피키 블라인더스",
+      "releaseDate": "2013",
+      "externalIds": {
+        "imdb": "tt2442560"
+      },
+      "rank": 43,
+      "ranking": "#43",
+      "startYear": 2013,
+      "runYears": "2013–2022",
+      "englishTitle": "Peaky Blinders"
+    },
+    {
+      "id": "nyt-best-tv-044",
+      "mediaType": "tv",
+      "title": "보잭 홀스맨",
+      "releaseDate": "2014",
+      "externalIds": {
+        "imdb": "tt3398228"
+      },
+      "rank": 44,
+      "ranking": "#44",
+      "startYear": 2014,
+      "runYears": "2014–2020",
+      "englishTitle": "BoJack Horseman"
+    },
+    {
+      "id": "nyt-best-tv-045",
+      "mediaType": "tv",
+      "title": "해피 밸리",
+      "releaseDate": "2014",
+      "externalIds": {
+        "imdb": "tt3428912"
+      },
+      "rank": 45,
+      "ranking": "#45",
+      "startYear": 2014,
+      "runYears": "2014–2023",
+      "englishTitle": "Happy Valley"
+    },
+    {
+      "id": "nyt-best-tv-046",
+      "mediaType": "tv",
+      "title": "브로드 시티",
+      "releaseDate": "2014",
+      "externalIds": {
+        "imdb": "tt2578560"
+      },
+      "rank": 46,
+      "ranking": "#46",
+      "startYear": 2014,
+      "runYears": "2014–2019",
+      "englishTitle": "Broad City"
+    },
+    {
+      "id": "nyt-best-tv-047",
+      "mediaType": "tv",
+      "title": "트윈 픽스: 더 리턴",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt4093826"
+      },
+      "rank": 47,
+      "ranking": "#47",
+      "startYear": 2017,
+      "runYears": "2017",
+      "englishTitle": "Twin Peaks: The Return"
+    },
+    {
+      "id": "nyt-best-tv-048",
+      "mediaType": "tv",
+      "title": "하우스 오브 카드",
+      "releaseDate": "2013",
+      "externalIds": {
+        "imdb": "tt1856010"
+      },
+      "rank": 48,
+      "ranking": "#48",
+      "startYear": 2013,
+      "runYears": "2013–2018",
+      "englishTitle": "House of Cards"
+    },
+    {
+      "id": "nyt-best-tv-049",
+      "mediaType": "tv",
+      "title": "노멀 피플",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt9059760"
+      },
+      "rank": 49,
+      "ranking": "#49",
+      "startYear": 2020,
+      "runYears": "2020",
+      "englishTitle": "Normal People"
+    },
+    {
+      "id": "nyt-best-tv-050",
+      "mediaType": "tv",
+      "title": "팍스 앤 레크리에이션",
+      "releaseDate": "2009",
+      "externalIds": {
+        "imdb": "tt1266020"
+      },
+      "rank": 50,
+      "ranking": "#50",
+      "startYear": 2009,
+      "runYears": "2009–2015",
+      "englishTitle": "Parks and Recreation"
+    },
+    {
+      "id": "nyt-best-tv-051",
+      "mediaType": "tv",
+      "title": "굿 플레이스",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4955642"
+      },
+      "rank": 51,
+      "ranking": "#51",
+      "startYear": 2016,
+      "runYears": "2016–2020",
+      "englishTitle": "The Good Place"
+    },
+    {
+      "id": "nyt-best-tv-052",
+      "mediaType": "tv",
+      "title": "다운튼 애비",
+      "releaseDate": "2010",
+      "externalIds": {
+        "imdb": "tt1606375"
+      },
+      "rank": 52,
+      "ranking": "#52",
+      "startYear": 2010,
+      "runYears": "2010–2015",
+      "englishTitle": "Downton Abbey"
+    },
+    {
+      "id": "nyt-best-tv-053",
+      "mediaType": "tv",
+      "title": "기묘한 이야기",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4574334"
+      },
+      "rank": 53,
+      "ranking": "#53",
+      "startYear": 2016,
+      "runYears": "2016–2025",
+      "englishTitle": "Stranger Things"
+    },
+    {
+      "id": "nyt-best-tv-054",
+      "mediaType": "tv",
+      "title": "르 뷰로",
+      "releaseDate": "2015",
+      "externalIds": {
+        "imdb": "tt4063800"
+      },
+      "rank": 54,
+      "ranking": "#54",
+      "startYear": 2015,
+      "runYears": "2015–2020",
+      "englishTitle": "The Bureau",
+      "originalTitle": "Le Bureau des légendes"
+    },
+    {
+      "id": "nyt-best-tv-055",
+      "mediaType": "tv",
+      "title": "인시큐어",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5024912"
+      },
+      "rank": 55,
+      "ranking": "#55",
+      "startYear": 2016,
+      "runYears": "2016–2021",
+      "englishTitle": "Insecure"
+    },
+    {
+      "id": "nyt-best-tv-056",
+      "mediaType": "tv",
+      "title": "네이선 포 유",
+      "releaseDate": "2013",
+      "externalIds": {
+        "imdb": "tt2297757"
+      },
+      "rank": 56,
+      "ranking": "#56",
+      "startYear": 2013,
+      "runYears": "2013–2017",
+      "englishTitle": "Nathan for You"
+    },
+    {
+      "id": "nyt-best-tv-057",
+      "mediaType": "tv",
+      "title": "아이 씽크 유 슈드 리브",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10050772"
+      },
+      "rank": 57,
+      "ranking": "#57",
+      "startYear": 2019,
+      "runYears": "2019–present",
+      "englishTitle": "I Think You Should Leave"
+    },
+    {
+      "id": "nyt-best-tv-058",
+      "mediaType": "tv",
+      "title": "샤펠 쇼",
+      "releaseDate": "2003",
+      "externalIds": {
+        "imdb": "tt0353049"
+      },
+      "rank": 58,
+      "ranking": "#58",
+      "startYear": 2003,
+      "runYears": "2003–2006",
+      "englishTitle": "Chappelle's Show"
+    },
+    {
+      "id": "nyt-best-tv-059",
+      "mediaType": "tv",
+      "title": "PEN15",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt8324422"
+      },
+      "rank": 59,
+      "ranking": "#59",
+      "startYear": 2019,
+      "runYears": "2019–2021"
+    },
+    {
+      "id": "nyt-best-tv-060",
+      "mediaType": "tv",
+      "title": "피프 쇼",
+      "releaseDate": "2003",
+      "externalIds": {
+        "imdb": "tt0387764"
+      },
+      "rank": 60,
+      "ranking": "#60",
+      "startYear": 2003,
+      "runYears": "2003–2015",
+      "englishTitle": "Peep Show"
+    },
+    {
+      "id": "nyt-best-tv-061",
+      "mediaType": "tv",
+      "title": "루폴의 드래그 레이스",
+      "releaseDate": "2009",
+      "externalIds": {
+        "imdb": "tt1353056"
+      },
+      "rank": 61,
+      "ranking": "#61",
+      "startYear": 2009,
+      "runYears": "2009–present",
+      "englishTitle": "RuPaul's Drag Race"
+    },
+    {
+      "id": "nyt-best-tv-062",
+      "mediaType": "tv",
+      "title": "슬로 호시스",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt5875444"
+      },
+      "rank": 62,
+      "ranking": "#62",
+      "startYear": 2022,
+      "runYears": "2022–present",
+      "englishTitle": "Slow Horses"
+    },
+    {
+      "id": "nyt-best-tv-063",
+      "mediaType": "tv",
+      "title": "The Thick of It",
+      "releaseDate": "2005",
+      "externalIds": {
+        "imdb": "tt0459159"
+      },
+      "rank": 63,
+      "ranking": "#63",
+      "startYear": 2005,
+      "runYears": "2005–2012"
+    },
+    {
+      "id": "nyt-best-tv-064",
+      "mediaType": "tv",
+      "title": "앤서니 보데인: 파츠 언노운",
+      "releaseDate": "2013",
+      "externalIds": {
+        "imdb": "tt2845786"
+      },
+      "rank": 64,
+      "ranking": "#64",
+      "startYear": 2013,
+      "runYears": "2013–2018",
+      "englishTitle": "Anthony Bourdain: Parts Unknown"
+    },
+    {
+      "id": "nyt-best-tv-065",
+      "mediaType": "tv",
+      "title": "메어 오브 이스트타운",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt10155688"
+      },
+      "rank": 65,
+      "ranking": "#65",
+      "startYear": 2021,
+      "runYears": "2021",
+      "englishTitle": "Mare of Easttown"
+    },
+    {
+      "id": "nyt-best-tv-066",
+      "mediaType": "tv",
+      "title": "리허설",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt10802170"
+      },
+      "rank": 66,
+      "ranking": "#66",
+      "startYear": 2022,
+      "runYears": "2022–present",
+      "englishTitle": "The Rehearsal"
+    },
+    {
+      "id": "nyt-best-tv-067",
+      "mediaType": "tv",
+      "title": "핸드메이즈 테일",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5834204"
+      },
+      "rank": 67,
+      "ranking": "#67",
+      "startYear": 2017,
+      "runYears": "2017–2025",
+      "englishTitle": "The Handmaid's Tale"
+    },
+    {
+      "id": "nyt-best-tv-068",
+      "mediaType": "tv",
+      "title": "오자크",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5071412"
+      },
+      "rank": 68,
+      "ranking": "#68",
+      "startYear": 2017,
+      "runYears": "2017–2022",
+      "englishTitle": "Ozark"
+    },
+    {
+      "id": "nyt-best-tv-069",
+      "mediaType": "tv",
+      "title": "앤서니 보데인: 노 리저베이션",
+      "releaseDate": "2005",
+      "externalIds": {
+        "imdb": "tt0475900"
+      },
+      "rank": 69,
+      "ranking": "#69",
+      "startYear": 2005,
+      "runYears": "2005–2012",
+      "englishTitle": "Anthony Bourdain: No Reservations"
+    },
+    {
+      "id": "nyt-best-tv-070",
+      "mediaType": "tv",
+      "title": "더 실드",
+      "releaseDate": "2002",
+      "externalIds": {
+        "imdb": "tt0286486"
+      },
+      "rank": 70,
+      "ranking": "#70",
+      "startYear": 2002,
+      "runYears": "2002–2008",
+      "englishTitle": "The Shield"
+    },
+    {
+      "id": "nyt-best-tv-071",
+      "mediaType": "tv",
+      "title": "성난 사람들 시즌 1",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt14403178"
+      },
+      "rank": 71,
+      "ranking": "#71",
+      "startYear": 2023,
+      "runYears": "2023",
+      "englishTitle": "Beef (Season 1)"
+    },
+    {
+      "id": "nyt-best-tv-072",
+      "mediaType": "tv",
+      "title": "오징어 게임",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt10919420"
+      },
+      "rank": 72,
+      "ranking": "#72",
+      "startYear": 2021,
+      "runYears": "2021–2025",
+      "englishTitle": "Squid Game"
+    },
+    {
+      "id": "nyt-best-tv-073",
+      "mediaType": "tv",
+      "title": "배리",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt5348176"
+      },
+      "rank": 73,
+      "ranking": "#73",
+      "startYear": 2018,
+      "runYears": "2018–2023",
+      "englishTitle": "Barry"
+    },
+    {
+      "id": "nyt-best-tv-074",
+      "mediaType": "tv",
+      "title": "더 베어",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt14452776"
+      },
+      "rank": 74,
+      "ranking": "#74",
+      "startYear": 2022,
+      "runYears": "2022–2026",
+      "englishTitle": "The Bear"
+    },
+    {
+      "id": "nyt-best-tv-075",
+      "mediaType": "tv",
+      "title": "테드 래소",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10986410"
+      },
+      "rank": 75,
+      "ranking": "#75",
+      "startYear": 2020,
+      "runYears": "2020–present",
+      "englishTitle": "Ted Lasso"
+    },
+    {
+      "id": "nyt-best-tv-076",
+      "mediaType": "tv",
+      "title": "섬바디 섬웨어",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt12759100"
+      },
+      "rank": 76,
+      "ranking": "#76",
+      "startYear": 2022,
+      "runYears": "2022–2024",
+      "englishTitle": "Somebody Somewhere"
+    },
+    {
+      "id": "nyt-best-tv-077",
+      "mediaType": "tv",
+      "title": "모던 패밀리",
+      "releaseDate": "2009",
+      "externalIds": {
+        "imdb": "tt1442437"
+      },
+      "rank": 77,
+      "ranking": "#77",
+      "startYear": 2009,
+      "runYears": "2009–2020",
+      "englishTitle": "Modern Family"
+    },
+    {
+      "id": "nyt-best-tv-078",
+      "mediaType": "tv",
+      "title": "필라델피아는 언제나 맑음",
+      "releaseDate": "2005",
+      "externalIds": {
+        "imdb": "tt0472954"
+      },
+      "rank": 78,
+      "ranking": "#78",
+      "startYear": 2005,
+      "runYears": "2005–present",
+      "englishTitle": "It's Always Sunny in Philadelphia"
+    },
+    {
+      "id": "nyt-best-tv-079",
+      "mediaType": "tv",
+      "title": "굿 와이프",
+      "releaseDate": "2009",
+      "externalIds": {
+        "imdb": "tt1442462"
+      },
+      "rank": 79,
+      "ranking": "#79",
+      "startYear": 2009,
+      "runYears": "2009–2016",
+      "englishTitle": "The Good Wife"
+    },
+    {
+      "id": "nyt-best-tv-080",
+      "mediaType": "tv",
+      "title": "하우 투 위드 존 윌슨",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10801534"
+      },
+      "rank": 80,
+      "ranking": "#80",
+      "startYear": 2020,
+      "runYears": "2020–2023",
+      "englishTitle": "How To with John Wilson"
+    },
+    {
+      "id": "nyt-best-tv-081",
+      "mediaType": "tv",
+      "title": "퀸스 갬빗",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10048342"
+      },
+      "rank": 81,
+      "ranking": "#81",
+      "startYear": 2020,
+      "runYears": "2020",
+      "englishTitle": "The Queen's Gambit"
+    },
+    {
+      "id": "nyt-best-tv-082",
+      "mediaType": "tv",
+      "title": "베러 씽즈",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4370596"
+      },
+      "rank": 82,
+      "ranking": "#82",
+      "startYear": 2016,
+      "runYears": "2016–2022",
+      "englishTitle": "Better Things"
+    },
+    {
+      "id": "nyt-best-tv-083",
+      "mediaType": "tv",
+      "title": "저스티파이드",
+      "releaseDate": "2010",
+      "externalIds": {
+        "imdb": "tt1489428"
+      },
+      "rank": 83,
+      "ranking": "#83",
+      "startYear": 2010,
+      "runYears": "2010–2015",
+      "englishTitle": "Justified"
+    },
+    {
+      "id": "nyt-best-tv-084",
+      "mediaType": "tv",
+      "title": "플래닛 어스",
+      "releaseDate": "2006",
+      "externalIds": {
+        "imdb": "tt0795176"
+      },
+      "rank": 84,
+      "ranking": "#84",
+      "startYear": 2006,
+      "runYears": "2006",
+      "englishTitle": "Planet Earth"
+    },
+    {
+      "id": "nyt-best-tv-085",
+      "mediaType": "tv",
+      "title": "위대한 영국 베이킹 쇼",
+      "releaseDate": "2010",
+      "externalIds": {
+        "imdb": "tt1877368"
+      },
+      "rank": 85,
+      "ranking": "#85",
+      "startYear": 2010,
+      "runYears": "2010–present",
+      "englishTitle": "The Great British Baking Show"
+    },
+    {
+      "id": "nyt-best-tv-086",
+      "mediaType": "tv",
+      "title": "쇼군",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt2788316"
+      },
+      "rank": 86,
+      "ranking": "#86",
+      "startYear": 2024,
+      "runYears": "2024–present",
+      "englishTitle": "Shogun"
+    },
+    {
+      "id": "nyt-best-tv-087",
+      "mediaType": "tv",
+      "title": "리저베이션 도그스",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt13623580"
+      },
+      "rank": 87,
+      "ranking": "#87",
+      "startYear": 2021,
+      "runYears": "2021–2023",
+      "englishTitle": "Reservation Dogs"
+    },
+    {
+      "id": "nyt-best-tv-088",
+      "mediaType": "tv",
+      "title": "덱스터",
+      "releaseDate": "2006",
+      "externalIds": {
+        "imdb": "tt0773262"
+      },
+      "rank": 88,
+      "ranking": "#88",
+      "startYear": 2006,
+      "runYears": "2006–2013",
+      "englishTitle": "Dexter"
+    },
+    {
+      "id": "nyt-best-tv-089",
+      "mediaType": "tv",
+      "title": "베이비 레인디어",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt13649112"
+      },
+      "rank": 89,
+      "ranking": "#89",
+      "startYear": 2024,
+      "runYears": "2024",
+      "englishTitle": "Baby Reindeer"
+    },
+    {
+      "id": "nyt-best-tv-090",
+      "mediaType": "tv",
+      "title": "이스트바운드 앤 다운",
+      "releaseDate": "2009",
+      "externalIds": {
+        "imdb": "tt0866442"
+      },
+      "rank": 90,
+      "ranking": "#90",
+      "startYear": 2009,
+      "runYears": "2009–2013",
+      "englishTitle": "Eastbound & Down"
+    },
+    {
+      "id": "nyt-best-tv-091",
+      "mediaType": "tv",
+      "title": "캐터스트로피",
+      "releaseDate": "2015",
+      "externalIds": {
+        "imdb": "tt4374208"
+      },
+      "rank": 91,
+      "ranking": "#91",
+      "startYear": 2015,
+      "runYears": "2015–2019",
+      "englishTitle": "Catastrophe"
+    },
+    {
+      "id": "nyt-best-tv-092",
+      "mediaType": "tv",
+      "title": "더 나이트 오브",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt2401256"
+      },
+      "rank": 92,
+      "ranking": "#92",
+      "startYear": 2016,
+      "runYears": "2016",
+      "englishTitle": "The Night Of"
+    },
+    {
+      "id": "nyt-best-tv-093",
+      "mediaType": "tv",
+      "title": "스테이션 일레븐",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt10574236"
+      },
+      "rank": 93,
+      "ranking": "#93",
+      "startYear": 2021,
+      "runYears": "2021–2022",
+      "englishTitle": "Station Eleven"
+    },
+    {
+      "id": "nyt-best-tv-094",
+      "mediaType": "tv",
+      "title": "외교관",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt17491088"
+      },
+      "rank": 94,
+      "ranking": "#94",
+      "startYear": 2023,
+      "runYears": "2023–present",
+      "englishTitle": "The Diplomat"
+    },
+    {
+      "id": "nyt-best-tv-095",
+      "mediaType": "tv",
+      "title": "닥터 하우스",
+      "releaseDate": "2004",
+      "externalIds": {
+        "imdb": "tt0412142"
+      },
+      "rank": 95,
+      "ranking": "#95",
+      "startYear": 2004,
+      "runYears": "2004–2012",
+      "englishTitle": "House"
+    },
+    {
+      "id": "nyt-best-tv-096",
+      "mediaType": "tv",
+      "title": "홀트 앤 캐치 파이어",
+      "releaseDate": "2014",
+      "externalIds": {
+        "imdb": "tt2543312"
+      },
+      "rank": 96,
+      "ranking": "#96",
+      "startYear": 2014,
+      "runYears": "2014–2017",
+      "englishTitle": "Halt and Catch Fire"
+    },
+    {
+      "id": "nyt-best-tv-097",
+      "mediaType": "tv",
+      "title": "커뮤니티",
+      "releaseDate": "2009",
+      "externalIds": {
+        "imdb": "tt1439629"
+      },
+      "rank": 97,
+      "ranking": "#97",
+      "startYear": 2009,
+      "runYears": "2009–2015",
+      "englishTitle": "Community"
+    },
+    {
+      "id": "nyt-best-tv-098",
+      "mediaType": "tv",
+      "title": "The OA",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4635282"
+      },
+      "rank": 98,
+      "ranking": "#98",
+      "startYear": 2016,
+      "runYears": "2016–2019"
+    },
+    {
+      "id": "nyt-best-tv-099",
+      "mediaType": "tv",
+      "title": "길모어 걸스",
+      "releaseDate": "2000",
+      "externalIds": {
+        "imdb": "tt0238784"
+      },
+      "rank": 99,
+      "ranking": "#99",
+      "startYear": 2000,
+      "runYears": "2000–2007",
+      "englishTitle": "Gilmore Girls"
+    },
+    {
+      "id": "nyt-best-tv-100",
+      "mediaType": "tv",
+      "title": "스캔들",
+      "releaseDate": "2012",
+      "externalIds": {
+        "imdb": "tt1837576"
+      },
+      "rank": 100,
+      "ranking": "#100",
+      "startYear": 2012,
+      "runYears": "2012–2018",
+      "englishTitle": "Scandal"
+    }
+  ]
+}

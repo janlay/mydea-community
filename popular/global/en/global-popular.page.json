@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "icon": "flame",
+  "title": "Global Popular",
+  "description": "Fast-moving popularity charts from five platforms — TMDB, Trakt, Letterboxd, Rotten Tomatoes, and MDBList — gathered on one page.",
+  "tags": [
+    "chart",
+    "popular",
+    "global"
+  ],
+  "sections": [
+    {
+      "title": "TMDB — Trending Now",
+      "description": "What the world is watching right now on TMDB, movies and TV mixed together.",
+      "layout": "carousel",
+      "service": "tmdb",
+      "query": "tmdb_trending",
+      "params": [
+        {
+          "name": "media_type",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "title": "Trakt — Trending Movies",
+      "description": "Movies most watched right now by Trakt's community of trackers.",
+      "layout": "grid",
+      "service": "trakt",
+      "query": "trakt_trending",
+      "params": [
+        {
+          "name": "media_type",
+          "value": "movies"
+        }
+      ]
+    },
+    {
+      "title": "Letterboxd — Popular This Week",
+      "description": "Films logged and rated most by the Letterboxd community this week.",
+      "layout": "grid",
+      "service": "letterboxd",
+      "query": "letterboxd_custom_list",
+      "params": [
+        {
+          "name": "list_shortcut",
+          "value": "this/week"
+        },
+        {
+          "name": "list_url",
+          "value": "this/week"
+        }
+      ]
+    },
+    {
+      "title": "Rotten Tomatoes — Certified Fresh At Home",
+      "description": "Critics' Certified Fresh picks available at home right now, sorted by popularity.",
+      "layout": "grid",
+      "service": "rottentomatoes",
+      "query": "rotten_tomatoes_custom_list",
+      "params": [
+        {
+          "name": "list_shortcut",
+          "value": "https://www.rottentomatoes.com/browse/movies_at_home/critics:certified_fresh~sort:popular"
+        },
+        {
+          "name": "list_url",
+          "value": "https://www.rottentomatoes.com/browse/movies_at_home/critics:certified_fresh~sort:popular"
+        }
+      ]
+    },
+    {
+      "title": "MDBList — Popular",
+      "description": "MDBList's official Popular chart, aggregated across multiple sources. Requires an MDBList API key configured in the service settings.",
+      "layout": "grid",
+      "service": "mdblist",
+      "query": "mdblist_official",
+      "params": [
+        {
+          "name": "official_shortcut",
+          "value": "popular"
+        },
+        {
+          "name": "official_slug",
+          "value": "popular"
+        },
+        {
+          "name": "official_mediatype",
+          "value": "movies"
+        }
+      ]
+    }
+  ]
+}

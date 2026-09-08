@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T02:53:58Z",
+  "title": "Baeksang Arts Awards — 2019",
+  "description": "Film category winners at the 2019 Baeksang Arts Awards.",
+  "items": [
+    {
+      "id": "baeksang-2019-film-grand-innocent-witness",
+      "mediaType": "movie",
+      "title": "Innocent Witness",
+      "originalTitle": "증인",
+      "award": "Film Grand Prize",
+      "awardYear": 2019,
+      "awardOrder": 1,
+      "winner": "Jung Woo-sung",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt8562562"
+      }
+    },
+    {
+      "id": "baeksang-2019-film-best-spy-north",
+      "mediaType": "movie",
+      "title": "The Spy Gone North",
+      "originalTitle": "공작",
+      "award": "Best Film",
+      "awardYear": 2019,
+      "awardOrder": 2,
+      "winner": "The Spy Gone North",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8290698"
+      }
+    },
+    {
+      "id": "baeksang-2019-film-director-swing-kids",
+      "mediaType": "movie",
+      "title": "Swing Kids",
+      "originalTitle": "스윙키즈",
+      "award": "Best Director Film",
+      "awardYear": 2019,
+      "awardOrder": 3,
+      "winner": "Kang Hyoung-chul",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7046974"
+      }
+    },
+    {
+      "id": "baeksang-2019-film-actor-spy-north",
+      "mediaType": "movie",
+      "title": "The Spy Gone North",
+      "originalTitle": "공작",
+      "award": "Best Actor Film",
+      "awardYear": 2019,
+      "awardOrder": 4,
+      "winner": "Lee Sung-min",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8290698"
+      }
+    },
+    {
+      "id": "baeksang-2019-film-actress-miss-baek",
+      "mediaType": "movie",
+      "title": "Miss Baek",
+      "originalTitle": "미쓰백",
+      "award": "Best Actress Film",
+      "awardYear": 2019,
+      "awardOrder": 5,
+      "winner": "Han Ji-min",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt6479534"
+      }
+    }
+  ]
+}

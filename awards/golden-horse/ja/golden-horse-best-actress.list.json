@@ -1,0 +1,767 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "ChatGPT",
+  "updatedAt": "2026-09-22T08:41:11Z",
+  "title": "金馬奨 — 最優秀主演女優賞",
+  "description": "金馬奨「最優秀主演女優賞」の創設時から2025年までの全受賞記録。",
+  "cacheTtlInDays": 365,
+  "sortBy": [
+    [
+      "awardYear",
+      "desc"
+    ]
+  ],
+  "bindings": [
+    "winner",
+    "Title with Year"
+  ],
+  "items": [
+    {
+      "id": "golden-horse-1962-best-actress-tt0211753",
+      "mediaType": "movie",
+      "title": "Sun, Moon and Star",
+      "awardYear": 1962,
+      "winner": "You Min",
+      "releaseDate": "1962",
+      "externalIds": {
+        "imdb": "tt0211753"
+      },
+      "originalTitle": "星星月亮太陽"
+    },
+    {
+      "id": "golden-horse-1963-best-actress-tt0057248",
+      "mediaType": "movie",
+      "title": "The Love Eterne",
+      "awardYear": 1963,
+      "winner": "Betty Loh Ti",
+      "releaseDate": "1963",
+      "externalIds": {
+        "imdb": "tt0057248"
+      },
+      "originalTitle": "梁山伯與祝英台"
+    },
+    {
+      "id": "golden-horse-1965-best-actress-item-3",
+      "mediaType": "movie",
+      "title": "Between Tears and Smiles",
+      "awardYear": 1965,
+      "winner": "Li Li-hua",
+      "releaseDate": "1965",
+      "originalTitle": "故都春夢",
+      "externalIds": {
+        "imdb": "tt0456741"
+      }
+    },
+    {
+      "id": "golden-horse-1966-best-actress-item-4",
+      "mediaType": "movie",
+      "title": "The Rain of Sorrow",
+      "awardYear": 1966,
+      "winner": "Gua Ah-leh",
+      "releaseDate": "1966",
+      "originalTitle": "煙雨濛濛",
+      "externalIds": {
+        "imdb": "tt0206441"
+      }
+    },
+    {
+      "id": "golden-horse-1967-best-actress-item-5",
+      "mediaType": "movie",
+      "title": "Many Enchanting Nights",
+      "awardYear": 1967,
+      "winner": "Chiang Ching",
+      "releaseDate": "1967",
+      "originalTitle": "幾度夕陽紅",
+      "externalIds": {
+        "imdb": "tt1560960"
+      }
+    },
+    {
+      "id": "golden-horse-1968-best-actress-item-6",
+      "mediaType": "movie",
+      "title": "Too Late for Love",
+      "awardYear": 1968,
+      "winner": "Ivy Ling Po",
+      "releaseDate": "1968",
+      "originalTitle": "烽火萬里情",
+      "externalIds": {
+        "imdb": "tt0186095"
+      }
+    },
+    {
+      "id": "golden-horse-1969-best-actress-item-7",
+      "mediaType": "movie",
+      "title": "Storm Over the Yangtze River",
+      "awardYear": 1969,
+      "winner": "Li Li-hua",
+      "releaseDate": "1969",
+      "originalTitle": "揚子江風雲",
+      "externalIds": {
+        "imdb": "tt5592298"
+      }
+    },
+    {
+      "id": "golden-horse-1970-best-actress-tt0978620",
+      "mediaType": "movie",
+      "title": "Home Sweet Home",
+      "awardYear": 1970,
+      "winner": "Gua Ah-leh",
+      "releaseDate": "1970",
+      "externalIds": {
+        "imdb": "tt0978620"
+      },
+      "originalTitle": "家在台北"
+    },
+    {
+      "id": "golden-horse-1971-best-actress-item-9",
+      "mediaType": "movie",
+      "title": "トウフジン",
+      "awardYear": 1971,
+      "winner": "Lisa Lu",
+      "releaseDate": "1971",
+      "originalTitle": "董夫人",
+      "externalIds": {
+        "imdb": "tt0074151"
+      }
+    },
+    {
+      "id": "golden-horse-1972-best-actress-item-10",
+      "mediaType": "movie",
+      "title": "True and False Daughters",
+      "awardYear": 1972,
+      "winner": "Judy Ongg",
+      "releaseDate": "1972",
+      "originalTitle": "真假千金",
+      "externalIds": {
+        "imdb": "tt1534569"
+      }
+    },
+    {
+      "id": "golden-horse-1973-best-actress-item-11",
+      "mediaType": "movie",
+      "title": "The Young Dragons",
+      "awardYear": 1973,
+      "winner": "Polly Shang-Kuan",
+      "releaseDate": "1973",
+      "originalTitle": "馬路小英雄",
+      "externalIds": {
+        "imdb": "tt0070348"
+      }
+    },
+    {
+      "id": "golden-horse-1975-best-actress-item-12",
+      "mediaType": "movie",
+      "title": "The Empress Dowager",
+      "awardYear": 1975,
+      "winner": "Lisa Lu",
+      "releaseDate": "1975",
+      "originalTitle": "傾國傾城",
+      "externalIds": {
+        "imdb": "tt0073916"
+      }
+    },
+    {
+      "id": "golden-horse-1976-best-actress-item-13",
+      "mediaType": "movie",
+      "title": "The Assassin",
+      "awardYear": 1976,
+      "winner": "Hsu Feng",
+      "releaseDate": "1976",
+      "originalTitle": "刺客",
+      "externalIds": {
+        "imdb": "tt0830505"
+      }
+    },
+    {
+      "id": "golden-horse-1977-best-actress-item-14",
+      "mediaType": "movie",
+      "title": "秋霞",
+      "awardYear": 1977,
+      "winner": "Chelsia Chan",
+      "releaseDate": "1977",
+      "originalTitle": "秋霞",
+      "externalIds": {
+        "imdb": "tt1626646"
+      }
+    },
+    {
+      "id": "golden-horse-1978-best-actress-item-15",
+      "mediaType": "movie",
+      "title": "The Diary of Di-Di",
+      "awardYear": 1978,
+      "winner": "Tien Niu",
+      "releaseDate": "1978",
+      "originalTitle": "蒂蒂日記",
+      "externalIds": {
+        "imdb": "tt1205475"
+      }
+    },
+    {
+      "id": "golden-horse-1979-best-actress-tt0314907",
+      "mediaType": "movie",
+      "title": "The Story of a Small Town",
+      "awardYear": 1979,
+      "winner": "Joan Lin",
+      "releaseDate": "1979",
+      "externalIds": {
+        "imdb": "tt0314907"
+      },
+      "originalTitle": "小城故事"
+    },
+    {
+      "id": "golden-horse-1980-best-actress-item-17",
+      "mediaType": "movie",
+      "title": "The Pioneers",
+      "awardYear": 1980,
+      "winner": "Hsu Feng",
+      "releaseDate": "1980",
+      "originalTitle": "源",
+      "externalIds": {
+        "imdb": "tt7775824"
+      }
+    },
+    {
+      "id": "golden-horse-1981-best-actress-item-18",
+      "mediaType": "movie",
+      "title": "My Grandfather",
+      "awardYear": 1981,
+      "winner": "Sylvia Chang",
+      "releaseDate": "1981",
+      "originalTitle": "我的爺爺",
+      "externalIds": {
+        "imdb": "tt0084912"
+      }
+    },
+    {
+      "id": "golden-horse-1982-best-actress-item-19",
+      "mediaType": "movie",
+      "title": "Tiger Killer",
+      "awardYear": 1982,
+      "winner": "Wangping",
+      "releaseDate": "1982",
+      "originalTitle": "武松",
+      "externalIds": {
+        "imdb": "tt0084922"
+      }
+    },
+    {
+      "id": "golden-horse-1983-best-actress-item-20",
+      "mediaType": "movie",
+      "title": "海を見つめる日",
+      "awardYear": 1983,
+      "winner": "Lu Hsiao-fen",
+      "releaseDate": "1983",
+      "originalTitle": "看海的日子",
+      "externalIds": {
+        "imdb": "tt0491008"
+      }
+    },
+    {
+      "id": "golden-horse-1984-best-actress-item-21",
+      "mediaType": "movie",
+      "title": "Teenage Fugitive",
+      "awardYear": 1984,
+      "winner": "Loretta Yang",
+      "releaseDate": "1984",
+      "originalTitle": "小逃犯",
+      "externalIds": {
+        "imdb": "tt5092534"
+      }
+    },
+    {
+      "id": "golden-horse-1985-best-actress-item-22",
+      "mediaType": "movie",
+      "title": "Kuei-Mei, a Woman",
+      "awardYear": 1985,
+      "winner": "Loretta Yang",
+      "releaseDate": "1985",
+      "originalTitle": "我這樣過了一生",
+      "externalIds": {
+        "imdb": "tt0092231"
+      }
+    },
+    {
+      "id": "golden-horse-1986-best-actress-item-23",
+      "mediaType": "movie",
+      "title": "Passion",
+      "awardYear": 1986,
+      "winner": "Sylvia Chang",
+      "releaseDate": "1986",
+      "originalTitle": "最愛",
+      "externalIds": {
+        "imdb": "tt0092301"
+      }
+    },
+    {
+      "id": "golden-horse-1987-best-actress-item-24",
+      "mediaType": "movie",
+      "title": "ルージュ",
+      "awardYear": 1987,
+      "winner": "Anita Mui",
+      "releaseDate": "1987",
+      "originalTitle": "胭脂扣",
+      "externalIds": {
+        "imdb": "tt0093258"
+      }
+    },
+    {
+      "id": "golden-horse-1988-best-actress-item-25",
+      "mediaType": "movie",
+      "title": "Sun, Moon and Star",
+      "awardYear": 1988,
+      "winner": "Carol Cheng",
+      "releaseDate": "1988",
+      "originalTitle": "星星月亮太陽"
+    },
+    {
+      "id": "golden-horse-1989-best-actress-item-26",
+      "mediaType": "movie",
+      "title": "フルムーン・イン・ニューヨーク",
+      "awardYear": 1989,
+      "winner": "Maggie Cheung",
+      "releaseDate": "1989",
+      "originalTitle": "三個女人的故事",
+      "externalIds": {
+        "imdb": "tt0098187"
+      }
+    },
+    {
+      "id": "golden-horse-1990-best-actress-tt0099719",
+      "mediaType": "movie",
+      "title": "レッドダスト・滾滾紅塵",
+      "awardYear": 1990,
+      "winner": "Brigitte Lin",
+      "releaseDate": "1990",
+      "externalIds": {
+        "imdb": "tt0099719"
+      },
+      "originalTitle": "滾滾紅塵"
+    },
+    {
+      "id": "golden-horse-1991-best-actress-item-28",
+      "mediaType": "movie",
+      "title": "ロアン・リンユィ 阮玲玉",
+      "awardYear": 1991,
+      "winner": "Maggie Cheung",
+      "releaseDate": "1991",
+      "originalTitle": "阮玲玉",
+      "externalIds": {
+        "imdb": "tt0102816"
+      }
+    },
+    {
+      "id": "golden-horse-1992-best-actress-item-29",
+      "mediaType": "movie",
+      "title": "Fushi Lian Qu",
+      "awardYear": 1992,
+      "winner": "Chen Ling Zhi",
+      "releaseDate": "1992",
+      "originalTitle": "浮世戀曲",
+      "externalIds": {
+        "imdb": "tt0099620"
+      }
+    },
+    {
+      "id": "golden-horse-1993-best-actress-item-30",
+      "mediaType": "movie",
+      "title": "Temptation of a Monk",
+      "awardYear": 1993,
+      "winner": "Wu Jia Li",
+      "releaseDate": "1993",
+      "originalTitle": "赤裸的誘惑",
+      "externalIds": {
+        "imdb": "tt0107359"
+      }
+    },
+    {
+      "id": "golden-horse-1994-best-actress-item-31",
+      "mediaType": "movie",
+      "title": "Red Rose White Rose",
+      "awardYear": 1994,
+      "winner": "Joan Chen",
+      "releaseDate": "1994",
+      "originalTitle": "紅玫瑰白玫瑰",
+      "externalIds": {
+        "imdb": "tt0110053"
+      }
+    },
+    {
+      "id": "golden-horse-1995-best-actress-item-32",
+      "mediaType": "movie",
+      "title": "女人、四十",
+      "awardYear": 1995,
+      "winner": "Josephine Siao",
+      "releaseDate": "1995",
+      "originalTitle": "女人四十",
+      "externalIds": {
+        "imdb": "tt0111767"
+      }
+    },
+    {
+      "id": "golden-horse-1996-best-actress-item-33",
+      "mediaType": "movie",
+      "title": "喝采の扉 虎度門",
+      "awardYear": 1996,
+      "winner": "Josephine Siao",
+      "releaseDate": "1996",
+      "originalTitle": "虎度門",
+      "externalIds": {
+        "imdb": "tt0116576"
+      }
+    },
+    {
+      "id": "golden-horse-1997-best-actress-tt0117905",
+      "mediaType": "movie",
+      "title": "ラヴソング",
+      "awardYear": 1997,
+      "winner": "Maggie Cheung",
+      "releaseDate": "1997",
+      "externalIds": {
+        "imdb": "tt0117905"
+      },
+      "originalTitle": "甜蜜蜜"
+    },
+    {
+      "id": "golden-horse-1998-best-actress-tt0115005",
+      "mediaType": "movie",
+      "title": "シュウシュウの季節",
+      "awardYear": 1998,
+      "winner": "Li Xiao Lu",
+      "releaseDate": "1998",
+      "externalIds": {
+        "imdb": "tt0115005"
+      },
+      "originalTitle": "天浴"
+    },
+    {
+      "id": "golden-horse-1999-best-actress-item-36",
+      "mediaType": "movie",
+      "title": "Ordinary Heroes",
+      "awardYear": 1999,
+      "winner": "Li Li Zhen",
+      "releaseDate": "1999",
+      "originalTitle": "千言萬語",
+      "externalIds": {
+        "imdb": "tt0189954"
+      }
+    },
+    {
+      "id": "golden-horse-2000-best-actress-item-37",
+      "mediaType": "movie",
+      "title": "花様年華",
+      "awardYear": 2000,
+      "winner": "Maggie Cheung",
+      "releaseDate": "2000",
+      "originalTitle": "花樣年華",
+      "externalIds": {
+        "imdb": "tt0118694"
+      }
+    },
+    {
+      "id": "golden-horse-2001-best-actress-tt0255327",
+      "mediaType": "movie",
+      "title": "ドリアン ドリアン",
+      "awardYear": 2001,
+      "winner": "Qin Hailu",
+      "releaseDate": "2001",
+      "externalIds": {
+        "imdb": "tt0255327"
+      },
+      "originalTitle": "榴槤飄飄"
+    },
+    {
+      "id": "golden-horse-2002-best-actress-item-39",
+      "mediaType": "movie",
+      "title": "the EYE アイ",
+      "awardYear": 2002,
+      "winner": "Angelica Lee",
+      "releaseDate": "2002",
+      "originalTitle": "見鬼",
+      "externalIds": {
+        "imdb": "tt0325655"
+      }
+    },
+    {
+      "id": "golden-horse-2003-best-actress-item-40",
+      "mediaType": "movie",
+      "title": "Golden Chicken",
+      "awardYear": 2003,
+      "winner": "Sandra Ng",
+      "releaseDate": "2003",
+      "originalTitle": "金雞",
+      "externalIds": {
+        "imdb": "tt0354593"
+      }
+    },
+    {
+      "id": "golden-horse-2004-best-actress-item-41",
+      "mediaType": "movie",
+      "title": "The Moon Also Rises",
+      "awardYear": 2004,
+      "winner": "Yang Gui Mei",
+      "releaseDate": "2004",
+      "originalTitle": "月光下，我記得",
+      "externalIds": {
+        "imdb": "tt0442574"
+      }
+    },
+    {
+      "id": "golden-horse-2005-best-actress-item-42",
+      "mediaType": "movie",
+      "title": "百年恋歌",
+      "awardYear": 2005,
+      "winner": "Shu Qi",
+      "releaseDate": "2005",
+      "originalTitle": "最好的時光",
+      "externalIds": {
+        "imdb": "tt0459666"
+      }
+    },
+    {
+      "id": "golden-horse-2006-best-actress-item-43",
+      "mediaType": "movie",
+      "title": "ウィンター・ソング",
+      "awardYear": 2006,
+      "winner": "Zhou Xun",
+      "releaseDate": "2006",
+      "originalTitle": "如果·愛",
+      "externalIds": {
+        "imdb": "tt0454914"
+      }
+    },
+    {
+      "id": "golden-horse-2007-best-actress-item-44",
+      "mediaType": "movie",
+      "title": "The Home Song Stories",
+      "awardYear": 2007,
+      "winner": "Joan Chen",
+      "releaseDate": "2007",
+      "originalTitle": "意",
+      "externalIds": {
+        "imdb": "tt0452631"
+      }
+    },
+    {
+      "id": "golden-horse-2008-best-actress-item-45",
+      "mediaType": "movie",
+      "title": "True Women for Sale",
+      "awardYear": 2008,
+      "winner": "Prudence Liew",
+      "releaseDate": "2008",
+      "originalTitle": "我不賣身，我賣子宮",
+      "externalIds": {
+        "imdb": "tt1347006"
+      }
+    },
+    {
+      "id": "golden-horse-2009-best-actress-item-46",
+      "mediaType": "movie",
+      "title": "風聲",
+      "awardYear": 2009,
+      "winner": "Li Bingbing",
+      "releaseDate": "2009",
+      "originalTitle": "風聲",
+      "externalIds": {
+        "imdb": "tt1434423"
+      }
+    },
+    {
+      "id": "golden-horse-2010-best-actress-item-47",
+      "mediaType": "movie",
+      "title": "City Monkey",
+      "awardYear": 2010,
+      "winner": "Lu Li Ping",
+      "releaseDate": "2010",
+      "originalTitle": "玩酷青春",
+      "externalIds": {
+        "imdb": "tt2674496"
+      }
+    },
+    {
+      "id": "golden-horse-2011-best-actress-item-48",
+      "mediaType": "movie",
+      "title": "桃（タオ）さんのしあわせ",
+      "awardYear": 2011,
+      "winner": "Deanie Ip",
+      "releaseDate": "2011",
+      "originalTitle": "桃姐",
+      "externalIds": {
+        "imdb": "tt2008006"
+      }
+    },
+    {
+      "id": "golden-horse-2012-best-actress-item-49",
+      "mediaType": "movie",
+      "title": "GF*BF",
+      "awardYear": 2012,
+      "winner": "Gwei Lun-mei",
+      "releaseDate": "2012",
+      "originalTitle": "女朋友。男朋友",
+      "externalIds": {
+        "imdb": "tt2319760"
+      }
+    },
+    {
+      "id": "golden-horse-2013-best-actress-item-50",
+      "mediaType": "movie",
+      "title": "グランド・マスター",
+      "awardYear": 2013,
+      "winner": "Zhang Ziyi",
+      "releaseDate": "2013",
+      "originalTitle": "一代宗師",
+      "externalIds": {
+        "imdb": "tt1462900"
+      }
+    },
+    {
+      "id": "golden-horse-2014-best-actress-item-51",
+      "mediaType": "movie",
+      "title": "迴光奏鳴曲",
+      "awardYear": 2014,
+      "winner": "Chen Shiang-chyi",
+      "releaseDate": "2014",
+      "originalTitle": "迴光奏鳴曲",
+      "externalIds": {
+        "imdb": "tt3577190"
+      }
+    },
+    {
+      "id": "golden-horse-2015-best-actress-item-52",
+      "mediaType": "movie",
+      "title": "百日告別",
+      "awardYear": 2015,
+      "winner": "Karena Lam",
+      "releaseDate": "2015",
+      "originalTitle": "百日告別",
+      "externalIds": {
+        "imdb": "tt4801606"
+      }
+    },
+    {
+      "id": "golden-horse-2016-best-actress-tt6054290",
+      "mediaType": "movie",
+      "title": "ソウルメイト／七月と安生",
+      "awardYear": 2016,
+      "winner": "Zhou Dongyu & Ma Sichun",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt6054290"
+      },
+      "originalTitle": "七月與安生"
+    },
+    {
+      "id": "golden-horse-2017-best-actress-tt7479784",
+      "mediaType": "movie",
+      "title": "血観音",
+      "awardYear": 2017,
+      "winner": "Kara Wai",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7479784"
+      },
+      "originalTitle": "血觀音"
+    },
+    {
+      "id": "golden-horse-2018-best-actress-tt8443704",
+      "mediaType": "movie",
+      "title": "先に愛した人",
+      "awardYear": 2018,
+      "winner": "Hsieh Ying-xuan",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8443704"
+      },
+      "originalTitle": "誰先愛上他的"
+    },
+    {
+      "id": "golden-horse-2019-best-actress-tt9822706",
+      "mediaType": "movie",
+      "title": "熱帯雨",
+      "awardYear": 2019,
+      "winner": "Yang Yan Yan",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt9822706"
+      },
+      "originalTitle": "熱帶雨"
+    },
+    {
+      "id": "golden-horse-2020-best-actress-tt12397078",
+      "mediaType": "movie",
+      "title": "弱くて強い女たち",
+      "awardYear": 2020,
+      "winner": "Chen Shu-fang",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt12397078"
+      },
+      "originalTitle": "孤味"
+    },
+    {
+      "id": "golden-horse-2021-best-actress-tt15119668",
+      "mediaType": "movie",
+      "title": "瀑布",
+      "awardYear": 2021,
+      "winner": "Alyssa Chia",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt15119668"
+      },
+      "originalTitle": "瀑布"
+    },
+    {
+      "id": "golden-horse-2022-best-actress-tt14071600",
+      "mediaType": "movie",
+      "title": "消えゆく燈火",
+      "awardYear": 2022,
+      "winner": "Sylvia Chang",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt14071600"
+      },
+      "originalTitle": "燈火闌珊"
+    },
+    {
+      "id": "golden-horse-2023-best-actress-tt29566160",
+      "mediaType": "movie",
+      "title": "トラブル・ガール",
+      "awardYear": 2023,
+      "winner": "Audrey Lin",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt29566160"
+      },
+      "originalTitle": "小曉"
+    },
+    {
+      "id": "golden-horse-2024-best-actress-tt31660693",
+      "mediaType": "movie",
+      "title": "私たちの話し方",
+      "awardYear": 2024,
+      "winner": "Chung Suet-ying",
+      "releaseDate": "2024",
+      "externalIds": {
+        "imdb": "tt31660693"
+      },
+      "originalTitle": "看我今天怎麼說"
+    },
+    {
+      "id": "golden-horse-2025-best-actress-tt33708662",
+      "mediaType": "movie",
+      "title": "母なる大地",
+      "awardYear": 2025,
+      "winner": "Fan Bingbing",
+      "releaseDate": "2025",
+      "externalIds": {
+        "imdb": "tt33708662"
+      },
+      "originalTitle": "地母"
+    }
+  ],
+  "tags": [
+    "award",
+    "taipei",
+    "prize"
+  ]
+}

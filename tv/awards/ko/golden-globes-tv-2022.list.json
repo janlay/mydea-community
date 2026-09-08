@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "골든 글로브 2022",
+  "description": "2022 골든 글로브 텔레비전 작품 부문 수상 목록.",
+  "items": [
+    {
+      "id": "golden-globes-2022-tv_drama-succession",
+      "mediaType": "tv",
+      "title": "석세션",
+      "englishTitle": "Succession",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7660850"
+      },
+      "award": "TV 드라마 작품상",
+      "awardYear": 2022,
+      "awardOrder": 1,
+      "winner": "석세션"
+    },
+    {
+      "id": "golden-globes-2022-tv_comedy-hacks",
+      "mediaType": "tv",
+      "title": "나의 직장상사는 코미디언",
+      "englishTitle": "Hacks",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt11815682"
+      },
+      "award": "TV 뮤지컬·코미디 작품상",
+      "awardYear": 2022,
+      "awardOrder": 2,
+      "winner": "핵스"
+    },
+    {
+      "id": "golden-globes-2022-limited-the-underground-railroad",
+      "mediaType": "tv",
+      "title": "The Underground Railroad",
+      "releaseDate": "2021",
+      "externalIds": {
+        "imdb": "tt6704972"
+      },
+      "award": "리미티드 시리즈·앤솔러지·TV 영화상",
+      "awardYear": 2022,
+      "awardOrder": 3,
+      "winner": "The Underground Railroad"
+    }
+  ]
+}

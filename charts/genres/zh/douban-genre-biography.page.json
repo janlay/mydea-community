@@ -1,0 +1,112 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "icon": "chart.bar",
+  "title": "传记片榜单",
+  "description": "豆瓣传记片榜单，涵盖 8 个国家和地区。",
+  "tags": [
+    "douban",
+    "chart",
+    "genre",
+    "biography"
+  ],
+  "sections": [
+    {
+      "title": "华语传记片",
+      "layout": "carousel",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECVYOEEUA"
+        }
+      ]
+    },
+    {
+      "title": "欧洲传记片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECZIOQ6LY"
+        }
+      ]
+    },
+    {
+      "title": "美国传记片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECE4OHQQY"
+        }
+      ]
+    },
+    {
+      "title": "英国传记片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECNMONJTQ"
+        }
+      ]
+    },
+    {
+      "title": "法国传记片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECYIOK3PY"
+        }
+      ]
+    },
+    {
+      "title": "德国传记片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECAYOFADY"
+        }
+      ]
+    },
+    {
+      "title": "意大利传记片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECLEOKFFQ"
+        }
+      ]
+    },
+    {
+      "title": "加拿大传记片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECCUOUMXQ"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "title": "豆瓣年度纪念徽章",
+  "description": "豆瓣徽章计划中 7 个年度电影纪念徽章的收藏片单。",
+  "tags": [
+    "douban",
+    "badge",
+    "plan",
+    "anniversary"
+  ],
+  "icon": "rosette",
+  "sections": [
+    {
+      "title": "$$collection",
+      "description": "豆瓣徽章计划「2025 年度电影纪念徽章」的收藏片单，按豆瓣评分从高到低排列。",
+      "layout": "carousel",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "badge_plan_shortcut",
+          "value": "16272"
+        },
+        {
+          "name": "collection",
+          "value": "16272"
+        }
+      ]
+    },
+    {
+      "title": "$$collection",
+      "description": "豆瓣徽章计划「2024 年度电影纪念徽章」的收藏片单，按豆瓣评分从高到低排列。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "badge_plan_shortcut",
+          "value": "16088"
+        },
+        {
+          "name": "collection",
+          "value": "16088"
+        }
+      ]
+    },
+    {
+      "title": "$$collection",
+      "description": "豆瓣徽章计划「2023 年度电影纪念徽章」的收藏片单，按豆瓣评分从高到低排列。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "badge_plan_shortcut",
+          "value": "15361"
+        },
+        {
+          "name": "collection",
+          "value": "15361"
+        }
+      ]
+    },
+    {
+      "title": "$$collection",
+      "description": "豆瓣徽章计划「2022 年度电影纪念徽章」的收藏片单，按豆瓣评分从高到低排列。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "badge_plan_shortcut",
+          "value": "15269"
+        },
+        {
+          "name": "collection",
+          "value": "15269"
+        }
+      ]
+    },
+    {
+      "title": "$$collection",
+      "description": "豆瓣徽章计划「2021 年度电影纪念徽章」的收藏片单，按豆瓣评分从高到低排列。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "badge_plan_shortcut",
+          "value": "15146"
+        },
+        {
+          "name": "collection",
+          "value": "15146"
+        }
+      ]
+    },
+    {
+      "title": "$$collection",
+      "description": "豆瓣徽章计划「2020 年度电影纪念徽章」的收藏片单，按豆瓣评分从高到低排列。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "badge_plan_shortcut",
+          "value": "14903"
+        },
+        {
+          "name": "collection",
+          "value": "14903"
+        }
+      ]
+    },
+    {
+      "title": "$$collection",
+      "description": "豆瓣徽章计划「2019 年度电影纪念徽章」的收藏片单，按豆瓣评分从高到低排列。",
+      "layout": "grid",
+      "sortBy": [
+        [
+          "rating.value",
+          "desc"
+        ]
+      ],
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "badge_plan_shortcut",
+          "value": "3784"
+        },
+        {
+          "name": "collection",
+          "value": "3784"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:47:39Z",
+  "title": "토론토 — 2024",
+  "description": "2024년 토론토국제영화제 영화 부문 수상작.",
+  "items": [
+    {
+      "id": "tiff-2024-peoples-choice-2024-the-life-of-chuck",
+      "mediaType": "movie",
+      "title": "척의 일생",
+      "englishTitle": "The Life of Chuck",
+      "releaseDate": "2024",
+      "externalIds": {
+        "letterboxd": "the-life-of-chuck",
+        "tmdb": "842924"
+      },
+      "awardYear": 2024,
+      "winner": "Mike Flanagan",
+      "award": "관객상",
+      "awardOrder": 1
+    },
+    {
+      "id": "tiff-2024-documentary-peoples-choice-2024-the-tragically-hip-no-dress-rehearsal",
+      "mediaType": "movie",
+      "title": "The Tragically Hip: No Dress Rehearsal",
+      "releaseDate": "2024",
+      "externalIds": {
+        "letterboxd": "the-tragically-hip-no-dress-rehearsal"
+      },
+      "awardYear": 2024,
+      "winner": "Mike Downie",
+      "award": "다큐멘터리 관객상",
+      "awardOrder": 2
+    },
+    {
+      "id": "tiff-2024-midnight-madness-peoples-choice-2024-the-substance",
+      "mediaType": "movie",
+      "title": "서브스턴스",
+      "englishTitle": "The Substance",
+      "releaseDate": "2024",
+      "externalIds": {
+        "letterboxd": "the-substance",
+        "tmdb": "933260"
+      },
+      "awardYear": 2024,
+      "winner": "Coralie Fargeat",
+      "award": "미드나잇 매드니스 관객상",
+      "awardOrder": 3
+    },
+    {
+      "id": "tiff-2024-platform-prize-2024-they-will-be-dust",
+      "mediaType": "movie",
+      "title": "They Will Be Dust",
+      "releaseDate": "2024",
+      "externalIds": {
+        "letterboxd": "they-will-be-dust"
+      },
+      "awardYear": 2024,
+      "winner": "Carlos Marqués-Marcet",
+      "award": "플랫폼상",
+      "awardOrder": 4
+    },
+    {
+      "id": "tiff-2024-best-canadian-feature-2024-shepherds",
+      "mediaType": "movie",
+      "title": "Shepherds",
+      "releaseDate": "2024",
+      "externalIds": {
+        "letterboxd": "shepherds"
+      },
+      "awardYear": 2024,
+      "winner": "Sophie Deraspe",
+      "award": "캐나다 장편영화상",
+      "awardOrder": 5
+    },
+    {
+      "id": "tiff-2024-best-canadian-discovery-2024-universal-language",
+      "mediaType": "movie",
+      "title": "Universal Language",
+      "releaseDate": "2024",
+      "externalIds": {
+        "letterboxd": "universal-language"
+      },
+      "awardYear": 2024,
+      "winner": "Matthew Rankin",
+      "award": "캐나다 디스커버리상",
+      "awardOrder": 6
+    },
+    {
+      "id": "tiff-2024-best-canadian-short-film-2024-are-you-scared-to-be-yourself-because-you-think-that-you-might-fail",
+      "mediaType": "movie",
+      "title": "Are You Scared to Be Yourself Because You Think That You Might Fail?",
+      "releaseDate": "2024",
+      "externalIds": {
+        "letterboxd": "are-you-scared-to-be-yourself-because-you-think-that-you-might-fail"
+      },
+      "awardYear": 2024,
+      "winner": "Bec Pecaut",
+      "award": "캐나다 단편영화상",
+      "awardOrder": 7
+    },
+    {
+      "id": "tiff-2024-best-international-short-film-2024-deck-5b",
+      "mediaType": "movie",
+      "title": "Deck 5B",
+      "releaseDate": "2024",
+      "externalIds": {
+        "letterboxd": "deck-5b"
+      },
+      "awardYear": 2024,
+      "winner": "Malin Ingrid Johansson",
+      "award": "국제 단편영화상",
+      "awardOrder": 8
+    },
+    {
+      "id": "tiff-2024-fipresci-prize-2024-mother-mother",
+      "mediaType": "movie",
+      "title": "Mother Mother",
+      "releaseDate": "2024",
+      "externalIds": {
+        "letterboxd": "mother-mother"
+      },
+      "awardYear": 2024,
+      "winner": "K'naan Warsame",
+      "award": "FIPRESCI상",
+      "awardOrder": 9
+    },
+    {
+      "id": "tiff-2024-netpac-award-2024-the-last-of-the-sea-women",
+      "mediaType": "movie",
+      "title": "The Last of the Sea Women",
+      "releaseDate": "2024",
+      "externalIds": {
+        "letterboxd": "the-last-of-the-sea-women"
+      },
+      "awardYear": 2024,
+      "winner": "Sue Kim",
+      "award": "NETPAC상",
+      "awardOrder": 10
+    }
+  ]
+}

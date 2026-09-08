@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T03:04:45Z",
+  "title": "金球奖 2024",
+  "description": "2024 金球奖电视作品类获奖名单。",
+  "items": [
+    {
+      "id": "golden-globes-2024-tv_drama-succession",
+      "mediaType": "tv",
+      "title": "继承之战",
+      "englishTitle": "Succession",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7660850"
+      },
+      "award": "最佳剧情类剧集",
+      "awardYear": 2024,
+      "awardOrder": 1,
+      "winner": "继承之战"
+    },
+    {
+      "id": "golden-globes-2024-tv_comedy-the-bear",
+      "mediaType": "tv",
+      "title": "熊家餐馆",
+      "englishTitle": "The Bear",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt14452776"
+      },
+      "award": "最佳音乐或喜剧类剧集",
+      "awardYear": 2024,
+      "awardOrder": 2,
+      "winner": "熊家餐馆"
+    },
+    {
+      "id": "golden-globes-2024-limited-beef",
+      "mediaType": "tv",
+      "title": "怒呛人生",
+      "englishTitle": "Beef",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt14403178"
+      },
+      "award": "最佳限定剧、选集剧或电视电影",
+      "awardYear": 2024,
+      "awardOrder": 3,
+      "winner": "怒呛人生"
+    }
+  ]
+}

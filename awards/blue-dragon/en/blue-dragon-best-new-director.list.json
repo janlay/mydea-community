@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T02:54:20Z",
+  "title": "Blue Dragon Film Awards — Best New Director",
+  "description": "Blue Dragon Film Awards Best New Director winners from 2016 through 2025.",
+  "items": [
+    {
+      "id": "blue-dragon-2016-best-new-director-world-of-us",
+      "mediaType": "movie",
+      "title": "The World of Us",
+      "originalTitle": "우리들",
+      "awardYear": 2016,
+      "winner": "Yoon Ga-eun",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt5502816"
+      }
+    },
+    {
+      "id": "blue-dragon-2017-best-new-director-our-love-story",
+      "mediaType": "movie",
+      "title": "Our Love Story",
+      "originalTitle": "연애담",
+      "awardYear": 2017,
+      "winner": "Lee Hyun-ju",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt6129730"
+      }
+    },
+    {
+      "id": "blue-dragon-2018-best-new-director-microhabitat",
+      "mediaType": "movie",
+      "title": "Microhabitat",
+      "originalTitle": "소공녀",
+      "awardYear": 2018,
+      "winner": "Jeon Go-woon",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt8191502"
+      }
+    },
+    {
+      "id": "blue-dragon-2019-best-new-director-exit",
+      "mediaType": "movie",
+      "title": "Exit",
+      "originalTitle": "엑시트",
+      "awardYear": 2019,
+      "winner": "Lee Sang-geun",
+      "releaseDate": "2019",
+      "externalIds": {
+        "imdb": "tt10648440"
+      }
+    },
+    {
+      "id": "blue-dragon-2020-best-new-director-voice-silence",
+      "mediaType": "movie",
+      "title": "Voice of Silence",
+      "originalTitle": "소리도 없이",
+      "awardYear": 2020,
+      "winner": "Hong Eui-jeong",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt10431572"
+      }
+    },
+    {
+      "id": "blue-dragon-2021-best-new-director-day-i-died",
+      "mediaType": "movie",
+      "title": "The Day I Died: Unclosed Case",
+      "originalTitle": "내가 죽던 날",
+      "awardYear": 2021,
+      "winner": "Park Ji-wan",
+      "releaseDate": "2020",
+      "externalIds": {
+        "imdb": "tt13423318"
+      }
+    },
+    {
+      "id": "blue-dragon-2022-best-new-director-hunt",
+      "mediaType": "movie",
+      "title": "Hunt",
+      "originalTitle": "헌트",
+      "awardYear": 2022,
+      "winner": "Lee Jung-jae",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt6931658"
+      }
+    },
+    {
+      "id": "blue-dragon-2023-best-new-director-night-owl",
+      "mediaType": "movie",
+      "title": "The Night Owl",
+      "originalTitle": "올빼미",
+      "awardYear": 2023,
+      "winner": "Ahn Tae-jin",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt23871504"
+      }
+    },
+    {
+      "id": "blue-dragon-2024-best-new-director-dream-songs",
+      "mediaType": "movie",
+      "title": "The Dream Songs",
+      "originalTitle": "너와 나",
+      "awardYear": 2024,
+      "winner": "Cho Hyun-chul",
+      "releaseDate": "2022",
+      "externalIds": {
+        "imdb": "tt26757183"
+      }
+    },
+    {
+      "id": "blue-dragon-2025-best-new-director-its-okay",
+      "mediaType": "movie",
+      "title": "It's Okay!",
+      "originalTitle": "괜찮아 괜찮아 괜찮아!",
+      "awardYear": 2025,
+      "winner": "Kim Hye-young",
+      "releaseDate": "2023",
+      "externalIds": {
+        "imdb": "tt29579010"
+      }
+    }
+  ]
+}

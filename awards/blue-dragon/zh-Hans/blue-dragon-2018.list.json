@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-12T02:54:20Z",
+  "title": "青龙电影奖 — 2018",
+  "description": "2018年韩国青龙电影奖10个主要电影奖项获奖作品。",
+  "items": [
+    {
+      "id": "blue-dragon-2018-best-film-1987",
+      "mediaType": "movie",
+      "title": "1987：黎明到来的那一天",
+      "originalTitle": "1987",
+      "englishTitle": "1987: When the Day Comes",
+      "award": "最佳影片",
+      "awardYear": 2018,
+      "awardOrder": 1,
+      "winner": "Jang Joon-hwan",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6493286"
+      }
+    },
+    {
+      "id": "blue-dragon-2018-best-director-spy-gone-north",
+      "mediaType": "movie",
+      "title": "特工",
+      "originalTitle": "공작",
+      "englishTitle": "The Spy Gone North",
+      "award": "最佳导演",
+      "awardYear": 2018,
+      "awardOrder": 2,
+      "winner": "Yoon Jong-bin",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8290698"
+      }
+    },
+    {
+      "id": "blue-dragon-2018-best-actor-1987",
+      "mediaType": "movie",
+      "title": "1987：黎明到来的那一天",
+      "originalTitle": "1987",
+      "englishTitle": "1987: When the Day Comes",
+      "award": "最佳男主角",
+      "awardYear": 2018,
+      "awardOrder": 3,
+      "winner": "Kim Yoon-seok",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt6493286"
+      }
+    },
+    {
+      "id": "blue-dragon-2018-best-actress-miss-baek",
+      "mediaType": "movie",
+      "title": "白小姐",
+      "originalTitle": "미쓰백",
+      "englishTitle": "Miss Baek",
+      "award": "最佳女主角",
+      "awardYear": 2018,
+      "awardOrder": 4,
+      "winner": "Han Ji-min",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt6479534"
+      }
+    },
+    {
+      "id": "blue-dragon-2018-best-supporting-actor-believer",
+      "mediaType": "movie",
+      "title": "毒战",
+      "originalTitle": "독전",
+      "englishTitle": "Believer",
+      "award": "最佳男配角",
+      "awardYear": 2018,
+      "awardOrder": 5,
+      "winner": "Kim Joo-hyuk",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt7095654"
+      }
+    },
+    {
+      "id": "blue-dragon-2018-best-supporting-actress-along-gods",
+      "mediaType": "movie",
+      "title": "与神同行：罪与罚",
+      "originalTitle": "신과함께-죄와 벌",
+      "englishTitle": "Along with the Gods: The Two Worlds",
+      "award": "最佳女配角",
+      "awardYear": 2018,
+      "awardOrder": 6,
+      "winner": "Kim Hyang-gi",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt7160070"
+      }
+    },
+    {
+      "id": "blue-dragon-2018-best-new-director-microhabitat",
+      "mediaType": "movie",
+      "title": "小公女",
+      "originalTitle": "소공녀",
+      "englishTitle": "Microhabitat",
+      "award": "最佳新人导演",
+      "awardYear": 2018,
+      "awardOrder": 7,
+      "winner": "Jeon Go-woon",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt8191502"
+      }
+    },
+    {
+      "id": "blue-dragon-2018-best-new-actor-great-battle",
+      "mediaType": "movie",
+      "title": "安市城",
+      "originalTitle": "안시성",
+      "englishTitle": "The Great Battle",
+      "award": "最佳新人男演员",
+      "awardYear": 2018,
+      "awardOrder": 8,
+      "winner": "Nam Joo-hyuk",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt6931414"
+      }
+    },
+    {
+      "id": "blue-dragon-2018-best-new-actress-witch",
+      "mediaType": "movie",
+      "title": "魔女",
+      "originalTitle": "마녀",
+      "englishTitle": "The Witch: Part 1. The Subversion",
+      "award": "最佳新人女演员",
+      "awardYear": 2018,
+      "awardOrder": 9,
+      "winner": "Kim Da-mi",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8574252"
+      }
+    },
+    {
+      "id": "blue-dragon-2018-best-screenplay-dark-figure-crime",
+      "mediaType": "movie",
+      "title": "暗数杀人",
+      "originalTitle": "암수살인",
+      "englishTitle": "Dark Figure of Crime",
+      "award": "最佳剧本",
+      "awardYear": 2018,
+      "awardOrder": 10,
+      "winner": "Kwak Kyung-taek & Kim Tae-gyun",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt8119680"
+      }
+    }
+  ]
+}

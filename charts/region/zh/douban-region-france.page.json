@@ -1,0 +1,208 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "icon": "chart.bar",
+  "title": "豆瓣法国类型片",
+  "description": "豆瓣法国各类型片榜单，涵盖 16 个类型。",
+  "tags": [
+    "douban",
+    "chart",
+    "region",
+    "france"
+  ],
+  "sections": [
+    {
+      "title": "法国动作片",
+      "layout": "carousel",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "EC5UOWEFY"
+        }
+      ]
+    },
+    {
+      "title": "法国冒险片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "EC5YO53DI"
+        }
+      ]
+    },
+    {
+      "title": "法国动画片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECIQPF7NY"
+        }
+      ]
+    },
+    {
+      "title": "法国传记片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECYIOK3PY"
+        }
+      ]
+    },
+    {
+      "title": "法国喜剧片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECIEOY5UI"
+        }
+      ]
+    },
+    {
+      "title": "法国犯罪片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECFEPCR2A"
+        }
+      ]
+    },
+    {
+      "title": "法国情色片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECDAOW2PY"
+        }
+      ]
+    },
+    {
+      "title": "法国奇幻片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "EC6QOILRA"
+        }
+      ]
+    },
+    {
+      "title": "法国历史片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECUMONVJQ"
+        }
+      ]
+    },
+    {
+      "title": "法国恐怖片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECHIOLPXA"
+        }
+      ]
+    },
+    {
+      "title": "法国音乐片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECYAORESI"
+        }
+      ]
+    },
+    {
+      "title": "法国悬疑片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECQUO7FVQ"
+        }
+      ]
+    },
+    {
+      "title": "法国爱情片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECTAOT7GQ"
+        }
+      ]
+    },
+    {
+      "title": "法国科幻片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "EC3MO34NI"
+        }
+      ]
+    },
+    {
+      "title": "法国惊悚片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECPMPHOMI"
+        }
+      ]
+    },
+    {
+      "title": "法国战争片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "EC6UOQ3TY"
+        }
+      ]
+    }
+  ]
+}

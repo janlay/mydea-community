@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "icon": "chart.bar",
+  "title": "豆瓣加拿大类型片",
+  "description": "豆瓣加拿大各类型片榜单，涵盖 11 个类型。",
+  "tags": [
+    "douban",
+    "chart",
+    "region",
+    "canada"
+  ],
+  "sections": [
+    {
+      "title": "加拿大动作片",
+      "layout": "carousel",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECUQPDN7Y"
+        }
+      ]
+    },
+    {
+      "title": "加拿大冒险片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECRYO5ULY"
+        }
+      ]
+    },
+    {
+      "title": "加拿大动画片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "EC3YPB7WQ"
+        }
+      ]
+    },
+    {
+      "title": "加拿大传记片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECCUOUMXQ"
+        }
+      ]
+    },
+    {
+      "title": "加拿大喜剧片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECYUPAHZY"
+        }
+      ]
+    },
+    {
+      "title": "加拿大犯罪片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "EC2MPBOOI"
+        }
+      ]
+    },
+    {
+      "title": "加拿大恐怖片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECVYODZIA"
+        }
+      ]
+    },
+    {
+      "title": "加拿大悬疑片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECYMPDCTI"
+        }
+      ]
+    },
+    {
+      "title": "加拿大爱情片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECEAOXFIQ"
+        }
+      ]
+    },
+    {
+      "title": "加拿大科幻片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECX4PAGTA"
+        }
+      ]
+    },
+    {
+      "title": "加拿大惊悚片",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "ECZMPDHQI"
+        }
+      ]
+    }
+  ]
+}

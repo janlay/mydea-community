@@ -1,0 +1,168 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "icon": "flame",
+  "title": "豆瓣热门榜单",
+  "description": "豆瓣电影与剧集的热门榜单，共 9 个分类。",
+  "tags": [
+    "douban",
+    "popular",
+    "chart"
+  ],
+  "sections": [
+    {
+      "title": "实时热门电影",
+      "description": "豆瓣「实时热门电影」榜单的收藏片单。",
+      "layout": "carousel",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "list_shortcut",
+          "value": "movie_real_time_hotest"
+        },
+        {
+          "name": "collection",
+          "value": "movie_real_time_hotest"
+        }
+      ]
+    },
+    {
+      "title": "豆瓣热门电影",
+      "description": "豆瓣「豆瓣热门电影」榜单的收藏片单。",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "list_shortcut",
+          "value": "movie_hot_gaia"
+        },
+        {
+          "name": "collection",
+          "value": "movie_hot_gaia"
+        }
+      ]
+    },
+    {
+      "title": "影院热映",
+      "description": "豆瓣「影院热映」榜单的收藏片单。",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "list_shortcut",
+          "value": "movie_showing"
+        },
+        {
+          "name": "collection",
+          "value": "movie_showing"
+        }
+      ]
+    },
+    {
+      "title": "院线即将上映",
+      "description": "豆瓣「院线即将上映」榜单的收藏片单。",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "list_shortcut",
+          "value": "movie_soon"
+        },
+        {
+          "name": "collection",
+          "value": "movie_soon"
+        }
+      ]
+    },
+    {
+      "title": "一周口碑电影榜",
+      "description": "豆瓣「一周口碑电影榜」榜单的收藏片单。",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "list_shortcut",
+          "value": "movie_weekly_best"
+        },
+        {
+          "name": "collection",
+          "value": "movie_weekly_best"
+        }
+      ]
+    },
+    {
+      "title": "实时热门电视",
+      "description": "豆瓣「实时热门电视」榜单的收藏片单。",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "list_shortcut",
+          "value": "tv_real_time_hotest"
+        },
+        {
+          "name": "collection",
+          "value": "tv_real_time_hotest"
+        }
+      ]
+    },
+    {
+      "title": "近期热门剧集",
+      "description": "豆瓣「近期热门剧集」榜单的收藏片单。",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "list_shortcut",
+          "value": "tv_hot"
+        },
+        {
+          "name": "collection",
+          "value": "tv_hot"
+        }
+      ]
+    },
+    {
+      "title": "全球口碑剧集榜",
+      "description": "豆瓣「全球口碑剧集榜」榜单的收藏片单。",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "list_shortcut",
+          "value": "tv_global_best_weekly"
+        },
+        {
+          "name": "collection",
+          "value": "tv_global_best_weekly"
+        }
+      ]
+    },
+    {
+      "title": "华语口碑剧集榜",
+      "description": "豆瓣「华语口碑剧集榜」榜单的收藏片单。",
+      "layout": "grid",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "list_shortcut",
+          "value": "tv_chinese_best_weekly"
+        },
+        {
+          "name": "collection",
+          "value": "tv_chinese_best_weekly"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "author": "Mydea",
+  "updatedAt": "2026-09-15T05:03:35Z",
+  "title": "프라임타임 에미상 2018 수상 목록",
+  "description": "제70회 프라임타임 에미상 주요 부문 수상 기록.",
+  "items": [
+    {
+      "id": "emmys-2018-drama-series-game-of-thrones",
+      "mediaType": "tv",
+      "title": "왕좌의 게임",
+      "originalTitle": "Game of Thrones",
+      "award": "최우수 드라마 시리즈",
+      "awardYear": 2018,
+      "awardOrder": 1,
+      "winner": "Game of Thrones",
+      "releaseDate": "2011",
+      "externalIds": {
+        "imdb": "tt0944947"
+      }
+    },
+    {
+      "id": "emmys-2018-comedy-series-the-marvelous-mrs-maisel",
+      "mediaType": "tv",
+      "title": "마블러스 미세스 메이즐",
+      "originalTitle": "The Marvelous Mrs. Maisel",
+      "award": "최우수 코미디 시리즈",
+      "awardYear": 2018,
+      "awardOrder": 2,
+      "winner": "The Marvelous Mrs. Maisel",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5788792"
+      }
+    },
+    {
+      "id": "emmys-2018-limited-series-the-assassination-of-gianni-versace-american-crime-story",
+      "mediaType": "tv",
+      "title": "아메리칸 크라임 스토리",
+      "originalTitle": "The Assassination of Gianni Versace: American Crime Story",
+      "award": "최우수 리미티드 또는 앤솔러지 시리즈",
+      "awardYear": 2018,
+      "awardOrder": 3,
+      "winner": "The Assassination of Gianni Versace: American Crime Story",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt2788432"
+      }
+    },
+    {
+      "id": "emmys-2018-lead-actor-drama-the-americans",
+      "mediaType": "tv",
+      "title": "디 아메리칸즈",
+      "originalTitle": "The Americans",
+      "award": "드라마 시리즈 남우주연상",
+      "awardYear": 2018,
+      "awardOrder": 4,
+      "winner": "Matthew Rhys",
+      "releaseDate": "2013",
+      "externalIds": {
+        "imdb": "tt2149175"
+      }
+    },
+    {
+      "id": "emmys-2018-lead-actress-drama-the-crown",
+      "mediaType": "tv",
+      "title": "더 크라운",
+      "originalTitle": "The Crown",
+      "award": "드라마 시리즈 여우주연상",
+      "awardYear": 2018,
+      "awardOrder": 5,
+      "winner": "Claire Foy",
+      "releaseDate": "2016",
+      "externalIds": {
+        "imdb": "tt4786824"
+      }
+    },
+    {
+      "id": "emmys-2018-lead-actor-comedy-barry",
+      "mediaType": "tv",
+      "title": "배리",
+      "originalTitle": "Barry",
+      "award": "코미디 시리즈 남우주연상",
+      "awardYear": 2018,
+      "awardOrder": 6,
+      "winner": "Bill Hader",
+      "releaseDate": "2018",
+      "externalIds": {
+        "imdb": "tt5348176"
+      }
+    },
+    {
+      "id": "emmys-2018-lead-actress-comedy-the-marvelous-mrs-maisel",
+      "mediaType": "tv",
+      "title": "마블러스 미세스 메이즐",
+      "originalTitle": "The Marvelous Mrs. Maisel",
+      "award": "코미디 시리즈 여우주연상",
+      "awardYear": 2018,
+      "awardOrder": 7,
+      "winner": "Rachel Brosnahan",
+      "releaseDate": "2017",
+      "externalIds": {
+        "imdb": "tt5788792"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "kind": "list",
+  "title": "칸 — 주목할 만한 시선 각본상",
+  "author": "Mydea",
+  "updatedAt": "2026-09-16T04:43:24Z",
+  "description": "칸 영화제 주목할 만한 시선 부문의 역대 수상작입니다. 주목할 만한 시선 각본상.",
+  "tags": [
+    "award",
+    "cannes",
+    "prize"
+  ],
+  "items": [
+    {
+      "id": "cannes-ucr-screenplay-2016-the-stopover",
+      "mediaType": "movie",
+      "title": "The Stopover",
+      "awardYear": 2016,
+      "winner": "Delphine Coulin & Muriel Coulin"
+    },
+    {
+      "id": "cannes-ucr-screenplay-2018-sofia",
+      "mediaType": "movie",
+      "title": "Sofia",
+      "awardYear": 2018,
+      "winner": "Meryem Benm'Barek",
+      "externalIds": {
+        "imdb": "tt8296592"
+      },
+      "releaseDate": "2018"
+    },
+    {
+      "id": "cannes-ucr-screenplay-2022-mediterranean-fever",
+      "mediaType": "movie",
+      "title": "Mediterranean Fever",
+      "awardYear": 2022,
+      "winner": "Maha Haj",
+      "externalIds": {
+        "imdb": "tt19785426"
+      },
+      "releaseDate": "2022"
+    },
+    {
+      "id": "cannes-ucr-screenplay-2025-pillion",
+      "mediaType": "movie",
+      "title": "Pillion",
+      "awardYear": 2025,
+      "winner": "Harry Lighton",
+      "externalIds": {
+        "imdb": "tt32321317"
+      },
+      "releaseDate": "2025"
+    }
+  ]
+}
