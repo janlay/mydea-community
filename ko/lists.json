@@ -1,0 +1,121 @@
+[
+  {
+    "id": "hkfa-2017",
+    "title": "2017 홍콩 영화 금상장 수상작",
+    "description": "2017년 홍콩 영화 금상장 주요 부문 수상작과 수상자.",
+    "digest": "sha256:768a9a43a701829b679592512a67108a64b1c2449a142e79f8597b094952f44f",
+    "path": "lists/ko/hkfa-2017.list.json"
+  },
+  {
+    "id": "hkfa-2018",
+    "title": "2018 홍콩 영화 금상장 수상작",
+    "description": "2018년 홍콩 영화 금상장 주요 부문 수상작과 수상자.",
+    "digest": "sha256:0b5d0dfebfad14871858b85ba682767f818e0a406e4be87f1a23931ee054bce3",
+    "path": "lists/ko/hkfa-2018.list.json"
+  },
+  {
+    "id": "hkfa-2019",
+    "title": "2019 홍콩 영화 금상장 수상작",
+    "description": "2019년 홍콩 영화 금상장 주요 부문 수상작과 수상자.",
+    "digest": "sha256:98155f2c4e04698ba289505540378be426b7cf8975301b64e5fab041e6f7a5ee",
+    "path": "lists/ko/hkfa-2019.list.json"
+  },
+  {
+    "id": "hkfa-2020",
+    "title": "2020 홍콩 영화 금상장 수상작",
+    "description": "2020년 홍콩 영화 금상장 주요 부문 수상작과 수상자.",
+    "digest": "sha256:10b4fe54ea404d3b445b35451df5b07a70fbef5be8f0c9d313f3ca83630bb67e",
+    "path": "lists/ko/hkfa-2020.list.json"
+  },
+  {
+    "id": "hkfa-2022",
+    "title": "2022 홍콩 영화 금상장 수상작",
+    "description": "2022년 홍콩 영화 금상장 주요 부문 수상작과 수상자.",
+    "digest": "sha256:311082ab495f8281371af396fe058dbf0a2458e609bcfa352f3cf7fdf8a36b14",
+    "path": "lists/ko/hkfa-2022.list.json"
+  },
+  {
+    "id": "hkfa-2023",
+    "title": "2023 홍콩 영화 금상장 수상작",
+    "description": "2023년 홍콩 영화 금상장 주요 부문 수상작과 수상자.",
+    "digest": "sha256:75ace46b9b6d785d7587cc04dec1300e91b444e95d7eba4f14e306d8181c9e17",
+    "path": "lists/ko/hkfa-2023.list.json"
+  },
+  {
+    "id": "hkfa-2024",
+    "title": "2024 홍콩 영화 금상장 수상작",
+    "description": "2024년 홍콩 영화 금상장 주요 부문 수상작과 수상자.",
+    "digest": "sha256:c807fba15d24acad06a36c6a4b787e656a96ee6f854aaab572ca9b6d7cb1ec96",
+    "path": "lists/ko/hkfa-2024.list.json"
+  },
+  {
+    "id": "hkfa-2025",
+    "title": "2025 홍콩 영화 금상장 수상작",
+    "description": "2025년 홍콩 영화 금상장 주요 부문 수상작과 수상자.",
+    "digest": "sha256:3bc18cc14db8a60e0f18aa2f073c71ac22800921e28db4e6f5b24bce971bacce",
+    "path": "lists/ko/hkfa-2025.list.json"
+  },
+  {
+    "id": "hkfa-2026",
+    "title": "2026 홍콩 영화 금상장 수상작",
+    "description": "2026년 홍콩 영화 금상장 주요 부문 수상작과 수상자.",
+    "digest": "sha256:2bb9129b65e467d5fd5eb9f7b963fc33161dd83216594ee43a4c2787d9eceb13",
+    "path": "lists/ko/hkfa-2026.list.json"
+  },
+  {
+    "id": "hkfa-best-actor",
+    "title": "홍콩 영화 금상장 — 남우주연상",
+    "description": "홍콩 영화 금상장 역대 남우주연상 수상 기록.",
+    "digest": "sha256:91f3f1c4b28d3f854411737d9614b4ce781d19c1615cd59755cfecd650d76b45",
+    "path": "lists/ko/hkfa-best-actor.list.json"
+  },
+  {
+    "id": "hkfa-best-actress",
+    "title": "홍콩 영화 금상장 — 여우주연상",
+    "description": "홍콩 영화 금상장 역대 여우주연상 수상 기록.",
+    "digest": "sha256:674c70f5416f9718cd4e37ccf6e05fcd786276f46bb159992cb800e8d8b3f0bd",
+    "path": "lists/ko/hkfa-best-actress.list.json"
+  },
+  {
+    "id": "hkfa-best-director",
+    "title": "홍콩 영화 금상장 — 감독상",
+    "description": "홍콩 영화 금상장 역대 감독상 수상 기록.",
+    "digest": "sha256:24c3d36cf715f46737d9356752128c8e798ae6bb6000201caa8e3d58ef944be0",
+    "path": "lists/ko/hkfa-best-director.list.json"
+  },
+  {
+    "id": "hkfa-best-film",
+    "title": "홍콩 영화 금상장 — 최우수 작품상",
+    "description": "홍콩 영화 금상장 역대 최우수 작품상 수상 기록.",
+    "digest": "sha256:e75bff6b11191424dea28d0f2ef9999751142cc7065e1eecbd90a00973759557",
+    "path": "lists/ko/hkfa-best-film.list.json"
+  },
+  {
+    "id": "hkfa-best-new-performer",
+    "title": "홍콩 영화 금상장 — 신인상",
+    "description": "홍콩 영화 금상장 역대 신인상 수상 기록.",
+    "digest": "sha256:d27b76fe8ef39d8f866e57207f27222933df3805f9787cd339e2440d172a04ee",
+    "path": "lists/ko/hkfa-best-new-performer.list.json"
+  },
+  {
+    "id": "hkfa-best-screenplay",
+    "title": "홍콩 영화 금상장 — 각본상",
+    "description": "홍콩 영화 금상장 역대 각본상 수상 기록.",
+    "digest": "sha256:dee1989c3f6f94de86a663cdd72710cc27fbd109606a1c78f9f73f5b92ea9af0",
+    "path": "lists/ko/hkfa-best-screenplay.list.json"
+  },
+  {
+    "id": "hkfa-best-supporting-actor",
+    "title": "홍콩 영화 금상장 — 남우조연상",
+    "description": "홍콩 영화 금상장 역대 남우조연상 수상 기록.",
+    "digest": "sha256:0ee444c5ba8616f64ab201885718b1cdc03bbf837969bdf02087dfce4d2c434b",
+    "path": "lists/ko/hkfa-best-supporting-actor.list.json"
+  },
+  {
+    "id": "hkfa-best-supporting-actress",
+    "title": "홍콩 영화 금상장 — 여우조연상",
+    "description": "홍콩 영화 금상장 역대 여우조연상 수상 기록.",
+    "digest": "sha256:0090ab90233109eeac17cf48b5b4590e5801cb56d3fc7175ae99394856b44bdd",
+    "path": "lists/ko/hkfa-best-supporting-actress.list.json"
+  }
+]

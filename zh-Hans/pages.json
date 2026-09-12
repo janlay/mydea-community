@@ -1,0 +1,74 @@
+[
+  {
+    "id": "berlinale-10-years",
+    "title": "柏林十年",
+    "description": "柏林电影节最近十届（2017–2026）主竞赛获奖名单。",
+    "digest": "sha256:3f1481bbddef783e459367839b01347d2bb08f53f9e214717933686da5e6118d",
+    "path": "pages/zh-Hans/berlinale-10-years.page.json",
+    "tags": [
+      "berlin",
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "id": "berlinale-prizes",
+    "title": "柏林奖项",
+    "description": "柏林电影节各奖项完整获奖名单。1970 年未颁奖。",
+    "digest": "sha256:29dfd2a23c03209becf1ade65bad1c776ce42f22af7541c788f246c38248a9b9",
+    "path": "pages/zh-Hans/berlinale-prizes.page.json",
+    "tags": [
+      "berlin",
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "id": "cannes-10-years",
+    "title": "戛纳十年",
+    "description": "戛纳电影节近十年获奖名单。2020 年因疫情取消，故无该年。",
+    "digest": "sha256:9e7eed0e3e9210feb4411104d28570c9e3193456be43f109c2dd1d17b08c0ef7",
+    "path": "pages/zh-Hans/cannes-10-years.page.json",
+    "tags": [
+      "cannes",
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "id": "cannes-prizes",
+    "title": "戛纳奖项",
+    "description": "戛纳电影节各奖项完整获奖名单。2020 年因疫情取消，无该年记录。",
+    "digest": "sha256:4a87cf3a14b9e61e3c64c7d7d8760b7139abfab25f2dacf357c40c39d7364d69",
+    "path": "pages/zh-Hans/cannes-prizes.page.json",
+    "tags": [
+      "cannes",
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "id": "venice-10-years",
+    "title": "威尼斯十年",
+    "description": "威尼斯电影节最近十届（2016–2025）主竞赛获奖名单。",
+    "digest": "sha256:4955ae6231907406c0ca1aa3ba6032ab0e21f1300512c89b70f1d26f969a3b7d",
+    "path": "pages/zh-Hans/venice-10-years.page.json",
+    "tags": [
+      "venice",
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "id": "venice-prizes",
+    "title": "威尼斯奖项",
+    "description": "威尼斯电影节各奖项完整获奖名单。1969–1979 年停颁竞赛奖项。",
+    "digest": "sha256:2fabad8138d51c7b796b747849f076bf753a098fc336c6f14a90746ec3e21c10",
+    "path": "pages/zh-Hans/venice-prizes.page.json",
+    "tags": [
+      "venice",
+      "award",
+      "prize"
+    ]
+  }
+]

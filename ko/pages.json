@@ -1,0 +1,26 @@
+[
+  {
+    "id": "hkfa-10-years",
+    "title": "홍콩 영화 금상장 — 최근 10년",
+    "description": "홍콩 영화 금상장 최근 10년 수상작. 2021년은 2022년으로 통합되어 열리지 않았습니다.",
+    "digest": "sha256:8751ec01aa50254e16e6e51b5140a7d125015dfccce51033dbfd34a4c5954cb6",
+    "path": "pages/ko/hkfa-10-years.page.json",
+    "tags": [
+      "hong-kong",
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "id": "hkfa-prizes",
+    "title": "홍콩 영화 금상장 — 부문별",
+    "description": "홍콩 영화 금상장 부문별 전체 수상 기록. 2021년은 2022년으로 통합되어 열리지 않았습니다.",
+    "digest": "sha256:33de2782c0a20b00ecbd6e9494d4c4b43fe685e3a457d710a191e247601d03b6",
+    "path": "pages/ko/hkfa-prizes.page.json",
+    "tags": [
+      "hong-kong",
+      "award",
+      "prize"
+    ]
+  }
+]

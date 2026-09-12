@@ -1,0 +1,26 @@
+[
+  {
+    "id": "hkfa-10-years",
+    "title": "香港電影金像奨 — 直近10年",
+    "description": "香港電影金像奨の直近10年の受賞作。2021年は2022年に統合され、開催なし。",
+    "digest": "sha256:4f160e8ea75fbfcd828095210b2c1b9d87a3010bcdea07a06968a74fd4a06b7f",
+    "path": "pages/ja/hkfa-10-years.page.json",
+    "tags": [
+      "hong-kong",
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "id": "hkfa-prizes",
+    "title": "香港電影金像奨 — 部門別",
+    "description": "香港電影金像奨の各部門の全受賞記録。2021年は2022年に統合され、開催なし。",
+    "digest": "sha256:9c0b6110202102f679ea8f313273577451eed6982e7fe2037f65ac096b58e27b",
+    "path": "pages/ja/hkfa-prizes.page.json",
+    "tags": [
+      "hong-kong",
+      "award",
+      "prize"
+    ]
+  }
+]

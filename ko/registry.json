@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "repository": "janlay/mydea-community",
+  "catalogs": {
+    "pages": "pages.json",
+    "sections": "sections.json",
+    "lists": "lists.json",
+    "themes": "../themes.json"
+  }
+}

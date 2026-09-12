@@ -1,0 +1,50 @@
+[
+  {
+    "id": "golden-horse-10-years",
+    "title": "金馬十年",
+    "description": "金馬獎最近十屆（2016–2025）主要獎項得獎名單。",
+    "digest": "sha256:097dc90bebad7be02ac563043ffa6566537f013b39e8b79f8384332cda56c8c6",
+    "path": "pages/zh-Hant/golden-horse-10-years.page.json",
+    "tags": [
+      "taipei",
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "id": "golden-horse-prizes",
+    "title": "金馬獎項",
+    "description": "金馬獎各獎項完整得獎名單。1964、1974 年未舉辦。",
+    "digest": "sha256:724f8d0e14f8acd6b8c0e2507988f7a1163fd9f9a74a16650411c5e396de580d",
+    "path": "pages/zh-Hant/golden-horse-prizes.page.json",
+    "tags": [
+      "taipei",
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "id": "hkfa-10-years",
+    "title": "金像獎十年",
+    "description": "香港電影金像獎近十年得獎名單。2021 年順延併入 2022 年。",
+    "digest": "sha256:42d704caa5f07271aca3fe5bc73f925e483a3d0853f8626dc5402cc14bea31f5",
+    "path": "pages/zh-Hant/hkfa-10-years.page.json",
+    "tags": [
+      "hong-kong",
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "id": "hkfa-prizes",
+    "title": "金像獎項",
+    "description": "香港電影金像獎各獎項完整得獎名單。2021 年順延併入 2022 年舉行。",
+    "digest": "sha256:b50e1e0ab0e40fa96256e46baeec742e30a38a5b86bfc689efb8819352137697",
+    "path": "pages/zh-Hant/hkfa-prizes.page.json",
+    "tags": [
+      "hong-kong",
+      "award",
+      "prize"
+    ]
+  }
+]

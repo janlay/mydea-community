@@ -1,0 +1,99 @@
+[
+  {
+    "id": "berlinale-10-years",
+    "title": "Ten Years in Berlin",
+    "description": "Competition winners of the last ten Berlinale editions, 2026 back to 2017.",
+    "digest": "sha256:3c9e14bf9291d8faa25e8f477502d24f07a72a0c7826fac3581254765ce71216",
+    "path": "pages/en/berlinale-10-years.page.json",
+    "tags": [
+      "berlin",
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "id": "berlinale-prizes",
+    "title": "Berlinale Prizes",
+    "description": "Winners of every Berlinale competition award. No awards were given in 1970.",
+    "digest": "sha256:62f7b45b232a1a398b44f5ccbe5968ac18ad71d8e3c143dd4f3e5e5882417452",
+    "path": "pages/en/berlinale-prizes.page.json",
+    "tags": [
+      "berlin",
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "id": "cannes-10-years",
+    "title": "Ten Years in Cannes",
+    "description": "Ten years of the Festival de Cannes. 2020 is absent: the festival was cancelled.",
+    "digest": "sha256:cd293051a114e5f0146aecbb80eb86c50760694e8eb3a3599a5e5da008a93107",
+    "path": "pages/en/cannes-10-years.page.json",
+    "tags": [
+      "cannes",
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "id": "cannes-prizes",
+    "title": "Cannes Prizes",
+    "description": "Winners of every Festival de Cannes award. No 2020 winners: the festival was cancelled.",
+    "digest": "sha256:5727bccbbbf09a93dcc87dee0cebe3d1daba755d666be79cf387bfed7eeecd45",
+    "path": "pages/en/cannes-prizes.page.json",
+    "tags": [
+      "cannes",
+      "award",
+      "prize"
+    ],
+    "featured": true
+  },
+  {
+    "id": "hkfa-10-years",
+    "title": "Ten Years in Hong Kong",
+    "description": "Ten years of the Hong Kong Film Awards. 2021 is absent: it was merged into 2022.",
+    "digest": "sha256:7dbbe1fe25e9ad437afc48da3147c119fa4480feb13eeaf3044348ac15297c6a",
+    "path": "pages/en/hkfa-10-years.page.json",
+    "tags": [
+      "hong-kong",
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "id": "hkfa-prizes",
+    "title": "Hong Kong Film Awards",
+    "description": "Winners of every Hong Kong Film Awards category. 2021 was postponed and merged into 2022.",
+    "digest": "sha256:a029f3b54c46ea05a443ed68230560e14d619fe352b3ba50e8e3c67ca84931df",
+    "path": "pages/en/hkfa-prizes.page.json",
+    "tags": [
+      "hong-kong",
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "id": "venice-10-years",
+    "title": "Ten Years in Venice",
+    "description": "Competition winners of the last ten Venice editions, 2025 back to 2016.",
+    "digest": "sha256:f1c3f1f0a72b041cf21b4e2743b8323fd3f241f2d884925f995de29699d01380",
+    "path": "pages/en/venice-10-years.page.json",
+    "tags": [
+      "venice",
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "id": "venice-prizes",
+    "title": "Venice Prizes",
+    "description": "Winners of every Venice competition award. No awards were given from 1969 to 1979.",
+    "digest": "sha256:0779e05fb99d648cdf93d3f6ae13b5d5d73505d28e5e1ff3b73a77b80b31dad9",
+    "path": "pages/en/venice-prizes.page.json",
+    "tags": [
+      "venice",
+      "award",
+      "prize"
+    ]
+  }
+]

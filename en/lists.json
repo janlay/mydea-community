@@ -1,0 +1,533 @@
+[
+  {
+    "id": "berlinale-2017",
+    "title": "Berlinale 2017 Awards",
+    "description": "Major Competition International Jury award winners at the 2017 Berlin International Film Festival.",
+    "digest": "sha256:98ee7bf8c83b5c1ed6bae640b81d2735db56fe04e22264ab35574352a93b8387",
+    "path": "lists/en/berlinale-2017.list.json"
+  },
+  {
+    "id": "berlinale-2018",
+    "title": "Berlinale 2018 Awards",
+    "description": "Major Competition International Jury award winners at the 2018 Berlin International Film Festival.",
+    "digest": "sha256:73b5ac4253e1285a6b0eae0658fa6719ea43f6768e0b4c6474eaf3d8e87e564e",
+    "path": "lists/en/berlinale-2018.list.json"
+  },
+  {
+    "id": "berlinale-2019",
+    "title": "Berlinale 2019 Awards",
+    "description": "Major Competition International Jury award winners at the 2019 Berlin International Film Festival.",
+    "digest": "sha256:f0d9f5c7eb5e35c6ea789e0d96d800982ea932612606f0a7114ddb3887c5f392",
+    "path": "lists/en/berlinale-2019.list.json"
+  },
+  {
+    "id": "berlinale-2020",
+    "title": "Berlinale 2020 Awards",
+    "description": "Major Competition International Jury award winners at the 2020 Berlin International Film Festival.",
+    "digest": "sha256:585ec4b87e4fbd16b6919fe525b83e72e6a68a250d8ac45cc8b339e296dfc2c8",
+    "path": "lists/en/berlinale-2020.list.json"
+  },
+  {
+    "id": "berlinale-2021",
+    "title": "Berlinale 2021 Awards",
+    "description": "Major Competition International Jury award winners at the 2021 Berlin International Film Festival.",
+    "digest": "sha256:fae458e201162e003a398be86511e24d8a4273ffe33bbadf238764661755a568",
+    "path": "lists/en/berlinale-2021.list.json"
+  },
+  {
+    "id": "berlinale-2022",
+    "title": "Berlinale 2022 Awards",
+    "description": "Major Competition International Jury award winners at the 2022 Berlin International Film Festival.",
+    "digest": "sha256:d6b1e64f4ff5ca8ed88d04889e8acd7b5375974ea0e08a4de2fb38ba5c1978aa",
+    "path": "lists/en/berlinale-2022.list.json"
+  },
+  {
+    "id": "berlinale-2023",
+    "title": "Berlinale 2023 Awards",
+    "description": "Major Competition International Jury award winners at the 2023 Berlin International Film Festival.",
+    "digest": "sha256:57b2a44efa45916107224dca176964622da1e012de7fde49ca7a2715d740bef0",
+    "path": "lists/en/berlinale-2023.list.json"
+  },
+  {
+    "id": "berlinale-2024",
+    "title": "Berlinale 2024 Awards",
+    "description": "Major Competition International Jury award winners at the 2024 Berlin International Film Festival.",
+    "digest": "sha256:419774b5f08077ba88d025deb427c6e0c980d0193e4487b8055a638b1463ba72",
+    "path": "lists/en/berlinale-2024.list.json"
+  },
+  {
+    "id": "berlinale-2025",
+    "title": "Berlinale 2025 Awards",
+    "description": "Major Competition International Jury award winners at the 2025 Berlin International Film Festival.",
+    "digest": "sha256:fbed75920431cf2f090a55b485afb46cfc107a82185651ac4bcc11b72ad3ae15",
+    "path": "lists/en/berlinale-2025.list.json"
+  },
+  {
+    "id": "berlinale-2026",
+    "title": "Berlinale 2026 Awards",
+    "description": "Major Competition International Jury award winners at the 2026 Berlin International Film Festival.",
+    "digest": "sha256:5ee1c5f3ffa7912526254457a5d21aadd6b78954b6852a6cc06ae0fd53a5f3dc",
+    "path": "lists/en/berlinale-2026.list.json"
+  },
+  {
+    "id": "berlinale-70th-silver-bear",
+    "title": "Berlinale — Silver Bear – 70th Berlinale",
+    "description": "Complete historical winners of the Berlinale Silver Bear – 70th Berlinale.",
+    "digest": "sha256:370d69922383305d0a1bda46032b094a64b866b6965c8d97e2ad857feb4124e3",
+    "path": "lists/en/berlinale-70th-silver-bear.list.json"
+  },
+  {
+    "id": "berlinale-alfred-bauer-prize",
+    "title": "Berlinale — Alfred Bauer Prize (Historical)",
+    "description": "Complete historical winners of the Berlinale Alfred Bauer Prize (Historical).",
+    "digest": "sha256:190ce2b996ab0131dc6811528ff1228170eab4a950f16918a32aa70d5e807f64",
+    "path": "lists/en/berlinale-alfred-bauer-prize.list.json"
+  },
+  {
+    "id": "berlinale-best-actor",
+    "title": "Berlinale — Silver Bear for Best Actor (Historical)",
+    "description": "Complete historical winners of the Berlinale Silver Bear for Best Actor (Historical).",
+    "digest": "sha256:65b37fecfbf424a781cb6af33a8a5041c4d9689d01e7584e4fdc98d8bb5c6b6e",
+    "path": "lists/en/berlinale-best-actor.list.json"
+  },
+  {
+    "id": "berlinale-best-actress",
+    "title": "Berlinale — Silver Bear for Best Actress (Historical)",
+    "description": "Complete historical winners of the Berlinale Silver Bear for Best Actress (Historical).",
+    "digest": "sha256:ba74d0a504b78d4aa89903f42bbf6015cfd1963d1e66015170661beb32c8e765",
+    "path": "lists/en/berlinale-best-actress.list.json"
+  },
+  {
+    "id": "berlinale-best-director",
+    "title": "Berlinale — Silver Bear for Best Director",
+    "description": "Complete historical winners of the Berlinale Silver Bear for Best Director.",
+    "digest": "sha256:f2a5e5220f8bea5f58986bf53ab37ff794dfac18af7af675128d586473be2eca",
+    "path": "lists/en/berlinale-best-director.list.json"
+  },
+  {
+    "id": "berlinale-best-leading-performance",
+    "title": "Berlinale — Silver Bear for Best Leading Performance",
+    "description": "Complete historical winners of the Berlinale Silver Bear for Best Leading Performance.",
+    "digest": "sha256:872663b970baa518d25b806364267434a489809f543667088fbce22c9eefe786",
+    "path": "lists/en/berlinale-best-leading-performance.list.json"
+  },
+  {
+    "id": "berlinale-best-screenplay",
+    "title": "Berlinale — Silver Bear for Best Screenplay",
+    "description": "Complete historical winners of the Berlinale Silver Bear for Best Screenplay.",
+    "digest": "sha256:3e8bf0556a549981a1509e33d8162db3a69bc339c90f4bfbb37dcde40e8ba17d",
+    "path": "lists/en/berlinale-best-screenplay.list.json"
+  },
+  {
+    "id": "berlinale-best-supporting-performance",
+    "title": "Berlinale — Silver Bear for Best Supporting Performance",
+    "description": "Complete historical winners of the Berlinale Silver Bear for Best Supporting Performance.",
+    "digest": "sha256:bb18cee3443e869380d06615fd9a52d5f0c5a531ec30d6e4d8366986c81b78c3",
+    "path": "lists/en/berlinale-best-supporting-performance.list.json"
+  },
+  {
+    "id": "berlinale-golden-bear",
+    "title": "Berlinale — Golden Bear for Best Film",
+    "description": "Complete historical winners of the Berlinale Golden Bear for Best Film.",
+    "digest": "sha256:4c533f986ac36b6fd24f4e6ab197d688fec93415a1b2a29eb68ccc21030fb171",
+    "path": "lists/en/berlinale-golden-bear.list.json"
+  },
+  {
+    "id": "berlinale-grand-jury-prize",
+    "title": "Berlinale — Silver Bear Grand Jury Prize",
+    "description": "Complete historical winners of the Berlinale Silver Bear Grand Jury Prize.",
+    "digest": "sha256:78031372eef3aac240c3a03ccc0114e20915cfbadd7fa5448980f9f85a8ef91e",
+    "path": "lists/en/berlinale-grand-jury-prize.list.json"
+  },
+  {
+    "id": "berlinale-jury-prize",
+    "title": "Berlinale — Silver Bear Jury Prize",
+    "description": "Complete historical winners of the Berlinale Silver Bear Jury Prize.",
+    "digest": "sha256:87de37e94484d7b157f86980688255c9eb92e1a49324e5e6972dd3a35415b327",
+    "path": "lists/en/berlinale-jury-prize.list.json"
+  },
+  {
+    "id": "berlinale-outstanding-artistic-contribution",
+    "title": "Berlinale — Silver Bear for Outstanding Artistic Contribution",
+    "description": "Complete historical winners of the Berlinale Silver Bear for Outstanding Artistic Contribution.",
+    "digest": "sha256:cf2303849af8d714d46c60c9fe6eec36a005292ea23b71e73c4c1a5b518ab008",
+    "path": "lists/en/berlinale-outstanding-artistic-contribution.list.json"
+  },
+  {
+    "id": "cannes-2017",
+    "title": "Cannes Film Festival 2017 Awards",
+    "description": "Official film-linked awards from the 70th Festival de Cannes, covering Competition, Short Films, Un Certain Regard, Caméra d'Or, Cinéfondation and CST technical prizes.",
+    "digest": "sha256:53d05260e9929ad0f6ca4d57634279739f25d20d807293b7bb7deec5702beded",
+    "path": "lists/en/cannes-2017.list.json"
+  },
+  {
+    "id": "cannes-2018",
+    "title": "Cannes Film Festival 2018 Awards",
+    "description": "Official film-linked awards from the 71th Festival de Cannes, covering Competition, Short Films, Un Certain Regard, Caméra d'Or, Cinéfondation and CST technical prizes.",
+    "digest": "sha256:29e85e845057690946d5c77a85054b81ae8f589da208ace16506affaf73efe67",
+    "path": "lists/en/cannes-2018.list.json"
+  },
+  {
+    "id": "cannes-2019",
+    "title": "Cannes Film Festival 2019 Awards",
+    "description": "Official film-linked awards from the 72th Festival de Cannes, covering Competition, Short Films, Un Certain Regard, Caméra d'Or, Cinéfondation and CST technical prizes.",
+    "digest": "sha256:9ea45fdfe85335de10ad2275574661e97535fe9bbb88dcc1ffb30194d9982ffa",
+    "path": "lists/en/cannes-2019.list.json"
+  },
+  {
+    "id": "cannes-2021",
+    "title": "Cannes Film Festival 2021 Awards",
+    "description": "Official film-linked awards from the 74th Festival de Cannes, covering Competition, Short Films, Un Certain Regard, Caméra d'Or, Cinéfondation and CST technical prizes.",
+    "digest": "sha256:be76e3624daf7aa11aa2083fdb677b3df0efed77447df3184d4223b55da71e0d",
+    "path": "lists/en/cannes-2021.list.json"
+  },
+  {
+    "id": "cannes-2022",
+    "title": "Cannes Film Festival 2022 Awards",
+    "description": "Official film-linked awards from the 75th Festival de Cannes, covering Competition, Short Films, Un Certain Regard, Caméra d'Or, La Cinef and CST technical prizes.",
+    "digest": "sha256:932f022833f168745d1058cae6afd27a2b59bd40373c187e91671d0eecb04252",
+    "path": "lists/en/cannes-2022.list.json"
+  },
+  {
+    "id": "cannes-2023",
+    "title": "Cannes Film Festival 2023 Awards",
+    "description": "Official film-linked awards from the 76th Festival de Cannes, covering Competition, Short Films, Un Certain Regard, Caméra d'Or, La Cinef and CST technical prizes.",
+    "digest": "sha256:3d30f92899c0520bd0ff5559a105b58162674b7ccb49ff28eb6848d91301ff78",
+    "path": "lists/en/cannes-2023.list.json"
+  },
+  {
+    "id": "cannes-2024",
+    "title": "Cannes Film Festival 2024 Awards",
+    "description": "Official film-linked awards from the 77th Festival de Cannes, covering Competition, Short Films, Un Certain Regard, Caméra d'Or, La Cinef and CST technical prizes.",
+    "digest": "sha256:398de2eeb5f91760f29d9ec788b01e01f7a8791f03235f20d88ade0918c27bbd",
+    "path": "lists/en/cannes-2024.list.json"
+  },
+  {
+    "id": "cannes-2025",
+    "title": "Cannes Film Festival 2025 Awards",
+    "description": "Official film-linked awards from the 78th Festival de Cannes, covering Competition, Short Films, Un Certain Regard, Caméra d'Or, La Cinef and CST technical prizes.",
+    "digest": "sha256:3439602d6fc3589d9d39f848136de7aad4dd83a98a47a744706094936af37099",
+    "path": "lists/en/cannes-2025.list.json"
+  },
+  {
+    "id": "cannes-2026",
+    "title": "Cannes Film Festival 2026 Awards",
+    "description": "Official film-linked awards from the 79th Festival de Cannes, covering Competition, Short Films, Un Certain Regard, Caméra d'Or, La Cinef and CST technical prizes.",
+    "digest": "sha256:bbba54ed596fc6b7fb6d1c04c9641ac589fa25fe926e2cec91bffbf639969ee0",
+    "path": "lists/en/cannes-2026.list.json",
+    "tags": [
+      "film-festival",
+      "cannes",
+      "2026"
+    ],
+    "featured": true
+  },
+  {
+    "id": "cannes-best-actor",
+    "title": "Cannes — Best Actor",
+    "description": "Films associated with Cannes Film Festival Best Actor winners.",
+    "digest": "sha256:3624bf8dec2edd26248098ef03e607dd915722fe530dae88981a7b7571b00929",
+    "path": "lists/en/cannes-best-actor.list.json"
+  },
+  {
+    "id": "cannes-best-actress",
+    "title": "Cannes — Best Actress",
+    "description": "Films associated with Cannes Film Festival Best Actress winners.",
+    "digest": "sha256:aac1280cebe7304d10b93cbc4bbdf04535b36323a22577e36ed866f39104ee4f",
+    "path": "lists/en/cannes-best-actress.list.json"
+  },
+  {
+    "id": "cannes-best-director",
+    "title": "Cannes — Best Director",
+    "description": "Films associated with Cannes Film Festival Best Director winners.",
+    "digest": "sha256:f006c4fa8315ff34951c327ea75669658a02badf498ea494db1d2ac9b64f7bdc",
+    "path": "lists/en/cannes-best-director.list.json"
+  },
+  {
+    "id": "cannes-best-screenplay",
+    "title": "Cannes — Best Screenplay",
+    "description": "Films associated with Cannes Film Festival Best Screenplay winners.",
+    "digest": "sha256:d3f56a908403d4503af6a3e50b7fd07cc94f5f5c7ded0210cf9f0ea9977ab06d",
+    "path": "lists/en/cannes-best-screenplay.list.json"
+  },
+  {
+    "id": "cannes-camera-dor",
+    "title": "Cannes — Caméra d'Or",
+    "description": "Cannes Film Festival Caméra d'Or winning films.",
+    "digest": "sha256:6f66a1db564967f798a53a37128c49b9f32b773d7802acc7d8f9a6b77a78981a",
+    "path": "lists/en/cannes-camera-dor.list.json"
+  },
+  {
+    "id": "cannes-grand-prix",
+    "title": "Cannes — Grand Prix",
+    "description": "Cannes Film Festival Grand Prix winning films.",
+    "digest": "sha256:f751694289180978f8f69ce4c9431b292d4b2cc4c820d7ec13d4c9247106dedf",
+    "path": "lists/en/cannes-grand-prix.list.json"
+  },
+  {
+    "id": "cannes-jury-prize",
+    "title": "Cannes — Jury Prize",
+    "description": "Cannes Film Festival Jury Prize winning films.",
+    "digest": "sha256:05114721a9b3ac36c9aa494825c51602a0c99d6ab44af26484e07a379a995386",
+    "path": "lists/en/cannes-jury-prize.list.json"
+  },
+  {
+    "id": "cannes-palme-dor",
+    "title": "Cannes — Palme d'Or",
+    "description": "Cannes Film Festival Palme d'Or and historical top-prize winning films.",
+    "digest": "sha256:55554e95679d72ea3b7522fbf9873d69a1de7ce22885bc8fbc84c7915024aaef",
+    "path": "lists/en/cannes-palme-dor.list.json"
+  },
+  {
+    "id": "cannes-un-certain-regard-prizel",
+    "title": "Cannes — Un Certain Regard Prize",
+    "description": "A list of films that have won the Un Certain Regard Prize at past Cannes Film Festivals. The award was established in 1998; no film was awarded in 2020 because the Cannes Film Festival was canceled; in 2011, two films shared the award.",
+    "digest": "sha256:7e494a7f886362d1a0dbb8f78ec707201ab28aa204665149e783edfba6b0d961",
+    "path": "lists/en/cannes-un-certain-regard-prizel.list.json"
+  },
+  {
+    "id": "hkfa-2017",
+    "title": "Hong Kong Film Awards 2017 Winners",
+    "description": "Winning films and filmmakers of the 2017 Hong Kong Film Awards.",
+    "digest": "sha256:ba9d508a586d2af6215f1294f51aa3117308cdae38b22aaa54a821c4da4955a5",
+    "path": "lists/en/hkfa-2017.list.json"
+  },
+  {
+    "id": "hkfa-2018",
+    "title": "Hong Kong Film Awards 2018 Winners",
+    "description": "Winning films and filmmakers of the 2018 Hong Kong Film Awards.",
+    "digest": "sha256:db2e0d903f8e517fd6990c737d76224a088d6399bfeca7f122dbae2cd32f9c2b",
+    "path": "lists/en/hkfa-2018.list.json"
+  },
+  {
+    "id": "hkfa-2019",
+    "title": "Hong Kong Film Awards 2019 Winners",
+    "description": "Winning films and filmmakers of the 2019 Hong Kong Film Awards.",
+    "digest": "sha256:2d253062c2cccf5c291ef0f30de556ff5e425be790cf1a5e4595c120d6fd58d3",
+    "path": "lists/en/hkfa-2019.list.json"
+  },
+  {
+    "id": "hkfa-2020",
+    "title": "Hong Kong Film Awards 2020 Winners",
+    "description": "Winning films and filmmakers of the 2020 Hong Kong Film Awards.",
+    "digest": "sha256:c80d4d2cbd741459e21ab8f14c92ab642448cc2c90165d5ea9842993d815a395",
+    "path": "lists/en/hkfa-2020.list.json"
+  },
+  {
+    "id": "hkfa-2022",
+    "title": "Hong Kong Film Awards 2022 Winners",
+    "description": "Winning films and filmmakers of the 2022 Hong Kong Film Awards.",
+    "digest": "sha256:74be0678aa12c6b9944670dc6858613c4c53c7a61e550b3c8ab3de9e546f1de2",
+    "path": "lists/en/hkfa-2022.list.json"
+  },
+  {
+    "id": "hkfa-2023",
+    "title": "Hong Kong Film Awards 2023 Winners",
+    "description": "Winning films and filmmakers of the 2023 Hong Kong Film Awards.",
+    "digest": "sha256:7055fb2b7455fee3eef1cd453e8cbda6037e3ce5d072f88a71f2389bb7ceef49",
+    "path": "lists/en/hkfa-2023.list.json"
+  },
+  {
+    "id": "hkfa-2024",
+    "title": "Hong Kong Film Awards 2024 Winners",
+    "description": "Winning films and filmmakers of the 2024 Hong Kong Film Awards.",
+    "digest": "sha256:154b702e07ee7f02e2e674094cacb8d6b512a116bb3898d80f7c0f95a2304db4",
+    "path": "lists/en/hkfa-2024.list.json"
+  },
+  {
+    "id": "hkfa-2025",
+    "title": "Hong Kong Film Awards 2025 Winners",
+    "description": "Winning films and filmmakers of the 2025 Hong Kong Film Awards.",
+    "digest": "sha256:64cbddfd039fe2ee67c519264ee7e48d6af29112da541335098b876dcb8c1824",
+    "path": "lists/en/hkfa-2025.list.json"
+  },
+  {
+    "id": "hkfa-2026",
+    "title": "Hong Kong Film Awards 2026 Winners",
+    "description": "Winning films and filmmakers of the 2026 Hong Kong Film Awards.",
+    "digest": "sha256:d1e3ce1f55981e49547a50bffdbe7696a82bfaf8ea15d7a8709fbabad5f09ca5",
+    "path": "lists/en/hkfa-2026.list.json"
+  },
+  {
+    "id": "hkfa-best-actor",
+    "title": "Hong Kong Film Awards — Best Actor",
+    "description": "Complete historical winners of the Hong Kong Film Award for Actor.",
+    "digest": "sha256:f5b3798fd4a0cb0abf574e60de684cc6a6daf44ee572e1299e3fb33d569a711b",
+    "path": "lists/en/hkfa-best-actor.list.json"
+  },
+  {
+    "id": "hkfa-best-actress",
+    "title": "Hong Kong Film Awards — Best Actress",
+    "description": "Complete historical winners of the Hong Kong Film Award for Actress.",
+    "digest": "sha256:746d32a69fb4b304e379dae64bfe77c6bf0c521351ab9e5530bb541e38b3fe9f",
+    "path": "lists/en/hkfa-best-actress.list.json"
+  },
+  {
+    "id": "hkfa-best-director",
+    "title": "Hong Kong Film Awards — Best Director",
+    "description": "Complete historical winners of the Hong Kong Film Award for Director.",
+    "digest": "sha256:8ade2e09456962048b8152106b23db27580f5b6af7c3de91514ea7fb60e8fad4",
+    "path": "lists/en/hkfa-best-director.list.json"
+  },
+  {
+    "id": "hkfa-best-film",
+    "title": "Hong Kong Film Awards — Best Film",
+    "description": "Complete historical winners of the Hong Kong Film Award for Film.",
+    "digest": "sha256:5f7ebea6843f00d09039da3045c45937c6bd0000b780475fca34aa2dff70ba20",
+    "path": "lists/en/hkfa-best-film.list.json"
+  },
+  {
+    "id": "hkfa-best-new-performer",
+    "title": "Hong Kong Film Awards — Best New Performer",
+    "description": "Complete historical winners of the Hong Kong Film Award for New Performer.",
+    "digest": "sha256:ba03978fe96b0f7cef95106190d23fffbc22150905059cbb8674742f0cae59fa",
+    "path": "lists/en/hkfa-best-new-performer.list.json"
+  },
+  {
+    "id": "hkfa-best-screenplay",
+    "title": "Hong Kong Film Awards — Best Screenplay",
+    "description": "Complete historical winners of the Hong Kong Film Award for Screenplay.",
+    "digest": "sha256:b61f4f644ca53cfe812b71af8c9f3e201234f9fa8ea37799fc8e0daac37c7695",
+    "path": "lists/en/hkfa-best-screenplay.list.json"
+  },
+  {
+    "id": "hkfa-best-supporting-actor",
+    "title": "Hong Kong Film Awards — Best Supporting Actor",
+    "description": "Complete historical winners of the Hong Kong Film Award for Supporting Actor.",
+    "digest": "sha256:333e445c362bf6da4a74be973e5d55701f6f1c8eee511c7f1a5d9929e29afe43",
+    "path": "lists/en/hkfa-best-supporting-actor.list.json"
+  },
+  {
+    "id": "hkfa-best-supporting-actress",
+    "title": "Hong Kong Film Awards — Best Supporting Actress",
+    "description": "Complete historical winners of the Hong Kong Film Award for Supporting Actress.",
+    "digest": "sha256:aeafd1137fa95a67f73a63e515530e38efbadf86b03793bd285e011367223b49",
+    "path": "lists/en/hkfa-best-supporting-actress.list.json"
+  },
+  {
+    "id": "venice-2016",
+    "title": "Venice Film Festival 2016 Awards",
+    "description": "Main Competition official award-winning films at the 2016 Venice International Film Festival.",
+    "digest": "sha256:078fa39b66447327172b39dbba308cf6730968db5dc0ad5092dacdb3b385a14f",
+    "path": "lists/en/venice-2016.list.json"
+  },
+  {
+    "id": "venice-2017",
+    "title": "Venice Film Festival 2017 Awards",
+    "description": "Main Competition official award-winning films at the 2017 Venice International Film Festival.",
+    "digest": "sha256:5cd4d48bdd89432f9e1ae735e2dedfc4af0fced2f34875393f95ec6685733dac",
+    "path": "lists/en/venice-2017.list.json"
+  },
+  {
+    "id": "venice-2018",
+    "title": "Venice Film Festival 2018 Awards",
+    "description": "Main Competition official award-winning films at the 2018 Venice International Film Festival.",
+    "digest": "sha256:c08b241e4650b2c5c89b70e6ec7392eb93d40115aee9d1310c4829e0f4ffbf3e",
+    "path": "lists/en/venice-2018.list.json"
+  },
+  {
+    "id": "venice-2019",
+    "title": "Venice Film Festival 2019 Awards",
+    "description": "Main Competition official award-winning films at the 2019 Venice International Film Festival.",
+    "digest": "sha256:e50cd4d0f7b2a326f0b2b4a502ed1e752bafe91e3281d2f0357dc28052bbdfb2",
+    "path": "lists/en/venice-2019.list.json"
+  },
+  {
+    "id": "venice-2020",
+    "title": "Venice Film Festival 2020 Awards",
+    "description": "Main Competition official award-winning films at the 2020 Venice International Film Festival.",
+    "digest": "sha256:7cbb62b069be0cad4ee795ef92bf9df197b9e843c1e0e6f22c1b2f575cb69a67",
+    "path": "lists/en/venice-2020.list.json"
+  },
+  {
+    "id": "venice-2021",
+    "title": "Venice Film Festival 2021 Awards",
+    "description": "Main Competition official award-winning films at the 2021 Venice International Film Festival.",
+    "digest": "sha256:d6dea1d2ee2ec13d3fbacfe33099ab582b8b2c0b469d9762625f0a32d63e5fe4",
+    "path": "lists/en/venice-2021.list.json"
+  },
+  {
+    "id": "venice-2022",
+    "title": "Venice Film Festival 2022 Awards",
+    "description": "Main Competition official award-winning films at the 2022 Venice International Film Festival.",
+    "digest": "sha256:fe15f592ef4e6bbd04826a0ad7be07dfa527ee8e537b2927f384a725ec3dcffa",
+    "path": "lists/en/venice-2022.list.json"
+  },
+  {
+    "id": "venice-2023",
+    "title": "Venice Film Festival 2023 Awards",
+    "description": "Main Competition official award-winning films at the 2023 Venice International Film Festival.",
+    "digest": "sha256:363c115cf0ebf35b89c6bd2c16dd7f835f1fc34d57cd8cf1fcc80f9f7ce83cf1",
+    "path": "lists/en/venice-2023.list.json"
+  },
+  {
+    "id": "venice-2024",
+    "title": "Venice Film Festival 2024 Awards",
+    "description": "Main Competition official award-winning films at the 2024 Venice International Film Festival.",
+    "digest": "sha256:66708f817117bd0e605e09a8912425e6740481222f7bb7cd22a918241e7582db",
+    "path": "lists/en/venice-2024.list.json"
+  },
+  {
+    "id": "venice-2025",
+    "title": "Venice Film Festival 2025 Awards",
+    "description": "Main Competition official award-winning films at the 2025 Venice International Film Festival.",
+    "digest": "sha256:b838d670262208263159d63a85250500fda303766d0cb1f7ff38c088fe603a3a",
+    "path": "lists/en/venice-2025.list.json"
+  },
+  {
+    "id": "venice-best-actor",
+    "title": "Venice — Volpi Cup for Best Actor",
+    "description": "Historical Venice International Film Festival Volpi Cup for Best Actor winners, including predecessor/equivalent forms where applicable.",
+    "digest": "sha256:9f8f6c083a2707e3417a72e243d33c0aaeb7eefc39b1d8b8ae1c4a25c6cdf3f8",
+    "path": "lists/en/venice-best-actor.list.json"
+  },
+  {
+    "id": "venice-best-actress",
+    "title": "Venice — Volpi Cup for Best Actress",
+    "description": "Historical Venice International Film Festival Volpi Cup for Best Actress winners, including predecessor/equivalent forms where applicable.",
+    "digest": "sha256:9369a8cd8348570c231a660fd5ef56a860a05310e4ea41e9f278ccab6f68128d",
+    "path": "lists/en/venice-best-actress.list.json"
+  },
+  {
+    "id": "venice-best-director",
+    "title": "Venice — Silver Lion – Best Director",
+    "description": "Historical Venice International Film Festival Silver Lion – Best Director winners, including predecessor/equivalent forms where applicable.",
+    "digest": "sha256:54c6ec627fdd632a3af06123e85b86d75530674849851056a233f830e1877136",
+    "path": "lists/en/venice-best-director.list.json"
+  },
+  {
+    "id": "venice-best-screenplay",
+    "title": "Venice — Best Screenplay",
+    "description": "Historical Venice International Film Festival Best Screenplay winners, including predecessor/equivalent forms where applicable.",
+    "digest": "sha256:acd718dc1b4fa77d59abb14ac5d2af00311c0efa5fb0f591c261cf2bb3c60d3b",
+    "path": "lists/en/venice-best-screenplay.list.json"
+  },
+  {
+    "id": "venice-golden-lion",
+    "title": "Venice — Golden Lion",
+    "description": "Historical Venice International Film Festival Golden Lion winners, including predecessor/equivalent forms where applicable.",
+    "digest": "sha256:c9ed29a31b5206a522210624a760e7eb378109ed25441c15d9cfac467c3296cd",
+    "path": "lists/en/venice-golden-lion.list.json"
+  },
+  {
+    "id": "venice-grand-jury-prize",
+    "title": "Venice — Silver Lion – Grand Jury Prize",
+    "description": "Historical Venice International Film Festival Silver Lion – Grand Jury Prize winners, including predecessor/equivalent forms where applicable.",
+    "digest": "sha256:796b0c465c497fb175d90c841bfb0f27c4f544aa753d38e8e527673740ed19e1",
+    "path": "lists/en/venice-grand-jury-prize.list.json"
+  },
+  {
+    "id": "venice-mastroianni",
+    "title": "Venice — Marcello Mastroianni Award",
+    "description": "Historical Venice International Film Festival Marcello Mastroianni Award winners, including predecessor/equivalent forms where applicable.",
+    "digest": "sha256:cdd91a6ceed607fab98e3b53d2d61ccddcdbc6db9a4b896a5e494f75a6de4421",
+    "path": "lists/en/venice-mastroianni.list.json"
+  },
+  {
+    "id": "venice-special-jury-prize",
+    "title": "Venice — Special Jury Prize",
+    "description": "Historical Venice International Film Festival Special Jury Prize winners, including predecessor/equivalent forms where applicable.",
+    "digest": "sha256:3dfe4a6174dfdf267fe21361f7ec2626248e2044d893ee2de218cd38a6245962",
+    "path": "lists/en/venice-special-jury-prize.list.json"
+  }
+]
