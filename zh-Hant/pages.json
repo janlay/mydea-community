@@ -1,0 +1,222 @@
+[
+  {
+    "title": "百想藝術大賞十年",
+    "description": "2017–2026 年百想藝術大賞電影與電視主要獎項獲獎作品及獲獎者。",
+    "digest": "sha256:a1c8756eff7eba3f799b58732203de956aba92b341784c1717dd520027c08690",
+    "path": "zh-Hant/baeksang-10-years.page.json",
+    "collection": "baeksang",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "百想藝術大賞獎項",
+    "description": "2017–2026 年百想藝術大賞電影與電視主要獎項歷屆獲獎記錄。",
+    "digest": "sha256:07f6cdd1c0c6ecb62603d02fcd3921bd85e23acc32f64803f6e0105762cd802e",
+    "path": "zh-Hant/baeksang-prizes.page.json",
+    "collection": "baeksang",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "柏林十年",
+    "description": "柏林影展最近十屆（2017–2026）主競賽獲獎名單。",
+    "digest": "sha256:0a5a40c46994d76a4327dd441ff20441b257fa17bb0d5a415efb9ec20d83e79e",
+    "path": "zh-Hant/berlinale-10-years.page.json",
+    "collection": "berlinale",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "柏林獎項",
+    "description": "柏林影展各獎項完整獲獎名單。1970 年未頒獎。",
+    "digest": "sha256:7d541f435ef3b6a611b0a31b8e52e31c8c2793aeaa744884382ebc53c78a89e0",
+    "path": "zh-Hant/berlinale-prizes.page.json",
+    "collection": "berlinale",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "釜山國際影展十年",
+    "description": "釜山國際影展最近十屆（2016–2025）核心競賽獎得獎影片。",
+    "digest": "sha256:965a2a8f720d8448682a4d55d5efcc44b4778d08d4a6108886a403367aed0646",
+    "path": "zh-Hant/biff-10-years.page.json",
+    "collection": "biff",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "釜山國際影展獎項",
+    "description": "釜山國際影展核心競賽獎項及其歷屆得獎影片。",
+    "digest": "sha256:d53a117c732b9ad6b72ae928f09a69cf9cbb8797da0b9960f70227a004c84e14",
+    "path": "zh-Hant/biff-prizes.page.json",
+    "collection": "biff",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "青龍電影獎十年",
+    "description": "青龍電影獎最近十年（2016–2025）獲獎名單。",
+    "digest": "sha256:93becb2bdbccf4e59d1a966e98a8f8dbca1fd756a18ee7ed35a50a46397d4ada",
+    "path": "zh-Hant/blue-dragon-10-years.page.json",
+    "collection": "blue-dragon",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "青龍電影獎獎項",
+    "description": "青龍電影獎各獎項完整獲獎名單。",
+    "digest": "sha256:0549f8337cdd81247feabe454e5d6ad4c73a4669641a544193a78cf75d81b835",
+    "path": "zh-Hant/blue-dragon-awards.page.json",
+    "collection": "blue-dragon",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "坎城十年",
+    "description": "坎城影展近十年獲獎名單。2020 年因疫情取消，故無該年。",
+    "digest": "sha256:63483f948baac71a583f4c0ed76cb83b4eae1b9fffc2ecc800f019c7de9700a8",
+    "path": "zh-Hant/cannes-10-years.page.json",
+    "collection": "cannes",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "坎城獎項",
+    "description": "坎城影展各獎項完整獲獎名單。2020 年因疫情取消，無該年記錄。",
+    "digest": "sha256:fe7ba158bfef8fa209cc48bb04cce8e5d1e8fb7a35c63679351ea29d5bfab40b",
+    "path": "zh-Hant/cannes-prizes.page.json",
+    "collection": "cannes",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "黃金時段艾美獎十年",
+    "description": "黃金時段艾美獎最近十屆主要獎項獲獎作品與表演。",
+    "digest": "sha256:098702661e104c2b87675268a197b22ce270cc6eb078b1b489780950f828114f",
+    "path": "zh-Hant/emmys-10-years.page.json",
+    "collection": "emmys",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "黃金時段艾美獎獎項",
+    "description": "黃金時段艾美獎主要獎項按獎項整理的獲獎記錄。",
+    "digest": "sha256:9eb84ab71dd802d51c364b8ae9a21f2a6e2cc1b431a1df59fabc8ea53e5ac5d4",
+    "path": "zh-Hant/emmys-prizes.page.json",
+    "collection": "emmys",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "金球獎十年",
+    "description": "金球獎近十屆主要電影與電視作品類獲獎資料。",
+    "digest": "sha256:d501a8ccf3eca16d23d286cc5189b3610e647616d245d92299d794f169f0f857",
+    "path": "zh-Hant/golden-globes-10-years.page.json",
+    "collection": "golden-globes",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "金球獎獎項",
+    "description": "金球獎主要電影與電視作品類獎項獲獎資料。",
+    "digest": "sha256:fcf85e3c1679f14864d6bf97806f3acef59c16490c22dd5bd294f73442f1549e",
+    "path": "zh-Hant/golden-globes-prizes.page.json",
+    "collection": "golden-globes",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "奧斯卡十年",
+    "description": "奧斯卡最近十屆核心電影獎項得獎影片與得獎者。",
+    "digest": "sha256:991f7cfa3740ee4ddbead3ecdd397e5ba0566774535c19e5ff51331d8a1b56bb",
+    "path": "zh-Hant/oscars-10-years.page.json",
+    "collection": "oscars",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "奧斯卡獎項",
+    "description": "奧斯卡核心電影獎項最近十屆得獎紀錄。",
+    "digest": "sha256:6730980459d136c1444fef9c803cbd847e8d5d2d2fc5a7186ba0ca0dad34077e",
+    "path": "zh-Hant/oscars-prizes.page.json",
+    "collection": "oscars",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "多倫多十年",
+    "description": "多倫多國際影展最近十屆已完整頒發的主要影片獎項（2016–2025）。",
+    "digest": "sha256:4944e9202f98b6fdca494875e38f93a6ee0d6c11a4382489289b02d7876c4669",
+    "path": "zh-Hant/tiff-10-years.page.json",
+    "collection": "tiff",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "多倫多獎項",
+    "description": "多倫多國際影展主要影片獎項的歷屆獲獎紀錄。",
+    "digest": "sha256:118f8b72b9ab893f406c3d9267efa303bebb103cfa1b45ff92060109f7801abc",
+    "path": "zh-Hant/tiff-prizes.page.json",
+    "collection": "tiff",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "威尼斯十年",
+    "description": "威尼斯影展最近十屆（2016–2025）主競賽獲獎名單。",
+    "digest": "sha256:22d51da7b479e7b7ef0ba59319822c2a118f29d5504d3ee773e94ecd45168af1",
+    "path": "zh-Hant/venice-10-years.page.json",
+    "collection": "venice",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "威尼斯獎項",
+    "description": "威尼斯影展各獎項完整獲獎名單。1969–1979 年停頒競賽獎項。",
+    "digest": "sha256:f710860cba39f29144c591200fc6310f9a8e1cab7e081d49e3c2eb5feef44bc6",
+    "path": "zh-Hant/venice-prizes.page.json",
+    "collection": "venice",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  }
+]

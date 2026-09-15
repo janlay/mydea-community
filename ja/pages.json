@@ -1,0 +1,178 @@
+[
+  {
+    "title": "百想芸術大賞 10年",
+    "description": "2017年から2026年までの百想芸術大賞における主要な映画・テレビ部門の受賞作品。",
+    "digest": "sha256:bce2da3cb1f5de3496f8e69d6d3a7c55be6b90d0906c54fd29ff21ddac0a8c41",
+    "path": "ja/baeksang-10-years.page.json",
+    "collection": "baeksang",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "百想芸術大賞 受賞部門",
+    "description": "百想芸術大賞の主要な映画・テレビ部門を受賞部門別にまとめたページ。",
+    "digest": "sha256:92c846408fa62b152cc36893194f4c4dee6d6d3ee8061737a333a7525300efc4",
+    "path": "ja/baeksang-prizes.page.json",
+    "collection": "baeksang",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "釜山国際映画祭 10年",
+    "description": "釜山国際映画祭の直近10回（2016–2025）の主要コンペティション受賞作品。",
+    "digest": "sha256:8f6ac9d83f98ec579b5122c2b59bdd9c2467cb4b97b953524662c94d11193ab0",
+    "path": "ja/biff-10-years.page.json",
+    "collection": "biff",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "釜山国際映画祭 賞",
+    "description": "釜山国際映画祭の主要コンペティション賞と歴代受賞作品。",
+    "digest": "sha256:aeb260a8ff6e3d12b31c7c314b7a54fe3ea15366a330c6d3aea683407a719aaa",
+    "path": "ja/biff-prizes.page.json",
+    "collection": "biff",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "青龍映画賞 — 直近10年",
+    "description": "青龍映画賞の直近10年の受賞作。",
+    "digest": "sha256:218794986a1dc9d97e20d001fcf4c3a6716ecb0cb5c5c069443c17a21418983b",
+    "path": "ja/blue-dragon-10-years.page.json",
+    "collection": "blue-dragon",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "青龍映画賞 — 部門別",
+    "description": "青龍映画賞の各部門の全受賞記録。",
+    "digest": "sha256:e35d417342a046e4c54146f7dda5a3e227ef05c1c16bc3ba6aac1bcaeee34506",
+    "path": "ja/blue-dragon-awards.page.json",
+    "collection": "blue-dragon",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "プライムタイム・エミー賞 10年",
+    "description": "直近10回のプライムタイム・エミー賞主要部門の受賞作・受賞者。",
+    "digest": "sha256:446962e3a0fc9323603a93b42d64e999c17fb943b6bb856879fd73507feb2d66",
+    "path": "ja/emmys-10-years.page.json",
+    "collection": "emmys",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "プライムタイム・エミー賞 部門別",
+    "description": "プライムタイム・エミー賞の主要部門別受賞記録。",
+    "digest": "sha256:4aa512746e2325e190b349c7092e109cfafe3e4d76d4b75867fa67db407c8978",
+    "path": "ja/emmys-prizes.page.json",
+    "collection": "emmys",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "ゴールデングローブ賞 10年",
+    "description": "ゴールデングローブ賞の直近10回における主要な映画・テレビ作品部門の受賞データ。",
+    "digest": "sha256:85eb9977ff61a9bdc24e6cfee363fdd3d8d80cd639a8aa7bb1b99280e802bad1",
+    "path": "ja/golden-globes-10-years.page.json",
+    "collection": "golden-globes",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "ゴールデングローブ賞 部門別",
+    "description": "ゴールデングローブ賞の主要な映画・テレビ作品部門の受賞データ。",
+    "digest": "sha256:641618693218db6ffdd1f70350c65a55983c231f3c7310d795bd95a9a2f6b886",
+    "path": "ja/golden-globes-prizes.page.json",
+    "collection": "golden-globes",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "香港電影金像奨 — 直近10年",
+    "description": "香港電影金像奨の直近10年の受賞作。2021年は2022年に統合され、開催なし。",
+    "digest": "sha256:5b4d00716bf0e44a1a533b29df3cd54cbc3bceaff05e88e563601c5235cb1195",
+    "path": "ja/hkfa-10-years.page.json",
+    "collection": "hkfa",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "香港電影金像奨 — 部門別",
+    "description": "香港電影金像奨の各部門の全受賞記録。2021年は2022年に統合され、開催なし。",
+    "digest": "sha256:3f0734a646414632e3c6994eff74acbda288ad878ac1ec8fc54a38d99e22921e",
+    "path": "ja/hkfa-prizes.page.json",
+    "collection": "hkfa",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "アカデミー賞 10年",
+    "description": "直近10回のアカデミー賞主要映画部門の受賞作品と受賞者。",
+    "digest": "sha256:c1046be60740ae70759e1c3878ba229a545eee6dc7725ef462297a1cb6e36350",
+    "path": "ja/oscars-10-years.page.json",
+    "collection": "oscars",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "アカデミー賞 部門別",
+    "description": "アカデミー賞主要映画部門の直近10回の受賞記録。",
+    "digest": "sha256:4992256ab52f6ef37cedca18fd3cf6f032c5c6726e34a083a96dc5fc022f94db",
+    "path": "ja/oscars-prizes.page.json",
+    "collection": "oscars",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "トロント10年",
+    "description": "トロント国際映画祭の直近10回の完結した映画賞（2016–2025）。",
+    "digest": "sha256:49dad20c7706c1590ac55cc5e63edf3d5b193864825cb0d81e05d9e9774a53d6",
+    "path": "ja/tiff-10-years.page.json",
+    "collection": "tiff",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "トロント映画祭の賞",
+    "description": "トロント国際映画祭の主要な映画賞の歴代受賞作。",
+    "digest": "sha256:d9b12cd504895f3541e2ed895387830db8b82711cebd781b440522ae734c85b5",
+    "path": "ja/tiff-prizes.page.json",
+    "collection": "tiff",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  }
+]

@@ -1,0 +1,1409 @@
+[
+  {
+    "title": "Baeksang Arts Awards — 2017",
+    "description": "Major film and broadcast winners at the 2017 Baeksang Arts Awards.",
+    "digest": "sha256:465846f0ecb746a0364c5987df06e49d6bdf78cbd991a7a39eee15917f02a820",
+    "path": "en/baeksang-2017.section.json",
+    "collection": "baeksang"
+  },
+  {
+    "title": "Baeksang Arts Awards — 2018",
+    "description": "Major film and broadcast winners at the 2018 Baeksang Arts Awards.",
+    "digest": "sha256:666f562569dfd0a099017e5db5d1d203f3abc5f550bf7750b9d9710ae3894b79",
+    "path": "en/baeksang-2018.section.json",
+    "collection": "baeksang"
+  },
+  {
+    "title": "Baeksang Arts Awards — 2019",
+    "description": "Major film and broadcast winners at the 2019 Baeksang Arts Awards.",
+    "digest": "sha256:3d8066b1f9e7eece84b59aa0d5b3544793144da3c966b7ea187f2497d394063e",
+    "path": "en/baeksang-2019.section.json",
+    "collection": "baeksang"
+  },
+  {
+    "title": "Baeksang Arts Awards — 2020",
+    "description": "Major film and broadcast winners at the 2020 Baeksang Arts Awards.",
+    "digest": "sha256:47dd1c8eb85065a399228e96916027b216b7d4801a4416d6b0baf743ef0d5485",
+    "path": "en/baeksang-2020.section.json",
+    "collection": "baeksang"
+  },
+  {
+    "title": "Baeksang Arts Awards — 2021",
+    "description": "Major film and broadcast winners at the 2021 Baeksang Arts Awards.",
+    "digest": "sha256:bf5c64470f1c6676a4954990baa244abfbbcc776f43329b149b66546341872eb",
+    "path": "en/baeksang-2021.section.json",
+    "collection": "baeksang"
+  },
+  {
+    "title": "Baeksang Arts Awards — 2022",
+    "description": "Major film and broadcast winners at the 2022 Baeksang Arts Awards.",
+    "digest": "sha256:0de0b04fea08f78c7f19f8c5d0d99765d2c5d60e9761dd078229570a58a73ed3",
+    "path": "en/baeksang-2022.section.json",
+    "collection": "baeksang"
+  },
+  {
+    "title": "Baeksang Arts Awards — 2023",
+    "description": "Major film and broadcast winners at the 2023 Baeksang Arts Awards.",
+    "digest": "sha256:7746a4238ef0ca2186c23ccba4a4b31df257ee1a48ec4349676152b6ae8a24b1",
+    "path": "en/baeksang-2023.section.json",
+    "collection": "baeksang"
+  },
+  {
+    "title": "Baeksang Arts Awards — 2024",
+    "description": "Major film and broadcast winners at the 2024 Baeksang Arts Awards.",
+    "digest": "sha256:45e42d30b8446bc6a2c7115e14092eeda946cd58b2cfeb981a40cde7a5253839",
+    "path": "en/baeksang-2024.section.json",
+    "collection": "baeksang"
+  },
+  {
+    "title": "Baeksang Arts Awards — 2025",
+    "description": "Major film and broadcast winners at the 2025 Baeksang Arts Awards.",
+    "digest": "sha256:4c42adfb8e74d752ba447d4756db7b4f566ec1ab0fab6378488478723a202829",
+    "path": "en/baeksang-2025.section.json",
+    "collection": "baeksang"
+  },
+  {
+    "title": "Baeksang Arts Awards — 2026",
+    "description": "Major film and broadcast winners at the 2026 Baeksang Arts Awards.",
+    "digest": "sha256:c89adb008ffc5590e0525b202526c3aa94cd60ac8352a211e6d18bfb1c8af92d",
+    "path": "en/baeksang-2026.section.json",
+    "collection": "baeksang"
+  },
+  {
+    "title": "Baeksang Arts Awards — Best Actor Film",
+    "description": "Baeksang Arts Awards Best Actor Film winners from 2017 to 2026.",
+    "digest": "sha256:6096b6878522b13b5b151298cd2685992be62c88ed08dd769aecaa3d4054437f",
+    "path": "en/baeksang-film-actor.section.json",
+    "collection": "baeksang"
+  },
+  {
+    "title": "Baeksang Arts Awards — Best Actress Film",
+    "description": "Baeksang Arts Awards Best Actress Film winners from 2017 to 2026.",
+    "digest": "sha256:3972a6432100fa6879177202a11b899df781b853ceef7da72a2a77970c1cedf8",
+    "path": "en/baeksang-film-actress.section.json",
+    "collection": "baeksang"
+  },
+  {
+    "title": "Baeksang Arts Awards — Best Film",
+    "description": "Baeksang Arts Awards Best Film winners from 2017 to 2026.",
+    "digest": "sha256:6712fbfc9585a531f48ae2f68354ade6d6d3e5dd195fd8e0367da90795778c8b",
+    "path": "en/baeksang-film-best.section.json",
+    "collection": "baeksang"
+  },
+  {
+    "title": "Baeksang Arts Awards — Best Director Film",
+    "description": "Baeksang Arts Awards Best Director Film winners from 2017 to 2026.",
+    "digest": "sha256:e7615cace334a9c52b2b66eaa4042b88247ed9c0ebef5e9bf20c0b8fc8c3b779",
+    "path": "en/baeksang-film-director.section.json",
+    "collection": "baeksang"
+  },
+  {
+    "title": "Baeksang Arts Awards — Film Grand Prize",
+    "description": "Baeksang Arts Awards Film Grand Prize winners from 2017 to 2026.",
+    "digest": "sha256:e64adfb103dc6300a522a802e4835e46b49f08a156119a3b8c4b5efb9e3ee311",
+    "path": "en/baeksang-film-grand.section.json",
+    "collection": "baeksang"
+  },
+  {
+    "title": "Baeksang Arts Awards — Best Actor Broadcast",
+    "description": "Baeksang Arts Awards Best Actor Broadcast winners from 2017 to 2026.",
+    "digest": "sha256:0dd6df15d40c15b2e3281eb7dbc56ef5819c7f6409b80817d642ad1e60aba18e",
+    "path": "en/baeksang-tv-actor.section.json",
+    "collection": "baeksang"
+  },
+  {
+    "title": "Baeksang Arts Awards — Best Actress Broadcast",
+    "description": "Baeksang Arts Awards Best Actress Broadcast winners from 2017 to 2026.",
+    "digest": "sha256:a8df8c6e1dce3d5cd5674244043119e67584e4b045e8f7b9b0c13eb80f5f3549",
+    "path": "en/baeksang-tv-actress.section.json",
+    "collection": "baeksang"
+  },
+  {
+    "title": "Baeksang Arts Awards — Best Drama",
+    "description": "Baeksang Arts Awards Best Drama winners from 2017 to 2026.",
+    "digest": "sha256:2eaf57bdb539a6230e11ef45af8fceaaddfbac000f097a656cda99a2323638b2",
+    "path": "en/baeksang-tv-best.section.json",
+    "collection": "baeksang"
+  },
+  {
+    "title": "Baeksang Arts Awards — Best Director Broadcast",
+    "description": "Baeksang Arts Awards Best Director Broadcast winners from 2017 to 2026.",
+    "digest": "sha256:2de7f5c9053f26fdd97c92952c8f8eb44f2a13d97c5e6370c94903923ad6cdb0",
+    "path": "en/baeksang-tv-director.section.json",
+    "collection": "baeksang"
+  },
+  {
+    "title": "Baeksang Arts Awards — Broadcast Grand Prize",
+    "description": "Baeksang Arts Awards Broadcast Grand Prize winners from 2017 to 2026.",
+    "digest": "sha256:627562d8c613b1a0647030f1f05f634b47706b9e9304f42a6f0bea13f0b301a1",
+    "path": "en/baeksang-tv-grand.section.json",
+    "collection": "baeksang"
+  },
+  {
+    "title": "Berlinale 2017 Awards",
+    "description": "Major Competition International Jury award winners at the 2017 Berlin International Film Festival.",
+    "digest": "sha256:fdb64a3f42d1bda1e610da6092dbebf2d9db49bbdc5e29c48a93c8c0a52ed8b4",
+    "path": "en/berlinale-2017.section.json",
+    "collection": "berlinale"
+  },
+  {
+    "title": "Berlinale 2018 Awards",
+    "description": "Major Competition International Jury award winners at the 2018 Berlin International Film Festival.",
+    "digest": "sha256:7c6eb84c42c07ed026db8aa653cf3684b12907d9b99bdf07f7772130afb7999b",
+    "path": "en/berlinale-2018.section.json",
+    "collection": "berlinale"
+  },
+  {
+    "title": "Berlinale 2019 Awards",
+    "description": "Major Competition International Jury award winners at the 2019 Berlin International Film Festival.",
+    "digest": "sha256:7ac79682eea12947fd3a181503c64678c8096ec7fb9e6727dd6ca60acec67fe2",
+    "path": "en/berlinale-2019.section.json",
+    "collection": "berlinale"
+  },
+  {
+    "title": "Berlinale 2020 Awards",
+    "description": "Major Competition International Jury award winners at the 2020 Berlin International Film Festival.",
+    "digest": "sha256:49cdce00e67101eb7c599f5049532d761b62d9d01a49bfcc28132318ac1c803c",
+    "path": "en/berlinale-2020.section.json",
+    "collection": "berlinale"
+  },
+  {
+    "title": "Berlinale 2021 Awards",
+    "description": "Major Competition International Jury award winners at the 2021 Berlin International Film Festival.",
+    "digest": "sha256:abd8a5f7e2f12e7d6446ef223a1ebdfe6550af3e613cedbaf115c1693aab885a",
+    "path": "en/berlinale-2021.section.json",
+    "collection": "berlinale"
+  },
+  {
+    "title": "Berlinale 2022 Awards",
+    "description": "Major Competition International Jury award winners at the 2022 Berlin International Film Festival.",
+    "digest": "sha256:56cfe2ba915561f1bd4dd0cd28e916ce1bcb95fee038662ba9ad0422eb5a887d",
+    "path": "en/berlinale-2022.section.json",
+    "collection": "berlinale"
+  },
+  {
+    "title": "Berlinale 2023 Awards",
+    "description": "Major Competition International Jury award winners at the 2023 Berlin International Film Festival.",
+    "digest": "sha256:744bd302a045515b8f5a503cfd6f97627cd377c2e051ada4180320f7eb5ff21d",
+    "path": "en/berlinale-2023.section.json",
+    "collection": "berlinale"
+  },
+  {
+    "title": "Berlinale 2024 Awards",
+    "description": "Major Competition International Jury award winners at the 2024 Berlin International Film Festival.",
+    "digest": "sha256:16743c19215bfecf8fe1591ecc7826c2a2934c212df2a6605341fc6635b8f7a7",
+    "path": "en/berlinale-2024.section.json",
+    "collection": "berlinale"
+  },
+  {
+    "title": "Berlinale 2025 Awards",
+    "description": "Major Competition International Jury award winners at the 2025 Berlin International Film Festival.",
+    "digest": "sha256:83bcbf8c8f28175cd12dc60c46e2315b9e0fb8baee70d582163da33905f9031d",
+    "path": "en/berlinale-2025.section.json",
+    "collection": "berlinale"
+  },
+  {
+    "title": "Berlinale 2026 Awards",
+    "description": "Major Competition International Jury award winners at the 2026 Berlin International Film Festival.",
+    "digest": "sha256:00bbb58f0e591d383c547dc21b0889449f8c38fc79be473d8f6b516b79039ee1",
+    "path": "en/berlinale-2026.section.json",
+    "collection": "berlinale"
+  },
+  {
+    "title": "Berlinale — Silver Bear – 70th Berlinale",
+    "description": "Complete historical winners of the Berlinale Silver Bear – 70th Berlinale.",
+    "digest": "sha256:a9ca44d3ea0e691a30471f728cb247589b1909d76516b1303cec11b69c57a734",
+    "path": "en/berlinale-70th-silver-bear.section.json",
+    "collection": "berlinale"
+  },
+  {
+    "title": "Berlinale — Alfred Bauer Prize (Historical)",
+    "description": "Complete historical winners of the Berlinale Alfred Bauer Prize (Historical).",
+    "digest": "sha256:4b3a3f836ca1de03cd3d565955f5ecce0ff9e9dd2a6d1597a73970862217a2e0",
+    "path": "en/berlinale-alfred-bauer-prize.section.json",
+    "collection": "berlinale"
+  },
+  {
+    "title": "Berlinale — Silver Bear for Best Actor (Historical)",
+    "description": "Complete historical winners of the Berlinale Silver Bear for Best Actor (Historical).",
+    "digest": "sha256:3f250e34db97753963ade869b88b43af3956eda6b11adc79d47110ce6cf9fef0",
+    "path": "en/berlinale-best-actor.section.json",
+    "collection": "berlinale"
+  },
+  {
+    "title": "Berlinale — Silver Bear for Best Actress (Historical)",
+    "description": "Complete historical winners of the Berlinale Silver Bear for Best Actress (Historical).",
+    "digest": "sha256:a0dbdcf128ffd60e8cfb22f22060f368bcde535cab3b013c8f775ab66af79c38",
+    "path": "en/berlinale-best-actress.section.json",
+    "collection": "berlinale"
+  },
+  {
+    "title": "Berlinale — Silver Bear for Best Director",
+    "description": "Complete historical winners of the Berlinale Silver Bear for Best Director.",
+    "digest": "sha256:3785cb4857ca72a9d29dcfecec56124472cec535428624256aaf4d8a87e9bb15",
+    "path": "en/berlinale-best-director.section.json",
+    "collection": "berlinale"
+  },
+  {
+    "title": "Berlinale — Silver Bear for Best Leading Performance",
+    "description": "Complete historical winners of the Berlinale Silver Bear for Best Leading Performance.",
+    "digest": "sha256:67c2e25b4013b76a6d852e44565c853cf1da200e16f828888ac578cc5846126b",
+    "path": "en/berlinale-best-leading-performance.section.json",
+    "collection": "berlinale"
+  },
+  {
+    "title": "Berlinale — Silver Bear for Best Screenplay",
+    "description": "Complete historical winners of the Berlinale Silver Bear for Best Screenplay.",
+    "digest": "sha256:3624d74aaee637fd89332b2301dc1e6b53a467e5046db9841f38dfaeddcccef0",
+    "path": "en/berlinale-best-screenplay.section.json",
+    "collection": "berlinale"
+  },
+  {
+    "title": "Berlinale — Silver Bear for Best Supporting Performance",
+    "description": "Complete historical winners of the Berlinale Silver Bear for Best Supporting Performance.",
+    "digest": "sha256:5b3cef16f068a2867010e16382ede655b428a0ba98d45f8e3adb15ea9d607c3e",
+    "path": "en/berlinale-best-supporting-performance.section.json",
+    "collection": "berlinale"
+  },
+  {
+    "title": "Berlinale — Golden Bear for Best Film",
+    "description": "Complete historical winners of the Berlinale Golden Bear for Best Film.",
+    "digest": "sha256:414a9e065bc1d58968a985ae6644cdcabc22b2d8acbacbfcf0149f413a460e7d",
+    "path": "en/berlinale-golden-bear.section.json",
+    "collection": "berlinale"
+  },
+  {
+    "title": "Berlinale — Silver Bear Grand Jury Prize",
+    "description": "Complete historical winners of the Berlinale Silver Bear Grand Jury Prize.",
+    "digest": "sha256:72a943f5f9e6a0520681013f7814e8ac959129e8b7ce6d488b1f51e2220ad50c",
+    "path": "en/berlinale-grand-jury-prize.section.json",
+    "collection": "berlinale"
+  },
+  {
+    "title": "Berlinale — Silver Bear Jury Prize",
+    "description": "Complete historical winners of the Berlinale Silver Bear Jury Prize.",
+    "digest": "sha256:d7c12c09e7de73d501dd03594516e3a0372459980c5249c9f34f2e681433d6c6",
+    "path": "en/berlinale-jury-prize.section.json",
+    "collection": "berlinale"
+  },
+  {
+    "title": "Berlinale — Silver Bear for Outstanding Artistic Contribution",
+    "description": "Complete historical winners of the Berlinale Silver Bear for Outstanding Artistic Contribution.",
+    "digest": "sha256:0b2c13bfca8a2ac3fae1a1d6f288da4428778392562500b81772329a4f1a1ebe",
+    "path": "en/berlinale-outstanding-artistic-contribution.section.json",
+    "collection": "berlinale"
+  },
+  {
+    "title": "Busan International Film Festival 2016 Awards",
+    "description": "Core competition winners at the 2016 Busan International Film Festival.",
+    "digest": "sha256:0a009830aa97c0c79c7eaee656737bedd319b6418f420363feb9a44e2d29da8c",
+    "path": "en/biff-2016.section.json",
+    "collection": "biff"
+  },
+  {
+    "title": "Busan International Film Festival 2017 Awards",
+    "description": "Core competition winners at the 2017 Busan International Film Festival.",
+    "digest": "sha256:33540580998c1a269502ac11e31aa06f92bb568f1f1a8bf8d58e6d36856ffbb3",
+    "path": "en/biff-2017.section.json",
+    "collection": "biff"
+  },
+  {
+    "title": "Busan International Film Festival 2018 Awards",
+    "description": "Core competition winners at the 2018 Busan International Film Festival.",
+    "digest": "sha256:02aadda4f897e02a1e2af5a8b8a42e01a226815bd8178fd47946a4161bf1f2de",
+    "path": "en/biff-2018.section.json",
+    "collection": "biff"
+  },
+  {
+    "title": "Busan International Film Festival 2019 Awards",
+    "description": "Core competition winners at the 2019 Busan International Film Festival.",
+    "digest": "sha256:28de5278b827a029c8845aa2fde82ba5c1323bec99264de04aabd78226f71b68",
+    "path": "en/biff-2019.section.json",
+    "collection": "biff"
+  },
+  {
+    "title": "Busan International Film Festival 2020 Awards",
+    "description": "Core competition winners at the 2020 Busan International Film Festival.",
+    "digest": "sha256:643d41efe666645a1103c3b3f2c7ef0afdd2a2c4ad8a2335f968a80f6d4b9ded",
+    "path": "en/biff-2020.section.json",
+    "collection": "biff"
+  },
+  {
+    "title": "Busan International Film Festival 2021 Awards",
+    "description": "Core competition winners at the 2021 Busan International Film Festival.",
+    "digest": "sha256:0cb46c7236d2afcf658917548763f7bab3be04bfc207b81794ffce974e65735c",
+    "path": "en/biff-2021.section.json",
+    "collection": "biff"
+  },
+  {
+    "title": "Busan International Film Festival 2022 Awards",
+    "description": "Core competition winners at the 2022 Busan International Film Festival.",
+    "digest": "sha256:8e66971ce2f3a725abcc182000329f4ee34e9a1ca45e357f86db16c6437a84d6",
+    "path": "en/biff-2022.section.json",
+    "collection": "biff"
+  },
+  {
+    "title": "Busan International Film Festival 2023 Awards",
+    "description": "Core competition winners at the 2023 Busan International Film Festival.",
+    "digest": "sha256:4a8c55b93761a66483026ea71ba1ae92749b7baf5e29c50a3a8106e3f21b5a45",
+    "path": "en/biff-2023.section.json",
+    "collection": "biff"
+  },
+  {
+    "title": "Busan International Film Festival 2024 Awards",
+    "description": "Core competition winners at the 2024 Busan International Film Festival.",
+    "digest": "sha256:796878a46351ffd967803c4e7e8786e95ac17383389a3e1f5a2f5753e8dd3fba",
+    "path": "en/biff-2024.section.json",
+    "collection": "biff"
+  },
+  {
+    "title": "Busan International Film Festival 2025 Awards",
+    "description": "Core competition winners at the 2025 Busan International Film Festival.",
+    "digest": "sha256:da73af66a21e6810c38a046f905fadfd2003636317069d7df2d91baa84a080a8",
+    "path": "en/biff-2025.section.json",
+    "collection": "biff"
+  },
+  {
+    "title": "Busan International Film Festival — Busan Award Best Film",
+    "description": "Historical winners of the Busan Award for Best Film at the Busan International Film Festival.",
+    "digest": "sha256:9b651e683da37d7b0e30144a86d6374d513e56b0bd58c77021757d5d4f47499f",
+    "path": "en/biff-busan-best-film.section.json",
+    "collection": "biff"
+  },
+  {
+    "title": "Busan International Film Festival — KIM Jiseok Award",
+    "description": "Historical winners of the KIM Jiseok Award at the Busan International Film Festival.",
+    "digest": "sha256:ce86f3b60e97e0ee523d486d7e73676b9447b112f91bfa127bd88de17322ef49",
+    "path": "en/biff-kim-jiseok.section.json",
+    "collection": "biff"
+  },
+  {
+    "title": "Busan International Film Festival — BIFF Mecenat Award",
+    "description": "Historical winners of the BIFF Mecenat Award for documentary films.",
+    "digest": "sha256:2ba5cbfa7e90f35e4e01275d71909399861760651531179f3c94105ef6c71f8e",
+    "path": "en/biff-mecenat.section.json",
+    "collection": "biff"
+  },
+  {
+    "title": "Busan International Film Festival — New Currents Award",
+    "description": "Historical winners of the New Currents Award at the Busan International Film Festival.",
+    "digest": "sha256:97bd20e013558142f7a2e4fe474e52340fbf68de1d33f916ceae6b98de5c7456",
+    "path": "en/biff-new-currents.section.json",
+    "collection": "biff"
+  },
+  {
+    "title": "Busan International Film Festival — Sonje Award",
+    "description": "Historical winners of the Sonje Award for short films.",
+    "digest": "sha256:2dc54d10729071c37b43a8a53ae65f1e93a4056ed19832dbfc8e0891377b7c71",
+    "path": "en/biff-sonje.section.json",
+    "collection": "biff"
+  },
+  {
+    "title": "Blue Dragon Film Awards — 2016",
+    "description": "Winners in 10 major film categories at the 2016 Blue Dragon Film Awards.",
+    "digest": "sha256:2f02bcd0ede3c22f9c0235f839fb044a76d25f42ee33ce54b9add1732db81118",
+    "path": "en/blue-dragon-2016.section.json",
+    "collection": "blue-dragon"
+  },
+  {
+    "title": "Blue Dragon Film Awards — 2017",
+    "description": "Winners in 10 major film categories at the 2017 Blue Dragon Film Awards.",
+    "digest": "sha256:7b3f9abf869d21cf18bb6a6369d46da514f9acb96aef90373bbdf9047bcde6bd",
+    "path": "en/blue-dragon-2017.section.json",
+    "collection": "blue-dragon"
+  },
+  {
+    "title": "Blue Dragon Film Awards — 2018",
+    "description": "Winners in 10 major film categories at the 2018 Blue Dragon Film Awards.",
+    "digest": "sha256:bda7bc549c4c0f83e45051597aa63e4984f58c0716ed49d7769c08f7ae54f083",
+    "path": "en/blue-dragon-2018.section.json",
+    "collection": "blue-dragon"
+  },
+  {
+    "title": "Blue Dragon Film Awards — 2019",
+    "description": "Winners in 10 major film categories at the 2019 Blue Dragon Film Awards.",
+    "digest": "sha256:f4c6a319664da2d5f1e8dd1a3b8c6fb2018680a27b0f33249ef2907beb827a67",
+    "path": "en/blue-dragon-2019.section.json",
+    "collection": "blue-dragon"
+  },
+  {
+    "title": "Blue Dragon Film Awards — 2020",
+    "description": "Winners in 10 major film categories at the 2020 Blue Dragon Film Awards.",
+    "digest": "sha256:7eecf2cc99d3b19362bfda63790910c59b6cac4418de5e7c3ef889b8b75b3951",
+    "path": "en/blue-dragon-2020.section.json",
+    "collection": "blue-dragon"
+  },
+  {
+    "title": "Blue Dragon Film Awards — 2021",
+    "description": "Winners in 10 major film categories at the 2021 Blue Dragon Film Awards.",
+    "digest": "sha256:bf7fd25866910739717a80fda3566263cbdb0391e7018eb4716ce650f3040c67",
+    "path": "en/blue-dragon-2021.section.json",
+    "collection": "blue-dragon"
+  },
+  {
+    "title": "Blue Dragon Film Awards — 2022",
+    "description": "Winners in 10 major film categories at the 2022 Blue Dragon Film Awards.",
+    "digest": "sha256:895f731cfa67234fab7f0b98591a2ba2b95685fa5caceb0dca5f7fd7a8c9d5b2",
+    "path": "en/blue-dragon-2022.section.json",
+    "collection": "blue-dragon"
+  },
+  {
+    "title": "Blue Dragon Film Awards — 2023",
+    "description": "Winners in 10 major film categories at the 2023 Blue Dragon Film Awards.",
+    "digest": "sha256:f45673906a0f99f15fec04b19fbeb4019d5b1d5101cfe8ed7c59c25dd9f19b05",
+    "path": "en/blue-dragon-2023.section.json",
+    "collection": "blue-dragon"
+  },
+  {
+    "title": "Blue Dragon Film Awards — 2024",
+    "description": "Winners in 10 major film categories at the 2024 Blue Dragon Film Awards.",
+    "digest": "sha256:788b488ba87971cc8fdc1576691d7eb1cf9f14c8a9e4d24badda8e84726d70c3",
+    "path": "en/blue-dragon-2024.section.json",
+    "collection": "blue-dragon"
+  },
+  {
+    "title": "Blue Dragon Film Awards — 2025",
+    "description": "Winners in 10 major film categories at the 2025 Blue Dragon Film Awards.",
+    "digest": "sha256:222ff06356783cae58b02047d2c9cc3aa0265323637d55286ff510163ea17661",
+    "path": "en/blue-dragon-2025.section.json",
+    "collection": "blue-dragon"
+  },
+  {
+    "title": "Blue Dragon Film Awards — Best Actor",
+    "description": "Blue Dragon Film Awards Best Actor winners from 2016 through 2025.",
+    "digest": "sha256:d85177f2127dfb44cbd2748b67dfbc3edbafefa58ad7b20a4f9e66e2da771fc2",
+    "path": "en/blue-dragon-best-actor.section.json",
+    "collection": "blue-dragon"
+  },
+  {
+    "title": "Blue Dragon Film Awards — Best Actress",
+    "description": "Blue Dragon Film Awards Best Actress winners from 2016 through 2025.",
+    "digest": "sha256:ef525f25776549ba8145e3abd9928512768d3ba78150b24fbe49df7268e043f4",
+    "path": "en/blue-dragon-best-actress.section.json",
+    "collection": "blue-dragon"
+  },
+  {
+    "title": "Blue Dragon Film Awards — Best Director",
+    "description": "Blue Dragon Film Awards Best Director winners from 2016 through 2025.",
+    "digest": "sha256:4be9a9df0a65f1556ffaca22ffeed58c9aa5a935ca2313ab4c3d9de9ac605272",
+    "path": "en/blue-dragon-best-director.section.json",
+    "collection": "blue-dragon"
+  },
+  {
+    "title": "Blue Dragon Film Awards — Best Film",
+    "description": "Blue Dragon Film Awards Best Film winners from 2016 through 2025.",
+    "digest": "sha256:fa031c1ab79beec825cd82f5aed40f1065c06fcd003ba7abbfbbcf8e5a2f6b5c",
+    "path": "en/blue-dragon-best-film.section.json",
+    "collection": "blue-dragon"
+  },
+  {
+    "title": "Blue Dragon Film Awards — Best New Actor",
+    "description": "Blue Dragon Film Awards Best New Actor winners from 2016 through 2025.",
+    "digest": "sha256:6b0f3112cb8aa27986bc1b86e296b3a38c5caf3da702dbcf1ac9e377bab6173d",
+    "path": "en/blue-dragon-best-new-actor.section.json",
+    "collection": "blue-dragon"
+  },
+  {
+    "title": "Blue Dragon Film Awards — Best New Actress",
+    "description": "Blue Dragon Film Awards Best New Actress winners from 2016 through 2025.",
+    "digest": "sha256:9e3479b38f888f0aec07413d932155f5c7c4282c7598a1ce1c5abdd840085b53",
+    "path": "en/blue-dragon-best-new-actress.section.json",
+    "collection": "blue-dragon"
+  },
+  {
+    "title": "Blue Dragon Film Awards — Best New Director",
+    "description": "Blue Dragon Film Awards Best New Director winners from 2016 through 2025.",
+    "digest": "sha256:aedd82a7c008f6f94a64d6177e4ce3174c3028fb67d55aa88d717e24d5effc83",
+    "path": "en/blue-dragon-best-new-director.section.json",
+    "collection": "blue-dragon"
+  },
+  {
+    "title": "Blue Dragon Film Awards — Best Screenplay",
+    "description": "Blue Dragon Film Awards Best Screenplay winners from 2016 through 2025.",
+    "digest": "sha256:9544ba8a4566d4e529f4d94eefd16ec5d0aee7ba491bf53619cf445ffec23521",
+    "path": "en/blue-dragon-best-screenplay.section.json",
+    "collection": "blue-dragon"
+  },
+  {
+    "title": "Blue Dragon Film Awards — Best Supporting Actor",
+    "description": "Blue Dragon Film Awards Best Supporting Actor winners from 2016 through 2025.",
+    "digest": "sha256:7cfcc58227da6b3756d59890951b84aa0de32c92dc687f603474f41e0cd4f02f",
+    "path": "en/blue-dragon-best-supporting-actor.section.json",
+    "collection": "blue-dragon"
+  },
+  {
+    "title": "Blue Dragon Film Awards — Best Supporting Actress",
+    "description": "Blue Dragon Film Awards Best Supporting Actress winners from 2016 through 2025.",
+    "digest": "sha256:11aa7fed496de000b478f897cd93c599b604e10938d86a7d69beefcaa07069aa",
+    "path": "en/blue-dragon-best-supporting-actress.section.json",
+    "collection": "blue-dragon"
+  },
+  {
+    "title": "Cannes Film Festival 2017 Awards",
+    "description": "Official film-linked awards from the 70th Festival de Cannes, covering Competition, Short Films, Un Certain Regard, Caméra d'Or, Cinéfondation and CST technical prizes.",
+    "digest": "sha256:e2aea8f75fe2a10defbd27ca04c747393be95af60eba26846fb341e6d5939daf",
+    "path": "en/cannes-2017.section.json",
+    "collection": "cannes"
+  },
+  {
+    "title": "Cannes Film Festival 2018 Awards",
+    "description": "Official film-linked awards from the 71th Festival de Cannes, covering Competition, Short Films, Un Certain Regard, Caméra d'Or, Cinéfondation and CST technical prizes.",
+    "digest": "sha256:866e64940fa6ff764cc6d7ca8406c47fb000c3332c4b2a8d180b59ad55c22460",
+    "path": "en/cannes-2018.section.json",
+    "collection": "cannes"
+  },
+  {
+    "title": "Cannes Film Festival 2019 Awards",
+    "description": "Official film-linked awards from the 72th Festival de Cannes, covering Competition, Short Films, Un Certain Regard, Caméra d'Or, Cinéfondation and CST technical prizes.",
+    "digest": "sha256:d95cc57cc47151e85af60c6612764baf0f73e727ebdae5307038f8e60b1ddb79",
+    "path": "en/cannes-2019.section.json",
+    "collection": "cannes"
+  },
+  {
+    "title": "Cannes Film Festival 2021 Awards",
+    "description": "Official film-linked awards from the 74th Festival de Cannes, covering Competition, Short Films, Un Certain Regard, Caméra d'Or, Cinéfondation and CST technical prizes.",
+    "digest": "sha256:a5d3905eb2df76fea50c4920235700c27a8df9688899b2837ecad2b687f0c05c",
+    "path": "en/cannes-2021.section.json",
+    "collection": "cannes"
+  },
+  {
+    "title": "Cannes Film Festival 2022 Awards",
+    "description": "Official film-linked awards from the 75th Festival de Cannes, covering Competition, Short Films, Un Certain Regard, Caméra d'Or, La Cinef and CST technical prizes.",
+    "digest": "sha256:07c73e8d3c879c80186ec111835ba33037e9b10c43d6a461e07d993aadcafe9a",
+    "path": "en/cannes-2022.section.json",
+    "collection": "cannes"
+  },
+  {
+    "title": "Cannes Film Festival 2023 Awards",
+    "description": "Official film-linked awards from the 76th Festival de Cannes, covering Competition, Short Films, Un Certain Regard, Caméra d'Or, La Cinef and CST technical prizes.",
+    "digest": "sha256:f3c1e65c12e1a6ff2bc761878042725604b2c7c970ba5e22ce6b88726857080c",
+    "path": "en/cannes-2023.section.json",
+    "collection": "cannes"
+  },
+  {
+    "title": "Cannes Film Festival 2024 Awards",
+    "description": "Official film-linked awards from the 77th Festival de Cannes, covering Competition, Short Films, Un Certain Regard, Caméra d'Or, La Cinef and CST technical prizes.",
+    "digest": "sha256:71cb0e1fc1a5b2b59b7a5770939c4d40eb1421c17562b3a5b9ffc26c91672f11",
+    "path": "en/cannes-2024.section.json",
+    "collection": "cannes"
+  },
+  {
+    "title": "Cannes Film Festival 2025 Awards",
+    "description": "Official film-linked awards from the 78th Festival de Cannes, covering Competition, Short Films, Un Certain Regard, Caméra d'Or, La Cinef and CST technical prizes.",
+    "digest": "sha256:7438d78049490f5e772949665c0a1212e12b017e0988eaaac5d691f6794b30c4",
+    "path": "en/cannes-2025.section.json",
+    "collection": "cannes"
+  },
+  {
+    "title": "Cannes Film Festival 2026 Awards",
+    "description": "Official film-linked awards from the 79th Festival de Cannes, covering Competition, Short Films, Un Certain Regard, Caméra d'Or, La Cinef and CST technical prizes.",
+    "digest": "sha256:e10a0cb73037be69f4a1ca6a7f23601ad6b7520144172be2bb92ea3b8f6a8810",
+    "path": "en/cannes-2026.section.json",
+    "collection": "cannes"
+  },
+  {
+    "title": "Cannes — Best Actor",
+    "description": "Films associated with Cannes Film Festival Best Actor winners.",
+    "digest": "sha256:0420d3abe05c401b3ab909e252ad7814fbb75269734ceef64b64baf8221192f9",
+    "path": "en/cannes-best-actor.section.json",
+    "collection": "cannes"
+  },
+  {
+    "title": "Cannes — Best Actress",
+    "description": "Films associated with Cannes Film Festival Best Actress winners.",
+    "digest": "sha256:e9fcb754c463005760701fa70733e287b4a26147c33fb18052a77b6acad68f56",
+    "path": "en/cannes-best-actress.section.json",
+    "collection": "cannes"
+  },
+  {
+    "title": "Cannes — Best Director",
+    "description": "Films associated with Cannes Film Festival Best Director winners.",
+    "digest": "sha256:89c17c8b1a2f9863f9fc05e1e37c12bfe0cd28848d52c56277cfc9f288e1c6a5",
+    "path": "en/cannes-best-director.section.json",
+    "collection": "cannes"
+  },
+  {
+    "title": "Cannes — Best Screenplay",
+    "description": "Films associated with Cannes Film Festival Best Screenplay winners.",
+    "digest": "sha256:ff9327630e7f3d2fa09025ed5a227d128b3bc8bda9a2f2f1ebdd133ac4fcd6d4",
+    "path": "en/cannes-best-screenplay.section.json",
+    "collection": "cannes"
+  },
+  {
+    "title": "Cannes — Caméra d'Or",
+    "description": "Cannes Film Festival Caméra d'Or winning films.",
+    "digest": "sha256:7bed9fc7b49378c5cd138aa6a7cfcff8e0b42217a582badc26137a6c54499bdb",
+    "path": "en/cannes-camera-dor.section.json",
+    "collection": "cannes"
+  },
+  {
+    "title": "Cannes — Grand Prix",
+    "description": "Cannes Film Festival Grand Prix winning films.",
+    "digest": "sha256:bc8eb1bb8c09c79d1dfd9d3c15f77c896b77c9175705e0353be4c703758876a9",
+    "path": "en/cannes-grand-prix.section.json",
+    "collection": "cannes"
+  },
+  {
+    "title": "Cannes — Jury Prize",
+    "description": "Cannes Film Festival Jury Prize winning films.",
+    "digest": "sha256:a950d3c9d88c9448274c034bbced7df53ade1a61ef146f677b81f7eef0773463",
+    "path": "en/cannes-jury-prize.section.json",
+    "collection": "cannes"
+  },
+  {
+    "title": "Cannes — Palme d'Or",
+    "description": "Cannes Film Festival Palme d'Or and historical top-prize winning films.",
+    "digest": "sha256:6d05d8be20038808226905fac1e9531250f048d7f18358602241c1a736629bf4",
+    "path": "en/cannes-palme-dor.section.json",
+    "collection": "cannes"
+  },
+  {
+    "title": "Cannes — Un Certain Regard Prize",
+    "description": "A list of films that have won the Un Certain Regard Prize at past Cannes Film Festivals. The award was established in 1998; no film was awarded in 2020 because the Cannes Film Festival was canceled; in 2011, two films shared the award.",
+    "digest": "sha256:6998e127e9f00a3f921b0af26e32bdb79a7825f1f01d5cf95b56302dc39464bc",
+    "path": "en/cannes-un-certain-regard-prizel.section.json",
+    "collection": "cannes"
+  },
+  {
+    "title": "Primetime Emmy Awards 2017 Winners",
+    "description": "Major-category winners from the 69th Primetime Emmy Awards.",
+    "digest": "sha256:37d5ac142e4376a8df56ac274160b6a91758b145b525af45a80f3e353f9ae72e",
+    "path": "en/emmys-2017.section.json",
+    "collection": "emmys"
+  },
+  {
+    "title": "Primetime Emmy Awards 2018 Winners",
+    "description": "Major-category winners from the 70th Primetime Emmy Awards.",
+    "digest": "sha256:559365225b68386f8ded2047fc52c72013d36d75467f366417fc0a8beaac5db0",
+    "path": "en/emmys-2018.section.json",
+    "collection": "emmys"
+  },
+  {
+    "title": "Primetime Emmy Awards 2019 Winners",
+    "description": "Major-category winners from the 71th Primetime Emmy Awards.",
+    "digest": "sha256:3e2a5f57b0995271e842692a62e70c68aa90b90c38d53df1e9dfe62802cd5283",
+    "path": "en/emmys-2019.section.json",
+    "collection": "emmys"
+  },
+  {
+    "title": "Primetime Emmy Awards 2020 Winners",
+    "description": "Major-category winners from the 72th Primetime Emmy Awards.",
+    "digest": "sha256:a5920776510502c16fdc759cf01f3a0bb96b39ff57436ec3c475df9477dbb182",
+    "path": "en/emmys-2020.section.json",
+    "collection": "emmys"
+  },
+  {
+    "title": "Primetime Emmy Awards 2021 Winners",
+    "description": "Major-category winners from the 73th Primetime Emmy Awards.",
+    "digest": "sha256:eaa6e8a06da214eb81339528aa27db36097d9f2270c444fe343332cf2fbc4dbe",
+    "path": "en/emmys-2021.section.json",
+    "collection": "emmys"
+  },
+  {
+    "title": "Primetime Emmy Awards 2022 Winners",
+    "description": "Major-category winners from the 74th Primetime Emmy Awards.",
+    "digest": "sha256:7d8475794bfd45d594bec5e8f4a51e3f55c5e1cb39ffde6e39a530944f6a59e2",
+    "path": "en/emmys-2022.section.json",
+    "collection": "emmys"
+  },
+  {
+    "title": "Primetime Emmy Awards 2023 Winners",
+    "description": "Major-category winners from the 75th Primetime Emmy Awards.",
+    "digest": "sha256:f7bb9cd9dd022b7f99d9fe3bd4e88444f0690d904d0587f88699e8291b5e70ea",
+    "path": "en/emmys-2023.section.json",
+    "collection": "emmys"
+  },
+  {
+    "title": "Primetime Emmy Awards 2024 Winners",
+    "description": "Major-category winners from the 76th Primetime Emmy Awards.",
+    "digest": "sha256:39fbd06fb0cf330f4c33c8e593ca1f2b379062a6281ad4295c3b2f112e6b911a",
+    "path": "en/emmys-2024.section.json",
+    "collection": "emmys"
+  },
+  {
+    "title": "Primetime Emmy Awards 2025 Winners",
+    "description": "Major-category winners from the 77th Primetime Emmy Awards.",
+    "digest": "sha256:bb35969c6ecc119b15a77b2c3df23b0d6903b15ca939465bbd35d4d70eef6781",
+    "path": "en/emmys-2025.section.json",
+    "collection": "emmys"
+  },
+  {
+    "title": "Primetime Emmy Awards 2026 Winners",
+    "description": "Major-category winners from the 78th Primetime Emmy Awards.",
+    "digest": "sha256:8f1b2b047a63e4deb81dedf9ce14507e8554389b3bff0cfa59966f4a4949b73c",
+    "path": "en/emmys-2026.section.json",
+    "collection": "emmys"
+  },
+  {
+    "title": "Primetime Emmy Awards — Outstanding Comedy Series",
+    "description": "Winners of the Primetime Emmy Award for Outstanding Comedy Series.",
+    "digest": "sha256:5469702b1d35f5b6fa358acee50cf6855573caa79a74432aaaedef33b8bf8397",
+    "path": "en/emmys-comedy-series.section.json",
+    "collection": "emmys"
+  },
+  {
+    "title": "Primetime Emmy Awards — Outstanding Drama Series",
+    "description": "Winners of the Primetime Emmy Award for Outstanding Drama Series.",
+    "digest": "sha256:7fb700835be130ee41e3520878d009b746678430af07e2ec5c880eaaf47fe8b9",
+    "path": "en/emmys-drama-series.section.json",
+    "collection": "emmys"
+  },
+  {
+    "title": "Primetime Emmy Awards — Outstanding Lead Actor in a Comedy Series",
+    "description": "Winners of the Primetime Emmy Award for Outstanding Lead Actor in a Comedy Series.",
+    "digest": "sha256:0bbe2392bd75c467df7f2f839146a91359524a4c3359d8523555a20a5a712c8b",
+    "path": "en/emmys-lead-actor-comedy.section.json",
+    "collection": "emmys"
+  },
+  {
+    "title": "Primetime Emmy Awards — Outstanding Lead Actor in a Drama Series",
+    "description": "Winners of the Primetime Emmy Award for Outstanding Lead Actor in a Drama Series.",
+    "digest": "sha256:383b663aa5f485dadcb2731ce10d575efa2cc0a34271e5201cb262b0c017ebcd",
+    "path": "en/emmys-lead-actor-drama.section.json",
+    "collection": "emmys"
+  },
+  {
+    "title": "Primetime Emmy Awards — Outstanding Lead Actress in a Comedy Series",
+    "description": "Winners of the Primetime Emmy Award for Outstanding Lead Actress in a Comedy Series.",
+    "digest": "sha256:e572a7e0b13a620083741980ff062de54cca007f55b2c3fb52aac1a22ac0ffd9",
+    "path": "en/emmys-lead-actress-comedy.section.json",
+    "collection": "emmys"
+  },
+  {
+    "title": "Primetime Emmy Awards — Outstanding Lead Actress in a Drama Series",
+    "description": "Winners of the Primetime Emmy Award for Outstanding Lead Actress in a Drama Series.",
+    "digest": "sha256:d24a97803443b8e5fcdb586675206232e6984360131e7e40e6b81c6ecd2722d5",
+    "path": "en/emmys-lead-actress-drama.section.json",
+    "collection": "emmys"
+  },
+  {
+    "title": "Primetime Emmy Awards — Outstanding Limited or Anthology Series",
+    "description": "Winners of the Primetime Emmy Award for Outstanding Limited or Anthology Series.",
+    "digest": "sha256:cfd32564fbb522337c2d0455107a40355950f8c37f307751bd275f605dd58113",
+    "path": "en/emmys-limited-series.section.json",
+    "collection": "emmys"
+  },
+  {
+    "title": "Golden Globes 2017",
+    "description": "Major film and television program winners at the 2017 Golden Globes.",
+    "digest": "sha256:c200e406006a160b6be0899774c2a1259ba8d0876c6a22c43df91b80629b8fc4",
+    "path": "en/golden-globes-2017.section.json",
+    "collection": "golden-globes"
+  },
+  {
+    "title": "Golden Globes 2018",
+    "description": "Major film and television program winners at the 2018 Golden Globes.",
+    "digest": "sha256:125d9559d2a999007287547f24d70af9513c89965e1c64ed97e7754f9461006e",
+    "path": "en/golden-globes-2018.section.json",
+    "collection": "golden-globes"
+  },
+  {
+    "title": "Golden Globes 2019",
+    "description": "Major film and television program winners at the 2019 Golden Globes.",
+    "digest": "sha256:4a7951b25a0ba4ef00bb1a100a6561273c5aa3cb719e8be287ce79cebfcf38c3",
+    "path": "en/golden-globes-2019.section.json",
+    "collection": "golden-globes"
+  },
+  {
+    "title": "Golden Globes 2020",
+    "description": "Major film and television program winners at the 2020 Golden Globes.",
+    "digest": "sha256:6aa9dd36a1f0075f70b7f9c34d0b7c18739082299d5cb632812a5480698f1075",
+    "path": "en/golden-globes-2020.section.json",
+    "collection": "golden-globes"
+  },
+  {
+    "title": "Golden Globes 2021",
+    "description": "Major film and television program winners at the 2021 Golden Globes.",
+    "digest": "sha256:cd86d62721dab092dceb0a2c1cd612941a3ee5dcca3b12e3085f0293592f98ca",
+    "path": "en/golden-globes-2021.section.json",
+    "collection": "golden-globes"
+  },
+  {
+    "title": "Golden Globes 2022",
+    "description": "Major film and television program winners at the 2022 Golden Globes.",
+    "digest": "sha256:a605c5d6d6e3166336b09ab5645e1e3e1799b879bc7812b20fbfb3143a361346",
+    "path": "en/golden-globes-2022.section.json",
+    "collection": "golden-globes"
+  },
+  {
+    "title": "Golden Globes 2023",
+    "description": "Major film and television program winners at the 2023 Golden Globes.",
+    "digest": "sha256:a6b6c275799256eed2f2171afb86c882d9fbb5b290cab16fd883f53d4205af39",
+    "path": "en/golden-globes-2023.section.json",
+    "collection": "golden-globes"
+  },
+  {
+    "title": "Golden Globes 2024",
+    "description": "Major film and television program winners at the 2024 Golden Globes.",
+    "digest": "sha256:90dfc1e0879d6437ee80485a8941ccc36728e813d48e004a23fbc8b14c52d135",
+    "path": "en/golden-globes-2024.section.json",
+    "collection": "golden-globes"
+  },
+  {
+    "title": "Golden Globes 2025",
+    "description": "Major film and television program winners at the 2025 Golden Globes.",
+    "digest": "sha256:8c79fc8c5639d3d407459e9bd3ae2fa0f2bfc9cb47203332e326be2951a61201",
+    "path": "en/golden-globes-2025.section.json",
+    "collection": "golden-globes"
+  },
+  {
+    "title": "Golden Globes 2026",
+    "description": "Major film and television program winners at the 2026 Golden Globes.",
+    "digest": "sha256:29686dc59242f2831b691f6c03bd384f023b2c86c6731f7278072d67329cecc3",
+    "path": "en/golden-globes-2026.section.json",
+    "collection": "golden-globes"
+  },
+  {
+    "title": "Golden Globes — Best Motion Picture – Animated",
+    "description": "Winners of the Golden Globe Best Motion Picture – Animated category from 2017 through 2026.",
+    "digest": "sha256:c8aefd5d1612fc4c75b38672d9104e05ccab680718ffc61c1242f73ea0cefcc4",
+    "path": "en/golden-globes-animated.section.json",
+    "collection": "golden-globes"
+  },
+  {
+    "title": "Golden Globes — Cinematic and Box Office Achievement",
+    "description": "Winners of the Golden Globe Cinematic and Box Office Achievement category from 2017 through 2026.",
+    "digest": "sha256:ca0876c532618202b82f1b8582bfc7f2a21281b96f196e10ce87bcec9566bdec",
+    "path": "en/golden-globes-boxoffice.section.json",
+    "collection": "golden-globes"
+  },
+  {
+    "title": "Golden Globes — Best Motion Picture – Musical or Comedy",
+    "description": "Winners of the Golden Globe Best Motion Picture – Musical or Comedy category from 2017 through 2026.",
+    "digest": "sha256:9a2af0e2a158944b07c86a5e543e3e8171a85032690673d32f72da8504a56fdd",
+    "path": "en/golden-globes-comedy.section.json",
+    "collection": "golden-globes"
+  },
+  {
+    "title": "Golden Globes — Best Motion Picture – Drama",
+    "description": "Winners of the Golden Globe Best Motion Picture – Drama category from 2017 through 2026.",
+    "digest": "sha256:5837055841a095973c3373f32226c6d8363db7686e138d11e5c9311193fdd704",
+    "path": "en/golden-globes-drama.section.json",
+    "collection": "golden-globes"
+  },
+  {
+    "title": "Golden Globes — Best Motion Picture – Non-English Language",
+    "description": "Winners of the Golden Globe Best Motion Picture – Non-English Language category from 2017 through 2026.",
+    "digest": "sha256:98397d3fb62feac39c413ba0e532f00feb2bf63107c3356e3eed2db821eb96b4",
+    "path": "en/golden-globes-foreign.section.json",
+    "collection": "golden-globes"
+  },
+  {
+    "title": "Golden Globes — Best Television Limited Series, Anthology Series or Motion Picture Made for Television",
+    "description": "Winners of the Golden Globe Best Television Limited Series, Anthology Series or Motion Picture Made for Television category from 2017 through 2026.",
+    "digest": "sha256:a8a230284d065be05b970a8ec0698567b68053425e3ca724fa2096a36eb42516",
+    "path": "en/golden-globes-limited.section.json",
+    "collection": "golden-globes"
+  },
+  {
+    "title": "Golden Globes — Best Television Series – Musical or Comedy",
+    "description": "Winners of the Golden Globe Best Television Series – Musical or Comedy category from 2017 through 2026.",
+    "digest": "sha256:d22d5e209fee752460953dc6f5535298109377ce3d5a360d11461210b7e2d54e",
+    "path": "en/golden-globes-tv-comedy.section.json",
+    "collection": "golden-globes"
+  },
+  {
+    "title": "Golden Globes — Best Television Series – Drama",
+    "description": "Winners of the Golden Globe Best Television Series – Drama category from 2017 through 2026.",
+    "digest": "sha256:8250639a1375c7469927e704080a4ba68edfbfad00f56e626b9e7994faf5dd4c",
+    "path": "en/golden-globes-tv-drama.section.json",
+    "collection": "golden-globes"
+  },
+  {
+    "title": "Hong Kong Film Awards 2017 Winners",
+    "description": "Winning films and filmmakers of the 2017 Hong Kong Film Awards.",
+    "digest": "sha256:d0f85adec3b03681df2d6a620f48bae109bbab11148639b43926f19dc8c80850",
+    "path": "en/hkfa-2017.section.json",
+    "collection": "hkfa"
+  },
+  {
+    "title": "Hong Kong Film Awards 2018 Winners",
+    "description": "Winning films and filmmakers of the 2018 Hong Kong Film Awards.",
+    "digest": "sha256:0070f0e9d9d5e5ef1431e173fec3ebb96ffadb4115c9513486290e0fcdd70ea8",
+    "path": "en/hkfa-2018.section.json",
+    "collection": "hkfa"
+  },
+  {
+    "title": "Hong Kong Film Awards 2019 Winners",
+    "description": "Winning films and filmmakers of the 2019 Hong Kong Film Awards.",
+    "digest": "sha256:37fa26d21def26bff5d0a5af201faf3076a7991796f005cbe1f3eb67a6812525",
+    "path": "en/hkfa-2019.section.json",
+    "collection": "hkfa"
+  },
+  {
+    "title": "Hong Kong Film Awards 2020 Winners",
+    "description": "Winning films and filmmakers of the 2020 Hong Kong Film Awards.",
+    "digest": "sha256:4882a3c5b3960e66ec5137dba525c371f29af541913120d81fe2bf196a677170",
+    "path": "en/hkfa-2020.section.json",
+    "collection": "hkfa"
+  },
+  {
+    "title": "Hong Kong Film Awards 2022 Winners",
+    "description": "Winning films and filmmakers of the 2022 Hong Kong Film Awards.",
+    "digest": "sha256:6859c4298e71e5c066c3e106275fb71194d390f3781a25d3bfb7d6a1a221cd33",
+    "path": "en/hkfa-2022.section.json",
+    "collection": "hkfa"
+  },
+  {
+    "title": "Hong Kong Film Awards 2023 Winners",
+    "description": "Winning films and filmmakers of the 2023 Hong Kong Film Awards.",
+    "digest": "sha256:8164cc8fa5eadcf4a45dda7b8a73894e024281abdafde485b36c6ff7043798e7",
+    "path": "en/hkfa-2023.section.json",
+    "collection": "hkfa"
+  },
+  {
+    "title": "Hong Kong Film Awards 2024 Winners",
+    "description": "Winning films and filmmakers of the 2024 Hong Kong Film Awards.",
+    "digest": "sha256:35b3c5132281e67481ca827bd306ee38800e55a05cb2fc7d6e8a9102780c5fe8",
+    "path": "en/hkfa-2024.section.json",
+    "collection": "hkfa"
+  },
+  {
+    "title": "Hong Kong Film Awards 2025 Winners",
+    "description": "Winning films and filmmakers of the 2025 Hong Kong Film Awards.",
+    "digest": "sha256:f598cf26fc6d7354bccb43f36a3c8a1ad6daa7815374b5aabd17c7405f97395c",
+    "path": "en/hkfa-2025.section.json",
+    "collection": "hkfa"
+  },
+  {
+    "title": "Hong Kong Film Awards 2026 Winners",
+    "description": "Winning films and filmmakers of the 2026 Hong Kong Film Awards.",
+    "digest": "sha256:c8483c93255c1682d83fde3519e95977a6172d06fd4b198709c67ae1ad9f8184",
+    "path": "en/hkfa-2026.section.json",
+    "collection": "hkfa"
+  },
+  {
+    "title": "Hong Kong Film Awards — Best Actor",
+    "description": "Complete historical winners of the Hong Kong Film Award for Actor.",
+    "digest": "sha256:4ed9b74b2097bf2879a36fbe3cf5a3e504ab410dfee47068955e9dcefec4654e",
+    "path": "en/hkfa-best-actor.section.json",
+    "collection": "hkfa"
+  },
+  {
+    "title": "Hong Kong Film Awards — Best Actress",
+    "description": "Complete historical winners of the Hong Kong Film Award for Actress.",
+    "digest": "sha256:2a0b67f438a283b0fdee3803bf304de16adfcfa67e9bf8ac42687c8bbf9c9ddd",
+    "path": "en/hkfa-best-actress.section.json",
+    "collection": "hkfa"
+  },
+  {
+    "title": "Hong Kong Film Awards — Best Director",
+    "description": "Complete historical winners of the Hong Kong Film Award for Director.",
+    "digest": "sha256:ad9fa49b46ed054da6d18111ca955b9a35694f86cb902b6a249d827da8588f2d",
+    "path": "en/hkfa-best-director.section.json",
+    "collection": "hkfa"
+  },
+  {
+    "title": "Hong Kong Film Awards — Best Film",
+    "description": "Complete historical winners of the Hong Kong Film Award for Film.",
+    "digest": "sha256:ca23ec9d2249ffd0a542ec586d4374191d741f999884df571732f1cfc0c0f321",
+    "path": "en/hkfa-best-film.section.json",
+    "collection": "hkfa"
+  },
+  {
+    "title": "Hong Kong Film Awards — Best New Performer",
+    "description": "Complete historical winners of the Hong Kong Film Award for New Performer.",
+    "digest": "sha256:8bcce8f4267787286482e24f35a7346e3fdc40dcf93cd394628dd2a4803a4c17",
+    "path": "en/hkfa-best-new-performer.section.json",
+    "collection": "hkfa"
+  },
+  {
+    "title": "Hong Kong Film Awards — Best Screenplay",
+    "description": "Complete historical winners of the Hong Kong Film Award for Screenplay.",
+    "digest": "sha256:6ef2535408a13ceddf7444387ddcfa31880ed6067bfa948c9ef430f0c8dd494d",
+    "path": "en/hkfa-best-screenplay.section.json",
+    "collection": "hkfa"
+  },
+  {
+    "title": "Hong Kong Film Awards — Best Supporting Actor",
+    "description": "Complete historical winners of the Hong Kong Film Award for Supporting Actor.",
+    "digest": "sha256:92e3f4393130f52f294bb739f1b40058f1c08cec79bca7f06d8093689f41bac2",
+    "path": "en/hkfa-best-supporting-actor.section.json",
+    "collection": "hkfa"
+  },
+  {
+    "title": "Hong Kong Film Awards — Best Supporting Actress",
+    "description": "Complete historical winners of the Hong Kong Film Award for Supporting Actress.",
+    "digest": "sha256:2f5debb10760faacf32e98ccc1d3eed75307dc95deb7512280bb03c9eb0ececf",
+    "path": "en/hkfa-best-supporting-actress.section.json",
+    "collection": "hkfa"
+  },
+  {
+    "title": "Oscars 2017 Winners",
+    "description": "Winners in core film categories at the 89th Academy Awards.",
+    "digest": "sha256:ebba524286d03ab552b7fc3125b30121467e3b5084ce499a76f4862130d1e7f4",
+    "path": "en/oscars-2017.section.json",
+    "collection": "oscars"
+  },
+  {
+    "title": "Oscars 2018 Winners",
+    "description": "Winners in core film categories at the 90th Academy Awards.",
+    "digest": "sha256:e79c95da9ae5dc6e0f7c3282e23d24136c31cabafbb7e0efb4f3caa508af3e89",
+    "path": "en/oscars-2018.section.json",
+    "collection": "oscars"
+  },
+  {
+    "title": "Oscars 2019 Winners",
+    "description": "Winners in core film categories at the 91st Academy Awards.",
+    "digest": "sha256:5fe0fe0abb9e7bd0b7da7f670689fdf4e56181622a4256f462043c8fcd224448",
+    "path": "en/oscars-2019.section.json",
+    "collection": "oscars"
+  },
+  {
+    "title": "Oscars 2020 Winners",
+    "description": "Winners in core film categories at the 92nd Academy Awards.",
+    "digest": "sha256:fed115395c2e6521b98b5e446ec461315e3c0e06e8a20716accec39aa81699fd",
+    "path": "en/oscars-2020.section.json",
+    "collection": "oscars"
+  },
+  {
+    "title": "Oscars 2021 Winners",
+    "description": "Winners in core film categories at the 93rd Academy Awards.",
+    "digest": "sha256:410a0581053217f017c1fba72ce1c0923b0f568f7a1ae51ccc02c9257223f45a",
+    "path": "en/oscars-2021.section.json",
+    "collection": "oscars"
+  },
+  {
+    "title": "Oscars 2022 Winners",
+    "description": "Winners in core film categories at the 94th Academy Awards.",
+    "digest": "sha256:ad2201a44e0eb805321921fe23223a2e63e24a48af814fb4d9fb80b7ecd8108c",
+    "path": "en/oscars-2022.section.json",
+    "collection": "oscars"
+  },
+  {
+    "title": "Oscars 2023 Winners",
+    "description": "Winners in core film categories at the 95th Academy Awards.",
+    "digest": "sha256:c961c4c4be7f446fa66778e1af50d91848b69f3cee3b08fecf898f149a0c9027",
+    "path": "en/oscars-2023.section.json",
+    "collection": "oscars"
+  },
+  {
+    "title": "Oscars 2024 Winners",
+    "description": "Winners in core film categories at the 96th Academy Awards.",
+    "digest": "sha256:73e1b2aea110d8c05f4c3b34d98d876f59e4cb47414775d9b2a8e49a80ccb828",
+    "path": "en/oscars-2024.section.json",
+    "collection": "oscars"
+  },
+  {
+    "title": "Oscars 2025 Winners",
+    "description": "Winners in core film categories at the 97th Academy Awards.",
+    "digest": "sha256:ad289dd2ff82754dc69aa8f4c0a2c4f5506069744b383273cd2cb92762d3bcea",
+    "path": "en/oscars-2025.section.json",
+    "collection": "oscars"
+  },
+  {
+    "title": "Oscars 2026 Winners",
+    "description": "Winners in core film categories at the 98th Academy Awards.",
+    "digest": "sha256:b470927a74cfe2958f15d3e1c398adf49010e129d87a88ab3eb166169419d829",
+    "path": "en/oscars-2026.section.json",
+    "collection": "oscars"
+  },
+  {
+    "title": "Oscars — Best Actor",
+    "description": "Ten-year winner history for the Academy Award for Best Actor.",
+    "digest": "sha256:ce1bf8aaa0b271406432370ad8cb67cd1feb3a5d906e63160b516daa5adb8dc1",
+    "path": "en/oscars-best-actor.section.json",
+    "collection": "oscars"
+  },
+  {
+    "title": "Oscars — Best Actress",
+    "description": "Ten-year winner history for the Academy Award for Best Actress.",
+    "digest": "sha256:a35e56dcd1b6af23800f11da7a2d4f8f53e595d2aa8561af07cfb7925e5fc103",
+    "path": "en/oscars-best-actress.section.json",
+    "collection": "oscars"
+  },
+  {
+    "title": "Oscars — Best Adapted Screenplay",
+    "description": "Ten-year winner history for the Academy Award for Best Adapted Screenplay.",
+    "digest": "sha256:454eb6bef4d88f7fb6512773645df96f7423e6e007ea590a3d77d30c6c5238a2",
+    "path": "en/oscars-best-adapted-screenplay.section.json",
+    "collection": "oscars"
+  },
+  {
+    "title": "Oscars — Best Animated Feature",
+    "description": "Ten-year winner history for the Academy Award for Best Animated Feature.",
+    "digest": "sha256:b8cf06435f9948d8a9752bc568e4008902a5c0f43da666355d9a3d8f04123410",
+    "path": "en/oscars-best-animated-feature.section.json",
+    "collection": "oscars"
+  },
+  {
+    "title": "Oscars — Best Director",
+    "description": "Ten-year winner history for the Academy Award for Best Director.",
+    "digest": "sha256:0dc8196ba06ad17386b7c1307e1909b312b557310cb1eb6def02c3d81b33d90b",
+    "path": "en/oscars-best-director.section.json",
+    "collection": "oscars"
+  },
+  {
+    "title": "Oscars — Best International Feature Film",
+    "description": "Ten-year winner history for the Academy Award for Best International Feature Film.",
+    "digest": "sha256:71c39d337198cb2a366e16df270842ec5e52b2cf2870c1909e1e51cfe73c24f0",
+    "path": "en/oscars-best-international-feature.section.json",
+    "collection": "oscars"
+  },
+  {
+    "title": "Oscars — Best Original Screenplay",
+    "description": "Ten-year winner history for the Academy Award for Best Original Screenplay.",
+    "digest": "sha256:b255938fa6cb03a41a83a706f62127350876ed5db71b49bd757ffcfaa9ae4dea",
+    "path": "en/oscars-best-original-screenplay.section.json",
+    "collection": "oscars"
+  },
+  {
+    "title": "Oscars — Best Picture",
+    "description": "Ten-year winner history for the Academy Award for Best Picture.",
+    "digest": "sha256:515c418450be41fb07f4e01bfb8fd2289145d5c0b20f2abf2ed17026c9f31f6f",
+    "path": "en/oscars-best-picture.section.json",
+    "collection": "oscars"
+  },
+  {
+    "title": "Oscars — Best Supporting Actor",
+    "description": "Ten-year winner history for the Academy Award for Best Supporting Actor.",
+    "digest": "sha256:07ba3fecaea1f4a7647172444b62c920c00d20939002b251d5a5ffbad33e0626",
+    "path": "en/oscars-best-supporting-actor.section.json",
+    "collection": "oscars"
+  },
+  {
+    "title": "Oscars — Best Supporting Actress",
+    "description": "Ten-year winner history for the Academy Award for Best Supporting Actress.",
+    "digest": "sha256:bd1a49deeaffdd885df8ddbf29699f6859d810ae216d7e873d89b27fcfa7b3c7",
+    "path": "en/oscars-best-supporting-actress.section.json",
+    "collection": "oscars"
+  },
+  {
+    "title": "Toronto — 2016",
+    "description": "Film award winners at the 2016 Toronto International Film Festival.",
+    "digest": "sha256:77ab8186f76a4309b1ccd5ba9a4758263285f65bef3c8f1f33bfe9635e80a371",
+    "path": "en/tiff-2016.section.json",
+    "collection": "tiff"
+  },
+  {
+    "title": "Toronto — 2017",
+    "description": "Film award winners at the 2017 Toronto International Film Festival.",
+    "digest": "sha256:d5ff98a613d689634976fc96a3f4f74da977dc92833e40132a0422f27db8c454",
+    "path": "en/tiff-2017.section.json",
+    "collection": "tiff"
+  },
+  {
+    "title": "Toronto — 2018",
+    "description": "Film award winners at the 2018 Toronto International Film Festival.",
+    "digest": "sha256:8ff385e0c2585509bd82ba2301415bdb6ca2b5efb9a90cad03f206cf619d8135",
+    "path": "en/tiff-2018.section.json",
+    "collection": "tiff"
+  },
+  {
+    "title": "Toronto — 2019",
+    "description": "Film award winners at the 2019 Toronto International Film Festival.",
+    "digest": "sha256:83890cf3179a32e623ecf2cf23ed850925eb0cfc58b5aa70166bc82fd6c98824",
+    "path": "en/tiff-2019.section.json",
+    "collection": "tiff"
+  },
+  {
+    "title": "Toronto — 2020",
+    "description": "Film award winners at the 2020 Toronto International Film Festival.",
+    "digest": "sha256:783f3e9595ad2c29500a849a845cc684b482522a2b93094cd851426ad70af391",
+    "path": "en/tiff-2020.section.json",
+    "collection": "tiff"
+  },
+  {
+    "title": "Toronto — 2021",
+    "description": "Film award winners at the 2021 Toronto International Film Festival.",
+    "digest": "sha256:dbba930a4edeed82d0ddae97153c5265b3d19fba16a00728f3bbaf75eae34cc9",
+    "path": "en/tiff-2021.section.json",
+    "collection": "tiff"
+  },
+  {
+    "title": "Toronto — 2022",
+    "description": "Film award winners at the 2022 Toronto International Film Festival.",
+    "digest": "sha256:ddf240db2a151a6d9c7b9ab6cd1073ca8781957affdc08b9c49e1d7e05075d76",
+    "path": "en/tiff-2022.section.json",
+    "collection": "tiff"
+  },
+  {
+    "title": "Toronto — 2023",
+    "description": "Film award winners at the 2023 Toronto International Film Festival.",
+    "digest": "sha256:ebd00f7ca1bfeee9c5e7cbb046da5905c0549894be6aa670dc0e03dbdfdf584f",
+    "path": "en/tiff-2023.section.json",
+    "collection": "tiff"
+  },
+  {
+    "title": "Toronto — 2024",
+    "description": "Film award winners at the 2024 Toronto International Film Festival.",
+    "digest": "sha256:f43cd7707d9391d0f6ba14a0bde2f75eff76cbe3ea86d6fa61fefaeb7fd2d1a8",
+    "path": "en/tiff-2024.section.json",
+    "collection": "tiff"
+  },
+  {
+    "title": "Toronto — 2025",
+    "description": "Film award winners at the 2025 Toronto International Film Festival.",
+    "digest": "sha256:d36ae5a614f556194af9d6ced038a898d7d6775d6d02d88f4890b8f7f8cb80db",
+    "path": "en/tiff-2025.section.json",
+    "collection": "tiff"
+  },
+  {
+    "title": "Toronto — Best Canadian Discovery",
+    "description": "Historical winners of the TIFF Best Canadian Discovery.",
+    "digest": "sha256:0ffb8ad794c9a9199abe670d61773af87ba00564d9d8ef374600f8d6072f0fa7",
+    "path": "en/tiff-best-canadian-discovery.section.json",
+    "collection": "tiff"
+  },
+  {
+    "title": "Toronto — Best Canadian Feature Film",
+    "description": "Historical winners of the TIFF Best Canadian Feature Film.",
+    "digest": "sha256:b6e3cc7f47d017169b4bb3ed9f82db63c369b9a3d6b78c1401bc95757b8c9ff5",
+    "path": "en/tiff-best-canadian-feature.section.json",
+    "collection": "tiff"
+  },
+  {
+    "title": "Toronto — People's Choice Documentary Award",
+    "description": "Historical winners of the TIFF People's Choice Documentary Award.",
+    "digest": "sha256:9e7abcb2f3ebaea58258095605e1ddf0a39e81c06b7cb90b729d0b832468c523",
+    "path": "en/tiff-documentary-peoples-choice.section.json",
+    "collection": "tiff"
+  },
+  {
+    "title": "Toronto — People's Choice Midnight Madness Award",
+    "description": "Historical winners of the TIFF People's Choice Midnight Madness Award.",
+    "digest": "sha256:6c7247656cbcf72e1cab65e7ba1696571a621d3caeb7b3d497b52d93ba6860de",
+    "path": "en/tiff-midnight-madness-peoples-choice.section.json",
+    "collection": "tiff"
+  },
+  {
+    "title": "Toronto — People's Choice Award",
+    "description": "Historical winners of the TIFF People's Choice Award.",
+    "digest": "sha256:0a82fe11eeb0b1b49f78bc6b0c9acb78403b25140395e63f2be64a6c21e2b323",
+    "path": "en/tiff-peoples-choice.section.json",
+    "collection": "tiff"
+  },
+  {
+    "title": "Toronto — Platform Prize",
+    "description": "Historical winners of the TIFF Platform Prize.",
+    "digest": "sha256:fcc7f508086c526cba1ad870a73c38b019b6e340495291f39e8951d2a104a66b",
+    "path": "en/tiff-platform-prize.section.json",
+    "collection": "tiff"
+  },
+  {
+    "title": "Venice Film Festival 2016 Awards",
+    "description": "Main Competition official award-winning films at the 2016 Venice International Film Festival.",
+    "digest": "sha256:389b6a4f905980493791bc9a75c6c4ba7f45f57daf1c701ef684202360d035a6",
+    "path": "en/venice-2016.section.json",
+    "collection": "venice"
+  },
+  {
+    "title": "Venice Film Festival 2017 Awards",
+    "description": "Main Competition official award-winning films at the 2017 Venice International Film Festival.",
+    "digest": "sha256:4c7341b3024293b351e7a9d008df8326ee0dc2956fc16d556ba89e0da2a1391e",
+    "path": "en/venice-2017.section.json",
+    "collection": "venice"
+  },
+  {
+    "title": "Venice Film Festival 2018 Awards",
+    "description": "Main Competition official award-winning films at the 2018 Venice International Film Festival.",
+    "digest": "sha256:4277abcdfac3e604dca1a8aae3c9a62b6f05f8118dee42c46322892b3e1a87b5",
+    "path": "en/venice-2018.section.json",
+    "collection": "venice"
+  },
+  {
+    "title": "Venice Film Festival 2019 Awards",
+    "description": "Main Competition official award-winning films at the 2019 Venice International Film Festival.",
+    "digest": "sha256:ac1e9348a99aed90e1099d280b11c64c45f2ed61e5e572351b63624fe539008b",
+    "path": "en/venice-2019.section.json",
+    "collection": "venice"
+  },
+  {
+    "title": "Venice Film Festival 2020 Awards",
+    "description": "Main Competition official award-winning films at the 2020 Venice International Film Festival.",
+    "digest": "sha256:4b5f352aeed82d634e02689216ca6c83df51d96b42057d9ce322a4ca8f619a69",
+    "path": "en/venice-2020.section.json",
+    "collection": "venice"
+  },
+  {
+    "title": "Venice Film Festival 2021 Awards",
+    "description": "Main Competition official award-winning films at the 2021 Venice International Film Festival.",
+    "digest": "sha256:ee0d51d458e5d2a392d9f1dca7803ea9d58ab30c8810dd957f13a47c8e0c186d",
+    "path": "en/venice-2021.section.json",
+    "collection": "venice"
+  },
+  {
+    "title": "Venice Film Festival 2022 Awards",
+    "description": "Main Competition official award-winning films at the 2022 Venice International Film Festival.",
+    "digest": "sha256:83fbd6f3afcce71dcf06a9f1384eff507b2e085e4f559d7edee6c377f5f0c97d",
+    "path": "en/venice-2022.section.json",
+    "collection": "venice"
+  },
+  {
+    "title": "Venice Film Festival 2023 Awards",
+    "description": "Main Competition official award-winning films at the 2023 Venice International Film Festival.",
+    "digest": "sha256:46c5609fddc53713c400f670a65ecb5aa9b76f760c1cd9dd743246b7d89235a0",
+    "path": "en/venice-2023.section.json",
+    "collection": "venice"
+  },
+  {
+    "title": "Venice Film Festival 2024 Awards",
+    "description": "Main Competition official award-winning films at the 2024 Venice International Film Festival.",
+    "digest": "sha256:54a085cbf363ef9c7c405ec35bda80304c30934430b8789bdc693658d41f0df6",
+    "path": "en/venice-2024.section.json",
+    "collection": "venice"
+  },
+  {
+    "title": "Venice Film Festival 2025 Awards",
+    "description": "Main Competition official award-winning films at the 2025 Venice International Film Festival.",
+    "digest": "sha256:d7e17e634ba3b0764256d8b338cffe45cb0daeb637f7748db0d4291f60fe798a",
+    "path": "en/venice-2025.section.json",
+    "collection": "venice"
+  },
+  {
+    "title": "Venice — Volpi Cup for Best Actor",
+    "description": "Historical Venice International Film Festival Volpi Cup for Best Actor winners, including predecessor/equivalent forms where applicable.",
+    "digest": "sha256:53cb03c0203fed07b0efa22afc03987bf8c4c807ba015de2e54cec730b22d2f0",
+    "path": "en/venice-best-actor.section.json",
+    "collection": "venice"
+  },
+  {
+    "title": "Venice — Volpi Cup for Best Actress",
+    "description": "Historical Venice International Film Festival Volpi Cup for Best Actress winners, including predecessor/equivalent forms where applicable.",
+    "digest": "sha256:500926aa7e28834366b46faae4c42a3dd887e2bc1df7efe3a55880a1742775a3",
+    "path": "en/venice-best-actress.section.json",
+    "collection": "venice"
+  },
+  {
+    "title": "Venice — Silver Lion – Best Director",
+    "description": "Historical Venice International Film Festival Silver Lion – Best Director winners, including predecessor/equivalent forms where applicable.",
+    "digest": "sha256:586690d4d9e6b3a49f0c8b53ae4a17964284ca6051ddd8aa35cf8c6e69dd428a",
+    "path": "en/venice-best-director.section.json",
+    "collection": "venice"
+  },
+  {
+    "title": "Venice — Best Screenplay",
+    "description": "Historical Venice International Film Festival Best Screenplay winners, including predecessor/equivalent forms where applicable.",
+    "digest": "sha256:aab8aea4b4986dfb6132a528bcb94d8f74ab4d286e1887b45e38ffd07aa6b424",
+    "path": "en/venice-best-screenplay.section.json",
+    "collection": "venice"
+  },
+  {
+    "title": "Venice — Golden Lion",
+    "description": "Historical Venice International Film Festival Golden Lion winners, including predecessor/equivalent forms where applicable.",
+    "digest": "sha256:aa223a30b5b2e82ed82b0ca61dd2c504b40ca4a492c3aa1db6d25f7bdb379b80",
+    "path": "en/venice-golden-lion.section.json",
+    "collection": "venice"
+  },
+  {
+    "title": "Venice — Silver Lion – Grand Jury Prize",
+    "description": "Historical Venice International Film Festival Silver Lion – Grand Jury Prize winners, including predecessor/equivalent forms where applicable.",
+    "digest": "sha256:2e4b5cc89efa03eecea41086d18c1a86a342aef15bcb6f75586cdab39e47d93d",
+    "path": "en/venice-grand-jury-prize.section.json",
+    "collection": "venice"
+  },
+  {
+    "title": "Venice — Marcello Mastroianni Award",
+    "description": "Historical Venice International Film Festival Marcello Mastroianni Award winners, including predecessor/equivalent forms where applicable.",
+    "digest": "sha256:5ae15510fc2523d6ad6b894bf212ed45eea18adc97bd30b58c5f610eecd3bee4",
+    "path": "en/venice-mastroianni.section.json",
+    "collection": "venice"
+  },
+  {
+    "title": "Venice — Special Jury Prize",
+    "description": "Historical Venice International Film Festival Special Jury Prize winners, including predecessor/equivalent forms where applicable.",
+    "digest": "sha256:a0fac12fca677a8159883a3ed7353e4bd108ac7fcb1c12b042bdbae8b00a6b47",
+    "path": "en/venice-special-jury-prize.section.json",
+    "collection": "venice"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "title": "金馬十年",
+    "description": "金馬獎最近十屆（2016–2025）主要獎項得獎名單。",
+    "digest": "sha256:0f982eb2fdc02912e478f80c8f1b8ab264b0e433aebcc0cbdc8ebb428fe663f5",
+    "path": "zh/golden-horse-10-years.page.json",
+    "collection": "golden-horse",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "金馬獎項",
+    "description": "金馬獎各獎項完整得獎名單。1964、1974 年未舉辦。",
+    "digest": "sha256:69f68d0e94caf2c9e38bd0a64c19f52aa21a794461ab0ba098b2e6404022d462",
+    "path": "zh/golden-horse-prizes.page.json",
+    "collection": "golden-horse",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "金鸡奖十年",
+    "description": "中国电影金鸡奖最近十个自然年内已举办届次的年度获奖页面。",
+    "digest": "sha256:15ec95a2861c9cf5ab6d1f9d796e763ce5ab5d47c86576e3ef1e7eb8bd353032",
+    "path": "zh/golden-rooster-10-years.page.json",
+    "collection": "golden-rooster",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "金鸡奖奖项",
+    "description": "中国电影金鸡奖主要奖项历届获奖页面。",
+    "digest": "sha256:10f13e04cc4fb1280287718b152ef7550e108726ce1087a6d173e18526f8c633",
+    "path": "zh/golden-rooster-prizes.page.json",
+    "collection": "golden-rooster",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "金像獎十年",
+    "description": "香港電影金像獎近十年得獎名單。2021 年順延併入 2022 年。",
+    "digest": "sha256:ca750d1b36e2f7a51dbd8773916223d01fdc7447524a04c09d43eea65f585647",
+    "path": "zh/hkfa-10-years.page.json",
+    "collection": "hkfa",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "金像獎項",
+    "description": "香港電影金像獎各獎項完整得獎名單。2021 年順延併入 2022 年舉行。",
+    "digest": "sha256:5146cb10e35999480fc747bec051ff9786c73e698853f973ecbb05417343aa87",
+    "path": "zh/hkfa-prizes.page.json",
+    "collection": "hkfa",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  }
+]

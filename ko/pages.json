@@ -1,0 +1,178 @@
+[
+  {
+    "title": "백상예술대상 10년",
+    "description": "2017–2026년 백상예술대상 영화·방송 주요 수상작과 수상자.",
+    "digest": "sha256:964c55755e991d0d701abbebfa67545cce81db8d32b4c0700a83c0d81e0ac5d2",
+    "path": "ko/baeksang-10-years.page.json",
+    "collection": "baeksang",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "백상예술대상 수상 부문",
+    "description": "2017–2026년 백상예술대상 영화·방송 주요 부문별 수상 기록.",
+    "digest": "sha256:e9909691011a6b38df52d56266e08990c0ab160093c2cf38b94733f194cd6384",
+    "path": "ko/baeksang-prizes.page.json",
+    "collection": "baeksang",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "부산국제영화제 10년",
+    "description": "부산국제영화제 최근 10회(2016–2025)의 주요 경쟁상 수상작.",
+    "digest": "sha256:739437899f0070198959682c2af77fe156625a12c5f213176cec67ca622b5ad0",
+    "path": "ko/biff-10-years.page.json",
+    "collection": "biff",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "부산국제영화제 시상",
+    "description": "부산국제영화제 주요 경쟁상과 역대 수상작.",
+    "digest": "sha256:4d1e2a0c7f8b9adf295e53764d6b5ec7e89b42390e682800353b1abecf3b35fa",
+    "path": "ko/biff-prizes.page.json",
+    "collection": "biff",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "청룡영화상 10년",
+    "description": "청룡영화상 최근 10년 수상작.",
+    "digest": "sha256:28638072b1237fac3e20fe733212c37d8f81e3dc5a12fff021a44f9d0461fe24",
+    "path": "ko/blue-dragon-10-years.page.json",
+    "collection": "blue-dragon",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "청룡영화상 수상 부문",
+    "description": "청룡영화상 부문별 전체 수상 기록.",
+    "digest": "sha256:2af6f611358f8816875f1fbcff2b8e790f26ff05b7a5a1737884dc7ee6fa91fb",
+    "path": "ko/blue-dragon-awards.page.json",
+    "collection": "blue-dragon",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "프라임타임 에미상 10년",
+    "description": "최근 10회 프라임타임 에미상 주요 부문의 수상작과 수상자.",
+    "digest": "sha256:7483350b718ad72ebeb929e485a0f23f50656b1534689b0779ce8ae5021bb155",
+    "path": "ko/emmys-10-years.page.json",
+    "collection": "emmys",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "프라임타임 에미상 부문별",
+    "description": "프라임타임 에미상 주요 부문별 수상 기록.",
+    "digest": "sha256:defd2ccee36224fc0fc32e61f5c660cfcc5523c32d7cd9640b741df4560ba7eb",
+    "path": "ko/emmys-prizes.page.json",
+    "collection": "emmys",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "골든 글로브 10년",
+    "description": "골든 글로브 최근 10회 주요 영화·텔레비전 작품 부문 수상 데이터.",
+    "digest": "sha256:e59cc881803803a505245df709a76c6ed915d3704f1a26f1a92715cf7455c538",
+    "path": "ko/golden-globes-10-years.page.json",
+    "collection": "golden-globes",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "골든 글로브 부문별",
+    "description": "골든 글로브 주요 영화·텔레비전 작품 부문 수상 데이터.",
+    "digest": "sha256:5e79fe765b13a5922377687e730961c57314b17c2f3f00ba4b80f3f3d126c0eb",
+    "path": "ko/golden-globes-prizes.page.json",
+    "collection": "golden-globes",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "홍콩 영화 금상장 — 최근 10년",
+    "description": "홍콩 영화 금상장 최근 10년 수상작. 2021년은 2022년으로 통합되어 열리지 않았습니다.",
+    "digest": "sha256:e69c8b5795e833b1041769ebaad78fedf2b0a89c26100d8c883d7afa5c788407",
+    "path": "ko/hkfa-10-years.page.json",
+    "collection": "hkfa",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "홍콩 영화 금상장 — 부문별",
+    "description": "홍콩 영화 금상장 부문별 전체 수상 기록. 2021년은 2022년으로 통합되어 열리지 않았습니다.",
+    "digest": "sha256:76c0e8de21994716f4ea1a5bae80f50f1ff00a8cf24894ab12abbf435bb9f469",
+    "path": "ko/hkfa-prizes.page.json",
+    "collection": "hkfa",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "아카데미상 10년",
+    "description": "최근 10회 아카데미상 주요 영화 부문의 수상작과 수상자.",
+    "digest": "sha256:23e80a49d0acf826c2f7b7f79ec11bd11d037f0da14e84b39c1dad507326f9ef",
+    "path": "ko/oscars-10-years.page.json",
+    "collection": "oscars",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "아카데미상 부문별",
+    "description": "아카데미상 주요 영화 부문의 최근 10회 수상 기록.",
+    "digest": "sha256:d9886d5b3fb3781d8a19a54507424b09da17a4ee313030859942b3fa8e4f051e",
+    "path": "ko/oscars-prizes.page.json",
+    "collection": "oscars",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "토론토 10년",
+    "description": "토론토국제영화제의 최근 10회 완료된 주요 영화상 수상작(2016–2025).",
+    "digest": "sha256:f819c8e76a68e8743ce5de37b412e94def368611d64a1ba47b656f7627f6b2da",
+    "path": "ko/tiff-10-years.page.json",
+    "collection": "tiff",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "토론토 영화제 수상작",
+    "description": "토론토국제영화제 주요 영화상의 역대 수상작.",
+    "digest": "sha256:7d768da158f853809487228c84a4eee4742b036eca7064de8277cdaa3ac2ff3b",
+    "path": "ko/tiff-prizes.page.json",
+    "collection": "tiff",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  }
+]

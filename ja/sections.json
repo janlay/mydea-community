@@ -1,0 +1,1003 @@
+[
+  {
+    "title": "百想芸術大賞 — 2017",
+    "description": "2017年の百想芸術大賞における主要な映画・テレビ部門の受賞作品。",
+    "digest": "sha256:93513d832226144d1f49a1cb6d748817c2ab940cf2db0c5b4cc67bad5738d74f",
+    "path": "ja/baeksang-2017.section.json",
+    "collection": "baeksang"
+  },
+  {
+    "title": "百想芸術大賞 — 2018",
+    "description": "2018年の百想芸術大賞における主要な映画・テレビ部門の受賞作品。",
+    "digest": "sha256:291d28f65c41f45f77e161d80fc7a11df31c4150655d8fc0b729f9821805efa9",
+    "path": "ja/baeksang-2018.section.json",
+    "collection": "baeksang"
+  },
+  {
+    "title": "百想芸術大賞 — 2019",
+    "description": "2019年の百想芸術大賞における主要な映画・テレビ部門の受賞作品。",
+    "digest": "sha256:607c110db997d6d2ab08e78edd818ace3607db3281a807c3680448a4d71fbd7d",
+    "path": "ja/baeksang-2019.section.json",
+    "collection": "baeksang"
+  },
+  {
+    "title": "百想芸術大賞 — 2020",
+    "description": "2020年の百想芸術大賞における主要な映画・テレビ部門の受賞作品。",
+    "digest": "sha256:d7d43e4ac2e85646c9f991913671c8093d1c306e6dbe893ac166a3488a1c0b27",
+    "path": "ja/baeksang-2020.section.json",
+    "collection": "baeksang"
+  },
+  {
+    "title": "百想芸術大賞 — 2021",
+    "description": "2021年の百想芸術大賞における主要な映画・テレビ部門の受賞作品。",
+    "digest": "sha256:942e75512e4867ecee3245239ddc4fb2563428c5d01d430f857446e1dfd7fd6a",
+    "path": "ja/baeksang-2021.section.json",
+    "collection": "baeksang"
+  },
+  {
+    "title": "百想芸術大賞 — 2022",
+    "description": "2022年の百想芸術大賞における主要な映画・テレビ部門の受賞作品。",
+    "digest": "sha256:b38ac6dfdca273f15e7f8c90e88fee6f38108b9435c7e14990c2dcb013c0b56f",
+    "path": "ja/baeksang-2022.section.json",
+    "collection": "baeksang"
+  },
+  {
+    "title": "百想芸術大賞 — 2023",
+    "description": "2023年の百想芸術大賞における主要な映画・テレビ部門の受賞作品。",
+    "digest": "sha256:00f8e9253c7abd95e2759c854f072e961bd648c04be02c3e15b4f5ccc852fc97",
+    "path": "ja/baeksang-2023.section.json",
+    "collection": "baeksang"
+  },
+  {
+    "title": "百想芸術大賞 — 2024",
+    "description": "2024年の百想芸術大賞における主要な映画・テレビ部門の受賞作品。",
+    "digest": "sha256:35f579156d0ea0c4ecc5c71beeed1b32b8e9e8da4de58de4e648681dd367b6b1",
+    "path": "ja/baeksang-2024.section.json",
+    "collection": "baeksang"
+  },
+  {
+    "title": "百想芸術大賞 — 2025",
+    "description": "2025年の百想芸術大賞における主要な映画・テレビ部門の受賞作品。",
+    "digest": "sha256:39015ae88194b333a84a5dc6387d96425fb9a9a4c7941575a4b33bf284f7431a",
+    "path": "ja/baeksang-2025.section.json",
+    "collection": "baeksang"
+  },
+  {
+    "title": "百想芸術大賞 — 2026",
+    "description": "2026年の百想芸術大賞における主要な映画・テレビ部門の受賞作品。",
+    "digest": "sha256:d3d195431087128d1c6b6ea62d6b3499a231e4474f0a1b2891f5fc99b02d7edc",
+    "path": "ja/baeksang-2026.section.json",
+    "collection": "baeksang"
+  },
+  {
+    "title": "百想芸術大賞 — 映画部門 男性最優秀演技賞",
+    "description": "百想芸術大賞の映画部門男性最優秀演技賞受賞作。 2017年から2026年までを収録。",
+    "digest": "sha256:64ace52524a3b47fa7d5ed9455fbe1044c04f67509f0d875a1a3826e8e8b1ff4",
+    "path": "ja/baeksang-film-actor.section.json",
+    "collection": "baeksang"
+  },
+  {
+    "title": "百想芸術大賞 — 映画部門 女性最優秀演技賞",
+    "description": "百想芸術大賞の映画部門女性最優秀演技賞受賞作。 2017年から2026年までを収録。",
+    "digest": "sha256:00023daee7701cc730ef753bb39bd0afe140439191418a3a1670df96f1732622",
+    "path": "ja/baeksang-film-actress.section.json",
+    "collection": "baeksang"
+  },
+  {
+    "title": "百想芸術大賞 — 映画部門 作品賞",
+    "description": "百想芸術大賞の映画部門作品賞受賞作。 2017年から2026年までを収録。",
+    "digest": "sha256:c9cc62b8a395321e57b4fb041a809851d6bde6e46d8da0b0816f11da77773a79",
+    "path": "ja/baeksang-film-best.section.json",
+    "collection": "baeksang"
+  },
+  {
+    "title": "百想芸術大賞 — 映画部門 監督賞",
+    "description": "百想芸術大賞の映画部門監督賞受賞作。 2017年から2026年までを収録。",
+    "digest": "sha256:8d6c120189834618527aeaa1f041f8a9963e4c58a6bc24f4b630608fa3a69da0",
+    "path": "ja/baeksang-film-director.section.json",
+    "collection": "baeksang"
+  },
+  {
+    "title": "百想芸術大賞 — 映画部門 大賞",
+    "description": "百想芸術大賞の映画部門大賞受賞作。 2017年から2026年までを収録。",
+    "digest": "sha256:3e7166e16f1bca24eeff79cac52f3f420bc9cd610417f66c3c14ee0bbad28622",
+    "path": "ja/baeksang-film-grand.section.json",
+    "collection": "baeksang"
+  },
+  {
+    "title": "百想芸術大賞 — テレビ部門 男性最優秀演技賞",
+    "description": "百想芸術大賞のテレビ部門男性最優秀演技賞受賞作。 2017年から2026年までを収録。",
+    "digest": "sha256:a810a6e180cb6a498aa4bb876547f8aa1a2e51255ab538d52e2bdb4b6b78f980",
+    "path": "ja/baeksang-tv-actor.section.json",
+    "collection": "baeksang"
+  },
+  {
+    "title": "百想芸術大賞 — テレビ部門 女性最優秀演技賞",
+    "description": "百想芸術大賞のテレビ部門女性最優秀演技賞受賞作。 2017年から2026年までを収録。",
+    "digest": "sha256:1a0c23ec780c29239cb72f4570bf240c1abf9215ccae5d86509f5132ad4cbd1b",
+    "path": "ja/baeksang-tv-actress.section.json",
+    "collection": "baeksang"
+  },
+  {
+    "title": "百想芸術大賞 — テレビ部門 作品賞",
+    "description": "百想芸術大賞のテレビ部門作品賞受賞作。 2017年から2026年までを収録。",
+    "digest": "sha256:9616c62816a92e335a4de252c70b75136f6a1372a7acbb5409b6dcab20884e26",
+    "path": "ja/baeksang-tv-best.section.json",
+    "collection": "baeksang"
+  },
+  {
+    "title": "百想芸術大賞 — テレビ部門 演出賞",
+    "description": "百想芸術大賞のテレビ部門演出賞受賞作。 2017年から2026年までを収録。",
+    "digest": "sha256:c5c01c87a5ce104c98c14e1c866cbe7b1bee0f38939bf15ef453778a90e67af5",
+    "path": "ja/baeksang-tv-director.section.json",
+    "collection": "baeksang"
+  },
+  {
+    "title": "百想芸術大賞 — テレビ部門 大賞",
+    "description": "百想芸術大賞のテレビ部門大賞受賞作。 2017年から2026年までを収録。",
+    "digest": "sha256:03c16f19204f6c51ff192a9f8dfe0bd9685ec980f221d4e743f8b4a51bdc52eb",
+    "path": "ja/baeksang-tv-grand.section.json",
+    "collection": "baeksang"
+  },
+  {
+    "title": "釜山国際映画祭 2016 受賞作品",
+    "description": "釜山国際映画祭 2016 の主要コンペティション受賞作品。",
+    "digest": "sha256:c2a9ad4d23ce91db679ecb92caef85ac0d5229c7cf08fb7f551d00dd9709dc44",
+    "path": "ja/biff-2016.section.json",
+    "collection": "biff"
+  },
+  {
+    "title": "釜山国際映画祭 2017 受賞作品",
+    "description": "釜山国際映画祭 2017 の主要コンペティション受賞作品。",
+    "digest": "sha256:2d14b79ca6e85fb14277afce14e9b11f7bdebbcc7994c0d1477d46fb03ec3dda",
+    "path": "ja/biff-2017.section.json",
+    "collection": "biff"
+  },
+  {
+    "title": "釜山国際映画祭 2018 受賞作品",
+    "description": "釜山国際映画祭 2018 の主要コンペティション受賞作品。",
+    "digest": "sha256:97b1a4cd5e96d85ce4b611bdef28350fb2ca4ccb16a4a565c59399bde2631237",
+    "path": "ja/biff-2018.section.json",
+    "collection": "biff"
+  },
+  {
+    "title": "釜山国際映画祭 2019 受賞作品",
+    "description": "釜山国際映画祭 2019 の主要コンペティション受賞作品。",
+    "digest": "sha256:c166dfcc6692f1458671523d131ff14253fb99e7edb0604560b295108df75cce",
+    "path": "ja/biff-2019.section.json",
+    "collection": "biff"
+  },
+  {
+    "title": "釜山国際映画祭 2020 受賞作品",
+    "description": "釜山国際映画祭 2020 の主要コンペティション受賞作品。",
+    "digest": "sha256:1cf3c7b67b43e71891f4e139e0b2dea236bdfbd4540da413fe9f669b2c89e20b",
+    "path": "ja/biff-2020.section.json",
+    "collection": "biff"
+  },
+  {
+    "title": "釜山国際映画祭 2021 受賞作品",
+    "description": "釜山国際映画祭 2021 の主要コンペティション受賞作品。",
+    "digest": "sha256:e806ad08068707c2351b278d60b851da2db035783ad603abe95251e1b72005b1",
+    "path": "ja/biff-2021.section.json",
+    "collection": "biff"
+  },
+  {
+    "title": "釜山国際映画祭 2022 受賞作品",
+    "description": "釜山国際映画祭 2022 の主要コンペティション受賞作品。",
+    "digest": "sha256:ce836e6d56ea8f494e1c8f3ca8ea7d18ed202f0104bd3c6c191357ff65c5220d",
+    "path": "ja/biff-2022.section.json",
+    "collection": "biff"
+  },
+  {
+    "title": "釜山国際映画祭 2023 受賞作品",
+    "description": "釜山国際映画祭 2023 の主要コンペティション受賞作品。",
+    "digest": "sha256:304d231fa917263bb3c81161bb1b47199f86289b098416fd3869e6d643adf3e4",
+    "path": "ja/biff-2023.section.json",
+    "collection": "biff"
+  },
+  {
+    "title": "釜山国際映画祭 2024 受賞作品",
+    "description": "釜山国際映画祭 2024 の主要コンペティション受賞作品。",
+    "digest": "sha256:4f4d0342271e0886a8f52ac773e6756bd83c03ed40e9b83afa48db4cddfe0388",
+    "path": "ja/biff-2024.section.json",
+    "collection": "biff"
+  },
+  {
+    "title": "釜山国際映画祭 2025 受賞作品",
+    "description": "釜山国際映画祭 2025 の主要コンペティション受賞作品。",
+    "digest": "sha256:f7dd3ff14d12b61691961b3178142204829660a5e2b5cc14946142f7e5120455",
+    "path": "ja/biff-2025.section.json",
+    "collection": "biff"
+  },
+  {
+    "title": "釜山国際映画祭 — 釜山賞 最優秀作品賞",
+    "description": "釜山国際映画祭「釜山賞 最優秀作品賞」の歴代受賞作品。",
+    "digest": "sha256:e943de8b632d58a2550e26c946db89d3d25289cf24aabeb6c7c55dabec3888bc",
+    "path": "ja/biff-busan-best-film.section.json",
+    "collection": "biff"
+  },
+  {
+    "title": "釜山国際映画祭 — キム・ジソク賞",
+    "description": "釜山国際映画祭「キム・ジソク賞」の歴代受賞作品。",
+    "digest": "sha256:0c96da31b9697cc75b192f9262a3af280fe979599a99f79db6b55d0a774e0436",
+    "path": "ja/biff-kim-jiseok.section.json",
+    "collection": "biff"
+  },
+  {
+    "title": "釜山国際映画祭 — BIFFメセナ賞",
+    "description": "釜山国際映画祭「BIFFメセナ賞」の歴代受賞ドキュメンタリー。",
+    "digest": "sha256:6f4457f491d8b78cbc60909ad440e4de0dc1a22758ee83826b875b48b6638e06",
+    "path": "ja/biff-mecenat.section.json",
+    "collection": "biff"
+  },
+  {
+    "title": "釜山国際映画祭 — ニューカレンツ賞",
+    "description": "釜山国際映画祭「ニューカレンツ賞」の歴代受賞作品。",
+    "digest": "sha256:33516f0f2cd41a38627ec0e3d80e68c4bedd598c4f91a2f03dca8f5bac410d87",
+    "path": "ja/biff-new-currents.section.json",
+    "collection": "biff"
+  },
+  {
+    "title": "釜山国際映画祭 — ソンジェ賞",
+    "description": "釜山国際映画祭「ソンジェ賞」の歴代受賞短編。",
+    "digest": "sha256:406ee0fba0dd48c593cdec026394fc4b70e8ee80765031808b619ba2e862ee6c",
+    "path": "ja/biff-sonje.section.json",
+    "collection": "biff"
+  },
+  {
+    "title": "青龍映画賞 — 2016",
+    "description": "2016年青龍映画賞、主要10部門の受賞記録。",
+    "digest": "sha256:c66539e08cb66380c75c2f640ffc749aac6c1e086ccf61bc9d73acb4ded343cf",
+    "path": "ja/blue-dragon-2016.section.json",
+    "collection": "blue-dragon"
+  },
+  {
+    "title": "青龍映画賞 — 2017",
+    "description": "2017年青龍映画賞、主要10部門の受賞記録。",
+    "digest": "sha256:337e833231960add4214e64c47eafc059e166a0b89ea46ecc1f42b370724fa91",
+    "path": "ja/blue-dragon-2017.section.json",
+    "collection": "blue-dragon"
+  },
+  {
+    "title": "青龍映画賞 — 2018",
+    "description": "2018年青龍映画賞、主要10部門の受賞記録。",
+    "digest": "sha256:b1c9f86c4b8e86467c5723b8aed3ec7445cdc7277927b348b1c801cbb73d016f",
+    "path": "ja/blue-dragon-2018.section.json",
+    "collection": "blue-dragon"
+  },
+  {
+    "title": "青龍映画賞 — 2019",
+    "description": "2019年青龍映画賞、主要10部門の受賞記録。",
+    "digest": "sha256:43154f8801b9f3b405cd817749636a495878aa81f1dd5367b8ae8b14afa05005",
+    "path": "ja/blue-dragon-2019.section.json",
+    "collection": "blue-dragon"
+  },
+  {
+    "title": "青龍映画賞 — 2020",
+    "description": "2020年青龍映画賞、主要10部門の受賞記録。",
+    "digest": "sha256:0cc2ec30d7d661ad0aecfd4f40c3904b912fb073bdf01a8d5b902399fdf81f5c",
+    "path": "ja/blue-dragon-2020.section.json",
+    "collection": "blue-dragon"
+  },
+  {
+    "title": "青龍映画賞 — 2021",
+    "description": "2021年青龍映画賞、主要10部門の受賞記録。",
+    "digest": "sha256:45201deb916114d5caad1d330386de305214ec9c7163d9bee95b7ec2c3e5e05b",
+    "path": "ja/blue-dragon-2021.section.json",
+    "collection": "blue-dragon"
+  },
+  {
+    "title": "青龍映画賞 — 2022",
+    "description": "2022年青龍映画賞、主要10部門の受賞記録。",
+    "digest": "sha256:58c5ddf3f8ead55794cca6915f3f5995839f42c741f2a75275a137f33b65a04e",
+    "path": "ja/blue-dragon-2022.section.json",
+    "collection": "blue-dragon"
+  },
+  {
+    "title": "青龍映画賞 — 2023",
+    "description": "2023年青龍映画賞、主要10部門の受賞記録。",
+    "digest": "sha256:a5a4441a123951f37abd1618cbab5c1e76e9dc853c551a1c9d1c7103c5f1880d",
+    "path": "ja/blue-dragon-2023.section.json",
+    "collection": "blue-dragon"
+  },
+  {
+    "title": "青龍映画賞 — 2024",
+    "description": "2024年青龍映画賞、主要10部門の受賞記録。",
+    "digest": "sha256:a730e207cd5368f4ba6ec191272dbc77d1959a07034dce7cff65b0aa418fc3b7",
+    "path": "ja/blue-dragon-2024.section.json",
+    "collection": "blue-dragon"
+  },
+  {
+    "title": "青龍映画賞 — 2025",
+    "description": "2025年青龍映画賞、主要10部門の受賞記録。",
+    "digest": "sha256:d714d5977733bbc084787b380f7cd44a048a5310ebd50a2b2ca7dde87cd3df04",
+    "path": "ja/blue-dragon-2025.section.json",
+    "collection": "blue-dragon"
+  },
+  {
+    "title": "青龍映画賞 — 主演男優賞",
+    "description": "青龍映画賞主演男優賞の歴代受賞者。",
+    "digest": "sha256:957b353d0df9f382c2e5f23ab51e2dbdd1b9ff69664b0becaf6c6f24a787c49a",
+    "path": "ja/blue-dragon-best-actor.section.json",
+    "collection": "blue-dragon"
+  },
+  {
+    "title": "青龍映画賞 — 主演女優賞",
+    "description": "青龍映画賞主演女優賞の歴代受賞者。",
+    "digest": "sha256:9b0ad6560b2330c170343725ac2ce2a662e9126ccb947e1a997bac6a08272431",
+    "path": "ja/blue-dragon-best-actress.section.json",
+    "collection": "blue-dragon"
+  },
+  {
+    "title": "青龍映画賞 — 監督賞",
+    "description": "青龍映画賞監督賞の歴代受賞者。",
+    "digest": "sha256:d6ce73eefa2e4745ce168fdd8a5e07ea00c0afa9d4199f2d6cc2c4eb5eb04447",
+    "path": "ja/blue-dragon-best-director.section.json",
+    "collection": "blue-dragon"
+  },
+  {
+    "title": "青龍映画賞 — 最優秀作品賞",
+    "description": "青龍映画賞最優秀作品賞の歴代受賞作。",
+    "digest": "sha256:133e30516d6dfdd992a684e6bca7317184dc095981214571ba63acf287f8334f",
+    "path": "ja/blue-dragon-best-film.section.json",
+    "collection": "blue-dragon"
+  },
+  {
+    "title": "青龍映画賞 — 新人男優賞",
+    "description": "青龍映画賞新人男優賞の歴代受賞者。",
+    "digest": "sha256:bb66962962a04ac8549473bbd61a9af4943a11b5613da12b40e6df13972a12a8",
+    "path": "ja/blue-dragon-best-new-actor.section.json",
+    "collection": "blue-dragon"
+  },
+  {
+    "title": "青龍映画賞 — 新人女優賞",
+    "description": "青龍映画賞新人女優賞の歴代受賞者。",
+    "digest": "sha256:f2c33dbd9e9114d8dd05ed219893de69a5e134a64c438ac17b2097d565a6eb45",
+    "path": "ja/blue-dragon-best-new-actress.section.json",
+    "collection": "blue-dragon"
+  },
+  {
+    "title": "青龍映画賞 — 新人監督賞",
+    "description": "青龍映画賞新人監督賞の歴代受賞者。",
+    "digest": "sha256:e6a6e923072833d3afcb47ef64e48f2a981d30eae111d7bbb5d4391eb5ccc6dc",
+    "path": "ja/blue-dragon-best-new-director.section.json",
+    "collection": "blue-dragon"
+  },
+  {
+    "title": "青龍映画賞 — 脚本賞",
+    "description": "青龍映画賞脚本賞の歴代受賞者。",
+    "digest": "sha256:ab10eb4252d8944f467157bc6e008b39e44d9dd34853e862d56df588a229170e",
+    "path": "ja/blue-dragon-best-screenplay.section.json",
+    "collection": "blue-dragon"
+  },
+  {
+    "title": "青龍映画賞 — 助演男優賞",
+    "description": "青龍映画賞助演男優賞の歴代受賞者。",
+    "digest": "sha256:2f9c5071326d086e070824857a339c897fd60148e48354598e534c86264add23",
+    "path": "ja/blue-dragon-best-supporting-actor.section.json",
+    "collection": "blue-dragon"
+  },
+  {
+    "title": "青龍映画賞 — 助演女優賞",
+    "description": "青龍映画賞助演女優賞の歴代受賞者。",
+    "digest": "sha256:3a1a273fb91c3284181931e17c02eecb98c7052c34511232e3deec5d4e34b362",
+    "path": "ja/blue-dragon-best-supporting-actress.section.json",
+    "collection": "blue-dragon"
+  },
+  {
+    "title": "プライムタイム・エミー賞 2017 受賞一覧",
+    "description": "第69回プライムタイム・エミー賞の主要部門受賞記録。",
+    "digest": "sha256:a558f1d6a6b9a459bcd72525d7a4fa91209cff7fa118af45fb7dfddcda662bb7",
+    "path": "ja/emmys-2017.section.json",
+    "collection": "emmys"
+  },
+  {
+    "title": "プライムタイム・エミー賞 2018 受賞一覧",
+    "description": "第70回プライムタイム・エミー賞の主要部門受賞記録。",
+    "digest": "sha256:84fe028ce26b799ef58683cb84e5c9e3143d676c1b772954c0b5abe5583dc49d",
+    "path": "ja/emmys-2018.section.json",
+    "collection": "emmys"
+  },
+  {
+    "title": "プライムタイム・エミー賞 2019 受賞一覧",
+    "description": "第71回プライムタイム・エミー賞の主要部門受賞記録。",
+    "digest": "sha256:deba79f7c609451411759c463ba22a156219399dda765bed29762e82e4c4494b",
+    "path": "ja/emmys-2019.section.json",
+    "collection": "emmys"
+  },
+  {
+    "title": "プライムタイム・エミー賞 2020 受賞一覧",
+    "description": "第72回プライムタイム・エミー賞の主要部門受賞記録。",
+    "digest": "sha256:a67ea34706745d0d677bbba0a0a651fcde585d5a751ec76af0b29d7afcd737ab",
+    "path": "ja/emmys-2020.section.json",
+    "collection": "emmys"
+  },
+  {
+    "title": "プライムタイム・エミー賞 2021 受賞一覧",
+    "description": "第73回プライムタイム・エミー賞の主要部門受賞記録。",
+    "digest": "sha256:48265ed39d1729d2b71c6722a8ac41076a8b0e9e04d41565b999e8be8bc519e4",
+    "path": "ja/emmys-2021.section.json",
+    "collection": "emmys"
+  },
+  {
+    "title": "プライムタイム・エミー賞 2022 受賞一覧",
+    "description": "第74回プライムタイム・エミー賞の主要部門受賞記録。",
+    "digest": "sha256:26e3fed78cd5e65beced9bd699d05c2f4a5f9243390786185170002400d739f2",
+    "path": "ja/emmys-2022.section.json",
+    "collection": "emmys"
+  },
+  {
+    "title": "プライムタイム・エミー賞 2023 受賞一覧",
+    "description": "第75回プライムタイム・エミー賞の主要部門受賞記録。",
+    "digest": "sha256:3c22e14f854170a019000e735ae7b9818a95e43cfed3c188ffb6c19a81af3e4e",
+    "path": "ja/emmys-2023.section.json",
+    "collection": "emmys"
+  },
+  {
+    "title": "プライムタイム・エミー賞 2024 受賞一覧",
+    "description": "第76回プライムタイム・エミー賞の主要部門受賞記録。",
+    "digest": "sha256:194d06bca656e0c88b269def323c0f9d8e75255f128081021aee07b3696881e1",
+    "path": "ja/emmys-2024.section.json",
+    "collection": "emmys"
+  },
+  {
+    "title": "プライムタイム・エミー賞 2025 受賞一覧",
+    "description": "第77回プライムタイム・エミー賞の主要部門受賞記録。",
+    "digest": "sha256:b2f6e16cd4b99c1ecf96171ffcf9baa6dadb148aab02c432a0a3607fe62eb500",
+    "path": "ja/emmys-2025.section.json",
+    "collection": "emmys"
+  },
+  {
+    "title": "プライムタイム・エミー賞 2026 受賞一覧",
+    "description": "第78回プライムタイム・エミー賞の主要部門受賞記録。",
+    "digest": "sha256:7851efd782da978243cc5bbf82f409820b4dd5e772e8bef4c7647c80e99b9c66",
+    "path": "ja/emmys-2026.section.json",
+    "collection": "emmys"
+  },
+  {
+    "title": "プライムタイム・エミー賞 — 作品賞 コメディ・シリーズ部門",
+    "description": "プライムタイム・エミー賞「作品賞 コメディ・シリーズ部門」の受賞記録。",
+    "digest": "sha256:c33157d481d8f5f9881ecd26b1566fea38fd851b26cd36392eff7a0e84e11c89",
+    "path": "ja/emmys-comedy-series.section.json",
+    "collection": "emmys"
+  },
+  {
+    "title": "プライムタイム・エミー賞 — 作品賞 ドラマ・シリーズ部門",
+    "description": "プライムタイム・エミー賞「作品賞 ドラマ・シリーズ部門」の受賞記録。",
+    "digest": "sha256:219771bdfde3ef89506acd2ec5489cebf32a5125b78d05ed108e4f0f1b6a3011",
+    "path": "ja/emmys-drama-series.section.json",
+    "collection": "emmys"
+  },
+  {
+    "title": "プライムタイム・エミー賞 — 主演男優賞 コメディ・シリーズ部門",
+    "description": "プライムタイム・エミー賞「主演男優賞 コメディ・シリーズ部門」の受賞記録。",
+    "digest": "sha256:7e8f9f88e681fecc305148f62ae327680c6a5117eb0b2bb3f33b485f32ce5ac1",
+    "path": "ja/emmys-lead-actor-comedy.section.json",
+    "collection": "emmys"
+  },
+  {
+    "title": "プライムタイム・エミー賞 — 主演男優賞 ドラマ・シリーズ部門",
+    "description": "プライムタイム・エミー賞「主演男優賞 ドラマ・シリーズ部門」の受賞記録。",
+    "digest": "sha256:938e70282916ff403d12469e3a1259dc9ef33039ea13b90283a7f8b8c2c34b74",
+    "path": "ja/emmys-lead-actor-drama.section.json",
+    "collection": "emmys"
+  },
+  {
+    "title": "プライムタイム・エミー賞 — 主演女優賞 コメディ・シリーズ部門",
+    "description": "プライムタイム・エミー賞「主演女優賞 コメディ・シリーズ部門」の受賞記録。",
+    "digest": "sha256:b95e36d6965004661e5870fdb0e5d917bd5ea7a061ed24c6d237ca3fe046b3d5",
+    "path": "ja/emmys-lead-actress-comedy.section.json",
+    "collection": "emmys"
+  },
+  {
+    "title": "プライムタイム・エミー賞 — 主演女優賞 ドラマ・シリーズ部門",
+    "description": "プライムタイム・エミー賞「主演女優賞 ドラマ・シリーズ部門」の受賞記録。",
+    "digest": "sha256:899e245f8cf18277d0818c9ff0dc1ac5cbb65ab6e79c2ce1568830c5f5b9bc96",
+    "path": "ja/emmys-lead-actress-drama.section.json",
+    "collection": "emmys"
+  },
+  {
+    "title": "プライムタイム・エミー賞 — 作品賞 リミテッド／アンソロジー・シリーズ部門",
+    "description": "プライムタイム・エミー賞「作品賞 リミテッド／アンソロジー・シリーズ部門」の受賞記録。",
+    "digest": "sha256:b01f339a7afbdfe386cc1e602c8c5baeb948718c23dc8a79dadd799c83015d3d",
+    "path": "ja/emmys-limited-series.section.json",
+    "collection": "emmys"
+  },
+  {
+    "title": "ゴールデングローブ賞 2017",
+    "description": "2017年のゴールデングローブ賞主要映画・テレビ作品部門の受賞一覧。",
+    "digest": "sha256:3f9713dfccbea4f5dd1323fd35c3771f0ec4860e457623538a1e722377540a49",
+    "path": "ja/golden-globes-2017.section.json",
+    "collection": "golden-globes"
+  },
+  {
+    "title": "ゴールデングローブ賞 2018",
+    "description": "2018年のゴールデングローブ賞主要映画・テレビ作品部門の受賞一覧。",
+    "digest": "sha256:969bf2a29c8893c40b66ca408dcf9d1aee6f459e20a2c5ba73c8bab96152f84d",
+    "path": "ja/golden-globes-2018.section.json",
+    "collection": "golden-globes"
+  },
+  {
+    "title": "ゴールデングローブ賞 2019",
+    "description": "2019年のゴールデングローブ賞主要映画・テレビ作品部門の受賞一覧。",
+    "digest": "sha256:95d6890ba663904ce17284844ec94611f952e26da5cfeb8be5da3c071beb5381",
+    "path": "ja/golden-globes-2019.section.json",
+    "collection": "golden-globes"
+  },
+  {
+    "title": "ゴールデングローブ賞 2020",
+    "description": "2020年のゴールデングローブ賞主要映画・テレビ作品部門の受賞一覧。",
+    "digest": "sha256:93f45e66a160d65ce0ad5b9c05c7483d7d421cca39fe914443c5361f8dc333cb",
+    "path": "ja/golden-globes-2020.section.json",
+    "collection": "golden-globes"
+  },
+  {
+    "title": "ゴールデングローブ賞 2021",
+    "description": "2021年のゴールデングローブ賞主要映画・テレビ作品部門の受賞一覧。",
+    "digest": "sha256:171e59961686733df4b1104181408b5892fd21b34a2141f9a7e71b433d41ee13",
+    "path": "ja/golden-globes-2021.section.json",
+    "collection": "golden-globes"
+  },
+  {
+    "title": "ゴールデングローブ賞 2022",
+    "description": "2022年のゴールデングローブ賞主要映画・テレビ作品部門の受賞一覧。",
+    "digest": "sha256:5081b3775d28196614f914bd4c3e33c610e58a1a692de77e30dea44b8efef9ee",
+    "path": "ja/golden-globes-2022.section.json",
+    "collection": "golden-globes"
+  },
+  {
+    "title": "ゴールデングローブ賞 2023",
+    "description": "2023年のゴールデングローブ賞主要映画・テレビ作品部門の受賞一覧。",
+    "digest": "sha256:8b2febe6e9fc028cc69953b9442743efbd568b9545c4f49744ad7f2ef3090888",
+    "path": "ja/golden-globes-2023.section.json",
+    "collection": "golden-globes"
+  },
+  {
+    "title": "ゴールデングローブ賞 2024",
+    "description": "2024年のゴールデングローブ賞主要映画・テレビ作品部門の受賞一覧。",
+    "digest": "sha256:4d6c39b5b517e7210e286f9eeb1084e50b7bcccdbb38b7cd679541eb99ee2da5",
+    "path": "ja/golden-globes-2024.section.json",
+    "collection": "golden-globes"
+  },
+  {
+    "title": "ゴールデングローブ賞 2025",
+    "description": "2025年のゴールデングローブ賞主要映画・テレビ作品部門の受賞一覧。",
+    "digest": "sha256:7c554d83039d39634b82d163ed634e3a10553b20507bbf217d5ff930410603c8",
+    "path": "ja/golden-globes-2025.section.json",
+    "collection": "golden-globes"
+  },
+  {
+    "title": "ゴールデングローブ賞 2026",
+    "description": "2026年のゴールデングローブ賞主要映画・テレビ作品部門の受賞一覧。",
+    "digest": "sha256:c7c91f22c633634708c3c431e4dc77f7fc8785f85ecf9e42b6a97f645da8c192",
+    "path": "ja/golden-globes-2026.section.json",
+    "collection": "golden-globes"
+  },
+  {
+    "title": "ゴールデングローブ賞 — アニメーション映画賞",
+    "description": "2017年から2026年までのゴールデングローブ賞「アニメーション映画賞」受賞作品。",
+    "digest": "sha256:a5974f725464575893189fdf8022d04676385002873599d580d5c50fa455c4f7",
+    "path": "ja/golden-globes-animated.section.json",
+    "collection": "golden-globes"
+  },
+  {
+    "title": "ゴールデングローブ賞 — シネマティック＆ボックスオフィス・アチーブメント賞",
+    "description": "2017年から2026年までのゴールデングローブ賞「シネマティック＆ボックスオフィス・アチーブメント賞」受賞作品。",
+    "digest": "sha256:70267650b4e26ca92a5bf513914fecc74a10e6a9d7cd3101efe4ef60c396eaeb",
+    "path": "ja/golden-globes-boxoffice.section.json",
+    "collection": "golden-globes"
+  },
+  {
+    "title": "ゴールデングローブ賞 — 作品賞 ミュージカル・コメディ部門",
+    "description": "2017年から2026年までのゴールデングローブ賞「作品賞 ミュージカル・コメディ部門」受賞作品。",
+    "digest": "sha256:47a6d8990a2017ff978ca38514b16ce4a404c94bb8fcac5df89e186f93356877",
+    "path": "ja/golden-globes-comedy.section.json",
+    "collection": "golden-globes"
+  },
+  {
+    "title": "ゴールデングローブ賞 — 作品賞 ドラマ部門",
+    "description": "2017年から2026年までのゴールデングローブ賞「作品賞 ドラマ部門」受賞作品。",
+    "digest": "sha256:c9709ae5ff508691c4c5d654a89434bb6d259bb39d5d9afd9a88ba782aea950a",
+    "path": "ja/golden-globes-drama.section.json",
+    "collection": "golden-globes"
+  },
+  {
+    "title": "ゴールデングローブ賞 — 非英語映画賞",
+    "description": "2017年から2026年までのゴールデングローブ賞「非英語映画賞」受賞作品。",
+    "digest": "sha256:b3a69f514b55df3a010c8c529311f3936fcf9677ab6fb49efce3c642030b91fe",
+    "path": "ja/golden-globes-foreign.section.json",
+    "collection": "golden-globes"
+  },
+  {
+    "title": "ゴールデングローブ賞 — リミテッドシリーズ・アンソロジー・テレビ映画賞",
+    "description": "2017年から2026年までのゴールデングローブ賞「リミテッドシリーズ・アンソロジー・テレビ映画賞」受賞作品。",
+    "digest": "sha256:ddf72b87abe974d8d956bcd3287f7f20dd1b6af99787a7ba1e736132ade4adb9",
+    "path": "ja/golden-globes-limited.section.json",
+    "collection": "golden-globes"
+  },
+  {
+    "title": "ゴールデングローブ賞 — テレビ作品賞 ミュージカル・コメディ部門",
+    "description": "2017年から2026年までのゴールデングローブ賞「テレビ作品賞 ミュージカル・コメディ部門」受賞作品。",
+    "digest": "sha256:f8cfd768009532920b2553c1a4d4dd98aca13df0a5ac692875b548e5d1dff86b",
+    "path": "ja/golden-globes-tv-comedy.section.json",
+    "collection": "golden-globes"
+  },
+  {
+    "title": "ゴールデングローブ賞 — テレビドラマ作品賞",
+    "description": "2017年から2026年までのゴールデングローブ賞「テレビドラマ作品賞」受賞作品。",
+    "digest": "sha256:655bed2e4ee0ed7bf35a1acd45fb5df84474ffd7c908c2e92a6cc553147bd85d",
+    "path": "ja/golden-globes-tv-drama.section.json",
+    "collection": "golden-globes"
+  },
+  {
+    "title": "香港電影金像奨 2017 受賞一覧",
+    "description": "2017年香港電影金像奨の主要部門受賞作品・受賞者。",
+    "digest": "sha256:9c4d69ac59dccecbc88b9c7297a62d66fa110441dc37b6f8c400a8f94e6c9f67",
+    "path": "ja/hkfa-2017.section.json",
+    "collection": "hkfa"
+  },
+  {
+    "title": "香港電影金像奨 2018 受賞一覧",
+    "description": "2018年香港電影金像奨の主要部門受賞作品・受賞者。",
+    "digest": "sha256:e0dbab61d23c0814dbaf14e15b3d6c66f8ea4d52cff2d6fe38fb140fa04dbf3b",
+    "path": "ja/hkfa-2018.section.json",
+    "collection": "hkfa"
+  },
+  {
+    "title": "香港電影金像奨 2019 受賞一覧",
+    "description": "2019年香港電影金像奨の主要部門受賞作品・受賞者。",
+    "digest": "sha256:d08b53ca2bdaad6e63dd08344970c749bfb00d22c253d1024d4817bb8a7ea3e3",
+    "path": "ja/hkfa-2019.section.json",
+    "collection": "hkfa"
+  },
+  {
+    "title": "香港電影金像奨 2020 受賞一覧",
+    "description": "2020年香港電影金像奨の主要部門受賞作品・受賞者。",
+    "digest": "sha256:7350cf4291723a3abef9953a1276e8890980df2d4a93f61ecdb465d8d34eb087",
+    "path": "ja/hkfa-2020.section.json",
+    "collection": "hkfa"
+  },
+  {
+    "title": "香港電影金像奨 2022 受賞一覧",
+    "description": "2022年香港電影金像奨の主要部門受賞作品・受賞者。",
+    "digest": "sha256:c34533f99ca76cf834eefe7d461217bd3b2689f6b48717d528824f76bb8aa965",
+    "path": "ja/hkfa-2022.section.json",
+    "collection": "hkfa"
+  },
+  {
+    "title": "香港電影金像奨 2023 受賞一覧",
+    "description": "2023年香港電影金像奨の主要部門受賞作品・受賞者。",
+    "digest": "sha256:b24bd94f29c4b8f8aa96d6da47a3776bdad119bb0beda1c7351728b7a56d40bd",
+    "path": "ja/hkfa-2023.section.json",
+    "collection": "hkfa"
+  },
+  {
+    "title": "香港電影金像奨 2024 受賞一覧",
+    "description": "2024年香港電影金像奨の主要部門受賞作品・受賞者。",
+    "digest": "sha256:1378b7c62a44c65c98636f548121bfaae43bc98316c978086a894c9f6d8c2a21",
+    "path": "ja/hkfa-2024.section.json",
+    "collection": "hkfa"
+  },
+  {
+    "title": "香港電影金像奨 2025 受賞一覧",
+    "description": "2025年香港電影金像奨の主要部門受賞作品・受賞者。",
+    "digest": "sha256:5d4b7bda4bba54aa6ab7855648c8bbda4ae4b8b90b2577ea9e82ddd4ff5c4621",
+    "path": "ja/hkfa-2025.section.json",
+    "collection": "hkfa"
+  },
+  {
+    "title": "香港電影金像奨 2026 受賞一覧",
+    "description": "2026年香港電影金像奨の主要部門受賞作品・受賞者。",
+    "digest": "sha256:a44c4a78028e4cee4c4a6cc4314c6135d4ea70dea42f4785e6b6e515719646d4",
+    "path": "ja/hkfa-2026.section.json",
+    "collection": "hkfa"
+  },
+  {
+    "title": "香港電影金像奨 — 最優秀主演男優賞",
+    "description": "香港電影金像奨の歴代最優秀主演男優賞受賞記録。",
+    "digest": "sha256:d613309c9d0ed0d2e58dca4576539749b9bf5e4186b88b9ddd4352c30d6424e3",
+    "path": "ja/hkfa-best-actor.section.json",
+    "collection": "hkfa"
+  },
+  {
+    "title": "香港電影金像奨 — 最優秀主演女優賞",
+    "description": "香港電影金像奨の歴代最優秀主演女優賞受賞記録。",
+    "digest": "sha256:4efd67ad2f3edc0d0779078cb3c3f255765556e41fd357fd26f8f2f09f090868",
+    "path": "ja/hkfa-best-actress.section.json",
+    "collection": "hkfa"
+  },
+  {
+    "title": "香港電影金像奨 — 最優秀監督賞",
+    "description": "香港電影金像奨の歴代最優秀監督賞受賞記録。",
+    "digest": "sha256:debff09aa9539d78d59573c39038f4eb40219727d4a68c8b0ca40d0b16e12d7a",
+    "path": "ja/hkfa-best-director.section.json",
+    "collection": "hkfa"
+  },
+  {
+    "title": "香港電影金像奨 — 最優秀作品賞",
+    "description": "香港電影金像奨の歴代最優秀作品賞受賞記録。",
+    "digest": "sha256:0084008f504a41460a23638ed3f705038e308fcfc6f46987e52d8c75aadc4877",
+    "path": "ja/hkfa-best-film.section.json",
+    "collection": "hkfa"
+  },
+  {
+    "title": "香港電影金像奨 — 最優秀新人賞",
+    "description": "香港電影金像奨の歴代最優秀新人賞受賞記録。",
+    "digest": "sha256:15fc707a5d0d4fcaceeb4d920216cfec22de67de47d55111cebb55321a7bada5",
+    "path": "ja/hkfa-best-new-performer.section.json",
+    "collection": "hkfa"
+  },
+  {
+    "title": "香港電影金像奨 — 最優秀脚本賞",
+    "description": "香港電影金像奨の歴代最優秀脚本賞受賞記録。",
+    "digest": "sha256:9b375182dc84230c18567b786aa3c4c5b36433055bcdc7c0844cba040eaaabb9",
+    "path": "ja/hkfa-best-screenplay.section.json",
+    "collection": "hkfa"
+  },
+  {
+    "title": "香港電影金像奨 — 最優秀助演男優賞",
+    "description": "香港電影金像奨の歴代最優秀助演男優賞受賞記録。",
+    "digest": "sha256:4fec89c1e2f233c6550ec72d0bfd55b61293df7c95c2dffce4126c2a2b681d68",
+    "path": "ja/hkfa-best-supporting-actor.section.json",
+    "collection": "hkfa"
+  },
+  {
+    "title": "香港電影金像奨 — 最優秀助演女優賞",
+    "description": "香港電影金像奨の歴代最優秀助演女優賞受賞記録。",
+    "digest": "sha256:6973d810b06c77969cc7b025b37d89dc4b86db92418d2bc36ef9c87945ee32a1",
+    "path": "ja/hkfa-best-supporting-actress.section.json",
+    "collection": "hkfa"
+  },
+  {
+    "title": "アカデミー賞 2017 受賞一覧",
+    "description": "第89回アカデミー賞の主要映画部門の受賞作品と受賞者。",
+    "digest": "sha256:32f73928c282bebb24d298d857e8cd6a2a6d74715a1c00a974e169ce5de7dc34",
+    "path": "ja/oscars-2017.section.json",
+    "collection": "oscars"
+  },
+  {
+    "title": "アカデミー賞 2018 受賞一覧",
+    "description": "第90回アカデミー賞の主要映画部門の受賞作品と受賞者。",
+    "digest": "sha256:ba46f3663567e11d97b800289d44a82cc6c55c53aa889cbef2c038dbec6f9dfd",
+    "path": "ja/oscars-2018.section.json",
+    "collection": "oscars"
+  },
+  {
+    "title": "アカデミー賞 2019 受賞一覧",
+    "description": "第91回アカデミー賞の主要映画部門の受賞作品と受賞者。",
+    "digest": "sha256:d39bb4b8c53145d7fe6640372c996b43f44406f56fc2d0735fb4cabbfc95d8e8",
+    "path": "ja/oscars-2019.section.json",
+    "collection": "oscars"
+  },
+  {
+    "title": "アカデミー賞 2020 受賞一覧",
+    "description": "第92回アカデミー賞の主要映画部門の受賞作品と受賞者。",
+    "digest": "sha256:07d737f332583429ca97385935be1f0fe1919c18c369b8b9a880b378f1ed100f",
+    "path": "ja/oscars-2020.section.json",
+    "collection": "oscars"
+  },
+  {
+    "title": "アカデミー賞 2021 受賞一覧",
+    "description": "第93回アカデミー賞の主要映画部門の受賞作品と受賞者。",
+    "digest": "sha256:78481984b4c634579e3aa5ea7c7f897119ce37ec504ca293b8a2af8a53a2efac",
+    "path": "ja/oscars-2021.section.json",
+    "collection": "oscars"
+  },
+  {
+    "title": "アカデミー賞 2022 受賞一覧",
+    "description": "第94回アカデミー賞の主要映画部門の受賞作品と受賞者。",
+    "digest": "sha256:9e783bcbfc28fb1180199dc139e7250dbf23959b97cf230a6c130af066e760e4",
+    "path": "ja/oscars-2022.section.json",
+    "collection": "oscars"
+  },
+  {
+    "title": "アカデミー賞 2023 受賞一覧",
+    "description": "第95回アカデミー賞の主要映画部門の受賞作品と受賞者。",
+    "digest": "sha256:d25640f4c7699e1bcafd19feaf194a92161acffac4c95142e0be4a4d1a12c641",
+    "path": "ja/oscars-2023.section.json",
+    "collection": "oscars"
+  },
+  {
+    "title": "アカデミー賞 2024 受賞一覧",
+    "description": "第96回アカデミー賞の主要映画部門の受賞作品と受賞者。",
+    "digest": "sha256:fa5ea13a55eaff34f15e6cd3c21b70588344915467aee327fdabfd90341fcd8b",
+    "path": "ja/oscars-2024.section.json",
+    "collection": "oscars"
+  },
+  {
+    "title": "アカデミー賞 2025 受賞一覧",
+    "description": "第97回アカデミー賞の主要映画部門の受賞作品と受賞者。",
+    "digest": "sha256:519ba9d4c55adf9301a6bfaff6c200de795e80c6d6432b12829adc150440f72e",
+    "path": "ja/oscars-2025.section.json",
+    "collection": "oscars"
+  },
+  {
+    "title": "アカデミー賞 2026 受賞一覧",
+    "description": "第98回アカデミー賞の主要映画部門の受賞作品と受賞者。",
+    "digest": "sha256:5f7568c6afbb4105bbf8847e5972d925243aa687a02b6fe976f9b5ad500e3cc8",
+    "path": "ja/oscars-2026.section.json",
+    "collection": "oscars"
+  },
+  {
+    "title": "アカデミー賞 — 主演男優賞",
+    "description": "アカデミー賞「主演男優賞」の直近10回の受賞記録。",
+    "digest": "sha256:778baddd84963ee009da58bf7c93dcfbdcac9ada65a030d073ba67f3b4406812",
+    "path": "ja/oscars-best-actor.section.json",
+    "collection": "oscars"
+  },
+  {
+    "title": "アカデミー賞 — 主演女優賞",
+    "description": "アカデミー賞「主演女優賞」の直近10回の受賞記録。",
+    "digest": "sha256:d961b776397f85e070a053086e3552a06ca008ff34efc3bef3767c259f373b20",
+    "path": "ja/oscars-best-actress.section.json",
+    "collection": "oscars"
+  },
+  {
+    "title": "アカデミー賞 — 脚色賞",
+    "description": "アカデミー賞「脚色賞」の直近10回の受賞記録。",
+    "digest": "sha256:5a12dd3672ebe0fef1bccc41c9f1651668d9aa6abc96083de05f9162116ade60",
+    "path": "ja/oscars-best-adapted-screenplay.section.json",
+    "collection": "oscars"
+  },
+  {
+    "title": "アカデミー賞 — 長編アニメ映画賞",
+    "description": "アカデミー賞「長編アニメ映画賞」の直近10回の受賞記録。",
+    "digest": "sha256:6bdf136bda3a93476312e9afe8cb64a117be422fc83cec817413c2e020242956",
+    "path": "ja/oscars-best-animated-feature.section.json",
+    "collection": "oscars"
+  },
+  {
+    "title": "アカデミー賞 — 監督賞",
+    "description": "アカデミー賞「監督賞」の直近10回の受賞記録。",
+    "digest": "sha256:71ea1fcf08eccb01ca0e6cf2e6c3bb093ea0b05273d5aea73fc244adf4c11e28",
+    "path": "ja/oscars-best-director.section.json",
+    "collection": "oscars"
+  },
+  {
+    "title": "アカデミー賞 — 国際長編映画賞",
+    "description": "アカデミー賞「国際長編映画賞」の直近10回の受賞記録。",
+    "digest": "sha256:733a69639d1dec7645fb93ae387b0cc9d6ebbe2de2dc5a407240615c05e66c0a",
+    "path": "ja/oscars-best-international-feature.section.json",
+    "collection": "oscars"
+  },
+  {
+    "title": "アカデミー賞 — 脚本賞",
+    "description": "アカデミー賞「脚本賞」の直近10回の受賞記録。",
+    "digest": "sha256:1868898aca3e7297d3e6dca6716da9412c7f955776f68c0256f96cb55be07875",
+    "path": "ja/oscars-best-original-screenplay.section.json",
+    "collection": "oscars"
+  },
+  {
+    "title": "アカデミー賞 — 作品賞",
+    "description": "アカデミー賞「作品賞」の直近10回の受賞記録。",
+    "digest": "sha256:79cee92812635f799d0a18ad7142c68ae5fa1442796429689c4a7ac8ca7737e0",
+    "path": "ja/oscars-best-picture.section.json",
+    "collection": "oscars"
+  },
+  {
+    "title": "アカデミー賞 — 助演男優賞",
+    "description": "アカデミー賞「助演男優賞」の直近10回の受賞記録。",
+    "digest": "sha256:a4707bb7f384c646fcc71f90d6455b5f76d75c7a8a3526522ba8c7fc7e6fb836",
+    "path": "ja/oscars-best-supporting-actor.section.json",
+    "collection": "oscars"
+  },
+  {
+    "title": "アカデミー賞 — 助演女優賞",
+    "description": "アカデミー賞「助演女優賞」の直近10回の受賞記録。",
+    "digest": "sha256:0436b4e0feb0a90d0de48d14f0346c4e7eb38ad8fe17693af571c78c77cc6e2d",
+    "path": "ja/oscars-best-supporting-actress.section.json",
+    "collection": "oscars"
+  },
+  {
+    "title": "トロント — 2016",
+    "description": "2016年トロント国際映画祭の映画賞受賞作。",
+    "digest": "sha256:0b43db485aaa2161e47b28e7bde922e1c32d7aa9bcac6dfa46756bad0ff0e097",
+    "path": "ja/tiff-2016.section.json",
+    "collection": "tiff"
+  },
+  {
+    "title": "トロント — 2017",
+    "description": "2017年トロント国際映画祭の映画賞受賞作。",
+    "digest": "sha256:ab0d9ff9f5841c6f5cf0bd294694a2812d741e4d6f91a1138f14f20700023007",
+    "path": "ja/tiff-2017.section.json",
+    "collection": "tiff"
+  },
+  {
+    "title": "トロント — 2018",
+    "description": "2018年トロント国際映画祭の映画賞受賞作。",
+    "digest": "sha256:3e6f65139102ab9046e053ee29ae8ae8be4d24029fc78874b99e7453ab5a5a5e",
+    "path": "ja/tiff-2018.section.json",
+    "collection": "tiff"
+  },
+  {
+    "title": "トロント — 2019",
+    "description": "2019年トロント国際映画祭の映画賞受賞作。",
+    "digest": "sha256:0488ac7897267601e36b2d4f7332d1adf9272a984e7f9bbed02d98b5fb4804ad",
+    "path": "ja/tiff-2019.section.json",
+    "collection": "tiff"
+  },
+  {
+    "title": "トロント — 2020",
+    "description": "2020年トロント国際映画祭の映画賞受賞作。",
+    "digest": "sha256:9fda7bda477a0b2f11e1f6e5c6115c48f0a2939639b92475948bb4c3e01abce1",
+    "path": "ja/tiff-2020.section.json",
+    "collection": "tiff"
+  },
+  {
+    "title": "トロント — 2021",
+    "description": "2021年トロント国際映画祭の映画賞受賞作。",
+    "digest": "sha256:4c53469f27658513ab686c026ff142bbe3bd4376c31e6343269d23c11fecdd49",
+    "path": "ja/tiff-2021.section.json",
+    "collection": "tiff"
+  },
+  {
+    "title": "トロント — 2022",
+    "description": "2022年トロント国際映画祭の映画賞受賞作。",
+    "digest": "sha256:8f03d4df740d07a86011f4d3029e2c6b5cbe50446a4d0998406703a38dad87d2",
+    "path": "ja/tiff-2022.section.json",
+    "collection": "tiff"
+  },
+  {
+    "title": "トロント — 2023",
+    "description": "2023年トロント国際映画祭の映画賞受賞作。",
+    "digest": "sha256:71329156b4d56cef3d9eece4ace6e069dfbcb34b4d9faf76b2633d5c5cd61c1a",
+    "path": "ja/tiff-2023.section.json",
+    "collection": "tiff"
+  },
+  {
+    "title": "トロント — 2024",
+    "description": "2024年トロント国際映画祭の映画賞受賞作。",
+    "digest": "sha256:124398ee22a9c6a4aa9caafa35624e3709b4e758c93805cce3103bc9814170ee",
+    "path": "ja/tiff-2024.section.json",
+    "collection": "tiff"
+  },
+  {
+    "title": "トロント — 2025",
+    "description": "2025年トロント国際映画祭の映画賞受賞作。",
+    "digest": "sha256:25c72b3bc41fd74c52e847fcdbeb0f6cd47b06f54f73f20c67251c320a3c20af",
+    "path": "ja/tiff-2025.section.json",
+    "collection": "tiff"
+  },
+  {
+    "title": "トロント — 最優秀カナダ・ディスカバリー賞",
+    "description": "トロント国際映画祭「最優秀カナダ・ディスカバリー賞」の歴代受賞作。",
+    "digest": "sha256:1995bd43fb9316648c91baa18483835698986205b9d5c85475584547de79485c",
+    "path": "ja/tiff-best-canadian-discovery.section.json",
+    "collection": "tiff"
+  },
+  {
+    "title": "トロント — 最優秀カナダ長編映画賞",
+    "description": "トロント国際映画祭「最優秀カナダ長編映画賞」の歴代受賞作。",
+    "digest": "sha256:f07f8575442df895cc4bee6275646d1795227b0fb919ee05c26d2c9145601621",
+    "path": "ja/tiff-best-canadian-feature.section.json",
+    "collection": "tiff"
+  },
+  {
+    "title": "トロント — ドキュメンタリー観客賞",
+    "description": "トロント国際映画祭「ドキュメンタリー観客賞」の歴代受賞作。",
+    "digest": "sha256:c5a06faa860abcac5fc7a901f59da65e643103afdb0208e978f77d0b2af9ef51",
+    "path": "ja/tiff-documentary-peoples-choice.section.json",
+    "collection": "tiff"
+  },
+  {
+    "title": "トロント — ミッドナイト・マッドネス観客賞",
+    "description": "トロント国際映画祭「ミッドナイト・マッドネス観客賞」の歴代受賞作。",
+    "digest": "sha256:b61d2060a3f3e9f3768c6aa4b20e7d6d98180362e0da75a1fe15b51e4b95e64d",
+    "path": "ja/tiff-midnight-madness-peoples-choice.section.json",
+    "collection": "tiff"
+  },
+  {
+    "title": "トロント — 観客賞",
+    "description": "トロント国際映画祭「観客賞」の歴代受賞作。",
+    "digest": "sha256:98b5d8524d8b16072b1453dfe56cecb66ee163c4156d834c69399492f0b2c252",
+    "path": "ja/tiff-peoples-choice.section.json",
+    "collection": "tiff"
+  },
+  {
+    "title": "トロント — プラットフォーム賞",
+    "description": "トロント国際映画祭「プラットフォーム賞」の歴代受賞作。",
+    "digest": "sha256:d24f5c49707c1b1a640262af5219d213e7bde4cc8e62f4422be2c029aaa83ba7",
+    "path": "ja/tiff-platform-prize.section.json",
+    "collection": "tiff"
+  }
+]

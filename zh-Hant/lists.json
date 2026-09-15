@@ -1,0 +1,1290 @@
+[
+  {
+    "title": "百想藝術大賞 — 2017",
+    "description": "2017 年百想藝術大賞電影與電視主要獎項獲獎記錄。",
+    "digest": "sha256:8d20382a895df5e647c34ab61c05a12c12990837b0c0f2163a9ad71acb994683",
+    "path": "zh-Hant/baeksang-2017.list.json",
+    "collection": "baeksang"
+  },
+  {
+    "title": "百想藝術大賞 — 2018",
+    "description": "2018 年百想藝術大賞電影與電視主要獎項獲獎記錄。",
+    "digest": "sha256:e7cb16c50da6299e492551496c5fdb4b3738c88cd796a5e07f3e7934203dcaa3",
+    "path": "zh-Hant/baeksang-2018.list.json",
+    "collection": "baeksang"
+  },
+  {
+    "title": "百想藝術大賞 — 2019",
+    "description": "2019 年百想藝術大賞電影與電視主要獎項獲獎記錄。",
+    "digest": "sha256:3948b8bc575904f5b92ee96d6ec34aea1efc3b2f2c5d5abb6ee6d70cacc714bc",
+    "path": "zh-Hant/baeksang-2019.list.json",
+    "collection": "baeksang"
+  },
+  {
+    "title": "百想藝術大賞 — 2020",
+    "description": "2020 年百想藝術大賞電影與電視主要獎項獲獎記錄。",
+    "digest": "sha256:a319e6539a92f2727eae383119ecde1d8f17ef12e1a85b9ee1a0df004439aad7",
+    "path": "zh-Hant/baeksang-2020.list.json",
+    "collection": "baeksang"
+  },
+  {
+    "title": "百想藝術大賞 — 2021",
+    "description": "2021 年百想藝術大賞電影與電視主要獎項獲獎記錄。",
+    "digest": "sha256:0f20f723e2ae6bf80aad38bcfd16d76f36049eac7c4f21a0b37db2413b348eb8",
+    "path": "zh-Hant/baeksang-2021.list.json",
+    "collection": "baeksang"
+  },
+  {
+    "title": "百想藝術大賞 — 2022",
+    "description": "2022 年百想藝術大賞電影與電視主要獎項獲獎記錄。",
+    "digest": "sha256:f9cc3c914daeaf5b274cc33cd73996d1f5c08bc06f521563738afa2e5e5576cc",
+    "path": "zh-Hant/baeksang-2022.list.json",
+    "collection": "baeksang"
+  },
+  {
+    "title": "百想藝術大賞 — 2023",
+    "description": "2023 年百想藝術大賞電影與電視主要獎項獲獎記錄。",
+    "digest": "sha256:8092633e183dfc1b2119bcee2e8f135410cfaf169fb67f31a632d9c503c6b322",
+    "path": "zh-Hant/baeksang-2023.list.json",
+    "collection": "baeksang"
+  },
+  {
+    "title": "百想藝術大賞 — 2024",
+    "description": "2024 年百想藝術大賞電影與電視主要獎項獲獎記錄。",
+    "digest": "sha256:ecb5b991e9020f869f615c0ce4344c0952c0f1cd878e9f8650268b26aa68b7f6",
+    "path": "zh-Hant/baeksang-2024.list.json",
+    "collection": "baeksang"
+  },
+  {
+    "title": "百想藝術大賞 — 2025",
+    "description": "2025 年百想藝術大賞電影與電視主要獎項獲獎記錄。",
+    "digest": "sha256:752d0a436129d3308008f2ccf2acee4fedc2ecd0c820c5e2e36d5836e172ee77",
+    "path": "zh-Hant/baeksang-2025.list.json",
+    "collection": "baeksang"
+  },
+  {
+    "title": "百想藝術大賞 — 2026",
+    "description": "2026 年百想藝術大賞電影與電視主要獎項獲獎記錄。",
+    "digest": "sha256:a2841c064fcc7ac0682294d7fe1c38cb65b28a277a537bbc60c1426a6fc5b6ba",
+    "path": "zh-Hant/baeksang-2026.list.json",
+    "collection": "baeksang"
+  },
+  {
+    "title": "百想藝術大賞 — 電影最佳男主角",
+    "description": "2017–2026 年百想藝術大賞電影最佳男主角獲獎記錄。",
+    "digest": "sha256:80ca4373e02685ccfb1d794d4a2f89e3896c6b73b496a56ccc0cda0bc2b129b6",
+    "path": "zh-Hant/baeksang-film-actor.list.json",
+    "collection": "baeksang"
+  },
+  {
+    "title": "百想藝術大賞 — 電影最佳女主角",
+    "description": "2017–2026 年百想藝術大賞電影最佳女主角獲獎記錄。",
+    "digest": "sha256:1443519e33c72f66938873aefd7b2242d75441ae25f663502e1d2e328838d053",
+    "path": "zh-Hant/baeksang-film-actress.list.json",
+    "collection": "baeksang"
+  },
+  {
+    "title": "百想藝術大賞 — 最佳電影",
+    "description": "2017–2026 年百想藝術大賞最佳電影獲獎記錄。",
+    "digest": "sha256:fd1c032e1449bf8daf9e4c65477539b48b04418042aeccf3d962242b4b417ed9",
+    "path": "zh-Hant/baeksang-film-best.list.json",
+    "collection": "baeksang"
+  },
+  {
+    "title": "百想藝術大賞 — 電影最佳導演",
+    "description": "2017–2026 年百想藝術大賞電影最佳導演獲獎記錄。",
+    "digest": "sha256:c472b48ff2b966755778c58b6aa7daaf0525ba4cb700e0a71fa3186efdd22931",
+    "path": "zh-Hant/baeksang-film-director.list.json",
+    "collection": "baeksang"
+  },
+  {
+    "title": "百想藝術大賞 — 電影大獎",
+    "description": "2017–2026 年百想藝術大賞電影大獎獲獎記錄。",
+    "digest": "sha256:151b5b63d7a1baed0397fdc3edbfa8be08a7462cd6d4165d3b07763570f0f4cc",
+    "path": "zh-Hant/baeksang-film-grand.list.json",
+    "collection": "baeksang"
+  },
+  {
+    "title": "百想藝術大賞 — 電視最佳男主角",
+    "description": "2017–2026 年百想藝術大賞電視最佳男主角獲獎記錄。",
+    "digest": "sha256:3ea5b92a483885ffcbcf9d0149ade58831bdb71b45529278d686dc2e3bde2464",
+    "path": "zh-Hant/baeksang-tv-actor.list.json",
+    "collection": "baeksang"
+  },
+  {
+    "title": "百想藝術大賞 — 電視最佳女主角",
+    "description": "2017–2026 年百想藝術大賞電視最佳女主角獲獎記錄。",
+    "digest": "sha256:9f552ba15d1e4528d9411444b3aacc37ee6004cb67a471f217f8c430312e9f3c",
+    "path": "zh-Hant/baeksang-tv-actress.list.json",
+    "collection": "baeksang"
+  },
+  {
+    "title": "百想藝術大賞 — 最佳電視劇",
+    "description": "2017–2026 年百想藝術大賞最佳電視劇獲獎記錄。",
+    "digest": "sha256:aee22852a09617de1b22160a23081def85c97bcc2ee0701826782cd9a4377464",
+    "path": "zh-Hant/baeksang-tv-best.list.json",
+    "collection": "baeksang"
+  },
+  {
+    "title": "百想藝術大賞 — 電視最佳導演",
+    "description": "2017–2026 年百想藝術大賞電視最佳導演獲獎記錄。",
+    "digest": "sha256:c866c1c8a78af87cf4c0f33f8d6a6ec77eb455e16170658ffd409db27a5b0853",
+    "path": "zh-Hant/baeksang-tv-director.list.json",
+    "collection": "baeksang"
+  },
+  {
+    "title": "百想藝術大賞 — 電視大獎",
+    "description": "2017–2026 年百想藝術大賞電視大獎獲獎記錄。",
+    "digest": "sha256:bcb3fa50842ccc2533daef91565aded05565ef40a3e304b2c3b905d075cc4fc8",
+    "path": "zh-Hant/baeksang-tv-grand.list.json",
+    "collection": "baeksang"
+  },
+  {
+    "title": "柏林影展 2017 年獲獎名單",
+    "description": "柏林影展 2017 年主競賽國際評審團主要獎項獲獎影片。",
+    "digest": "sha256:45c54bec09b5482e24a5db3d539ea59517352d1f5b762546c108715da5cd1fa7",
+    "path": "zh-Hant/berlinale-2017.list.json",
+    "collection": "berlinale"
+  },
+  {
+    "title": "柏林影展 2018 年獲獎名單",
+    "description": "柏林影展 2018 年主競賽國際評審團主要獎項獲獎影片。",
+    "digest": "sha256:129c4cfee97989bab19abb03d00f82ef10fe7ee6a638de6d53b955c402a27c19",
+    "path": "zh-Hant/berlinale-2018.list.json",
+    "collection": "berlinale"
+  },
+  {
+    "title": "柏林影展 2019 年獲獎名單",
+    "description": "柏林影展 2019 年主競賽國際評審團主要獎項獲獎影片。",
+    "digest": "sha256:015bf11fedf683ef2ef503fe9e21d0b775791abde5873d4a605d7b453abe60a1",
+    "path": "zh-Hant/berlinale-2019.list.json",
+    "collection": "berlinale"
+  },
+  {
+    "title": "柏林影展 2020 年獲獎名單",
+    "description": "柏林影展 2020 年主競賽國際評審團主要獎項獲獎影片。",
+    "digest": "sha256:ca6ed29a43a4e884e21958f0777c7f2311d7b53f6651f8836879f171f14ebeb6",
+    "path": "zh-Hant/berlinale-2020.list.json",
+    "collection": "berlinale"
+  },
+  {
+    "title": "柏林影展 2021 年獲獎名單",
+    "description": "柏林影展 2021 年主競賽國際評審團主要獎項獲獎影片。",
+    "digest": "sha256:6ec63bbe92a5dfb09c46ac7b552704766db383d475f9447170bc8b41bfa2d50d",
+    "path": "zh-Hant/berlinale-2021.list.json",
+    "collection": "berlinale"
+  },
+  {
+    "title": "柏林影展 2022 年獲獎名單",
+    "description": "柏林影展 2022 年主競賽國際評審團主要獎項獲獎影片。",
+    "digest": "sha256:37931b7ea92289894a26faa58300e674813e31205a7f96c02e364b7f405fc307",
+    "path": "zh-Hant/berlinale-2022.list.json",
+    "collection": "berlinale"
+  },
+  {
+    "title": "柏林影展 2023 年獲獎名單",
+    "description": "柏林影展 2023 年主競賽國際評審團主要獎項獲獎影片。",
+    "digest": "sha256:eef90d3e909b9113bdac721dbb98156c5355c647490bbdf0eecdd3b22211480a",
+    "path": "zh-Hant/berlinale-2023.list.json",
+    "collection": "berlinale"
+  },
+  {
+    "title": "柏林影展 2024 年獲獎名單",
+    "description": "柏林影展 2024 年主競賽國際評審團主要獎項獲獎影片。",
+    "digest": "sha256:05859a9c45889821b82f9f9b721844215e5994e7d411ea0bcd79832e2816e10d",
+    "path": "zh-Hant/berlinale-2024.list.json",
+    "collection": "berlinale"
+  },
+  {
+    "title": "柏林影展 2025 年獲獎名單",
+    "description": "柏林影展 2025 年主競賽國際評審團主要獎項獲獎影片。",
+    "digest": "sha256:2de3cd40dc42d4bf8f8561673cc7b76c30178d14dbca1d1b926ede500eb93a79",
+    "path": "zh-Hant/berlinale-2025.list.json",
+    "collection": "berlinale"
+  },
+  {
+    "title": "柏林影展 2026 年獲獎名單",
+    "description": "柏林影展 2026 年主競賽國際評審團主要獎項獲獎影片。",
+    "digest": "sha256:dc860596f14e836cc8e9117d67644fa4ea399609c0ff69932d87586a78196826",
+    "path": "zh-Hant/berlinale-2026.list.json",
+    "collection": "berlinale"
+  },
+  {
+    "title": "柏林 — 第70屆柏林影展銀熊獎",
+    "description": "柏林影展 第70屆柏林影展銀熊獎 全部獲獎記錄。",
+    "digest": "sha256:413019ea0d5f6fe604b1a57a61165efe0c52d02b8aedfea29a7e53e7d15468d0",
+    "path": "zh-Hant/berlinale-70th-silver-bear.list.json",
+    "collection": "berlinale"
+  },
+  {
+    "title": "柏林 — 阿爾弗雷德·鮑爾獎（歷史）",
+    "description": "柏林影展 阿爾弗雷德·鮑爾獎（歷史） 全部獲獎記錄。",
+    "digest": "sha256:97d5114f3150bae84ff90ce1f9b2b536fc82233b69e60838007f204c76728952",
+    "path": "zh-Hant/berlinale-alfred-bauer-prize.list.json",
+    "collection": "berlinale"
+  },
+  {
+    "title": "柏林 — 最佳男演員銀熊獎（歷史）",
+    "description": "柏林影展 最佳男演員銀熊獎（歷史） 全部獲獎記錄。",
+    "digest": "sha256:7444cc4d9d1233cee1d4638ab3730b1ebebd81a96659483a31b84075c8b057fd",
+    "path": "zh-Hant/berlinale-best-actor.list.json",
+    "collection": "berlinale"
+  },
+  {
+    "title": "柏林 — 最佳女演員銀熊獎（歷史）",
+    "description": "柏林影展 最佳女演員銀熊獎（歷史） 全部獲獎記錄。",
+    "digest": "sha256:93d95c3b05294b9252dac8c58dbb58028c4f967e5ce02b0beb403c1196fd173d",
+    "path": "zh-Hant/berlinale-best-actress.list.json",
+    "collection": "berlinale"
+  },
+  {
+    "title": "柏林 — 最佳導演銀熊獎",
+    "description": "柏林影展 最佳導演銀熊獎 全部獲獎記錄。",
+    "digest": "sha256:716fe1a625b1fe60e31b5e9f55d255d4b19efe6c3f2f380f73b2a0f37a8835c5",
+    "path": "zh-Hant/berlinale-best-director.list.json",
+    "collection": "berlinale"
+  },
+  {
+    "title": "柏林 — 最佳主角銀熊獎",
+    "description": "柏林影展 最佳主角銀熊獎 全部獲獎記錄。",
+    "digest": "sha256:aa2f32edec86bb0bed1ff0db53d6ce74dcbcadb973d9f81654ea47f59af4e18a",
+    "path": "zh-Hant/berlinale-best-leading-performance.list.json",
+    "collection": "berlinale"
+  },
+  {
+    "title": "柏林 — 最佳編劇銀熊獎",
+    "description": "柏林影展 最佳編劇銀熊獎 全部獲獎記錄。",
+    "digest": "sha256:5c0c97364d55192b490321c4f57ec444ef879fb22ac3c117e84e301e2c8217e0",
+    "path": "zh-Hant/berlinale-best-screenplay.list.json",
+    "collection": "berlinale"
+  },
+  {
+    "title": "柏林 — 最佳配角銀熊獎",
+    "description": "柏林影展 最佳配角銀熊獎 全部獲獎記錄。",
+    "digest": "sha256:3a165b59085c94a60dd22c8d8a280f378bc3ee89bce18b70810acc122258e1e9",
+    "path": "zh-Hant/berlinale-best-supporting-performance.list.json",
+    "collection": "berlinale"
+  },
+  {
+    "title": "柏林 — 金熊獎",
+    "description": "柏林影展 金熊獎 全部獲獎記錄。",
+    "digest": "sha256:4d5a92b4b7d64a0bf2151ff0590a50640b20543479525b25413f1a2f7e2919c3",
+    "path": "zh-Hant/berlinale-golden-bear.list.json",
+    "collection": "berlinale"
+  },
+  {
+    "title": "柏林 — 評審團大獎",
+    "description": "柏林影展 評審團大獎 全部獲獎記錄。",
+    "digest": "sha256:a3d56e45ffabc54ca4a19d5a9908c3848bc8273f312e20c9f262c280a6169931",
+    "path": "zh-Hant/berlinale-grand-jury-prize.list.json",
+    "collection": "berlinale"
+  },
+  {
+    "title": "柏林 — 評審團獎",
+    "description": "柏林影展 評審團獎 全部獲獎記錄。",
+    "digest": "sha256:3b731a0b8ac2b879f286f7e2e78d5047c9559c9c217623cac37d20a0ab0a0ef9",
+    "path": "zh-Hant/berlinale-jury-prize.list.json",
+    "collection": "berlinale"
+  },
+  {
+    "title": "柏林 — 傑出藝術貢獻銀熊獎",
+    "description": "柏林影展 傑出藝術貢獻銀熊獎 全部獲獎記錄。",
+    "digest": "sha256:5f4b495ff6cabdeb4c7032cf8593a5563047b23d033a9c232b8fb8b35675f498",
+    "path": "zh-Hant/berlinale-outstanding-artistic-contribution.list.json",
+    "collection": "berlinale"
+  },
+  {
+    "title": "釜山國際影展 2016 年得獎名單",
+    "description": "釜山國際影展 2016 年核心競賽獎得獎影片。",
+    "digest": "sha256:002a37f83f15397e84fd10a22513740774976b6fd1bae9afd69f8dde65480207",
+    "path": "zh-Hant/biff-2016.list.json",
+    "collection": "biff"
+  },
+  {
+    "title": "釜山國際影展 2017 年得獎名單",
+    "description": "釜山國際影展 2017 年核心競賽獎得獎影片。",
+    "digest": "sha256:3936965d384b9bd3b9bd4325cc00134e7801996793d56cdf9c261dc3056ef261",
+    "path": "zh-Hant/biff-2017.list.json",
+    "collection": "biff"
+  },
+  {
+    "title": "釜山國際影展 2018 年得獎名單",
+    "description": "釜山國際影展 2018 年核心競賽獎得獎影片。",
+    "digest": "sha256:07b53ce177b859c4632322b76e72bdc2992eba21c8cb50aa9ff89d47fc3ff1db",
+    "path": "zh-Hant/biff-2018.list.json",
+    "collection": "biff"
+  },
+  {
+    "title": "釜山國際影展 2019 年得獎名單",
+    "description": "釜山國際影展 2019 年核心競賽獎得獎影片。",
+    "digest": "sha256:ead4aa23e14cf96a10f58bd91ed3596f512601c7a7586f464a32d9a162fde259",
+    "path": "zh-Hant/biff-2019.list.json",
+    "collection": "biff"
+  },
+  {
+    "title": "釜山國際影展 2020 年得獎名單",
+    "description": "釜山國際影展 2020 年核心競賽獎得獎影片。",
+    "digest": "sha256:0f7e1df6a526f764821c8e8f0df15c749bfb869e0287d9b1447241328911a5a2",
+    "path": "zh-Hant/biff-2020.list.json",
+    "collection": "biff"
+  },
+  {
+    "title": "釜山國際影展 2021 年得獎名單",
+    "description": "釜山國際影展 2021 年核心競賽獎得獎影片。",
+    "digest": "sha256:6fda61b0b79c061866ada348b2e3a60790c38db7a36227aaa35c019fa407c1d8",
+    "path": "zh-Hant/biff-2021.list.json",
+    "collection": "biff"
+  },
+  {
+    "title": "釜山國際影展 2022 年得獎名單",
+    "description": "釜山國際影展 2022 年核心競賽獎得獎影片。",
+    "digest": "sha256:88748b4f057e6e66ac0021bc1cdb33706e8cd7be4dcfa94db001a17397be53ee",
+    "path": "zh-Hant/biff-2022.list.json",
+    "collection": "biff"
+  },
+  {
+    "title": "釜山國際影展 2023 年得獎名單",
+    "description": "釜山國際影展 2023 年核心競賽獎得獎影片。",
+    "digest": "sha256:326bb648df801d1440412bfc6aa190dbb24eeb745f3669adcdaaf0991ac3d731",
+    "path": "zh-Hant/biff-2023.list.json",
+    "collection": "biff"
+  },
+  {
+    "title": "釜山國際影展 2024 年得獎名單",
+    "description": "釜山國際影展 2024 年核心競賽獎得獎影片。",
+    "digest": "sha256:b42e702c18d925ce9d46c05416d4be10bbcf5fd8b45254f4ec948d3141a5362d",
+    "path": "zh-Hant/biff-2024.list.json",
+    "collection": "biff"
+  },
+  {
+    "title": "釜山國際影展 2025 年得獎名單",
+    "description": "釜山國際影展 2025 年核心競賽獎得獎影片。",
+    "digest": "sha256:5a286456b6bc7a3fa2d10cea086b620bb213d371d6c152486bc4cb4a451897c2",
+    "path": "zh-Hant/biff-2025.list.json",
+    "collection": "biff"
+  },
+  {
+    "title": "釜山國際影展 — 釜山獎 最佳影片",
+    "description": "釜山國際影展釜山獎最佳影片歷屆得獎影片。",
+    "digest": "sha256:cc5dcfbbd838094c64072f948ad8f29667107ed348f359601f5ed72e626fa1d6",
+    "path": "zh-Hant/biff-busan-best-film.list.json",
+    "collection": "biff"
+  },
+  {
+    "title": "釜山國際影展 — 金智奭獎",
+    "description": "釜山國際影展金智奭獎歷屆得獎影片。",
+    "digest": "sha256:508966a45583cf513316244d5de16e0291aa7545faffe94987cf8fbc222455e0",
+    "path": "zh-Hant/biff-kim-jiseok.list.json",
+    "collection": "biff"
+  },
+  {
+    "title": "釜山國際影展 — BIFF Mecenat獎",
+    "description": "釜山國際影展BIFF Mecenat獎歷屆得獎紀錄片。",
+    "digest": "sha256:4e922f7e6308d1671bfeda4092e75239212cc7903e6b1d6abed308522138c336",
+    "path": "zh-Hant/biff-mecenat.list.json",
+    "collection": "biff"
+  },
+  {
+    "title": "釜山國際影展 — 新浪潮獎",
+    "description": "釜山國際影展新浪潮獎歷屆得獎影片。",
+    "digest": "sha256:a3b5b8a3a05c833619b3b44e382dbcd8f34284458afaddb98198d7475da7615b",
+    "path": "zh-Hant/biff-new-currents.list.json",
+    "collection": "biff"
+  },
+  {
+    "title": "釜山國際影展 — Sonje獎",
+    "description": "釜山國際影展Sonje獎歷屆得獎短片。",
+    "digest": "sha256:6243ded278a3fbf3c6925e284c3adcc8f920bfdd94b3d97a0c031b4f1157087e",
+    "path": "zh-Hant/biff-sonje.list.json",
+    "collection": "biff"
+  },
+  {
+    "title": "青龍電影獎 — 2016",
+    "description": "2016年韓國青龍電影獎10個主要電影獎項獲獎作品。",
+    "digest": "sha256:f7141de6dc795ea700100dac9e2dd8e19c5335df87097b692ead8653ae204173",
+    "path": "zh-Hant/blue-dragon-2016.list.json",
+    "collection": "blue-dragon"
+  },
+  {
+    "title": "青龍電影獎 — 2017",
+    "description": "2017年韓國青龍電影獎10個主要電影獎項獲獎作品。",
+    "digest": "sha256:e9d02ffcbb4061f0d7b7d83f98bb5c67e023ccce6aba47c7e12703873f6aab03",
+    "path": "zh-Hant/blue-dragon-2017.list.json",
+    "collection": "blue-dragon"
+  },
+  {
+    "title": "青龍電影獎 — 2018",
+    "description": "2018年韓國青龍電影獎10個主要電影獎項獲獎作品。",
+    "digest": "sha256:2173d24024b4ebb9c5d98f10bb04b40672b67d3ce8b46c7ea573d6b621c5c298",
+    "path": "zh-Hant/blue-dragon-2018.list.json",
+    "collection": "blue-dragon"
+  },
+  {
+    "title": "青龍電影獎 — 2019",
+    "description": "2019年韓國青龍電影獎10個主要電影獎項獲獎作品。",
+    "digest": "sha256:94fcf3c176de260bf8bcda65c34c874230e3e613db89cfae886feaccb851a481",
+    "path": "zh-Hant/blue-dragon-2019.list.json",
+    "collection": "blue-dragon"
+  },
+  {
+    "title": "青龍電影獎 — 2020",
+    "description": "2020年韓國青龍電影獎10個主要電影獎項獲獎作品。",
+    "digest": "sha256:ac95bfd0303c2bea1220f8ba3fca6f83221e5d41ae9247b79e3e6ff1d3fc110b",
+    "path": "zh-Hant/blue-dragon-2020.list.json",
+    "collection": "blue-dragon"
+  },
+  {
+    "title": "青龍電影獎 — 2021",
+    "description": "2021年韓國青龍電影獎10個主要電影獎項獲獎作品。",
+    "digest": "sha256:0a4d309ccd6fee636463f5e1c5217a850b8ba6b80aa0f005813e8e4751ed287a",
+    "path": "zh-Hant/blue-dragon-2021.list.json",
+    "collection": "blue-dragon"
+  },
+  {
+    "title": "青龍電影獎 — 2022",
+    "description": "2022年韓國青龍電影獎10個主要電影獎項獲獎作品。",
+    "digest": "sha256:2f441db2e5d1652f13e69f4ca865b4591b62cbc60b60249a7bc532609adb7e7a",
+    "path": "zh-Hant/blue-dragon-2022.list.json",
+    "collection": "blue-dragon"
+  },
+  {
+    "title": "青龍電影獎 — 2023",
+    "description": "2023年韓國青龍電影獎10個主要電影獎項獲獎作品。",
+    "digest": "sha256:d04c9cf7f7ffd062b0ec6b209997b4d497a63368d3fb6a0a0147c8556244d4d9",
+    "path": "zh-Hant/blue-dragon-2023.list.json",
+    "collection": "blue-dragon"
+  },
+  {
+    "title": "青龍電影獎 — 2024",
+    "description": "2024年韓國青龍電影獎10個主要電影獎項獲獎作品。",
+    "digest": "sha256:d623daa079b27b578313f9269ca1fcb8aaff731050cb8449ce7a4c2a675b40b5",
+    "path": "zh-Hant/blue-dragon-2024.list.json",
+    "collection": "blue-dragon"
+  },
+  {
+    "title": "青龍電影獎 — 2025",
+    "description": "2025年韓國青龍電影獎10個主要電影獎項獲獎作品。",
+    "digest": "sha256:2a3ca69814d286ef6ab510fedb29995260f6635d2715a56ffab5b9d1fc3bcd6b",
+    "path": "zh-Hant/blue-dragon-2025.list.json",
+    "collection": "blue-dragon"
+  },
+  {
+    "title": "青龍電影獎 — 最佳男主角",
+    "description": "韓國青龍電影獎最佳男主角2016–2025年獲獎記錄。",
+    "digest": "sha256:293d8f2942047a0c63491866a9cd878304642b9326e219e39778f1924241ce27",
+    "path": "zh-Hant/blue-dragon-best-actor.list.json",
+    "collection": "blue-dragon"
+  },
+  {
+    "title": "青龍電影獎 — 最佳女主角",
+    "description": "韓國青龍電影獎最佳女主角2016–2025年獲獎記錄。",
+    "digest": "sha256:14c0c1f97ce7ecd3cfecaf357c6f05d760dd9488e94b1941206b0c7a715f2d5f",
+    "path": "zh-Hant/blue-dragon-best-actress.list.json",
+    "collection": "blue-dragon"
+  },
+  {
+    "title": "青龍電影獎 — 最佳導演",
+    "description": "韓國青龍電影獎最佳導演2016–2025年獲獎記錄。",
+    "digest": "sha256:f69159c41274236ce7f1999393358da4d9961da52cd4a6826edb56d5e6687cb2",
+    "path": "zh-Hant/blue-dragon-best-director.list.json",
+    "collection": "blue-dragon"
+  },
+  {
+    "title": "青龍電影獎 — 最佳影片",
+    "description": "韓國青龍電影獎最佳影片2016–2025年獲獎記錄。",
+    "digest": "sha256:cbc9f5bf0373aabcaaa4947873f295df8015e97b8bbd6ce8f57b97f2f8c545f7",
+    "path": "zh-Hant/blue-dragon-best-film.list.json",
+    "collection": "blue-dragon"
+  },
+  {
+    "title": "青龍電影獎 — 最佳新人男演員",
+    "description": "韓國青龍電影獎最佳新人男演員2016–2025年獲獎記錄。",
+    "digest": "sha256:fe364da82023aaf6e99ab94fda7ad5e7f2d625f5c38e2221505a5a978303efae",
+    "path": "zh-Hant/blue-dragon-best-new-actor.list.json",
+    "collection": "blue-dragon"
+  },
+  {
+    "title": "青龍電影獎 — 最佳新人女演員",
+    "description": "韓國青龍電影獎最佳新人女演員2016–2025年獲獎記錄。",
+    "digest": "sha256:4b84d6e6ba8bd67d17a3a40468192f92345a5faaf035b6bb4507f76e35a81145",
+    "path": "zh-Hant/blue-dragon-best-new-actress.list.json",
+    "collection": "blue-dragon"
+  },
+  {
+    "title": "青龍電影獎 — 最佳新人導演",
+    "description": "韓國青龍電影獎最佳新人導演2016–2025年獲獎記錄。",
+    "digest": "sha256:47b3cadca297fe35b8e6a188f59b271ff2a79d36750823cf8a3cd7fed91edbd9",
+    "path": "zh-Hant/blue-dragon-best-new-director.list.json",
+    "collection": "blue-dragon"
+  },
+  {
+    "title": "青龍電影獎 — 最佳劇本",
+    "description": "韓國青龍電影獎最佳劇本2016–2025年獲獎記錄。",
+    "digest": "sha256:52e8d79b5705b07747fa006a885b7497d06bed97fac035e43328c0c5352f49be",
+    "path": "zh-Hant/blue-dragon-best-screenplay.list.json",
+    "collection": "blue-dragon"
+  },
+  {
+    "title": "青龍電影獎 — 最佳男配角",
+    "description": "韓國青龍電影獎最佳男配角2016–2025年獲獎記錄。",
+    "digest": "sha256:2d4a552145e4e5d281fe27e313b6ba5a520ec36c88c7219ee299d9f865a566d4",
+    "path": "zh-Hant/blue-dragon-best-supporting-actor.list.json",
+    "collection": "blue-dragon"
+  },
+  {
+    "title": "青龍電影獎 — 最佳女配角",
+    "description": "韓國青龍電影獎最佳女配角2016–2025年獲獎記錄。",
+    "digest": "sha256:d0b04a130fb5a798b731db3a5338f979560433791d87e058c27851e7d1d3f260",
+    "path": "zh-Hant/blue-dragon-best-supporting-actress.list.json",
+    "collection": "blue-dragon"
+  },
+  {
+    "title": "坎城影展 2017 年獲獎名單",
+    "description": "第70屆坎城影展官方影片相關獎項，涵蓋主競賽單元, 短片, 一種關注單元, 金攝影機獎, 電影基石單元 以及 CST 技術獎。",
+    "digest": "sha256:8ed94f7cbcd106be90144627e2f73622aa625d6a47f0dc6dc3ea061e3df11e7d",
+    "path": "zh-Hant/cannes-2017.list.json",
+    "collection": "cannes"
+  },
+  {
+    "title": "坎城影展 2018 年獲獎名單",
+    "description": "第71屆坎城影展官方影片相關獎項，涵蓋主競賽單元, 短片, 一種關注單元, 金攝影機獎, 電影基石單元 以及 CST 技術獎。",
+    "digest": "sha256:f45ef0f6cebd03e23fdae220d6d06cfaf6ba7c630e3cfee572e18fe5187c0dfc",
+    "path": "zh-Hant/cannes-2018.list.json",
+    "collection": "cannes"
+  },
+  {
+    "title": "坎城影展 2019 年獲獎名單",
+    "description": "第72屆坎城影展官方影片相關獎項，涵蓋主競賽單元, 短片, 一種關注單元, 金攝影機獎, 電影基石單元 以及 CST 技術獎。",
+    "digest": "sha256:2c6bd0de608d6a3cf8b14bb637d52ec977fc0aaeac89c17a378d333ef3290494",
+    "path": "zh-Hant/cannes-2019.list.json",
+    "collection": "cannes"
+  },
+  {
+    "title": "坎城影展 2021 年獲獎名單",
+    "description": "第74屆坎城影展官方影片相關獎項，涵蓋主競賽單元, 短片, 一種關注單元, 金攝影機獎, 電影基石單元 以及 CST 技術獎。",
+    "digest": "sha256:4e82bd864a406867cc06afd1a75ea6aa8f65dc0cc3b4417ed23159ede19ad506",
+    "path": "zh-Hant/cannes-2021.list.json",
+    "collection": "cannes"
+  },
+  {
+    "title": "坎城影展 2022 年獲獎名單",
+    "description": "第75屆坎城影展官方影片相關獎項，涵蓋主競賽單元, 短片, 一種關注單元, 金攝影機獎, 電影基石單元 以及 CST 技術獎。",
+    "digest": "sha256:9e5c111e9a02cc42cfd2b15ce6fe407b5a23f4e2c3a06b8de419e22cea8df803",
+    "path": "zh-Hant/cannes-2022.list.json",
+    "collection": "cannes"
+  },
+  {
+    "title": "坎城影展 2023 年獲獎名單",
+    "description": "第76屆坎城影展官方影片相關獎項，涵蓋主競賽單元, 短片, 一種關注單元, 金攝影機獎, 電影基石單元 以及 CST 技術獎。",
+    "digest": "sha256:e4e1d3a67baa3a003a409339b36ec9a09cd8bdd7dd48b4365653a97c5cb9305a",
+    "path": "zh-Hant/cannes-2023.list.json",
+    "collection": "cannes"
+  },
+  {
+    "title": "坎城影展 2024 年獲獎名單",
+    "description": "第77屆坎城影展官方影片相關獎項，涵蓋主競賽單元, 短片, 一種關注單元, 金攝影機獎, 電影基石單元 以及 CST 技術獎。",
+    "digest": "sha256:37dd6933fad11e764654d1807f531f0fd8d9ec88eee6ad40759e7f6463c380b2",
+    "path": "zh-Hant/cannes-2024.list.json",
+    "collection": "cannes"
+  },
+  {
+    "title": "坎城影展 2025 年獲獎名單",
+    "description": "第78屆坎城影展官方影片相關獎項，涵蓋主競賽單元, 短片, 一種關注單元, 金攝影機獎, 電影基石單元 以及 CST 技術獎。",
+    "digest": "sha256:e01e88d3614602fd698b4bcc1835e37b468d8c9eed6f3ecb7cf8472b9f62c1a1",
+    "path": "zh-Hant/cannes-2025.list.json",
+    "collection": "cannes"
+  },
+  {
+    "title": "坎城影展 2026 年獲獎名單",
+    "description": "第79屆坎城影展官方影片相關獎項，涵蓋主競賽單元, 短片, 一種關注單元, 金攝影機獎, 電影基石單元 以及 CST 技術獎。",
+    "digest": "sha256:9c3352de3e38ec05546356409d87b1d8fef22148191f493edd54a94757bac1f3",
+    "path": "zh-Hant/cannes-2026.list.json",
+    "collection": "cannes"
+  },
+  {
+    "title": "坎城 — 最佳男演員",
+    "description": "坎城影展最佳男演員獎獲獎影片。",
+    "digest": "sha256:e915ff5cc80c231f5ceb26c7bd62d09b308a7ded51ca2628103e9c7b2ee2ce5f",
+    "path": "zh-Hant/cannes-best-actor.list.json",
+    "collection": "cannes"
+  },
+  {
+    "title": "坎城 — 最佳女演員",
+    "description": "坎城影展最佳女演員獎獲獎影片。",
+    "digest": "sha256:156db28c621fc57e84f8ffd27eb805a1daa0379cbf61a901ec9e9769ab57bf22",
+    "path": "zh-Hant/cannes-best-actress.list.json",
+    "collection": "cannes"
+  },
+  {
+    "title": "坎城 — 最佳導演",
+    "description": "坎城影展最佳導演獎獲獎影片。",
+    "digest": "sha256:93c3e2a016a88288b95bfa1f4160e322eae6b43e503f830cd2d97c6f5e68ccad",
+    "path": "zh-Hant/cannes-best-director.list.json",
+    "collection": "cannes"
+  },
+  {
+    "title": "坎城 — 最佳編劇",
+    "description": "坎城影展最佳編劇獎獲獎影片。",
+    "digest": "sha256:50486db09f4deb19bad8c1879fa3798fb575eb2952b0a9b7c8612fe73bf5a926",
+    "path": "zh-Hant/cannes-best-screenplay.list.json",
+    "collection": "cannes"
+  },
+  {
+    "title": "坎城 — 金攝影機獎",
+    "description": "坎城影展金攝影機獎獲獎影片。",
+    "digest": "sha256:80e602c3bdae2686a2bfe6436d8c49b8241e5fa30e0f55b5f4fa5588096707ea",
+    "path": "zh-Hant/cannes-camera-dor.list.json",
+    "collection": "cannes"
+  },
+  {
+    "title": "坎城 — 評審團大獎",
+    "description": "坎城影展評審團大獎獲獎影片。",
+    "digest": "sha256:7fb2032ad941ca98568d412c2773781de77f334c8c0c4f57b081219e07a7cb7c",
+    "path": "zh-Hant/cannes-grand-prix.list.json",
+    "collection": "cannes"
+  },
+  {
+    "title": "坎城 — 評審團獎",
+    "description": "坎城影展評審團獎獲獎影片。",
+    "digest": "sha256:528d36ced48d1b0c748b24a2df89b32d3802cfbd181ec13a024bcbd835ae477e",
+    "path": "zh-Hant/cannes-jury-prize.list.json",
+    "collection": "cannes"
+  },
+  {
+    "title": "坎城 — 金棕櫚獎",
+    "description": "坎城影展金棕櫚獎及歷屆最高獎獲獎影片。",
+    "digest": "sha256:5e6c7dfc9664c0f8e6ff5de6de44c52fec37c1fc2e194db0399b7a9510eb22ad",
+    "path": "zh-Hant/cannes-palme-dor.list.json",
+    "collection": "cannes"
+  },
+  {
+    "title": "坎城 — 一種關注獎",
+    "description": "坎城影展歷屆一種關注獎獲獎影片。該獎項設立於1998年；坎城影展取消的2020年沒有頒發該獎，2011年則由兩部影片共同獲獎。",
+    "digest": "sha256:f4e37d114601613abeada94785055be14c823ae63501bd6b7a6b4f6f04e3de1f",
+    "path": "zh-Hant/cannes-un-certain-regard-prizel.list.json",
+    "collection": "cannes"
+  },
+  {
+    "title": "黃金時段艾美獎 2017 年獲獎名單",
+    "description": "第 69 屆黃金時段艾美獎主要獎項獲獎記錄。",
+    "digest": "sha256:6097a0e1495963c04b2fe83b19a565a1ab741faa69fb194b40d443ee84f9c2f3",
+    "path": "zh-Hant/emmys-2017.list.json",
+    "collection": "emmys"
+  },
+  {
+    "title": "黃金時段艾美獎 2018 年獲獎名單",
+    "description": "第 70 屆黃金時段艾美獎主要獎項獲獎記錄。",
+    "digest": "sha256:8643c0d35966cac65ba7b425337a2a3a47fa607a4628497c43f8bfcbfb85f679",
+    "path": "zh-Hant/emmys-2018.list.json",
+    "collection": "emmys"
+  },
+  {
+    "title": "黃金時段艾美獎 2019 年獲獎名單",
+    "description": "第 71 屆黃金時段艾美獎主要獎項獲獎記錄。",
+    "digest": "sha256:9b2cfbf32e8db9b3a37ebafeae5632e3e5aba82a7f6e3cd27eef3f5126fd7aaa",
+    "path": "zh-Hant/emmys-2019.list.json",
+    "collection": "emmys"
+  },
+  {
+    "title": "黃金時段艾美獎 2020 年獲獎名單",
+    "description": "第 72 屆黃金時段艾美獎主要獎項獲獎記錄。",
+    "digest": "sha256:a09d4ae09cfb748aec0e22617dee64b335983062a016c6730e3874615dd88a03",
+    "path": "zh-Hant/emmys-2020.list.json",
+    "collection": "emmys"
+  },
+  {
+    "title": "黃金時段艾美獎 2021 年獲獎名單",
+    "description": "第 73 屆黃金時段艾美獎主要獎項獲獎記錄。",
+    "digest": "sha256:343a7a8997319a99a6cee05427828d543515a1d2f651c4d263d3b933ddff0a7d",
+    "path": "zh-Hant/emmys-2021.list.json",
+    "collection": "emmys"
+  },
+  {
+    "title": "黃金時段艾美獎 2022 年獲獎名單",
+    "description": "第 74 屆黃金時段艾美獎主要獎項獲獎記錄。",
+    "digest": "sha256:a47babae1a2369bdf4c233687f9c8a586fe553ba8e0036395d6933e8dd5ca8be",
+    "path": "zh-Hant/emmys-2022.list.json",
+    "collection": "emmys"
+  },
+  {
+    "title": "黃金時段艾美獎 2023 年獲獎名單",
+    "description": "第 75 屆黃金時段艾美獎主要獎項獲獎記錄。",
+    "digest": "sha256:7359ba87c4eb7691b42e1455557b929affb7cf48fdebd688b3f8de67360d3583",
+    "path": "zh-Hant/emmys-2023.list.json",
+    "collection": "emmys"
+  },
+  {
+    "title": "黃金時段艾美獎 2024 年獲獎名單",
+    "description": "第 76 屆黃金時段艾美獎主要獎項獲獎記錄。",
+    "digest": "sha256:e59c395d59c30e0cdc8253d49df496b3ab274d4cbef55650fd5545d0c90a0b83",
+    "path": "zh-Hant/emmys-2024.list.json",
+    "collection": "emmys"
+  },
+  {
+    "title": "黃金時段艾美獎 2025 年獲獎名單",
+    "description": "第 77 屆黃金時段艾美獎主要獎項獲獎記錄。",
+    "digest": "sha256:e4eb55c278edb0b64d721124c02423ccc6358cb3e13f28076fb9b7f222d375f3",
+    "path": "zh-Hant/emmys-2025.list.json",
+    "collection": "emmys"
+  },
+  {
+    "title": "黃金時段艾美獎 2026 年獲獎名單",
+    "description": "第 78 屆黃金時段艾美獎主要獎項獲獎記錄。",
+    "digest": "sha256:df99f433c46c262a0deda59e497622668e06e03e0d9467d6ad4b5c60e095fc88",
+    "path": "zh-Hant/emmys-2026.list.json",
+    "collection": "emmys"
+  },
+  {
+    "title": "黃金時段艾美獎 — 最佳喜劇類影集",
+    "description": "黃金時段艾美獎「最佳喜劇類影集」獲獎記錄。",
+    "digest": "sha256:0cd3eed6ebc11c8bd7f151fdbe14d4d4fc2ccc5bb1ec614c29961f0f6d503a8f",
+    "path": "zh-Hant/emmys-comedy-series.list.json",
+    "collection": "emmys"
+  },
+  {
+    "title": "黃金時段艾美獎 — 最佳劇情類影集",
+    "description": "黃金時段艾美獎「最佳劇情類影集」獲獎記錄。",
+    "digest": "sha256:9523c5b502de90e9636357a8cf2327d9d86605e172b9c343e7a19bbe03779346",
+    "path": "zh-Hant/emmys-drama-series.list.json",
+    "collection": "emmys"
+  },
+  {
+    "title": "黃金時段艾美獎 — 喜劇類最佳男主角",
+    "description": "黃金時段艾美獎「喜劇類最佳男主角」獲獎記錄。",
+    "digest": "sha256:8bb6e4547ec249ff668c8603e819a611f3427caef17fab3f581a9933d04a8183",
+    "path": "zh-Hant/emmys-lead-actor-comedy.list.json",
+    "collection": "emmys"
+  },
+  {
+    "title": "黃金時段艾美獎 — 劇情類最佳男主角",
+    "description": "黃金時段艾美獎「劇情類最佳男主角」獲獎記錄。",
+    "digest": "sha256:aaa4c9810650e0c06e922681cbf01d101658b103a70e8abfb92e6857abb914f9",
+    "path": "zh-Hant/emmys-lead-actor-drama.list.json",
+    "collection": "emmys"
+  },
+  {
+    "title": "黃金時段艾美獎 — 喜劇類最佳女主角",
+    "description": "黃金時段艾美獎「喜劇類最佳女主角」獲獎記錄。",
+    "digest": "sha256:015c3d68194f360200afbac40a98c938e2234444bf4189508c062cd577a28ec3",
+    "path": "zh-Hant/emmys-lead-actress-comedy.list.json",
+    "collection": "emmys"
+  },
+  {
+    "title": "黃金時段艾美獎 — 劇情類最佳女主角",
+    "description": "黃金時段艾美獎「劇情類最佳女主角」獲獎記錄。",
+    "digest": "sha256:725efc2e43838bcf685333287f80c2f8383a7cf3efe4a2c13b58fbe166f96068",
+    "path": "zh-Hant/emmys-lead-actress-drama.list.json",
+    "collection": "emmys"
+  },
+  {
+    "title": "黃金時段艾美獎 — 最佳有限影集或詩選影集",
+    "description": "黃金時段艾美獎「最佳有限影集或詩選影集」獲獎記錄。",
+    "digest": "sha256:f935afec2581b75e773d8aee490c675dea8ce7a5f1308f9f78e40fb3ddfbb73e",
+    "path": "zh-Hant/emmys-limited-series.list.json",
+    "collection": "emmys"
+  },
+  {
+    "title": "金球獎 2017",
+    "description": "2017 金球獎主要电影与电视作品类获奖名单。",
+    "digest": "sha256:12a8cd1457c17955bc9edda765f9ea362b7a529572669a0a74ec12c414327961",
+    "path": "zh-Hant/golden-globes-2017.list.json",
+    "collection": "golden-globes"
+  },
+  {
+    "title": "金球獎 2018",
+    "description": "2018 金球獎主要电影与电视作品类获奖名单。",
+    "digest": "sha256:833e6305c6bef0ef89f8291aeb80a7c948d9f0abbea8c7df7a96058d463c1182",
+    "path": "zh-Hant/golden-globes-2018.list.json",
+    "collection": "golden-globes"
+  },
+  {
+    "title": "金球獎 2019",
+    "description": "2019 金球獎主要电影与电视作品类获奖名单。",
+    "digest": "sha256:7d90d126f7057e6c5096eeb75b9d936b78d50fc6fdf3c0f15b1eba435ec69b62",
+    "path": "zh-Hant/golden-globes-2019.list.json",
+    "collection": "golden-globes"
+  },
+  {
+    "title": "金球獎 2020",
+    "description": "2020 金球獎主要电影与电视作品类获奖名单。",
+    "digest": "sha256:5cf4ee8746106dd986cb32b0e3bf2e92b7cdd503baf8ef37fa47d56b57bafbbe",
+    "path": "zh-Hant/golden-globes-2020.list.json",
+    "collection": "golden-globes"
+  },
+  {
+    "title": "金球獎 2021",
+    "description": "2021 金球獎主要电影与电视作品类获奖名单。",
+    "digest": "sha256:9b3cb1333ed177adc025605dc129545159f3aef415d2cb51bae7eda3d3f0087a",
+    "path": "zh-Hant/golden-globes-2021.list.json",
+    "collection": "golden-globes"
+  },
+  {
+    "title": "金球獎 2022",
+    "description": "2022 金球獎主要电影与电视作品类获奖名单。",
+    "digest": "sha256:49afe42a670d5f50b4f735ea08e0f7bca1aa7eae491048e2f9d782ba2f4072ce",
+    "path": "zh-Hant/golden-globes-2022.list.json",
+    "collection": "golden-globes"
+  },
+  {
+    "title": "金球獎 2023",
+    "description": "2023 金球獎主要电影与电视作品类获奖名单。",
+    "digest": "sha256:a772a8b40d4130295e22d9ef369a8588e077cfdb1f070e6564ea333994b7c526",
+    "path": "zh-Hant/golden-globes-2023.list.json",
+    "collection": "golden-globes"
+  },
+  {
+    "title": "金球獎 2024",
+    "description": "2024 金球獎主要电影与电视作品类获奖名单。",
+    "digest": "sha256:7c726c766f68cbbeeb08283f5a6b7e654503bc4f4b6b4f9b74f5a703d6d78441",
+    "path": "zh-Hant/golden-globes-2024.list.json",
+    "collection": "golden-globes"
+  },
+  {
+    "title": "金球獎 2025",
+    "description": "2025 金球獎主要电影与电视作品类获奖名单。",
+    "digest": "sha256:8d6327b7e5319500a59c8d2c819065c3aa02d96a142d69a01cfa542e89b70050",
+    "path": "zh-Hant/golden-globes-2025.list.json",
+    "collection": "golden-globes"
+  },
+  {
+    "title": "金球獎 2026",
+    "description": "2026 金球獎主要电影与电视作品类获奖名单。",
+    "digest": "sha256:612f685e0e6e4aa805eda5275e70b6e68995b2e0b0e8c33679fe660d326ff7da",
+    "path": "zh-Hant/golden-globes-2026.list.json",
+    "collection": "golden-globes"
+  },
+  {
+    "title": "金球獎 — 最佳動畫片",
+    "description": "2017–2026 年金球獎最佳動畫片获奖作品。",
+    "digest": "sha256:77acb6bae757c1c6a3e8b58b31afc0d6fd6bb62f48bd349f8b08d08368e02239",
+    "path": "zh-Hant/golden-globes-animated.list.json",
+    "collection": "golden-globes"
+  },
+  {
+    "title": "金球獎 — 電影與票房成就獎",
+    "description": "2017–2026 年金球獎電影與票房成就獎获奖作品。",
+    "digest": "sha256:50f12027a17edb373762fb3544714470e70e5320e5650698a93b53546ff8d76e",
+    "path": "zh-Hant/golden-globes-boxoffice.list.json",
+    "collection": "golden-globes"
+  },
+  {
+    "title": "金球獎 — 最佳音樂或喜劇片",
+    "description": "2017–2026 年金球獎最佳音樂或喜劇片获奖作品。",
+    "digest": "sha256:3d305d5e39ef90390dd13054094b0b2cfc6138080a3bb641336fadb467c02d47",
+    "path": "zh-Hant/golden-globes-comedy.list.json",
+    "collection": "golden-globes"
+  },
+  {
+    "title": "金球獎 — 最佳劇情片",
+    "description": "2017–2026 年金球獎最佳劇情片获奖作品。",
+    "digest": "sha256:351432b06cbf645b550075b12c2fd5d44ebffcc5cc61749aabc06ce3c8552e88",
+    "path": "zh-Hant/golden-globes-drama.list.json",
+    "collection": "golden-globes"
+  },
+  {
+    "title": "金球獎 — 最佳非英語片",
+    "description": "2017–2026 年金球獎最佳非英語片获奖作品。",
+    "digest": "sha256:cfeafa42134e5acb6c2ce22a8c1064e7bd3b29f5d4fb6821370ebf89b4cf25eb",
+    "path": "zh-Hant/golden-globes-foreign.list.json",
+    "collection": "golden-globes"
+  },
+  {
+    "title": "金球獎 — 最佳有限影集、選集影集或電視電影",
+    "description": "2017–2026 年金球獎最佳有限影集、選集影集或電視電影获奖作品。",
+    "digest": "sha256:1c32b83041825202a2aee955daa6fac306a2827017421739534b08436cfdecf5",
+    "path": "zh-Hant/golden-globes-limited.list.json",
+    "collection": "golden-globes"
+  },
+  {
+    "title": "金球獎 — 最佳音樂或喜劇類影集",
+    "description": "2017–2026 年金球獎最佳音樂或喜劇類影集获奖作品。",
+    "digest": "sha256:60b44c17395acafd29171b83a683bc557ee419bd410536b60e0cb1543a08a3da",
+    "path": "zh-Hant/golden-globes-tv-comedy.list.json",
+    "collection": "golden-globes"
+  },
+  {
+    "title": "金球獎 — 最佳劇情類影集",
+    "description": "2017–2026 年金球獎最佳劇情類影集获奖作品。",
+    "digest": "sha256:65318102cb331feda06305f262a93a912a999049f96e9496684acc27b4b57f11",
+    "path": "zh-Hant/golden-globes-tv-drama.list.json",
+    "collection": "golden-globes"
+  },
+  {
+    "title": "奧斯卡 2017 年得獎名單",
+    "description": "第 89 屆奧斯卡核心電影獎項得獎影片與得獎者。",
+    "digest": "sha256:516ce9c04aa3d7a748831b55cc259e80ac3ae8f3e98213d81c01f5684ed275a0",
+    "path": "zh-Hant/oscars-2017.list.json",
+    "collection": "oscars"
+  },
+  {
+    "title": "奧斯卡 2018 年得獎名單",
+    "description": "第 90 屆奧斯卡核心電影獎項得獎影片與得獎者。",
+    "digest": "sha256:f4fe9f0f8c6c66533612af88c76e35970f7746d23e94d64abde0cdf352b77833",
+    "path": "zh-Hant/oscars-2018.list.json",
+    "collection": "oscars"
+  },
+  {
+    "title": "奧斯卡 2019 年得獎名單",
+    "description": "第 91 屆奧斯卡核心電影獎項得獎影片與得獎者。",
+    "digest": "sha256:cc3f7f0dc762bb0d1dc1640b8974dd77fdb4551b6d1b18bff729d0fadf3b05f1",
+    "path": "zh-Hant/oscars-2019.list.json",
+    "collection": "oscars"
+  },
+  {
+    "title": "奧斯卡 2020 年得獎名單",
+    "description": "第 92 屆奧斯卡核心電影獎項得獎影片與得獎者。",
+    "digest": "sha256:0f5e2aa105f1c3f3a9007386cbbcc6b28dd0165e1b9fa555b3546744c01bd6a6",
+    "path": "zh-Hant/oscars-2020.list.json",
+    "collection": "oscars"
+  },
+  {
+    "title": "奧斯卡 2021 年得獎名單",
+    "description": "第 93 屆奧斯卡核心電影獎項得獎影片與得獎者。",
+    "digest": "sha256:f2f75f1121440091d3ad2bfb07e69524e4c2d343705bc3a3ff54bb5af18feaf6",
+    "path": "zh-Hant/oscars-2021.list.json",
+    "collection": "oscars"
+  },
+  {
+    "title": "奧斯卡 2022 年得獎名單",
+    "description": "第 94 屆奧斯卡核心電影獎項得獎影片與得獎者。",
+    "digest": "sha256:a4ff1aadd3e1b2cd696f382618fd3933737c6730e95725e42a46c30e63f4418e",
+    "path": "zh-Hant/oscars-2022.list.json",
+    "collection": "oscars"
+  },
+  {
+    "title": "奧斯卡 2023 年得獎名單",
+    "description": "第 95 屆奧斯卡核心電影獎項得獎影片與得獎者。",
+    "digest": "sha256:ae6ad45e0cc76b3ecc4b812b1b1540e220f539adc2721d299a6025845ac995bd",
+    "path": "zh-Hant/oscars-2023.list.json",
+    "collection": "oscars"
+  },
+  {
+    "title": "奧斯卡 2024 年得獎名單",
+    "description": "第 96 屆奧斯卡核心電影獎項得獎影片與得獎者。",
+    "digest": "sha256:eb518abcc9bf4c9d975597c578a959eb2eb5e1e20ffc65763db44929e481fd59",
+    "path": "zh-Hant/oscars-2024.list.json",
+    "collection": "oscars"
+  },
+  {
+    "title": "奧斯卡 2025 年得獎名單",
+    "description": "第 97 屆奧斯卡核心電影獎項得獎影片與得獎者。",
+    "digest": "sha256:85a8c4deda5712328df93556eb2b6889541d351e7e24a77062e886ad9263ff38",
+    "path": "zh-Hant/oscars-2025.list.json",
+    "collection": "oscars"
+  },
+  {
+    "title": "奧斯卡 2026 年得獎名單",
+    "description": "第 98 屆奧斯卡核心電影獎項得獎影片與得獎者。",
+    "digest": "sha256:4bca65c715a5b93504a92104711a8cb28fc6b2f3c2a53ca17ea3644dbd942b95",
+    "path": "zh-Hant/oscars-2026.list.json",
+    "collection": "oscars"
+  },
+  {
+    "title": "奧斯卡 — 最佳男主角",
+    "description": "奧斯卡最佳男主角最近十屆得獎紀錄。",
+    "digest": "sha256:51f59318482511f0ace5854e3d22d5916db8fd6916751bcd71649b61e637210e",
+    "path": "zh-Hant/oscars-best-actor.list.json",
+    "collection": "oscars"
+  },
+  {
+    "title": "奧斯卡 — 最佳女主角",
+    "description": "奧斯卡最佳女主角最近十屆得獎紀錄。",
+    "digest": "sha256:34ba2460b5d605a70aefe05eb955a6abf2c86ff27bb9f0e41263fa4248f93388",
+    "path": "zh-Hant/oscars-best-actress.list.json",
+    "collection": "oscars"
+  },
+  {
+    "title": "奧斯卡 — 最佳改編劇本",
+    "description": "奧斯卡最佳改編劇本最近十屆得獎紀錄。",
+    "digest": "sha256:08bceaeec91f61396408d46a0cfb8383cabb19340fd7696d7caae761a8afbe81",
+    "path": "zh-Hant/oscars-best-adapted-screenplay.list.json",
+    "collection": "oscars"
+  },
+  {
+    "title": "奧斯卡 — 最佳動畫長片",
+    "description": "奧斯卡最佳動畫長片最近十屆得獎紀錄。",
+    "digest": "sha256:4369a751fa76203d092660e8f09b820a40a5d44c3336d53bcf7602f72b998f5f",
+    "path": "zh-Hant/oscars-best-animated-feature.list.json",
+    "collection": "oscars"
+  },
+  {
+    "title": "奧斯卡 — 最佳導演",
+    "description": "奧斯卡最佳導演最近十屆得獎紀錄。",
+    "digest": "sha256:40704d8b4b074c8b0a6b07c675140e0d5b3e82d39ed36879b77743d12593ab1e",
+    "path": "zh-Hant/oscars-best-director.list.json",
+    "collection": "oscars"
+  },
+  {
+    "title": "奧斯卡 — 最佳國際影片",
+    "description": "奧斯卡最佳國際影片最近十屆得獎紀錄。",
+    "digest": "sha256:6c28345a037bfd08fd36f777be62c7486ad20aa06c241e45542f5e049c6f7fb6",
+    "path": "zh-Hant/oscars-best-international-feature.list.json",
+    "collection": "oscars"
+  },
+  {
+    "title": "奧斯卡 — 最佳原創劇本",
+    "description": "奧斯卡最佳原創劇本最近十屆得獎紀錄。",
+    "digest": "sha256:2b25aaf90fa4e04ca5548700ada8bd966640a7f515c5211ddf04216e35906416",
+    "path": "zh-Hant/oscars-best-original-screenplay.list.json",
+    "collection": "oscars"
+  },
+  {
+    "title": "奧斯卡 — 最佳影片",
+    "description": "奧斯卡最佳影片最近十屆得獎紀錄。",
+    "digest": "sha256:7519b8ccfc2f52251001a6322bdc65bf8005ba2c435f7cd1a6393c24a47bfdc0",
+    "path": "zh-Hant/oscars-best-picture.list.json",
+    "collection": "oscars"
+  },
+  {
+    "title": "奧斯卡 — 最佳男配角",
+    "description": "奧斯卡最佳男配角最近十屆得獎紀錄。",
+    "digest": "sha256:1be1b611c3d569efdc3b8f25592cfa2023a0572a0991a01bde606975882244d9",
+    "path": "zh-Hant/oscars-best-supporting-actor.list.json",
+    "collection": "oscars"
+  },
+  {
+    "title": "奧斯卡 — 最佳女配角",
+    "description": "奧斯卡最佳女配角最近十屆得獎紀錄。",
+    "digest": "sha256:a3e344b651a88dd4485a19776d8505da3e086cd12e71c69e098feb8cd3e4fafc",
+    "path": "zh-Hant/oscars-best-supporting-actress.list.json",
+    "collection": "oscars"
+  },
+  {
+    "title": "多倫多 — 2016",
+    "description": "2016 年多倫多國際影展影片類獎項獲獎紀錄。",
+    "digest": "sha256:1f6bd1ddc3062cc658645bed81d59edde745f2cb875442044444f3f0c487008c",
+    "path": "zh-Hant/tiff-2016.list.json",
+    "collection": "tiff"
+  },
+  {
+    "title": "多倫多 — 2017",
+    "description": "2017 年多倫多國際影展影片類獎項獲獎紀錄。",
+    "digest": "sha256:5f99c9376c5de2198e6a40badd9e2ad557d88d9737dea19fb03e603ab784721d",
+    "path": "zh-Hant/tiff-2017.list.json",
+    "collection": "tiff"
+  },
+  {
+    "title": "多倫多 — 2018",
+    "description": "2018 年多倫多國際影展影片類獎項獲獎紀錄。",
+    "digest": "sha256:a30afa334ae4709808ab0e83551775dfca9bd8ceeb52c5d1b5f6c2194c9c19de",
+    "path": "zh-Hant/tiff-2018.list.json",
+    "collection": "tiff"
+  },
+  {
+    "title": "多倫多 — 2019",
+    "description": "2019 年多倫多國際影展影片類獎項獲獎紀錄。",
+    "digest": "sha256:ccd7d9da0ab0c4f5b281ac385c5b3d62cc7acb57d31fe2c5d2bc1856beb295ee",
+    "path": "zh-Hant/tiff-2019.list.json",
+    "collection": "tiff"
+  },
+  {
+    "title": "多倫多 — 2020",
+    "description": "2020 年多倫多國際影展影片類獎項獲獎紀錄。",
+    "digest": "sha256:5d8d3173be5de3effd97230492a6ef0685e4edf97ebca923afcf79e776b5df61",
+    "path": "zh-Hant/tiff-2020.list.json",
+    "collection": "tiff"
+  },
+  {
+    "title": "多倫多 — 2021",
+    "description": "2021 年多倫多國際影展影片類獎項獲獎紀錄。",
+    "digest": "sha256:aa57691725dd2fae5ed2df992123fdc75ec1709c5a507835af9ee72ca959d7f2",
+    "path": "zh-Hant/tiff-2021.list.json",
+    "collection": "tiff"
+  },
+  {
+    "title": "多倫多 — 2022",
+    "description": "2022 年多倫多國際影展影片類獎項獲獎紀錄。",
+    "digest": "sha256:1353f03479d5b14e76f15429929517603f9660a54e89055064c151ebd7b3c08d",
+    "path": "zh-Hant/tiff-2022.list.json",
+    "collection": "tiff"
+  },
+  {
+    "title": "多倫多 — 2023",
+    "description": "2023 年多倫多國際影展影片類獎項獲獎紀錄。",
+    "digest": "sha256:e4dafbb0757c65786522fece27365077645b3806bba3a5c0d5830a90f6ddea27",
+    "path": "zh-Hant/tiff-2023.list.json",
+    "collection": "tiff"
+  },
+  {
+    "title": "多倫多 — 2024",
+    "description": "2024 年多倫多國際影展影片類獎項獲獎紀錄。",
+    "digest": "sha256:9b7545e0876783d05d0cc2318412f14e74f67c2c2ab2d00af1f402d2523f35cb",
+    "path": "zh-Hant/tiff-2024.list.json",
+    "collection": "tiff"
+  },
+  {
+    "title": "多倫多 — 2025",
+    "description": "2025 年多倫多國際影展影片類獎項獲獎紀錄。",
+    "digest": "sha256:7cc81e40a3329990d686db4c03c65107d72150affdbd80e647fb8fef68c18c00",
+    "path": "zh-Hant/tiff-2025.list.json",
+    "collection": "tiff"
+  },
+  {
+    "title": "多倫多 — 最佳加拿大新發現",
+    "description": "多倫多國際影展最佳加拿大新發現歷屆獲獎影片。",
+    "digest": "sha256:2d6aedcaa1666280c15edebac0d176825fe24b7dcf9cc1ea3eb13c079ad0d66f",
+    "path": "zh-Hant/tiff-best-canadian-discovery.list.json",
+    "collection": "tiff"
+  },
+  {
+    "title": "多倫多 — 最佳加拿大長片",
+    "description": "多倫多國際影展最佳加拿大長片歷屆獲獎影片。",
+    "digest": "sha256:a80175e58dcb9773175ef7cab31460eef24bb5f2df3b8e1c756db277caf22d10",
+    "path": "zh-Hant/tiff-best-canadian-feature.list.json",
+    "collection": "tiff"
+  },
+  {
+    "title": "多倫多 — 紀錄片觀眾選擇獎",
+    "description": "多倫多國際影展紀錄片觀眾選擇獎歷屆獲獎影片。",
+    "digest": "sha256:cc53cf6f7d072fa2924c1a9537474949e2a418f0edabf64aacebe6f7be8a59d0",
+    "path": "zh-Hant/tiff-documentary-peoples-choice.list.json",
+    "collection": "tiff"
+  },
+  {
+    "title": "多倫多 — 午夜瘋狂觀眾選擇獎",
+    "description": "多倫多國際影展午夜瘋狂觀眾選擇獎歷屆獲獎影片。",
+    "digest": "sha256:736f74539f7c4b8d7bf86228ac1109a5116abe576bf29e4f91617751f7fe6ad9",
+    "path": "zh-Hant/tiff-midnight-madness-peoples-choice.list.json",
+    "collection": "tiff"
+  },
+  {
+    "title": "多倫多 — 觀眾選擇獎",
+    "description": "多倫多國際影展觀眾選擇獎歷屆獲獎影片。",
+    "digest": "sha256:5e312f42c806185dd8be6cd6919928474cb55c49ad9a50522a97e0212fd9e5e7",
+    "path": "zh-Hant/tiff-peoples-choice.list.json",
+    "collection": "tiff"
+  },
+  {
+    "title": "多倫多 — Platform 獎",
+    "description": "多倫多國際影展Platform 獎歷屆獲獎影片。",
+    "digest": "sha256:906a71ad000915d49bebbc1ffd06dd882817fbd6ea03383aece84bcc45fcc2ba",
+    "path": "zh-Hant/tiff-platform-prize.list.json",
+    "collection": "tiff"
+  },
+  {
+    "title": "威尼斯影展 2016 年獲獎名單",
+    "description": "第84屆威尼斯影展主競賽主要官方獎項獲獎影片。",
+    "digest": "sha256:9c00450ea301426adf944ac9394b30602a9d2b6b3d6aa13c5c1ce4d7b894f261",
+    "path": "zh-Hant/venice-2016.list.json",
+    "collection": "venice"
+  },
+  {
+    "title": "威尼斯影展 2017 年獲獎名單",
+    "description": "第85屆威尼斯影展主競賽主要官方獎項獲獎影片。",
+    "digest": "sha256:55c33f38234910b667255b1151ccad9097f597e16fcfc521ba8cfcab46e62508",
+    "path": "zh-Hant/venice-2017.list.json",
+    "collection": "venice"
+  },
+  {
+    "title": "威尼斯影展 2018 年獲獎名單",
+    "description": "第86屆威尼斯影展主競賽主要官方獎項獲獎影片。",
+    "digest": "sha256:669fb5f13f3049793f5c48135d459bcb31ce0fd83b48057b3751945aa087f544",
+    "path": "zh-Hant/venice-2018.list.json",
+    "collection": "venice"
+  },
+  {
+    "title": "威尼斯影展 2019 年獲獎名單",
+    "description": "第87屆威尼斯影展主競賽主要官方獎項獲獎影片。",
+    "digest": "sha256:90ec8ec01f79040c40b970d8f64b75ac90c75b583556c6a0dade2264c95cc170",
+    "path": "zh-Hant/venice-2019.list.json",
+    "collection": "venice"
+  },
+  {
+    "title": "威尼斯影展 2020 年獲獎名單",
+    "description": "第88屆威尼斯影展主競賽主要官方獎項獲獎影片。",
+    "digest": "sha256:6357fdaa38d66b834c0de58e2dfd2cde1a4f4ca1a1e4158ef123a149bdb7db9a",
+    "path": "zh-Hant/venice-2020.list.json",
+    "collection": "venice"
+  },
+  {
+    "title": "威尼斯影展 2021 年獲獎名單",
+    "description": "第89屆威尼斯影展主競賽主要官方獎項獲獎影片。",
+    "digest": "sha256:8ab720461eb10707f2fd9676d69510631045a48d52fd820003383aabf028101e",
+    "path": "zh-Hant/venice-2021.list.json",
+    "collection": "venice"
+  },
+  {
+    "title": "威尼斯影展 2022 年獲獎名單",
+    "description": "第90屆威尼斯影展主競賽主要官方獎項獲獎影片。",
+    "digest": "sha256:5fe5aaacedf5e71bd874f29b37f3d85ad4862891495eef4796afdad7770119aa",
+    "path": "zh-Hant/venice-2022.list.json",
+    "collection": "venice"
+  },
+  {
+    "title": "威尼斯影展 2023 年獲獎名單",
+    "description": "第91屆威尼斯影展主競賽主要官方獎項獲獎影片。",
+    "digest": "sha256:9851fb109f5d6a7aed10c0a8adf8c7664737200b4311d957dc94be668dce6213",
+    "path": "zh-Hant/venice-2023.list.json",
+    "collection": "venice"
+  },
+  {
+    "title": "威尼斯影展 2024 年獲獎名單",
+    "description": "第92屆威尼斯影展主競賽主要官方獎項獲獎影片。",
+    "digest": "sha256:be29157c9f96e320330ef232a6a098a896d8f837720f31058278da5f57a90668",
+    "path": "zh-Hant/venice-2024.list.json",
+    "collection": "venice"
+  },
+  {
+    "title": "威尼斯影展 2025 年獲獎名單",
+    "description": "第93屆威尼斯影展主競賽主要官方獎項獲獎影片。",
+    "digest": "sha256:9e758dbb745e8bb82034deca200a2d12f517c679ed50d58790ca7104df60cc22",
+    "path": "zh-Hant/venice-2025.list.json",
+    "collection": "venice"
+  },
+  {
+    "title": "威尼斯 — 沃爾皮杯·最佳男演員",
+    "description": "威尼斯影展歷屆沃爾皮杯·最佳男演員獲獎影片/表演記錄；按該獎項現行或歷史等價類別整理。",
+    "digest": "sha256:6cd08ddb15dc2c9cd39e60576a78215adffdc54c1f0d90c37ab3d2167ef7e4b4",
+    "path": "zh-Hant/venice-best-actor.list.json",
+    "collection": "venice"
+  },
+  {
+    "title": "威尼斯 — 沃爾皮杯·最佳女演員",
+    "description": "威尼斯影展歷屆沃爾皮杯·最佳女演員獲獎影片/表演記錄；按該獎項現行或歷史等價類別整理。",
+    "digest": "sha256:e5054ae4896daa355b7e98d352b0423614baac0d2c748ba0f78f36833a22af5e",
+    "path": "zh-Hant/venice-best-actress.list.json",
+    "collection": "venice"
+  },
+  {
+    "title": "威尼斯 — 銀獅獎·最佳導演",
+    "description": "威尼斯影展歷屆銀獅獎·最佳導演獲獎影片/表演記錄；按該獎項現行或歷史等價類別整理。",
+    "digest": "sha256:80bc9c32ee91c9a767194a607a8bab6bd2d401eff2e7be3c3b3aaa1e3afb6425",
+    "path": "zh-Hant/venice-best-director.list.json",
+    "collection": "venice"
+  },
+  {
+    "title": "威尼斯 — 最佳編劇獎",
+    "description": "威尼斯影展歷屆最佳編劇獎獲獎影片/表演記錄；按該獎項現行或歷史等價類別整理。",
+    "digest": "sha256:c003c8b125b0cbc82bb72a850b6cbe5f48b3d45a004e52d6aec790a73ba1a91d",
+    "path": "zh-Hant/venice-best-screenplay.list.json",
+    "collection": "venice"
+  },
+  {
+    "title": "威尼斯 — 金獅獎",
+    "description": "威尼斯影展歷屆金獅獎獲獎影片/表演記錄；按該獎項現行或歷史等價類別整理。",
+    "digest": "sha256:41a1167058ce5d24210e1cb3ee784ab05ebfd92459e70333a98c39e828630451",
+    "path": "zh-Hant/venice-golden-lion.list.json",
+    "collection": "venice"
+  },
+  {
+    "title": "威尼斯 — 銀獅獎·評審團大獎",
+    "description": "威尼斯影展歷屆銀獅獎·評審團大獎獲獎影片/表演記錄；按該獎項現行或歷史等價類別整理。",
+    "digest": "sha256:49a9db71f5149d8955fe7463bff0f5db544f31039d57aea661360a1ed51f604d",
+    "path": "zh-Hant/venice-grand-jury-prize.list.json",
+    "collection": "venice"
+  },
+  {
+    "title": "威尼斯 — 馬塞洛·馬斯楚安尼獎",
+    "description": "威尼斯影展歷屆馬塞洛·馬斯楚安尼獎獲獎影片/表演記錄；按該獎項現行或歷史等價類別整理。",
+    "digest": "sha256:c6f46165f5ff80893bbdcf9a5a48786824d648ff1f77c14c6378a0b583c3490c",
+    "path": "zh-Hant/venice-mastroianni.list.json",
+    "collection": "venice"
+  },
+  {
+    "title": "威尼斯 — 評審團特別獎",
+    "description": "威尼斯影展歷屆評審團特別獎獲獎影片/表演記錄；按該獎項現行或歷史等價類別整理。",
+    "digest": "sha256:dd65a0524591b1b822fad62f8e3c43b9dacc55580a2725b7bd4230dc26b1753b",
+    "path": "zh-Hant/venice-special-jury-prize.list.json",
+    "collection": "venice"
+  }
+]

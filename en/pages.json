@@ -1,0 +1,245 @@
+[
+  {
+    "title": "Baeksang Arts Awards 10 Years",
+    "description": "Major film and broadcast winners of the Baeksang Arts Awards from 2017 to 2026.",
+    "digest": "sha256:f6f80d9ddcdcd28b36e72038db7135d649e53f130df758208e01b632354e85c1",
+    "path": "en/baeksang-10-years.page.json",
+    "collection": "baeksang",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "Baeksang Arts Awards Prizes",
+    "description": "Baeksang Arts Awards winners by major film and broadcast category from 2017 to 2026.",
+    "digest": "sha256:a6ca901c00598a5745195140f2ec262b1e805cd09bb9e4a6f017dad339b044a5",
+    "path": "en/baeksang-prizes.page.json",
+    "collection": "baeksang",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "Ten Years in Berlin",
+    "description": "Competition winners of the last ten Berlinale editions, 2026 back to 2017.",
+    "digest": "sha256:4f1e9c5a68fcb09dd0fea6188225a15c7cee7089c3d9953b28d3c38d954c4733",
+    "path": "en/berlinale-10-years.page.json",
+    "collection": "berlinale",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "Berlinale Prizes",
+    "description": "Winners of every Berlinale competition award. No awards were given in 1970.",
+    "digest": "sha256:806e0bb1437d8c13f5338f6f4b409b67fe8885b7313ab09ce93f66e6b6376401",
+    "path": "en/berlinale-prizes.page.json",
+    "collection": "berlinale",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "Busan International Film Festival Ten Years",
+    "description": "Core competition winners from the ten most recent completed editions of the Busan International Film Festival, 2016–2025.",
+    "digest": "sha256:5844af477b1c8057fbd15237a15783ca74e80b7b96aefa0e1e6555cf75d05a8f",
+    "path": "en/biff-10-years.page.json",
+    "collection": "biff",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "Busan International Film Festival Awards",
+    "description": "Core Busan International Film Festival competition awards and their historical winners.",
+    "digest": "sha256:36afc86f2c08adab650712e88b16e2248af8559c7fad5ac471af7cd081b67a33",
+    "path": "en/biff-prizes.page.json",
+    "collection": "biff",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "Blue Dragon Film Awards — 10 Years",
+    "description": "Ten years of the Blue Dragon Film Awards, 2016 to 2025.",
+    "digest": "sha256:853e852072ebe8a1a6eb46fcb737685d6b973fc91681101dab641e756efcc813",
+    "path": "en/blue-dragon-10-years.page.json",
+    "collection": "blue-dragon",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "Blue Dragon Film Awards — Awards",
+    "description": "Winners of every Blue Dragon Film Awards category.",
+    "digest": "sha256:32d033c5b62e538e8d048064928c2e7f29791a40155ee6060cc18f00a807a565",
+    "path": "en/blue-dragon-awards.page.json",
+    "collection": "blue-dragon",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "Ten Years in Cannes",
+    "description": "Ten years of the Festival de Cannes. 2020 is absent: the festival was cancelled.",
+    "digest": "sha256:4112e68249ac4531f0c633e772e2ae6713f5a39387ead0ed6c0f64f9666b1ee2",
+    "path": "en/cannes-10-years.page.json",
+    "collection": "cannes",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "Cannes Prizes",
+    "description": "Winners of every Festival de Cannes award. No 2020 winners: the festival was cancelled.",
+    "digest": "sha256:d6ab1a9218aef746a20de60c58ddf3847cc303c7dbd16ee06a73a11d9b1a085d",
+    "path": "en/cannes-prizes.page.json",
+    "collection": "cannes",
+    "tags": [
+      "award",
+      "prize"
+    ],
+    "featured": true
+  },
+  {
+    "title": "Primetime Emmys — 10 Years",
+    "description": "Major winners from the ten most recent Primetime Emmy Awards.",
+    "digest": "sha256:06c5cb99bff972f2a0b2f1adcb2901aa0a4508c9c8b882b28a049332d8f97997",
+    "path": "en/emmys-10-years.page.json",
+    "collection": "emmys",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "Primetime Emmys — Awards",
+    "description": "Major Primetime Emmy Award winners organized by category.",
+    "digest": "sha256:a11797b1f566bc1b2435c3178138668138526cd655b0007cff7f12dac7ab6cad",
+    "path": "en/emmys-prizes.page.json",
+    "collection": "emmys",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "Golden Globes Decade",
+    "description": "Major film and television program winners from the last ten Golden Globe ceremonies.",
+    "digest": "sha256:a33ca8955774f53cb81f213b51fd799e62873123244feb75f943611aaa966d50",
+    "path": "en/golden-globes-10-years.page.json",
+    "collection": "golden-globes",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "Golden Globes Awards",
+    "description": "Winners of major Golden Globe film and television program categories.",
+    "digest": "sha256:28a0954556da941ae0c57bbfbf6ef690a0f4263293a2d805439652b5939ac2d8",
+    "path": "en/golden-globes-prizes.page.json",
+    "collection": "golden-globes",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "Ten Years in Hong Kong",
+    "description": "Ten years of the Hong Kong Film Awards. 2021 is absent: it was merged into 2022.",
+    "digest": "sha256:e44bda3bf446c2598b100f7332cacf147f00358ed72a8229b862864a6d7231e6",
+    "path": "en/hkfa-10-years.page.json",
+    "collection": "hkfa",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "Hong Kong Film Awards",
+    "description": "Winners of every Hong Kong Film Awards category. 2021 was postponed and merged into 2022.",
+    "digest": "sha256:dd4f3f718ec830eb63da5e28b4fd77b147c27ee817bbbc3ca9332e767af02fe9",
+    "path": "en/hkfa-prizes.page.json",
+    "collection": "hkfa",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "Oscars — 10 Years",
+    "description": "Winners in ten core film categories from the ten most recent Academy Awards ceremonies.",
+    "digest": "sha256:856ff2d2fc408345eea193f287ff4526a58d301845cc8ed9fa2318f63ca12ece",
+    "path": "en/oscars-10-years.page.json",
+    "collection": "oscars",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "Oscars — Awards",
+    "description": "Ten-year winner histories for core Academy Awards film categories.",
+    "digest": "sha256:6ce8e2b1bd59e106521510d442fb970a9baa3d6a5484bb9aefff5e0277d809a6",
+    "path": "en/oscars-prizes.page.json",
+    "collection": "oscars",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "Toronto 10 Years",
+    "description": "Major film awards from the ten most recent completed Toronto International Film Festival editions (2016–2025).",
+    "digest": "sha256:c17487483c5c98d230dfb8af9eb217be4fe93a49a308b2477299eb55e2384810",
+    "path": "en/tiff-10-years.page.json",
+    "collection": "tiff",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "Toronto Awards",
+    "description": "Historical winners of major Toronto International Film Festival film awards.",
+    "digest": "sha256:2885f02439e9353e0084999b6db7a627e6e3a71565cd60fa8db37ef4637e21c4",
+    "path": "en/tiff-prizes.page.json",
+    "collection": "tiff",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "Ten Years in Venice",
+    "description": "Competition winners of the last ten Venice editions, 2025 back to 2016.",
+    "digest": "sha256:eca72beaf3c84af6709d7d02a9f0ce9c89746433f8ec87a8c11c37a80ab0f1a1",
+    "path": "en/venice-10-years.page.json",
+    "collection": "venice",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "Venice Prizes",
+    "description": "Winners of every Venice competition award. No awards were given from 1969 to 1979.",
+    "digest": "sha256:1080998b29e33248736fb74b56e144dff0c417d99908c5ef099bfe621509fc44",
+    "path": "en/venice-prizes.page.json",
+    "collection": "venice",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  }
+]
