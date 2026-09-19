@@ -1,0 +1,689 @@
+[
+  {
+    "title": "金馬獎 2016 年核心獎項得獎名單",
+    "description": "第53屆金馬獎核心常設獎項得獎作品，收錄最佳劇情片、導演、男女主角、男女配角、新導演與新演員。",
+    "digest": "sha256:bfb80e2e141f45817dce49abbb1e74456879b9ca36f955daecfd4b5bea7187e7",
+    "path": "zh/golden-horse-2016.section.json",
+    "collection": "awards/golden-horse"
+  },
+  {
+    "title": "金馬獎 2017 年核心獎項得獎名單",
+    "description": "第54屆金馬獎核心常設獎項得獎作品，收錄最佳劇情片、導演、男女主角、男女配角、新導演與新演員。",
+    "digest": "sha256:37cd4671fccbc0acd207be1f8be98cc673efcee62281fb213cff81d1817c9aa8",
+    "path": "zh/golden-horse-2017.section.json",
+    "collection": "awards/golden-horse"
+  },
+  {
+    "title": "金馬獎 2018 年核心獎項得獎名單",
+    "description": "第55屆金馬獎核心常設獎項得獎作品，收錄最佳劇情片、導演、男女主角、男女配角、新導演與新演員。",
+    "digest": "sha256:ce0dbcade677c49cc2ee37b7d4b7d290bea61c84e5b310cb8149dde7250b2bcb",
+    "path": "zh/golden-horse-2018.section.json",
+    "collection": "awards/golden-horse"
+  },
+  {
+    "title": "金馬獎 2019 年核心獎項得獎名單",
+    "description": "第56屆金馬獎核心常設獎項得獎作品，收錄最佳劇情片、導演、男女主角、男女配角、新導演與新演員。",
+    "digest": "sha256:5db5c6caeaad6e4e351c765cde5695308357e5abedba9a7d15c86d1baa81c56f",
+    "path": "zh/golden-horse-2019.section.json",
+    "collection": "awards/golden-horse"
+  },
+  {
+    "title": "金馬獎 2020 年核心獎項得獎名單",
+    "description": "第57屆金馬獎核心常設獎項得獎作品，收錄最佳劇情片、導演、男女主角、男女配角、新導演與新演員。",
+    "digest": "sha256:955b72a0d58f0ada8989cff6e598c21e95375d2d28036f6520cdceb98eb4af30",
+    "path": "zh/golden-horse-2020.section.json",
+    "collection": "awards/golden-horse"
+  },
+  {
+    "title": "金馬獎 2021 年核心獎項得獎名單",
+    "description": "第58屆金馬獎核心常設獎項得獎作品，收錄最佳劇情片、導演、男女主角、男女配角、新導演與新演員。",
+    "digest": "sha256:0d907439100bcb3d2bfa5d2a586b3163c0d834a15d67af843e8b0ff860966845",
+    "path": "zh/golden-horse-2021.section.json",
+    "collection": "awards/golden-horse"
+  },
+  {
+    "title": "金馬獎 2022 年核心獎項得獎名單",
+    "description": "第59屆金馬獎核心常設獎項得獎作品，收錄最佳劇情片、導演、男女主角、男女配角、新導演與新演員。",
+    "digest": "sha256:838d1f8459c22be1ec2b30e6feec9607a14825e8c9aa8ac6d10908fe4d090ee8",
+    "path": "zh/golden-horse-2022.section.json",
+    "collection": "awards/golden-horse"
+  },
+  {
+    "title": "金馬獎 2023 年核心獎項得獎名單",
+    "description": "第60屆金馬獎核心常設獎項得獎作品，收錄最佳劇情片、導演、男女主角、男女配角、新導演與新演員。",
+    "digest": "sha256:5c5baa014c4c310205fbaf6cbcd1f6a2fd2988c3ab935f9b2070949dab98f1d7",
+    "path": "zh/golden-horse-2023.section.json",
+    "collection": "awards/golden-horse"
+  },
+  {
+    "title": "金馬獎 2024 年核心獎項得獎名單",
+    "description": "第61屆金馬獎核心常設獎項得獎作品，收錄最佳劇情片、導演、男女主角、男女配角、新導演與新演員。",
+    "digest": "sha256:c3ecdf16b6c4203e41098b9aa7505200e63b3716bebe091521670a88ac087982",
+    "path": "zh/golden-horse-2024.section.json",
+    "collection": "awards/golden-horse"
+  },
+  {
+    "title": "金馬獎 2025 年核心獎項得獎名單",
+    "description": "第62屆金馬獎核心常設獎項得獎作品，收錄最佳劇情片、導演、男女主角、男女配角、新導演與新演員。",
+    "digest": "sha256:8d51c810675b4a9676c60f50fa23ec642f83281c3aecabd96b6743a56c30ef45",
+    "path": "zh/golden-horse-2025.section.json",
+    "collection": "awards/golden-horse"
+  },
+  {
+    "title": "金馬獎 — 最佳男主角",
+    "description": "金馬獎最佳男主角歷屆全部實際得獎記錄；並列得獎分別保留。",
+    "digest": "sha256:850508514b5a8cd7be53fe0fcfa3dde94389535e5e4072a7b76101a495a95c1b",
+    "path": "zh/golden-horse-best-actor.section.json",
+    "collection": "awards/golden-horse"
+  },
+  {
+    "title": "金馬獎 — 最佳女主角",
+    "description": "金馬獎最佳女主角歷屆全部實際得獎記錄；共同得獎保留完整得主。",
+    "digest": "sha256:5f4d7b5888aaba536749af5efaa1705e7b31688732b2e21a57509afab80fe2e3",
+    "path": "zh/golden-horse-best-actress.section.json",
+    "collection": "awards/golden-horse"
+  },
+  {
+    "title": "金馬獎 — 最佳導演",
+    "description": "金馬獎最佳導演歷屆全部實際得獎記錄。1964年及1974年停辦不列入。",
+    "digest": "sha256:6f28c469839ba35e9c85f11f66be8e0cf57ac789704ef26f6d672bd7dcb66ed0",
+    "path": "zh/golden-horse-best-director.section.json",
+    "collection": "awards/golden-horse"
+  },
+  {
+    "title": "金馬獎 — 最佳劇情片",
+    "description": "金馬獎最佳劇情片歷屆全部實際得獎作品。1964年及1974年停辦不列入。",
+    "digest": "sha256:0f2c1808de2a7d7417714cf0261ea4bcf3de3b8968cb9e2d747551ae09de661b",
+    "path": "zh/golden-horse-best-feature.section.json",
+    "collection": "awards/golden-horse"
+  },
+  {
+    "title": "金馬獎 — 最佳新導演",
+    "description": "金馬獎最佳新導演自2010年設獎以來至2025年的全部實際得獎記錄。",
+    "digest": "sha256:1160e87bb47862a6797e2c5e3c37fab5655c5cc457b09a3cc558a470cc402561",
+    "path": "zh/golden-horse-best-new-director.section.json",
+    "collection": "awards/golden-horse"
+  },
+  {
+    "title": "金馬獎 — 最佳新演員",
+    "description": "金馬獎最佳新演員自2000年設獎以來至2025年的全部實際得獎記錄；同屆多位得主分別保留。",
+    "digest": "sha256:19d647a13affadbe3f44b9bec273240c06d18c33639cc20b0b38d4d14011afdc",
+    "path": "zh/golden-horse-best-new-performer.section.json",
+    "collection": "awards/golden-horse"
+  },
+  {
+    "title": "金馬獎 — 最佳男配角",
+    "description": "金馬獎最佳男配角歷屆全部實際得獎記錄。",
+    "digest": "sha256:175585c625947ce0d9028eeeac323fe13ebfeffd68becf8746c35ae753b4bc07",
+    "path": "zh/golden-horse-best-supporting-actor.section.json",
+    "collection": "awards/golden-horse"
+  },
+  {
+    "title": "金馬獎 — 最佳女配角",
+    "description": "金馬獎最佳女配角歷屆全部實際得獎記錄；並列得獎分別保留。",
+    "digest": "sha256:88557b707997a473b1bc624538ddd689fafcec0cbe27815b209eb97308398882",
+    "path": "zh/golden-horse-best-supporting-actress.section.json",
+    "collection": "awards/golden-horse"
+  },
+  {
+    "title": "中国电影金鸡奖 2017 年获奖名单",
+    "description": "第31届中国电影金鸡奖主要获奖影片与影人。",
+    "digest": "sha256:8501a83762febdde6306f1f4aff2d2928841641859edbe0d6b2684f23302cc18",
+    "path": "zh/golden-rooster-2017.section.json",
+    "collection": "awards/golden-rooster"
+  },
+  {
+    "title": "中国电影金鸡奖 2019 年获奖名单",
+    "description": "第32届中国电影金鸡奖主要获奖影片与影人。",
+    "digest": "sha256:d23d26c6510c09b179c704db6d63c2c8cc9f69210014bda911ba73c9d72b17a6",
+    "path": "zh/golden-rooster-2019.section.json",
+    "collection": "awards/golden-rooster"
+  },
+  {
+    "title": "中国电影金鸡奖 2020 年获奖名单",
+    "description": "第33届中国电影金鸡奖主要获奖影片与影人。",
+    "digest": "sha256:8d7164d2b258ac94e738f8b5c24e3ecb8c8d5e10b8ebcfd24334b7d6984afe25",
+    "path": "zh/golden-rooster-2020.section.json",
+    "collection": "awards/golden-rooster"
+  },
+  {
+    "title": "中国电影金鸡奖 2021 年获奖名单",
+    "description": "第34届中国电影金鸡奖主要获奖影片与影人。",
+    "digest": "sha256:523731db02197ac48140748295f5a71ad7163a746326a84bb578d118ce2256da",
+    "path": "zh/golden-rooster-2021.section.json",
+    "collection": "awards/golden-rooster"
+  },
+  {
+    "title": "中国电影金鸡奖 2022 年获奖名单",
+    "description": "第35届中国电影金鸡奖主要获奖影片与影人。",
+    "digest": "sha256:6bfdc1cc08765c74fe090d613aeb4d2c79c51c2daa2e8da0dbd7b9b161d240ff",
+    "path": "zh/golden-rooster-2022.section.json",
+    "collection": "awards/golden-rooster"
+  },
+  {
+    "title": "中国电影金鸡奖 2023 年获奖名单",
+    "description": "第36届中国电影金鸡奖主要获奖影片与影人。",
+    "digest": "sha256:1b6bedb56e93f26e27ab7f15b05ef14170529b02939c94174886c9cc310877b4",
+    "path": "zh/golden-rooster-2023.section.json",
+    "collection": "awards/golden-rooster"
+  },
+  {
+    "title": "中国电影金鸡奖 2024 年获奖名单",
+    "description": "第37届中国电影金鸡奖主要获奖影片与影人。",
+    "digest": "sha256:b290d4422bb94710b0f3620774afda2a9ee6f3f55417e74dd3a77030fb6b2d02",
+    "path": "zh/golden-rooster-2024.section.json",
+    "collection": "awards/golden-rooster"
+  },
+  {
+    "title": "中国电影金鸡奖 2025 年获奖名单",
+    "description": "第38届中国电影金鸡奖主要获奖影片与影人。",
+    "digest": "sha256:86cee05d3c6d2fe40d965bd0444bf11c493f979fd08727445d530a9d0c901401",
+    "path": "zh/golden-rooster-2025.section.json",
+    "collection": "awards/golden-rooster"
+  },
+  {
+    "title": "金鸡奖 — 最佳男主角",
+    "description": "中国电影金鸡奖历届最佳男主角获奖记录；并列获奖按独立条目保留。",
+    "digest": "sha256:510aafd018b20b950cd88eba4256ccab93c90d4e177a9c7a882edca88f780920",
+    "path": "zh/golden-rooster-best-actor.section.json",
+    "collection": "awards/golden-rooster"
+  },
+  {
+    "title": "金鸡奖 — 最佳女主角",
+    "description": "中国电影金鸡奖历届最佳女主角获奖记录；并列获奖按独立条目保留。",
+    "digest": "sha256:af74db50ff9066bde48ede9e6039175b19db61dd1c6f55a20d4c4e9e0fffb863",
+    "path": "zh/golden-rooster-best-actress.section.json",
+    "collection": "awards/golden-rooster"
+  },
+  {
+    "title": "金鸡奖 — 最佳导演",
+    "description": "中国电影金鸡奖历届最佳导演获奖记录；并列获奖按独立条目保留。",
+    "digest": "sha256:1a819e15205344c49519f38c5ef7a3ae95204fed19006f385f91c890da83d020",
+    "path": "zh/golden-rooster-best-director.section.json",
+    "collection": "awards/golden-rooster"
+  },
+  {
+    "title": "金鸡奖 — 最佳导演处女作",
+    "description": "中国电影金鸡奖历届最佳导演处女作获奖记录；并列获奖按独立条目保留。",
+    "digest": "sha256:d284ac45983be02781aecbf25996f68fc32ac320c8f36cdf5a76ef3c520e6cf8",
+    "path": "zh/golden-rooster-best-directorial-debut.section.json",
+    "collection": "awards/golden-rooster"
+  },
+  {
+    "title": "金鸡奖 — 最佳故事片",
+    "description": "中国电影金鸡奖历届最佳故事片获奖记录；并列获奖按独立条目保留。",
+    "digest": "sha256:1414e5163ee64985053867cab1019efafe95d16ebf59daa7d436a328f3895128",
+    "path": "zh/golden-rooster-best-feature-film.section.json",
+    "collection": "awards/golden-rooster"
+  },
+  {
+    "title": "金鸡奖 — 最佳男配角",
+    "description": "中国电影金鸡奖历届最佳男配角获奖记录；并列获奖按独立条目保留。",
+    "digest": "sha256:f68fbb6b124d7d9b7d48a2cb66f0e5a5787d4a2eef45b910f5c0374bf757c6a2",
+    "path": "zh/golden-rooster-best-supporting-actor.section.json",
+    "collection": "awards/golden-rooster"
+  },
+  {
+    "title": "金鸡奖 — 最佳女配角",
+    "description": "中国电影金鸡奖历届最佳女配角获奖记录；并列获奖按独立条目保留。",
+    "digest": "sha256:4a0299dd5ee120bc9ce31358bf886b3a5ec6863abe8b67ec65e1e8ae09596501",
+    "path": "zh/golden-rooster-best-supporting-actress.section.json",
+    "collection": "awards/golden-rooster"
+  },
+  {
+    "title": "香港電影金像獎 2017 年得獎名單",
+    "description": "第36屆香港電影金像獎主要獎項得獎作品。",
+    "digest": "sha256:f1bdc7fdef0d0005b5c28403a08fd720fa644a1a889d8232c6c8c1b89b70dabe",
+    "path": "zh/hkfa-2017.section.json",
+    "collection": "awards/hkfa"
+  },
+  {
+    "title": "香港電影金像獎 2018 年得獎名單",
+    "description": "第37屆香港電影金像獎主要獎項得獎作品。",
+    "digest": "sha256:d737d624540f073f1f2aadc66e758bf9fafdb69fd0b908508f818d81c6d996da",
+    "path": "zh/hkfa-2018.section.json",
+    "collection": "awards/hkfa"
+  },
+  {
+    "title": "香港電影金像獎 2019 年得獎名單",
+    "description": "第38屆香港電影金像獎主要獎項得獎作品。",
+    "digest": "sha256:b9acb7c953274fcbdcd032b274c3e9955887433c627aba77d6f26110ccdb520e",
+    "path": "zh/hkfa-2019.section.json",
+    "collection": "awards/hkfa"
+  },
+  {
+    "title": "香港電影金像獎 2020 年得獎名單",
+    "description": "第39屆香港電影金像獎主要獎項得獎作品。",
+    "digest": "sha256:aeb88429ac8fac4528b1f54f7a9f4b0974065430e9f7d1a911ba4e51e7fb9e65",
+    "path": "zh/hkfa-2020.section.json",
+    "collection": "awards/hkfa"
+  },
+  {
+    "title": "香港電影金像獎 2022 年得獎名單",
+    "description": "第40屆香港電影金像獎主要獎項得獎作品。",
+    "digest": "sha256:6705be8b38d6a40e3f3c82712b3e23abced23f5e7480f63f4e1943cb25fc9326",
+    "path": "zh/hkfa-2022.section.json",
+    "collection": "awards/hkfa"
+  },
+  {
+    "title": "香港電影金像獎 2023 年得獎名單",
+    "description": "第41屆香港電影金像獎主要獎項得獎作品。",
+    "digest": "sha256:c0a70667d4952a0b30d0a50ae358622b7c3194851ab1a54b2843001f2595502e",
+    "path": "zh/hkfa-2023.section.json",
+    "collection": "awards/hkfa"
+  },
+  {
+    "title": "香港電影金像獎 2024 年得獎名單",
+    "description": "第42屆香港電影金像獎主要獎項得獎作品。",
+    "digest": "sha256:ce49c9f980e98051b2a6f112466161c5d2f2e92bcf161d0a1947a89258d5b96d",
+    "path": "zh/hkfa-2024.section.json",
+    "collection": "awards/hkfa"
+  },
+  {
+    "title": "香港電影金像獎 2025 年得獎名單",
+    "description": "第43屆香港電影金像獎主要獎項得獎作品。",
+    "digest": "sha256:eba5f08d1b4b80956d62fe67007d72248a679b7cbeebe2734bb84712b05a70ea",
+    "path": "zh/hkfa-2025.section.json",
+    "collection": "awards/hkfa"
+  },
+  {
+    "title": "香港電影金像獎 2026 年得獎名單",
+    "description": "第44屆香港電影金像獎主要獎項得獎作品。",
+    "digest": "sha256:6f8fa3509bfebbc1a223c326407cb0d6515e8e3b5b753ab3a3c4e6deb65a96af",
+    "path": "zh/hkfa-2026.section.json",
+    "collection": "awards/hkfa"
+  },
+  {
+    "title": "香港電影金像獎 — 最佳男主角",
+    "description": "香港電影金像獎歷屆最佳男主角得獎記錄。",
+    "digest": "sha256:31bb97ecd39bd6a28fc1b3896205f4aef7920c231cf791bdec3622016ea6d1db",
+    "path": "zh/hkfa-best-actor.section.json",
+    "collection": "awards/hkfa"
+  },
+  {
+    "title": "香港電影金像獎 — 最佳女主角",
+    "description": "香港電影金像獎歷屆最佳女主角得獎記錄。",
+    "digest": "sha256:6370ddeaaf2a0c9c3433c249519512dfe833bb7d6f0b2327e6de8a6af152ebaf",
+    "path": "zh/hkfa-best-actress.section.json",
+    "collection": "awards/hkfa"
+  },
+  {
+    "title": "香港電影金像獎 — 最佳導演",
+    "description": "香港電影金像獎歷屆最佳導演得獎記錄。",
+    "digest": "sha256:6d3279d341255594cab38d79081fc512464866ada2c876cc351040d0b91eaa45",
+    "path": "zh/hkfa-best-director.section.json",
+    "collection": "awards/hkfa"
+  },
+  {
+    "title": "香港電影金像獎 — 最佳電影",
+    "description": "香港電影金像獎歷屆最佳電影得獎記錄。",
+    "digest": "sha256:44fd8f0087cacef4a7d7c8c12c9f5e50b2f28d7f3afdcac25ca5288fc392402c",
+    "path": "zh/hkfa-best-film.section.json",
+    "collection": "awards/hkfa"
+  },
+  {
+    "title": "香港電影金像獎 — 最佳新演員",
+    "description": "香港電影金像獎歷屆最佳新演員得獎記錄。",
+    "digest": "sha256:36c81e7d49ce06176d8be46504125ff8caa8a1ccc41b61554e20beaf74998087",
+    "path": "zh/hkfa-best-new-performer.section.json",
+    "collection": "awards/hkfa"
+  },
+  {
+    "title": "香港電影金像獎 — 最佳編劇",
+    "description": "香港電影金像獎歷屆最佳編劇得獎記錄。",
+    "digest": "sha256:1fa9dda8ce6e8f2928ece6fffcbff77a703a7163398e2ab6eaa744bee04c1d4f",
+    "path": "zh/hkfa-best-screenplay.section.json",
+    "collection": "awards/hkfa"
+  },
+  {
+    "title": "香港電影金像獎 — 最佳男配角",
+    "description": "香港電影金像獎歷屆最佳男配角得獎記錄。",
+    "digest": "sha256:439572e785e4a8bde9d4229d1e366097dc857a66b6ae3e65ed5a1f71ef813435",
+    "path": "zh/hkfa-best-supporting-actor.section.json",
+    "collection": "awards/hkfa"
+  },
+  {
+    "title": "香港電影金像獎 — 最佳女配角",
+    "description": "香港電影金像獎歷屆最佳女配角得獎記錄。",
+    "digest": "sha256:f6bb09490c5a74aea88a479d72bdb2d6d5e20236c8da14bc1cdc1ab157fb5e2f",
+    "path": "zh/hkfa-best-supporting-actress.section.json",
+    "collection": "awards/hkfa"
+  },
+  {
+    "title": "🗿 库布里克 · 黑石碑徽章",
+    "description": "豆瓣徽章计划「库布里克 · 黑石碑徽章」的收藏片单，按豆瓣评分从高到低排列。",
+    "digest": "sha256:8a3cdd2aa8a99ed4d19e8faee20b1a76cdc92cd2dd363134c7af1ce4c74230de",
+    "path": "zh/douban-badge-1924.section.json",
+    "collection": "plans/douban",
+    "tags": [
+      "douban",
+      "badge",
+      "plan"
+    ],
+    "service": "douban"
+  },
+  {
+    "title": "🎩 希区柯克 · 麦格芬徽章",
+    "description": "豆瓣徽章计划「希区柯克 · 麦格芬徽章」的收藏片单，按豆瓣评分从高到低排列。",
+    "digest": "sha256:e7bb4a7a23e94fd3cb1d2554c51231b4eefcc5cc77c02fd6122e7e98e213041b",
+    "path": "zh/douban-badge-1930.section.json",
+    "collection": "plans/douban",
+    "tags": [
+      "douban",
+      "badge",
+      "plan"
+    ],
+    "service": "douban"
+  },
+  {
+    "title": "💭 今敏 · 造梦徽章",
+    "description": "豆瓣徽章计划「今敏 · 造梦徽章」的收藏片单，按豆瓣评分从高到低排列。",
+    "digest": "sha256:500a52e5b7c795770ab25e48d7eda9b00b8159f191a2d6a71a64b6f9229934ea",
+    "path": "zh/douban-badge-1933.section.json",
+    "collection": "plans/douban",
+    "tags": [
+      "douban",
+      "badge",
+      "plan"
+    ],
+    "service": "douban"
+  },
+  {
+    "title": "🗡️ 黑泽明 · 武士徽章",
+    "description": "豆瓣徽章计划「黑泽明 · 武士徽章」的收藏片单，按豆瓣评分从高到低排列。",
+    "digest": "sha256:5243882b697ab11efd24f2f11a1636b20c2ba3d87aaeabfd1fc4fd93a67c8102",
+    "path": "zh/douban-badge-1936.section.json",
+    "collection": "plans/douban",
+    "tags": [
+      "douban",
+      "badge",
+      "plan"
+    ],
+    "service": "douban"
+  },
+  {
+    "title": "🎭 伯格曼 · 假面徽章",
+    "description": "豆瓣徽章计划「伯格曼 · 假面徽章」的收藏片单，按豆瓣评分从高到低排列。",
+    "digest": "sha256:919eacc066671040781f571ed5a3c37d2146366a7620751e15bd839b714bc091",
+    "path": "zh/douban-badge-1942.section.json",
+    "collection": "plans/douban",
+    "tags": [
+      "douban",
+      "badge",
+      "plan"
+    ],
+    "service": "douban"
+  },
+  {
+    "title": "🌬️ 杨德昌 · 追风徽章",
+    "description": "豆瓣徽章计划「杨德昌 · 追风徽章」的收藏片单，按豆瓣评分从高到低排列。",
+    "digest": "sha256:407349b9579e4dd74254a4f8e636336ec08517688a5e8bd831c0b70c80d46d4e",
+    "path": "zh/douban-badge-1943.section.json",
+    "collection": "plans/douban",
+    "tags": [
+      "douban",
+      "badge",
+      "plan"
+    ],
+    "service": "douban"
+  },
+  {
+    "title": "🕯️ 塔可夫斯基 · 潜行者徽章",
+    "description": "豆瓣徽章计划「塔可夫斯基 · 潜行者徽章」的收藏片单，按豆瓣评分从高到低排列。",
+    "digest": "sha256:3e2691103d2f2db3c23a85cc93d31cd470cb69507f40edb5551615b1af5f5bc6",
+    "path": "zh/douban-badge-1956.section.json",
+    "collection": "plans/douban",
+    "tags": [
+      "douban",
+      "badge",
+      "plan"
+    ],
+    "service": "douban"
+  },
+  {
+    "title": "🎪 费里尼 · 马戏团徽章",
+    "description": "豆瓣徽章计划「费里尼 · 马戏团徽章」的收藏片单，按豆瓣评分从高到低排列。",
+    "digest": "sha256:983bc731c91eb3f88edfc583b423f1350f75173c423f328552dadb2a6f6af1c9",
+    "path": "zh/douban-badge-1959.section.json",
+    "collection": "plans/douban",
+    "tags": [
+      "douban",
+      "badge",
+      "plan"
+    ],
+    "service": "douban"
+  },
+  {
+    "title": "🔍 安东尼奥尼 · 放大徽章",
+    "description": "豆瓣徽章计划「安东尼奥尼 · 放大徽章」的收藏片单，按豆瓣评分从高到低排列。",
+    "digest": "sha256:8a8fd10591d94a3cda0c6a646af7ce238a49120000e4d51a69366a60789c4e06",
+    "path": "zh/douban-badge-1963.section.json",
+    "collection": "plans/douban",
+    "tags": [
+      "douban",
+      "badge",
+      "plan"
+    ],
+    "service": "douban"
+  },
+  {
+    "title": "⏳ 安哲罗普洛斯 · 时间徽章",
+    "description": "豆瓣徽章计划「安哲罗普洛斯 · 时间徽章」的收藏片单，按豆瓣评分从高到低排列。",
+    "digest": "sha256:cc7686abc1cb9ebebde480728a4bdd8ce47420621ac1b7aa2c6f12613bd72b28",
+    "path": "zh/douban-badge-1970.section.json",
+    "collection": "plans/douban",
+    "tags": [
+      "douban",
+      "badge",
+      "plan"
+    ],
+    "service": "douban"
+  },
+  {
+    "title": "🌅 侯麦 · 绿光徽章",
+    "description": "豆瓣徽章计划「侯麦 · 绿光徽章」的收藏片单，按豆瓣评分从高到低排列。",
+    "digest": "sha256:6a702360a0a549dd4e75abfa56f1c9eb0b73ef91dac0b6af067422f68d33b1a5",
+    "path": "zh/douban-badge-1972.section.json",
+    "collection": "plans/douban",
+    "tags": [
+      "douban",
+      "badge",
+      "plan"
+    ],
+    "service": "douban"
+  },
+  {
+    "title": "🕊️ 张国荣 · 无脚鸟徽章",
+    "description": "豆瓣徽章计划「张国荣 · 无脚鸟徽章」的收藏片单，按豆瓣评分从高到低排列。",
+    "digest": "sha256:2f68514e02d1e1de6c565463c31213f32c53b9d23fc230dd6a656d9375c61891",
+    "path": "zh/douban-badge-2254.section.json",
+    "collection": "plans/douban",
+    "tags": [
+      "douban",
+      "badge",
+      "plan"
+    ],
+    "service": "douban"
+  },
+  {
+    "title": "👒 奥黛丽·赫本 · 丽人徽章",
+    "description": "豆瓣徽章计划「奥黛丽·赫本 · 丽人徽章」的收藏片单，按豆瓣评分从高到低排列。",
+    "digest": "sha256:bf854f2e6c0f12124d033f63bf8d3f7e36d015f1ce88673d086e4726581ae817",
+    "path": "zh/douban-badge-2313.section.json",
+    "collection": "plans/douban",
+    "tags": [
+      "douban",
+      "badge",
+      "plan"
+    ],
+    "service": "douban"
+  },
+  {
+    "title": "🧸 动画电影徽章",
+    "description": "豆瓣徽章计划「动画电影徽章」的收藏片单，按豆瓣评分从高到低排列。",
+    "digest": "sha256:fc0cdea6bdf574f753926777e4ba77e56f0824f40953e42e054550b96be28053",
+    "path": "zh/douban-badge-film-genre-31.section.json",
+    "collection": "plans/douban",
+    "tags": [
+      "douban",
+      "badge",
+      "plan",
+      "genre"
+    ],
+    "service": "douban"
+  },
+  {
+    "title": "🕵️ 悬疑电影徽章",
+    "description": "豆瓣徽章计划「悬疑电影徽章」的收藏片单，按豆瓣评分从高到低排列。",
+    "digest": "sha256:59582e4924294690396ce91baeba5ffc749f46b9b96b87af288bc3412dc45bcd",
+    "path": "zh/douban-badge-film-genre-32.section.json",
+    "collection": "plans/douban",
+    "tags": [
+      "douban",
+      "badge",
+      "plan",
+      "genre"
+    ],
+    "service": "douban"
+  },
+  {
+    "title": "👻 恐怖电影徽章",
+    "description": "豆瓣徽章计划「恐怖电影徽章」的收藏片单，按豆瓣评分从高到低排列。",
+    "digest": "sha256:ae3ba18e1fcb47b4be842008af9e59317a343360445ac346a2c7550cd43d3f23",
+    "path": "zh/douban-badge-film-genre-34.section.json",
+    "collection": "plans/douban",
+    "tags": [
+      "douban",
+      "badge",
+      "plan",
+      "genre"
+    ],
+    "service": "douban"
+  },
+  {
+    "title": "🏠 家庭电影徽章",
+    "description": "豆瓣徽章计划「家庭电影徽章」的收藏片单，按豆瓣评分从高到低排列。",
+    "digest": "sha256:c429005fc9809170e93e718184640d215e4b3b023eb7becbe2c1401f4fff8a18",
+    "path": "zh/douban-badge-film-genre-41.section.json",
+    "collection": "plans/douban",
+    "tags": [
+      "douban",
+      "badge",
+      "plan",
+      "genre"
+    ],
+    "service": "douban"
+  },
+  {
+    "title": "👤 传记电影徽章",
+    "description": "豆瓣徽章计划「传记电影徽章」的收藏片单，按豆瓣评分从高到低排列。",
+    "digest": "sha256:30dc97b8789dd5325c995af725aa0985a40b28a2387abe3da361a8b2be5d87f0",
+    "path": "zh/douban-badge-film-genre-43.section.json",
+    "collection": "plans/douban",
+    "tags": [
+      "douban",
+      "badge",
+      "plan",
+      "genre"
+    ],
+    "service": "douban"
+  },
+  {
+    "title": "🏛️ 历史电影徽章",
+    "description": "豆瓣徽章计划「历史电影徽章」的收藏片单，按豆瓣评分从高到低排列。",
+    "digest": "sha256:90c71d0dc019e789441345759ee502cddf611994d9257f38c6ffd0eb1cf7e3e5",
+    "path": "zh/douban-badge-film-genre-44.section.json",
+    "collection": "plans/douban",
+    "tags": [
+      "douban",
+      "badge",
+      "plan",
+      "genre"
+    ],
+    "service": "douban"
+  },
+  {
+    "title": "🔪 犯罪电影徽章",
+    "description": "豆瓣徽章计划「犯罪电影徽章」的收藏片单，按豆瓣评分从高到低排列。",
+    "digest": "sha256:1ef135743c74b0fc694d824f6cf6b5bd0336d8cec7b6065ac11ed91f8bf9bb75",
+    "path": "zh/douban-badge-film-genre-46.section.json",
+    "collection": "plans/douban",
+    "tags": [
+      "douban",
+      "badge",
+      "plan",
+      "genre"
+    ],
+    "service": "douban"
+  },
+  {
+    "title": "🗡️ 武侠电影徽章",
+    "description": "豆瓣徽章计划「武侠电影徽章」的收藏片单，按豆瓣评分从高到低排列。",
+    "digest": "sha256:ec7e648fefc629c3b104ce6c01177d1446d5eb5ccd5fb7ddcc3b22e13425c7a6",
+    "path": "zh/douban-badge-film-genre-50.section.json",
+    "collection": "plans/douban",
+    "tags": [
+      "douban",
+      "badge",
+      "plan",
+      "genre"
+    ],
+    "service": "douban"
+  },
+  {
+    "title": "💥 动作电影徽章",
+    "description": "豆瓣徽章计划「动作电影徽章」的收藏片单，按豆瓣评分从高到低排列。",
+    "digest": "sha256:4d59691c6c7c4d97171a1cbe4d69a4e49b8138b9b15e04aa4736c4e8b977a10d",
+    "path": "zh/douban-badge-movie-action.section.json",
+    "collection": "plans/douban",
+    "tags": [
+      "douban",
+      "badge",
+      "plan",
+      "genre"
+    ],
+    "service": "douban"
+  },
+  {
+    "title": "😄 喜剧电影徽章",
+    "description": "豆瓣徽章计划「喜剧电影徽章」的收藏片单，按豆瓣评分从高到低排列。",
+    "digest": "sha256:1be262320bd3a3064afc674486046685bb1f9a16b32aed622dd91b2fb0c12e4d",
+    "path": "zh/douban-badge-movie-comedy.section.json",
+    "collection": "plans/douban",
+    "tags": [
+      "douban",
+      "badge",
+      "plan",
+      "genre"
+    ],
+    "service": "douban"
+  },
+  {
+    "title": "❤️ 爱情电影徽章",
+    "description": "豆瓣徽章计划「爱情电影徽章」的收藏片单，按豆瓣评分从高到低排列。",
+    "digest": "sha256:3c387cc36b7966560bc13cb62f71cba2ec2a94d4196a6536ee56aaefef0f72a8",
+    "path": "zh/douban-badge-movie-love.section.json",
+    "collection": "plans/douban",
+    "tags": [
+      "douban",
+      "badge",
+      "plan",
+      "genre"
+    ],
+    "service": "douban"
+  },
+  {
+    "title": "🚀 科幻电影徽章",
+    "description": "豆瓣徽章计划「科幻电影徽章」的收藏片单，按豆瓣评分从高到低排列。",
+    "digest": "sha256:9b27e1acaa61f553b6a094a0cf071a07500a084b766641323e7742b1d8bd075f",
+    "path": "zh/douban-badge-movie-scifi.section.json",
+    "collection": "plans/douban",
+    "tags": [
+      "douban",
+      "badge",
+      "plan",
+      "genre"
+    ],
+    "service": "douban"
+  }
+]

@@ -1,0 +1,352 @@
+[
+  {
+    "title": "金馬獎 2016 年核心獎項得獎名單",
+    "description": "第53屆金馬獎核心常設獎項得獎作品，收錄最佳劇情片、導演、男女主角、男女配角、新導演與新演員。",
+    "digest": "sha256:87f2d23527a4373e3d094cad59f865702a64dc079d6eb2fc48811166d4470021",
+    "path": "zh/golden-horse-2016.list.json",
+    "collection": "awards/golden-horse"
+  },
+  {
+    "title": "金馬獎 2017 年核心獎項得獎名單",
+    "description": "第54屆金馬獎核心常設獎項得獎作品，收錄最佳劇情片、導演、男女主角、男女配角、新導演與新演員。",
+    "digest": "sha256:f5ad78463300e50307f67e1fbae42ed050497f37389c9417ab9e5753a44fcb3a",
+    "path": "zh/golden-horse-2017.list.json",
+    "collection": "awards/golden-horse"
+  },
+  {
+    "title": "金馬獎 2018 年核心獎項得獎名單",
+    "description": "第55屆金馬獎核心常設獎項得獎作品，收錄最佳劇情片、導演、男女主角、男女配角、新導演與新演員。",
+    "digest": "sha256:7b4757027a755470c1d1fbf6d62b1c33a2294e616ae31e277c5ea0ae9f28c92c",
+    "path": "zh/golden-horse-2018.list.json",
+    "collection": "awards/golden-horse"
+  },
+  {
+    "title": "金馬獎 2019 年核心獎項得獎名單",
+    "description": "第56屆金馬獎核心常設獎項得獎作品，收錄最佳劇情片、導演、男女主角、男女配角、新導演與新演員。",
+    "digest": "sha256:f2806e3c8db52cf9a615f397be1bd958201c0a5be5b43a22eded53d0acfcf678",
+    "path": "zh/golden-horse-2019.list.json",
+    "collection": "awards/golden-horse"
+  },
+  {
+    "title": "金馬獎 2020 年核心獎項得獎名單",
+    "description": "第57屆金馬獎核心常設獎項得獎作品，收錄最佳劇情片、導演、男女主角、男女配角、新導演與新演員。",
+    "digest": "sha256:449c46a81806a0941c37397aab550f5f15d4b6d81ebe9c2c2f3d15262a6bc509",
+    "path": "zh/golden-horse-2020.list.json",
+    "collection": "awards/golden-horse"
+  },
+  {
+    "title": "金馬獎 2021 年核心獎項得獎名單",
+    "description": "第58屆金馬獎核心常設獎項得獎作品，收錄最佳劇情片、導演、男女主角、男女配角、新導演與新演員。",
+    "digest": "sha256:7555d62bf16e50e8d83910dc559e6ea1667e453e08911686cd924fbf73156a56",
+    "path": "zh/golden-horse-2021.list.json",
+    "collection": "awards/golden-horse"
+  },
+  {
+    "title": "金馬獎 2022 年核心獎項得獎名單",
+    "description": "第59屆金馬獎核心常設獎項得獎作品，收錄最佳劇情片、導演、男女主角、男女配角、新導演與新演員。",
+    "digest": "sha256:64a43f9244a10952714a11605a24fbc42aa896b2a2b8b752b592ae9ed9008625",
+    "path": "zh/golden-horse-2022.list.json",
+    "collection": "awards/golden-horse"
+  },
+  {
+    "title": "金馬獎 2023 年核心獎項得獎名單",
+    "description": "第60屆金馬獎核心常設獎項得獎作品，收錄最佳劇情片、導演、男女主角、男女配角、新導演與新演員。",
+    "digest": "sha256:30e77336e00ab6895c4b3ea4824742fb2ed7de4c51ab6b1e0850a29ba38fd539",
+    "path": "zh/golden-horse-2023.list.json",
+    "collection": "awards/golden-horse"
+  },
+  {
+    "title": "金馬獎 2024 年核心獎項得獎名單",
+    "description": "第61屆金馬獎核心常設獎項得獎作品，收錄最佳劇情片、導演、男女主角、男女配角、新導演與新演員。",
+    "digest": "sha256:5b1f3bfdcf360b61783a9d1828d8bae6ad16296f9a51c0b9e4ce4e1c87d35c9a",
+    "path": "zh/golden-horse-2024.list.json",
+    "collection": "awards/golden-horse"
+  },
+  {
+    "title": "金馬獎 2025 年核心獎項得獎名單",
+    "description": "第62屆金馬獎核心常設獎項得獎作品，收錄最佳劇情片、導演、男女主角、男女配角、新導演與新演員。",
+    "digest": "sha256:20d6af0fbae113f66294729b9a6d02cbc89cb743986fa8994917c07130946e97",
+    "path": "zh/golden-horse-2025.list.json",
+    "collection": "awards/golden-horse"
+  },
+  {
+    "title": "金馬獎 — 最佳男主角",
+    "description": "金馬獎最佳男主角歷屆全部實際得獎記錄；並列得獎分別保留。",
+    "digest": "sha256:4fb42f048f9ccbc5172d24cab7a2aa192b44dd774f2e9b29a76bd717390764a7",
+    "path": "zh/golden-horse-best-actor.list.json",
+    "collection": "awards/golden-horse"
+  },
+  {
+    "title": "金馬獎 — 最佳女主角",
+    "description": "金馬獎最佳女主角歷屆全部實際得獎記錄；共同得獎保留完整得主。",
+    "digest": "sha256:7e5d78d3638d2e76f866afa9f878f93b8f8cb93ac8f0d274d2a2e00cb2c0a06b",
+    "path": "zh/golden-horse-best-actress.list.json",
+    "collection": "awards/golden-horse"
+  },
+  {
+    "title": "金馬獎 — 最佳導演",
+    "description": "金馬獎最佳導演歷屆全部實際得獎記錄。1964年及1974年停辦不列入。",
+    "digest": "sha256:f1aa1eb11e31b0a3448d305414727318a1b1e1cd4aa928af6f75ed20aade8996",
+    "path": "zh/golden-horse-best-director.list.json",
+    "collection": "awards/golden-horse"
+  },
+  {
+    "title": "金馬獎 — 最佳劇情片",
+    "description": "金馬獎最佳劇情片歷屆全部實際得獎作品。1964年及1974年停辦不列入。",
+    "digest": "sha256:eca3c5127cf2792fb4834bd34e5f0113a898f05fa4a6af12c3d054af7dfa082d",
+    "path": "zh/golden-horse-best-feature.list.json",
+    "collection": "awards/golden-horse"
+  },
+  {
+    "title": "金馬獎 — 最佳新導演",
+    "description": "金馬獎最佳新導演自2010年設獎以來至2025年的全部實際得獎記錄。",
+    "digest": "sha256:ea5e613ad9dfc2d7f54a136a8df77d9ca9c907a8f91facde276303ea6d9b0ef7",
+    "path": "zh/golden-horse-best-new-director.list.json",
+    "collection": "awards/golden-horse"
+  },
+  {
+    "title": "金馬獎 — 最佳新演員",
+    "description": "金馬獎最佳新演員自2000年設獎以來至2025年的全部實際得獎記錄；同屆多位得主分別保留。",
+    "digest": "sha256:575e9bfee15a04a4416bdff34770fc34e19beb62630f3786bdd21ac48154dffa",
+    "path": "zh/golden-horse-best-new-performer.list.json",
+    "collection": "awards/golden-horse"
+  },
+  {
+    "title": "金馬獎 — 最佳男配角",
+    "description": "金馬獎最佳男配角歷屆全部實際得獎記錄。",
+    "digest": "sha256:80b734bec8589c6a956edea5a8a8fa7f4fa5567de19b88da076e1b7629182e62",
+    "path": "zh/golden-horse-best-supporting-actor.list.json",
+    "collection": "awards/golden-horse"
+  },
+  {
+    "title": "金馬獎 — 最佳女配角",
+    "description": "金馬獎最佳女配角歷屆全部實際得獎記錄；並列得獎分別保留。",
+    "digest": "sha256:eb6eda1ba17d8790da13a3381b057aa28411686fc919dca53b79c5b69f845f08",
+    "path": "zh/golden-horse-best-supporting-actress.list.json",
+    "collection": "awards/golden-horse"
+  },
+  {
+    "title": "中国电影金鸡奖 2017 年获奖名单",
+    "description": "第31届中国电影金鸡奖主要获奖影片与影人。",
+    "digest": "sha256:78a5c9a121eaf90c441665b8b83dc263d0cc0cefe6e7f9b2e5ae016f58b2fd3a",
+    "path": "zh/golden-rooster-2017.list.json",
+    "collection": "awards/golden-rooster"
+  },
+  {
+    "title": "中国电影金鸡奖 2019 年获奖名单",
+    "description": "第32届中国电影金鸡奖主要获奖影片与影人。",
+    "digest": "sha256:6fce95a1150142ee4b8f4e43923af4d6491550ce88d6d0d2a04e4a96ba498294",
+    "path": "zh/golden-rooster-2019.list.json",
+    "collection": "awards/golden-rooster"
+  },
+  {
+    "title": "中国电影金鸡奖 2020 年获奖名单",
+    "description": "第33届中国电影金鸡奖主要获奖影片与影人。",
+    "digest": "sha256:ac2dc0245cc1b10c99b5fff644c592dd0091a6c7cabaa96710fdffc79eb48270",
+    "path": "zh/golden-rooster-2020.list.json",
+    "collection": "awards/golden-rooster"
+  },
+  {
+    "title": "中国电影金鸡奖 2021 年获奖名单",
+    "description": "第34届中国电影金鸡奖主要获奖影片与影人。",
+    "digest": "sha256:dd2049c35e2ce64459e10c7d0f8316aca30a61ab8b65cb51bf612816224907b7",
+    "path": "zh/golden-rooster-2021.list.json",
+    "collection": "awards/golden-rooster"
+  },
+  {
+    "title": "中国电影金鸡奖 2022 年获奖名单",
+    "description": "第35届中国电影金鸡奖主要获奖影片与影人。",
+    "digest": "sha256:c8890c50ceeda7c64fd7430bd2ee9b6f05f316c6293f3f359d9bd9ff6d259397",
+    "path": "zh/golden-rooster-2022.list.json",
+    "collection": "awards/golden-rooster"
+  },
+  {
+    "title": "中国电影金鸡奖 2023 年获奖名单",
+    "description": "第36届中国电影金鸡奖主要获奖影片与影人。",
+    "digest": "sha256:a157c110f02a0ccf14435004d81fe8ae8494b32814f9950114422879fd08c84c",
+    "path": "zh/golden-rooster-2023.list.json",
+    "collection": "awards/golden-rooster"
+  },
+  {
+    "title": "中国电影金鸡奖 2024 年获奖名单",
+    "description": "第37届中国电影金鸡奖主要获奖影片与影人。",
+    "digest": "sha256:6e807d15a0dfd406e7941d458ce3bce7816508234d45b3c9f03e9dfdfa73579e",
+    "path": "zh/golden-rooster-2024.list.json",
+    "collection": "awards/golden-rooster"
+  },
+  {
+    "title": "中国电影金鸡奖 2025 年获奖名单",
+    "description": "第38届中国电影金鸡奖主要获奖影片与影人。",
+    "digest": "sha256:0a22d43e4ac098ce3a5f5fc2fc644f2b0f3702a504e0ace6905410afd7dd25cd",
+    "path": "zh/golden-rooster-2025.list.json",
+    "collection": "awards/golden-rooster"
+  },
+  {
+    "title": "金鸡奖 — 最佳男主角",
+    "description": "中国电影金鸡奖历届最佳男主角获奖记录；并列获奖按独立条目保留。",
+    "digest": "sha256:03cd733b178da305959f2ed26663f06bb1de313b11682f8b96f8242dd01491e1",
+    "path": "zh/golden-rooster-best-actor.list.json",
+    "collection": "awards/golden-rooster"
+  },
+  {
+    "title": "金鸡奖 — 最佳女主角",
+    "description": "中国电影金鸡奖历届最佳女主角获奖记录；并列获奖按独立条目保留。",
+    "digest": "sha256:c85bc3282fa3adf742ff4d33262b64fca4fcdce2f2652ed3b1e79d77c5d6e157",
+    "path": "zh/golden-rooster-best-actress.list.json",
+    "collection": "awards/golden-rooster"
+  },
+  {
+    "title": "金鸡奖 — 最佳导演",
+    "description": "中国电影金鸡奖历届最佳导演获奖记录；并列获奖按独立条目保留。",
+    "digest": "sha256:be2a6f9d7543098af6131e347e152390884c08d6f57d5b1c101acec52085ec4b",
+    "path": "zh/golden-rooster-best-director.list.json",
+    "collection": "awards/golden-rooster"
+  },
+  {
+    "title": "金鸡奖 — 最佳导演处女作",
+    "description": "中国电影金鸡奖历届最佳导演处女作获奖记录；并列获奖按独立条目保留。",
+    "digest": "sha256:60aeab1239cfe8a88551aee146e89182143ef18c31c3c0efa19092eaad00aa01",
+    "path": "zh/golden-rooster-best-directorial-debut.list.json",
+    "collection": "awards/golden-rooster"
+  },
+  {
+    "title": "金鸡奖 — 最佳故事片",
+    "description": "中国电影金鸡奖历届最佳故事片获奖记录；并列获奖按独立条目保留。",
+    "digest": "sha256:05a02371ae271a2b0111ac3db76b02a5e3ead5be205de0b2072367cb6aa3984e",
+    "path": "zh/golden-rooster-best-feature-film.list.json",
+    "collection": "awards/golden-rooster"
+  },
+  {
+    "title": "金鸡奖 — 最佳男配角",
+    "description": "中国电影金鸡奖历届最佳男配角获奖记录；并列获奖按独立条目保留。",
+    "digest": "sha256:9c686483e7828eaef272343b9b90b39baa7868ab84d1aa5c155753fde1127588",
+    "path": "zh/golden-rooster-best-supporting-actor.list.json",
+    "collection": "awards/golden-rooster"
+  },
+  {
+    "title": "金鸡奖 — 最佳女配角",
+    "description": "中国电影金鸡奖历届最佳女配角获奖记录；并列获奖按独立条目保留。",
+    "digest": "sha256:00834b7d984d386d6879c5bd8a34d8fb27deb4b22f0023bdf3bed9229e1e08c8",
+    "path": "zh/golden-rooster-best-supporting-actress.list.json",
+    "collection": "awards/golden-rooster"
+  },
+  {
+    "title": "香港電影金像獎 2017 年得獎名單",
+    "description": "第36屆香港電影金像獎主要獎項得獎作品。",
+    "digest": "sha256:aebfbfbd95db68dc71fce7039aa19dc48b0cc459e147887e45a419f4d6ed4bf7",
+    "path": "zh/hkfa-2017.list.json",
+    "collection": "awards/hkfa"
+  },
+  {
+    "title": "香港電影金像獎 2018 年得獎名單",
+    "description": "第37屆香港電影金像獎主要獎項得獎作品。",
+    "digest": "sha256:3aa4e38845bddccbc2b39e86301e9f9ce405fc93bca69eb811c69bbea6abae40",
+    "path": "zh/hkfa-2018.list.json",
+    "collection": "awards/hkfa"
+  },
+  {
+    "title": "香港電影金像獎 2019 年得獎名單",
+    "description": "第38屆香港電影金像獎主要獎項得獎作品。",
+    "digest": "sha256:a390f24f2e4ece9dfde7e7934ce77d16b7983358d8b776be59ed52783ad97778",
+    "path": "zh/hkfa-2019.list.json",
+    "collection": "awards/hkfa"
+  },
+  {
+    "title": "香港電影金像獎 2020 年得獎名單",
+    "description": "第39屆香港電影金像獎主要獎項得獎作品。",
+    "digest": "sha256:2ac5daf9ccf976d84de03b7f9c3d7478ab4e6bdebf6c4b1b92cb392dec88bf7f",
+    "path": "zh/hkfa-2020.list.json",
+    "collection": "awards/hkfa"
+  },
+  {
+    "title": "香港電影金像獎 2022 年得獎名單",
+    "description": "第40屆香港電影金像獎主要獎項得獎作品。",
+    "digest": "sha256:adb5c3134658267b1f8c14beb7b3846310a95cc07acd8c8d8994a644542869b2",
+    "path": "zh/hkfa-2022.list.json",
+    "collection": "awards/hkfa"
+  },
+  {
+    "title": "香港電影金像獎 2023 年得獎名單",
+    "description": "第41屆香港電影金像獎主要獎項得獎作品。",
+    "digest": "sha256:368ae4e46e5ddcb20976f85c96044ffbb30e23421b0cb7501f9ea6491659f5a1",
+    "path": "zh/hkfa-2023.list.json",
+    "collection": "awards/hkfa"
+  },
+  {
+    "title": "香港電影金像獎 2024 年得獎名單",
+    "description": "第42屆香港電影金像獎主要獎項得獎作品。",
+    "digest": "sha256:62914173b37679ced28d257459193c596be4504f58a6b16f28ca62f4b7393434",
+    "path": "zh/hkfa-2024.list.json",
+    "collection": "awards/hkfa"
+  },
+  {
+    "title": "香港電影金像獎 2025 年得獎名單",
+    "description": "第43屆香港電影金像獎主要獎項得獎作品。",
+    "digest": "sha256:74d957b5670c63d5bf537f15e5012cc423dadb52ccf54105e8a5f4795a45f94d",
+    "path": "zh/hkfa-2025.list.json",
+    "collection": "awards/hkfa"
+  },
+  {
+    "title": "香港電影金像獎 2026 年得獎名單",
+    "description": "第44屆香港電影金像獎主要獎項得獎作品。",
+    "digest": "sha256:28a186047e485646bba54475340e6707fab522ea51a5822f382540d34a31f9e6",
+    "path": "zh/hkfa-2026.list.json",
+    "collection": "awards/hkfa"
+  },
+  {
+    "title": "香港電影金像獎 — 最佳男主角",
+    "description": "香港電影金像獎歷屆最佳男主角得獎記錄。",
+    "digest": "sha256:d14b3dbc2e686cc3681dc34f1d211a9f63a2f50f9b1f438bfcd09341699b0101",
+    "path": "zh/hkfa-best-actor.list.json",
+    "collection": "awards/hkfa"
+  },
+  {
+    "title": "香港電影金像獎 — 最佳女主角",
+    "description": "香港電影金像獎歷屆最佳女主角得獎記錄。",
+    "digest": "sha256:ed4132ab5e1a9eaddb0ee91aa065928b26daa6e6b8e1d9f103b7d33d79029853",
+    "path": "zh/hkfa-best-actress.list.json",
+    "collection": "awards/hkfa"
+  },
+  {
+    "title": "香港電影金像獎 — 最佳導演",
+    "description": "香港電影金像獎歷屆最佳導演得獎記錄。",
+    "digest": "sha256:38298d60dd62c8df510a0370f0493aec544fc035fab3540c44b6975a6650fcb6",
+    "path": "zh/hkfa-best-director.list.json",
+    "collection": "awards/hkfa"
+  },
+  {
+    "title": "香港電影金像獎 — 最佳電影",
+    "description": "香港電影金像獎歷屆最佳電影得獎記錄。",
+    "digest": "sha256:e673685ddb6708982147bbd98ad0be406300275757d45d4274d62048da4493d5",
+    "path": "zh/hkfa-best-film.list.json",
+    "collection": "awards/hkfa"
+  },
+  {
+    "title": "香港電影金像獎 — 最佳新演員",
+    "description": "香港電影金像獎歷屆最佳新演員得獎記錄。",
+    "digest": "sha256:e3d8b774944b4fe7896835be1a0c708b17157618342cf6e123735435acf5ce66",
+    "path": "zh/hkfa-best-new-performer.list.json",
+    "collection": "awards/hkfa"
+  },
+  {
+    "title": "香港電影金像獎 — 最佳編劇",
+    "description": "香港電影金像獎歷屆最佳編劇得獎記錄。",
+    "digest": "sha256:7e977180c27ad9d3199f5b8f72230c35710ecb28c084cbdf0fe95efb8e0bb742",
+    "path": "zh/hkfa-best-screenplay.list.json",
+    "collection": "awards/hkfa"
+  },
+  {
+    "title": "香港電影金像獎 — 最佳男配角",
+    "description": "香港電影金像獎歷屆最佳男配角得獎記錄。",
+    "digest": "sha256:025eff5c4a195c1a6bdb9734e38c838cf624cb4fafe9f874363a153457fc10a2",
+    "path": "zh/hkfa-best-supporting-actor.list.json",
+    "collection": "awards/hkfa"
+  },
+  {
+    "title": "香港電影金像獎 — 最佳女配角",
+    "description": "香港電影金像獎歷屆最佳女配角得獎記錄。",
+    "digest": "sha256:417d124e2dbac18accc9bcc60539bf115a031870226da4c9acd4e4eaedc06d77",
+    "path": "zh/hkfa-best-supporting-actress.list.json",
+    "collection": "awards/hkfa"
+  }
+]

@@ -1,0 +1,1558 @@
+[
+  {
+    "title": "백상예술대상 — 2017",
+    "description": "2017년 백상예술대상 영화·방송 주요 수상 기록.",
+    "digest": "sha256:2b39c9d1219530aad2fb837490a2c898fb16af71662d29a4581ccecbb60a6cdc",
+    "path": "ko/baeksang-2017.list.json",
+    "collection": "awards/baeksang"
+  },
+  {
+    "title": "백상예술대상 — 2018",
+    "description": "2018년 백상예술대상 영화·방송 주요 수상 기록.",
+    "digest": "sha256:4a5358a186f06a8712992c2d3e19071e797adb331e5d45238e69e04e832778da",
+    "path": "ko/baeksang-2018.list.json",
+    "collection": "awards/baeksang"
+  },
+  {
+    "title": "백상예술대상 — 2019",
+    "description": "2019년 백상예술대상 영화·방송 주요 수상 기록.",
+    "digest": "sha256:4e098f5a61e293268c52b045bfcb8d596218998380e4930f5ae0fc117aaae45e",
+    "path": "ko/baeksang-2019.list.json",
+    "collection": "awards/baeksang"
+  },
+  {
+    "title": "백상예술대상 — 2020",
+    "description": "2020년 백상예술대상 영화·방송 주요 수상 기록.",
+    "digest": "sha256:a8b5c0e56ba28fb876f26fefc6b5a04abb892793735610acd8f5142a5383822a",
+    "path": "ko/baeksang-2020.list.json",
+    "collection": "awards/baeksang"
+  },
+  {
+    "title": "백상예술대상 — 2021",
+    "description": "2021년 백상예술대상 영화·방송 주요 수상 기록.",
+    "digest": "sha256:198662e669bcf79ed32c70a4bad6d9e0c5f4acc8b3e25c0db362336d0ad79322",
+    "path": "ko/baeksang-2021.list.json",
+    "collection": "awards/baeksang"
+  },
+  {
+    "title": "백상예술대상 — 2022",
+    "description": "2022년 백상예술대상 영화·방송 주요 수상 기록.",
+    "digest": "sha256:22580c8429b4dddfad165ce623fe05fc612da553f744128a9b93b4b89a88958e",
+    "path": "ko/baeksang-2022.list.json",
+    "collection": "awards/baeksang"
+  },
+  {
+    "title": "백상예술대상 — 2023",
+    "description": "2023년 백상예술대상 영화·방송 주요 수상 기록.",
+    "digest": "sha256:bb62215c1c2dff9d67188da728929d20f8c85a01080d223e1c25a6a9fd06383a",
+    "path": "ko/baeksang-2023.list.json",
+    "collection": "awards/baeksang"
+  },
+  {
+    "title": "백상예술대상 — 2024",
+    "description": "2024년 백상예술대상 영화·방송 주요 수상 기록.",
+    "digest": "sha256:6aad8e04b5a4ba9b772487291cf20593a0428276fd7a42a9e89314f91d63373c",
+    "path": "ko/baeksang-2024.list.json",
+    "collection": "awards/baeksang"
+  },
+  {
+    "title": "백상예술대상 — 2025",
+    "description": "2025년 백상예술대상 영화·방송 주요 수상 기록.",
+    "digest": "sha256:c2aef3babdb2bc902876aef0bdb347ba4b5fe8164c6cacd8248a4bf5a0b96e12",
+    "path": "ko/baeksang-2025.list.json",
+    "collection": "awards/baeksang"
+  },
+  {
+    "title": "백상예술대상 — 2026",
+    "description": "2026년 백상예술대상 영화·방송 주요 수상 기록.",
+    "digest": "sha256:19f4f66e9720b898fff683a6de18416c301d92ba6494240f8f76f687a80d4600",
+    "path": "ko/baeksang-2026.list.json",
+    "collection": "awards/baeksang"
+  },
+  {
+    "title": "백상예술대상 — 영화부문 남자 최우수 연기상",
+    "description": "2017–2026년 백상예술대상 영화부문 남자 최우수 연기상 수상 기록.",
+    "digest": "sha256:f3e9c938cf791411bbae6f2431e1c586a887478b9d7b9f7e120f409aa3c3dd00",
+    "path": "ko/baeksang-film-actor.list.json",
+    "collection": "awards/baeksang"
+  },
+  {
+    "title": "백상예술대상 — 영화부문 여자 최우수 연기상",
+    "description": "2017–2026년 백상예술대상 영화부문 여자 최우수 연기상 수상 기록.",
+    "digest": "sha256:b78d8a86da9134864e1eb356dc7081861de4ce908eee8f964131641ec5ac367f",
+    "path": "ko/baeksang-film-actress.list.json",
+    "collection": "awards/baeksang"
+  },
+  {
+    "title": "백상예술대상 — 영화부문 작품상",
+    "description": "2017–2026년 백상예술대상 영화부문 작품상 수상 기록.",
+    "digest": "sha256:aeefecaacacfdc1d2ee49e46331471dfd7bdbdb7cd0ee0ba0aaf559cbb49d7c6",
+    "path": "ko/baeksang-film-best.list.json",
+    "collection": "awards/baeksang"
+  },
+  {
+    "title": "백상예술대상 — 영화부문 감독상",
+    "description": "2017–2026년 백상예술대상 영화부문 감독상 수상 기록.",
+    "digest": "sha256:fe9ec2be39f975109c2a51bed06386f9a5f1f8958b2ce41de9debbacbe362261",
+    "path": "ko/baeksang-film-director.list.json",
+    "collection": "awards/baeksang"
+  },
+  {
+    "title": "백상예술대상 — 영화부문 대상",
+    "description": "2017–2026년 백상예술대상 영화부문 대상 수상 기록.",
+    "digest": "sha256:f81fc6f2ffe35ad27e020c2604f1150544cfec0e2326b4c3cd1cc978d2e9dcd2",
+    "path": "ko/baeksang-film-grand.list.json",
+    "collection": "awards/baeksang"
+  },
+  {
+    "title": "백상예술대상 — 방송부문 남자 최우수 연기상",
+    "description": "2017–2026년 백상예술대상 방송부문 남자 최우수 연기상 수상 기록.",
+    "digest": "sha256:ef5871e9cfcd870737f19cd186fa8c6062deb48d5dcf8d3d2f65ae838fe873e2",
+    "path": "ko/baeksang-tv-actor.list.json",
+    "collection": "awards/baeksang"
+  },
+  {
+    "title": "백상예술대상 — 방송부문 여자 최우수 연기상",
+    "description": "2017–2026년 백상예술대상 방송부문 여자 최우수 연기상 수상 기록.",
+    "digest": "sha256:182d123a4e301b2985ffcf101c8cd3de5bd7953d099e9d3d7ef11b51d5a2b087",
+    "path": "ko/baeksang-tv-actress.list.json",
+    "collection": "awards/baeksang"
+  },
+  {
+    "title": "백상예술대상 — 방송부문 작품상 드라마",
+    "description": "2017–2026년 백상예술대상 방송부문 작품상 드라마 수상 기록.",
+    "digest": "sha256:562531252b7ef052e0f92aea1903ad4215e572bcdd93689b4d3cb6c939860577",
+    "path": "ko/baeksang-tv-best.list.json",
+    "collection": "awards/baeksang"
+  },
+  {
+    "title": "백상예술대상 — 방송부문 연출상",
+    "description": "2017–2026년 백상예술대상 방송부문 연출상 수상 기록.",
+    "digest": "sha256:5687c3f85cea6eec88b0e1b655a5b70d779f1be8860039c450c776510ec12055",
+    "path": "ko/baeksang-tv-director.list.json",
+    "collection": "awards/baeksang"
+  },
+  {
+    "title": "백상예술대상 — 방송부문 대상",
+    "description": "2017–2026년 백상예술대상 방송부문 대상 수상 기록.",
+    "digest": "sha256:3d00958bbfe435c36a3cb12b0f4e7e5940f0343ef2f01bacd146c6692f4876f9",
+    "path": "ko/baeksang-tv-grand.list.json",
+    "collection": "awards/baeksang"
+  },
+  {
+    "title": "부산국제영화제 2016 수상작",
+    "description": "부산국제영화제 2016 주요 경쟁상 수상작.",
+    "digest": "sha256:28938662cbcf5f0a07940b27bcd8f2c61a971a292c57c54507d94eff0f5f6c6b",
+    "path": "ko/biff-2016.list.json",
+    "collection": "awards/biff"
+  },
+  {
+    "title": "부산국제영화제 2017 수상작",
+    "description": "부산국제영화제 2017 주요 경쟁상 수상작.",
+    "digest": "sha256:656bea3827675047b671b916b770281724cc962e1a01218fa59b05be2f6e598c",
+    "path": "ko/biff-2017.list.json",
+    "collection": "awards/biff"
+  },
+  {
+    "title": "부산국제영화제 2018 수상작",
+    "description": "부산국제영화제 2018 주요 경쟁상 수상작.",
+    "digest": "sha256:96e5cfc3f4d698de7faa99a67e7b6814499d39aeee5a9e42183307e9b1dbc2e0",
+    "path": "ko/biff-2018.list.json",
+    "collection": "awards/biff"
+  },
+  {
+    "title": "부산국제영화제 2019 수상작",
+    "description": "부산국제영화제 2019 주요 경쟁상 수상작.",
+    "digest": "sha256:2309cb6e5d57e1bca52b9cadd951fa77847ff193087ce1aa70fe66f3c03541a5",
+    "path": "ko/biff-2019.list.json",
+    "collection": "awards/biff"
+  },
+  {
+    "title": "부산국제영화제 2020 수상작",
+    "description": "부산국제영화제 2020 주요 경쟁상 수상작.",
+    "digest": "sha256:ef6ca7b13ab6d6ac4a15bccae47d2080a66c22c5060fc36a8fb3683cc59570a1",
+    "path": "ko/biff-2020.list.json",
+    "collection": "awards/biff"
+  },
+  {
+    "title": "부산국제영화제 2021 수상작",
+    "description": "부산국제영화제 2021 주요 경쟁상 수상작.",
+    "digest": "sha256:62f9eab411028483deae6c72086bae89a37516cf967098f78dcc2fe49495e8d8",
+    "path": "ko/biff-2021.list.json",
+    "collection": "awards/biff"
+  },
+  {
+    "title": "부산국제영화제 2022 수상작",
+    "description": "부산국제영화제 2022 주요 경쟁상 수상작.",
+    "digest": "sha256:692144a6ffda576e7d270ff325c7eaa7458a7a663c4907dcc072232ada0bacac",
+    "path": "ko/biff-2022.list.json",
+    "collection": "awards/biff"
+  },
+  {
+    "title": "부산국제영화제 2023 수상작",
+    "description": "부산국제영화제 2023 주요 경쟁상 수상작.",
+    "digest": "sha256:4121941a87fd82eeac5184c442c538b43e6521aec016ccafdcf9b2afa427b8d7",
+    "path": "ko/biff-2023.list.json",
+    "collection": "awards/biff"
+  },
+  {
+    "title": "부산국제영화제 2024 수상작",
+    "description": "부산국제영화제 2024 주요 경쟁상 수상작.",
+    "digest": "sha256:4eaa43eb0ed5a675feddf8829722857e1c28d2729b5890e9a0ec4a3f006ff19b",
+    "path": "ko/biff-2024.list.json",
+    "collection": "awards/biff"
+  },
+  {
+    "title": "부산국제영화제 2025 수상작",
+    "description": "부산국제영화제 2025 주요 경쟁상 수상작.",
+    "digest": "sha256:d74704c7dbe437feca8040224cd2f9681017e7baa67f6b4076304d76ee923e4d",
+    "path": "ko/biff-2025.list.json",
+    "collection": "awards/biff"
+  },
+  {
+    "title": "부산국제영화제 — 부산 어워드 작품상",
+    "description": "부산국제영화제 부산 어워드 작품상 역대 수상작.",
+    "digest": "sha256:98ff44d3bcb9721c2964616556a1c7b146492c35dc596d9251aa272b4d68f7c8",
+    "path": "ko/biff-busan-best-film.list.json",
+    "collection": "awards/biff"
+  },
+  {
+    "title": "부산국제영화제 — 지석상",
+    "description": "부산국제영화제 지석상 역대 수상작.",
+    "digest": "sha256:a5ea9eebbe15a8f1f015d6bcbe8d89d6b18208a8a7e698e241856dc1de3ee4a5",
+    "path": "ko/biff-kim-jiseok.list.json",
+    "collection": "awards/biff"
+  },
+  {
+    "title": "부산국제영화제 — 비프메세나상",
+    "description": "부산국제영화제 비프메세나상 역대 수상 다큐멘터리.",
+    "digest": "sha256:68a9896ac7d15bcb5f42ed34350ae5b40fd68b2afc44a9a4fe8905151ab314ff",
+    "path": "ko/biff-mecenat.list.json",
+    "collection": "awards/biff"
+  },
+  {
+    "title": "부산국제영화제 — 뉴 커런츠상",
+    "description": "부산국제영화제 뉴 커런츠상 역대 수상작.",
+    "digest": "sha256:998b8c9c1569f0ac93af4d615782390853c5bcfed505845288876e07141d1933",
+    "path": "ko/biff-new-currents.list.json",
+    "collection": "awards/biff"
+  },
+  {
+    "title": "부산국제영화제 — 선재상",
+    "description": "부산국제영화제 선재상 역대 수상 단편.",
+    "digest": "sha256:ed7d886653bb5457faf70d3b02bc769f78a8d0974e6ee06e2f1cf4aed6be64fe",
+    "path": "ko/biff-sonje.list.json",
+    "collection": "awards/biff"
+  },
+  {
+    "title": "청룡영화상 — 2016",
+    "description": "2016년 청룡영화상 주요 10개 영화 부문 수상작.",
+    "digest": "sha256:83cd66aaad1c8792b1e68881d9f6e07c35db7c04aadbcbc93e0818395c66d31a",
+    "path": "ko/blue-dragon-2016.list.json",
+    "collection": "awards/blue-dragon"
+  },
+  {
+    "title": "청룡영화상 — 2017",
+    "description": "2017년 청룡영화상 주요 10개 영화 부문 수상작.",
+    "digest": "sha256:6ed22df016ccef8ad063c5bab4ac52c6d49e907f75163bd516bcea7c6a6c0248",
+    "path": "ko/blue-dragon-2017.list.json",
+    "collection": "awards/blue-dragon"
+  },
+  {
+    "title": "청룡영화상 — 2018",
+    "description": "2018년 청룡영화상 주요 10개 영화 부문 수상작.",
+    "digest": "sha256:3a4192411965dfacc22b7f0e79862bc4a7533b76a7b41e5c065869d4161222bd",
+    "path": "ko/blue-dragon-2018.list.json",
+    "collection": "awards/blue-dragon"
+  },
+  {
+    "title": "청룡영화상 — 2019",
+    "description": "2019년 청룡영화상 주요 10개 영화 부문 수상작.",
+    "digest": "sha256:c8f74008d65cb36e535217bd3e3d067fb4f853ec0d1522f72dbe68b8199ac211",
+    "path": "ko/blue-dragon-2019.list.json",
+    "collection": "awards/blue-dragon"
+  },
+  {
+    "title": "청룡영화상 — 2020",
+    "description": "2020년 청룡영화상 주요 10개 영화 부문 수상작.",
+    "digest": "sha256:7990c18b34bb4634f570bdf11fe7a0449c1f3c4b3304b76b321c3af314eb2094",
+    "path": "ko/blue-dragon-2020.list.json",
+    "collection": "awards/blue-dragon"
+  },
+  {
+    "title": "청룡영화상 — 2021",
+    "description": "2021년 청룡영화상 주요 10개 영화 부문 수상작.",
+    "digest": "sha256:08a5b35bea8ec7af7adec6f041052665304817799ae617b51fea76ac171bb727",
+    "path": "ko/blue-dragon-2021.list.json",
+    "collection": "awards/blue-dragon"
+  },
+  {
+    "title": "청룡영화상 — 2022",
+    "description": "2022년 청룡영화상 주요 10개 영화 부문 수상작.",
+    "digest": "sha256:26837dd6a352c44fce05f6bdee9866cec2c52bad32017fadf9aded3e20bde23f",
+    "path": "ko/blue-dragon-2022.list.json",
+    "collection": "awards/blue-dragon"
+  },
+  {
+    "title": "청룡영화상 — 2023",
+    "description": "2023년 청룡영화상 주요 10개 영화 부문 수상작.",
+    "digest": "sha256:4df20cfdaf98f41952ef460e567e44f4ed0510866d88bf3a381229c1b2996c60",
+    "path": "ko/blue-dragon-2023.list.json",
+    "collection": "awards/blue-dragon"
+  },
+  {
+    "title": "청룡영화상 — 2024",
+    "description": "2024년 청룡영화상 주요 10개 영화 부문 수상작.",
+    "digest": "sha256:3905b0bfed6b591016d4c21d04be3f1b861db61ce56526f5b901c107b87be125",
+    "path": "ko/blue-dragon-2024.list.json",
+    "collection": "awards/blue-dragon"
+  },
+  {
+    "title": "청룡영화상 — 2025",
+    "description": "2025년 청룡영화상 주요 10개 영화 부문 수상작.",
+    "digest": "sha256:9559126e92e0a25c0baa4c03565c9e91e985522625bab31879b9fdccdf5be84b",
+    "path": "ko/blue-dragon-2025.list.json",
+    "collection": "awards/blue-dragon"
+  },
+  {
+    "title": "청룡영화상 — 남우주연상",
+    "description": "2016–2025년 청룡영화상 남우주연상 수상 기록.",
+    "digest": "sha256:0ccb8c8253cb05d924cd5a363cf6f9f66d61bfdf31c3fa30ed0951d9e30c7d5e",
+    "path": "ko/blue-dragon-best-actor.list.json",
+    "collection": "awards/blue-dragon"
+  },
+  {
+    "title": "청룡영화상 — 여우주연상",
+    "description": "2016–2025년 청룡영화상 여우주연상 수상 기록.",
+    "digest": "sha256:d4cc49025c3c8e7457622e5f6ea9e9a827cd806ba4752d56cb864c6f13fa8927",
+    "path": "ko/blue-dragon-best-actress.list.json",
+    "collection": "awards/blue-dragon"
+  },
+  {
+    "title": "청룡영화상 — 감독상",
+    "description": "2016–2025년 청룡영화상 감독상 수상 기록.",
+    "digest": "sha256:6e88aa9441754d32dd0c261d4c014430dcf81c64ca8a542f407ae09ab3e8aca5",
+    "path": "ko/blue-dragon-best-director.list.json",
+    "collection": "awards/blue-dragon"
+  },
+  {
+    "title": "청룡영화상 — 최우수작품상",
+    "description": "2016–2025년 청룡영화상 최우수작품상 수상 기록.",
+    "digest": "sha256:864fd76f5f445d6cb558526c6f4e854cc210bf8792cf0cb56056d366c36bdd93",
+    "path": "ko/blue-dragon-best-film.list.json",
+    "collection": "awards/blue-dragon"
+  },
+  {
+    "title": "청룡영화상 — 신인남우상",
+    "description": "2016–2025년 청룡영화상 신인남우상 수상 기록.",
+    "digest": "sha256:1762060a0def15c821eca8e9610bee5c66f082d5d1345e0902601212956f8edc",
+    "path": "ko/blue-dragon-best-new-actor.list.json",
+    "collection": "awards/blue-dragon"
+  },
+  {
+    "title": "청룡영화상 — 신인여우상",
+    "description": "2016–2025년 청룡영화상 신인여우상 수상 기록.",
+    "digest": "sha256:e37343fbca6cdb1820d716c307424f16452d1d9e8cc7d4934057a279ee794ee0",
+    "path": "ko/blue-dragon-best-new-actress.list.json",
+    "collection": "awards/blue-dragon"
+  },
+  {
+    "title": "청룡영화상 — 신인감독상",
+    "description": "2016–2025년 청룡영화상 신인감독상 수상 기록.",
+    "digest": "sha256:6c49b5ef39878ae4dd1953c154485f00673d12e7e19e4e953e642936967fe895",
+    "path": "ko/blue-dragon-best-new-director.list.json",
+    "collection": "awards/blue-dragon"
+  },
+  {
+    "title": "청룡영화상 — 각본상",
+    "description": "2016–2025년 청룡영화상 각본상 수상 기록.",
+    "digest": "sha256:3e0576cfe77ad551d06bc9b43cc4f6a927f67a3d870d4b3d057cb06740421bc1",
+    "path": "ko/blue-dragon-best-screenplay.list.json",
+    "collection": "awards/blue-dragon"
+  },
+  {
+    "title": "청룡영화상 — 남우조연상",
+    "description": "2016–2025년 청룡영화상 남우조연상 수상 기록.",
+    "digest": "sha256:5a572de941b59eb48c06da53daaafa0ef7ad6fc6b5de7ad72fe7ab8cc8380645",
+    "path": "ko/blue-dragon-best-supporting-actor.list.json",
+    "collection": "awards/blue-dragon"
+  },
+  {
+    "title": "청룡영화상 — 여우조연상",
+    "description": "2016–2025년 청룡영화상 여우조연상 수상 기록.",
+    "digest": "sha256:89d09fcdfc74d3d5fa2856bfa9c488ca732298da84323ae479c0bbb50a64fbf9",
+    "path": "ko/blue-dragon-best-supporting-actress.list.json",
+    "collection": "awards/blue-dragon"
+  },
+  {
+    "title": "2017 칸 영화제 수상작",
+    "description": "2017년 칸 영화제의 공식 영화 관련 수상작 목록입니다.",
+    "digest": "sha256:e715ec2729bf736e11b1cc227d56689a88eae255053a153b386cdfcea7a9002a",
+    "path": "ko/cannes-2017.list.json",
+    "collection": "awards/cannes"
+  },
+  {
+    "title": "2018 칸 영화제 수상작",
+    "description": "2018년 칸 영화제의 공식 영화 관련 수상작 목록입니다.",
+    "digest": "sha256:613f149f7b0430179974b95f5d2371976b855b5a82f20532f87d8d06308d442c",
+    "path": "ko/cannes-2018.list.json",
+    "collection": "awards/cannes"
+  },
+  {
+    "title": "2019 칸 영화제 수상작",
+    "description": "2019년 칸 영화제의 공식 영화 관련 수상작 목록입니다.",
+    "digest": "sha256:dc955826e75e358c6e7bebc1ae5884d8e97ad5e82078f91939e68fec7bfd856a",
+    "path": "ko/cannes-2019.list.json",
+    "collection": "awards/cannes"
+  },
+  {
+    "title": "2021 칸 영화제 수상작",
+    "description": "2021년 칸 영화제의 공식 영화 관련 수상작 목록입니다.",
+    "digest": "sha256:7d9cb13d4c19c567de12b927bfc69a133d670692cf6478a94dbbfe154ea99ae8",
+    "path": "ko/cannes-2021.list.json",
+    "collection": "awards/cannes"
+  },
+  {
+    "title": "2022 칸 영화제 수상작",
+    "description": "2022년 칸 영화제의 공식 영화 관련 수상작 목록입니다.",
+    "digest": "sha256:e6d88e1e272d1f97d404ffd1ad0d8a2629ae1386df4c942039cb4287867639ad",
+    "path": "ko/cannes-2022.list.json",
+    "collection": "awards/cannes"
+  },
+  {
+    "title": "2023 칸 영화제 수상작",
+    "description": "2023년 칸 영화제의 공식 영화 관련 수상작 목록입니다.",
+    "digest": "sha256:0e46a19d37b8b46521abd69446f105c0282964e520de399a17f44de0afe0a7d7",
+    "path": "ko/cannes-2023.list.json",
+    "collection": "awards/cannes"
+  },
+  {
+    "title": "2024 칸 영화제 수상작",
+    "description": "2024년 칸 영화제의 공식 영화 관련 수상작 목록입니다.",
+    "digest": "sha256:11c7f8ccbecb8b2b0d528ff856879d60a1e5020925cc73f171f3ec5d406e38cc",
+    "path": "ko/cannes-2024.list.json",
+    "collection": "awards/cannes"
+  },
+  {
+    "title": "2025 칸 영화제 수상작",
+    "description": "2025년 칸 영화제의 공식 영화 관련 수상작 목록입니다.",
+    "digest": "sha256:97375ff2779894e516548ebb8a14fc71ca1b2b9b3db84e9e6681864106235f70",
+    "path": "ko/cannes-2025.list.json",
+    "collection": "awards/cannes"
+  },
+  {
+    "title": "2026 칸 영화제 수상작",
+    "description": "2026년 칸 영화제의 공식 영화 관련 수상작 목록입니다.",
+    "digest": "sha256:861af4aee5c6d762e1c67bb442a4c8815e26e7186d7c31bb711ac6cfac64460f",
+    "path": "ko/cannes-2026.list.json",
+    "collection": "awards/cannes"
+  },
+  {
+    "title": "칸 — 남우주연상",
+    "description": "칸 영화제 장편영화 부문의 역대 수상작입니다. 남우주연상.",
+    "digest": "sha256:e47b2915ff53455bd7ea4d979b8a001f5650b546af76b054de2d45ad75d6199e",
+    "path": "ko/cannes-best-actor.list.json",
+    "collection": "awards/cannes",
+    "tags": [
+      "award",
+      "cannes",
+      "prize"
+    ]
+  },
+  {
+    "title": "칸 — 여우주연상",
+    "description": "칸 영화제 장편영화 부문의 역대 수상작입니다. 여우주연상.",
+    "digest": "sha256:2821cf309f8b6f45b72f74aaa7235957be30d21ac91c9d10b7c02ac0ca73ea7b",
+    "path": "ko/cannes-best-actress.list.json",
+    "collection": "awards/cannes",
+    "tags": [
+      "award",
+      "cannes",
+      "prize"
+    ]
+  },
+  {
+    "title": "칸 — 감독상",
+    "description": "칸 영화제 장편영화 부문의 역대 수상작입니다. 감독상.",
+    "digest": "sha256:cae2f6c1923c1cfa327f1dedf9953527963b2a1d85f42a21d7d329a1478459a5",
+    "path": "ko/cannes-best-director.list.json",
+    "collection": "awards/cannes",
+    "tags": [
+      "award",
+      "cannes",
+      "prize"
+    ]
+  },
+  {
+    "title": "칸 — 각본상",
+    "description": "칸 영화제 장편영화 부문의 역대 수상작입니다. 각본상.",
+    "digest": "sha256:d89b7229907f2f7007ac31b8b6c70965ec1660ff996c378e7c27410c43621c25",
+    "path": "ko/cannes-best-screenplay.list.json",
+    "collection": "awards/cannes",
+    "tags": [
+      "award",
+      "cannes",
+      "prize"
+    ]
+  },
+  {
+    "title": "칸 — 황금카메라 특별언급",
+    "description": "칸 영화제 황금카메라상의 역대 수상작입니다. 황금카메라 특별언급.",
+    "digest": "sha256:534a27195d70718f263a7e5b8688eda2882a71fb36cb72d3c8bf221ae1800a61",
+    "path": "ko/cannes-camera-dor-special-mention.list.json",
+    "collection": "awards/cannes",
+    "tags": [
+      "award",
+      "cannes",
+      "prize"
+    ]
+  },
+  {
+    "title": "칸 — 황금카메라상",
+    "description": "칸 영화제 황금카메라상의 역대 수상작입니다. 황금카메라상.",
+    "digest": "sha256:3ac7551d00faec860e47bd94acffa9ff258c628a1285ea7ba7be3d8cef4fef61",
+    "path": "ko/cannes-camera-dor.list.json",
+    "collection": "awards/cannes",
+    "tags": [
+      "award",
+      "cannes",
+      "prize"
+    ]
+  },
+  {
+    "title": "칸 — CST 아티스트-테크니션상",
+    "description": "칸 영화제 고등기술위원회(CST) 기술상의 역대 수상작입니다. CST 아티스트-테크니션상.",
+    "digest": "sha256:1b75c51563a907bf44df97cbcf0b33870f7919d3b62d1f1fa79e448a44741431",
+    "path": "ko/cannes-cst-artist-technician.list.json",
+    "collection": "awards/cannes",
+    "tags": [
+      "award",
+      "cannes",
+      "prize"
+    ]
+  },
+  {
+    "title": "칸 — CST 젊은 여성 영화기술인상",
+    "description": "칸 영화제 고등기술위원회(CST) 기술상의 역대 수상작입니다. CST 젊은 여성 영화기술인상.",
+    "digest": "sha256:22444c40075daf50f7b970b6e1993a00999caa92405d0d2ce08eab7b48a5b23c",
+    "path": "ko/cannes-cst-young-female-technician.list.json",
+    "collection": "awards/cannes",
+    "tags": [
+      "award",
+      "cannes",
+      "prize"
+    ]
+  },
+  {
+    "title": "칸 — 그랑프리",
+    "description": "칸 영화제 장편영화 부문의 역대 수상작입니다. 그랑프리.",
+    "digest": "sha256:f15aeeff744445340b340d6657a1652aae0df34de8492f4daec9d0f91801f558",
+    "path": "ko/cannes-grand-prix.list.json",
+    "collection": "awards/cannes",
+    "tags": [
+      "award",
+      "cannes",
+      "prize"
+    ]
+  },
+  {
+    "title": "칸 — 심사위원상",
+    "description": "칸 영화제 장편영화 부문의 역대 수상작입니다. 심사위원상.",
+    "digest": "sha256:7a5f8dab4179aba4e17bf0e513111b2fb611ea27722597daf0182a4599157c3e",
+    "path": "ko/cannes-jury-prize.list.json",
+    "collection": "awards/cannes",
+    "tags": [
+      "award",
+      "cannes",
+      "prize"
+    ]
+  },
+  {
+    "title": "칸 — 라 시네프 1등상",
+    "description": "칸 영화제 Cinéfondation 및 La Cinef의 역대 수상작입니다. 라 시네프 1등상.",
+    "digest": "sha256:12aab641b917d7ad1ad8331a5806a2b6583daf5a6e968629f80cc9002de0ba49",
+    "path": "ko/cannes-la-cinef-first-prize.list.json",
+    "collection": "awards/cannes",
+    "tags": [
+      "award",
+      "cannes",
+      "prize"
+    ]
+  },
+  {
+    "title": "칸 — 라 시네프 2등상",
+    "description": "칸 영화제 Cinéfondation 및 La Cinef의 역대 수상작입니다. 라 시네프 2등상.",
+    "digest": "sha256:584d6f2d1f3c4968af396d51e0b05230ef392033646fc756d3db5fde65a66b95",
+    "path": "ko/cannes-la-cinef-second-prize.list.json",
+    "collection": "awards/cannes",
+    "tags": [
+      "award",
+      "cannes",
+      "prize"
+    ]
+  },
+  {
+    "title": "칸 — 라 시네프 3등상",
+    "description": "칸 영화제 Cinéfondation 및 La Cinef의 역대 수상작입니다. 라 시네프 3등상.",
+    "digest": "sha256:529bba965917bb8b7b5d928e6720259a7029e9c206dc19e6e5782cabd286df43",
+    "path": "ko/cannes-la-cinef-third-prize.list.json",
+    "collection": "awards/cannes",
+    "tags": [
+      "award",
+      "cannes",
+      "prize"
+    ]
+  },
+  {
+    "title": "칸 — 황금종려상",
+    "description": "칸 영화제 장편영화 부문의 역대 수상작입니다. 황금종려상.",
+    "digest": "sha256:a2a39b7ce80229fbc57ceb47c696d2267408e3d6a11ee116dc997a5542a2f306",
+    "path": "ko/cannes-palme-dor.list.json",
+    "collection": "awards/cannes",
+    "tags": [
+      "award",
+      "cannes",
+      "prize"
+    ]
+  },
+  {
+    "title": "칸 — 단편 심사위원상·특별상",
+    "description": "칸 영화제 단편영화 부문의 역대 수상작입니다. 단편 심사위원상·특별상.",
+    "digest": "sha256:479178a8fd38f91fedf99f92ea419cd6b07617097e830e60b3290dbe67679ded",
+    "path": "ko/cannes-short-film-jury-distinction.list.json",
+    "collection": "awards/cannes",
+    "tags": [
+      "award",
+      "cannes",
+      "prize"
+    ]
+  },
+  {
+    "title": "칸 — 단편 황금종려상",
+    "description": "칸 영화제 단편영화 부문의 역대 수상작입니다. 단편 황금종려상.",
+    "digest": "sha256:8f332b3f48537f746dca5cd8071c3596923ba45d0b41549c7930b2aadeea1478",
+    "path": "ko/cannes-short-film-palme-dor.list.json",
+    "collection": "awards/cannes",
+    "tags": [
+      "award",
+      "cannes",
+      "prize"
+    ]
+  },
+  {
+    "title": "칸 — 주목할 만한 시선 남우주연상",
+    "description": "칸 영화제 주목할 만한 시선 부문의 역대 수상작입니다. 주목할 만한 시선 남우주연상.",
+    "digest": "sha256:8b5b7b5232894c5478a4fbb9081216735e705fc6f2d1c961bac0e5d65ca51c78",
+    "path": "ko/cannes-ucr-best-actor.list.json",
+    "collection": "awards/cannes",
+    "tags": [
+      "award",
+      "cannes",
+      "prize"
+    ]
+  },
+  {
+    "title": "칸 — 주목할 만한 시선 여우주연상",
+    "description": "칸 영화제 주목할 만한 시선 부문의 역대 수상작입니다. 주목할 만한 시선 여우주연상.",
+    "digest": "sha256:37df01430fb23fb9e9efb1e2be0fe28893d387164a9f74225fd037d4ccf01c28",
+    "path": "ko/cannes-ucr-best-actress.list.json",
+    "collection": "awards/cannes",
+    "tags": [
+      "award",
+      "cannes",
+      "prize"
+    ]
+  },
+  {
+    "title": "칸 — 주목할 만한 시선 감독상",
+    "description": "칸 영화제 주목할 만한 시선 부문의 역대 수상작입니다. 주목할 만한 시선 감독상.",
+    "digest": "sha256:4b6266190e439d6fcf555fae4a8b56cb419a3ea68b8c19dfb63d68a25e423707",
+    "path": "ko/cannes-ucr-best-director.list.json",
+    "collection": "awards/cannes",
+    "tags": [
+      "award",
+      "cannes",
+      "prize"
+    ]
+  },
+  {
+    "title": "칸 — 주목할 만한 시선 연기상",
+    "description": "칸 영화제 주목할 만한 시선 부문의 역대 수상작입니다. 주목할 만한 시선 연기상.",
+    "digest": "sha256:4221e68de3f05eab6e74fd446f2d6eeb53f72f8a5bae04f223a9ad59a03e2bc0",
+    "path": "ko/cannes-ucr-best-performance.list.json",
+    "collection": "awards/cannes",
+    "tags": [
+      "award",
+      "cannes",
+      "prize"
+    ]
+  },
+  {
+    "title": "칸 — 주목할 만한 시선 각본상",
+    "description": "칸 영화제 주목할 만한 시선 부문의 역대 수상작입니다. 주목할 만한 시선 각본상.",
+    "digest": "sha256:1c099da70996c0fb0492a7228f40ed644fbb7143b8cb212915d17ee516773796",
+    "path": "ko/cannes-ucr-best-screenplay.list.json",
+    "collection": "awards/cannes",
+    "tags": [
+      "award",
+      "cannes",
+      "prize"
+    ]
+  },
+  {
+    "title": "칸 — 주목할 만한 시선 쿠 드 쾨르상",
+    "description": "칸 영화제 주목할 만한 시선 부문의 역대 수상작입니다. 주목할 만한 시선 쿠 드 쾨르상.",
+    "digest": "sha256:40b130f71fabf08bf10efd660ce9949e39764fe57eb836a184a4d6359f55d2c7",
+    "path": "ko/cannes-ucr-coup-de-coeur.list.json",
+    "collection": "awards/cannes",
+    "tags": [
+      "award",
+      "cannes",
+      "prize"
+    ]
+  },
+  {
+    "title": "칸 — 주목할 만한 시선 심사위원상",
+    "description": "칸 영화제 주목할 만한 시선 부문의 역대 수상작입니다. 주목할 만한 시선 심사위원상.",
+    "digest": "sha256:f70e1fd07897b5a8a113bb776340b388089aa543d43089d9df526a27894dcfb3",
+    "path": "ko/cannes-ucr-jury-prize.list.json",
+    "collection": "awards/cannes",
+    "tags": [
+      "award",
+      "cannes",
+      "prize"
+    ]
+  },
+  {
+    "title": "칸 — 주목할 만한 시선 기타 특별상",
+    "description": "칸 영화제 주목할 만한 시선 부문의 역대 수상작입니다. 주목할 만한 시선 기타 특별상.",
+    "digest": "sha256:1942912db628e03de393e4f7dd53b38252863803fe9407ddfac1916d55eec84a",
+    "path": "ko/cannes-ucr-special-distinctions.list.json",
+    "collection": "awards/cannes",
+    "tags": [
+      "award",
+      "cannes",
+      "prize"
+    ]
+  },
+  {
+    "title": "칸 — 주목할 만한 시선 심사위원 특별상",
+    "description": "칸 영화제 주목할 만한 시선 부문의 역대 수상작입니다. 주목할 만한 시선 심사위원 특별상.",
+    "digest": "sha256:59e7233a4723a68ded1e6b0b5e1a94b5721f313483cd0d22bf36c165c4852e5e",
+    "path": "ko/cannes-ucr-special-jury-prize.list.json",
+    "collection": "awards/cannes",
+    "tags": [
+      "award",
+      "cannes",
+      "prize"
+    ]
+  },
+  {
+    "title": "칸 — 주목할 만한 시선 특별언급",
+    "description": "칸 영화제 주목할 만한 시선 부문의 역대 수상작입니다. 주목할 만한 시선 특별언급.",
+    "digest": "sha256:632317bd4e5e94445d5098031fe76f300b173f884fb34aa00fb7812686536ada",
+    "path": "ko/cannes-ucr-special-mention.list.json",
+    "collection": "awards/cannes",
+    "tags": [
+      "award",
+      "cannes",
+      "prize"
+    ]
+  },
+  {
+    "title": "칸 — 주목할 만한 시선상",
+    "description": "칸 영화제 주목할 만한 시선 부문의 역대 수상작입니다. 주목할 만한 시선상.",
+    "digest": "sha256:2249691ab42b44cc37eaf7a8950ee047ed3171e375b2e951c9e2f9b1bafb993e",
+    "path": "ko/cannes-un-certain-regard-prize.list.json",
+    "collection": "awards/cannes",
+    "tags": [
+      "award",
+      "cannes",
+      "prize"
+    ]
+  },
+  {
+    "title": "프라임타임 에미상 2017 수상 목록",
+    "description": "제69회 프라임타임 에미상 주요 부문 수상 기록.",
+    "digest": "sha256:6458f3175f240e3cb7130364e42f3ba416619a55a3641a252ae213f9e2276ffa",
+    "path": "ko/emmys-2017.list.json",
+    "collection": "awards/emmys"
+  },
+  {
+    "title": "프라임타임 에미상 2018 수상 목록",
+    "description": "제70회 프라임타임 에미상 주요 부문 수상 기록.",
+    "digest": "sha256:0b76b5d8d4e61c5f0f568c5cc55f48a3d4c293948e85e2dbe62cacca70937e38",
+    "path": "ko/emmys-2018.list.json",
+    "collection": "awards/emmys"
+  },
+  {
+    "title": "프라임타임 에미상 2019 수상 목록",
+    "description": "제71회 프라임타임 에미상 주요 부문 수상 기록.",
+    "digest": "sha256:4f304ef7abccf019e5baa0d0cecca6d3f0b330530aeafbe80670b93c1a969bcf",
+    "path": "ko/emmys-2019.list.json",
+    "collection": "awards/emmys"
+  },
+  {
+    "title": "프라임타임 에미상 2020 수상 목록",
+    "description": "제72회 프라임타임 에미상 주요 부문 수상 기록.",
+    "digest": "sha256:33efe8a83637cb696c141f1f02218d6dd88f7d0ac2438b5572fb8342f6ea9704",
+    "path": "ko/emmys-2020.list.json",
+    "collection": "awards/emmys"
+  },
+  {
+    "title": "프라임타임 에미상 2021 수상 목록",
+    "description": "제73회 프라임타임 에미상 주요 부문 수상 기록.",
+    "digest": "sha256:6ec66298c870b48d35a357dff95a066181e27ebc8a121c5acc55b9a3682413ed",
+    "path": "ko/emmys-2021.list.json",
+    "collection": "awards/emmys"
+  },
+  {
+    "title": "프라임타임 에미상 2022 수상 목록",
+    "description": "제74회 프라임타임 에미상 주요 부문 수상 기록.",
+    "digest": "sha256:d3fe7c11ad468a0144254869f0393ce5095a1741b5ef10383b38cd920559fe8e",
+    "path": "ko/emmys-2022.list.json",
+    "collection": "awards/emmys"
+  },
+  {
+    "title": "프라임타임 에미상 2023 수상 목록",
+    "description": "제75회 프라임타임 에미상 주요 부문 수상 기록.",
+    "digest": "sha256:907bdc6b5dde5a5cf9a1f34cb9077d34bc8318d4e1bcf9507541b7dabc9ddb56",
+    "path": "ko/emmys-2023.list.json",
+    "collection": "awards/emmys"
+  },
+  {
+    "title": "프라임타임 에미상 2024 수상 목록",
+    "description": "제76회 프라임타임 에미상 주요 부문 수상 기록.",
+    "digest": "sha256:493dd54eb43832e4d3514f8e765a3abac94ea539af30621a8ac872fac2748d74",
+    "path": "ko/emmys-2024.list.json",
+    "collection": "awards/emmys"
+  },
+  {
+    "title": "프라임타임 에미상 2025 수상 목록",
+    "description": "제77회 프라임타임 에미상 주요 부문 수상 기록.",
+    "digest": "sha256:47bf66ad8f7142b5ea7f9f350a8f7351e03f83839310e5f7b3e6bfaef7beab58",
+    "path": "ko/emmys-2025.list.json",
+    "collection": "awards/emmys"
+  },
+  {
+    "title": "프라임타임 에미상 2026 수상 목록",
+    "description": "제78회 프라임타임 에미상 주요 부문 수상 기록.",
+    "digest": "sha256:4a0aea07de7662e22bed796a275aca6fbe33f8abbad67af751fd9c7cca743536",
+    "path": "ko/emmys-2026.list.json",
+    "collection": "awards/emmys"
+  },
+  {
+    "title": "프라임타임 에미상 — 최우수 코미디 시리즈",
+    "description": "프라임타임 에미상 “최우수 코미디 시리즈” 수상 기록.",
+    "digest": "sha256:2a1b89d19ce2c841bff8ea05175db3edaae85bca47647ba45120557f5d1fbd08",
+    "path": "ko/emmys-comedy-series.list.json",
+    "collection": "awards/emmys"
+  },
+  {
+    "title": "프라임타임 에미상 — 최우수 드라마 시리즈",
+    "description": "프라임타임 에미상 “최우수 드라마 시리즈” 수상 기록.",
+    "digest": "sha256:568cfcd61acc313d44dee7513aca8076ec05a60760fadce94f47d067c7b6ec7e",
+    "path": "ko/emmys-drama-series.list.json",
+    "collection": "awards/emmys"
+  },
+  {
+    "title": "프라임타임 에미상 — 코미디 시리즈 남우주연상",
+    "description": "프라임타임 에미상 “코미디 시리즈 남우주연상” 수상 기록.",
+    "digest": "sha256:7486a7d4d3fcb902cd4c11e3b0370b1dd3c2529e8e7bc22bcf76cb32dee1be48",
+    "path": "ko/emmys-lead-actor-comedy.list.json",
+    "collection": "awards/emmys"
+  },
+  {
+    "title": "프라임타임 에미상 — 드라마 시리즈 남우주연상",
+    "description": "프라임타임 에미상 “드라마 시리즈 남우주연상” 수상 기록.",
+    "digest": "sha256:bd5228d73619e7fa056d5740b49fc9a6a60b124f3f7b5422ee8d3965d7102c91",
+    "path": "ko/emmys-lead-actor-drama.list.json",
+    "collection": "awards/emmys"
+  },
+  {
+    "title": "프라임타임 에미상 — 코미디 시리즈 여우주연상",
+    "description": "프라임타임 에미상 “코미디 시리즈 여우주연상” 수상 기록.",
+    "digest": "sha256:8154ea4fb5e57b84b713df0268c568bd738566cf7bf598e0520fb884aa62ee8a",
+    "path": "ko/emmys-lead-actress-comedy.list.json",
+    "collection": "awards/emmys"
+  },
+  {
+    "title": "프라임타임 에미상 — 드라마 시리즈 여우주연상",
+    "description": "프라임타임 에미상 “드라마 시리즈 여우주연상” 수상 기록.",
+    "digest": "sha256:675caac53fedbb673b30fc059b3fd22fd7e469028cfdb9fcabffb1c7a67c36c9",
+    "path": "ko/emmys-lead-actress-drama.list.json",
+    "collection": "awards/emmys"
+  },
+  {
+    "title": "프라임타임 에미상 — 최우수 리미티드 또는 앤솔러지 시리즈",
+    "description": "프라임타임 에미상 “최우수 리미티드 또는 앤솔러지 시리즈” 수상 기록.",
+    "digest": "sha256:1069af83abd36d3506d0a06d50288151c175757aa0416a7ce3cf445de1e9e9a7",
+    "path": "ko/emmys-limited-series.list.json",
+    "collection": "awards/emmys"
+  },
+  {
+    "title": "골든 글로브 2017",
+    "description": "2017 골든 글로브 주요 영화·텔레비전 작품 부문 수상 목록.",
+    "digest": "sha256:dba9ebbee7c530ab92c1ec05673dd3b6c4b1d577b60bf15e2ae3e9ba7fed9992",
+    "path": "ko/golden-globes-2017.list.json",
+    "collection": "awards/golden-globes"
+  },
+  {
+    "title": "골든 글로브 2018",
+    "description": "2018 골든 글로브 주요 영화·텔레비전 작품 부문 수상 목록.",
+    "digest": "sha256:87193b6fad4b6d6d21f9f0f402264dae6afc5a6a4e7e14ed932674430a2459cf",
+    "path": "ko/golden-globes-2018.list.json",
+    "collection": "awards/golden-globes"
+  },
+  {
+    "title": "골든 글로브 2019",
+    "description": "2019 골든 글로브 주요 영화·텔레비전 작품 부문 수상 목록.",
+    "digest": "sha256:60ca06b8a49fef0afe6c8d5fa4d2cea5635266a966607210d11f66efd0469a1a",
+    "path": "ko/golden-globes-2019.list.json",
+    "collection": "awards/golden-globes"
+  },
+  {
+    "title": "골든 글로브 2020",
+    "description": "2020 골든 글로브 주요 영화·텔레비전 작품 부문 수상 목록.",
+    "digest": "sha256:c59401428c375d560371c2cda4646aa9e4b3303f6359083ef476f07fe879b2c5",
+    "path": "ko/golden-globes-2020.list.json",
+    "collection": "awards/golden-globes"
+  },
+  {
+    "title": "골든 글로브 2021",
+    "description": "2021 골든 글로브 주요 영화·텔레비전 작품 부문 수상 목록.",
+    "digest": "sha256:32830e0c8b57b72b03b916a2a85389495145f309a79e1918ff687113df0fc607",
+    "path": "ko/golden-globes-2021.list.json",
+    "collection": "awards/golden-globes"
+  },
+  {
+    "title": "골든 글로브 2022",
+    "description": "2022 골든 글로브 주요 영화·텔레비전 작품 부문 수상 목록.",
+    "digest": "sha256:8f8dd01d33bdbf83b88cb0f9947996fbaee71e399c3cc2da45f44d8b40636e54",
+    "path": "ko/golden-globes-2022.list.json",
+    "collection": "awards/golden-globes"
+  },
+  {
+    "title": "골든 글로브 2023",
+    "description": "2023 골든 글로브 주요 영화·텔레비전 작품 부문 수상 목록.",
+    "digest": "sha256:d7dd67bf6636641dac6e370e267336d14c8ac9ca5fb9d75ba0f1e17a5969cb8e",
+    "path": "ko/golden-globes-2023.list.json",
+    "collection": "awards/golden-globes"
+  },
+  {
+    "title": "골든 글로브 2024",
+    "description": "2024 골든 글로브 주요 영화·텔레비전 작품 부문 수상 목록.",
+    "digest": "sha256:c58373e89e3659be915435e4b37e40b069a58eb39ab3e6e5d672235998c7cb10",
+    "path": "ko/golden-globes-2024.list.json",
+    "collection": "awards/golden-globes"
+  },
+  {
+    "title": "골든 글로브 2025",
+    "description": "2025 골든 글로브 주요 영화·텔레비전 작품 부문 수상 목록.",
+    "digest": "sha256:3b5b83dd7d16b5f19cb310a8b128e4e3cd019f0abfce2797c2d3b07d77e3dea5",
+    "path": "ko/golden-globes-2025.list.json",
+    "collection": "awards/golden-globes"
+  },
+  {
+    "title": "골든 글로브 2026",
+    "description": "2026 골든 글로브 주요 영화·텔레비전 작품 부문 수상 목록.",
+    "digest": "sha256:b043baecb90333bee1f89d5d198bd26a4b47a4b2cdba53121b43130ab1f9091d",
+    "path": "ko/golden-globes-2026.list.json",
+    "collection": "awards/golden-globes"
+  },
+  {
+    "title": "골든 글로브 — 애니메이션 영화상",
+    "description": "2017–2026 골든 글로브 애니메이션 영화상 수상작.",
+    "digest": "sha256:f108f1d8be05b46c2ab9c9b5893b34dd3ea9705e784837a5097067e18c131568",
+    "path": "ko/golden-globes-animated.list.json",
+    "collection": "awards/golden-globes"
+  },
+  {
+    "title": "골든 글로브 — 시네마틱 및 박스오피스 성취상",
+    "description": "2017–2026 골든 글로브 시네마틱 및 박스오피스 성취상 수상작.",
+    "digest": "sha256:3aae8ca3a5fd75b751cbc61c76883a14dcd6e44f67cd806a2f5d5e818cbde35e",
+    "path": "ko/golden-globes-boxoffice.list.json",
+    "collection": "awards/golden-globes"
+  },
+  {
+    "title": "골든 글로브 — 작품상 뮤지컬·코미디",
+    "description": "2017–2026 골든 글로브 작품상 뮤지컬·코미디 수상작.",
+    "digest": "sha256:1f2c5f3e035e0cda8acdbb4e9a180ceae449c807edda020363e63f8a0a1ec024",
+    "path": "ko/golden-globes-comedy.list.json",
+    "collection": "awards/golden-globes"
+  },
+  {
+    "title": "골든 글로브 — 작품상 드라마",
+    "description": "2017–2026 골든 글로브 작품상 드라마 수상작.",
+    "digest": "sha256:16ac241f00415af5e958751430deca87dab212ded5b07a3b6cf50a1c5aa78803",
+    "path": "ko/golden-globes-drama.list.json",
+    "collection": "awards/golden-globes"
+  },
+  {
+    "title": "골든 글로브 — 비영어권 영화상",
+    "description": "2017–2026 골든 글로브 비영어권 영화상 수상작.",
+    "digest": "sha256:4aaa9fb8e0dce0c4a9f13fe232b837f2d543a34364bcdf24f394104479bc9880",
+    "path": "ko/golden-globes-foreign.list.json",
+    "collection": "awards/golden-globes"
+  },
+  {
+    "title": "골든 글로브 — 리미티드 시리즈·앤솔러지·TV 영화상",
+    "description": "2017–2026 골든 글로브 리미티드 시리즈·앤솔러지·TV 영화상 수상작.",
+    "digest": "sha256:c7d2170db299c45c7e2b06ee9db63261b90273146d389e49026c05f39c3d66d1",
+    "path": "ko/golden-globes-limited.list.json",
+    "collection": "awards/golden-globes"
+  },
+  {
+    "title": "골든 글로브 — TV 뮤지컬·코미디 작품상",
+    "description": "2017–2026 골든 글로브 TV 뮤지컬·코미디 작품상 수상작.",
+    "digest": "sha256:e795ee6fbdae843e6fd6d4918ed9e22aa259868f6f18b229aaa36d3ddd123090",
+    "path": "ko/golden-globes-tv-comedy.list.json",
+    "collection": "awards/golden-globes"
+  },
+  {
+    "title": "골든 글로브 — TV 드라마 작품상",
+    "description": "2017–2026 골든 글로브 TV 드라마 작품상 수상작.",
+    "digest": "sha256:b9d27895e637c602f0311943889390efc07ae7872ff1fdd90b6019ca86553969",
+    "path": "ko/golden-globes-tv-drama.list.json",
+    "collection": "awards/golden-globes"
+  },
+  {
+    "title": "2017 홍콩 영화 금상장 수상작",
+    "description": "2017년 홍콩 영화 금상장 주요 부문 수상작과 수상자.",
+    "digest": "sha256:e66ac6871d2c4906904a64a3505053c4ad04959ad53af112c036aaa5ddc85579",
+    "path": "ko/hkfa-2017.list.json",
+    "collection": "awards/hkfa"
+  },
+  {
+    "title": "2018 홍콩 영화 금상장 수상작",
+    "description": "2018년 홍콩 영화 금상장 주요 부문 수상작과 수상자.",
+    "digest": "sha256:16c4b09c4d114014399a0b432206fcd7f0fc6f77b683be480f90a836f301e642",
+    "path": "ko/hkfa-2018.list.json",
+    "collection": "awards/hkfa"
+  },
+  {
+    "title": "2019 홍콩 영화 금상장 수상작",
+    "description": "2019년 홍콩 영화 금상장 주요 부문 수상작과 수상자.",
+    "digest": "sha256:eb6d164990f3e913a82ab0ee0cee91e45ffe068d3caf568a6e359bbd70d3170a",
+    "path": "ko/hkfa-2019.list.json",
+    "collection": "awards/hkfa"
+  },
+  {
+    "title": "2020 홍콩 영화 금상장 수상작",
+    "description": "2020년 홍콩 영화 금상장 주요 부문 수상작과 수상자.",
+    "digest": "sha256:79cc412acfa11a465a5b2d52bb1e85c68ebc563dd0e2ed81d557ac507168c4a3",
+    "path": "ko/hkfa-2020.list.json",
+    "collection": "awards/hkfa"
+  },
+  {
+    "title": "2022 홍콩 영화 금상장 수상작",
+    "description": "2022년 홍콩 영화 금상장 주요 부문 수상작과 수상자.",
+    "digest": "sha256:79b13b08345fb3c6ea5c1047fd577c75e7c5eca7b89ef6747e367494fd3cd5ce",
+    "path": "ko/hkfa-2022.list.json",
+    "collection": "awards/hkfa"
+  },
+  {
+    "title": "2023 홍콩 영화 금상장 수상작",
+    "description": "2023년 홍콩 영화 금상장 주요 부문 수상작과 수상자.",
+    "digest": "sha256:229790d5d2d17d61c79dc2dfe89ff6d4394b7784e9058e0925a0e0d4dd3c8c46",
+    "path": "ko/hkfa-2023.list.json",
+    "collection": "awards/hkfa"
+  },
+  {
+    "title": "2024 홍콩 영화 금상장 수상작",
+    "description": "2024년 홍콩 영화 금상장 주요 부문 수상작과 수상자.",
+    "digest": "sha256:49125521500cb0048228b5b8cc9846403c4b13f73438561bcb266031ad8c6806",
+    "path": "ko/hkfa-2024.list.json",
+    "collection": "awards/hkfa"
+  },
+  {
+    "title": "2025 홍콩 영화 금상장 수상작",
+    "description": "2025년 홍콩 영화 금상장 주요 부문 수상작과 수상자.",
+    "digest": "sha256:c931ec72a548249f7a25356d0d201ef718f5886adb722101ebed37c304e780dc",
+    "path": "ko/hkfa-2025.list.json",
+    "collection": "awards/hkfa"
+  },
+  {
+    "title": "2026 홍콩 영화 금상장 수상작",
+    "description": "2026년 홍콩 영화 금상장 주요 부문 수상작과 수상자.",
+    "digest": "sha256:dc31fb66abfdb8b82e0023dc84a104afd5fafab7188149d061b0787d17e126e9",
+    "path": "ko/hkfa-2026.list.json",
+    "collection": "awards/hkfa"
+  },
+  {
+    "title": "홍콩 영화 금상장 — 남우주연상",
+    "description": "홍콩 영화 금상장 역대 남우주연상 수상 기록.",
+    "digest": "sha256:cf7b3e80b369f7c95a95706a293bf8005a84fa857f7ad8ece90899ed1a87990b",
+    "path": "ko/hkfa-best-actor.list.json",
+    "collection": "awards/hkfa"
+  },
+  {
+    "title": "홍콩 영화 금상장 — 여우주연상",
+    "description": "홍콩 영화 금상장 역대 여우주연상 수상 기록.",
+    "digest": "sha256:249ce896002bef08cedcbcb0f4cb39b58f48727a3c3df5f44126f92e00455869",
+    "path": "ko/hkfa-best-actress.list.json",
+    "collection": "awards/hkfa"
+  },
+  {
+    "title": "홍콩 영화 금상장 — 감독상",
+    "description": "홍콩 영화 금상장 역대 감독상 수상 기록.",
+    "digest": "sha256:0f896feb24f382b6285da2864f894cb7ffdff1c98c9a512283fa80a529a778c1",
+    "path": "ko/hkfa-best-director.list.json",
+    "collection": "awards/hkfa"
+  },
+  {
+    "title": "홍콩 영화 금상장 — 최우수 작품상",
+    "description": "홍콩 영화 금상장 역대 최우수 작품상 수상 기록.",
+    "digest": "sha256:e09b75e0a9e134aa30091dff646796ce700f94fde35e4e8f3871bc1d2dca99cb",
+    "path": "ko/hkfa-best-film.list.json",
+    "collection": "awards/hkfa"
+  },
+  {
+    "title": "홍콩 영화 금상장 — 신인상",
+    "description": "홍콩 영화 금상장 역대 신인상 수상 기록.",
+    "digest": "sha256:11e0a4637fd9a9ca6b323088836cb02345dd4ba6ab1646deb05b8d8ce5ea0830",
+    "path": "ko/hkfa-best-new-performer.list.json",
+    "collection": "awards/hkfa"
+  },
+  {
+    "title": "홍콩 영화 금상장 — 각본상",
+    "description": "홍콩 영화 금상장 역대 각본상 수상 기록.",
+    "digest": "sha256:5e5dc6ccea68cc79e3d856fe03388c4d878fbd8319195df310260557ba091fbe",
+    "path": "ko/hkfa-best-screenplay.list.json",
+    "collection": "awards/hkfa"
+  },
+  {
+    "title": "홍콩 영화 금상장 — 남우조연상",
+    "description": "홍콩 영화 금상장 역대 남우조연상 수상 기록.",
+    "digest": "sha256:13a58536da0d7868f31d505446bb399331d4bf3d061ea1536019979762ac2f1c",
+    "path": "ko/hkfa-best-supporting-actor.list.json",
+    "collection": "awards/hkfa"
+  },
+  {
+    "title": "홍콩 영화 금상장 — 여우조연상",
+    "description": "홍콩 영화 금상장 역대 여우조연상 수상 기록.",
+    "digest": "sha256:bac2a0170bb3d9047f29f4ef291962d5fd7d1db9094e167e00964916f8a9b73f",
+    "path": "ko/hkfa-best-supporting-actress.list.json",
+    "collection": "awards/hkfa"
+  },
+  {
+    "title": "아카데미상 2017 수상 목록",
+    "description": "제89회 아카데미상 주요 영화 부문의 수상작과 수상자.",
+    "digest": "sha256:a78b26152e0b35c9afd8c81bb827f3c2c88a6909a9f70a2a29c41ebb3da39cc9",
+    "path": "ko/oscars-2017.list.json",
+    "collection": "awards/oscars"
+  },
+  {
+    "title": "아카데미상 2018 수상 목록",
+    "description": "제90회 아카데미상 주요 영화 부문의 수상작과 수상자.",
+    "digest": "sha256:41debebadab1a1c2263d6f896b196ffda0782407b56ebd7ca90c87be5cb8dcd9",
+    "path": "ko/oscars-2018.list.json",
+    "collection": "awards/oscars"
+  },
+  {
+    "title": "아카데미상 2019 수상 목록",
+    "description": "제91회 아카데미상 주요 영화 부문의 수상작과 수상자.",
+    "digest": "sha256:4cd00c6e7aa453f6620b3629955405e11da3350ce44b7b37926320170a4ecdb3",
+    "path": "ko/oscars-2019.list.json",
+    "collection": "awards/oscars"
+  },
+  {
+    "title": "아카데미상 2020 수상 목록",
+    "description": "제92회 아카데미상 주요 영화 부문의 수상작과 수상자.",
+    "digest": "sha256:de9e25794546587b1709ae4909590233f7c17e956f7cf8b277281fa0fab00ce2",
+    "path": "ko/oscars-2020.list.json",
+    "collection": "awards/oscars"
+  },
+  {
+    "title": "아카데미상 2021 수상 목록",
+    "description": "제93회 아카데미상 주요 영화 부문의 수상작과 수상자.",
+    "digest": "sha256:c2390f8ef8f66cc13ab10185b7c87d818a226ed62b67b3a3e2c905d030562762",
+    "path": "ko/oscars-2021.list.json",
+    "collection": "awards/oscars"
+  },
+  {
+    "title": "아카데미상 2022 수상 목록",
+    "description": "제94회 아카데미상 주요 영화 부문의 수상작과 수상자.",
+    "digest": "sha256:cb346d98c90934d5a7ffa86062f39219130ab8223ce2853d7ca7c2b6ebf9825c",
+    "path": "ko/oscars-2022.list.json",
+    "collection": "awards/oscars"
+  },
+  {
+    "title": "아카데미상 2023 수상 목록",
+    "description": "제95회 아카데미상 주요 영화 부문의 수상작과 수상자.",
+    "digest": "sha256:a7e6bb7340d40b43569d5b963c00b5688f9907e8d27193c49e2e62ddcc3ad91e",
+    "path": "ko/oscars-2023.list.json",
+    "collection": "awards/oscars"
+  },
+  {
+    "title": "아카데미상 2024 수상 목록",
+    "description": "제96회 아카데미상 주요 영화 부문의 수상작과 수상자.",
+    "digest": "sha256:e073f6d657d2da85f76fa0f6a5a991d7a3df97bc281acbe8db2fa67b7839c8ee",
+    "path": "ko/oscars-2024.list.json",
+    "collection": "awards/oscars"
+  },
+  {
+    "title": "아카데미상 2025 수상 목록",
+    "description": "제97회 아카데미상 주요 영화 부문의 수상작과 수상자.",
+    "digest": "sha256:c95f9d29b148c8e226f2476a2c72dac3bb642cb8cc5c89465df5e5257279b726",
+    "path": "ko/oscars-2025.list.json",
+    "collection": "awards/oscars"
+  },
+  {
+    "title": "아카데미상 2026 수상 목록",
+    "description": "제98회 아카데미상 주요 영화 부문의 수상작과 수상자.",
+    "digest": "sha256:3a73f929f4edfcbff954ad07325ef26d45c6f7fccdf288fcb3e0b5d94d9cdfd6",
+    "path": "ko/oscars-2026.list.json",
+    "collection": "awards/oscars"
+  },
+  {
+    "title": "아카데미상 — 남우주연상",
+    "description": "아카데미상 남우주연상 최근 10회 수상 기록.",
+    "digest": "sha256:248ee9519ad3b1e375f950bd04827bf7b7e109ccba7014776d77648886851b87",
+    "path": "ko/oscars-best-actor.list.json",
+    "collection": "awards/oscars"
+  },
+  {
+    "title": "아카데미상 — 여우주연상",
+    "description": "아카데미상 여우주연상 최근 10회 수상 기록.",
+    "digest": "sha256:74e733964037211b609aac832bebc91f9cb3b33ed54f7a8d94f947475e656f28",
+    "path": "ko/oscars-best-actress.list.json",
+    "collection": "awards/oscars"
+  },
+  {
+    "title": "아카데미상 — 각색상",
+    "description": "아카데미상 각색상 최근 10회 수상 기록.",
+    "digest": "sha256:582f1c44c2ffb40b4dac26147a58aa1954676bb576cddae3bdc68c79178f717e",
+    "path": "ko/oscars-best-adapted-screenplay.list.json",
+    "collection": "awards/oscars"
+  },
+  {
+    "title": "아카데미상 — 장편 애니메이션상",
+    "description": "아카데미상 장편 애니메이션상 최근 10회 수상 기록.",
+    "digest": "sha256:77e3355caf6092c81aeb8ecfafa2756dd5c38df5e24a38644f4bedcee4c0c4c4",
+    "path": "ko/oscars-best-animated-feature.list.json",
+    "collection": "awards/oscars"
+  },
+  {
+    "title": "아카데미상 — 감독상",
+    "description": "아카데미상 감독상 최근 10회 수상 기록.",
+    "digest": "sha256:108ea26c223dc4514de30f23348de1fc34d2e467e70d04c2de717c6d658f9f29",
+    "path": "ko/oscars-best-director.list.json",
+    "collection": "awards/oscars"
+  },
+  {
+    "title": "아카데미상 — 국제장편영화상",
+    "description": "아카데미상 국제장편영화상 최근 10회 수상 기록.",
+    "digest": "sha256:696d7bc8d4e08efeb562e40129e6d5ac76ada882f06f04e9ca8f7a54f0ee6efa",
+    "path": "ko/oscars-best-international-feature.list.json",
+    "collection": "awards/oscars"
+  },
+  {
+    "title": "아카데미상 — 각본상",
+    "description": "아카데미상 각본상 최근 10회 수상 기록.",
+    "digest": "sha256:a447af1655b6da5511f0928958bfc91e7162a20248d27cc602fa548a9b4bc8f9",
+    "path": "ko/oscars-best-original-screenplay.list.json",
+    "collection": "awards/oscars"
+  },
+  {
+    "title": "아카데미상 — 작품상",
+    "description": "아카데미상 작품상 최근 10회 수상 기록.",
+    "digest": "sha256:5676bdfefc1fec0f0e326cc98d3e2df06b62cfd766527c43e7f4cd82d133e43e",
+    "path": "ko/oscars-best-picture.list.json",
+    "collection": "awards/oscars"
+  },
+  {
+    "title": "아카데미상 — 남우조연상",
+    "description": "아카데미상 남우조연상 최근 10회 수상 기록.",
+    "digest": "sha256:f1739d99410d32141e4b55e1310064d410077b3549fc6a2d18d68836a2bfd5ab",
+    "path": "ko/oscars-best-supporting-actor.list.json",
+    "collection": "awards/oscars"
+  },
+  {
+    "title": "아카데미상 — 여우조연상",
+    "description": "아카데미상 여우조연상 최근 10회 수상 기록.",
+    "digest": "sha256:9770b477036ef3a3ffa9523416656844bc4035751e925db98a5e8d792ddc78c2",
+    "path": "ko/oscars-best-supporting-actress.list.json",
+    "collection": "awards/oscars"
+  },
+  {
+    "title": "2017 선댄스 영화제 수상작",
+    "description": "2017 선댄스 영화제 4개 핵심 장편 경쟁 부문 심사위원대상 수상작.",
+    "digest": "sha256:8047c82835775e4f87bddda2467a90204112d1bbf7847b2748d8879918084987",
+    "path": "ko/sundance-2017.list.json",
+    "collection": "awards/sundance",
+    "tags": [
+      "award",
+      "park-city",
+      "decade"
+    ]
+  },
+  {
+    "title": "2018 선댄스 영화제 수상작",
+    "description": "2018 선댄스 영화제 4개 핵심 장편 경쟁 부문 심사위원대상 수상작.",
+    "digest": "sha256:2de564e19ed2d3dd52894227152439e4ee0844ded3dcb82412c7da1c46a79b83",
+    "path": "ko/sundance-2018.list.json",
+    "collection": "awards/sundance",
+    "tags": [
+      "award",
+      "park-city",
+      "decade"
+    ]
+  },
+  {
+    "title": "2019 선댄스 영화제 수상작",
+    "description": "2019 선댄스 영화제 4개 핵심 장편 경쟁 부문 심사위원대상 수상작.",
+    "digest": "sha256:1368983f445e32d0f5095fbb65aed02ed455ba42674aa4db59baa45046581fa0",
+    "path": "ko/sundance-2019.list.json",
+    "collection": "awards/sundance",
+    "tags": [
+      "award",
+      "park-city",
+      "decade"
+    ]
+  },
+  {
+    "title": "2020 선댄스 영화제 수상작",
+    "description": "2020 선댄스 영화제 4개 핵심 장편 경쟁 부문 심사위원대상 수상작.",
+    "digest": "sha256:cce8cb23be18949ad7bd241c012aa1834f42ef4966bb6588d369b678c2bbf0c3",
+    "path": "ko/sundance-2020.list.json",
+    "collection": "awards/sundance",
+    "tags": [
+      "award",
+      "park-city",
+      "decade"
+    ]
+  },
+  {
+    "title": "2021 선댄스 영화제 수상작",
+    "description": "2021 선댄스 영화제 4개 핵심 장편 경쟁 부문 심사위원대상 수상작.",
+    "digest": "sha256:e77b41f0318fc94cb264b72b2227616e9d50740746ac4922082da0c88a28a324",
+    "path": "ko/sundance-2021.list.json",
+    "collection": "awards/sundance",
+    "tags": [
+      "award",
+      "park-city",
+      "decade"
+    ]
+  },
+  {
+    "title": "2022 선댄스 영화제 수상작",
+    "description": "2022 선댄스 영화제 4개 핵심 장편 경쟁 부문 심사위원대상 수상작.",
+    "digest": "sha256:828ddd847a879610fba4858047122b5c8c0a93c93fa04301fc65746c579d2db6",
+    "path": "ko/sundance-2022.list.json",
+    "collection": "awards/sundance",
+    "tags": [
+      "award",
+      "park-city",
+      "decade"
+    ]
+  },
+  {
+    "title": "2023 선댄스 영화제 수상작",
+    "description": "2023 선댄스 영화제 4개 핵심 장편 경쟁 부문 심사위원대상 수상작.",
+    "digest": "sha256:e7ea3b1ab2674d5bc6ba7ccf465d91e5f1f9d31ae185693e92b192aacc8ef7d6",
+    "path": "ko/sundance-2023.list.json",
+    "collection": "awards/sundance",
+    "tags": [
+      "award",
+      "park-city",
+      "decade"
+    ]
+  },
+  {
+    "title": "2024 선댄스 영화제 수상작",
+    "description": "2024 선댄스 영화제 4개 핵심 장편 경쟁 부문 심사위원대상 수상작.",
+    "digest": "sha256:c47ea30d6353a7e1a040c895df60b0b5eba6da6749a84ef7d8add4ef34617c92",
+    "path": "ko/sundance-2024.list.json",
+    "collection": "awards/sundance",
+    "tags": [
+      "award",
+      "park-city",
+      "decade"
+    ]
+  },
+  {
+    "title": "2025 선댄스 영화제 수상작",
+    "description": "2025 선댄스 영화제 4개 핵심 장편 경쟁 부문 심사위원대상 수상작.",
+    "digest": "sha256:ce34c7405337d26fb21b6a0dbf062d5e6d6d594aa8520a86876c667935763e54",
+    "path": "ko/sundance-2025.list.json",
+    "collection": "awards/sundance",
+    "tags": [
+      "award",
+      "park-city",
+      "decade"
+    ]
+  },
+  {
+    "title": "2026 선댄스 영화제 수상작",
+    "description": "2026 선댄스 영화제 4개 핵심 장편 경쟁 부문 심사위원대상 수상작.",
+    "digest": "sha256:1fe3c2f6180556ec4b602a06aac9d43353540cbc4a5781b1d0c9f97fd53afe10",
+    "path": "ko/sundance-2026.list.json",
+    "collection": "awards/sundance",
+    "tags": [
+      "award",
+      "park-city",
+      "decade"
+    ]
+  },
+  {
+    "title": "선댄스 영화제 — 미국 다큐멘터리 심사위원대상",
+    "description": "선댄스 영화제 “미국 다큐멘터리 심사위원대상” 역대 수상작. 1985년부터의 전체 수상 기록을 수록하며 공동 수상은 개별 항목으로 유지.",
+    "digest": "sha256:b520e22d8aed94d23149274a570330c4d3f9479d0250eb2480760ac2351203df",
+    "path": "ko/sundance-us-grand-jury-documentary.list.json",
+    "collection": "awards/sundance",
+    "tags": [
+      "award",
+      "park-city",
+      "prize"
+    ]
+  },
+  {
+    "title": "선댄스 영화제 — 미국 극영화 심사위원대상",
+    "description": "선댄스 영화제 “미국 극영화 심사위원대상” 역대 수상작. 1985년부터의 전체 수상 기록을 수록하며 공동 수상은 개별 항목으로 유지.",
+    "digest": "sha256:d33b371b52e89d12e8aa96dc00ecae665c3a01d8ac2ce62e606d7860c91cf596",
+    "path": "ko/sundance-us-grand-jury-dramatic.list.json",
+    "collection": "awards/sundance",
+    "tags": [
+      "award",
+      "park-city",
+      "prize"
+    ]
+  },
+  {
+    "title": "선댄스 영화제 — 월드 시네마 다큐멘터리 심사위원대상",
+    "description": "선댄스 영화제 “월드 시네마 다큐멘터리 심사위원대상” 역대 수상작. 2005년부터의 전체 수상 기록을 수록하며 공동 수상은 개별 항목으로 유지.",
+    "digest": "sha256:d986899b808016855157582823f9d339e3e68a4906f1a3ea9cd831f22ad12115",
+    "path": "ko/sundance-world-cinema-grand-jury-documentary.list.json",
+    "collection": "awards/sundance",
+    "tags": [
+      "award",
+      "park-city",
+      "prize"
+    ]
+  },
+  {
+    "title": "선댄스 영화제 — 월드 시네마 극영화 심사위원대상",
+    "description": "선댄스 영화제 “월드 시네마 극영화 심사위원대상” 역대 수상작. 2005년부터의 전체 수상 기록을 수록하며 공동 수상은 개별 항목으로 유지.",
+    "digest": "sha256:b0a20272e36ea1fcd90dd71887e3eb7b2975918d262442994c6beeff4fb8bd73",
+    "path": "ko/sundance-world-cinema-grand-jury-dramatic.list.json",
+    "collection": "awards/sundance",
+    "tags": [
+      "award",
+      "park-city",
+      "prize"
+    ]
+  },
+  {
+    "title": "토론토 — 2016",
+    "description": "2016년 토론토국제영화제 영화 부문 수상작.",
+    "digest": "sha256:d066a11087a9a591ec91914017bf1e6f54d1c0c16e943c0fb3140549feb30405",
+    "path": "ko/tiff-2016.list.json",
+    "collection": "awards/tiff"
+  },
+  {
+    "title": "토론토 — 2017",
+    "description": "2017년 토론토국제영화제 영화 부문 수상작.",
+    "digest": "sha256:04a445eb8cb4ad2019010c9d8d55edb0fc1e3f0539af38fadad62c88c4fe1f4d",
+    "path": "ko/tiff-2017.list.json",
+    "collection": "awards/tiff"
+  },
+  {
+    "title": "토론토 — 2018",
+    "description": "2018년 토론토국제영화제 영화 부문 수상작.",
+    "digest": "sha256:24312863402a0c109566eadf6b928896490809c4df59cdd8de046c544137a407",
+    "path": "ko/tiff-2018.list.json",
+    "collection": "awards/tiff"
+  },
+  {
+    "title": "토론토 — 2019",
+    "description": "2019년 토론토국제영화제 영화 부문 수상작.",
+    "digest": "sha256:1a55788a750a7dbf4411a27353a7d2cd34cf049ad339f7319ef30e9ba238a443",
+    "path": "ko/tiff-2019.list.json",
+    "collection": "awards/tiff"
+  },
+  {
+    "title": "토론토 — 2020",
+    "description": "2020년 토론토국제영화제 영화 부문 수상작.",
+    "digest": "sha256:99c93ca3f2a9de1c3616b2c7a8bb3c731867fbd8ebcae0f30d4862ca38799b5d",
+    "path": "ko/tiff-2020.list.json",
+    "collection": "awards/tiff"
+  },
+  {
+    "title": "토론토 — 2021",
+    "description": "2021년 토론토국제영화제 영화 부문 수상작.",
+    "digest": "sha256:18df428b84504896d34b4e8025f5af5a6db490d32a2c46798d9f239d1779afb6",
+    "path": "ko/tiff-2021.list.json",
+    "collection": "awards/tiff"
+  },
+  {
+    "title": "토론토 — 2022",
+    "description": "2022년 토론토국제영화제 영화 부문 수상작.",
+    "digest": "sha256:ba0d7f8aa06f50b9002f712a1d31db7652b9f626dd53722973433bcdbf2541bc",
+    "path": "ko/tiff-2022.list.json",
+    "collection": "awards/tiff"
+  },
+  {
+    "title": "토론토 — 2023",
+    "description": "2023년 토론토국제영화제 영화 부문 수상작.",
+    "digest": "sha256:09e48d0327ed19af8b3cf6f405ab692e5279fee7248600c994a6855ddb56106d",
+    "path": "ko/tiff-2023.list.json",
+    "collection": "awards/tiff"
+  },
+  {
+    "title": "토론토 — 2024",
+    "description": "2024년 토론토국제영화제 영화 부문 수상작.",
+    "digest": "sha256:e0af2337df8162d2c0c4146ca0fbe7dd3cff198f035b7d883be36f62f17e6dff",
+    "path": "ko/tiff-2024.list.json",
+    "collection": "awards/tiff"
+  },
+  {
+    "title": "토론토 — 2025",
+    "description": "2025년 토론토국제영화제 영화 부문 수상작.",
+    "digest": "sha256:0871ea236b81510f38432e41a23840731dbb342a44addc90ef0a6ee60f58b597",
+    "path": "ko/tiff-2025.list.json",
+    "collection": "awards/tiff"
+  },
+  {
+    "title": "토론토 — 캐나다 디스커버리상",
+    "description": "토론토국제영화제 캐나다 디스커버리상 역대 수상작.",
+    "digest": "sha256:4aa0b7bd2fdcdf33bc43c371326f37de5f558bf5c1b8be8b37ad7dd9d7d7c08b",
+    "path": "ko/tiff-best-canadian-discovery.list.json",
+    "collection": "awards/tiff"
+  },
+  {
+    "title": "토론토 — 캐나다 장편영화상",
+    "description": "토론토국제영화제 캐나다 장편영화상 역대 수상작.",
+    "digest": "sha256:f434dead0d12e4bfb8d0612be3587a50fdd5017e97151f0607bb90bd08688bac",
+    "path": "ko/tiff-best-canadian-feature.list.json",
+    "collection": "awards/tiff"
+  },
+  {
+    "title": "토론토 — 다큐멘터리 관객상",
+    "description": "토론토국제영화제 다큐멘터리 관객상 역대 수상작.",
+    "digest": "sha256:99c265cf76cae8ac295a1f1d10826b02d96d4068ef2e1ce5f83643e2d7bf00dd",
+    "path": "ko/tiff-documentary-peoples-choice.list.json",
+    "collection": "awards/tiff"
+  },
+  {
+    "title": "토론토 — 미드나잇 매드니스 관객상",
+    "description": "토론토국제영화제 미드나잇 매드니스 관객상 역대 수상작.",
+    "digest": "sha256:175b7e6ffa9062871b023062b74b245253c45348ea3c9480cd70d6708daa66a5",
+    "path": "ko/tiff-midnight-madness-peoples-choice.list.json",
+    "collection": "awards/tiff"
+  },
+  {
+    "title": "토론토 — 관객상",
+    "description": "토론토국제영화제 관객상 역대 수상작.",
+    "digest": "sha256:06654e71c59ba545b090918a684db54535102fbe8580571ed195f4fef5e7f231",
+    "path": "ko/tiff-peoples-choice.list.json",
+    "collection": "awards/tiff"
+  },
+  {
+    "title": "토론토 — 플랫폼상",
+    "description": "토론토국제영화제 플랫폼상 역대 수상작.",
+    "digest": "sha256:daa2d29356ccb255bf703189481b1101255035188616a1239103bb82e9304d25",
+    "path": "ko/tiff-platform-prize.list.json",
+    "collection": "awards/tiff"
+  }
+]

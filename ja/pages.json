@@ -1,0 +1,285 @@
+[
+  {
+    "title": "百想芸術大賞 10年",
+    "description": "2017年から2026年までの百想芸術大賞における主要な映画・テレビ部門の受賞作品。",
+    "digest": "sha256:f7888e4e1076f04e9a0fc012b0f89eaa6bb0ea41fec54bad3cb9ffe1d5113213",
+    "path": "ja/baeksang-10-years.page.json",
+    "collection": "awards/baeksang",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "百想芸術大賞 受賞部門",
+    "description": "百想芸術大賞の主要な映画・テレビ部門を受賞部門別にまとめたページ。",
+    "digest": "sha256:c6a414d6a17b214219357c24f210a91d15dfddc10751ac923749c3fa0557e50b",
+    "path": "ja/baeksang-prizes.page.json",
+    "collection": "awards/baeksang",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "釜山国際映画祭 10年",
+    "description": "釜山国際映画祭の直近10回（2016–2025）の主要コンペティション受賞作品。",
+    "digest": "sha256:9f0002129d05427abb5b8961c1e3a646c57ef732171e28fae93827014880cba9",
+    "path": "ja/biff-10-years.page.json",
+    "collection": "awards/biff",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "釜山国際映画祭 賞",
+    "description": "釜山国際映画祭の主要コンペティション賞と歴代受賞作品。",
+    "digest": "sha256:8a6f9673bb53a33904dcea56e517bb0a0fdcc999b742121465236429e0947a2b",
+    "path": "ja/biff-prizes.page.json",
+    "collection": "awards/biff",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "青龍映画賞 — 直近10年",
+    "description": "青龍映画賞の直近10年の受賞作。",
+    "digest": "sha256:4a013752da161de4ac8a4cc988193992cee127494597d186d243dd3db290883d",
+    "path": "ja/blue-dragon-10-years.page.json",
+    "collection": "awards/blue-dragon",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "青龍映画賞 — 部門別",
+    "description": "青龍映画賞の各部門の全受賞記録。",
+    "digest": "sha256:9e53498921dcb7c8003614893dd1629200cd2fee66efdfeb61477443bc127a73",
+    "path": "ja/blue-dragon-awards.page.json",
+    "collection": "awards/blue-dragon",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "カンヌ国際映画祭 過去10年",
+    "description": "カンヌ国際映画祭の直近10暦年における開催回の受賞作品。2020年は映画祭が中止されたため含まれません。",
+    "digest": "sha256:2a485c0f3473138ce2748ed4750e86e92f2159e9cee12aef13f6dd356f90a2e5",
+    "path": "ja/cannes-10-years.page.json",
+    "collection": "awards/cannes",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "カンヌ — カメラ・ドール",
+    "description": "カンヌ国際映画祭カメラ・ドールの歴代受賞作。",
+    "digest": "sha256:825f5dad2102d1b4337797b58c3d703c7c35703ce1c72af97cdbac91b7523987",
+    "path": "ja/cannes-camera-dor.page.json",
+    "collection": "awards/cannes",
+    "tags": [
+      "award",
+      "cannes",
+      "prize"
+    ]
+  },
+  {
+    "title": "カンヌ — CST技術賞",
+    "description": "カンヌ国際映画祭CST技術賞の歴代受賞作。",
+    "digest": "sha256:a86d942d1ede728abe12e2dfd4ac0174068defe50dbf938d0514f68c442271a1",
+    "path": "ja/cannes-cst.page.json",
+    "collection": "awards/cannes",
+    "tags": [
+      "award",
+      "cannes",
+      "prize"
+    ]
+  },
+  {
+    "title": "カンヌ — 長編映画賞",
+    "description": "カンヌ国際映画祭の長編映画部門における歴代受賞作。",
+    "digest": "sha256:d65443ab6b76fa0d40af3c93f6b9a18d8bfbd2d992feceadf7482d235bf77388",
+    "path": "ja/cannes-feature-films.page.json",
+    "collection": "awards/cannes",
+    "tags": [
+      "award",
+      "cannes",
+      "prize"
+    ]
+  },
+  {
+    "title": "カンヌ — ラ・シネフ",
+    "description": "カンヌ国際映画祭Cinéfondation／La Cinefの歴代受賞作。",
+    "digest": "sha256:751b0d1d77d0a057ab9b05f2e965c5cbc338a74452c88bcc52b60ffe1e351d09",
+    "path": "ja/cannes-la-cinef.page.json",
+    "collection": "awards/cannes",
+    "tags": [
+      "award",
+      "cannes",
+      "prize"
+    ]
+  },
+  {
+    "title": "カンヌ — 短編映画賞",
+    "description": "カンヌ国際映画祭の短編映画部門における歴代受賞作。",
+    "digest": "sha256:3f9bc7408661ab7eceaa515181859cbf429c36b1221d84372a3da069bb80f4f7",
+    "path": "ja/cannes-short-films.page.json",
+    "collection": "awards/cannes",
+    "tags": [
+      "award",
+      "cannes",
+      "prize"
+    ]
+  },
+  {
+    "title": "カンヌ — ある視点",
+    "description": "カンヌ国際映画祭「ある視点」の歴代受賞作。",
+    "digest": "sha256:732d02b675ec3e6498625d3b674259872dd99be7a8ebb7f579537cbc660db5ac",
+    "path": "ja/cannes-un-certain-regard.page.json",
+    "collection": "awards/cannes",
+    "tags": [
+      "award",
+      "cannes",
+      "prize"
+    ]
+  },
+  {
+    "title": "プライムタイム・エミー賞 10年",
+    "description": "直近10回のプライムタイム・エミー賞主要部門の受賞作・受賞者。",
+    "digest": "sha256:458e13429f7338e040fd33ae37ada741f954b7f4558d094d9675fdfcc637cfe1",
+    "path": "ja/emmys-10-years.page.json",
+    "collection": "awards/emmys",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "プライムタイム・エミー賞 部門別",
+    "description": "プライムタイム・エミー賞の主要部門別受賞記録。",
+    "digest": "sha256:f007670275a5af710b6254c9739cbc4cff68e015f56aeda7afd1e66506ba4edb",
+    "path": "ja/emmys-prizes.page.json",
+    "collection": "awards/emmys",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "ゴールデングローブ賞 10年",
+    "description": "ゴールデングローブ賞の直近10回における主要な映画・テレビ作品部門の受賞データ。",
+    "digest": "sha256:3b1c3e074d98321419e150ebfd5894135809366de2b719e62776240bea686cba",
+    "path": "ja/golden-globes-10-years.page.json",
+    "collection": "awards/golden-globes",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "ゴールデングローブ賞 部門別",
+    "description": "ゴールデングローブ賞の主要な映画・テレビ作品部門の受賞データ。",
+    "digest": "sha256:66bef7a8bb364b6a1cf95e5ade3989d9e69562c3812320b3d84c1aa6d9e58a93",
+    "path": "ja/golden-globes-prizes.page.json",
+    "collection": "awards/golden-globes",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "香港電影金像奨 — 直近10年",
+    "description": "香港電影金像奨の直近10年の受賞作。2021年は2022年に統合され、開催なし。",
+    "digest": "sha256:55d8337dc321aca8e98b1809b612d6e1f307252706676cc740395db4fb6aa2a8",
+    "path": "ja/hkfa-10-years.page.json",
+    "collection": "awards/hkfa",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "香港電影金像奨 — 部門別",
+    "description": "香港電影金像奨の各部門の全受賞記録。2021年は2022年に統合され、開催なし。",
+    "digest": "sha256:209fc5d1bda0ffbb1c81c2b1616c2fd330c8953c222b50c8d55cb295335369bf",
+    "path": "ja/hkfa-prizes.page.json",
+    "collection": "awards/hkfa",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "アカデミー賞 10年",
+    "description": "直近10回のアカデミー賞主要映画部門の受賞作品と受賞者。",
+    "digest": "sha256:28eff3f00369df2c752c922d303262bf912a805fba5384bb9af41bc3d353a5ac",
+    "path": "ja/oscars-10-years.page.json",
+    "collection": "awards/oscars",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "アカデミー賞 部門別",
+    "description": "アカデミー賞主要映画部門の直近10回の受賞記録。",
+    "digest": "sha256:85d0c6e1495b082e05d605b604092898edd20d4abc7c6555d433edfaa8ebcec7",
+    "path": "ja/oscars-prizes.page.json",
+    "collection": "awards/oscars",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "サンダンス映画祭 10年",
+    "description": "サンダンス映画祭の直近10回における、主要4長編コンペティション審査員大賞の受賞作品。",
+    "digest": "sha256:6f5c02e2220894bf24cde016cf548367ac9bf7b8246723c46a863a1d035cf129",
+    "path": "ja/sundance-10-years.page.json",
+    "collection": "awards/sundance",
+    "tags": [
+      "award",
+      "park-city",
+      "decade"
+    ]
+  },
+  {
+    "title": "サンダンス映画祭 受賞部門",
+    "description": "サンダンス映画祭の主要4長編コンペティション審査員大賞の歴代受賞作品。",
+    "digest": "sha256:68ddef57630ec233b70935e1eb5b25fa648da0f5928a9a4dfe0d34e1929b5c1a",
+    "path": "ja/sundance-prizes.page.json",
+    "collection": "awards/sundance",
+    "tags": [
+      "award",
+      "park-city",
+      "prize"
+    ]
+  },
+  {
+    "title": "トロント10年",
+    "description": "トロント国際映画祭の直近10回の完結した映画賞（2016–2025）。",
+    "digest": "sha256:8234876052299ad2c75bfab890b0e28ef968a040fb4fea61534a50ede0fac3cb",
+    "path": "ja/tiff-10-years.page.json",
+    "collection": "awards/tiff",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "トロント映画祭の賞",
+    "description": "トロント国際映画祭の主要な映画賞の歴代受賞作。",
+    "digest": "sha256:a4bfc4924f3d705098307656c153dfa522b0300e41320d48ce7cff81a287389d",
+    "path": "ja/tiff-prizes.page.json",
+    "collection": "awards/tiff",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  }
+]

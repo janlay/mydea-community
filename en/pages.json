@@ -1,0 +1,330 @@
+[
+  {
+    "title": "Baeksang Arts Awards 10 Years",
+    "description": "Major film and broadcast winners of the Baeksang Arts Awards from 2017 to 2026.",
+    "digest": "sha256:704583fa4403e459890ac4d11f89d54d5d9efd11d887c734403dfd5d9aa273b5",
+    "path": "en/baeksang-10-years.page.json",
+    "collection": "awards/baeksang",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "Baeksang Arts Awards Prizes",
+    "description": "Baeksang Arts Awards winners by major film and broadcast category from 2017 to 2026.",
+    "digest": "sha256:1eb18e8ace1afd360b142d5f681464c7f8c268648ce5f9b02ea2c41e48d8ffd4",
+    "path": "en/baeksang-prizes.page.json",
+    "collection": "awards/baeksang",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "Ten Years in Berlin",
+    "description": "Competition winners of the last ten Berlinale editions, 2026 back to 2017.",
+    "digest": "sha256:996f77292f4b949097e5d8eb12a62d3a9ebfef3067f1f1480c4116e0dbfb3b68",
+    "path": "en/berlinale-10-years.page.json",
+    "collection": "awards/berlinale",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "Berlinale Prizes",
+    "description": "Winners of every Berlinale competition award. No awards were given in 1970.",
+    "digest": "sha256:1b9b6a59ee5dc61bbddc4575c90d128bd782b8cef00875dae81d6ceb50a9123a",
+    "path": "en/berlinale-prizes.page.json",
+    "collection": "awards/berlinale",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "Busan International Film Festival Ten Years",
+    "description": "Core competition winners from the ten most recent completed editions of the Busan International Film Festival, 2016–2025.",
+    "digest": "sha256:134a4ec898940769ffaf1bbaacb03140fe76b855255437e68910812eb8502be7",
+    "path": "en/biff-10-years.page.json",
+    "collection": "awards/biff",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "Busan International Film Festival Awards",
+    "description": "Core Busan International Film Festival competition awards and their historical winners.",
+    "digest": "sha256:566b1f9e7c5b1581e09b0cee3d87fef7b2ca7e8a07158ab1c9d2bedb6eefd6d4",
+    "path": "en/biff-prizes.page.json",
+    "collection": "awards/biff",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "Blue Dragon Film Awards — 10 Years",
+    "description": "Ten years of the Blue Dragon Film Awards, 2016 to 2025.",
+    "digest": "sha256:5621859ae92d16c6cb20c880d43aaa366c96792d8c160acd6fd20c6a2e5bfc49",
+    "path": "en/blue-dragon-10-years.page.json",
+    "collection": "awards/blue-dragon",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "Blue Dragon Film Awards — Awards",
+    "description": "Winners of every Blue Dragon Film Awards category.",
+    "digest": "sha256:8e2fc8d20b7f7f5cd49cb57147f83c5929cfec906b9b2255df5b546f97acde52",
+    "path": "en/blue-dragon-awards.page.json",
+    "collection": "awards/blue-dragon",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "Ten Years in Cannes",
+    "description": "Ten years of the Festival de Cannes. 2020 is absent: the festival was cancelled.",
+    "digest": "sha256:96611a0510898dc58bc578df12e68b167bfea331d8600b1cea83e22afc7b39a1",
+    "path": "en/cannes-10-years.page.json",
+    "collection": "awards/cannes",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "Cannes — Caméra d’or",
+    "description": "Historical Caméra d’or awards.",
+    "digest": "sha256:da9457a82b4fbc1edc9e773c62b99c3a2513bd8ad02dd949d69effd03e542821",
+    "path": "en/cannes-camera-dor.page.json",
+    "collection": "awards/cannes",
+    "tags": [
+      "award",
+      "cannes",
+      "prize"
+    ]
+  },
+  {
+    "title": "Cannes — CST Technical Awards",
+    "description": "Historical awards of the Superior Technical Commission (CST).",
+    "digest": "sha256:44f3f78dbd9744e8c33c89df11fa97efe3c330b90ecbf8c6829a0c115d958af6",
+    "path": "en/cannes-cst.page.json",
+    "collection": "awards/cannes",
+    "tags": [
+      "award",
+      "cannes",
+      "prize"
+    ]
+  },
+  {
+    "title": "Cannes — Feature Films",
+    "description": "Historical Cannes Feature Film awards.",
+    "digest": "sha256:16e8e2f77c4a12bf718ea55321e0f3f8d1be4858c40424074a7a309be56a4c36",
+    "path": "en/cannes-feature-films.page.json",
+    "collection": "awards/cannes",
+    "tags": [
+      "award",
+      "cannes",
+      "prize"
+    ],
+    "featured": true
+  },
+  {
+    "title": "Cannes — La Cinef",
+    "description": "Historical Cinéfondation and La Cinef prizes.",
+    "digest": "sha256:81e77e8f2f15459cb85b58fe1215f55d57dc0f542cbe11cd6bece80f670ac46e",
+    "path": "en/cannes-la-cinef.page.json",
+    "collection": "awards/cannes",
+    "tags": [
+      "award",
+      "cannes",
+      "prize"
+    ]
+  },
+  {
+    "title": "Cannes — Short Films",
+    "description": "Historical Cannes Short Film awards.",
+    "digest": "sha256:123175a3016d4d082031999d3efb4d8c78efc75d19d3e4b601fdf21f53bd80bb",
+    "path": "en/cannes-short-films.page.json",
+    "collection": "awards/cannes",
+    "tags": [
+      "award",
+      "cannes",
+      "prize"
+    ]
+  },
+  {
+    "title": "Cannes — Un Certain Regard",
+    "description": "Historical Un Certain Regard awards.",
+    "digest": "sha256:5b206afa70120a177455f3f5b5cdf1de6c07ecc56fd50fa0ffebce7cc4f6d2b2",
+    "path": "en/cannes-un-certain-regard.page.json",
+    "collection": "awards/cannes",
+    "tags": [
+      "award",
+      "cannes",
+      "prize"
+    ]
+  },
+  {
+    "title": "Primetime Emmys — 10 Years",
+    "description": "Major winners from the ten most recent Primetime Emmy Awards.",
+    "digest": "sha256:1a8cf77a78d1dfdd5a3ee3a1de48c228a8bc5a88b05f58ae4d496019bdb257d6",
+    "path": "en/emmys-10-years.page.json",
+    "collection": "awards/emmys",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "Primetime Emmys — Awards",
+    "description": "Major Primetime Emmy Award winners organized by category.",
+    "digest": "sha256:56bef4a4ebfcecf666da804de1f9e4c8294493207c99fb0e40ccdc17a9041d21",
+    "path": "en/emmys-prizes.page.json",
+    "collection": "awards/emmys",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "Golden Globes Decade",
+    "description": "Major film and television program winners from the last ten Golden Globe ceremonies.",
+    "digest": "sha256:638457098d33498540a68832017a4a8a99520a7e379a7de1c9f5940592a1feaa",
+    "path": "en/golden-globes-10-years.page.json",
+    "collection": "awards/golden-globes",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "Golden Globes Awards",
+    "description": "Winners of major Golden Globe film and television program categories.",
+    "digest": "sha256:b494ad8f51d979d3bcf852d6ee85e06d393a630fa5a7ee4e4e86b22cd8e77ab8",
+    "path": "en/golden-globes-prizes.page.json",
+    "collection": "awards/golden-globes",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "Ten Years in Hong Kong",
+    "description": "Ten years of the Hong Kong Film Awards. 2021 is absent: it was merged into 2022.",
+    "digest": "sha256:e48d1dc8f0f4c902eadaf2e5efa31f3c1425f15ec22ec8eebb77983c5ed32d56",
+    "path": "en/hkfa-10-years.page.json",
+    "collection": "awards/hkfa",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "Hong Kong Film Awards",
+    "description": "Winners of every Hong Kong Film Awards category. 2021 was postponed and merged into 2022.",
+    "digest": "sha256:3c9278d5cfabcfdd12b40491f23d121a459a9d1376d89c489f40bfd427ea632d",
+    "path": "en/hkfa-prizes.page.json",
+    "collection": "awards/hkfa",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "Oscars — 10 Years",
+    "description": "Winners in ten core film categories from the ten most recent Academy Awards ceremonies.",
+    "digest": "sha256:6a71b4a8d43e6caccd3e4da149a1cea37ab788ff6a1684d8c87b46f6b6b41d14",
+    "path": "en/oscars-10-years.page.json",
+    "collection": "awards/oscars",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "Oscars — Awards",
+    "description": "Ten-year winner histories for core Academy Awards film categories.",
+    "digest": "sha256:fef30dc61f5c3dbe4826df72cadc88a3c82e14e8ef23e0d783c841622ca2f0a3",
+    "path": "en/oscars-prizes.page.json",
+    "collection": "awards/oscars",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "Sundance Decade",
+    "description": "Winners of the four core feature Grand Jury Prizes from the ten most recent Sundance Film Festival editions.",
+    "digest": "sha256:5e68222d0d33c8ade0da003b728f2a59a1e8cdda423140ac88e9f6c29a5e077b",
+    "path": "en/sundance-10-years.page.json",
+    "collection": "awards/sundance",
+    "tags": [
+      "award",
+      "park-city",
+      "decade"
+    ]
+  },
+  {
+    "title": "Sundance Prizes",
+    "description": "Historical winners of the four core Sundance Film Festival feature Grand Jury Prizes.",
+    "digest": "sha256:0a363b0ac79f70cec8562cc21a37a31f9b976d93173c87bd721ece15e2ce48d4",
+    "path": "en/sundance-prizes.page.json",
+    "collection": "awards/sundance",
+    "tags": [
+      "award",
+      "park-city",
+      "prize"
+    ]
+  },
+  {
+    "title": "Toronto 10 Years",
+    "description": "Major film awards from the ten most recent completed Toronto International Film Festival editions (2016–2025).",
+    "digest": "sha256:99d961bbd38e30e6864ce42505381e6af9adc4ac07d25ab234a24152b2f62686",
+    "path": "en/tiff-10-years.page.json",
+    "collection": "awards/tiff",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "Toronto Awards",
+    "description": "Historical winners of major Toronto International Film Festival film awards.",
+    "digest": "sha256:4f8e7cf752c59ccb3967de4672249057cd634993568d379c7fbe625c24d64c86",
+    "path": "en/tiff-prizes.page.json",
+    "collection": "awards/tiff",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "Ten Years in Venice",
+    "description": "Competition winners of the last ten Venice editions, 2025 back to 2016.",
+    "digest": "sha256:269c6b7ced931c5200ac4b569cbe962e743c651fab4d1cec9ef4579873281f69",
+    "path": "en/venice-10-years.page.json",
+    "collection": "awards/venice",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "Venice Prizes",
+    "description": "Winners of every Venice competition award. No awards were given from 1969 to 1979.",
+    "digest": "sha256:2ee435ca0487da701ea0240687de5004fe6ee299267625900f3487407ab2d99d",
+    "path": "en/venice-prizes.page.json",
+    "collection": "awards/venice",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  }
+]

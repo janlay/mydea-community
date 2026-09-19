@@ -1,0 +1,93 @@
+[
+  {
+    "title": "金馬十年",
+    "description": "金馬獎最近十屆（2016–2025）主要獎項得獎名單。",
+    "digest": "sha256:d92adfc8c58b4514b77f235782a79f5ff34036e552e661558efb8ff00a6c6284",
+    "path": "zh/golden-horse-10-years.page.json",
+    "collection": "awards/golden-horse",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "金馬獎項",
+    "description": "金馬獎各獎項完整得獎名單。1964、1974 年未舉辦。",
+    "digest": "sha256:ee62f124f1a62660de18b1a20f1b6c8c965de293fefc19633e41eb17dc4c93e1",
+    "path": "zh/golden-horse-prizes.page.json",
+    "collection": "awards/golden-horse",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "金鸡奖十年",
+    "description": "中国电影金鸡奖最近十个自然年内已举办届次的年度获奖页面。",
+    "digest": "sha256:9fef4980223d052aa0c4eb251625b41f6619bfd57fe42c3672d17d37cec474c8",
+    "path": "zh/golden-rooster-10-years.page.json",
+    "collection": "awards/golden-rooster",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "金鸡奖奖项",
+    "description": "中国电影金鸡奖主要奖项历届获奖页面。",
+    "digest": "sha256:620197498706ac579737b69444eb5affcf3598bdc7534c6dfa84d535088e250e",
+    "path": "zh/golden-rooster-prizes.page.json",
+    "collection": "awards/golden-rooster",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "金像獎十年",
+    "description": "香港電影金像獎近十年得獎名單。2021 年順延併入 2022 年。",
+    "digest": "sha256:2bfb09d186837820df361a2c68e3629f913aab125ca0a8d45d853c1add13a1dc",
+    "path": "zh/hkfa-10-years.page.json",
+    "collection": "awards/hkfa",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "金像獎項",
+    "description": "香港電影金像獎各獎項完整得獎名單。2021 年順延併入 2022 年舉行。",
+    "digest": "sha256:6529e29beef896cde9ef687a8d32591171dfc5956032974d3b5d31285e2b3236",
+    "path": "zh/hkfa-prizes.page.json",
+    "collection": "awards/hkfa",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "豆瓣类型片徽章",
+    "description": "豆瓣徽章计划中 12 个类型片徽章的收藏片单。",
+    "digest": "sha256:798b1c646ae811e4bbb16bdf2f172bbe37595994281dd259aedec920bee1c2f3",
+    "path": "zh/douban-genre-badges.page.json",
+    "collection": "plans/douban",
+    "tags": [
+      "douban",
+      "badge",
+      "plan",
+      "genre"
+    ]
+  },
+  {
+    "title": "豆瓣大师徽章",
+    "description": "豆瓣徽章计划中 13 位电影大师与影人徽章的收藏片单。",
+    "digest": "sha256:6d6b0c1a32fed53c0225a510556154162831cec543476f12201015f8412a1835",
+    "path": "zh/douban-master-badges.page.json",
+    "collection": "plans/douban",
+    "tags": [
+      "douban",
+      "badge",
+      "plan"
+    ]
+  }
+]
