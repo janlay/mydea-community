@@ -1,0 +1,404 @@
+[
+  {
+    "title": "百想艺术大赏十年",
+    "description": "2017–2026 年百想艺术大赏电影主要奖项获奖作品及获奖者。",
+    "digest": "sha256:4b6537f6748788582d88077f0dd62a907c37caa0b9afff89f1af1eaac0ed40b0",
+    "path": "zh-Hans/baeksang-10-years.page.json",
+    "collection": "awards/baeksang",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "百想艺术大赏奖项",
+    "description": "2017–2026 年百想艺术大赏电影主要奖项历届获奖记录。",
+    "digest": "sha256:038d5909075a858775ff07bd41e990b9cca74e36a0222bf7ac88469c6d5d5da3",
+    "path": "zh-Hans/baeksang-prizes.page.json",
+    "collection": "awards/baeksang",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "柏林十年",
+    "description": "柏林电影节最近十届（2017–2026）主竞赛获奖名单。",
+    "digest": "sha256:8a123216663a13daa2b30ea1262e4493e2a11058f1b671703a5be01f1c8f3f61",
+    "path": "zh-Hans/berlinale-10-years.page.json",
+    "collection": "awards/berlinale",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "柏林奖项",
+    "description": "柏林电影节各奖项完整获奖名单。1970 年未颁奖。",
+    "digest": "sha256:248786801832e2c908414778797a12bc80fc6f97a5af4ded8ed580c5f3d0cc2f",
+    "path": "zh-Hans/berlinale-prizes.page.json",
+    "collection": "awards/berlinale",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "釜山国际电影节十年",
+    "description": "釜山国际电影节最近十届（2016–2025）核心竞赛奖获奖影片。",
+    "digest": "sha256:15b30207d8b1b2b053b0a0f6803c5442febeff3d9e919d694848c44cf61edd9e",
+    "path": "zh-Hans/biff-10-years.page.json",
+    "collection": "awards/biff",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "釜山国际电影节奖项",
+    "description": "釜山国际电影节核心竞赛奖项及其历届获奖影片。",
+    "digest": "sha256:3ed6515cceb3eead1ebe95e84b78e966c0c5ddcc40b8acc84d81f1b1c09f9233",
+    "path": "zh-Hans/biff-prizes.page.json",
+    "collection": "awards/biff",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "青龙电影奖十年",
+    "description": "青龙电影奖最近十年（2016–2025）获奖名单。",
+    "digest": "sha256:f7ce467eac7948d73000e452c17f694c1247441e1cd8013c387e1b44b9c441c4",
+    "path": "zh-Hans/blue-dragon-10-years.page.json",
+    "collection": "awards/blue-dragon",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "青龙电影奖奖项",
+    "description": "青龙电影奖各奖项完整获奖名单。",
+    "digest": "sha256:cf628897cd2448d69cdac3c04a9fa4c67680f83fb9593de337b36132dd1d8431",
+    "path": "zh-Hans/blue-dragon-awards.page.json",
+    "collection": "awards/blue-dragon",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "戛纳十年",
+    "description": "戛纳电影节近十年获奖名单。2020 年因疫情取消，故无该年。",
+    "digest": "sha256:a1f7afe6eb0e8c8be0ba82e08ce25659916349835f64e6f58ef7575da9f2c6a9",
+    "path": "zh-Hans/cannes-10-years.page.json",
+    "collection": "awards/cannes",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "戛纳 — 金摄影机",
+    "description": "戛纳电影节金摄影机历届奖项。",
+    "digest": "sha256:55d9323b22f5d93b9fe9c9068613df9c39c0e80ab18a7ef00204676431ab874d",
+    "path": "zh-Hans/cannes-camera-dor.page.json",
+    "collection": "awards/cannes",
+    "tags": [
+      "award",
+      "cannes",
+      "prize"
+    ]
+  },
+  {
+    "title": "戛纳 — CST技术奖",
+    "description": "戛纳电影节高级技术委员会（CST）历届技术奖项。",
+    "digest": "sha256:d26482f79aec205c1062fa2ec93353330151f4987aef7e1af0e0c1fae124bb7b",
+    "path": "zh-Hans/cannes-cst.page.json",
+    "collection": "awards/cannes",
+    "tags": [
+      "award",
+      "cannes",
+      "prize"
+    ]
+  },
+  {
+    "title": "戛纳 — 长片奖项",
+    "description": "戛纳电影节长片竞赛历届奖项。",
+    "digest": "sha256:9e3ba7d19a807dbad6d48c4b7b83607fba6ddc7846fa90a458c74f4f5542ba4f",
+    "path": "zh-Hans/cannes-feature-films.page.json",
+    "collection": "awards/cannes",
+    "tags": [
+      "award",
+      "cannes",
+      "prize"
+    ]
+  },
+  {
+    "title": "戛纳 — La Cinef",
+    "description": "戛纳电影节Cinéfondation及La Cinef历届奖项。",
+    "digest": "sha256:e0af5eb651875965a0aa5caaf3f2f8cce9d23bbe4f6001287f5b7237ea278905",
+    "path": "zh-Hans/cannes-la-cinef.page.json",
+    "collection": "awards/cannes",
+    "tags": [
+      "award",
+      "cannes",
+      "prize"
+    ]
+  },
+  {
+    "title": "戛纳 — 短片奖项",
+    "description": "戛纳电影节短片竞赛历届奖项。",
+    "digest": "sha256:710695a7df2b00cc53e1ffead6f125721b6cc137e5e2674bbbb75598d91acf2d",
+    "path": "zh-Hans/cannes-short-films.page.json",
+    "collection": "awards/cannes",
+    "tags": [
+      "award",
+      "cannes",
+      "prize"
+    ]
+  },
+  {
+    "title": "戛纳 — 一种关注",
+    "description": "戛纳电影节一种关注单元历届奖项。",
+    "digest": "sha256:5a6cd9bd23e5a796f9e1e282f9e38da979332ac611295e8e1ee55a911eb643e6",
+    "path": "zh-Hans/cannes-un-certain-regard.page.json",
+    "collection": "awards/cannes",
+    "tags": [
+      "award",
+      "cannes",
+      "prize"
+    ]
+  },
+  {
+    "title": "金球奖十年",
+    "description": "金球奖近十届主要电影类获奖数据。",
+    "digest": "sha256:c7da9cff62be8737599513468cc836f91dc3698e42cfacab99ccd188206fa024",
+    "path": "zh-Hans/golden-globes-10-years.page.json",
+    "collection": "awards/golden-globes",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "金球奖奖项",
+    "description": "金球奖主要电影类奖项获奖数据。",
+    "digest": "sha256:975c90cd353c39f4d69043042833980c9e1566f131e189176c3c6f0b1e5679de",
+    "path": "zh-Hans/golden-globes-prizes.page.json",
+    "collection": "awards/golden-globes",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "奥斯卡十年",
+    "description": "奥斯卡最近十届核心电影奖项获奖影片与获奖者。",
+    "digest": "sha256:7019a8e5833c0077ed890aa6aa854dfacbbb2b100fec861718fd071c8323a4b7",
+    "path": "zh-Hans/oscars-10-years.page.json",
+    "collection": "awards/oscars",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "奥斯卡奖项",
+    "description": "奥斯卡核心电影奖项最近十届获奖记录。",
+    "digest": "sha256:944160d4a3a96fc6e4fc45c4bfc7c30c09ea61c72e867b671b9eb084601dc7f7",
+    "path": "zh-Hans/oscars-prizes.page.json",
+    "collection": "awards/oscars",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "圣丹斯十年",
+    "description": "圣丹斯电影节最近十届的四项核心长片评审团大奖获奖作品。",
+    "digest": "sha256:14b86a213126c4c209466ade26e44df416b331d854b5dfa6f0941a57b7c9c47a",
+    "path": "zh-Hans/sundance-10-years.page.json",
+    "collection": "awards/sundance",
+    "tags": [
+      "award",
+      "park-city",
+      "decade"
+    ]
+  },
+  {
+    "title": "圣丹斯奖项",
+    "description": "圣丹斯电影节四项核心长片评审团大奖的历届获奖作品。",
+    "digest": "sha256:478f10b62b4be46460cc22dd86910d64648c10991727bef3c659308b86143e09",
+    "path": "zh-Hans/sundance-prizes.page.json",
+    "collection": "awards/sundance",
+    "tags": [
+      "award",
+      "park-city",
+      "prize"
+    ]
+  },
+  {
+    "title": "多伦多十年",
+    "description": "多伦多国际电影节最近十届已完整颁发的主要影片奖项（2016–2025）。",
+    "digest": "sha256:219fdeb3b499a07d9de03af355320f6205f7b2c711f1824277806938c12d2718",
+    "path": "zh-Hans/tiff-10-years.page.json",
+    "collection": "awards/tiff",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "多伦多奖项",
+    "description": "多伦多国际电影节主要影片奖项的历届获奖记录。",
+    "digest": "sha256:2538f7d8af995ba7b60e8b297cf7758f5a397480913d9020f645126020d87b38",
+    "path": "zh-Hans/tiff-prizes.page.json",
+    "collection": "awards/tiff",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "威尼斯十年",
+    "description": "威尼斯电影节最近十届（2016–2025）主竞赛获奖名单。",
+    "digest": "sha256:175e18d2d88300c3adac08e96de555a664f6a36e3ae095070bc1f6a72d6453dd",
+    "path": "zh-Hans/venice-10-years.page.json",
+    "collection": "awards/venice",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "威尼斯奖项",
+    "description": "威尼斯电影节各奖项完整获奖名单。1969–1979 年停颁竞赛奖项。",
+    "digest": "sha256:5dc9aed933f971fcae1a9f9908e5d15e872c9f639c824bfc63e040814b89bcc0",
+    "path": "zh-Hans/venice-prizes.page.json",
+    "collection": "awards/venice",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "全球 Top 电影",
+    "description": "基于长年评分与观看数据沉淀的稳定长期榜单，不追逐每日热度波动。收录 IMDb、豆瓣、TMDB、Letterboxd、Trakt、烂番茄与 MDBList。",
+    "digest": "sha256:eb6653755e1b5293e2ebed3b9c426f54b0a47f2f551451e16fcaf931e378e114",
+    "path": "zh-Hans/global-top.page.json",
+    "collection": "charts/top",
+    "tags": [
+      "chart",
+      "top",
+      "global"
+    ]
+  },
+  {
+    "title": "全球热门",
+    "description": "汇聚 TMDB、Trakt、Letterboxd、Rotten Tomatoes、MDBList 五大平台各自的短期流行榜，一页看当下风向。",
+    "digest": "sha256:83f586c0d14dc43ea2acc862715f8b031f7e2de518038156c4434df9f4e8a20c",
+    "path": "zh-Hans/global-popular.page.json",
+    "collection": "popular/global",
+    "tags": [
+      "chart",
+      "popular",
+      "global"
+    ]
+  },
+  {
+    "title": "全球近期热门",
+    "description": "逐周变化的短期榜单——票房、正在上映、本周观看最多等，收录 IMDb、TMDB、Trakt、Letterboxd、烂番茄与 MDBList。",
+    "digest": "sha256:c06a6c909fcd5f1fb0eedf7b706c0f0f34b1bf5cff7e9bfa96c44699b2db6d68",
+    "path": "zh-Hans/global-recent.page.json",
+    "collection": "popular/recent",
+    "tags": [
+      "chart",
+      "popular",
+      "recent",
+      "global"
+    ]
+  },
+  {
+    "title": "百想艺术大赏十年",
+    "description": "2017–2026 年百想艺术大赏电视主要奖项获奖作品及获奖者。",
+    "digest": "sha256:21bdaf4f233c8b1ddcd43a172dc7122f26268a28c5069c2c954cfa41fb63e281",
+    "path": "zh-Hans/baeksang-10-years.page.json",
+    "collection": "tv/awards",
+    "tags": [
+      "award",
+      "tv",
+      "decade"
+    ]
+  },
+  {
+    "title": "百想艺术大赏",
+    "description": "2017–2026 年百想艺术大赏电视主要奖项历届获奖记录。",
+    "digest": "sha256:822f0eda00c20ded17a9119fbecf71c89ebddc9e6c8a934f11970e504cd7b68d",
+    "path": "zh-Hans/baeksang.page.json",
+    "collection": "tv/awards",
+    "tags": [
+      "award",
+      "tv"
+    ]
+  },
+  {
+    "title": "黄金时段艾美奖",
+    "description": "黄金时段艾美奖按奖项与按届整理的获奖记录。",
+    "digest": "sha256:77e48fbf203e1fcb473e25b6dc2b2ec65ba5187b7eb88d1f849d9b6304cd9f47",
+    "path": "zh-Hans/emmys.page.json",
+    "collection": "tv/awards",
+    "tags": [
+      "award",
+      "tv"
+    ]
+  },
+  {
+    "title": "金球奖十年",
+    "description": "金球奖近十届主要电视作品类获奖数据。",
+    "digest": "sha256:5edf825ce3be587bd8a8115e367307d60edb535aee253eed8134c9de6eec5b0a",
+    "path": "zh-Hans/golden-globes-10-years.page.json",
+    "collection": "tv/awards",
+    "tags": [
+      "award",
+      "tv",
+      "decade"
+    ]
+  },
+  {
+    "title": "金球奖",
+    "description": "金球奖主要电视作品类奖项获奖数据。",
+    "digest": "sha256:bb84cadc6701e66c7f8fab907c25eb3ab7d46954096c0d1c2f5a3145dbc7f5c4",
+    "path": "zh-Hans/golden-globes.page.json",
+    "collection": "tv/awards",
+    "tags": [
+      "award",
+      "tv"
+    ]
+  },
+  {
+    "title": "纽约时报 — 21世纪最佳100部电视剧",
+    "description": "《纽约时报》评选的21世纪最佳100部电视剧：先列 Top 10，再按首播年份每 5 年分组，由新到旧展示全部入选作品。",
+    "digest": "sha256:691cbe378e91943f31ef9c9ac97eb37c6462f7f18b65ece65743482b63ff8915",
+    "path": "zh-Hans/nyt-best-tv-shows-21st-century.page.json",
+    "collection": "tv/press",
+    "tags": [
+      "press",
+      "tv",
+      "nytimes"
+    ]
+  },
+  {
+    "title": "全球 Top 剧集",
+    "description": "基于长年评分与观看数据沉淀的稳定长期剧集榜单，不追逐每日热度波动。",
+    "digest": "sha256:c260d5009a1a0e130799971145580d4fb2cc989ae0a75f159da7bf79e9665cb7",
+    "path": "zh-Hans/global-top.page.json",
+    "collection": "tv/top",
+    "tags": [
+      "chart",
+      "top",
+      "global",
+      "tv"
+    ]
+  }
+]

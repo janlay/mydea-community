@@ -1,0 +1,807 @@
+[
+  {
+    "title": "金馬十年",
+    "description": "金馬獎最近十屆（2016–2025）主要獎項得獎名單。",
+    "digest": "sha256:45227caa0453f507a01cf53da57c69aaf539ce599c6ed6e872ac5072b449f28b",
+    "path": "zh/golden-horse-10-years.page.json",
+    "collection": "awards/golden-horse",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "金馬獎項",
+    "description": "金馬獎各獎項完整得獎名單。1964、1974 年未舉辦。",
+    "digest": "sha256:dc4250cba63acafe6c090473f143f9ce627b17141c2c11b6706c617605d0cdb7",
+    "path": "zh/golden-horse-prizes.page.json",
+    "collection": "awards/golden-horse",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "金鸡奖十年",
+    "description": "中国电影金鸡奖最近十个自然年内已举办届次的年度获奖页面。",
+    "digest": "sha256:b0cd9f9cf3f274986c463d9651d4a5335593e4b649c0cf9a7eadee04a43ddd28",
+    "path": "zh/golden-rooster-10-years.page.json",
+    "collection": "awards/golden-rooster",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "金鸡奖奖项",
+    "description": "中国电影金鸡奖主要奖项历届获奖页面。",
+    "digest": "sha256:b9c95b7290cd84c114e94ef7da3985d77aa3a5f4b0318b5479d6c5c37763876c",
+    "path": "zh/golden-rooster-prizes.page.json",
+    "collection": "awards/golden-rooster",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "金像獎十年",
+    "description": "香港電影金像獎近十年得獎名單。2021 年順延併入 2022 年。",
+    "digest": "sha256:f3bf70582727fa83f590eb3577f3ec94c0aaae5d71eb8c91c2707d36bfbbab2d",
+    "path": "zh/hkfa-10-years.page.json",
+    "collection": "awards/hkfa",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "金像獎項",
+    "description": "香港電影金像獎各獎項完整得獎名單。2021 年順延併入 2022 年舉行。",
+    "digest": "sha256:306591170a7a039a57dd2593042f11ccf96d9539fc6f2195132ed36c0a2153b5",
+    "path": "zh/hkfa-prizes.page.json",
+    "collection": "awards/hkfa",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "豆瓣 2016 年度榜单",
+    "description": "豆瓣 2016 年度榜单全部分类的收藏片单，共 50 个分类。",
+    "digest": "sha256:fc2739a883536ce4e748815c0fd8069843c73443c2c74000b1fa5f3abb52c6e6",
+    "path": "zh/douban-annual-2016.page.json",
+    "collection": "charts/annual",
+    "tags": [
+      "douban",
+      "chart",
+      "annual"
+    ]
+  },
+  {
+    "title": "豆瓣 2017 年度榜单",
+    "description": "豆瓣 2017 年度榜单全部分类的收藏片单，共 56 个分类。",
+    "digest": "sha256:95d4dc53ad1bf16081c2f53603829081d97b685611fdbdf21691dcfaf17129ae",
+    "path": "zh/douban-annual-2017.page.json",
+    "collection": "charts/annual",
+    "tags": [
+      "douban",
+      "chart",
+      "annual"
+    ]
+  },
+  {
+    "title": "豆瓣 2019 年度榜单",
+    "description": "豆瓣 2019 年度榜单全部分类的收藏片单，共 26 个分类。",
+    "digest": "sha256:8919b2e334fe968d8a50692c7ce85a14eee4cee29e57a53e91ed0bfd3116ec55",
+    "path": "zh/douban-annual-2019.page.json",
+    "collection": "charts/annual",
+    "tags": [
+      "douban",
+      "chart",
+      "annual"
+    ]
+  },
+  {
+    "title": "豆瓣 2020 年度榜单",
+    "description": "豆瓣 2020 年度榜单全部分类的收藏片单，共 22 个分类。",
+    "digest": "sha256:579a71c18c07059c6392604dae7d66da8d526d181927fff5162eac3c1d99f000",
+    "path": "zh/douban-annual-2020.page.json",
+    "collection": "charts/annual",
+    "tags": [
+      "douban",
+      "chart",
+      "annual"
+    ]
+  },
+  {
+    "title": "豆瓣 2021 年度榜单",
+    "description": "豆瓣 2021 年度榜单全部分类的收藏片单，共 24 个分类。",
+    "digest": "sha256:6a2fc0892a33d742340d2501e72ca9cdb814b0f18e1c9cbc539db8f01e934294",
+    "path": "zh/douban-annual-2021.page.json",
+    "collection": "charts/annual",
+    "tags": [
+      "douban",
+      "chart",
+      "annual"
+    ]
+  },
+  {
+    "title": "豆瓣 2022 年度榜单",
+    "description": "豆瓣 2022 年度榜单全部分类的收藏片单，共 28 个分类。",
+    "digest": "sha256:a4f3357f20a93363146de637bcc553748422e8357ee9904b45a52279c9ecdf6b",
+    "path": "zh/douban-annual-2022.page.json",
+    "collection": "charts/annual",
+    "tags": [
+      "douban",
+      "chart",
+      "annual"
+    ]
+  },
+  {
+    "title": "豆瓣 2023 年度榜单",
+    "description": "豆瓣 2023 年度榜单全部分类的收藏片单，共 26 个分类。",
+    "digest": "sha256:022a8a38a955dea00d643f804629862681a7cf7f21690838ddfbad61b20fb941",
+    "path": "zh/douban-annual-2023.page.json",
+    "collection": "charts/annual",
+    "tags": [
+      "douban",
+      "chart",
+      "annual"
+    ]
+  },
+  {
+    "title": "豆瓣 2024 年度榜单",
+    "description": "豆瓣 2024 年度榜单全部分类的收藏片单，共 26 个分类。",
+    "digest": "sha256:b0c58f3f41f0394f9a5d53171133849962f96e1b7a10c1dd7c04f42d420a50d8",
+    "path": "zh/douban-annual-2024.page.json",
+    "collection": "charts/annual",
+    "tags": [
+      "douban",
+      "chart",
+      "annual"
+    ]
+  },
+  {
+    "title": "豆瓣 2025 年度榜单",
+    "description": "豆瓣 2025 年度榜单全部分类的收藏片单，共 23 个分类。",
+    "digest": "sha256:ee03935f2e4c4eec63221ff1a0be5cc2c9ffced2731b480ca9c307d5e3301422",
+    "path": "zh/douban-annual-2025.page.json",
+    "collection": "charts/annual",
+    "tags": [
+      "douban",
+      "chart",
+      "annual"
+    ]
+  },
+  {
+    "title": "动作片榜单",
+    "description": "豆瓣动作片榜单，涵盖 12 个国家和地区。",
+    "digest": "sha256:389e0749768407380419639f6bf86d697eb74ebdad2dc454b179d65d26f08645",
+    "path": "zh/douban-genre-action.page.json",
+    "collection": "charts/genres",
+    "tags": [
+      "douban",
+      "chart",
+      "genre",
+      "action"
+    ]
+  },
+  {
+    "title": "冒险片榜单",
+    "description": "豆瓣冒险片榜单，涵盖 9 个国家和地区。",
+    "digest": "sha256:3b9f2dcd4a9bae7b3f1e56734a16ef2fc196ad05864cf0dd95d4db8901309fc8",
+    "path": "zh/douban-genre-adventure.page.json",
+    "collection": "charts/genres",
+    "tags": [
+      "douban",
+      "chart",
+      "genre",
+      "adventure"
+    ]
+  },
+  {
+    "title": "动画片榜单",
+    "description": "豆瓣动画片榜单，涵盖 7 个国家和地区。",
+    "digest": "sha256:890e119d2769ec50810f8c46790196962ee36449ae71fde83971bf8063255733",
+    "path": "zh/douban-genre-animation.page.json",
+    "collection": "charts/genres",
+    "tags": [
+      "douban",
+      "chart",
+      "genre",
+      "animation"
+    ]
+  },
+  {
+    "title": "传记片榜单",
+    "description": "豆瓣传记片榜单，涵盖 8 个国家和地区。",
+    "digest": "sha256:ada452d191358498f1a2433930d0235535dc3778be490fc916d41b5e85726f0f",
+    "path": "zh/douban-genre-biography.page.json",
+    "collection": "charts/genres",
+    "tags": [
+      "douban",
+      "chart",
+      "genre",
+      "biography"
+    ]
+  },
+  {
+    "title": "喜剧片榜单",
+    "description": "豆瓣喜剧片榜单，涵盖 19 个国家和地区。",
+    "digest": "sha256:c6f4a003c0c9358f5d470860802162d9c46267a83e68e09a56e91e785901c9fd",
+    "path": "zh/douban-genre-comedy.page.json",
+    "collection": "charts/genres",
+    "tags": [
+      "douban",
+      "chart",
+      "genre",
+      "comedy"
+    ]
+  },
+  {
+    "title": "犯罪片榜单",
+    "description": "豆瓣犯罪片榜单，涵盖 14 个国家和地区。",
+    "digest": "sha256:9bde5a0082320196d7e942870ba134fc345a06c651f25d0799ddc137f9c7694b",
+    "path": "zh/douban-genre-crime.page.json",
+    "collection": "charts/genres",
+    "tags": [
+      "douban",
+      "chart",
+      "genre",
+      "crime"
+    ]
+  },
+  {
+    "title": "灾难片榜单",
+    "description": "豆瓣灾难片榜单，涵盖 2 个国家和地区。",
+    "digest": "sha256:c4ab3c8ba93ec81289d966245b434c9188125e9fbe7596975ebb420890a3d6d2",
+    "path": "zh/douban-genre-disaster.page.json",
+    "collection": "charts/genres",
+    "tags": [
+      "douban",
+      "chart",
+      "genre",
+      "disaster"
+    ]
+  },
+  {
+    "title": "情色片榜单",
+    "description": "豆瓣情色片榜单，涵盖 8 个国家和地区。",
+    "digest": "sha256:14eeb4d35538d1e8105dffda998815c18a058aa7aebfa2601c470d682666bff4",
+    "path": "zh/douban-genre-erotic.page.json",
+    "collection": "charts/genres",
+    "tags": [
+      "douban",
+      "chart",
+      "genre",
+      "erotic"
+    ]
+  },
+  {
+    "title": "奇幻片榜单",
+    "description": "豆瓣奇幻片榜单，涵盖 9 个国家和地区。",
+    "digest": "sha256:7baeceb1b55fce88573364386b5c04d2644b356aa48688aa0014f6624fd21ea4",
+    "path": "zh/douban-genre-fantasy.page.json",
+    "collection": "charts/genres",
+    "tags": [
+      "douban",
+      "chart",
+      "genre",
+      "fantasy"
+    ]
+  },
+  {
+    "title": "历史片榜单",
+    "description": "豆瓣历史片榜单，涵盖 10 个国家和地区。",
+    "digest": "sha256:55533c5161561b7f19229850beaaa8bb04b4cd7055c8e7c9ba024de98c5852f7",
+    "path": "zh/douban-genre-history.page.json",
+    "collection": "charts/genres",
+    "tags": [
+      "douban",
+      "chart",
+      "genre",
+      "history"
+    ]
+  },
+  {
+    "title": "恐怖片榜单",
+    "description": "豆瓣恐怖片榜单，涵盖 11 个国家和地区。",
+    "digest": "sha256:26816b88d1b3ab8816ecaa3608c5df52b157a65d3a488538f64e755e64f3850f",
+    "path": "zh/douban-genre-horror.page.json",
+    "collection": "charts/genres",
+    "tags": [
+      "douban",
+      "chart",
+      "genre",
+      "horror"
+    ]
+  },
+  {
+    "title": "音乐片榜单",
+    "description": "豆瓣音乐片榜单，涵盖 5 个国家和地区。",
+    "digest": "sha256:1908795cd036103dc20e7f4cb963768f38d5f6eb9b516f3fad11accfa6c2c53c",
+    "path": "zh/douban-genre-music.page.json",
+    "collection": "charts/genres",
+    "tags": [
+      "douban",
+      "chart",
+      "genre",
+      "music"
+    ]
+  },
+  {
+    "title": "歌舞片榜单",
+    "description": "豆瓣歌舞片榜单，涵盖 2 个国家和地区。",
+    "digest": "sha256:435ba83b213fcb181e9182807e6372936213a0a5b98737f4e3ba7c43c1729048",
+    "path": "zh/douban-genre-musical.page.json",
+    "collection": "charts/genres",
+    "tags": [
+      "douban",
+      "chart",
+      "genre",
+      "musical"
+    ]
+  },
+  {
+    "title": "悬疑片榜单",
+    "description": "豆瓣悬疑片榜单，涵盖 13 个国家和地区。",
+    "digest": "sha256:5c43d52b604bcba33d417c4949108407646601da4096d5b86a80281526b3a7ad",
+    "path": "zh/douban-genre-mystery.page.json",
+    "collection": "charts/genres",
+    "tags": [
+      "douban",
+      "chart",
+      "genre",
+      "mystery"
+    ]
+  },
+  {
+    "title": "爱情片榜单",
+    "description": "豆瓣爱情片榜单，涵盖 18 个国家和地区。",
+    "digest": "sha256:be003c5675acacb5065c40e17c266c01bba25b65f4f81cc3f975d42f2e80222b",
+    "path": "zh/douban-genre-romance.page.json",
+    "collection": "charts/genres",
+    "tags": [
+      "douban",
+      "chart",
+      "genre",
+      "romance"
+    ]
+  },
+  {
+    "title": "科幻片榜单",
+    "description": "豆瓣科幻片榜单，涵盖 8 个国家和地区。",
+    "digest": "sha256:05bf3122c2157053dc9e90a26ce83c94a016d2e3c4445f32fa3783a3941e496b",
+    "path": "zh/douban-genre-scifi.page.json",
+    "collection": "charts/genres",
+    "tags": [
+      "douban",
+      "chart",
+      "genre",
+      "scifi"
+    ]
+  },
+  {
+    "title": "惊悚片榜单",
+    "description": "豆瓣惊悚片榜单，涵盖 14 个国家和地区。",
+    "digest": "sha256:99fd854ac174e74be1db7188f6b3bb8b03643e84cc8a7aebe4ec75b23b419ade",
+    "path": "zh/douban-genre-thriller.page.json",
+    "collection": "charts/genres",
+    "tags": [
+      "douban",
+      "chart",
+      "genre",
+      "thriller"
+    ]
+  },
+  {
+    "title": "战争片榜单",
+    "description": "豆瓣战争片榜单，涵盖 11 个国家和地区。",
+    "digest": "sha256:8f5521666a11ae03311cf43a4f128d36d79ad64425d7139b32e487c422cd21b1",
+    "path": "zh/douban-genre-war.page.json",
+    "collection": "charts/genres",
+    "tags": [
+      "douban",
+      "chart",
+      "genre",
+      "war"
+    ]
+  },
+  {
+    "title": "西部片榜单",
+    "description": "豆瓣西部片榜单，涵盖 2 个国家和地区。",
+    "digest": "sha256:975838919c854d04e918b6a699562da4e26d2775d5de3ad2c978e63c1cd47992",
+    "path": "zh/douban-genre-western.page.json",
+    "collection": "charts/genres",
+    "tags": [
+      "douban",
+      "chart",
+      "genre",
+      "western"
+    ]
+  },
+  {
+    "title": "武侠片榜单",
+    "description": "豆瓣武侠片榜单，涵盖 2 个国家和地区。",
+    "digest": "sha256:9b85bcf5e92221d40ed5f835c007e73370b420970a9a7265817a5f69ede1523c",
+    "path": "zh/douban-genre-wuxia.page.json",
+    "collection": "charts/genres",
+    "tags": [
+      "douban",
+      "chart",
+      "genre",
+      "wuxia"
+    ]
+  },
+  {
+    "title": "豆瓣澳大利亚类型片",
+    "description": "豆瓣澳大利亚各类型片榜单，涵盖 9 个类型。",
+    "digest": "sha256:44ad23ccdf474aa98ba79e7274f5e7e42acec8e9f8c19d497035d7b928ec451a",
+    "path": "zh/douban-region-australia.page.json",
+    "collection": "charts/region",
+    "tags": [
+      "douban",
+      "chart",
+      "region",
+      "australia"
+    ]
+  },
+  {
+    "title": "豆瓣加拿大类型片",
+    "description": "豆瓣加拿大各类型片榜单，涵盖 11 个类型。",
+    "digest": "sha256:7635c3e40cb60ac97b0a23d80b1bc44d6e4dd3c1cc95263b5d284ebf2df374ce",
+    "path": "zh/douban-region-canada.page.json",
+    "collection": "charts/region",
+    "tags": [
+      "douban",
+      "chart",
+      "region",
+      "canada"
+    ]
+  },
+  {
+    "title": "豆瓣华语类型片",
+    "description": "豆瓣华语各类型片榜单，涵盖 15 个类型。",
+    "digest": "sha256:07d87d8c8e43ee8a3275fb924c19ae878570156f60299f22be33a671fe61f03e",
+    "path": "zh/douban-region-chinese.page.json",
+    "collection": "charts/region",
+    "tags": [
+      "douban",
+      "chart",
+      "region",
+      "chinese"
+    ]
+  },
+  {
+    "title": "豆瓣欧洲类型片",
+    "description": "豆瓣欧洲各类型片榜单，涵盖 19 个类型。",
+    "digest": "sha256:cdbbf2b7d959fc01aaf0acc2aa25283c590a8255bffa81c9a4df2292b65e656f",
+    "path": "zh/douban-region-europe.page.json",
+    "collection": "charts/region",
+    "tags": [
+      "douban",
+      "chart",
+      "region",
+      "europe"
+    ]
+  },
+  {
+    "title": "豆瓣法国类型片",
+    "description": "豆瓣法国各类型片榜单，涵盖 16 个类型。",
+    "digest": "sha256:d029c95a9a335397b99ac1054216c9597db5c58e5c3124d5efd234a2f0026e2d",
+    "path": "zh/douban-region-france.page.json",
+    "collection": "charts/region",
+    "tags": [
+      "douban",
+      "chart",
+      "region",
+      "france"
+    ]
+  },
+  {
+    "title": "豆瓣德国类型片",
+    "description": "豆瓣德国各类型片榜单，涵盖 12 个类型。",
+    "digest": "sha256:d979808c84877aa53dfd5388a0904edc7de4aca06547fba25d029d08653a8e52",
+    "path": "zh/douban-region-germany.page.json",
+    "collection": "charts/region",
+    "tags": [
+      "douban",
+      "chart",
+      "region",
+      "germany"
+    ]
+  },
+  {
+    "title": "豆瓣中国香港类型片",
+    "description": "豆瓣中国香港各类型片榜单，涵盖 6 个类型。",
+    "digest": "sha256:dfe2509f29c9f8a2ae786dde71782d18460cd2ad3b8340d2231ccc79fec09185",
+    "path": "zh/douban-region-hong-kong.page.json",
+    "collection": "charts/region",
+    "tags": [
+      "douban",
+      "chart",
+      "region",
+      "hong-kong"
+    ]
+  },
+  {
+    "title": "豆瓣印度类型片",
+    "description": "豆瓣印度各类型片榜单，涵盖 4 个类型。",
+    "digest": "sha256:4df84764431b71b1b5956ae221f88c543be27ec19b55af6c8185c810d36bb9f9",
+    "path": "zh/douban-region-india.page.json",
+    "collection": "charts/region",
+    "tags": [
+      "douban",
+      "chart",
+      "region",
+      "india"
+    ]
+  },
+  {
+    "title": "豆瓣爱尔兰类型片",
+    "description": "豆瓣爱尔兰各类型片榜单，涵盖 2 个类型。",
+    "digest": "sha256:faf7fb1ab70b5d08e30db341f050f73de6e6eb73cd95c8ebd3130b4da882e58e",
+    "path": "zh/douban-region-ireland.page.json",
+    "collection": "charts/region",
+    "tags": [
+      "douban",
+      "chart",
+      "region",
+      "ireland"
+    ]
+  },
+  {
+    "title": "豆瓣意大利类型片",
+    "description": "豆瓣意大利各类型片榜单，涵盖 9 个类型。",
+    "digest": "sha256:115d08555bbdc720e8f1537e43566cca4cc9cb23156024f9a254ef282bcd8bea",
+    "path": "zh/douban-region-italy.page.json",
+    "collection": "charts/region",
+    "tags": [
+      "douban",
+      "chart",
+      "region",
+      "italy"
+    ]
+  },
+  {
+    "title": "豆瓣日本类型片",
+    "description": "豆瓣日本各类型片榜单，涵盖 15 个类型。",
+    "digest": "sha256:b8e21a451b6c35195d05da8cc769322e7e5c54c901f9203814d4c54f5ad232b5",
+    "path": "zh/douban-region-japan.page.json",
+    "collection": "charts/region",
+    "tags": [
+      "douban",
+      "chart",
+      "region",
+      "japan"
+    ]
+  },
+  {
+    "title": "豆瓣韩国类型片",
+    "description": "豆瓣韩国各类型片榜单，涵盖 11 个类型。",
+    "digest": "sha256:5f47ae5331329ba6e0454246672cf867414c8f241dad0becf27c4664fe3df602",
+    "path": "zh/douban-region-korea.page.json",
+    "collection": "charts/region",
+    "tags": [
+      "douban",
+      "chart",
+      "region",
+      "korea"
+    ]
+  },
+  {
+    "title": "豆瓣中国大陆类型片",
+    "description": "豆瓣中国大陆各类型片榜单，涵盖 4 个类型。",
+    "digest": "sha256:55afddc36f4c81bf653a5eedca4099bb277a26dcf29105adc0ed1cc0f8401b08",
+    "path": "zh/douban-region-mainland-china.page.json",
+    "collection": "charts/region",
+    "tags": [
+      "douban",
+      "chart",
+      "region",
+      "mainland-china"
+    ]
+  },
+  {
+    "title": "豆瓣俄罗斯类型片",
+    "description": "豆瓣俄罗斯各类型片榜单，涵盖 1 个类型。",
+    "digest": "sha256:916c15e75db08cfe4fab9acdb6e3e5b438cdb6104b98486cc069f6f63663d6ac",
+    "path": "zh/douban-region-russia.page.json",
+    "collection": "charts/region",
+    "tags": [
+      "douban",
+      "chart",
+      "region",
+      "russia"
+    ]
+  },
+  {
+    "title": "豆瓣西班牙类型片",
+    "description": "豆瓣西班牙各类型片榜单，涵盖 6 个类型。",
+    "digest": "sha256:757b4e192ad227149d17faf7ad7f850fcd495a4e8eefa3733149ae37b85ba517",
+    "path": "zh/douban-region-spain.page.json",
+    "collection": "charts/region",
+    "tags": [
+      "douban",
+      "chart",
+      "region",
+      "spain"
+    ]
+  },
+  {
+    "title": "豆瓣瑞典类型片",
+    "description": "豆瓣瑞典各类型片榜单，涵盖 3 个类型。",
+    "digest": "sha256:38d34d70d47d6e31dca0414268dae6c6fdc0a4e1684ebe25ac035488b169ea02",
+    "path": "zh/douban-region-sweden.page.json",
+    "collection": "charts/region",
+    "tags": [
+      "douban",
+      "chart",
+      "region",
+      "sweden"
+    ]
+  },
+  {
+    "title": "豆瓣中国台湾类型片",
+    "description": "豆瓣中国台湾各类型片榜单，涵盖 3 个类型。",
+    "digest": "sha256:57e51e4890d19dd3160dc15787d59b74122c98974e42e258e4fb6e31bf61be4b",
+    "path": "zh/douban-region-taiwan.page.json",
+    "collection": "charts/region",
+    "tags": [
+      "douban",
+      "chart",
+      "region",
+      "taiwan"
+    ]
+  },
+  {
+    "title": "豆瓣泰国类型片",
+    "description": "豆瓣泰国各类型片榜单，涵盖 3 个类型。",
+    "digest": "sha256:e3ea7e9dc521d7870c28da29e9802de399f2d8ff76ab6c1829d627def87a903c",
+    "path": "zh/douban-region-thailand.page.json",
+    "collection": "charts/region",
+    "tags": [
+      "douban",
+      "chart",
+      "region",
+      "thailand"
+    ]
+  },
+  {
+    "title": "豆瓣英国类型片",
+    "description": "豆瓣英国各类型片榜单，涵盖 16 个类型。",
+    "digest": "sha256:21bd46140b6f5748ffd721a08fac4ceb96d77e05d4be9840330a838ec50fc226",
+    "path": "zh/douban-region-uk.page.json",
+    "collection": "charts/region",
+    "tags": [
+      "douban",
+      "chart",
+      "region",
+      "uk"
+    ]
+  },
+  {
+    "title": "豆瓣美国类型片",
+    "description": "豆瓣美国各类型片榜单，涵盖 19 个类型。",
+    "digest": "sha256:eb3b11f4abad04b80647241f4c65aab6456d1223b540bc431e00e97a40bd85f5",
+    "path": "zh/douban-region-usa.page.json",
+    "collection": "charts/region",
+    "tags": [
+      "douban",
+      "chart",
+      "region",
+      "usa"
+    ]
+  },
+  {
+    "title": "豆瓣高分类型片",
+    "description": "豆瓣各类型片的高分经典榜。共 26 个类型。",
+    "digest": "sha256:75e202c4f007f23a31c14bb7a90d4dae344201a39ff3a4075031f7b2eda39342",
+    "path": "zh/douban-genres.page.json",
+    "collection": "charts/top",
+    "tags": [
+      "douban",
+      "top",
+      "genre"
+    ]
+  },
+  {
+    "title": "冷门佳作类型片",
+    "description": "豆瓣各类型片的冷门佳作榜。共 19 个类型。",
+    "digest": "sha256:481071ea0ffa1a3f26c7763a58ee77911a55cb103005eb39539ef50a483c40bc",
+    "path": "zh/hidden-gems.page.json",
+    "collection": "obscure/douban",
+    "tags": [
+      "douban",
+      "obscure",
+      "genre"
+    ]
+  },
+  {
+    "title": "豆瓣年度纪念徽章",
+    "description": "豆瓣徽章计划中 7 个年度电影纪念徽章的收藏片单。",
+    "digest": "sha256:89f6bdaeb6a774cbae6aa9e3e1b0f056a5869bfbba39b75ae80f016e3a601590",
+    "path": "zh/douban-anniversary-badges.page.json",
+    "collection": "plans/douban",
+    "tags": [
+      "douban",
+      "badge",
+      "plan",
+      "anniversary"
+    ]
+  },
+  {
+    "title": "豆瓣类型片徽章",
+    "description": "豆瓣徽章计划中 12 个类型片徽章的收藏片单。",
+    "digest": "sha256:79a4f869df86a2441aa5fa87341161b8927c979e8b8d664c4d37d95082e5d637",
+    "path": "zh/douban-genre-badges.page.json",
+    "collection": "plans/douban",
+    "tags": [
+      "douban",
+      "badge",
+      "plan",
+      "genre"
+    ]
+  },
+  {
+    "title": "豆瓣大师徽章",
+    "description": "豆瓣徽章计划中 13 位电影大师与影人徽章的收藏片单。",
+    "digest": "sha256:856b198789de96eb463551702cc1f45762301077e494cf5da6ad4dc72db29b62",
+    "path": "zh/douban-master-badges.page.json",
+    "collection": "plans/douban",
+    "tags": [
+      "douban",
+      "badge",
+      "plan"
+    ]
+  },
+  {
+    "title": "豆瓣系列徽章",
+    "description": "豆瓣徽章计划中 3 个电影系列徽章的收藏片单。",
+    "digest": "sha256:ed908284ddde3097d99c8684d3bf707c67f5a1735c9d0b8a4c295cbcf49ee3f5",
+    "path": "zh/douban-series-badges.page.json",
+    "collection": "plans/douban",
+    "tags": [
+      "douban",
+      "badge",
+      "plan",
+      "series"
+    ]
+  },
+  {
+    "title": "近期热门类型片",
+    "description": "豆瓣各类型片的近期热门榜。共 12 个类型。",
+    "digest": "sha256:d4894cca67e3142e9a9da0bfbb42307f62d5e8b58e6d5294d67d0a99ef2940be",
+    "path": "zh/recent-hot.page.json",
+    "collection": "popular/douban",
+    "tags": [
+      "douban",
+      "popular",
+      "genre"
+    ]
+  },
+  {
+    "title": "豆瓣热门榜单",
+    "description": "豆瓣电影与剧集的热门榜单，共 9 个分类。",
+    "digest": "sha256:31706be24b5cdc4fbc3dbef952571ea38f0fa36e6bab1360080857a598c1d223",
+    "path": "zh/douban-popular.page.json",
+    "collection": "popular/recent",
+    "tags": [
+      "douban",
+      "popular",
+      "chart"
+    ]
+  },
+  {
+    "title": "热门类型片",
+    "description": "豆瓣各类型片的近期热门榜，共 12 个类型。",
+    "digest": "sha256:0ed1702904d06edf8d33e3f0cbe830470c0dbe7d77b984826491b88a4312ebed",
+    "path": "zh/recent-genres.page.json",
+    "collection": "popular/recent",
+    "tags": [
+      "douban",
+      "popular",
+      "genre"
+    ]
+  }
+]

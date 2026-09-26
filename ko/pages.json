@@ -1,0 +1,404 @@
+[
+  {
+    "title": "백상예술대상 10년",
+    "description": "2017–2026년 백상예술대상 영화 주요 수상작과 수상자.",
+    "digest": "sha256:aae8f755e53cce6763c439711a60eac00b05b8931bc37c964723c312cc8bb7f4",
+    "path": "ko/baeksang-10-years.page.json",
+    "collection": "awards/baeksang",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "백상예술대상 수상 부문",
+    "description": "2017–2026년 백상예술대상 영화 주요 부문별 수상 기록.",
+    "digest": "sha256:af19efbc236cd23b874f9517d8d0a7dfe967300197173c976ebda14a63dea00b",
+    "path": "ko/baeksang-prizes.page.json",
+    "collection": "awards/baeksang",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "부산국제영화제 10년",
+    "description": "부산국제영화제 최근 10회(2016–2025)의 주요 경쟁상 수상작.",
+    "digest": "sha256:85bf60b7086628366c4e4f87bbab633881cca95bf1d4e6d693b3f0525b8725b9",
+    "path": "ko/biff-10-years.page.json",
+    "collection": "awards/biff",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "부산국제영화제 시상",
+    "description": "부산국제영화제 주요 경쟁상과 역대 수상작.",
+    "digest": "sha256:3f8a0941bbc6685ce942d6da89c3a56e7966aa03cb7742af19ab6fe8994afbc4",
+    "path": "ko/biff-prizes.page.json",
+    "collection": "awards/biff",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "청룡영화상 10년",
+    "description": "청룡영화상 최근 10년 수상작.",
+    "digest": "sha256:edfd78438ac1dbdd91f1cd0e85dfb40ed717f8acc24a367dcfc96ed3a785b99b",
+    "path": "ko/blue-dragon-10-years.page.json",
+    "collection": "awards/blue-dragon",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "청룡영화상 수상 부문",
+    "description": "청룡영화상 부문별 전체 수상 기록.",
+    "digest": "sha256:d8c2ebb0ff9a45bd129e8ad826e3fc3c119c8e2695a42a8dfc41d09bed7b039b",
+    "path": "ko/blue-dragon-awards.page.json",
+    "collection": "awards/blue-dragon",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "칸 영화제 최근 10년",
+    "description": "칸 영화제의 최근 10개 역년 중 실제 개최된 영화제 수상작입니다. 2020년은 영화제가 취소되어 포함되지 않습니다.",
+    "digest": "sha256:241e9ab976ab76591e426f5f9699909f89aff2f2e0c100041c4b6ab1aa948dfd",
+    "path": "ko/cannes-10-years.page.json",
+    "collection": "awards/cannes",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "칸 — 황금카메라상",
+    "description": "칸 영화제 황금카메라상의 역대 수상작입니다.",
+    "digest": "sha256:31397b2e6052c171770da2788ecb61aeb0ddbec8568769bc7bf28f90fbb6dd71",
+    "path": "ko/cannes-camera-dor.page.json",
+    "collection": "awards/cannes",
+    "tags": [
+      "award",
+      "cannes",
+      "prize"
+    ]
+  },
+  {
+    "title": "칸 — CST 기술상",
+    "description": "칸 영화제 고등기술위원회(CST) 기술상의 역대 수상작입니다.",
+    "digest": "sha256:77e6b9592582097d7384984fc16bca929c86d3a1a0b9fa01ef2d5e67562d062b",
+    "path": "ko/cannes-cst.page.json",
+    "collection": "awards/cannes",
+    "tags": [
+      "award",
+      "cannes",
+      "prize"
+    ]
+  },
+  {
+    "title": "칸 — 장편영화상",
+    "description": "칸 영화제 장편영화 부문의 역대 수상작입니다.",
+    "digest": "sha256:9785fdfafe501a9fdcb92318474a5399721c03a2fe38b7e5bceabe3535d6481d",
+    "path": "ko/cannes-feature-films.page.json",
+    "collection": "awards/cannes",
+    "tags": [
+      "award",
+      "cannes",
+      "prize"
+    ]
+  },
+  {
+    "title": "칸 — 라 시네프",
+    "description": "칸 영화제 Cinéfondation 및 La Cinef의 역대 수상작입니다.",
+    "digest": "sha256:1ac03933cf9b4d73adf7e480885487ca9777310916e486c69df9a038b430c745",
+    "path": "ko/cannes-la-cinef.page.json",
+    "collection": "awards/cannes",
+    "tags": [
+      "award",
+      "cannes",
+      "prize"
+    ]
+  },
+  {
+    "title": "칸 — 단편영화상",
+    "description": "칸 영화제 단편영화 부문의 역대 수상작입니다.",
+    "digest": "sha256:b136c9825e3c0c2225bfc8f504ad3d59115632fa68fe815fac80e5756afcc97e",
+    "path": "ko/cannes-short-films.page.json",
+    "collection": "awards/cannes",
+    "tags": [
+      "award",
+      "cannes",
+      "prize"
+    ]
+  },
+  {
+    "title": "칸 — 주목할 만한 시선",
+    "description": "칸 영화제 주목할 만한 시선 부문의 역대 수상작입니다.",
+    "digest": "sha256:4efabbec532d414fd97cb39a1ef11eb5089a4db2d4977f98a392fb8247326e51",
+    "path": "ko/cannes-un-certain-regard.page.json",
+    "collection": "awards/cannes",
+    "tags": [
+      "award",
+      "cannes",
+      "prize"
+    ]
+  },
+  {
+    "title": "골든 글로브 10년",
+    "description": "골든 글로브 최근 10회 주요 영화 부문 수상 데이터.",
+    "digest": "sha256:f7de4b1eef286530f4b8889696947a9e15cebdea07b17355a14244b0a5ce1712",
+    "path": "ko/golden-globes-10-years.page.json",
+    "collection": "awards/golden-globes",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "골든 글로브 부문별",
+    "description": "골든 글로브 주요 영화 부문 수상 데이터.",
+    "digest": "sha256:b7183200adb5923686b2d43ab6631c376a4f4a0aff51057b4718699bfeed9ff5",
+    "path": "ko/golden-globes-prizes.page.json",
+    "collection": "awards/golden-globes",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "금마장 — 최근 10회",
+    "description": "최근 10회(2016–2025년) 금마장 주요 부문 수상 목록.",
+    "digest": "sha256:b63e3b1134b1658b63a9e6c823a3d9e698626fca32eea2202ab18806cf725dee",
+    "path": "ko/golden-horse-10-years.page.json",
+    "collection": "awards/golden-horse",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "금마장 — 부문별",
+    "description": "금마장 전 부문에 걸친 전체 수상 목록. 1964년과 1974년은 개최되지 않았다.",
+    "digest": "sha256:dc85e5381278bb6ab5b37fa1581038cb0116377f8c0fb88d09fca3f3b4118816",
+    "path": "ko/golden-horse-prizes.page.json",
+    "collection": "awards/golden-horse",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "홍콩 영화 금상장 — 최근 10년",
+    "description": "홍콩 영화 금상장 최근 10년 수상작. 2021년은 2022년으로 통합되어 열리지 않았습니다.",
+    "digest": "sha256:c70a253386abd12071669c5ba6fdfa60439f267b6918f80e7bc8d689e8590937",
+    "path": "ko/hkfa-10-years.page.json",
+    "collection": "awards/hkfa",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "홍콩 영화 금상장 — 부문별",
+    "description": "홍콩 영화 금상장 부문별 전체 수상 기록. 2021년은 2022년으로 통합되어 열리지 않았습니다.",
+    "digest": "sha256:95c8de0a077576a7eecd044654e3e1c707b41cd5623227898d66c189c730ea2f",
+    "path": "ko/hkfa-prizes.page.json",
+    "collection": "awards/hkfa",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "아카데미상 10년",
+    "description": "최근 10회 아카데미상 주요 영화 부문의 수상작과 수상자.",
+    "digest": "sha256:62b877b51511e3cb0519b4a384c222311f28eef6339303310e9407893fc26296",
+    "path": "ko/oscars-10-years.page.json",
+    "collection": "awards/oscars",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "아카데미상 부문별",
+    "description": "아카데미상 주요 영화 부문의 최근 10회 수상 기록.",
+    "digest": "sha256:adf15136cce5b3fbdc3eeb48bd8033fb2feac3bf5362291eaff91320f2cfd5ae",
+    "path": "ko/oscars-prizes.page.json",
+    "collection": "awards/oscars",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "선댄스 영화제 10년",
+    "description": "선댄스 영화제 최근 10회에서 선정된 4개 핵심 장편 경쟁 부문 심사위원대상 수상작.",
+    "digest": "sha256:c97c1d478589f1043ee1b7b503c757168175a5ba88b60cda4cd3d5be0b93bc03",
+    "path": "ko/sundance-10-years.page.json",
+    "collection": "awards/sundance",
+    "tags": [
+      "award",
+      "park-city",
+      "decade"
+    ]
+  },
+  {
+    "title": "선댄스 영화제 수상 부문",
+    "description": "선댄스 영화제 4개 핵심 장편 경쟁 부문 심사위원대상의 역대 수상작.",
+    "digest": "sha256:79a2566eb6cb49e70bcb8a8038d463cda614665238288e8123260fd15e972dcb",
+    "path": "ko/sundance-prizes.page.json",
+    "collection": "awards/sundance",
+    "tags": [
+      "award",
+      "park-city",
+      "prize"
+    ]
+  },
+  {
+    "title": "토론토 10년",
+    "description": "토론토국제영화제의 최근 10회 완료된 주요 영화상 수상작(2016–2025).",
+    "digest": "sha256:8d6c94cbbe1dafb8a9d758acaebdb285f74811ce91d25c85c4e064658cfdf4be",
+    "path": "ko/tiff-10-years.page.json",
+    "collection": "awards/tiff",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "토론토 영화제 수상작",
+    "description": "토론토국제영화제 주요 영화상의 역대 수상작.",
+    "digest": "sha256:5b5a3d89daef81e7a9468561d383c6c9233e91ff25c8a88302872a6fa9fa1282",
+    "path": "ko/tiff-prizes.page.json",
+    "collection": "awards/tiff",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "글로벌 Top 영화",
+    "description": "매일 바뀌는 인기 변동이 아니라 오랜 평점·시청 데이터에 기반한 안정적인 장기 순위입니다. IMDb, TMDB, Letterboxd, Trakt, Rotten Tomatoes, MDBList를 수록합니다.",
+    "digest": "sha256:cf8bc0ccb8bbe7eaa3de0951ef4654fa9d8f5b784029b4496c1970ccfefd55e9",
+    "path": "ko/global-top.page.json",
+    "collection": "charts/top",
+    "tags": [
+      "chart",
+      "top",
+      "global"
+    ]
+  },
+  {
+    "title": "글로벌 인기",
+    "description": "TMDB, Trakt, Letterboxd, Rotten Tomatoes, MDBList 5대 플랫폼의 단기 인기 차트를 한 페이지에 모았습니다.",
+    "digest": "sha256:aa2c4f2a0c69358ec6a14fdb163715ea1d37c5a7fb1e7a3cf165147dbfb1eea8",
+    "path": "ko/global-popular.page.json",
+    "collection": "popular/global",
+    "tags": [
+      "chart",
+      "popular",
+      "global"
+    ]
+  },
+  {
+    "title": "글로벌 최신 인기",
+    "description": "매주 바뀌는 단기 순위 — 박스오피스, 현재 상영작, 이번 주 최다 시청 등. IMDb, TMDB, Trakt, Letterboxd, Rotten Tomatoes, MDBList를 수록합니다.",
+    "digest": "sha256:a05218fb7b815a99c34a0c1ef5e6e8deb41404775b2902b341913f57911d01f3",
+    "path": "ko/global-recent.page.json",
+    "collection": "popular/recent",
+    "tags": [
+      "chart",
+      "popular",
+      "recent",
+      "global"
+    ]
+  },
+  {
+    "title": "백상예술대상 10년",
+    "description": "2017–2026년 백상예술대상 방송 주요 수상작과 수상자.",
+    "digest": "sha256:413630803ed9f95466baf1f3484a3a29af917d3c6f20ce9d4b823778ea2e976a",
+    "path": "ko/baeksang-10-years.page.json",
+    "collection": "tv/awards",
+    "tags": [
+      "award",
+      "tv",
+      "decade"
+    ]
+  },
+  {
+    "title": "백상예술대상",
+    "description": "2017–2026년 백상예술대상 방송 부문별 수상 기록.",
+    "digest": "sha256:7cd4e2f1b1705cb17a93bb62a03d5dc36ff71a2beefcc0259bc6bee27cbc86c6",
+    "path": "ko/baeksang.page.json",
+    "collection": "tv/awards",
+    "tags": [
+      "award",
+      "tv"
+    ]
+  },
+  {
+    "title": "프라임타임 에미상",
+    "description": "프라임타임 에미상 부문별·회차별 수상 기록.",
+    "digest": "sha256:4dbc67a2f0855193a3dfb0398cfc93c496aa06f1a6acdd82896f6a4aa75c1837",
+    "path": "ko/emmys.page.json",
+    "collection": "tv/awards",
+    "tags": [
+      "award",
+      "tv"
+    ]
+  },
+  {
+    "title": "골든 글로브 10년",
+    "description": "골든 글로브 최근 10회 주요 텔레비전 작품 부문 수상 데이터.",
+    "digest": "sha256:9086956a8863023ff162e7fda68832f6b5e7ac587a22f103119dd9bd3aa24d30",
+    "path": "ko/golden-globes-10-years.page.json",
+    "collection": "tv/awards",
+    "tags": [
+      "award",
+      "tv",
+      "decade"
+    ]
+  },
+  {
+    "title": "골든 글로브상",
+    "description": "골든 글로브 주요 텔레비전 작품 부문 수상 데이터.",
+    "digest": "sha256:972fc1e99ea585b0f91081b6db150f0c4552d576c69fe67b285185029f2b2eaa",
+    "path": "ko/golden-globes.page.json",
+    "collection": "tv/awards",
+    "tags": [
+      "award",
+      "tv"
+    ]
+  },
+  {
+    "title": "뉴욕 타임스 — 21세기 최고의 TV 프로그램 100선",
+    "description": "뉴욕 타임스가 선정한 21세기 최고의 TV 프로그램 100선. Top 10에 이어 전체 작품을 첫 방영 연도 기준 5년 단위로 최신순으로 묶었습니다.",
+    "digest": "sha256:59d472c880a3f0a952bd8ca113dded0d6f5a0c9b17b57c559c5b9fe2ef38e2e4",
+    "path": "ko/nyt-best-tv-shows-21st-century.page.json",
+    "collection": "tv/press",
+    "tags": [
+      "press",
+      "tv",
+      "nytimes"
+    ]
+  },
+  {
+    "title": "글로벌 Top 드라마",
+    "description": "일간 인기 변동이 아닌, 오랜 기간의 평점과 시청 데이터로 쌓인 안정적인 장기 드라마 차트입니다.",
+    "digest": "sha256:8cbb9de41de9faaab97476888d71266dd5c0cb919c7e69281addb44823aa5414",
+    "path": "ko/global-top.page.json",
+    "collection": "tv/top",
+    "tags": [
+      "chart",
+      "top",
+      "global",
+      "tv"
+    ]
+  }
+]
