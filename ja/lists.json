@@ -1,0 +1,103 @@
+[
+  {
+    "title": "百想芸術大賞",
+    "description": "百想芸術大賞",
+    "digest": "sha256:9b26d044fbcdbb92c01757e04482b7a9603b83e0016ad017875385e5aa865cee",
+    "path": "ja/baeksang.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "釜山国際映画祭",
+    "description": "釜山国際映画祭",
+    "digest": "sha256:2fca4591af62d44b0902d8a1064fc31334a600ea1c6ff7b34b2c2012e36f8603",
+    "path": "ja/biff.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "青龍映画賞",
+    "description": "青龍映画賞",
+    "digest": "sha256:ea3228dcfea37c88cb67b3c8b2263dafba043d50d75d662f7c56f9733a973bd6",
+    "path": "ja/blue-dragon.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "カンヌ国際映画祭",
+    "description": "カンヌ国際映画祭",
+    "digest": "sha256:fd7fd02adb24adc5424ea697df85ea89c940004c35f8fdc974f011365c3e1c4a",
+    "path": "ja/cannes.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "プライムタイム・エミー賞",
+    "description": "プライムタイム・エミー賞",
+    "digest": "sha256:5dfec9ba9f381bf0579d9f06f80472dc97fc7781d64d0a6201264c86d7d466be",
+    "path": "ja/emmys.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "ゴールデングローブ賞",
+    "description": "ゴールデングローブ賞",
+    "digest": "sha256:6d90b448b72d23a055c7cb50c605966d3d9a4d50822b30afd6d3df614c34bbc4",
+    "path": "ja/golden-globes.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "金馬奨",
+    "description": "金馬奨",
+    "digest": "sha256:c08feda5cc664cb850160fab21b52e56b3e366da74b77cab8f194ea5371ad0db",
+    "path": "ja/golden-horse.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "香港電影金像奨",
+    "description": "香港電影金像奨",
+    "digest": "sha256:8516b31194f602f77b041a4c6f71d5e239be447e013f4beef8576c28f8fd84ef",
+    "path": "ja/hkfa.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "アカデミー賞",
+    "description": "アカデミー賞",
+    "digest": "sha256:a1af0dc65a9c01ef5c05074ab1cb80eb9a12eb7c4f8acce42396458d9d9288eb",
+    "path": "ja/oscars.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "サンダンス映画祭",
+    "description": "サンダンス映画祭",
+    "digest": "sha256:fd1785d90a25c985920b97af90576ed8f9b9c0095a08d4958877e3a2ee8fd013",
+    "path": "ja/sundance.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "トロント国際映画祭",
+    "description": "トロント国際映画祭",
+    "digest": "sha256:74c899c259c85b36191b06d265ed0a3da3e30c4dd2cbe0b6064f9fcb8bccbc0a",
+    "path": "ja/tiff.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "ニューヨーク・タイムズ — 21世紀のベスト映画100",
+    "description": "ニューヨーク・タイムズ「21世紀のベスト映画100」の全ランキング。順位とランキング掲載年を保持しています。",
+    "digest": "sha256:cd47ccfca6d7e52fa3901820ad7c443de9d984756526ebc29fa8a1b549a85a6d",
+    "path": "ja/nyt-best-movies-21st-century.list.json",
+    "collection": "pool/press",
+    "tags": [
+      "press",
+      "movie",
+      "nytimes"
+    ]
+  },
+  {
+    "title": "ニューヨーク・タイムズ — 21世紀のベストTV番組100",
+    "description": "ニューヨーク・タイムズ「The 100 Best TV Shows of the 21st Century」の全100作品を掲載順位順に収録。",
+    "digest": "sha256:e33d243249e7260bd780ef0db3894f080aa2816afc77de55fc09118b90b7b333",
+    "path": "ja/nyt-best-tv-shows-21st-century.list.json",
+    "collection": "pool/press",
+    "tags": [
+      "press",
+      "tv",
+      "nytimes"
+    ]
+  }
+]

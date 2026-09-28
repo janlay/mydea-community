@@ -1,0 +1,103 @@
+[
+  {
+    "title": "백상예술대상",
+    "description": "백상예술대상",
+    "digest": "sha256:1e1e59ac64d4fd54b0503f14047c01fbea1ae00fb8bfa3f7018dc0e0b84ec000",
+    "path": "ko/baeksang.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "부산국제영화제",
+    "description": "부산국제영화제",
+    "digest": "sha256:efdf0cb8ca194887e9ce173f93a223ae094feb78cef656c97d8110d7c70e79eb",
+    "path": "ko/biff.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "청룡영화상",
+    "description": "청룡영화상",
+    "digest": "sha256:0be924fbce130d3812cf236b02380de5211caade1fdc9d6683ae8073566fff5c",
+    "path": "ko/blue-dragon.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "칸 영화제",
+    "description": "칸 영화제",
+    "digest": "sha256:f1224f6e9a27376f87fa9ffbde5543f62da8e7a7a99170ca3cca49818d94e29e",
+    "path": "ko/cannes.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "프라임타임 에미상",
+    "description": "프라임타임 에미상",
+    "digest": "sha256:a39fe63c7ebdfc95c7470185e7031722d65a57d05938d20be3d74b8048d573bc",
+    "path": "ko/emmys.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "골든 글로브상",
+    "description": "골든 글로브상",
+    "digest": "sha256:1284dc299430ded57bcbad689ae5632b2f9c51cb1d35e0d473553ec6742eb26c",
+    "path": "ko/golden-globes.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "금마장",
+    "description": "금마장",
+    "digest": "sha256:23a2782954233a230403f5bd20e9aeed6731a128483ebc0504806aaaae083b81",
+    "path": "ko/golden-horse.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "홍콩 영화 금상장",
+    "description": "홍콩 영화 금상장",
+    "digest": "sha256:bc58b48a6ffbf09398f43fe568e9db33f512139515c7ab7241665259c15287df",
+    "path": "ko/hkfa.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "아카데미상",
+    "description": "아카데미상",
+    "digest": "sha256:733b51b33d09304daa78d45b5f674f5427e7f42830b35d39257058d0ea297228",
+    "path": "ko/oscars.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "선댄스 영화제",
+    "description": "선댄스 영화제",
+    "digest": "sha256:c5161a3412496500866af91727ab56972cb342a81cdc77e51eae80e7a6a8a737",
+    "path": "ko/sundance.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "토론토 국제 영화제",
+    "description": "토론토 국제 영화제",
+    "digest": "sha256:8cd5e4d13c678bb0e28ccddf2338857614d8f1b6cad81994932df6d45a75157f",
+    "path": "ko/tiff.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "뉴욕 타임스 — 21세기 최고의 영화 100편",
+    "description": "뉴욕 타임스 “21세기 최고의 영화 100편” 전체 순위로, 원래 순위와 순위표에 표시된 연도를 유지합니다.",
+    "digest": "sha256:c686316816ca056339510726783bfaf78c20a54c79310e4020839bced4138fe7",
+    "path": "ko/nyt-best-movies-21st-century.list.json",
+    "collection": "pool/press",
+    "tags": [
+      "press",
+      "movie",
+      "nytimes"
+    ]
+  },
+  {
+    "title": "뉴욕 타임스 — 21세기 최고의 TV 프로그램 100선",
+    "description": "뉴욕 타임스 “The 100 Best TV Shows of the 21st Century”의 100개 작품을 원래 순위대로 수록합니다.",
+    "digest": "sha256:ec7c6d84cfb32644e74c319743a832614aedd436142f0619d000587c704ea8f5",
+    "path": "ko/nyt-best-tv-shows-21st-century.list.json",
+    "collection": "pool/press",
+    "tags": [
+      "press",
+      "tv",
+      "nytimes"
+    ]
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "title": "Baeksang Arts Awards",
+    "description": "Baeksang Arts Awards",
+    "digest": "sha256:6e12759d23c4d6e917cc3f7e3256d545679423a6e7076e7eb69ad1a1bc65b3e2",
+    "path": "en/baeksang.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "Berlin International Film Festival",
+    "description": "Berlin International Film Festival",
+    "digest": "sha256:485f65c0c517489a7c78e94e841e5932b20e3b6cd31879e822d94da9cbd535b5",
+    "path": "en/berlinale.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "Busan International Film Festival",
+    "description": "Busan International Film Festival",
+    "digest": "sha256:31a9cea02c7dcda2dcfeda8f764b6b6ee105c26220bddf59d6980618f9304406",
+    "path": "en/biff.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "Blue Dragon Film Awards",
+    "description": "Blue Dragon Film Awards",
+    "digest": "sha256:2b1d9c53f6f23206cab89e8c933cdec11bdef8235d85f9e2c921ed0d4700b0a2",
+    "path": "en/blue-dragon.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "Cannes Film Festival",
+    "description": "Cannes Film Festival",
+    "digest": "sha256:33a2a9648561c9edcc6e4e5318f40f810541b6997c0428b35b2df905529b08a1",
+    "path": "en/cannes.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "Primetime Emmy Awards",
+    "description": "Primetime Emmy Awards",
+    "digest": "sha256:00ef641ed7c0cf590b81a0d7da70861fc94bd88747590af2cdb0537875b34400",
+    "path": "en/emmys.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "Golden Globe Awards",
+    "description": "Golden Globe Awards",
+    "digest": "sha256:735fcb605554240dca5e63b994eefae4b7da4e758f0104ea9f4101d827835604",
+    "path": "en/golden-globes.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "Golden Horse Awards",
+    "description": "Golden Horse Awards",
+    "digest": "sha256:aac019aad4c58ffff1fe5c6198c398707e85637a94260d0fbde7a430cf794931",
+    "path": "en/golden-horse.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "Hong Kong Film Awards",
+    "description": "Hong Kong Film Awards",
+    "digest": "sha256:a64699e747359a74c3ce86445a19b90927eb2f7d09df6fef0b827174559ca6d0",
+    "path": "en/hkfa.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "Academy Awards",
+    "description": "Academy Awards",
+    "digest": "sha256:6bff06cd5ffdd554901ce44d85573464581172ae2eadfa81eea11dfee09ef3d4",
+    "path": "en/oscars.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "Sundance Film Festival",
+    "description": "Sundance Film Festival",
+    "digest": "sha256:88f4bdf5b0091c2806c3066af2e8d577dabb0b91a0d27575c11f4b76523e7a09",
+    "path": "en/sundance.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "Toronto International Film Festival",
+    "description": "Toronto International Film Festival",
+    "digest": "sha256:7d1c1027c78092557bb975c619b9b13277f794b945310c52cbff18be7273e3f3",
+    "path": "en/tiff.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "Venice International Film Festival",
+    "description": "Venice International Film Festival",
+    "digest": "sha256:634fb2f9c153a8a9fd9f66dbcf8429b6bd56fc0f01cad07c73e8f4e8364badee",
+    "path": "en/venice.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "The New York Times — The 100 Best Movies of the 21st Century",
+    "description": "The complete New York Times “The 100 Best Movies of the 21st Century” ranking, preserving the original ranking order and the release year shown by the list.",
+    "digest": "sha256:b1fbf6749e14e94c024f891a97e456d08dbe12d3c47520180ccea20467f3def8",
+    "path": "en/nyt-best-movies-21st-century.list.json",
+    "collection": "pool/press",
+    "tags": [
+      "press",
+      "movie",
+      "nytimes"
+    ]
+  },
+  {
+    "title": "The New York Times — The 100 Best TV Shows of the 21st Century",
+    "description": "The 100 television shows ranked by The New York Times in “The 100 Best TV Shows of the 21st Century,” ordered by the published ranking.",
+    "digest": "sha256:7ceb2414a790b7486025dfaeee394ac48cd7bf1ddb26dd8a133cd26feb0c9e47",
+    "path": "en/nyt-best-tv-shows-21st-century.list.json",
+    "collection": "pool/press",
+    "tags": [
+      "press",
+      "tv",
+      "nytimes"
+    ]
+  }
+]

@@ -1,0 +1,392 @@
+[
+  {
+    "title": "百想芸術大賞 10年",
+    "description": "2017年から2026年までの百想芸術大賞における主要な映画部門の受賞作品。",
+    "digest": "sha256:a1d22321c39bdf3fe41408a766c7d381b41f24284f89af9a43b53ec69f406a90",
+    "path": "ja/baeksang-10-years.page.json",
+    "collection": "awards/baeksang",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "百想芸術大賞 受賞部門",
+    "description": "百想芸術大賞の主要な映画部門を受賞部門別にまとめたページ。",
+    "digest": "sha256:99f52e4e5893ec9e645881e14a5f1f71547fd8bc82b93d865ccee64f72811d5d",
+    "path": "ja/baeksang-prizes.page.json",
+    "collection": "awards/baeksang",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "釜山国際映画祭 10年",
+    "description": "釜山国際映画祭の直近10回（2016–2025）の主要コンペティション受賞作品。",
+    "digest": "sha256:977e48fe4fc275e7801f443557e25c57830d2f80a041f4d8ad760b93669e64e1",
+    "path": "ja/biff-10-years.page.json",
+    "collection": "awards/biff",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "釜山国際映画祭 賞",
+    "description": "釜山国際映画祭の主要コンペティション賞と歴代受賞作品。",
+    "digest": "sha256:670d9edf9456200b905a8925863ebe0e94f0b9cb6b5fe570e06fe3a397570dbc",
+    "path": "ja/biff-prizes.page.json",
+    "collection": "awards/biff",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "青龍映画賞 — 直近10年",
+    "description": "青龍映画賞の直近10年の受賞作。",
+    "digest": "sha256:55e54203405b272c9e395435418b61c1af36b6c99a8ad06380f70e878df778a7",
+    "path": "ja/blue-dragon-10-years.page.json",
+    "collection": "awards/blue-dragon",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "青龍映画賞 — 部門別",
+    "description": "青龍映画賞の各部門の全受賞記録。",
+    "digest": "sha256:b24caea490aa936620c3c08fee4a5ffb3f5e76c5abc085434b62f94d05ce39bf",
+    "path": "ja/blue-dragon-awards.page.json",
+    "collection": "awards/blue-dragon",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "カンヌ国際映画祭 過去10年",
+    "description": "カンヌ国際映画祭の直近10暦年における開催回の受賞作品。2020年は映画祭が中止されたため含まれません。",
+    "digest": "sha256:82b9bdfeb4ddfc336906467816c2baa950efce47406dc9351731cf7c10ae916c",
+    "path": "ja/cannes-10-years.page.json",
+    "collection": "awards/cannes",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "カンヌ — カメラ・ドール",
+    "description": "カンヌ国際映画祭カメラ・ドールの歴代受賞作。",
+    "digest": "sha256:8ca44a9cb44d0ebbc5537ab66fe0185d95b4f211c5a2147f5d2b395da9fb75da",
+    "path": "ja/cannes-camera-dor.page.json",
+    "collection": "awards/cannes",
+    "tags": [
+      "award",
+      "cannes",
+      "prize"
+    ]
+  },
+  {
+    "title": "カンヌ — CST技術賞",
+    "description": "カンヌ国際映画祭CST技術賞の歴代受賞作。",
+    "digest": "sha256:84dddf05f603fa15d4b39f11f87e8ee9f4f1d3ec38a491806190e6f154ffadde",
+    "path": "ja/cannes-cst.page.json",
+    "collection": "awards/cannes",
+    "tags": [
+      "award",
+      "cannes",
+      "prize"
+    ]
+  },
+  {
+    "title": "カンヌ — 長編映画賞",
+    "description": "カンヌ国際映画祭の長編映画部門における歴代受賞作。",
+    "digest": "sha256:424ce519a8d0b224582fe56e1ffc918af229a27e9a93adaf4a2d16660d80ae44",
+    "path": "ja/cannes-feature-films.page.json",
+    "collection": "awards/cannes",
+    "tags": [
+      "award",
+      "cannes",
+      "prize"
+    ]
+  },
+  {
+    "title": "カンヌ — ラ・シネフ",
+    "description": "カンヌ国際映画祭Cinéfondation／La Cinefの歴代受賞作。",
+    "digest": "sha256:d3f41b1a91805f0663f94aa62320008c45fb0079b40fb4d933fc7eb17593c3b8",
+    "path": "ja/cannes-la-cinef.page.json",
+    "collection": "awards/cannes",
+    "tags": [
+      "award",
+      "cannes",
+      "prize"
+    ]
+  },
+  {
+    "title": "カンヌ — 短編映画賞",
+    "description": "カンヌ国際映画祭の短編映画部門における歴代受賞作。",
+    "digest": "sha256:89400df621df1c8182e5a1448ec7183df3ba18114023386f744c96c908a92845",
+    "path": "ja/cannes-short-films.page.json",
+    "collection": "awards/cannes",
+    "tags": [
+      "award",
+      "cannes",
+      "prize"
+    ]
+  },
+  {
+    "title": "カンヌ — ある視点",
+    "description": "カンヌ国際映画祭「ある視点」の歴代受賞作。",
+    "digest": "sha256:6b79c36687734727c58acc0c1e0e92af93db0a81dec02b64cacab4c815c33674",
+    "path": "ja/cannes-un-certain-regard.page.json",
+    "collection": "awards/cannes",
+    "tags": [
+      "award",
+      "cannes",
+      "prize"
+    ]
+  },
+  {
+    "title": "ゴールデングローブ賞 10年",
+    "description": "ゴールデングローブ賞の直近10回における主要な映画部門の受賞データ。",
+    "digest": "sha256:e77832159f42110eceed713cfac9c279df9fd547413ecb6db85720c1de69535f",
+    "path": "ja/golden-globes-10-years.page.json",
+    "collection": "awards/golden-globes",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "ゴールデングローブ賞 部門別",
+    "description": "ゴールデングローブ賞の主要な映画部門の受賞データ。",
+    "digest": "sha256:dac83bd6b531453fa30a38f92aa7c70e67b5bb8923ee2eb0788686f8f0d15082",
+    "path": "ja/golden-globes-prizes.page.json",
+    "collection": "awards/golden-globes",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "金馬奨 — 直近10回",
+    "description": "直近10回（2016〜2025年）の金馬奨における主要部門の受賞リスト。",
+    "digest": "sha256:e6e12975e21518d645f56079bcf0415361c86b7816a5b6e022ca38615fd14fd1",
+    "path": "ja/golden-horse-10-years.page.json",
+    "collection": "awards/golden-horse",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "金馬奨 — 賞別",
+    "description": "金馬奨の全部門にわたる完全な受賞リスト。1964年と1974年は開催されなかった。",
+    "digest": "sha256:e8898ce745929d87b41733467f720c5752144a14554af0e3e7d526a302e2ef01",
+    "path": "ja/golden-horse-prizes.page.json",
+    "collection": "awards/golden-horse",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "香港電影金像奨 — 直近10年",
+    "description": "香港電影金像奨の直近10年の受賞作。2021年は2022年に統合され、開催なし。",
+    "digest": "sha256:c9785d2004ec398dee6e63c96c9fa73a5c311069e9d93dcf4cbcd8e80ae6b884",
+    "path": "ja/hkfa-10-years.page.json",
+    "collection": "awards/hkfa",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "香港電影金像奨 — 部門別",
+    "description": "香港電影金像奨の各部門の全受賞記録。2021年は2022年に統合され、開催なし。",
+    "digest": "sha256:9ad4daa0be30adf68637165f4a3f22b78b48261f6cc1a24f0edee9f13d877356",
+    "path": "ja/hkfa-prizes.page.json",
+    "collection": "awards/hkfa",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "アカデミー賞 10年",
+    "description": "直近10回のアカデミー賞主要映画部門の受賞作品と受賞者。",
+    "digest": "sha256:327425a94a908b680d5229624d907a897c70f689366743d6da5ebcec37a2ae04",
+    "path": "ja/oscars-10-years.page.json",
+    "collection": "awards/oscars",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "アカデミー賞 部門別",
+    "description": "アカデミー賞主要映画部門の直近10回の受賞記録。",
+    "digest": "sha256:affdc0e56564d57cbb377185cc3c49eea557095ae5888c8b871245c60934d406",
+    "path": "ja/oscars-prizes.page.json",
+    "collection": "awards/oscars",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "サンダンス映画祭 10年",
+    "description": "サンダンス映画祭の直近10回における、主要4長編コンペティション審査員大賞の受賞作品。",
+    "digest": "sha256:33088a807189a6f610b5cd92b24f944bbf791f8e302514504e472b10f6e7ff06",
+    "path": "ja/sundance-10-years.page.json",
+    "collection": "awards/sundance",
+    "tags": [
+      "award",
+      "park-city",
+      "decade"
+    ]
+  },
+  {
+    "title": "サンダンス映画祭 受賞部門",
+    "description": "サンダンス映画祭の主要4長編コンペティション審査員大賞の歴代受賞作品。",
+    "digest": "sha256:798849213a4d69cc961cfcd06ef8fec4fd8e41fdacf466d272fe22d231a4871d",
+    "path": "ja/sundance-prizes.page.json",
+    "collection": "awards/sundance",
+    "tags": [
+      "award",
+      "park-city",
+      "prize"
+    ]
+  },
+  {
+    "title": "トロント10年",
+    "description": "トロント国際映画祭の直近10回の完結した映画賞（2016–2025）。",
+    "digest": "sha256:27135bad0e97fc4c9b08dbc1f4821c4f63718032b4541aa36a62ffec6f44f1bd",
+    "path": "ja/tiff-10-years.page.json",
+    "collection": "awards/tiff",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "トロント映画祭の賞",
+    "description": "トロント国際映画祭の主要な映画賞の歴代受賞作。",
+    "digest": "sha256:7d72c6db41960d3367c9b23793b327ca87ae9277dd821f41bb0ff99100da8602",
+    "path": "ja/tiff-prizes.page.json",
+    "collection": "awards/tiff",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "ニューヨーク・タイムズ — 21世紀のベスト映画100",
+    "description": "ニューヨーク・タイムズ「21世紀のベスト映画100」を基に作成。最初の section は Top 10、次の section はランキングに記載された公開年を年代ごとに新しい順でまとめています。",
+    "digest": "sha256:c1bdfb8c0ded2c0cb76c33a47e16f3a9dacffcf759be1223158b7a2001bd4aba",
+    "path": "ja/nyt-best-movies-21st-century.page.json",
+    "collection": "charts/press",
+    "tags": [
+      "press",
+      "movie",
+      "nytimes"
+    ]
+  },
+  {
+    "title": "グローバル Top 映画",
+    "description": "日々の人気の変動ではなく、長年の評価・視聴データに基づく安定した長期ランキング。IMDb、TMDB、Letterboxd、Trakt、Rotten Tomatoes、MDBList を収録。",
+    "digest": "sha256:7f12c4ba6d37cb4f6bc6580ec238a387453734b262483b13a2b27d3f5ed0d8aa",
+    "path": "ja/global-top.page.json",
+    "collection": "charts/top",
+    "tags": [
+      "chart",
+      "top",
+      "global"
+    ]
+  },
+  {
+    "title": "グローバル人気",
+    "description": "TMDB・Trakt・Letterboxd・Rotten Tomatoes・MDBList、5大プラットフォームそれぞれの短期流行チャートを1ページに集約。",
+    "digest": "sha256:2f9976b61f80640f41a63b2883eee292f81525905367abc522f409f2be9b503a",
+    "path": "ja/global-popular.page.json",
+    "collection": "popular/global",
+    "tags": [
+      "chart",
+      "popular",
+      "global"
+    ]
+  },
+  {
+    "title": "グローバル最新ヒット",
+    "description": "週ごとに入れ替わる短期ランキング——興行収入、上映中、今週の最多視聴など。IMDb、TMDB、Trakt、Letterboxd、Rotten Tomatoes、MDBList を収録。",
+    "digest": "sha256:68cf79b4f8d249af489aad69e2d31948db95b068885f645835cd266c0f941604",
+    "path": "ja/global-recent.page.json",
+    "collection": "popular/recent",
+    "tags": [
+      "chart",
+      "popular",
+      "recent",
+      "global"
+    ]
+  },
+  {
+    "title": "百想芸術大賞",
+    "description": "2017年から2026年までの百想芸術大賞テレビ部門の受賞記録。",
+    "digest": "sha256:ca916d982d5f76efd3902c9255f2f0cef048deee8fb60ea9600182882ca62e61",
+    "path": "ja/baeksang.page.json",
+    "collection": "tv/awards",
+    "tags": [
+      "award",
+      "tv"
+    ]
+  },
+  {
+    "title": "プライムタイム・エミー賞",
+    "description": "プライムタイム・エミー賞の部門別・回別の受賞記録。",
+    "digest": "sha256:043fdf1a6353eaabacbcfd4db061dff719d6fefbf5c707f6a6455aaf440a5301",
+    "path": "ja/emmys.page.json",
+    "collection": "tv/awards",
+    "tags": [
+      "award",
+      "tv"
+    ]
+  },
+  {
+    "title": "ゴールデングローブ賞",
+    "description": "ゴールデングローブ賞の主要なテレビ作品部門の受賞データ。",
+    "digest": "sha256:7d58f74232745672e0cc447e43efb3282d4b04c3dbc16ae1e61e49fb907c6989",
+    "path": "ja/golden-globes.page.json",
+    "collection": "tv/awards",
+    "tags": [
+      "award",
+      "tv"
+    ]
+  },
+  {
+    "title": "ニューヨーク・タイムズ — 21世紀のベストTV番組100",
+    "description": "ニューヨーク・タイムズが選んだ21世紀のベストTV番組100。Top 10に続き、全作品を初回放送年の年代ごとに新しい順で分類しています。",
+    "digest": "sha256:6d5a15da60680491333579fe5880f3fc043a6b429a6bef994b03a771d961ae64",
+    "path": "ja/nyt-best-tv-shows-21st-century.page.json",
+    "collection": "tv/press",
+    "tags": [
+      "press",
+      "tv",
+      "nytimes"
+    ]
+  },
+  {
+    "title": "グローバル Top ドラマ",
+    "description": "日々の人気の変動ではなく、長年の評価・視聴データに基づく安定した長期ドラマランキング。",
+    "digest": "sha256:c3ecf69aa86ca17cc03c374c16de4b97db951de215d9628f64459118849377b7",
+    "path": "ja/global-top.page.json",
+    "collection": "tv/top",
+    "tags": [
+      "chart",
+      "top",
+      "global",
+      "tv"
+    ]
+  }
+]

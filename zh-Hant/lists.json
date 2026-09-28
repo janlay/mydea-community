@@ -1,0 +1,103 @@
+[
+  {
+    "title": "百想藝術大賞",
+    "description": "百想藝術大賞",
+    "digest": "sha256:bb8ed6221c1d7b9173fe4f4619f3a8a009aad58b29cbb683c7365dd6be844cb4",
+    "path": "zh-Hant/baeksang.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "柏林影展",
+    "description": "柏林影展",
+    "digest": "sha256:b0663cce170040bb4a31850631ecd89d7873c96a73471ad8a6cd7ef956e1a0e4",
+    "path": "zh-Hant/berlinale.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "釜山國際影展",
+    "description": "釜山國際影展",
+    "digest": "sha256:11647ba82aec6b16ef67cb147f9562c7436d868d55e6d4acd3614cb43a854f56",
+    "path": "zh-Hant/biff.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "青龍電影獎",
+    "description": "青龍電影獎",
+    "digest": "sha256:8f7c6fd438d1b52cf3c692bf5c08dadade5e483aa7e665b5a38b81d1110a35f3",
+    "path": "zh-Hant/blue-dragon.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "坎城影展",
+    "description": "坎城影展",
+    "digest": "sha256:0fcd0b796acff77d35669c20c7a45358232f0ae8569694a812cd4d7a4bf468dd",
+    "path": "zh-Hant/cannes.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "黃金時段艾美獎",
+    "description": "黃金時段艾美獎",
+    "digest": "sha256:025b6e164fa64047d25e7287e86bb36c0504c98012f9d8711c3862effcedec67",
+    "path": "zh-Hant/emmys.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "金球獎",
+    "description": "金球獎",
+    "digest": "sha256:94b6c2e6826ad29c6226221badcb0827718a29c46f2e67cadd600e57b587d796",
+    "path": "zh-Hant/golden-globes.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "奧斯卡金像獎",
+    "description": "奧斯卡金像獎",
+    "digest": "sha256:b14fb1a982a971485a7c2761f09a74077e936e9a16f6ee4bee6b2b947fa6c310",
+    "path": "zh-Hant/oscars.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "日舞影展",
+    "description": "日舞影展",
+    "digest": "sha256:3f477b1e68b9470e1ce133953105bccb16ac7550a7dfcccb52dba0e1abf6ba67",
+    "path": "zh-Hant/sundance.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "多倫多國際影展",
+    "description": "多倫多國際影展",
+    "digest": "sha256:ab46cc50e6db793a058eeb40c2350bff9f2c2a29e5884c3e75b79685cc4fff3a",
+    "path": "zh-Hant/tiff.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "威尼斯影展",
+    "description": "威尼斯影展",
+    "digest": "sha256:c4f82d44187728e98c0c40bf3191ba3876a338b69c857fb6abaa5fbb23d56a65",
+    "path": "zh-Hant/venice.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "紐約時報 — 21世紀100佳電影",
+    "description": "《紐約時報》「21世紀100佳電影」完整榜單，保留原榜單名次及榜單標示年份。",
+    "digest": "sha256:d2f39406da091b81235ec82498ef20ac5ecd85d9e8ea6aa59915d2bf368b3589",
+    "path": "zh-Hant/nyt-best-movies-21st-century.list.json",
+    "collection": "pool/press",
+    "tags": [
+      "press",
+      "movie",
+      "nytimes"
+    ]
+  },
+  {
+    "title": "紐約時報 — 21世紀最佳100部電視劇",
+    "description": "《紐約時報》「21世紀最佳100部電視劇」完整榜單，按原榜單名次排列。",
+    "digest": "sha256:ffe560183a3f2f60554c8365d57d38a35cc3133d740aae6882f2212e819ec4ef",
+    "path": "zh-Hant/nyt-best-tv-shows-21st-century.list.json",
+    "collection": "pool/press",
+    "tags": [
+      "press",
+      "tv",
+      "nytimes"
+    ]
+  }
+]
