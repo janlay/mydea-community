@@ -1,0 +1,23 @@
+[
+  {
+    "title": "金馬獎",
+    "description": "金馬獎",
+    "digest": "sha256:622e02ec5d580494fc8fa4396521091f5b72aaaf0ad06e39ff902ce290c53b75",
+    "path": "zh/golden-horse.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "中国电影金鸡奖",
+    "description": "中国电影金鸡奖",
+    "digest": "sha256:07dc75db71bcfa17997e59c9eddf729552950d8cb4d66d2519490448c03d80f9",
+    "path": "zh/golden-rooster.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "香港電影金像獎",
+    "description": "香港電影金像獎",
+    "digest": "sha256:24f8391d83953a6e92894a6a04729932fb146b625196cc1c4122338bc4542828",
+    "path": "zh/hkfa.list.json",
+    "collection": "pool/awards"
+  }
+]

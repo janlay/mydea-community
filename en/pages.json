@@ -1,0 +1,437 @@
+[
+  {
+    "title": "Baeksang Arts Awards 10 Years",
+    "description": "Major film winners of the Baeksang Arts Awards from 2017 to 2026.",
+    "digest": "sha256:4112020385b1b0cc0e090ae6ad50abea5b110bc299a01430aab95943df99edf7",
+    "path": "en/baeksang-10-years.page.json",
+    "collection": "awards/baeksang",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "Baeksang Arts Awards Prizes",
+    "description": "Baeksang Arts Awards winners by major film category from 2017 to 2026.",
+    "digest": "sha256:38d548d89eb58fa8d615aa03c981ce39943a6542556dfd8d7b8e12556d363d03",
+    "path": "en/baeksang-prizes.page.json",
+    "collection": "awards/baeksang",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "Ten Years in Berlin",
+    "description": "Competition winners of the last ten Berlinale editions, 2026 back to 2017.",
+    "digest": "sha256:3b1218abb89285f39bb9f1028140e1e5369a6a6077380ef25c80c3cfed8e1bde",
+    "path": "en/berlinale-10-years.page.json",
+    "collection": "awards/berlinale",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "Berlinale Prizes",
+    "description": "Winners of every Berlinale competition award. No awards were given in 1970.",
+    "digest": "sha256:76ed464927b53e85bce1a2dfadef45c0542db94753ef54233f60ba6e5e617738",
+    "path": "en/berlinale-prizes.page.json",
+    "collection": "awards/berlinale",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "Busan International Film Festival Ten Years",
+    "description": "Core competition winners from the ten most recent completed editions of the Busan International Film Festival, 2016–2025.",
+    "digest": "sha256:c7a50af94100737113851443b8db07ec7a71718a66260628d99f14419d2fea93",
+    "path": "en/biff-10-years.page.json",
+    "collection": "awards/biff",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "Busan International Film Festival Awards",
+    "description": "Core Busan International Film Festival competition awards and their historical winners.",
+    "digest": "sha256:31954dc3ab205c2a794b00c9ec622da0f30d48365e58da3d84c4292a5be531ff",
+    "path": "en/biff-prizes.page.json",
+    "collection": "awards/biff",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "Blue Dragon Film Awards — 10 Years",
+    "description": "Ten years of the Blue Dragon Film Awards, 2016 to 2025.",
+    "digest": "sha256:b357e31b613f1dd8726f7e193cb8436efa659b2d1acb7327b8baf98bd0dab894",
+    "path": "en/blue-dragon-10-years.page.json",
+    "collection": "awards/blue-dragon",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "Blue Dragon Film Awards — Awards",
+    "description": "Winners of every Blue Dragon Film Awards category.",
+    "digest": "sha256:5ed7690c36056e77778856dac6994112fdc4c28e8bbb02938f9cac75eb53202a",
+    "path": "en/blue-dragon-awards.page.json",
+    "collection": "awards/blue-dragon",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "Ten Years in Cannes",
+    "description": "Ten years of the Festival de Cannes. 2020 is absent: the festival was cancelled.",
+    "digest": "sha256:217698249575ec2e6626bc11d2f4bff0fc811d8718f20eef51493c0f5e94d4f1",
+    "path": "en/cannes-10-years.page.json",
+    "collection": "awards/cannes",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "Cannes — Caméra d’or",
+    "description": "Historical Caméra d’or awards.",
+    "digest": "sha256:246ecc24465e6f760392889f38bccb9130286398ddf99cf9651511e625d4283c",
+    "path": "en/cannes-camera-dor.page.json",
+    "collection": "awards/cannes",
+    "tags": [
+      "award",
+      "cannes",
+      "prize"
+    ]
+  },
+  {
+    "title": "Cannes — CST Technical Awards",
+    "description": "Historical awards of the Superior Technical Commission (CST).",
+    "digest": "sha256:6f15d55ce96b455a0b6907a2cd59f0b5ebcf5f9b293e620b3749063027e2c195",
+    "path": "en/cannes-cst.page.json",
+    "collection": "awards/cannes",
+    "tags": [
+      "award",
+      "cannes",
+      "prize"
+    ]
+  },
+  {
+    "title": "Cannes — Feature Films",
+    "description": "Historical Cannes Feature Film awards.",
+    "digest": "sha256:e6da823b39f9e40545d67183651097c936c5cf095939e5c2391dbd1b48e53f57",
+    "path": "en/cannes-feature-films.page.json",
+    "collection": "awards/cannes",
+    "tags": [
+      "award",
+      "cannes",
+      "prize"
+    ],
+    "featured": true
+  },
+  {
+    "title": "Cannes — La Cinef",
+    "description": "Historical Cinéfondation and La Cinef prizes.",
+    "digest": "sha256:ea6c019cbd1674a199839b496f698cc5fa1c07078895203e29b0a345a6568f65",
+    "path": "en/cannes-la-cinef.page.json",
+    "collection": "awards/cannes",
+    "tags": [
+      "award",
+      "cannes",
+      "prize"
+    ]
+  },
+  {
+    "title": "Cannes — Short Films",
+    "description": "Historical Cannes Short Film awards.",
+    "digest": "sha256:08a71b83c6bb7008d66351b13c6e05cba2304704dc8667443ec7d70afe618e4f",
+    "path": "en/cannes-short-films.page.json",
+    "collection": "awards/cannes",
+    "tags": [
+      "award",
+      "cannes",
+      "prize"
+    ]
+  },
+  {
+    "title": "Cannes — Un Certain Regard",
+    "description": "Historical Un Certain Regard awards.",
+    "digest": "sha256:50ede49767b6b3ab33b84ca1aa8e6e7b673337ea9af18a73364ce5eb93eae473",
+    "path": "en/cannes-un-certain-regard.page.json",
+    "collection": "awards/cannes",
+    "tags": [
+      "award",
+      "cannes",
+      "prize"
+    ]
+  },
+  {
+    "title": "Golden Globes Decade",
+    "description": "Major film winners from the last ten Golden Globe ceremonies.",
+    "digest": "sha256:3f0770c30d28579218e1ee26d22f798f745bf028d2810c91200aadf43b67f220",
+    "path": "en/golden-globes-10-years.page.json",
+    "collection": "awards/golden-globes",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "Golden Globes Awards",
+    "description": "Winners of major Golden Globe film categories.",
+    "digest": "sha256:5ce82fe517a747e422a6cbd223188311b317e970fce54e893957a535ec4ef885",
+    "path": "en/golden-globes-prizes.page.json",
+    "collection": "awards/golden-globes",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "Golden Horse Awards — Recent 10 Editions",
+    "description": "Winner list of the core categories from the last ten Golden Horse Awards ceremonies (2016–2025).",
+    "digest": "sha256:c1fa5342f08df25323e1b2779ca07d252b77e06a3aafa007996db722e963cd82",
+    "path": "en/golden-horse-10-years.page.json",
+    "collection": "awards/golden-horse",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "Golden Horse Awards — Awards",
+    "description": "Complete winner list of every Golden Horse Award category. 1964 and 1974 were not held.",
+    "digest": "sha256:24722947927830d850b1569fa622855c03e5ebc2f4089bdcc79b6054dab88e6f",
+    "path": "en/golden-horse-prizes.page.json",
+    "collection": "awards/golden-horse",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "Ten Years in Hong Kong",
+    "description": "Ten years of the Hong Kong Film Awards. 2021 is absent: it was merged into 2022.",
+    "digest": "sha256:b6c1d0e6ae5a58ff11351a52bc7fc73aab32e0b3a520fb0407b4d80742c942b8",
+    "path": "en/hkfa-10-years.page.json",
+    "collection": "awards/hkfa",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "Hong Kong Film Awards",
+    "description": "Winners of every Hong Kong Film Awards category. 2021 was postponed and merged into 2022.",
+    "digest": "sha256:c089b9ca980724245445255ff2a5f427b9432126ff7536d6cba17a1d18f4cc6e",
+    "path": "en/hkfa-prizes.page.json",
+    "collection": "awards/hkfa",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "Oscars — 10 Years",
+    "description": "Winners in ten core film categories from the ten most recent Academy Awards ceremonies.",
+    "digest": "sha256:7daf8352589bbe67b47a284c78ce892b3a70a4877378d2ea2f20bbfa9c5ccce4",
+    "path": "en/oscars-10-years.page.json",
+    "collection": "awards/oscars",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "Oscars — Awards",
+    "description": "Ten-year winner histories for core Academy Awards film categories.",
+    "digest": "sha256:1026b71f8b63827736517a59215e7b096b69111d2a5467d440ea3c1cc2e8ca11",
+    "path": "en/oscars-prizes.page.json",
+    "collection": "awards/oscars",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "Sundance Decade",
+    "description": "Winners of the four core feature Grand Jury Prizes from the ten most recent Sundance Film Festival editions.",
+    "digest": "sha256:7b1db70ba7c60d7f52bb7fcc4d425c6b39dcb771e20df7ceb0533c999c755e3d",
+    "path": "en/sundance-10-years.page.json",
+    "collection": "awards/sundance",
+    "tags": [
+      "award",
+      "park-city",
+      "decade"
+    ]
+  },
+  {
+    "title": "Sundance Prizes",
+    "description": "Historical winners of the four core Sundance Film Festival feature Grand Jury Prizes.",
+    "digest": "sha256:7a31b323ef90f6ba5ebe2b17c7003c5e4feccd8b308843756836566b8f8aeac8",
+    "path": "en/sundance-prizes.page.json",
+    "collection": "awards/sundance",
+    "tags": [
+      "award",
+      "park-city",
+      "prize"
+    ]
+  },
+  {
+    "title": "Toronto 10 Years",
+    "description": "Major film awards from the ten most recent completed Toronto International Film Festival editions (2016–2025).",
+    "digest": "sha256:1624d6d397306c85ba8bf94550f5e253f6581e05e6cc4e73406df76c710ab99a",
+    "path": "en/tiff-10-years.page.json",
+    "collection": "awards/tiff",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "Toronto Awards",
+    "description": "Historical winners of major Toronto International Film Festival film awards.",
+    "digest": "sha256:93281ab200d1cfb56b14ce37abca2203646888b72a7f9949473bc89823da5565",
+    "path": "en/tiff-prizes.page.json",
+    "collection": "awards/tiff",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "Ten Years in Venice",
+    "description": "Competition winners of the last ten Venice editions, 2025 back to 2016.",
+    "digest": "sha256:119163884b0fdfb0c6797a37c2a7648bec14425da5e5f05e2968c49278f65dc4",
+    "path": "en/venice-10-years.page.json",
+    "collection": "awards/venice",
+    "tags": [
+      "award",
+      "decade"
+    ]
+  },
+  {
+    "title": "Venice Prizes",
+    "description": "Winners of every Venice competition award. No awards were given from 1969 to 1979.",
+    "digest": "sha256:0a4ebc041320e3d2ae5980392d42939d052b5c081c6c648d591f5fd877f8d4d9",
+    "path": "en/venice-prizes.page.json",
+    "collection": "awards/venice",
+    "tags": [
+      "award",
+      "prize"
+    ]
+  },
+  {
+    "title": "The New York Times — The 100 Best Movies of the 21st Century",
+    "description": "Based on The New York Times “The 100 Best Movies of the 21st Century” poll. The first collection shows the Top 10; the second groups every film by the decade of the year shown in the ranking, newest first.",
+    "digest": "sha256:5f70f48293cd03da0151650b2e362b81713da66d8ff4f7a236c3df665709b217",
+    "path": "en/nyt-best-movies-21st-century.page.json",
+    "collection": "charts/press",
+    "tags": [
+      "press",
+      "movie",
+      "nytimes"
+    ]
+  },
+  {
+    "title": "Global Top Movies",
+    "description": "Long-running, stable rankings built from years of ratings and viewing data — not day-to-day popularity swings. Covers IMDb, TMDB, Letterboxd, Trakt, Rotten Tomatoes, and MDBList.",
+    "digest": "sha256:d6ef5c84586e8d23cc36c6d7b654509610717a874bef19d80e981cbefb79b0c3",
+    "path": "en/global-top.page.json",
+    "collection": "charts/top",
+    "tags": [
+      "chart",
+      "top",
+      "global"
+    ]
+  },
+  {
+    "title": "Global Popular",
+    "description": "Fast-moving popularity charts from five platforms — TMDB, Trakt, Letterboxd, Rotten Tomatoes, and MDBList — gathered on one page.",
+    "digest": "sha256:dc4e2d2f22e51b0475afbc654d23512a7223dd4288c220ddfee9ee95dff40541",
+    "path": "en/global-popular.page.json",
+    "collection": "popular/global",
+    "tags": [
+      "chart",
+      "popular",
+      "global"
+    ]
+  },
+  {
+    "title": "Global Recent Hits",
+    "description": "Short-term charts that change week to week — box office, now playing, and this week's most-watched — from IMDb, TMDB, Trakt, Letterboxd, Rotten Tomatoes, and MDBList.",
+    "digest": "sha256:f46fd94fff7121819205da5f210ee122b5208ee4e1a7431dfb74e8464eb5e0d9",
+    "path": "en/global-recent.page.json",
+    "collection": "popular/recent",
+    "tags": [
+      "chart",
+      "popular",
+      "recent",
+      "global"
+    ]
+  },
+  {
+    "title": "Baeksang Arts Awards",
+    "description": "Baeksang Arts Awards broadcast category winners from 2017 to 2026.",
+    "digest": "sha256:997f08edb6b4c10615e00ebf2a0ee656d8d92f3740d46f7efc5e2fbe483ceb95",
+    "path": "en/baeksang.page.json",
+    "collection": "tv/awards",
+    "tags": [
+      "award",
+      "tv"
+    ]
+  },
+  {
+    "title": "Primetime Emmy Awards",
+    "description": "Primetime Emmy Award winners by category and by ceremony.",
+    "digest": "sha256:aad328cfb0d448be8b4126dc915ca1088bb153b28895eb45c05176afc2971b5f",
+    "path": "en/emmys.page.json",
+    "collection": "tv/awards",
+    "tags": [
+      "award",
+      "tv"
+    ]
+  },
+  {
+    "title": "Golden Globe Awards",
+    "description": "Golden Globe television category winners.",
+    "digest": "sha256:e133ae1cf5c5a190714eee47bf4f6112567c5fca301c037ae9338604897651db",
+    "path": "en/golden-globes.page.json",
+    "collection": "tv/awards",
+    "tags": [
+      "award",
+      "tv"
+    ]
+  },
+  {
+    "title": "The New York Times — The 100 Best TV Shows of the 21st Century",
+    "description": "The New York Times ranking of the 100 best TV shows of the 21st century: the Top 10 first, then every entry grouped by the decade it premiered in, newest first.",
+    "digest": "sha256:89f1b5c0033de531dcfd077e2f6b486cd12ee92b59c2d85c4580cae0835cba91",
+    "path": "en/nyt-best-tv-shows-21st-century.page.json",
+    "collection": "tv/press",
+    "tags": [
+      "press",
+      "tv",
+      "nytimes"
+    ]
+  },
+  {
+    "title": "Global Top TV Shows",
+    "description": "Long-running, stable TV rankings built from years of ratings and viewing data — not day-to-day popularity swings.",
+    "digest": "sha256:324c6cc2b9c0469fc016f6731d923cf842cb0995de2920289a551f394010d8b3",
+    "path": "en/global-top.page.json",
+    "collection": "tv/top",
+    "tags": [
+      "chart",
+      "top",
+      "global",
+      "tv"
+    ]
+  }
+]

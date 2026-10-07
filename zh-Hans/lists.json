@@ -1,0 +1,103 @@
+[
+  {
+    "title": "百想艺术大赏",
+    "description": "百想艺术大赏",
+    "digest": "sha256:5e40cd26e7a3fc416afb5811356bdddbc4548d9cbddeb46f7cb8bb5a0af24d05",
+    "path": "zh-Hans/baeksang.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "柏林国际电影节",
+    "description": "柏林国际电影节",
+    "digest": "sha256:183cb385dfcc940376d385adb875ec49da2d181560473ecf9f41ac4ee36cb37c",
+    "path": "zh-Hans/berlinale.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "釜山国际电影节",
+    "description": "釜山国际电影节",
+    "digest": "sha256:93cd81cf1f2481c3d2840ca8380b08fd4745c605b5a135d7e2bd95f4883b6553",
+    "path": "zh-Hans/biff.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "青龙电影奖",
+    "description": "青龙电影奖",
+    "digest": "sha256:e027ece9f88721ca56f71f3694f00930905deef8c1e765519c7171822ffffc2d",
+    "path": "zh-Hans/blue-dragon.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "戛纳电影节",
+    "description": "戛纳电影节",
+    "digest": "sha256:0abbfdb129e7e7c987081b9616f5f45065c80e660e5d471a1a78b59adeeca97a",
+    "path": "zh-Hans/cannes.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "黄金时段艾美奖",
+    "description": "黄金时段艾美奖",
+    "digest": "sha256:4f1c6a645a65766a753d97241200cac4a7214c9c41f2799167d42aa09097cae4",
+    "path": "zh-Hans/emmys.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "金球奖",
+    "description": "金球奖",
+    "digest": "sha256:d7edd48a3b59162ad1a4b75d8ba39fa5acb5bd3f30184790a7a32e15b21a8d84",
+    "path": "zh-Hans/golden-globes.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "奥斯卡金像奖",
+    "description": "奥斯卡金像奖",
+    "digest": "sha256:b5f274ead0764afa6ea9829d26a89933d50b3c508ce92858a68d351c5198e6ea",
+    "path": "zh-Hans/oscars.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "圣丹斯电影节",
+    "description": "圣丹斯电影节",
+    "digest": "sha256:b85d6037ef8ca0afc53107e14f1b139c1797138187b835f1283d6671358317d7",
+    "path": "zh-Hans/sundance.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "多伦多国际电影节",
+    "description": "多伦多国际电影节",
+    "digest": "sha256:41df64963617b6c26f94fe76e3a83d7a05cc0ed291cf2f8e38507fcaa4a6f846",
+    "path": "zh-Hans/tiff.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "威尼斯电影节",
+    "description": "威尼斯电影节",
+    "digest": "sha256:e46a92af9518afcf4f91ff544652da2a69aab348ae2d3c3f88042e8125171cd0",
+    "path": "zh-Hans/venice.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "纽约时报 — 21世纪100佳影片",
+    "description": "《纽约时报》“21世纪100佳影片”完整榜单，保留原榜单名次及榜单标示年份。",
+    "digest": "sha256:d50194d58c0360b4ca60e6372347e0dbd75614f71225324a085190feffc4aeb6",
+    "path": "zh-Hans/nyt-best-movies-21st-century.list.json",
+    "collection": "pool/press",
+    "tags": [
+      "press",
+      "movie",
+      "nytimes"
+    ]
+  },
+  {
+    "title": "纽约时报 — 21世纪最佳100部电视剧",
+    "description": "《纽约时报》“21世纪最佳100部电视剧”完整榜单，按原榜单名次排列。",
+    "digest": "sha256:277b3fafea9a83babb1599a20a6a0781da020e36202b75147221253863c90deb",
+    "path": "zh-Hans/nyt-best-tv-shows-21st-century.list.json",
+    "collection": "pool/press",
+    "tags": [
+      "press",
+      "tv",
+      "nytimes"
+    ]
+  }
+]
