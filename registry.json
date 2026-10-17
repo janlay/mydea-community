@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "repository": "janlay/mydea-community",
+  "catalogs": {
+    "pages": [
+      "en",
+      "ja",
+      "ko",
+      "zh",
+      "zh-Hans",
+      "zh-Hant"
+    ],
+    "lists": [
+      "en",
+      "ja",
+      "ko",
+      "zh",
+      "zh-Hans",
+      "zh-Hant"
+    ],
+    "themes": [
+      "."
+    ]
+  }
+}

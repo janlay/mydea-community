@@ -1,0 +1,23 @@
+[
+  {
+    "title": "金馬獎",
+    "description": "Mydea 社群整理的金馬獎得獎電影（1962 年起）。每部作品皆註明獎項與屆次年份，可在 Collection 中依獎項或年份篩選。",
+    "digest": "sha256:c77a6799660b5120237913a66050fbc771fe19e41316c846496c9f705b8a6598",
+    "path": "zh/golden-horse.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "中国电影金鸡奖",
+    "description": "Mydea 社区整理的中国电影金鸡奖获奖电影（1981 年起）。每部作品都注明奖项与届次年份，可在 Collection 中按奖项或年份筛选。",
+    "digest": "sha256:cade005ce0e5c7818b1f54a9463e0a48d9c75e4f6d11992a1303b5f655b84eba",
+    "path": "zh/golden-rooster.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "香港電影金像獎",
+    "description": "Mydea 社群整理的香港電影金像獎得獎電影（1982 年起）。每部作品皆註明獎項與屆次年份，可在 Collection 中依獎項或年份篩選。",
+    "digest": "sha256:8697c4f868a4e1f1175e7e218cbc1534d1467176866e9aca0e1902e863142977",
+    "path": "zh/hkfa.list.json",
+    "collection": "pool/awards"
+  }
+]

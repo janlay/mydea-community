@@ -1,0 +1,110 @@
+[
+  {
+    "title": "百想芸術大賞",
+    "description": "Mydea Community が整理した百想芸術大賞の受賞映画・ドラマ（2017年以降）。各作品に賞の名称と開催年を付けており、Collection で賞別・年別に絞り込めます。",
+    "digest": "sha256:9156cc1ca2b4e05d1d9b2272339cf2fbcefb5321c5a030794302bac08c57d91f",
+    "path": "ja/baeksang.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "釜山国際映画祭",
+    "description": "Mydea Community が整理した釜山国際映画祭の受賞映画（1996年以降）。各作品に賞の名称と開催年を付けており、Collection で賞別・年別に絞り込めます。",
+    "digest": "sha256:679215069c50cfc66adda64247b0fc409cf00ae37cd3b739583b7ce2f4d26d67",
+    "path": "ja/biff.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "青龍映画賞",
+    "description": "Mydea Community が整理した青龍映画賞の受賞映画（2016年以降）。各作品に賞の名称と開催年を付けており、Collection で賞別・年別に絞り込めます。",
+    "digest": "sha256:e76124e30df7376d285a4e0a6186b2cd67b6084ca4997ce974b046f25a2aa7a7",
+    "path": "ja/blue-dragon.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "カンヌ国際映画祭",
+    "description": "Mydea Community が整理したカンヌ国際映画祭の受賞映画（1946年以降）。各作品に賞の名称と開催年を付けており、Collection で賞別・年別に絞り込めます。",
+    "digest": "sha256:a1f5d97a2c92025d2a6e946235d278a80992671738afe16db65a3e304e5960c9",
+    "path": "ja/cannes.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "プライムタイム・エミー賞",
+    "description": "Mydea Community が整理したプライムタイム・エミー賞の受賞ドラマ（2017年以降）。各作品に賞の名称と開催年を付けており、Collection で賞別・年別に絞り込めます。",
+    "digest": "sha256:563295c9e9c2afe7bf2fa914ea669c935705eaf411467e5e18110d66951f5f9b",
+    "path": "ja/emmys.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "ゴールデングローブ賞",
+    "description": "Mydea Community が整理したゴールデングローブ賞の受賞映画・ドラマ（2017年以降）。各作品に賞の名称と開催年を付けており、Collection で賞別・年別に絞り込めます。",
+    "digest": "sha256:d00fb1578cdb08952bb337a60fd975484db2c1c2a96eeff2f513b66104316d9f",
+    "path": "ja/golden-globes.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "金馬奨",
+    "description": "Mydea Community が整理した金馬奨の受賞映画（1962年以降）。各作品に賞の名称と開催年を付けており、Collection で賞別・年別に絞り込めます。",
+    "digest": "sha256:81456a1b4b5512e5b8529e17d563141f212cb8e4e82211f32199d73e9cccd9d5",
+    "path": "ja/golden-horse.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "香港電影金像奨",
+    "description": "Mydea Community が整理した香港電影金像奨の受賞映画（1982年以降）。各作品に賞の名称と開催年を付けており、Collection で賞別・年別に絞り込めます。",
+    "digest": "sha256:e75409d8fec2f9ad07aa613becd32fe60ee014f4489c5e554498687374edf1f0",
+    "path": "ja/hkfa.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "アカデミー賞",
+    "description": "Mydea Community が整理したアカデミー賞の受賞映画（2017年以降）。各作品に賞の名称と開催年を付けており、Collection で賞別・年別に絞り込めます。",
+    "digest": "sha256:2ee690a1e24959a34fb047800a0164700824e86fca8845b5f21d06dc02203d29",
+    "path": "ja/oscars.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "サンダンス映画祭",
+    "description": "Mydea Community が整理したサンダンス映画祭の受賞映画（1985年以降）。各作品に賞の名称と開催年を付けており、Collection で賞別・年別に絞り込めます。",
+    "digest": "sha256:526b0ced23b717a7ac48981b2f3820e2f5cde7bb05886dedd580833a9082ff0d",
+    "path": "ja/sundance.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "トロント国際映画祭",
+    "description": "Mydea Community が整理したトロント国際映画祭の受賞映画（1978年以降）。各作品に賞の名称と開催年を付けており、Collection で賞別・年別に絞り込めます。",
+    "digest": "sha256:3c379fc9ddaa38dc2523b54c11eabba624d1f965fa38676b168b74302d9105be",
+    "path": "ja/tiff.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "ヴェネツィア国際映画祭",
+    "description": "ヴェネツィア国際映画祭の受賞作品。各作品に賞と開催年を記載し、Collectionで賞や年ごとに絞り込めます。",
+    "digest": "sha256:5e201418c28907d7ec3b0e4e52d4948920b6265dc4867b6440a30e90d91edf91",
+    "path": "ja/venice.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "ニューヨーク・タイムズ — 21世紀のベスト映画100",
+    "description": "ニューヨーク・タイムズ「21世紀のベスト映画100」の全ランキング。順位とランキング掲載年を保持しています。",
+    "digest": "sha256:3ecf6266a801d7e9f81eb7ff613985565eb36dc9f99492f296257d58a906ed60",
+    "path": "ja/nyt-best-movies-21st-century.list.json",
+    "collection": "pool/press",
+    "tags": [
+      "press",
+      "movie",
+      "nytimes"
+    ]
+  },
+  {
+    "title": "ニューヨーク・タイムズ — 21世紀のベストTV番組100",
+    "description": "ニューヨーク・タイムズ「The 100 Best TV Shows of the 21st Century」の全100作品を掲載順位順に収録。",
+    "digest": "sha256:49835ce59da42a698dec9777f69e06ee4cae493d89ca9842106d96c8a54a61e0",
+    "path": "ja/nyt-best-tv-shows-21st-century.list.json",
+    "collection": "pool/press",
+    "tags": [
+      "press",
+      "tv",
+      "nytimes"
+    ]
+  }
+]
