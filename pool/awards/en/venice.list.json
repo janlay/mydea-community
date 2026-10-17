@@ -6,9 +6,110 @@
   "license": "CC-BY-NC-SA-4.0",
   "homepage": "https://github.com/janlay/mydea-community",
   "server": "TMDB",
-  "updatedAt": "2026-09-10T15:30:00Z",
+  "updatedAt": "2026-10-17T11:37:19Z",
   "description": "Mydea Community's record of films that won at the Venice International Film Festival since 1932. Each entry names its prize and edition year, so a Collection can pick out one prize or one year.",
   "items": [
+    {
+      "id": "venice-golden-lion-2026-woman-unknown",
+      "mediaType": "movie",
+      "title": "Woman Unknown",
+      "awardYear": 2026,
+      "winner": "May el-Toukhy",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt34888026"
+      },
+      "award": "Golden Lion",
+      "originalTitle": "Kvinde ukendt"
+    },
+    {
+      "id": "venice-grand-jury-prize-2026-possible-love",
+      "mediaType": "movie",
+      "title": "Possible Love",
+      "awardYear": 2026,
+      "winner": "Lee Chang-dong",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt37803364"
+      },
+      "award": "Silver Lion – Grand Jury Prize",
+      "originalTitle": "가능한 사랑"
+    },
+    {
+      "id": "venice-best-director-2026-dau",
+      "mediaType": "movie",
+      "title": "DAU",
+      "awardYear": 2026,
+      "winner": "Ilya Khrzhanovsky",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt43702526"
+      },
+      "award": "Silver Lion – Best Director"
+    },
+    {
+      "id": "venice-best-actress-2026-woman-unknown",
+      "mediaType": "movie",
+      "title": "Woman Unknown",
+      "awardYear": 2026,
+      "winner": "Mathilde Arcel",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt34888026"
+      },
+      "award": "Volpi Cup for Best Actress",
+      "originalTitle": "Kvinde ukendt"
+    },
+    {
+      "id": "venice-best-actor-2026-wild-horse-nine",
+      "mediaType": "movie",
+      "title": "Wild Horse Nine",
+      "awardYear": 2026,
+      "winner": "John Malkovich",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt15799564"
+      },
+      "award": "Volpi Cup for Best Actor"
+    },
+    {
+      "id": "venice-best-screenplay-2026-a-good-little-soldier",
+      "mediaType": "movie",
+      "title": "A Good Little Soldier",
+      "awardYear": 2026,
+      "winner": "Coralie Amedeo & Stéphane Brizé & Olivier Gorce",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt41802342"
+      },
+      "award": "Best Screenplay",
+      "originalTitle": "Un bon petit soldat"
+    },
+    {
+      "id": "venice-special-jury-prize-2026-naza",
+      "mediaType": "movie",
+      "title": "NAZA",
+      "awardYear": 2026,
+      "winner": "Yuval Abraham & Rachel Szor",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt44766123"
+      },
+      "award": "Special Jury Prize"
+    },
+    {
+      "id": "venice-marcello-mastroianni-award-2026-a-place-to-heal",
+      "mediaType": "movie",
+      "title": "A Place to Heal",
+      "awardYear": 2026,
+      "winner": "Malou Khebizi",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt42826707"
+      },
+      "award": "Marcello Mastroianni Award",
+      "originalTitle": "15/18"
+    },
     {
       "id": "venice-best-screenplay-2025-at-work-17",
       "mediaType": "movie",

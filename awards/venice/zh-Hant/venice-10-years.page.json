@@ -3,7 +3,7 @@
   "kind": "page",
   "author": "Mydea",
   "title": "威尼斯十年",
-  "description": "威尼斯影展最近十屆（2016–2025）主競賽獲獎名單。",
+  "description": "威尼斯影展最近十屆（2017–2026）主競賽獲獎名單。",
   "tags": [
     "award",
     "decade"
@@ -11,7 +11,7 @@
   "icon": "ticket",
   "collections": [
     {
-      "title": "威尼斯 — 2025",
+      "title": "威尼斯 — 2026",
       "description": "第93屆威尼斯影展主競賽主要官方獎項獲獎影片。",
       "sortBy": [
         [
@@ -34,19 +34,19 @@
       ],
       "filters": [
         {
-          "id": "venice-2025-year",
+          "id": "venice-2026-year",
           "targetType": "movie",
           "field": "awardYear",
           "fieldType": "number",
           "operator": "equals",
-          "value": "2025",
+          "value": "2026",
           "isNegated": false
         }
       ],
       "filterMatchMode": "all"
     },
     {
-      "title": "威尼斯 2016–2024",
+      "title": "威尼斯 2017–2025",
       "sortBy": [
         [
           "awardYear",
@@ -73,7 +73,7 @@
           "field": "awardYear",
           "fieldType": "number",
           "operator": "greaterThan",
-          "value": "2015",
+          "value": "2016",
           "isNegated": false
         },
         {
@@ -82,14 +82,14 @@
           "field": "awardYear",
           "fieldType": "number",
           "operator": "lessThan",
-          "value": "2025",
+          "value": "2026",
           "isNegated": false
         }
       ],
       "filterMatchMode": "all",
       "grouping": {
         "field": "awardYear",
-        "buckets": "2024,2023,,2016",
+        "buckets": "2025,2024,,2017",
         "label": "{start}"
       }
     }

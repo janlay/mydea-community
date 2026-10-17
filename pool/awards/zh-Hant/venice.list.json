@@ -6,9 +6,115 @@
   "license": "CC-BY-NC-SA-4.0",
   "homepage": "https://github.com/janlay/mydea-community",
   "server": "TMDB",
-  "updatedAt": "2026-09-10T15:30:00Z",
+  "updatedAt": "2026-10-17T11:37:19Z",
   "description": "Mydea 社群整理的威尼斯影展得獎電影（1932 年起）。每部作品皆註明獎項與屆次年份，可在 Collection 中依獎項或年份篩選。",
   "items": [
+    {
+      "id": "venice-golden-lion-2026-woman-unknown",
+      "mediaType": "movie",
+      "title": "女人，未知",
+      "awardYear": 2026,
+      "winner": "May el-Toukhy",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt34888026"
+      },
+      "award": "金獅獎",
+      "englishTitle": "Woman Unknown",
+      "originalTitle": "Kvinde ukendt"
+    },
+    {
+      "id": "venice-grand-jury-prize-2026-possible-love",
+      "mediaType": "movie",
+      "title": "假如愛有如果",
+      "awardYear": 2026,
+      "winner": "Lee Chang-dong",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt37803364"
+      },
+      "award": "銀獅獎·評審團大獎",
+      "englishTitle": "Possible Love",
+      "originalTitle": "가능한 사랑"
+    },
+    {
+      "id": "venice-best-director-2026-dau",
+      "mediaType": "movie",
+      "title": "DAU",
+      "awardYear": 2026,
+      "winner": "Ilya Khrzhanovsky",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt43702526"
+      },
+      "award": "銀獅獎·最佳導演"
+    },
+    {
+      "id": "venice-best-actress-2026-woman-unknown",
+      "mediaType": "movie",
+      "title": "女人，未知",
+      "awardYear": 2026,
+      "winner": "Mathilde Arcel",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt34888026"
+      },
+      "award": "沃爾皮杯·最佳女演員",
+      "englishTitle": "Woman Unknown",
+      "originalTitle": "Kvinde ukendt"
+    },
+    {
+      "id": "venice-best-actor-2026-wild-horse-nine",
+      "mediaType": "movie",
+      "title": "野馬九號",
+      "awardYear": 2026,
+      "winner": "John Malkovich",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt15799564"
+      },
+      "award": "沃爾皮杯·最佳男演員",
+      "englishTitle": "Wild Horse Nine"
+    },
+    {
+      "id": "venice-best-screenplay-2026-a-good-little-soldier",
+      "mediaType": "movie",
+      "title": "A Good Little Soldier",
+      "awardYear": 2026,
+      "winner": "Coralie Amedeo & Stéphane Brizé & Olivier Gorce",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt41802342"
+      },
+      "award": "最佳編劇獎",
+      "originalTitle": "Un bon petit soldat"
+    },
+    {
+      "id": "venice-special-jury-prize-2026-naza",
+      "mediaType": "movie",
+      "title": "附帶傷亡",
+      "awardYear": 2026,
+      "winner": "Yuval Abraham & Rachel Szor",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt44766123"
+      },
+      "award": "評審團特別獎",
+      "englishTitle": "NAZA"
+    },
+    {
+      "id": "venice-marcello-mastroianni-award-2026-a-place-to-heal",
+      "mediaType": "movie",
+      "title": "A Place to Heal",
+      "awardYear": 2026,
+      "winner": "Malou Khebizi",
+      "releaseDate": "2026",
+      "externalIds": {
+        "imdb": "tt42826707"
+      },
+      "award": "馬塞洛·馬斯楚安尼獎",
+      "originalTitle": "15/18"
+    },
     {
       "id": "venice-best-screenplay-2025-at-work-17",
       "mediaType": "movie",
