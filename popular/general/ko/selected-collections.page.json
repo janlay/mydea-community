@@ -1,0 +1,157 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "icon": "filemenu.and.selection",
+  "title": "엄선 컬렉션",
+  "originRegionFilter": {
+    "hiddenRegion": "IN"
+  },
+  "collections": [
+    {
+      "title": "",
+      "service": "rottentomatoes",
+      "query": "rotten_tomatoes_browse",
+      "params": [
+        {
+          "name": "category",
+          "value": "movies_in_theaters"
+        },
+        {
+          "name": "critics",
+          "value": "certified_fresh"
+        },
+        {
+          "name": "audience",
+          "value": "verified_hot"
+        }
+      ],
+      "layout": "carousel",
+      "cacheTtlInDays": 1
+    },
+    {
+      "title": "현재 상영작",
+      "service": "tmdb",
+      "query": "tmdb_now_playing",
+      "params": [
+        {
+          "name": "region",
+          "value": "{{region}}"
+        }
+      ],
+      "layout": "grid",
+      "cacheTtlInDays": 1
+    },
+    {
+      "title": "Lex Fridman",
+      "service": "youtube",
+      "query": "youtube_channel",
+      "params": [
+        {
+          "name": "channel",
+          "value": "https://www.youtube.com/@lexfridman"
+        }
+      ],
+      "layout": "hero"
+    },
+    {
+      "title": "인기 영화",
+      "service": "mdblistsimulated",
+      "query": "mdblist_simulated_official",
+      "params": [
+        {
+          "name": "official_shortcut",
+          "value": "popular"
+        },
+        {
+          "name": "official_slug",
+          "value": "popular"
+        }
+      ],
+      "layout": "grid"
+    },
+    {
+      "title": "아카데미 감독상",
+      "service": "tvdb",
+      "query": "tvdb_award_categories",
+      "params": [
+        {
+          "name": "award_category",
+          "value": "9"
+        }
+      ],
+      "layout": "itunes",
+      "cacheTtlInDays": 360
+    },
+    {
+      "title": "NYT — 최고의 영화 100편 중 톱 10",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/press/ko/nyt-best-movies-21st-century.list.json"
+        }
+      ],
+      "limit": 10,
+      "sortBy": [
+        [
+          "rank",
+          "asc"
+        ]
+      ],
+      "bindings": [
+        "title with year",
+        "ranking"
+      ],
+      "filters": [
+        {
+          "id": "nyt-movies-top10",
+          "targetType": "movie",
+          "field": "rank",
+          "fieldType": "number",
+          "operator": "lessThan",
+          "value": "11",
+          "isNegated": false
+        }
+      ],
+      "layout": "itunes",
+      "cacheTtlInDays": 360
+    },
+    {
+      "title": "NYT — 최고의 TV 프로그램 100선 중 톱 10",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/press/ko/nyt-best-tv-shows-21st-century.list.json"
+        }
+      ],
+      "limit": 10,
+      "sortBy": [
+        [
+          "rank",
+          "asc"
+        ]
+      ],
+      "bindings": [
+        "title with year",
+        "ranking"
+      ],
+      "filters": [
+        {
+          "id": "nyt-tv-shows-top10",
+          "targetType": "show",
+          "field": "rank",
+          "fieldType": "number",
+          "operator": "lessThan",
+          "value": "11",
+          "isNegated": false
+        }
+      ],
+      "layout": "itunes"
+    }
+  ],
+  "showsCollectionServiceIcons": true
+}

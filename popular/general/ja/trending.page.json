@@ -4,6 +4,9 @@
   "author": "Mydea",
   "icon": "flame",
   "title": "トレンド",
+  "originRegionFilter": {
+    "hiddenRegion": "IN"
+  },
   "collections": [
     {
       "title": "配信ランキング",
@@ -29,36 +32,81 @@
       "layout": "carousel"
     },
     {
-      "title": "人気ドラマ",
-      "service": "nuvio",
-      "query": "nuvio_catalog",
+      "title": "上映中の映画",
+      "service": "imdb",
+      "query": "imdb_showtimes",
       "params": [
         {
-          "name": "catalog_shortcut",
-          "value": "https://v3-cinemeta.strem.io/catalog/series/top.json"
+          "name": "region",
+          "value": "{{region}}"
         },
         {
-          "name": "catalog_url",
-          "value": "https://v3-cinemeta.strem.io/catalog/series/top.json"
+          "name": "showtimes_sort",
+          "value": "rating"
         }
+      ],
+      "excludedRegions": [
+        "CN"
+      ],
+      "bindings": [
+        "Title with Year",
+        "regionalReleaseDate"
+      ],
+      "layout": "film"
+    },
+    {
+      "title": "公開予定",
+      "service": "imdb",
+      "query": "imdb_coming_soon",
+      "params": [
+        {
+          "name": "region",
+          "value": "{{region}}"
+        }
+      ],
+      "bindings": [
+        "Title with Year",
+        "regionalReleaseDate"
       ],
       "layout": "grid"
     },
     {
-      "title": "上映中の人気映画",
-      "service": "rottentomatoes",
-      "query": "rotten_tomatoes_custom_list",
+      "title": "Netflix 人気映画",
+      "service": "nuvio",
+      "query": "netflix_top10",
       "params": [
         {
-          "name": "list_shortcut",
-          "value": "https://www.rottentomatoes.com/browse/movies_in_theaters/sort:popular"
+          "name": "media_type",
+          "value": "movie"
         },
         {
-          "name": "list_url",
-          "value": "https://www.rottentomatoes.com/browse/movies_in_theaters/sort:popular"
+          "name": "region",
+          "value": "{{region}}"
         }
       ],
-      "layout": "grid"
+      "excludedRegions": [
+        "CN"
+      ],
+      "layout": "itunes"
+    },
+    {
+      "title": "Netflix 人気ドラマ",
+      "service": "nuvio",
+      "query": "netflix_top10",
+      "params": [
+        {
+          "name": "media_type",
+          "value": "series"
+        },
+        {
+          "name": "region",
+          "value": "{{region}}"
+        }
+      ],
+      "excludedRegions": [
+        "CN"
+      ],
+      "layout": "itunes"
     },
     {
       "title": "今週の人気映画",
@@ -91,6 +139,27 @@
         }
       ],
       "layout": "grid"
+    },
+    {
+      "title": "IMDb トップ250",
+      "service": "imdb",
+      "query": "imdb_custom_list",
+      "params": [
+        {
+          "name": "chart_shortcut",
+          "value": "top"
+        },
+        {
+          "name": "list_url",
+          "value": "top"
+        },
+        {
+          "name": "page_size",
+          "value": "100"
+        }
+      ],
+      "layout": "hive",
+      "cacheTtlInDays": 30
     }
   ],
   "showsCollectionServiceIcons": true

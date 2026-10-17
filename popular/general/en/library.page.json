@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "icon": "tray.and.arrow.down",
+  "title": "Library",
+  "collections": [
+    {
+      "title": "Recently Added",
+      "service": "media.library",
+      "query": "recently_added",
+      "params": [
+        {
+          "name": "sources",
+          "value": "*"
+        }
+      ],
+      "layout": "carousel"
+    },
+    {
+      "title": "Continue Watching",
+      "service": "media.library",
+      "query": "continue_watching",
+      "params": [
+        {
+          "name": "sources",
+          "value": "*"
+        },
+        {
+          "name": "page_size",
+          "value": "12"
+        }
+      ],
+      "layout": "hero",
+      "cacheTtlInDays": 7
+    },
+    {
+      "title": "Library",
+      "service": "media.library",
+      "query": "libraries",
+      "params": [
+        {
+          "name": "sources",
+          "value": "*"
+        }
+      ],
+      "layout": "library"
+    },
+    {
+      "title": "My Movies",
+      "service": "media.library",
+      "query": "movies",
+      "params": [
+        {
+          "name": "sources",
+          "value": "*"
+        },
+        {
+          "name": "page_size",
+          "value": "60"
+        }
+      ],
+      "layout": "film",
+      "cacheTtlInDays": 7
+    },
+    {
+      "title": "My TV Shows",
+      "service": "media.library",
+      "query": "tv_shows",
+      "params": [
+        {
+          "name": "sources",
+          "value": "*"
+        },
+        {
+          "name": "page_size",
+          "value": "60"
+        }
+      ],
+      "layout": "hero",
+      "cacheTtlInDays": 7
+    }
+  ]
+}

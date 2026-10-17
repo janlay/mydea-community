@@ -4,6 +4,9 @@
   "author": "Mydea",
   "icon": "flame",
   "title": "热门",
+  "originRegionFilter": {
+    "hiddenRegion": "IN"
+  },
   "collections": [
     {
       "title": "实时热门",
@@ -28,13 +31,29 @@
           "value": "{{region}}"
         }
       ],
+      "layout": "film",
       "sortBy": [
         [
           "rating.value",
           "desc"
         ]
+      ]
+    },
+    {
+      "title": "即将上映",
+      "service": "douban",
+      "query": "collection",
+      "params": [
+        {
+          "name": "collection",
+          "value": "movie_soon"
+        }
       ],
-      "layout": "film"
+      "bindings": [
+        "Title with Year",
+        "regionalReleaseDate"
+      ],
+      "layout": "grid"
     },
     {
       "title": "近期高分电影",

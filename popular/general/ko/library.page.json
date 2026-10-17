@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "icon": "tray.and.arrow.down",
+  "title": "라이브러리",
+  "collections": [
+    {
+      "title": "최근 추가",
+      "service": "media.library",
+      "query": "recently_added",
+      "params": [
+        {
+          "name": "sources",
+          "value": "*"
+        }
+      ],
+      "layout": "carousel"
+    },
+    {
+      "title": "이어보기",
+      "service": "media.library",
+      "query": "continue_watching",
+      "params": [
+        {
+          "name": "sources",
+          "value": "*"
+        },
+        {
+          "name": "page_size",
+          "value": "12"
+        }
+      ],
+      "layout": "hero",
+      "cacheTtlInDays": 7
+    },
+    {
+      "title": "라이브러리",
+      "service": "media.library",
+      "query": "libraries",
+      "params": [
+        {
+          "name": "sources",
+          "value": "*"
+        }
+      ],
+      "layout": "library"
+    },
+    {
+      "title": "내 영화 라이브러리",
+      "service": "media.library",
+      "query": "movies",
+      "params": [
+        {
+          "name": "sources",
+          "value": "*"
+        },
+        {
+          "name": "page_size",
+          "value": "60"
+        }
+      ],
+      "layout": "film",
+      "cacheTtlInDays": 7
+    },
+    {
+      "title": "내 시리즈 라이브러리",
+      "service": "media.library",
+      "query": "tv_shows",
+      "params": [
+        {
+          "name": "sources",
+          "value": "*"
+        },
+        {
+          "name": "page_size",
+          "value": "60"
+        }
+      ],
+      "layout": "hero",
+      "cacheTtlInDays": 7
+    }
+  ]
+}

@@ -3,16 +3,16 @@
   "kind": "page",
   "author": "Mydea",
   "icon": "trophy",
-  "title": "2026 頒獎季",
+  "title": "2026 시상식 시즌",
   "collections": [
     {
-      "title": "奧斯卡金像獎",
+      "title": "아카데미상",
       "service": "mydea",
       "query": "list",
       "params": [
         {
           "name": "url",
-          "value": "pool/awards/zh-Hant/oscars.list.json"
+          "value": "pool/awards/ko/oscars.list.json"
         }
       ],
       "sortBy": [
@@ -49,13 +49,13 @@
       "layout": "carousel"
     },
     {
-      "title": "金球獎",
+      "title": "골든 글로브상",
       "service": "mydea",
       "query": "list",
       "params": [
         {
           "name": "url",
-          "value": "pool/awards/zh-Hant/golden-globes.list.json"
+          "value": "pool/awards/ko/golden-globes.list.json"
         }
       ],
       "sortBy": [
@@ -92,13 +92,13 @@
       "layout": "grid"
     },
     {
-      "title": "坎城影展",
+      "title": "칸 영화제",
       "service": "mydea",
       "query": "list",
       "params": [
         {
           "name": "url",
-          "value": "pool/awards/zh-Hant/cannes.list.json"
+          "value": "pool/awards/ko/cannes.list.json"
         }
       ],
       "sortBy": [
@@ -135,13 +135,13 @@
       "layout": "grid"
     },
     {
-      "title": "柏林影展",
+      "title": "베니스 국제 영화제",
       "service": "mydea",
       "query": "list",
       "params": [
         {
           "name": "url",
-          "value": "pool/awards/zh-Hant/berlinale.list.json"
+          "value": "pool/awards/ko/venice.list.json"
         }
       ],
       "sortBy": [
@@ -156,7 +156,7 @@
       ],
       "filters": [
         {
-          "id": "berlinale-year-movie",
+          "id": "venice-year-movie",
           "targetType": "movie",
           "field": "awardYear",
           "fieldType": "number",
@@ -165,7 +165,7 @@
           "isNegated": false
         },
         {
-          "id": "berlinale-year-show",
+          "id": "venice-year-show",
           "targetType": "show",
           "field": "awardYear",
           "fieldType": "number",
@@ -178,13 +178,13 @@
       "layout": "grid"
     },
     {
-      "title": "黃金時段艾美獎",
+      "title": "프라임타임 에미상",
       "service": "mydea",
       "query": "list",
       "params": [
         {
           "name": "url",
-          "value": "pool/awards/zh-Hant/emmys.list.json"
+          "value": "pool/awards/ko/emmys.list.json"
         }
       ],
       "sortBy": [
@@ -221,13 +221,13 @@
       "layout": "grid"
     },
     {
-      "title": "百想藝術大賞",
+      "title": "백상예술대상",
       "service": "mydea",
       "query": "list",
       "params": [
         {
           "name": "url",
-          "value": "pool/awards/zh-Hant/baeksang.list.json"
+          "value": "pool/awards/ko/baeksang.list.json"
         }
       ],
       "sortBy": [
@@ -264,13 +264,13 @@
       "layout": "grid"
     },
     {
-      "title": "香港電影金像獎",
+      "title": "홍콩 영화 금상장",
       "service": "mydea",
       "query": "list",
       "params": [
         {
           "name": "url",
-          "value": "pool/awards/zh/hkfa.list.json"
+          "value": "pool/awards/ko/hkfa.list.json"
         }
       ],
       "sortBy": [
@@ -307,13 +307,13 @@
       "layout": "grid"
     },
     {
-      "title": "日舞影展",
+      "title": "선댄스 영화제",
       "service": "mydea",
       "query": "list",
       "params": [
         {
           "name": "url",
-          "value": "pool/awards/zh-Hant/sundance.list.json"
+          "value": "pool/awards/ko/sundance.list.json"
         }
       ],
       "sortBy": [

@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "icon": "tray.and.arrow.down",
+  "title": "媒体库",
+  "collections": [
+    {
+      "title": "最近添加",
+      "service": "media.library",
+      "query": "recently_added",
+      "params": [
+        {
+          "name": "sources",
+          "value": "*"
+        }
+      ],
+      "layout": "carousel"
+    },
+    {
+      "title": "继续观看",
+      "service": "media.library",
+      "query": "continue_watching",
+      "params": [
+        {
+          "name": "sources",
+          "value": "*"
+        },
+        {
+          "name": "page_size",
+          "value": "12"
+        }
+      ],
+      "layout": "hero",
+      "cacheTtlInDays": 7
+    },
+    {
+      "title": "媒体库",
+      "service": "media.library",
+      "query": "libraries",
+      "params": [
+        {
+          "name": "sources",
+          "value": "*"
+        }
+      ],
+      "layout": "library"
+    },
+    {
+      "title": "我的电影库",
+      "service": "media.library",
+      "query": "movies",
+      "params": [
+        {
+          "name": "sources",
+          "value": "*"
+        },
+        {
+          "name": "page_size",
+          "value": "60"
+        }
+      ],
+      "layout": "film",
+      "cacheTtlInDays": 7
+    },
+    {
+      "title": "我的剧集库",
+      "service": "media.library",
+      "query": "tv_shows",
+      "params": [
+        {
+          "name": "sources",
+          "value": "*"
+        },
+        {
+          "name": "page_size",
+          "value": "60"
+        }
+      ],
+      "layout": "hero",
+      "cacheTtlInDays": 7
+    }
+  ]
+}

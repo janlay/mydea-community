@@ -1,0 +1,157 @@
+{
+  "schemaVersion": 1,
+  "kind": "page",
+  "author": "Mydea",
+  "icon": "filemenu.and.selection",
+  "title": "精選合集",
+  "originRegionFilter": {
+    "hiddenRegion": "IN"
+  },
+  "collections": [
+    {
+      "title": "",
+      "service": "rottentomatoes",
+      "query": "rotten_tomatoes_browse",
+      "params": [
+        {
+          "name": "category",
+          "value": "movies_in_theaters"
+        },
+        {
+          "name": "critics",
+          "value": "certified_fresh"
+        },
+        {
+          "name": "audience",
+          "value": "verified_hot"
+        }
+      ],
+      "layout": "carousel",
+      "cacheTtlInDays": 1
+    },
+    {
+      "title": "正在上映",
+      "service": "tmdb",
+      "query": "tmdb_now_playing",
+      "params": [
+        {
+          "name": "region",
+          "value": "{{region}}"
+        }
+      ],
+      "layout": "grid",
+      "cacheTtlInDays": 1
+    },
+    {
+      "title": "Lex Fridman",
+      "service": "youtube",
+      "query": "youtube_channel",
+      "params": [
+        {
+          "name": "channel",
+          "value": "https://www.youtube.com/@lexfridman"
+        }
+      ],
+      "layout": "hero"
+    },
+    {
+      "title": "熱門電影",
+      "service": "mdblistsimulated",
+      "query": "mdblist_simulated_official",
+      "params": [
+        {
+          "name": "official_shortcut",
+          "value": "popular"
+        },
+        {
+          "name": "official_slug",
+          "value": "popular"
+        }
+      ],
+      "layout": "grid"
+    },
+    {
+      "title": "奧斯卡最佳導演",
+      "service": "tvdb",
+      "query": "tvdb_award_categories",
+      "params": [
+        {
+          "name": "award_category",
+          "value": "9"
+        }
+      ],
+      "layout": "itunes",
+      "cacheTtlInDays": 360
+    },
+    {
+      "title": "紐約時報 — 100佳電影前10名",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/press/zh-Hant/nyt-best-movies-21st-century.list.json"
+        }
+      ],
+      "limit": 10,
+      "sortBy": [
+        [
+          "rank",
+          "asc"
+        ]
+      ],
+      "bindings": [
+        "title with year",
+        "ranking"
+      ],
+      "filters": [
+        {
+          "id": "nyt-movies-top10",
+          "targetType": "movie",
+          "field": "rank",
+          "fieldType": "number",
+          "operator": "lessThan",
+          "value": "11",
+          "isNegated": false
+        }
+      ],
+      "layout": "itunes",
+      "cacheTtlInDays": 360
+    },
+    {
+      "title": "紐約時報 — 100部最佳電視劇前10名",
+      "service": "mydea",
+      "query": "list",
+      "params": [
+        {
+          "name": "url",
+          "value": "pool/press/zh-Hant/nyt-best-tv-shows-21st-century.list.json"
+        }
+      ],
+      "limit": 10,
+      "sortBy": [
+        [
+          "rank",
+          "asc"
+        ]
+      ],
+      "bindings": [
+        "title with year",
+        "ranking"
+      ],
+      "filters": [
+        {
+          "id": "nyt-tv-shows-top10",
+          "targetType": "show",
+          "field": "rank",
+          "fieldType": "number",
+          "operator": "lessThan",
+          "value": "11",
+          "isNegated": false
+        }
+      ],
+      "layout": "itunes"
+    }
+  ],
+  "showsCollectionServiceIcons": true
+}
