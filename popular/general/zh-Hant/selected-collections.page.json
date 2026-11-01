@@ -43,7 +43,7 @@
       "cacheTtlInDays": 1
     },
     {
-      "title": "Lex Fridman",
+      "title": "$_subscription",
       "service": "youtube",
       "query": "youtube_subscription",
       "params": [
