@@ -45,10 +45,10 @@
     {
       "title": "Lex Fridman",
       "service": "youtube",
-      "query": "youtube_channel",
+      "query": "youtube_subscription",
       "params": [
         {
-          "name": "channel",
+          "name": "subscription",
           "value": "https://www.youtube.com/@lexfridman"
         }
       ],
