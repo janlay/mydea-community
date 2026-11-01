@@ -1,0 +1,117 @@
+[
+  {
+    "title": "Baeksang Arts Awards",
+    "description": "Mydea Community's record of films and series that won at the Baeksang Arts Awards since 2017. Each entry names its prize and edition year, so a Collection can pick out one prize or one year.",
+    "digest": "sha256:e75bd9b90c17b443cbf424a2124e2b32e26d6cbc20427e7d862dcefac1e5c482",
+    "path": "en/baeksang.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "Berlin International Film Festival",
+    "description": "Mydea Community's record of films that won at the Berlin International Film Festival since 1951. Each entry names its prize and edition year, so a Collection can pick out one prize or one year.",
+    "digest": "sha256:c7c464acfd4bbe36078f476fa9e874b838219aba66973be4c10e7d2b229726c1",
+    "path": "en/berlinale.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "Busan International Film Festival",
+    "description": "Mydea Community's record of films that won at the Busan International Film Festival since 1996. Each entry names its prize and edition year, so a Collection can pick out one prize or one year.",
+    "digest": "sha256:5326b8ae6628d5bab8142bd683ae10b0fadbe4f12df1525983a14f13d8180057",
+    "path": "en/biff.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "Blue Dragon Film Awards",
+    "description": "Mydea Community's record of films that won at the Blue Dragon Film Awards since 2016. Each entry names its prize and edition year, so a Collection can pick out one prize or one year.",
+    "digest": "sha256:411dd1a4e664220ae0265df68a07d13f155a6e0e0857fe5b9854451e6e4bc275",
+    "path": "en/blue-dragon.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "Cannes Film Festival",
+    "description": "Mydea Community's record of films that won at the Cannes Film Festival since 1946. Each entry names its prize and edition year, so a Collection can pick out one prize or one year.",
+    "digest": "sha256:80e1945c53a8e9340ee162bc2c47d380c40473d5bc885865196a839110e9c709",
+    "path": "en/cannes.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "Primetime Emmy Awards",
+    "description": "Mydea Community's record of series that won at the Primetime Emmy Awards since 2017. Each entry names its prize and edition year, so a Collection can pick out one prize or one year.",
+    "digest": "sha256:0d159ad5412636bc189357291233fa719af42684f234db167dfa2dbb8068bcbf",
+    "path": "en/emmys.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "Golden Globe Awards",
+    "description": "Mydea Community's record of films and series that won at the Golden Globe Awards since 2017. Each entry names its prize and edition year, so a Collection can pick out one prize or one year.",
+    "digest": "sha256:037027b8830e4acaa86966fb58af5afb270c870bf2d00576f9bd458b2566abd1",
+    "path": "en/golden-globes.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "Golden Horse Awards",
+    "description": "Mydea Community's record of films that won at the Golden Horse Awards since 1962. Each entry names its prize and edition year, so a Collection can pick out one prize or one year.",
+    "digest": "sha256:28627fec0b0912502f0a605b4a291eeffc892030a8862d94deb3ef1c21af7c88",
+    "path": "en/golden-horse.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "Hong Kong Film Awards",
+    "description": "Mydea Community's record of films that won at the Hong Kong Film Awards since 1982. Each entry names its prize and edition year, so a Collection can pick out one prize or one year.",
+    "digest": "sha256:6c5d58d5a11de81f663b1bb4895806edd4e9eecc18ef0e99262914d0020a7f19",
+    "path": "en/hkfa.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "Academy Awards",
+    "description": "Mydea Community's record of films that won at the Academy Awards since 2017. Each entry names its prize and edition year, so a Collection can pick out one prize or one year.",
+    "digest": "sha256:b1b090f759cca8266308c79740c06925d57c5d0fd5ed90c2bdda98ea6b2cbaa9",
+    "path": "en/oscars.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "Sundance Film Festival",
+    "description": "Mydea Community's record of films that won at the Sundance Film Festival since 1985. Each entry names its prize and edition year, so a Collection can pick out one prize or one year.",
+    "digest": "sha256:60e1a224aae3781a342d353d600c75b6935e03b2643fcce52465c8007e58dee0",
+    "path": "en/sundance.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "Toronto International Film Festival",
+    "description": "Mydea Community's record of films that won at the Toronto International Film Festival since 1978. Each entry names its prize and edition year, so a Collection can pick out one prize or one year.",
+    "digest": "sha256:33b200ea66cfd3ab52a4a60ffd75d996e459e7ca371d3b226b06ae83a7c358bd",
+    "path": "en/tiff.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "Venice International Film Festival",
+    "description": "Mydea Community's record of films that won at the Venice International Film Festival since 1932. Each entry names its prize and edition year, so a Collection can pick out one prize or one year.",
+    "digest": "sha256:8db0bac7b10e3be44ffa01c469fcdc3b3e7956106d77c1e87a4c4bbc8c33aee8",
+    "path": "en/venice.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "The New York Times — The 100 Best Movies of the 21st Century",
+    "description": "The complete New York Times “The 100 Best Movies of the 21st Century” ranking, preserving the original ranking order and the release year shown by the list.",
+    "digest": "sha256:f05c9dd2c38c178a11bf8011f9c0991c5387a1efff1f958f72e95049eba39ee1",
+    "path": "en/nyt-best-movies-21st-century.list.json",
+    "collection": "pool/press",
+    "tags": [
+      "press",
+      "movie",
+      "nytimes"
+    ]
+  },
+  {
+    "title": "The New York Times — The 100 Best TV Shows of the 21st Century",
+    "description": "The 100 television shows ranked by The New York Times in “The 100 Best TV Shows of the 21st Century,” ordered by the published ranking.",
+    "digest": "sha256:3997e08590f2d5663aa38ca432db6ca0c9a82d1e2664c390413dafa2dc604f91",
+    "path": "en/nyt-best-tv-shows-21st-century.list.json",
+    "collection": "pool/press",
+    "tags": [
+      "press",
+      "tv",
+      "nytimes"
+    ]
+  }
+]

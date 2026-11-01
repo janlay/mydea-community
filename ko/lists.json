@@ -1,0 +1,110 @@
+[
+  {
+    "title": "백상예술대상",
+    "description": "Mydea Community가 정리한 백상예술대상 수상 영화·시리즈 목록(2017년부터). 작품마다 부문명과 개최 연도를 기록해 Collection에서 부문별·연도별로 골라 볼 수 있습니다.",
+    "digest": "sha256:bc5ca8ee0b6c077b1347a56fa67366189a2958ef35c795ffe0fce518345d9c78",
+    "path": "ko/baeksang.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "부산국제영화제",
+    "description": "Mydea Community가 정리한 부산국제영화제 수상 영화 목록(1996년부터). 작품마다 부문명과 개최 연도를 기록해 Collection에서 부문별·연도별로 골라 볼 수 있습니다.",
+    "digest": "sha256:882ad1046357b6f324889be94be0fb066e5073b1e558c400f89099802f662eed",
+    "path": "ko/biff.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "청룡영화상",
+    "description": "Mydea Community가 정리한 청룡영화상 수상 영화 목록(2016년부터). 작품마다 부문명과 개최 연도를 기록해 Collection에서 부문별·연도별로 골라 볼 수 있습니다.",
+    "digest": "sha256:70d173f6f20c13863a3ae89d98206519caf0545f6f13143a49881da42fcb9298",
+    "path": "ko/blue-dragon.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "칸 영화제",
+    "description": "Mydea Community가 정리한 칸 영화제 수상 영화 목록(1946년부터). 작품마다 부문명과 개최 연도를 기록해 Collection에서 부문별·연도별로 골라 볼 수 있습니다.",
+    "digest": "sha256:568e4fff98b0eb7ca841fe76732a61694788e3ecc1022e743d248cfc279d0d06",
+    "path": "ko/cannes.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "프라임타임 에미상",
+    "description": "Mydea Community가 정리한 프라임타임 에미상 수상 시리즈 목록(2017년부터). 작품마다 부문명과 개최 연도를 기록해 Collection에서 부문별·연도별로 골라 볼 수 있습니다.",
+    "digest": "sha256:147b195007831f2bf73df3bc6dad0923dc24061df3cffddc93a9c50c84fdaab7",
+    "path": "ko/emmys.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "골든 글로브상",
+    "description": "Mydea Community가 정리한 골든 글로브상 수상 영화·시리즈 목록(2017년부터). 작품마다 부문명과 개최 연도를 기록해 Collection에서 부문별·연도별로 골라 볼 수 있습니다.",
+    "digest": "sha256:ba4087956c4ad6c403ae811151ee101eda23d46d6dc4aad2729004cfe5ef2e39",
+    "path": "ko/golden-globes.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "금마장",
+    "description": "Mydea Community가 정리한 금마장 수상 영화 목록(1962년부터). 작품마다 부문명과 개최 연도를 기록해 Collection에서 부문별·연도별로 골라 볼 수 있습니다.",
+    "digest": "sha256:126c4f2022911faf227fa8557f16ff81ca9a0e85f2adaf138e87f58f43aeddff",
+    "path": "ko/golden-horse.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "홍콩 영화 금상장",
+    "description": "Mydea Community가 정리한 홍콩 영화 금상장 수상 영화 목록(1982년부터). 작품마다 부문명과 개최 연도를 기록해 Collection에서 부문별·연도별로 골라 볼 수 있습니다.",
+    "digest": "sha256:9c2bcb4024fdb9b4a9e69ab777f4ec33abb74ee8c02d7fdd6eb7f34347a5d5c5",
+    "path": "ko/hkfa.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "아카데미상",
+    "description": "Mydea Community가 정리한 아카데미상 수상 영화 목록(2017년부터). 작품마다 부문명과 개최 연도를 기록해 Collection에서 부문별·연도별로 골라 볼 수 있습니다.",
+    "digest": "sha256:74adbebe682b88932468fea0dcccd6fa530936c7b3634f110b1765251ecf7ab8",
+    "path": "ko/oscars.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "선댄스 영화제",
+    "description": "Mydea Community가 정리한 선댄스 영화제 수상 영화 목록(1985년부터). 작품마다 부문명과 개최 연도를 기록해 Collection에서 부문별·연도별로 골라 볼 수 있습니다.",
+    "digest": "sha256:02fbd26347bb6e920f3f7da9452044a4d858d7150ad10c313e0b9a1f48d47447",
+    "path": "ko/sundance.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "토론토 국제 영화제",
+    "description": "Mydea Community가 정리한 토론토 국제 영화제 수상 영화 목록(1978년부터). 작품마다 부문명과 개최 연도를 기록해 Collection에서 부문별·연도별로 골라 볼 수 있습니다.",
+    "digest": "sha256:4431c75b6b5086b4dbaf8e00df34c7339041986ef7e48c01396e07fa964df292",
+    "path": "ko/tiff.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "베니스 국제 영화제",
+    "description": "베니스 국제 영화제 수상작. 각 작품에 상과 개최 연도를 기재하여 Collection에서 상이나 연도별로 고를 수 있습니다.",
+    "digest": "sha256:5a71fac5312168f148d3ec5419e0fdddf31af79b3bc8516ca35fd5c55f8aff51",
+    "path": "ko/venice.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "뉴욕 타임스 — 21세기 최고의 영화 100편",
+    "description": "뉴욕 타임스 “21세기 최고의 영화 100편” 전체 순위로, 원래 순위와 순위표에 표시된 연도를 유지합니다.",
+    "digest": "sha256:0210322d2c4c32d99ba62dbe940a62a7ed5fe826659f2a5f90125ec08bd91623",
+    "path": "ko/nyt-best-movies-21st-century.list.json",
+    "collection": "pool/press",
+    "tags": [
+      "press",
+      "movie",
+      "nytimes"
+    ]
+  },
+  {
+    "title": "뉴욕 타임스 — 21세기 최고의 TV 프로그램 100선",
+    "description": "뉴욕 타임스 “The 100 Best TV Shows of the 21st Century”의 100개 작품을 원래 순위대로 수록합니다.",
+    "digest": "sha256:a305e3e8bd967f28c87f5ef3b8d5f4875fc91ea0c633368206a73ef4739f11d1",
+    "path": "ko/nyt-best-tv-shows-21st-century.list.json",
+    "collection": "pool/press",
+    "tags": [
+      "press",
+      "tv",
+      "nytimes"
+    ]
+  }
+]

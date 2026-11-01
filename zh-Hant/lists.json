@@ -1,0 +1,103 @@
+[
+  {
+    "title": "百想藝術大賞",
+    "description": "Mydea 社群整理的百想藝術大賞得獎影視作品（2017 年起）。每部作品皆註明獎項與屆次年份，可在 Collection 中依獎項或年份篩選。",
+    "digest": "sha256:37ab490f18a1cabcae68a6c60e5bf4e4440843781a9926aa849e31bea4143771",
+    "path": "zh-Hant/baeksang.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "柏林影展",
+    "description": "Mydea 社群整理的柏林影展得獎電影（1951 年起）。每部作品皆註明獎項與屆次年份，可在 Collection 中依獎項或年份篩選。",
+    "digest": "sha256:1f22aead33369b9752f4fb1a19cd41c59dda5b9a65ae2ad91944f0fbc553969a",
+    "path": "zh-Hant/berlinale.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "釜山國際影展",
+    "description": "Mydea 社群整理的釜山國際影展得獎電影（1996 年起）。每部作品皆註明獎項與屆次年份，可在 Collection 中依獎項或年份篩選。",
+    "digest": "sha256:403a26b1e8b2acd1a5c5b03e137f3be7a5ebcbea58a7e19887b5dd6509d2a85e",
+    "path": "zh-Hant/biff.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "青龍電影獎",
+    "description": "Mydea 社群整理的青龍電影獎得獎電影（2016 年起）。每部作品皆註明獎項與屆次年份，可在 Collection 中依獎項或年份篩選。",
+    "digest": "sha256:6b136e851aec2ff54507727b28c499cdfe1c86c2007d4cc9daec3e23ee37a40a",
+    "path": "zh-Hant/blue-dragon.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "坎城影展",
+    "description": "Mydea 社群整理的坎城影展得獎電影（1946 年起）。每部作品皆註明獎項與屆次年份，可在 Collection 中依獎項或年份篩選。",
+    "digest": "sha256:b7be63f55665d99167b301ca155882df7dae0d3b05959c9c245c0d80bc25f57d",
+    "path": "zh-Hant/cannes.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "黃金時段艾美獎",
+    "description": "Mydea 社群整理的黃金時段艾美獎得獎劇集（2017 年起）。每部作品皆註明獎項與屆次年份，可在 Collection 中依獎項或年份篩選。",
+    "digest": "sha256:7909401b0ab6c292066731e0d6ac8fe5ef99efd4bbaba66325578e9f8e5c4445",
+    "path": "zh-Hant/emmys.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "金球獎",
+    "description": "Mydea 社群整理的金球獎得獎影視作品（2017 年起）。每部作品皆註明獎項與屆次年份，可在 Collection 中依獎項或年份篩選。",
+    "digest": "sha256:1342a75760894cc0518f563bedd772dfc106b4cec08ef38b5f33a44808fdbf18",
+    "path": "zh-Hant/golden-globes.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "奧斯卡金像獎",
+    "description": "Mydea 社群整理的奧斯卡金像獎得獎電影（2017 年起）。每部作品皆註明獎項與屆次年份，可在 Collection 中依獎項或年份篩選。",
+    "digest": "sha256:f92a3341a75d5463e979a380bb7d84720633e8f734544aa18ec9e3fd45237441",
+    "path": "zh-Hant/oscars.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "日舞影展",
+    "description": "Mydea 社群整理的日舞影展得獎電影（1985 年起）。每部作品皆註明獎項與屆次年份，可在 Collection 中依獎項或年份篩選。",
+    "digest": "sha256:7143ee12db1efedb297b091ef60d87a510b115da359b0550592dc77a1b66bbed",
+    "path": "zh-Hant/sundance.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "多倫多國際影展",
+    "description": "Mydea 社群整理的多倫多國際影展得獎電影（1978 年起）。每部作品皆註明獎項與屆次年份，可在 Collection 中依獎項或年份篩選。",
+    "digest": "sha256:cab3bc1abfab9d8d36026e8951b29bfe743a87ec817be2e32874706f7d000912",
+    "path": "zh-Hant/tiff.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "威尼斯影展",
+    "description": "Mydea 社群整理的威尼斯影展得獎電影（1932 年起）。每部作品皆註明獎項與屆次年份，可在 Collection 中依獎項或年份篩選。",
+    "digest": "sha256:80ff7b6c3aa1a47ca6aee7523e88de2105924222d636593e437554d7687efc5b",
+    "path": "zh-Hant/venice.list.json",
+    "collection": "pool/awards"
+  },
+  {
+    "title": "紐約時報 — 21世紀100佳電影",
+    "description": "《紐約時報》「21世紀100佳電影」完整榜單，保留原榜單名次及榜單標示年份。",
+    "digest": "sha256:9351d8588ff3294e8901fad78675e654d1c48b194550bca0b76c8115663f3b02",
+    "path": "zh-Hant/nyt-best-movies-21st-century.list.json",
+    "collection": "pool/press",
+    "tags": [
+      "press",
+      "movie",
+      "nytimes"
+    ]
+  },
+  {
+    "title": "紐約時報 — 21世紀最佳100部電視劇",
+    "description": "《紐約時報》「21世紀最佳100部電視劇」完整榜單，按原榜單名次排列。",
+    "digest": "sha256:446402003abc3112034f379ec9a18c855952339870fdafb0d2e4bc9da9d87581",
+    "path": "zh-Hant/nyt-best-tv-shows-21st-century.list.json",
+    "collection": "pool/press",
+    "tags": [
+      "press",
+      "tv",
+      "nytimes"
+    ]
+  }
+]
